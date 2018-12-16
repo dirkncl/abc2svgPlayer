@@ -1,0 +1,304 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<style>
+/* edit.css - file used in the abc2svg editor */
+@page {margin-top: 1cm; margin-left: 0cm; margin-right: 0cm}
+text tspan {white-space:pre; fill:currentColor}
+svg {display:block}
+.abcr {fill: #d00000; fill-opacity: 0; z-index: 15}
+@media screen {
+	body, html {height: 90%}
+	text, path {pointer-events: none}
+	#dleft {
+  /*
+		width: auto;
+		position: absolute; 
+    top: 0; 
+    bottom:0; 
+    left: 0;
+		background-color:#faf0e6;
+		z-index: 2;
+		overflow: auto;
+  */
+		width: 800px;
+    height: 80px;
+		position: fixed; 
+    top: 0; 
+    bottom:0; 
+  	background-color:#faf0e6;
+		z-index: 200;
+		overflow: auto;
+	  
+	}
+	#nav {
+		position:relative;
+		padding: 0;
+		margin: 2px 0 0 2px;
+	}
+	.dropbutton {
+		float: left;
+		display:inline-block;
+		width: 90px;
+		text-align: center;
+	}
+	.dropbutton:hover { outline: solid; outline-width: 2px }
+	.dropbutton:hover > ul { display: block }
+	.droplinks {
+		list-style-type: none;
+		position: absolute;
+		min-width: 80px;
+		background-color: #e0e0e0;
+		display: none;
+		z-index: 20;
+		text-align: left;
+		padding: 0;
+		margin: 0;
+	}
+	.droplinks li:hover { outline: solid; outline-width: 2px }
+	.droplinks li { padding: 0 5px 0 5px; margin: 2px }
+	#dright {
+  /*
+		width: 80%;
+		max-width: 800px;
+		position: absolute; 
+    top: 0; 
+    bottom:0; 
+    right:0;
+		background-color: white;
+		overflow: auto
+  */
+		width: 100%;
+		max-width: 800px;
+		position: absolute; 
+    top: 100px; 
+    /*bottom:0; 
+    right:0;*/
+		background-color: white;
+		overflow: auto
+  
+	}
+	#dright:hover {z-index: 10 !important}
+	#dright:active {z-index: 10 !important}
+	.popup {
+		position: absolute; top: 0; right: 20px;
+		padding: 10px;
+		background-color:#e0e0e0;
+		border-radius: 5px;
+		visibility: hidden;
+		z-index:20;
+	}
+	.close {
+		position: absolute;
+		top: 10px;
+		right: 20px;
+		font-size: 20px;
+		font-weight: bold;
+		color: red;
+	}
+	#abckbd td {
+		border: 1px solid black;
+		padding: 0.5rem;
+		text-align: center;
+	}
+	#ctxMenu {
+		position:absolute;
+		display:none;
+		left:0px;
+		top:0px;
+		height:20px;
+		width:40px;
+		padding:0;
+		margin:0;
+		border:1px solid;
+		background-color:white;
+		font-weight:normal;
+		white-space:nowrap;
+		z-index:100;
+	}
+	#ctxMenu:hover > .droplinks {
+		display:block;
+	}
+	#ctxMenu:before {
+		content:attr(title);
+	}
+}
+@media print {
+	#dleft, .popup { display: none }
+	body {
+		margin:0; padding:0; border:0;
+		background-color: white;
+	}
+	#dright { margin:0; padding:0; border:0 }
+	.newpage { page-break-before: always }
+	.nobrk { page-break-inside: avoid }
+}
+@page{margin:0}
+
+</style>
+
+<script src="edit-1.js" type="text/javascript" async="true"></script>
+<script src="abc2svg-1.js" type="text/javascript" async="true"></script>
+
+<title>ABC edit with abc2svg</title>
+
+</head>
+<body ontouchstart="">
+
+<!-- left -->
+<div id="dleft"  style="display:none">
+
+<!-- menu bar -->
+    <ul id="nav"  style="display:none">
+	<li class="dropbutton"><label id="f">File</label>
+		<ul class="droplinks">
+		    <!--<li><input type="file" id="abcfile" accept="text/*"-->
+		    <li><input type="file" id="abcfile" accept=".abc"
+				style="display:none" onchange="loadtune()"/>
+			<label id="fl" for="abcfile">Load file</label>
+		    </li>
+		    <li><label id="saveas">Save file</label></li>
+		</ul>
+	</li>
+	<li class="dropbutton"><label id="pr">Preferences</label>
+		<ul class="droplinks">
+			<li><label id="fs">Font size</label>
+			    <input type="number" id="fontsize"
+				 min="10" max="20" value="14" onchange="setfont()"/>
+			</li>
+			<li id="playdiv1" style="display: none">
+				<label id="sful">Sound font URL</label>
+				 <input id="sfu" type="text" maxlength="120"
+					size="50"
+					onblur="set_sfu(this.value)"/>
+			</li>
+			<li id="playdiv3" style="display: none">
+				<label id="gv">Volume</label>
+				 <input id="gvol" type="range" min="1" max="10" value="7"
+					onchange="set_vol(this.value / 10)"/>
+				<label id="gvl">0.70</label>
+			</li>
+			<li id="playdiv4" style="display: none">
+				<label id="sp">Speed</label>
+				 <input id="spv" type="range"
+					min="1" max="20" value="10" step=".5"
+					onchange="set_speed(this.value)"/>
+				<label id="spvl">1</label>
+			</li>
+		</ul>
+	</li>
+	<li class="dropbutton"><label id="lg">Language</label>
+		<ul class="droplinks">
+		<li onclick="loadlang('de')">Deutsch</li>
+		<li onclick="loadlang('en')">English</li>
+		<li onclick="loadlang('fr')">Français</li>
+		<li onclick="loadlang('it')">Italiano</li>
+		<li onclick="loadlang('pt_BR')">Português do Brasil</li>
+		</ul>
+	</li>
+	<li class="dropbutton"><label id="h">Help</label>
+		<ul class="droplinks">
+			<li id="ha" onclick="popshow('help', true)">Help</li>
+			<li><a id="df" target="_blank"
+ href="http://moinejf.free.fr/abcm2ps-doc/features.xhtml">abc2svg features</a>
+			</li>
+			<li><a id="dp" target="_blank"
+ href="http://moinejf.free.fr/abcm2ps-doc/index.html">abc2svg parameters</a>
+			</li>
+			<li id="a" onclick="popshow('about', true)">About</li>
+		</ul>
+	</li>
+    </ul>
+<br/>
+
+<!-- buttons -->
+<p style="display:none">
+<label id="b">ABC files:</label>
+<input id="s0" type="button" style="display: inline; background-color: #80ff80"
+	value="(noname)"/>
+<input id="s1" type="button" style="display: none; background-color: #ffd0d0"
+	value=""/>
+<label id="er" onclick="popshow('errlist', true)"
+ style="display: none; background: #ff8080">Errors</label>
+
+<!-- ABC source in textarea (main and include) -->
+</p>
+<textarea id="source" rows="40" cols="73" wrap="off"
+	style="font: 14px monospace; display: none"
+	ondrop="dropped(event)" ondragenter="drag_over(event)"
+	ondragover="drag_over(event)"
+	oninput="src_change()"></textarea>
+<textarea id="src1" rows="40" cols="73" wrap="off"
+	style="font: 14px monospace; display: none"
+	oninput="src_change()"></textarea>
+</div>
+
+<!-- right - needed for the scrollbars -->
+<div id="dright">
+
+<!-- context menu -->
+<div id="ctxMenu" title="Play">
+	<ul class="droplinks">
+	<li id="cmpa" onclick="play_tune(-1)">All</li>
+	<li id="cmpt" onclick="play_tune(0)">Tune</li>
+	<li id="cmps" onclick="play_tune(1)">Selection</li>
+	<li id="cmpl" onclick="play_tune(2)">Loop</li>
+	<li id="cmpc" onclick="play_tune(3)">Continue</li>
+	</ul>
+</div>
+
+<!-- rendering area -->
+<div id="target">
+<!--
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xml:space="preserve"
+	width="8.3in" height="2in" viewBox="0 0 595 144">
+  <text x="250" y="100" font-family="serif" font-size="12">(void)</text>
+</svg>
+-->
+</div>
+</div>
+
+<!-- error popup window -->
+<div id="errlist" class="popup" style="width: 500px">
+<div class="close" onclick="popshow('errlist')">x</div>
+<div id="diverr">
+</div>
+</div>
+
+<!-- help popup window -->
+<div id="help" class="popup" style="width: 550px">
+<div class="close" onclick="popshow('help')">x</div>
+<ul id="hlp">
+<li>You may either:
+    <ul>
+	<li>directly write ABC code in the text area, or</li>
+	<li>paste ABC code in the text area, or</li>
+	<li>load a local ABC file ('Load a ABC file' button), or</li>
+	<li>drag &amp; drop a local file from your file manager
+		or a selected text to the text area.</li>
+    </ul></li>
+<li>You may change at will the ABC code in the text area.<br/>
+	Rendering is done 2 seconds later.</li>
+<li>The 'Print' button of the browser outputs the rendering area.</li>
+<li>You may select part of the tunes either from the text area (click and move)
+	or from the rendering area.<br/>
+	In the latter case, a left click on a music element defines the
+	start of the selection, a right click defines the selection end.<br/>
+	If your browser supports playing, a right click outside the music
+	raises the play menu.</li>
+</ul>
+</div>
+
+<!-- about popup window -->
+<div id="about" class="popup" style="width: 350px">
+<div class="close" onclick="popshow('about')">x</div>
+<p id="abc2svg">abc2svg</p>
+<p>Copyright &#x00A9; 2016-2018 Jean-François Moine</p>
+</div>
+
+</body>
+</html>
