@@ -1,0 +1,80 @@
+%abc-2.1
+% Tourdion.abc   -*- abc -*-
+%
+% Written for abcm2ps and abcMIDI:
+% http://abcplus.sourceforge.net
+% Tested with abcm2ps-8.12.3 and abcMIDI-2016.07.20
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 15, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c Tourdion.abc
+% To make a MIDI file:
+%       abc2midi Tourdion.abc
+
+%%format choral
+%%pagescale 0.7
+
+X: 1
+T: Tourdion
+C: Pierre Attaignant (c.1494 - c.1551)
+M: 3/2
+L: 1/4
+Q: 1/2 = 160
+%%score [S|A|T|B]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+%%MIDI program 4 53
+V: S clef=treble   name="Soprano"
+V: A clef=treble   name="Alto"
+V: T clef=treble-8 name="Tenor"
+V: B clef=bass     name="Bass" octave=-2
+P: AA
+K: Bm
+%
+P: A
+[V: S] |: \
+[V: A] |: \
+[V: T] |: \
+[V: B] |: \
+%
+[V: S] !mp!EFGAGF |E3 FGA|BAGGAF |(G2FE)D2|
+w: Quand je bois du vin clai-ret, a-mi tout \
+w: tour-ne tour-ne tour-ne tour - - ne,
+[V: A] !mp!B,4 B,2|E4 E2 |D4 E2  |E2 A4   |
+w: Le bon vin nous a ren- du gais,
+[V: T] !mp!G4 E2  |B4 B2 |B2B2=c2|B4 A2   |
+w: Bu- vons bien, bu- vons mes a- mis, trin-
+[V: B] !mp!e4 e2  |e4 e2 |g2b2a2 |e2f4    |
+w: Bu- vons bien, bu- vons mes a- mis, trin-
+%
+[V: S] EFGAGF|E2G2F2      |E4 D2    |E6 ::
+w: aus-si d\'e-sor-mais je bois An-jou ou Ar-bois.
+[V: A] G4 E2 |(B,A,B,C) D2|B,2 B,4  |B,6::
+w: chan-tons, ou-bli-ons nos pei-nes, chan-tons!
+[V: T] B4 B2 |G4 A2       |G2 (FEF2)|E6 ::
+w: quons, bu-vons, gai-ment chan - - tons!
+[V: B] e4 e2 |e4 d2       |e2 B4    |e6 ::
+w: quons, bu-vons, gai-ment chan-tons!
+%
+[V: S] !fff!B3 AB=c|B4 B2|d=cBAGF|(G3F) E2|
+w: chan- tons et bu-vons, \`a ce fla-con fai-sons la guer -re,
+[V: A] !fff!G4 G2  |G4 G2|F4 F2  |E4E2    |
+w: en man-geant d'un gras jam-bon, \`a
+[V: T] !fff!e4 e2  |d4 d2|d4 d2  |B4 B2   |
+w: en man-geant d'un gras jam-bon, \`a
+[V: B] !fff!e4 e2  |g4 g2|d4 d2  |e4 e2   |
+w: en man-geant d'un gras jam-bon, \`a
+%
+[V: S] B3 AB=c|B2 (AG) F2|E4 D2  |E6 !D.C.!:|
+w: chan-tons et bu-vons, mes a-mis, bu-vons donc!
+[V: A] D4 D2  |D4 D2     |B,2 B,4|B,6:|
+w: ce fla-con fai-sons la guerre!
+[V: T] B4 B2  |B4 A2     |G2 F4  |E6 :|
+w: ce fla-con fai-sons la guerre!
+[V: B] g4 g2  |g4 d2     |e2 B4  |e6 :|
+w: ce fla-con fai-sons la guerre!
+%
+% End of file Tourdion.abc

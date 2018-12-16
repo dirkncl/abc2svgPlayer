@@ -1,0 +1,98 @@
+% Ave_Regina_Coelorum.abp   -*- abc -*-
+%
+% Written for abcm2ps and abcMIDI:
+% http://abcplus.sourceforge.net
+% Tested with abcm2ps-8.12.3 and abcMIDI-2016.07.20
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 15, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c Ave_Regina_Coelorum.abc
+% To make a MIDI file:
+%       abc2midi Ave_Regina_Coelorum.abc
+
+%%format choral
+%%pagescale 0.85
+
+X: 1
+T: Ave Regina Coelorum
+C: Guillaume Dufay (1400? - 1474)
+M: 3/2
+L: 1/2
+Q: 1/2=120
+%%score [1 | 2 | 3]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+V: 1 clef=treble   name="Superius" sname="S"
+V: 2 clef=treble-8 name="Contra"   sname="C"
+V: 3 clef=treble-8 name="Tenor"    sname="T"
+U: h = !fermata!
+K: C
+%
+% 1 - 5
+%
+[V: 1] (A3|B2)A|^G3|A2G|A B/A/ G/F/|
+w: A --ve re- gi- na - - coe -
+[V: 2] (D3|d3) |^c3|d2B|A2B        |
+w: A - ve re- gi- na coe-
+[V: 3] (A3|G2)F|E3 |D2E|F2E        |
+w: A -- ve re- gi- na coe-
+%
+% 6 - 12
+%
+[V: 1] E/F/ D/ ^C B,/|D2z|E2A|(GF)E|(DF)G|A2G     |A2z|
+w: lo - - - - rum, A- ve Do - mi- na - an- ge- lo- rum,
+[V: 2] (BA)^G        |A2z|c2c|d2A  |(Dd)c|(fe)d   |e3 |
+w: lo - - rum, A- ve Do- mi na - an ge - lo- rum,
+[V: 3] (GF)E         |D2z|A2A|B2c  |d2e  |(dc)_B  |A2z|
+w: lo - - rum, A- ve Do- mi- na an- ge - lo- rum,
+%
+% 13 - 19
+%
+[V: 1] D3 |C2 _B,|A, _B,2|A,2z|DCD|E2F|D^C2|
+w: Sal- ve ra- dix san- cta, Ex qua mun- do lux est or-
+[V: 2] zf2|F2G   |Dd2    |D2z |AGA|B2A|A^G2|
+w: Sal- ve ra- dix san- cta, Ex qua mun- do lux est or-
+[V: 3] _B3|A2G   |FG2    |A2z |DEF|G2D|FE2 |
+w: Sal- ve ra- dix san- cta, Ex qua mun- do lux est or-
+%
+% 20 - 26
+%
+[V: 1] D2z|F3 |E2D   |DE2  |D2z |AAG   |A2F|
+w: ta. Gau- de glo- ri- o- sa su- per om- nes spe-
+[V: 2] A2z|D3 |A2D   |DA2  |D2z |ded   |c2c|
+w: ta. Gau- de glo- ri- o- sa su- per om- nes spe-
+[V: 3] D2z|d3 |^c2d  |B^c2 |d2z |dc_B  |A2A|
+w: ta. Gau- de glo- ri- o- sa su- per om- nes spe-
+%
+% 27 - 32
+%
+[V: 1] ED2|E2z|A2G|F2E|(CF)E|F2z|
+w: ci- o- sa, Va- le, val- de de - co- ra
+[V: 2] BA2|B2z|d2c|d2G|A2B  |c2z|
+w: ci- o- sa, Va- le, val- de de- co- ra
+[V: 3] GF2|E2z|D2E|D2C|(FA)G|F2z|
+w: ci- o- sa, Va- le, val- de de - co- ra
+%
+% 33 - 38
+%
+[V: 1] AAG|(FE)G|A3|_B/ A G/ F|E A/G/ F/E/|D A,/D/ ^C/B,/|
+w: et pro no- bis - sem- per Chri - - - stum - - ex - o - - - -
+[V: 2] ffd|c2d  |e3|fe/ d c/  |B2A        |(BA)^G        |
+w: et pro no- bis sem- per Chri - - - stum ex- o - -
+[V: 3] FFG|A2_B|A3 |D3        |E2F        |(GF)E         |
+w: et pro no- bis sem- per Chri- stum ex- o - -
+%
+% 39 - 46
+%
+[V: 1] D2z|E3    |F2G  |A2G     |A _B/A/ G/F/|(ED2)|(^C3|hD3)|]
+w: ra. Al - le ------- lu - ja._
+[V: 2] A2d|(cB)A |D2G  |D2d     |(ed)c       |B2A  |^G3 |hA3 |]
+w: ra. Al ---- le ----- lu - ja._
+[V: 3] D2z|(AB)c |d2e  |(dc)_B  |A2A         |G2F  |E3  |hD3 |]
+w: ra. Al -- le ------ lu - ja._
+%
+% End of file Ave_Regina_Coelorum.abc
+

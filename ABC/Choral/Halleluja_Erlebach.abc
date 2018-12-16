@@ -1,0 +1,80 @@
+%abc-2.1
+%
+% Halleluja_Erlebach.abc  -*- abc -*-
+%
+% Written for abcm2ps and abc2midi:
+% http://abcplus.sourceforge.net
+% Tested with abcm2ps-8.12.3 and abcMIDI-2016.07.20
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 16, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c Halleluja_Erlebach.abc
+% To make a MIDI file:
+%       abc2midi Halleluja_Erlebach.abc
+
+%%format choral
+%%pagescale 0.7
+
+X: 1
+T: Halleluja
+C: Ph. E. Erlebach (1657-1714)
+Z: Edited by Guido Gonzato, August 14, 2010
+L: 1/8
+M: C
+Q: "Allegro" 1/4=100
+%%staves [S A T B]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+%%MIDI program 4 53
+V: S clef=treble   name="Soprano" sname="S"
+V: A clef=treble   name="Alto"    sname="A"
+V: T clef=treble-8 name="Tenor"   sname="T"
+V: B clef=bass     name="Bass"    sname="B"
+K: C
+%
+% 1 - 3
+%
+[V: S] z8                     |z8                |z8                      |
+[V: A] z C E C (G F/E/ F E/D/ |E) G G> ^F G D D D|(E D/C/ D E F) E D> D   |
+w: Hal- le- lu- ja, ______ Hal- le- luja, * Hal- le- lu- ja, _____ Hal- le- lu-
+[V: T] z8                     |z4 z G B G        |(c B/A/ B A/G/ A) c c> B|
+w: Hal- le- lu- ja,______ Hal- le- lu-
+[V: B] z8                     |z8                |z8                      |
+%
+% 4 - 6
+%
+[V: S] z c G c (B A/G/ A> B   |c) B A> A G B d B |(e d/c/ d c/B/ c) c c> B|
+w: Hal- le- lu- ja, _____ Hal- le- luja, * Hal- le- lu- ja, ______ Hal- le- lu-
+[V: A] E G G G G G F> F       |G G E> D D G G G  |G2 z2 z E A G           |
+w: ja, Hal- le- lu- ja, Hal- le- lu- ja, Hal- le- luja, * Hal- le- lu- ja, Hal- le- lu-
+[V: T] c e c e (d> e c> d     |G) d c> A B d d d |c2 z2 z c f c           |
+w: ja, Hal- le- lu- ja, ____ Hal- le- luja, * Hal- le- lu- ja, Hal- le- lu-
+[V: B] z C, E, C, (G, F,/E,/ F, E,/D,/ |E,) G, G,> ^F, G, G, B, G,|(C B,/A,/ B, A,/G,/ A,) A, F, G,|
+w: Hal- le- lu- ja, ______ Hal- le- luja, * Hal- le- lu- ja, ______ Hal- le- lu-
+%
+% 7 - 9
+%
+[V: S] c c c c (B A/G/ A B    |c d/e/ f e/d/ e) d c> c| B d d d d2 z2         |
+w: ja, Hal- le- lu- ja, ___________ Hal- le- lu- ja,- Hal- le- lu- ja,
+[V: A] G6 z2                  | z4 z G G ^F           | G6 z2                 |
+w: ja, Hal- le- lu- ja,
+[V: T] e e c e d2 z2          |z4 z B c d             |d B d B (e d/c/ d c/B/ |
+w: ja, Hal- le- lu- ja, Hal- le- lu- ja, Hal- le- lu- ja, _____
+[V: B] C, C, E, C, (G, F,/E,/ F, E,/D,/ |E, D,/C,/ D, C,/B,,/ C,) B,, A,, D, |G,, G, B, G, (C B,/A,/ B, A,/G,/|
+w: ja, Hal- le- lu- ja, ____________ Hal- le- lu- ja, Hal- le- lu- ja, _____
+%
+% 10 - 12
+%
+[V: S] z e d> d c e e e     |d d d (c/B/) c c c> B         |c8|]
+w: Hal- le- lu- ja, Hal- le- lu- ja, Hal- le- lu-* ja, Hal- le- lu- ja!
+[V: A] z G A (G/F/) E G G G |G A A (G/F/) G G G> G         |G8|]
+w: Hal- le- lu-* ja, Hal- le- lu- ja, Hal- le- lu-* ja, Hal- le- lu- ja!
+[V: T] c) c c> B c c c c    |(B A/G/ A/B/c/d/ c) e d>d     |e8|]
+w: * Hal- le- lu- ja, Hal- le- lu- ja, _______ Hal- le- lu- ja!
+[V: B] A,) C F, G, C, C, E, C,|(G, F,/E,/ F, E,/D,/ E,) C, G,>G,,|C,8|]
+w: * Hal- le- lu- ja, Hal- le- lu- ja, ______ Hal- le- lu- ja!
+%
+% End of file Halleluja_Erlebach.abc

@@ -1,0 +1,103 @@
+% Ave_Verum.abc    -*- abc -*-
+%
+% Written for abcpp, abcm2ps and abc2midi:
+% http://abcplus.sourceforge.net
+% Tested with abcm2ps-8.12.3 and abcMIDI-2016.07.20
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 15, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c Ave_Verum.abc
+% To make a MIDI file:
+%       abc2midi Ave_Verum.abc
+
+%%format choral
+%%pagescale 0.8
+
+X: 1
+T: Ave Verum
+T: (choral parts)
+C: W.A. Mozart (1756-1791)
+Z: Guido Gonzato, August 14, 2010
+L: 1/4
+M: C
+Q: 1/4=100 " Adagio"
+%%staves [S A T B]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+%%MIDI program 4 53
+V: S clef=treble   name="Soprano" sname="A"
+V: A clef=treble   name="Alto"    sname="A"
+V: T clef=treble-8 name="Tenor"   sname="T"
+V: B clef=bass     name="Bass"    sname="B"
+K: D
+%
+% 1 - 8
+%
+[V: S] A2 (dF)|(A^G ) =G2|(GB) (AG)|(GF) F2|E3 E|FFGG|(G2 F)F|E4|
+w: A- ve, * a - ve, ve - rum * cor - pus, na tum de Mari - a vir - gi ne.
+[V: A] F2 F2  |E2 E2     |(EG) (AF)|(ED) D2|C3 C|DDEE|(E2 D)D|C4|
+w: A- ve, a-  ve, ve - rum * cor - pus, na tum de Mari - a vir - gi ne.
+[V: T] A2 A2  |B2 B2     |A2 A2    |A2 A2  |A3 A|AAAA|A3 A   |A4|
+w: A- ve, a-  ve, ve- rum  cor- pus, na- tum de Mari - a vir- gi ne.
+[V: B] D,2D,2 |D,2 D,2   |C,2 C,2  |D,2 D,2|A,,3 A,,|D,D,C,C,|D,3 D,|A,,4|
+w: A- ve, a-  ve, ve- rum  cor- pus, na- tum de Mari -  a vir- gi ne.
+%
+% 9 - 16
+%
+[V: S] E3 A|(A^G) G2|(E ^G2)B|(BA)AA  |(d4   |(d) c)BA|(A2 ^G)G|A4|
+w: Ve- re pas - sum im - mo la - tum in cru- - - ce pro ho - mi ne.
+[V: A] E3 E|E2 E2   |E3 ^G   |(^GA) A2|z2 ^G2|A2 FF   |E3 E    |E4| 
+w: Ve- re pas- sum im- mo la - tum in cru- ce pro ho- mi ne.
+[V: T] c3 c|(cd) d2 |B3 d    |(dc) c2 |z2 d2 |e2 dc   |B3 B    |c4|
+w: Ve- re pas - sum im- mo la - tum in cru- ce pro ho- mi ne.
+[V: B] A,3 A,|(A,B,) B,2 |z2 E,E,|(^E,F,) F,2|z2 B,,2 |C,2 D,D,|E,3 E,|A,,4|
+w: Ve- re pas - sum im- mo la - tum in cru- ce pro ho- mi ne.
+%
+% 17 - 25
+%
+[V: S] z4|z4|z4|A3 A|(A_B) B2|(_Bd) (=cB)|(_BA) A2 |G3 G |(G_B) AG |
+w: Cu- jus la - tus per - fo - ra - tum un- da flu - xit cum 
+[V: A] z4|z4|z4|E3 E|E2 E2   |E3 E       |(E=F) F2 |D3 D |(E=F) EE |
+w: Cu- jus la- tus per- fo ra - tum un- da flu - xit cum 
+[V: T] z4|z4|z4|c3 c|c2 c-=c |(=c_B) (AG)|(GA) A2  |=B3 B|(^cd) ec |
+w: Cu- jus la - tus per - fo - ra - tum un- da flu - xit cum
+[V: B] z4|z4|z4|A,3 A,|(A,G,) G,2|=C,3 C,|(=C,=F,) F,2|=F,3 F,|(E,D,) ^C, A,,|
+w: Cu- jus la - tus per- fo- ra - tum un- da flu - xit cum
+%
+% 26 - 29
+%
+[V: S] (G2 =F E)   |E2 z2 |^F3 F|(FE) (DG) |
+w: san - gui ne es- to  no - bis_ 
+[V: A] (E2 D/^C/) D|^C2 z2|D3 D |(DC) (B,E)|
+w: san - - gui ne es- to no - bis *
+[V: T] (^c2d) =B   |E2 z2 |z4   |B3 B      |
+w: san - gui ne es- to
+[V: B] (_B,,2A,,) ^G,,|A,,2 z2|z4|G,3 G,   |
+w: san - gui ne es- to
+%
+% 30 - 33
+%
+[V: S] G3 G     |(GF) EA|A4       |(AG) AB|
+w: prae- gus ta - tum in mor- - - tis ex- 
+[V: A] E3 E     |(ED) CF|F4-      |(FG) FE|
+w: prae- gus- ta - tum in mor- - - tis ex-
+[V: T] (BA) (Gc)|c3 c   |(cB) (Ad)|d2 dd  |
+w: no - bis * prae- gus- ta - tum in mor- tis ex 
+[V: B] (G,F,) (E,A,)|A,3 A,|(A,G,) F,B,|B,2 A,^G, |
+w: no - bis * prae- gus- ta -  tum in mor- tis ex
+%
+% 34 -
+%
+[V: S] (F2 E>F)|G2 G2|(d4   |d2 ^d2 |e B ^c =d|c B/A/) dG|(F2E>E)|D4 |]
+w: a - mi ne, in mor - - - - - - - - - tis ex- a - mi- ne.
+[V: A] (D2C>C) |D2 z2|z2 F2 |(G2 F2 |E4       |E D/C/) DD|(D2C>C)|D4 |]
+w:  a- - mi ne, in mor - - - - - tis ex- a - mi- ne.
+[V: T] A3 A    |G2 z2|z2 =c2|(d2 =c2|=B d ^c B|A2) AG    |(A2G>G)|F4 |]
+w: a- mi ne, in mor - - - - - - tis ex- a - mi- ne.
+[V: B] A,2 A,,2|B,2 z2|z2 A,2|(_B,2 A,2|^G,4  |G,2) F,B,,|A,,3 A,,|D,4 |]
+w: a- mi ne, in mor - - - tis ex- a- mi- ne.
+%
+% End of file Ave_Verum_Mozart.abc

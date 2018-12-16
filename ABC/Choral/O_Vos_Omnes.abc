@@ -1,0 +1,136 @@
+%abc-2.1
+%
+% O_Vos_Omnes.abc    -*- abc -*- 
+%
+% Written for abcm2ps and abc2midi:
+% http://abcplus.sourceforge.net
+% Tested with abcm2ps-8.12.3 and abcMIDI-2016.07.20
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 15, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c O_Vos_Omnes.abc
+% To make a MIDI file:
+%       abc2midi O_Vos_Omnes.abc
+
+%%format choral
+%%pagescale 0.8
+
+X: 1
+T: O vos omnes
+C: Carlo Gesualdo (c. 1561 - 1613)
+Z: Guido Gonzato, August 14, 2010
+M: C|
+L: 1/4
+Q: 1/4 = 80
+%%score [S | A | TI | TII | B]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+%%MIDI program 4 53
+%%MIDI program 5 53
+V: S   clef=treble   name="Soprano"  sname="S"
+V: A   clef=treble   name="Alto"     sname="A"
+V: TI  clef=treble-8 name="Tenor I"  sname="TI"
+V: TII clef=treble-8 name="Tenor II" sname="TII"
+V: B   clef=bass     name="Bass"     sname="B"
+U: H = !fermata!
+P: ABCB
+K: F
+%
+% 1 - 6
+%
+P:A
+[V: S] z4   |z4    |ze2e    |A4  |^c4 |zc2c|
+w: O vos om-nes, qui trans-
+[V: A] G4   |E4    |zA2A    |E4  |A4  |zA2G|
+w: O vos, o vos om-nes, qui trans-
+[V: TI] e4  |c4    |z^c2c   |^c4 |e4  |zf2c|
+w: O vos, o vos om-nes, qui trans-
+[V: TII] c4 |G4    |ze2E    |A4  |A4  |zc2A|
+w: O vos, o vos om-nes, qui trans-
+[V: B]  C,4-|C,2C,2|zA,,2A,,|A,,4|A,,4|zF,,2F,,|
+w: O_ vos, o vos om-nes, qui trans-
+%
+% 7 - 9
+%
+[V: S]  [M:3/2] c3c2G     |A2A2zd    |d3dG2-  |
+w: i-tis per vi-am, at-ten-di-te
+[V: A]  [M:3/2] F2G2G2    |^F2F2zB   |B>BBF2_E|
+w: i-tis per vi-am, at-ten-di-te et vi-
+[V: TI] [M:3/2] c2c3c     |A2A2zB    |f3BB2   |
+w: i-tis per vi-am, at-ten-di-te
+[V: TII][M:3/2] A2G2G2    |d2d2zF    |B>BF2DG-|
+w: i-tis per vi-am, at-ten-di-te, at-ten-
+[V: B]  [M:3/2] F,2_E,2E,2|D,2D,2zB,,|B,,3B,,B,,2|
+w: i-tis per vi-am, at-ten-di-te
+%
+% 10 - 11
+%
+[V: S]  G2_e3e                   |e2e4   [|
+w: _ et vi-de-te
+[V: A] (B/c/ d2 c/=B/ c3/2 B//A//|^GA3G2)[|
+w: de----------te
+[V: TI] ddg4                     |e6     [|
+w: et vi-de-te
+[V: TII] GB=Bc2G                 |c4=B2  [|
+w: - di-te et vi-de-te
+[V: B] G,,3C,C,2                 |E,6    [|
+w: et vi-de-te
+%
+% 12 - 16
+%
+P:B
+[V: S]   [M:C|] !segno!z4|B2G2     |c2A2            |^FG2A-|AA=B2     |
+w: si est do-lor, si est do - lor, si
+[V: A]   [M:C|] z4       |GF2 (E/D/|C/D/ E-E)D      |D2E2  |(^F2E2-   |
+w: si est do -----lor, si est do -
+[V: TI]  [M:C|] z4       |d3 c     |A2A2            |B2c2  |(^cd2c/=B/|
+w: si est do-lor, si est do----
+[V: TII] [M:C|] E3F      |G4       |E2zA-           |AGz2  |^F2^G2    |
+w: si est do-lor, do - lor, si est,
+[V: B]   [M:C|] z2A,,2   |B,,3(C,- |C, B,,/A,,/ F,2)|D,2z2 |z4        |
+w: si est do ----lor,
+%
+% 17 - 22
+%
+[V: S]  A2A2        |^G2ze- |ed2c-|cB=B2|=Bc2B |B2A2 |
+w: est do-lor, si - est do - lor si-cut do-lor me-us,
+[V: A] E)Dz2        |z2A2-  |A2G2 |F2G^G|^GA2G |G2^F2|
+w: -lor, si - est do-lor si-cut do-lor me-us,
+[V: TI] c =B/A/ e2- |e2)e2  |f2_e2|d2ee-|eee>=B|d2d2 |
+w: -----lor, si est do-lor si - cut do-lor me-us,
+[V: TII] A2c2       |=B2A2- |A2z2 |z2E2 |EE2E  |D2D2 |
+w: si est do-lor - si-cut do-lor me-us,
+[V: B] F,2E,2-      |E,2^C,2|D,2z2|z4   |z4    |z2z2 |
+w: si est - do-lor
+%
+% 23 - 25
+%
+[V: S]  ^F2F2   |[M:3/2] ^F2F4    |[M:C|] "@-40,40Sec. volta"A2!fine!HA2|]
+w: si-cut do-lor me-us.
+[V: A] ^D2DE-   |[M:3/2] E^D=D4-  |[M:C|] D2H^C2                        |]
+w: si-cut do - lor me - us.
+[V: TI] =B2B2-  |[M:3/2] B2 =B3D  |[M:C|] A2HA2                         |]
+w: si-cut - do-lor me-us.
+[V: TII] ^F2FG- |[M:3/2] G^FF2F2  |[M:C|] F2HE2                         |]
+w: si-cut do - lor, do-lor me-us.
+[V: B] =B,,2B,,2|[M:3/2] =B,,2B,,4|[M:C|] A,,2HA,,2                     |]
+w: si-cut do-lor me-us.
+%
+% 26 - 30
+%
+P:C
+[V: S]  zdd2-    |ddG2-      |G2_e2-        |_ee=e2           |!D.S.!e4|
+w: at-ten - di-te - et - vi-de-te
+[V: A] zDB>B     |BF2_E      |(B/c/ d2 c/=B/|c3/2 =B//A// ^GA-|A2)^G2  |
+w: at-ten-di-te et vi-de ---------- te
+[V: TI] zFf2-    |fBB2       |ddg2-         |g2e2-            |e4      |
+w: at-ten - di-te et vi-de - te -
+[V: TII] zD2B/>B/|F2DG-      |GB=Bc-        |cGc2-            |c2=B2   |
+w: at- ten-di-te, at-ten - di-te et - vi-de - te
+[V: B] zB,,B,,2- |B,,B,,B,,2 |G,,3C,        |C,2E,2-          |E,4     |
+w: at-ten - di-te et vi-de-te_
+%
+% End of file O_Vos_Omnes.abc

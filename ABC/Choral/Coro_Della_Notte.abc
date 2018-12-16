@@ -1,0 +1,116 @@
+% Coro_Della_Notte.abp    -*- abc -*-
+%
+% Written for abcpp, abcm2ps and abc2midi:
+% http://abcplus.sourceforge.net
+% Tested with abcm2ps-8.12.3 and abcMIDI-2016.07.20
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 16, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c Coro_Della_Notte.abc
+% To make a MIDI file:
+%       abc2midi Coro_Della_Notte.abc
+
+%%format choral
+%%pagescale 0.85
+%%deco rall 4 pf   20 0 0 rall.
+
+X: 1
+T: Coro della notte
+C: Pietro Alessandro Yon (1866 - 1943)
+M: 4/4
+L: 1/4
+Q: "Largo" 1/4 = 50
+Z: Translation of the lyrics:
+Z: Sleep, the Heavens are watching over you.
+Z: Sleep, your face brights with a golden ray of light.
+Z: Sleep, sleep baby, let your sacred body rest;
+Z: I gently rock you with my fresh breath.
+Z: Above, an angel plays his golden harp
+Z: he plays divine chords for you, o sacred Shepard.
+%%staves [S A T B]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+%%MIDI program 4 53
+V: S clef=treble   name="Soprano" sname="S"
+V: A clef=treble   name="Alto"    sname="A"
+V: T clef=treble-8 name="Tenor"   sname="T"
+V: B clef=bass     name="Bass"    sname="B"
+K: D
+%
+% 1 - 4
+%
+[V: S] |: FF z/F/ G/F/     |[M:3/4]EF2   |AA A/A/    |[M:2/4](c/B) _B/|
+[V: A] |: DD z/D/ D/D/     |[M:3/4]CD2   |FF F/F/    |[M:2/4]^E>E     |
+w: Dor-mi, ch\'e su te ve-glia gi\`a tut-to il Pa-ra-
+[V: T] |: AA z/A/ B/A/     |[M:3/4]AA2   |dd d/d/    |[M:2/4](d c/)c/ |
+[V: B] |: D,D, z/D,/ D,/D,/|[M:3/4]A,,D,2|D,D, D,/D,/|[M:2/4]G,,>G,,  |
+%
+% 5 - 7
+%
+[V: S] [M:3/4]AA2  |[M:4/4]GG z/F/ G/A/        |[M:3/4]GFA   |
+[V: A] [M:3/4]FF2  |[M:4/4]EE z/^D/ E/E/       |[M:3/4]=DDA  |
+w: di-so; dor-mi, ti splen-de~in vi-so un
+[V: T] [M:3/4]dd2  |[M:4/4]BB z/B/ B/c/        |[M:3/4]BAd   |
+[V: B] [M:3/4]D,D,2|[M:4/4]E,E, z/B,,/ E,/A,,/ |[M:3/4]D,D,F,|
+%
+% 8 - 11
+%
+[V: S] cA B/F/      |A3  |[M:4/4]FF z/F/ G/F/     |[M:3/4]EF2   |
+[V: A] ^GF F/D/     |E3  |[M:4/4]DD z/D/ D/D/     |[M:3/4]CD2   |
+w: rag-gio tut-to d'or. Dor-mi, dor-mi, fan-ciul-lo,
+[V: T] cc d/B/      |c3  |[M:4/4]AA z/A/ B/A/     |[M:3/4]AA2   |
+[V: B] ^E,F, D,/=E,/|A,,3|[M:4/4]D,D, z/D,/ D,/D,/|[M:3/4]A,,D,2|
+%
+% 12 - 14
+%
+[V: S] AA A/A/    |[M:2/4](c/B) _B/|[M:3/4]AA2|
+[V: A] FF F/F/    |[M:2/4]^E>E     |[M:3/4]FF2|
+w: ri-po-sa il cor-po san-to;
+[V: T] dd d/d/    |[M:2/4](dc/)c/  |[M:3/4]dd2|
+[V: B] D,D, D,/D,/|[M:2/4]G,,>G,,  |[M:3/4]D,D,2|
+%
+% 15 - 17
+%
+[V: S] [M:4/4]GG z/F/ G/A/      |[M:3/4]BBc|(dc/=c/ B/_B/)|
+[V: A] [M:4/4]EE z/^D/ E/F/     |[M:3/4]GGA|A2G           |
+w: lie-ve, lie-ve ti cul-lo col fre-sco
+[V: T] [M:4/4]BB z/B/ B/d/      |[M:3/4]dde|d2d           |
+[V: B] [M:4/4]E,E, z/B,/ E,/=D,/|[M:3/4]G,G,G,|F,2G,      |
+%
+% 18 - 21
+%
+P: Seconda volta, a bocca chiusa
+[V: S] AA z/G/      |F3 :|[M:4/4]z3 z/A,/  |FF z/F/ G/F/     |
+[V: A] F/D/ E z/C/  |D3 :|[M:4/4]z3 z/A,/  |DD z/D/ D/D/     |
+w: mi - o re-spir. In al-to un che-ru-
+[V: T] (d/B/) c z/A/|A3 :|[M:4/4]z3 z/A/   |AA z/A/ B/A/     |
+[V: B] A,A,A,,      |D,3:|[M:4/4]z3 z/A,,/ |D,D, z/D,/ D,/D,/|
+%
+% 22 - 24
+%
+[V: S] [M:3/4]EF2   |AA A/A/    |[M:2/4](c/B) _B/|
+[V: A] [M:3/4]CD2   |FF F/F/    |[M:2/4]^E>E     |
+w: bi-no tra-e da-la ce-tra
+[V: T] [M:3/4]AA2   |dd d/d/    |[M:2/4](dc/)c/  |
+[V: B] [M:3/4]A,,D,2|D,D, D,/D,/|[M:2/4]G,,>G,,  |
+%
+% 25 - 27
+%
+[V: S] [M:3/4]AA2  |[M:4/4]G/G/ F^Ac    |[M:3/4]dB !rall!z/B/   |
+[V: A] [M:3/4]FF2  |[M:4/4]E/E/ CFF     |[M:3/4]FG z/G/         |
+w: d'o-ro un ac-cor-do di-vi-no per
+[V: T] [M:3/4]dd2  |[M:4/4]B/B/ ^AcA    |[M:3/4]Bd z/d/         |
+[V: B] [M:3/4]D,D,2|[M:4/4]E,/E,/ F,F,F,|[M:3/4](B,/A,/)G, z/G,/| 
+%
+% 28 - 30
+%
+[V: S] Azz           |A/G/ FE  |F3 |]
+[V: A] Fzz           |EDC      |D3 |]
+w: te, san-to Pa-stor.
+[V: T] (d/e/d/c/d/B/)|(c/B/) AA|A3 |]
+[V: B] A,zz          |A,,A,,A,,|D,3|]
+%
+% End of file Coro_Della_Notte.abc

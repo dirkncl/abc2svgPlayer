@@ -1,0 +1,138 @@
+%abc-2.0
+%
+% Gaudeamus_Igitur.abp    -*- abc -*-
+%
+% Written for abcm2ps and abc2midi:
+% http://abcplus.sourceforge.net
+% Tested with abcm2ps-8.12.3 and abcMIDI-2016.07.20
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 16, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c Gaudeamus_Igitur.abc
+% To make a MIDI file:
+%       abc2midi Gaudeamus_Igitur.abc
+
+%%format choral
+%%pagescale      0.85
+
+X: 1
+T: Gaudeamus Igitur
+C: Traditional - Music by J. Brahms (1833 - 1897)
+M: 3/4
+L: 1/4
+%%staves [S A T B]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+%%MIDI program 4 53
+V: S clef=treble   name="Soprano" sname="S"
+V: A clef=treble   name="Alto"    sname="A"
+V: T clef=treble-8 name="Tenor"   sname="T"
+V: B clef=bass     name="Bass"    sname="B"
+Q: "Allegro" 1/4 = 110
+K: C
+%
+% 1 - 4
+%
+[V: S] c/>G/Gc|A/>A/Az|B/>c/dB |c/e/cz :|
+w: Gau-de-a-mus i-gi-tur, ju-ve-nes dum su -mus,
+[V: A] c/>G/GE|A/>G/Az|B/>A/GG |c/G/cz :|
+w: Gau-de-a-mus i-gi-tur, ju-ve-nes dum su -mus,
+[V: T] G/>G/cG|A/>B/cz||B/>A/BB|ccz    :|
+w: Gau-de-a-mus i-gi-tur, ju-ve-nes dum su- mus,
+[V: B] C,/>C,/C,C,|F,/>F,/F,z|G,2     G,,|C,C,z    :|
+w: Gau-de-a-mus i-gi-tur, juvenes dum su-mus,
+%
+% 5 -8
+%
+[V: S] B/>c/dd|e/c/dd|B/>c/dd|e/c/dd|
+w: Post Ju-cun-nam ju-ven-tu-tem, post mo-le-stam se-nec-tu-tem,
+[V: A] G/>A/BB|c/A/BB|G/>A/BB|c/A/BB|
+w: Post Ju-cun-nam ju-ven-tu-tem, post mo-le-stam se-nec-tu-tem,
+[V: T] B/>c/dd|c/A/BG|B/>c/dd|c/A/BG|
+w: Post Ju-cun-nam ju-ven-tu-tem, post mo-le-stam se-nec-tu-tem,
+[V: B] G,/>G,/G,G,|G,/D,/D,G,|G,/>G,/G,G,|G,/D,/D,G,|
+w: Post Ju-cun-nam ju-ven-tu-tem, post mo-le-stam se-nec-tu-tem,
+%
+% 9 -12
+%
+[V: S] c/>B/ A/f/ e/d/|g_a=a|c/>B/ A/f/ e/d/|gBHc|]
+w: nos ha-be -bi-it hu -mus, nos ha-be -bi-it hu -mus.
+[V: A] A/>B/ c/c/ c/c/|edc  |A/>E/ F/A/ A/A/|GGHc|]
+w: nos ha-be -bit_ hu -mus, nos ha-be -bit_ hu -mus.
+[V: T] c/>c/ c/c/ c/c/|cBA  |c/>G/ A c/c/   |edHe|]
+w: nos ha-be -bi-it hu -mus, nos ha-be-bi-it hu -mus.
+[V: B] A,/>G,/ F,/F,/ F,/F,/|A,,_A,,=A,,|E,/>E,/F, F,/F,/|G,G,,HE,|]
+w: nos ha-be -bi-it hu -mus, nos ha-be-bi-it hu -mus.
+%
+%%newpage
+%
+W: 1. Gaudeamus igitur,
+W: Iuvenes dum sumus!
+W: Post jucundam juventutem,
+W: Post molestam senectutem,
+W: Nos habebit humus.
+W: 
+W: 2. Ubi sunt qui ante nos
+W: In mundo fuere?
+W: Vadite ad superos,
+W: Transite ad inferos,
+W: Ubi iam fuere.
+W: 
+W: 3. Vita nostra brevis est,
+W: Brevi finietur.
+W: Venit mors velociter,
+W: Raptat nos atrociter,
+W: Nemini parcetur.
+W: 
+W: 4. Vivat Academia,
+W: Vivant professores!
+W: Vivat membrum quod libet,
+W: Vivant membra quae libent,
+W: Semper sint in flore!
+W: 
+W: 5. Vivant omnes virgines,
+W: Faciles formosae!
+W: Vivant et mulieres
+W: Dulces et amabiles, [tenerae, amabiles]
+W: Bonae, laboriosae!
+W: 
+W: 6. Vivat et res publica,
+W: Et qui illam regit!
+W: Vivat nostra civitas,
+W: Maecenatum caritas,
+W: Quae nos hic protegit!
+W: 
+W: 7. Vivat nostra societas,
+W: Vivant studiosi!
+W: Crescat una veritas,
+W: Floreat fraternitas,
+W: Patriae prosperitas!
+W: 
+W: 8. Pereat tristitia,
+W: Pereant osores!
+W: Pereat diabulus,
+W: Quivis antibruschius,
+W: Atque irrisores.
+W: 
+W: 9. Qui confluxus hodie
+W: Academicorum?
+W: E longiqui convenerunt,
+W: Protinisque succeserunt
+W: In commune forum.
+W: 
+W: 10. Alma mater floreat,
+W: Quae nos educavit.
+W: Caros ed commilitones,
+W: Dissitas in regiones
+W: Sparsos congregavit.
+W: 
+W: 11. Vivant berrectaculos,
+W: Omnium colorum!
+W: Vivant omnia goliardorum,
+W: Apud schola, apud forum,
+W: In taberna vivant!
+%
+% End of file Gaudeamus_Igitur.abc

@@ -1,0 +1,140 @@
+%abc-2.1
+%
+% Otche_Nash.abc    -*- abc -*-
+%
+% Written for abcm2ps and abc2midi:
+% http://abcplus.sourceforge.net
+% Tested with abcm2ps-8.12.3 and abcMIDI-2016.07.20
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 15, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c Otche_Nash.abc
+% To make a MIDI file:
+%       abc2midi Otche_Nash.abc
+
+%%format choral
+%%pagescale      0.85
+
+X: 1
+T: Otce Nash
+T: (Pater Noster)
+C: Nikolaj Kedrov Sr. (1871 - 1940)
+M: none
+L: 1/4
+Q: "Adagio" 1/4=80
+%%score [S | A | T | B]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+%%MIDI program 4 53
+V: S clef=treble   name="Soprano" sname="S"
+V: A clef=treble   name="Alto"    sname="A"
+V: T clef=treble-8 name="Tenor"   sname="T"
+V: B clef=bass     name="Bass"    sname="B"
+U: h=!breath!
+Z: Transliteration as in this video:
+Z: https://www.youtube.com/watch?v=pdKbyQtcsHc
+K: C
+%
+% 1 - 2
+%
+[V: S] !pp!E2 E hE4   |EEEEEEE F4    |
+w: Ot- che nash, i- zhe ye- si na ne- be- sekh,
+[V: A] !pp!C2 C hC4   |CCCCCCC C2 B,2|
+w: Ot- che nash, i- zhe ye- si na ne- be- sekh,_
+[V: T] !pp!G2 G hG4   |GGGGGGG G4    |
+w: Ot- che nash, i- zhe ye- si na ne- be- sekh,
+[V: B] !pp!C,2 C, hC,4|C,C,C,C,C,C,C, D,4|
+w: Ot- che nash, i- zhe ye- si na ne- be- sekh,
+%
+% 3
+%
+[V: S] FFFF G2 GG hG2    |
+w: da svya- ti- tsya i- mya Tvo- ye,
+[V: A] B,B,B,B, D2 CC hC2|
+w: da svya- ti- tsya i- mya Tvo- ye,
+[V: T] GGGG G2 GG hG2    |
+w: da svya- ti- tsya i- mya Tvo- ye,
+[V: B] D,D,D,D, E,2 E,E, hE,2| 
+w: da svya- ti- tsya i- mya Tvo- ye,
+%
+% 4 - 5
+%
+[V: S] GGGG G2 FFE F4         |F F2 F2 F2 EG hD2 |
+w: da pri-i-det tsar-stvi-ye Tvo-ye, da bu-det vo-lya Tvo-ya
+[V: A] CCCC C2 CCC C4         |C C2 C2 C2 CC hB,2|
+w: da pri-i-det tsar-stvi-ye Tvo-ye, da bu-det vo-lya Tvo-ya
+[V: T] GG(c_B) B2 AAG A4      |A A2 A2 A2 GG hG2 |
+w: da pri-i-det tsar-stvi-ye Tvo-ye, da bu-det vo-lya Tvo-ya
+[V: B] E,E,E,E, F,2 F,F,F, F,4|F, F,2 E,2 D,2 E,E, hG,2 |
+w: da pri-i-det tsar-stvi-ye Tvo-ye, da bu-det vo-lya Tvo-ya
+%
+% 6
+%
+[V: S] D2 DDDE F2 E D2 C2 HD4   |
+w: ya-ko na ne-be-si i na ze-mli.
+[V: A] B,2 BBBC C2 C B,2 C2 HB,4|
+w: ya-ko na ne-be-si i na ze-mli.
+[V: T] G2 GGGG A2 G G2 A2 HG4   |
+w: ya-ko na ne-be-si i na ze-mli.
+[V: B] G,2 G,G,G,E, D,2 E, G,2 A,2 HG,4|
+w: ya-ko na ne-be-si i na ze-mli.
+%
+% 7
+%
+[V: S] !pp!E2 EEEE F2 F F2  |
+w: Khleb nash na-sushch-ni dazhd nam dnes
+[V: A] !pp!C2 CCCC C2 B, B,2|
+w: Khleb nash na-sushch-ni dazhd nam dnes
+[V: T] !pp!G2 GGGG G2 G G2  |
+w: Khleb nash na-sushch-ni dazhd nam dnes
+[V: B] !pp!C,2 C,C,C,C, D,2 D, D,2|
+w: Khleb nash na-sushch-ni dazhd nam dnes
+%
+% 8
+%
+[V: S] FF G2 GGGG G2 F2   |
+w: i o-sta-vi nam do-lgi na-sha,
+[V: A] B, B, D2 CCCC C2 C2|
+w: i o-sta-vi nam do-lgi na-sha,
+[V: T] GG G2 GGc_B B2 A2  |
+w: i o-sta-vi nam do-lgi na-sha,
+[V: B] D,D, E,2 E,E,E,E, F,2 (F,E,)|
+w: i o-sta-vi nam do-lgi na-sha,_
+%
+% 9 - 10
+%
+[V: S] F2 FEG hD2 DE F2        |FFF (E2 C) (D2 C2) D4    |
+w: ya-ko-zhe i myi o-sta-vlya-yem dol-zhni-kom_ na - shim,
+[V: A] C2 CCC hB,2 B,C C2      |CCC (C2 A,) (B,2 A,2) B,4|
+w: ya-ko-zhe i myi o-sta-vlya-yem dol-zhni-kom_ na - shim,
+[V: T] A2 GGG hG2 GG A2        |AAA G3 (G2 E2) G4        |
+w: ya-ko-zhe i myi o-sta-vlya-yem dol-zhni-kom na - shim,
+[V: B] D,2 D,E,E, hG,2 G,E, D,2|D,D,D, E,3 G,4 G,4       |
+w: ya-ko-zhe i myi o-sta-vlya-yem dol-zhni-kom na-shim,
+%
+% 11
+%
+[V: S] z EEE (E2 G2) ccBA G2 F2 E2 |
+w: i ne vve-di_ nas vo i-sku-she-ni-ye,
+[V: A] z CCC E4 EEEF (GC) (CB,) C2 |
+w: i ne vve-di_ * nas vo i-sku-she-ni-ye,
+[V: T] z GGG c4 cccc (cG) G2 G2    |
+w: i ne vve-di_ nas vo i-sku-she-ni-ye,
+[V: B] z C,C,C, (C2 B,2) A,A,G,F, E,2 D,2 C,2|
+w: i ne vve-di_ nas vo i-sku-she-ni-ye,
+%
+% 12 - 14
+%
+[V: S] !pp!DD G2 D G2|CD E4 E4 E4       |E2 E4 |]
+w: no i-zba-vi nas ot lu-ka va-go. A-min!
+[V: A] !pp!CC C2 C C2|CC (C2 A,2) B,4 C4|B,2 C4|]
+w: no i-zba-vi nas ot lu-ka_ va-go. A-min!
+[V: T] !pp!AA G2 A G2|AA (G2 E2) G4 G4  |G2 G4 |]
+w: no i-zba-vi nas ot lu-ka_ va-go. A-min!
+[V: B] !pp!F,F, E,2 F, E,2|F,F, C,4 G,4 C,4|G,,2 C,,4 |]
+w: no i-zba-vi nas ot lu-ka va-go. A-min!
+%
+% End of file Otche_Nash.abc

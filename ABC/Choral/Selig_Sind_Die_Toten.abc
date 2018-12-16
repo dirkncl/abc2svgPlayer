@@ -1,0 +1,381 @@
+% Selig_Sind_Die_Toten.abc    -*- abc -*-
+%
+% Written for abcm2ps and abc2midi:
+% http://abcplus.sourceforge.net
+% Tested with abcm2ps-8.12.3 and abcMIDI-2016.07.20
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 15, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c Selig_Sind_Die_Toten.abc
+% To make a MIDI file:
+%       abc2midi Selig_Sind_Die_Toten.abc
+
+%%format choral
+%%pagescale 0.7
+
+X: 1
+T: Selig sind die Toten
+C: Heinrich Sch\"utz (1585 - 1672)
+M: C|
+L: 1/4
+Q: 1/2 = 60
+%%score [SI | SII | A | TI | TII | B]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+%%MIDI program 4 53
+%%MIDI program 5 53
+%%MIDI program 6 53
+V: SI  clef=treble   name="Soprano I"  sname="SI"
+V: SII clef=treble   name="Soprano II" sname="SII"
+V: A   clef=treble   name="Alto"       sname="A"
+V: TI  clef=treble-8 name="Tenor I"    sname="TI"
+V: TII clef=treble-8 name="Tenor II"   sname="TII"
+V: B   clef=F octave=-2 name="Bass"    sname="B"
+U: h=!breath!
+K: G
+%
+% 1 - 4
+%
+[V: SI] z4    |!p!d4-|d2d2|e2d2|
+w: Se_ lig sind die
+[V: SII] z4   |B4-   |B2B2|B2d2|
+w: Se_ lig sind die
+[V: A] z4     |G4-   |G2G2|G2G2|
+w: Se_ lig sind die
+[V: TI] !p!d4-|d2d2  |B4- |B2B2|
+w: Se_ lig sind_ die
+[V: TII] z4   |!p!B4-|B2d2|G2d2|
+w: Se_ lig sind die
+[V: B] z4     |g4-   |g2g2|e2B2|
+w: Se_ lig sind die
+%
+% 5 - 10
+%
+[V: SI] c4-  |c4   |B4  |z4  |z4  |z4  |
+w: To_ ten,
+[V: SII] e4- |e4   |d4  |z4  |z4  |z4  |
+w: To_ ten,
+[V: A] G4-   |G4   |G4  |z4  |zGEF|G3F |
+w: To_ ten, die in dem Her- ren
+[V: TI] (G4- |G2A2)|B4  |z4  |z4  |zBGA|
+w: To__ ten, die in den
+[V: TII] (e3d|c4)  |ddBc|d2c2|(B3A|G2EF|
+w: To__ ten, die in dem Her- ren ster____
+[V: B] c4-   |c4   |g4  |zgef|g3f |e4- |
+w: To_ ten, die in dem Her- ren ster-
+%
+% 11 - 15
+%
+[V: SI] z4    |z4 |z2zd-|ddB2 |zB2B  |
+w: se_ lig sind, se- lig
+[V: SII] z4   |z4 |z4   |zB2B |G2zG- |
+w: se- lig sind, se-
+[V: A] (E^DE2)|^D4|z2zG-|GGD2 |zB,2B,|
+w: ster__ ben, se_ lig sind, se- lig
+[V: TI] BAG2  |F4 |z4   |zd2d |e2zB- |
+w: Her- ren ster- ben, se- lig sind, se-
+[V: TII] GAB2)|B4 |zd2d |B2zB-|BBG2  |
+w: ___ ben, se- lig sind, se_ lig sind,
+[V: B] e4     |B4 |z2g2-|g2g2 |e2e2- |
+w: _ ben, se_ lig sind, se-
+%
+% 16 - 19
+%
+[V: SI] GB2B  |c2B2 |A4    |^GB=GA|
+w: sind, se- lig sind die To- ten, die in den
+[V: SII] GGEe-|eeed |c4    |B4    |
+w: _ lig sind, se_ lig sind die To- ten,
+[V: A] E2B,2  |E4-  |E4    |E4    |
+w: sind die To_ ten,
+[V: TI] BBG2- |G2B2 |(c2BA)|B4    |
+w: _ lig sind_ die To__ ten,
+[V: TII] zG2G |E2E2 |(E3F) |^G2z2 |
+w: se- lig sind die To_ ten,
+[V: B] e2e2   |c2^G2|A4    |e4    |
+w: _ lig sind die To- ten,
+%
+% 20 - 23
+%
+[V: SI] B2A2|(G3F)|E2(E2-|EF/^G/A2)|
+w: Her- ren ster_ ben, ster____
+[V: SII] z4 |zecd |e3d   |(cBc2)   |
+w: die in dem Her- ren ster__
+[V: A] z4   |z4   |zECD  |EDC2     |
+w: die in dem Her- ren ster-
+[V: TI] zecd|e3d  |(c3B  |A4)      |
+w: die in dem Her- ren ster__
+[V: TII] z4 |z4   |z4    |z4       |
+[V: B] z4   |z4   |z4    |z4       |
+%
+% 24 - 27
+%
+[V: SI] D4   |z4  |z4  |z4  |
+w: ben,
+[V: SII] B4  |z4  |zBGA|B3A |
+w: ben, die in dem Her- ren
+[V: A] G4    |z4  |zGEF|G3F |
+w: ben, die in dem Her- ren
+[V: TI] G4   |zBGA|B3A |G2E2|
+w: ben, die in dem Her- ren ster- ben,
+[V: TII] zdBc|ddc2|B2z2|zBGA|
+w: die in dem Her- ren ster- ben, die in dem
+[V: B] z4    |zgef|g3f |e4- |
+w: die in dem Her- ren ster-
+%
+% 28 - 31
+%
+[V: SI] z4     |z4  |zFDE|FFE2 |
+w: die in dem Her- ren ster-
+[V: SII] (GFG2)|F4  |z4  |z4   |
+w: ster__ ben,
+[V: A] (ED2^C) |D4  |z4  |z4   |
+w: ster__ ben,
+[V: TI] z4     |zAFG|AAG2|FDE>F|
+w: die in dem Her- ren ster- ben die in dem
+[V: TII] BAG2  |A4  |z4  |zBGA |
+w: Her- ren ster- ben, die in dem
+[V: B] e4      |d4  |zdBc|ddc2 |
+w: _ ben, die in dem Her- ren ster-
+%
+% 32 - 35
+%
+[V: SI] DdBc        |(d3c |B2)B2|A4         |
+w: ben, die in dem Her__ ren ster-
+[V: SII] zFG>A      |BFG2-|GF2E-|(E^D/^C/D2)|
+w: die in dem Her- ren ster_ ben, ster____
+[V: A] z4           |zDB,C|D2E2 |F4         |
+w: die in dem Her- ren ster-
+[V: TI] GF!>(!E2!>)!|BBGA |B2G2 |F4         |
+w: Her- ren ster- ben die in dem Her- ren ster-
+[V: TII] BAG2       |F2z2 |z4   |z4         |
+w: Her- ren ster- ben.
+[V: B] B4-          |B4   |z4   |z4         |
+w: ben._
+%
+% 36 - 41
+%
+[V: SI] G2B(B-|BA/G/A2)|B4-    |B4     |!f!B2ze|d4      |
+w: ben, von nun____ an._ Ja, der Geist
+[V: SII] E2G2-|G2(FE)  |F4-    |F4     |G2zc   |A4      |
+w: ben, von_ nun_ an._ Ja, der Geist
+[V: A] B,4    |E2(E2-  |E2^D^C)|^D4    |E2G(G- |GF/E/F2)|
+w: ben, von nun___ an. Ja, der Geist____
+[V: TI] E2E2  |c4      |B4-    |B4     |z2!f!c2|zAd2    |
+w: ben, von nun an._ Ja, der Geist
+[V: TII] z4   |z4      |z4     |z2!f!B2|zBe2   |A4      |
+w: Ja, der Geist spricht,
+[V: B] z4     |z4      |z4     |z4     |!f!e2zc|d4      |
+w: Ja, der Geist
+%
+% 42 - 48
+%
+[V: SI] B4   |B2zB  |e2A2-    |A2!p!F2|G4 |F2A2   |B4|
+w: spricht, ja, der Geist spricht:_ Sie ru- hen, sie ru-
+[V: SII] G4  |z2B2  |zAe2     |d2A2   |B4 |A2F2   |G4|
+w: spricht, ja, der Geist spricht: Sie ru- hen, sie ru-
+[V: A] G4    |G2zD  |A4       |F2D2   |D4-|D4     |D4|
+w: spricht, ja, der Geist spricht: Sie ru_ hen
+[V: TI] d4   |d2zg  |e4       |d4     |z4 |z2!p!A2|G4|
+w: spricht, ja, der Geist spricht: Sie ru-
+[V: TII] z2B2|zG(d2-|d^c/B/c2)|d2D2   |G4 |D4-    |D4|
+w: ja, der Geist____ spricht: Sie ru- hen_
+[V: B] G4    |g2zg  |a4       |d4     |z4 |z2!p!d2|G4|
+w: spricht, ja, der Geist spricht: Sie ru-
+%
+% 49 - 54
+%
+[V: SI] A4   |A4  |A2G2|(F4- |F2E2-|E2^D2)|
+w: hen von ih- rer Ar____
+[V: SII] F2F2|F2G2|A4  |A2A2-|A2G2 |F4    |
+w: hen von ih- rer Ar- beit, ih_ rer Ar-
+[V: A] z2D2  |D2E2|F2D2|D2A,2|B,4- |B,4   |
+w: von ih- rer Ar- beit, ih- rer Ar_
+[V: TI] A4   |F4  |F2G2|A4   |F2GA |B4    |
+w: hen von ih- rer Ar- beit, ih- rer Ar-
+[V: TII] z2A2|A2G2|(F4-|F2E2 |^D2E2|F4)   |
+w: von ih- rer Ar_____
+[V: B] d4    |d4  |d4- |d2c2 |B4-  |B4    |
+w: hen von ih_ rer Ar_
+%
+% 55 - 60
+%
+[V: SI] E2^G2 |A4 |^G2B2|c4|B2d2 |c2B2-|
+w: beit, sie ru- hen, sie ru- hen von ih- rer
+[V: SII] ^G2B2|c4 |B2^G2|A4|^G2z2|z2d2 |
+w: beit, sie ru- hen, sie ru- hen von
+[V: A] B,2E2  |E4-|E4   |E4|z2D2 |G2F2 |
+w: beit, sie ru_ hen, von ih- rer
+[V: TI] ^G2E2 |A4 |E4-  |E4|z2B2 |E2B2 |
+w: beit, sie ru- hen,_ sie ru- hen
+[V: TII] E4   |z4 |z2B2 |A4|B4   |z2F2 |
+w: beit, sie ru- hen von
+[V: B] e4     |z4 |z2e2 |A4|e2B2 |c2d2 |
+w: beit, sie ru- hen von ih- rer
+%
+% 61 - 65
+%
+[V: SI] B2A2- |A2G2 |=F2F2 |E4    |^F4          |
+w: _ Ar_ beit, ih- rer Ar- beit,
+[V: SII] c2c2 |B4   |A4-   |A4    |z2!mf!AA/ A/ |
+w: ih- rer Ar- beit,_ und ih- rer
+[V: A] E4     |E2E2-|ED(D2-|D2^C2)|D2z2         |
+w: Ar- beit, ih_ rer Ar__ beit,
+[V: TI] z4    |z2B2 |^c2d2 |e2A2  |z4           |
+w: von ih- rer Ar- beit,
+[V: TII] ^G2A2|B2E2 |z2A2- |AGE2  |D/ A/ A/ A/dd|
+w: ih- rer Ar- beit, ih_ rer Ar- beit, und ih- rer Wer- ke
+[V: B] e4-    |e4   |A4    |A4    |d4           |
+w: Ar_ beit, Ar- beit,
+%
+% 66 - 68
+%
+[V: SI] z4     |z4          |z4      |
+[V: SII] ddBB  |^ccd2       |z4      |
+w: Wer- ke fol- gen ih- nen nach,
+[V: A] DD/ D/GG|EEFF        |G2z2    |
+w: und ih- re Wer- ke fol- gen ih- nen nach,
+[V: TI] z4     |AA/ A/dd    |BB^cc   |
+w: und ih- re Wer- ke fol- gen ih- nen
+[V: TII] BBGG  |A2z/D/ D/ D/|GGEE    |
+w: fol- gen ih- nen nach, und ih- re Wer- ke fol- gen
+[V: B] z4      |z4          |z2FF/ F/|
+w: und ih- re
+%
+% 69 - 71
+%
+[V: SI] AA/ A/dd |cBAA    |dc(BA/G/|
+w: und ih- re Wer- ke fol- gen ih- nen, fol- gen ih__
+[V: SII] FF/ F/BB|EGGF    |G2dc    |
+w: und ih- re Wer- ke fol- gen ih- nen nach, fol- gen
+[V: A] z4        |z4      |z4      |
+[V: TI] d2z2     |GG/ G/dd|Bcde    |
+w: nach, und ih- re Wer- ke fol- gen ih- nen,
+[V: TII] FFG2    |z4      |z4      |
+w: ih- nen nach,
+[V: B] ddBB      |c>cd2   |z2Bc    |
+w: Wer- ke fol- gen ih- nen nach, fol- gen
+%
+% 72 - 76
+%
+[V: SI] FG2)F      |G4  |z4|z2!p!B2|c4|
+w: __ nen nach, sie ruh-
+[V: SII] (BA/ G/A)A|G4  |z4|z2d2   |e4|
+w: ih___ nen nach, sie ruh-
+[V: A] z4          |z4  |z4|z2G2   |C4|
+w: sie ruh-
+[V: TI] dBdd       |G2B2|c4|B4     |z4|
+w: fol- gen ih- nen nach, sie ruh- en,
+[V: TII] z4        |z2d2|e4|d4     |z4|
+w: sie ruh- en
+[V: B] ded2        |z2g2|c4|g4     |z4|
+w: ih- nen nach, sie ruh- en,
+%
+% 77 - 82
+%
+[V: SI] B4   |z2d2 |c2c2  |B4    |A2^c2|d4 |
+w: en von ih- rer Ar- beit, sie ruh-
+[V: SII] d2d2|c2B2-|B2(A2-|A2^G2)|A2A2 |A4 |
+w: en von ih- rer_ Ar__ beit, sie ruh-
+[V: A] G2G2  |E2D2 |E4-   |E4    |A,2E2|=F4|
+w: en von ih- rer Ar_ beit, sie ruh-
+[V: TI] z4   |z4   |z4    |z4    |z4   |z4 |
+[V: TII] z4  |z4   |z4    |z4    |z2A2 |d4 |
+w: sie ruh-
+[V: B] z4    |z4   |z4    |z4    |z4   |z4 |
+%
+% 83 - 88
+%
+[V: SI] ^c2e2 |=f4|e2g2 |=f2e2-|e2d2-|d2=c2|
+w: en, sie ruh- en von ih- rer_ Ar_ beit
+[V: SII] A2^c2|d4 |^c2z2|z2g2  |=f2f2|e4   |
+w: en, sie ruh- en von ih- rer Ar-
+[V: A] E2A2   |A4 |A2G2 |A2B2  |A4   |A2A2-|
+w: en, sie ruh- en von ih- rer Ar- beit, ih-
+[V: TI] z2e2  |d4 |e4   |z2B2  |^c2d2|e4   |
+w: sie ruh- en von ih- rer Ar-
+[V: TII] A4-  |A4 |z2B2 |A2e2  |z4   |z2A2 |
+w: en,_ sie ruh- en von
+[V: B] z2a2   |d4 |a2e2 |=f2g2 |a4-  |a4   |
+w: sie ruh- en von ih- rer Ar_
+%
+% 89 - 92
+%
+[V: SI] B2B2 |A4   |G4              |z4          |
+w: ih- rer Ar- beit,
+[V: SII] d4- |d4   |z/!mf!D/ D/ D/GG|EEFF        |
+w: beit,_ und ih- re Wer- ke fol- gen ih- nen
+[V: A] AG(G2-|G2F2)|G2z2            |z4          |
+w: _ rer Ar__ beit,
+[V: TI] f2d2-|dAd2-|d2B2            |z2!mf!DD/ D/|
+w: beit, ih_ rer Ar_ beit und ih- re
+[V: TII] F2G2|A4   |B2!mf!GG/ G/    |ccAA        |
+w: ih- rer Ar- beit, und ih- re Wer- ke fol- gen
+[V: B] d4    |d4   |G4              |z4          |
+w: beit, Ar- beit,
+%
+% 93 - 95
+%
+[V: SI] DD/ D/GG  |EEFF        |G2z2          |
+w: und ih- re Wer- ke fol- gen ih- nen nach,
+[V: SII] G2z2     |z2AA/ A/    |ddBB          |
+w: nach, und ih- re Wer- ke fol- gen
+[V: A] B,B,/ B,/EE|^CCDA,      |B,/ D/ D/ D/GG|
+w: und ih- re Wer- ke fol- gen ih- nen nach, und ih- re Wer- ke
+[V: TI] GGEE      |A3A         |G2z2          |
+w: Wer- ke fol- gen ih- nen nach,
+[V: TII] B3B      |A2z2        |z2EE/ E/      |
+w: ih- nen nach, und ih- re
+[V: B] z4         |!mf!AA/ A/dd|BBee          |
+w: und ih- re Wer- ke fol- gen ih- nen
+%
+% 96 - 98
+%
+[V: SI] z2AG  |(FE/ D/^C)D|A2z2      |
+w: fol- gen ih___ nen nach,
+[V: SII] ^ccd2|z2AG       |(FE/ D/E)E|
+w: ih- nen nach, fol- gen ih___ nen
+[V: A] EEFG   |AGF(E/ D/  |^CD2)C    |
+w: fol- gen ih- nen nach, fol- gen ih___ nen
+[V: TI] z4    |z4         |z2AG      |
+w: fol- gen
+[V: TII] AADE |FGAB       |ADA2      |
+w: Wer- ke fol- gen ih- nen, fol- gen ih- nen nach,
+[V: B] A2z2   |z4         |z4        |
+w: nach,
+%
+% 99 - 101
+%
+[V: SI] AA/ A/dd     |dc(BA/ G/|FG2)F     |
+w: und ih- re Wer- ke fol- gen ih____ nen
+[V: SII] D2z/D/ D/ D/|AAdc     |(BA/ G/A)A|
+w: nach, und ih- re Wer- ke fol- gen ih___ nen
+[V: A] D4-           |D4       |FED2-     |
+w: nach,_ fol- gen ih-
+[V: TI] FED2         |DAG2     |z2DD/ D/  |
+w: ih- nen nach, ih- nen nach, und ih- re
+[V: TII] z2FG        |AFBc     |(dc/ B/A)A|
+w: fol- gen ih- nen, fol- gen ih___ nen
+[V: B] d=cBA/ G/     |F2G2     |d4        |
+w: fol- gen ih___ nen nach,
+%
+% 102 - 105
+%
+[V: SI] G4   |z2gf    |edc(B/ A/)|HB4|]
+w: nach, fol- gen ih- nen, ih- nen_ nach.
+[V: SII] B2z2|GG/ G/dd|gfe(d/ c/)|Hd4|]
+w: nach, und ih- re Wer- ke fol- gen ih- nen_ nach.
+[V: A] D2D2  |E2G2-   |G2G2      |HG4|]
+w: _ nen nach, ih_ nen nach.
+[V: TI] GGBA |Gcd2    |cde>e     |Hd4|]
+w: Wer- ke fol- gen ih- nen nach, fol- gen ih- nen nach.
+[V: TII] G4- |G4-     |G4-       |HG4|]
+w: nach.___
+[V: B] z2gf  |ed/ c/B2|c4        |HG4|]
+w: fol- gen ih___ nen nach.
+%
+% wow, that was long!
+%
+% End of file Selig_Sind_Die_Toten.abc

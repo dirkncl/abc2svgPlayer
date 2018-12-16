@@ -1,0 +1,280 @@
+%abc-2.1
+%
+% O_Sacrum_Convivium.abc    -*- abc -*-
+%
+% Written for abcm2ps and abc2midi:
+% http://abcplus.sourceforge.net
+%
+% Edited by Guido Gonzato <guido dot gonzato at gmail dot com>
+% September 16, 2016
+%
+% To typeset this file:
+%       abcm2ps -O= -c O_Sacrum_Convivium.abc
+% To make a MIDI file:
+%       abc2midi O_Sacrum_Convivium.abc
+%
+% Corrections suggested by Michael Peter Swithinbank:
+%
+% "In bars 4 and 8, the bassus requires editorial E flats rather
+%  than the E naturals written.
+%  In bars 37-38, the cantus notes should be tied.
+%  In bar 44, bassus's second note must surely be F, not G?
+%  In bar 61, altus should sing G. (This is confirmed by bar 51,
+%  where the music is the same, with parts exchanged)."
+
+%%format choral
+%%pagescale 0.75
+%%staffsep 120pt
+
+X: 1
+T: O Sacrum Convivium
+C: Andrea Gabrieli (1510? - 1586)
+M: none
+L: 1/4
+Q: 1/2=100
+%%staves [S1 S2 A T B]
+%%MIDI program 1 53 % voice ooh
+%%MIDI program 2 53
+%%MIDI program 3 53
+%%MIDI program 4 53
+%%MIDI program 5 53
+V: S1  clef=treble name="Cantus"
+V: S2  clef=alto2  name="Altus"
+V: A   clef=alto3  name="Tenor"
+V: T   clef=alto3  name="Quintus"
+V: B   clef=bass3  name="Bassus"
+K: F
+%
+% 1 - 4
+%
+[V: S1] \
+%%staffbreak 0.3cm
+[V: S2] \
+%%staffbreak 0.3cm
+[V: A] \
+%%staffbreak 0.3cm
+[V: T] \
+%%staffbreak 0.3cm
+[V: B] \
+%%staffbreak 0.3cm
+%
+[V: S1] [K: F treble]   [M: C|]   z8 |c8    |A6 F2-|F2B2B3c     |
+w: O sa-crum_ con-vi_
+[V: S2][K: F treble]    [M: C|]   z8 |z8    |F8    |D4B,4-      |
+w: O sa-crum
+[V: A]  [K: F treble-8] [M: C|] z4c4-|c4A4- |A2F4A2|B6AG        |
+w: O_ sa_crum con-vi__
+[V: T]  [K: F treble-8] [M: C|] c8   |A4F2c2|c4d3c |def2g4      |
+w: O sa-crum con-vi_____vi-
+[V: B] [K: F bass]      [M: C|] z8   |z4F,4-|F,4D,4|B,,4"^\b"E,4|
+w: O_ sa-crum con-
+%
+% 5 - 8
+%
+[V: S1] d2d2c4-   |c4z4  |f8     |d4B2B2-|
+w: _vi-um_ O sa-crum con
+[V: S2] B,2F3GA2  |G2G2A4|C'4B2A2|B2B3AG2|
+w: _ con__vi-vi-um o sa-crum con-vi__
+[V: A] B4A2f2-    |f2e2f4|z2f4d2-|d2B4B2 |
+w: ____vi-um O sa_crum con-
+[V: T] f4z4       |c8    |A4F4-  |F2F2G3A|
+w: um O sa-crum_ con-vi_
+[V: B] B,,2B,,2F,4|z4F,4-|F,4D,4 |B,,4"^\b"E,4|
+w: vi-vi-um O_ sa-crum con-
+%
+% 9 - 12
+%
+[V: S1] B2 FGABc2-|c2=B2c4 |z2c4c2     |f2e2d2d2 |
+w: _vi_____vi-um in quo Chri-stus su-mi
+[V: S2] F8        |G3FE2G2-|G2G2A4     |F2G4G2   |
+w: vi-um ** in_ quo Chri-stus su-mi-
+[V: A] B4A4       |d4c2e2- |e2e2f2c2   |d2G2G2G2-|
+w: vi_vi-um in_ quo Chri-stus su-mi-tur in
+[V: T] Bcd2c4     |G2G4G2  |c3BA2A2-   |A2c4B2   |
+w: ___vi-um in quo Chri__stus_ su-mi-
+[V: B] B,,2B,,2F,4|z4C,4-  |C,2C,2F,3E,|D,2C,2G,2G,2|
+w: vi-vi-um in_quo Chri__stus su-mi-
+%
+% 13 - 16
+%
+[V: S1] e8     |z8      |z2G4G2   |c3BA2A2-|
+w: tur in quo Chri__stus
+[V: S2] G4z2C2-|C2C2F2E2|D2D2E4-  |E4z4    |
+w: tur in_ quo Chri-stus su-mi-tur_
+[V: A] G2G2c3B |A2A4c2- |c2B2c2g2-|g2g2f4- |
+w: _ quo Chri__stus su_mi-tur in_ quo Chri
+[V: T] c2G4G2  |F3GA2A2 |F2G2G4   |z2c4c2  |
+w: tur in quo Chri__stus su-mi-tur in quo
+[V: B] C,8     |z8      |z4C,4-   |C,2C,2F,3E,|
+w: tur in_ quo Chri_
+%
+% 17 - 20
+%
+[V: S1] A2c4=B2    |c8      |d4f4    |f2f4f2  |
+w: _su-mi-tur re-co-li-tur me-
+[V: S2] z8         |G8      |B4B2B2- |B2B2A2A2|
+w: re-co-li-tur_me-mo-ri-
+[V: A] f2g2g2g2    |gfedc2c2|f6f2    |d4c2A2- |
+w: _stus su-mi-tur **** re-co-li-tur me-mo
+[V: T] f2e2d2d2    |e8      |z2d4f2- |f2f2f2c2|
+w: Chri-stus su-mi-tur re-co_li-tur me-
+[V: B] D,2C,2G,2G,2|C,4C,4  |B,,6B,,2|B,,2B,,2F,3G,|
+w: _stus su-mi-tur re-co-li-tur me-mo_
+%
+% 21 - 24
+%
+[V: S1] e2e2e4  |z8     |z8       |z8    |
+w: mo-ri-a
+[V: S2] A4G4-   |G2G2A4-|A4F2G2-  |GFF4E2|
+w: a pas_si-o_nis e____
+[V: A] A2A2c4   |z2c4c2 |f2f2d4   |c4c4  |
+w: _ri-a pas-si-o-nis e-ius re-
+[V: T] c3defg2  |e4f2c2-|c2c2B4   |A4G4  |
+w: mo____ri-a pas_si-o-nis e-
+[V: B] A,B,C4C,2|C,4F,4-|F,2F,2B,4|C,4C,4|
+w: ___ri-a pas_si-o-nis e-
+%
+% 25 - 28
+%
+[V: S1] z8     |c4f4    |f2f4f2  |e2e2e4  |
+w: re-co-li-tur me-mo-ri-a
+[V: S2] F4z2C2-|C2F4F2  |D2B2A2A2|A3Bc2G2|
+w: ius re_co-li-tur me-mo-ri-a ** pas-
+[V: A] A4A2A2- |A2A2B2B2|B4d4-   |d2c2A2c2|
+w: co-li-tur_ me-mo-ri-a pas_si-o-nis
+[V: T] F2c4f2- |f2f2d2d2|Bcdef2d2|A2A4e2  |
+w: ius re-co_li-tur me-mo____ri-a pas-si-
+[V: B] F,8-    |F,4z4   |z8      |z8      |
+w: ius_
+%
+% 29 - 32
+%
+[V: S1] d6d2  |e8    |c2d3cc2-|c2=B2c4-|
+w: pas-si-o-nis e____ius
+[V: S2] B2B4A2|c4c3B |A4G4    |z2G4G2  |
+w: si-o-nis e-ius___ pas-si-
+[V: A] B3cd4  |c4z4  |z4z2g2- |g2d2e2e2|
+w: e__ius pas_si-o-nis
+[V: T] f2f2f4 |g2g4g2|f4e4    |d4c2c2- |
+w: o-nis e-ius pas-si-o-nis e-ius pas
+[V: B] z8     |z2C4C2|F,4G,4  |G,4C,4  |
+w: pas-si-o-nis e-ius
+%
+% 33 - 36
+%
+[V: S1] c4z4   |z4z2c2-   |c2c2ABcA|d4c2f2- |
+w: _ mens_ im-ple____tur gra
+[V: S2] A2F4G2-|GFF4E2    |F2F4F2  |DEFGA2A2|
+w: o-nis e____ius mens im-ple____tur
+[V: A] f3ed4   |c2c4c2    |AGABc2A2|B4F4    |
+w: e__ius mens im-ple____tur gra_
+[V: T] c2A2B2G2|A4G4      |z8      |z8      |
+w: _si-o-nis e-ius
+[V: B] F,4B,,4 |A,,3B,,C,4|F,8     |z8      |
+w: pas-si-o-nis e-ius
+%
+% 37 - 40
+%
+[V: S1] (f2e2f4|f4)z4         |z8          |z4c4- |
+w: _ti-a_ &
+[V: S2] G2G2F4 |c4B2A2-       |A2A2B2G2    |A4z4  |
+w: gra-ti-a mens im-ple_tur gra-ti-a
+[V: A] c3BA4   |z2f4f2        |e2c2d2B2    |c3BA4 |
+w: _ti-a mens im-ple-tur gra__ti-a
+[V: T] z2c4c2  |ABcAd4        |c2f4e2      |f2c4c2|
+w: mens im-ple____tur gra-ti-a & fu-
+[V: B] z4F,4-  |F,2F,2D,E,F,G,|A,2A,2G,2G,2|F,8-  |
+w: mens_ im-ple____tur gra-ti-a
+%
+% 41 - 44
+%
+[V: S1] c2c2ABcA|d4c2f2- |f2e2f4-|f4z4   |
+w: _ fu-tu____rae glo_ri-ae_
+[V: S2] F6F2    |DEFGA2A2|G2G2F4 |c4B2A2-|
+w: & fu-tu____rae glo-ri-ae & fu-tu
+[V: A] z8       |z8      |z2c4c2 |ABcAd4 |
+w: & fu-tu____
+[V: T] AGABc2A2 |B4F4    |c3BA4  |z2f4f2 |
+w: tu____rae glo-riae___ & fu-
+[V: B] F,8      |z8      |z4F,4- |F,2F,2D,E,F,G,|
+w: _ &_ fu-tu___
+%
+% 45 - 48
+%
+[V: S1] z8         |z4d4-    |d2d2f4      |e4d4-  |
+w: no_bis pi-gnus da
+[V: S2] A2A2B2G2   |A4B4-    |B2B2B4      |G2c4=BA|
+w: _rae glo-ri-ae no_bis pi-gnus da__
+[V: A] c2f4e2      |f2f4f2   |f3ed4       |c2g4fe |
+w: rae glo-ri-ae no-bis pi__gnus da__
+[V: T] e2c2d2B2    |c4B4-    |B2B2F4      |c4d4   |
+w: tu-rae glo-ri-ae no_bis pi-gnus da
+[V: B] A,2A,2G,2G,2|F,4B,,4- |B,,2B,,2B,,4|C,4G,4-|
+w: _rae glo-ri-ae no_bis pi-gnus da
+%
+% 49 - 53
+%
+[V: S1] d4e4  |[L:1/16] z8|[M:3]c4c4=B4|c12|z12      |z12|
+w: _tur al-le-lu-ia
+[V: S2] =B4c4|[L:1/16] z8|[M:3]G4A4G4  |G12|A4A4G4   |A12|
+w: _tur al-le-lu-ia al-le-lu-ia
+[V: A] d4c4   |[L:1/16] z8|[M:3]c4F4G4 |c12|f4f4d4   |f12|
+w: _tur al-le-lu-ia al-le-lu-ia 
+[V: T] g4g4   |[L:1/16] z8|[M:3]e4f4d4 |e12|c4c4=B4  |c12|
+w: _tur al-le-lu-ia al-le-lu-ia
+[V: B] G,4C,4 |[L:1/16] z8|[M:3]z12    |z12|F,4F,4G,4|F,12|
+w: _tur al-le-lu-ia 
+%
+% 54 - 58
+%
+[V: S1] f4f4e4  |f4d4d4     |c4d4c4    |c4=B4c4  |c4c4c4|
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia al-le-lu-
+[V: S2] c4c4c4  |c4B4B4     |A4B4G4    |A4G4G4   |F4E4E4|
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia al-le-lu-
+[V: A] f4f4g4   |f12        |f4f4e4    |f4d4e4   |f4g4c4|
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia al-
+[V: T] A4A4G4   |A4B4F4     |F4F4c4    |c4G4G4   |c4G4G4|
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia al-le-lu-
+[V: B] F,4F,4C,4|F,4B,,4B,,4|F,4B,,4C,4|F,4G,4C,4|F,4C,4C,4|
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia al-le-lu-
+%
+% 59 - 63
+%
+[V: S1] A12  |c4c4=B4|c12|z12      |z12|
+w: ia al-le-lu-ia 
+[V: S2] F12  |G4A4G4 |G12|A4A4G4   |A12|
+w: ia al-le-lu-ia al-le-lu-ia 
+[V: A] c4c4c4|e4f4d4 |e12|c4c4=B4  |d12|
+w: le-lu-ia al-le-lu-ia al-le-lu-ia 
+[V: T] F12   |c4F4G4 |c12|f4f4d4   |f12|
+w: ia al-le-lu-ia al-le-lu-ia
+[V: B] F,12  |z12    |z12|F,4F,4G,4|F,12|
+w: ia al-le-lu-ia
+%
+% 64 - 67
+%
+[V: S1] f4f4e4  |f4d4d4     |c4d4c4    |c4=B4c4|
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia 
+[V: S2] c4c4c4  |c4B4B4     |A4B4G4    |A4G4G4 |
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia 
+[V: A] A4A4G4   |A4B4F4     |F4F4c4    |c4G4G4 |
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia 
+[V: T] f4f4g4   |f12        |f4f4e4    |f4d4e4 |
+w: al-le-lu-ia al-le-lu-ia al-le-
+[V: B] F,4F,4C,4|F,4B,,4B,,4|F,4B,,4C,4|F,4G,4C,4 |
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia
+%
+% 68 - 71
+%
+[V: S1] c4c4c4  |[L:1/4][M:C|]A2B4c2         |d3cB4           |A8|]
+w: al-le-lu-ia al-le-lu__ia.
+[V: S2] F4F4E4  |[L:1/4][M:C|]F8-            |F8-             |F8|]
+w: al-le-lu-ia__
+[V: A] A4G4G4   |[L:1/4][M:C|]F4F4-          |F2f2d4          |c8|]
+w: al-le-lu-ia al_le-lu-ia.
+[V: T] c12      |[L:1/4][M:C|]c2d4c2         |B3A/G/F4        |F8|]
+w: lu-ia al-le-lu___ia.
+[V: B] F,4C,4C,4|[L:1/4][M:C|]F,2B,,2B,,2A,,2|B,,2B,,2B,,2B,,2|F,8|]
+w: al-le-lu-ia al-le-lu-ia al-le-lu-ia.
+%
+% End of file O_Sacrum_Convivium.abc
