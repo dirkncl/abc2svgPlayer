@@ -1,0 +1,323 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% This file is a part of the Open Hymnal Project to create a free, 
+% public domain, downloadable database of Christian hymns, spiritual 
+% songs, and prelude/postlude music.  This music is to be distributed 
+% as complete scores (words and music), using all accompaniment parts, 
+% in formats that are easily accessible on most computer OS's and which
+% can be freely modified by anyone.  The current format of choice is the 
+% "ABC Plus" format, favored by folk music distributors on the internet.
+% All scores will also be converted into pdf, MIDI, and mp3 formats.
+% Some advanced features of ABC Plus are used, and for accurate 
+% translation to a printed score, please consider using "abcm2ps" 
+% version 4.10 or later.  I am doing my best to create a final product
+% that is "Hymnal-quality", and could feasibly be used as the basis for
+% a printed church hymnal.
+%
+% The maintainer of the Open Hymnal Project is Brian J. Dumont (brian 
+% dot j dot dumont at gmail dot com).  I have gone through serious efforts 
+% to make sure that no copyrighted material makes it into this database.
+% If I am in error, please inform me as soon as possible.
+%
+% This entire effort has used only free software, and I am indebted to 
+% the efforts of many other individuals, including the authors of
+% the various ABC and ABC Plus software, the authors of "noteedit"
+% where the initial layouts are done, and the maintainers of the 
+% "CyberHymnal" on the web from where most of the lyrics come.
+% Undoubtedly, I am also indebted to all of the great Christians who 
+% wrote these hymns.
+%
+% This database comes with no guarantees whatsoever.
+%
+% I would love to get email from anyone who uses the Open Hymnal, and
+% I will take requests for hymns to add.  My decision of whether to 
+% add a hymn will be based on these criteria (in the following order):
+% 1) It must be in the public domain
+% 2) It must be a Christian piece
+% 3) Whether I have access to a printed copy of the music (surprisingly,
+%    a MIDI file is usually a terrible source)
+% 4) Whether I like the hymn :)
+%
+% If you would like to contribute to the Open Hymnal Project, please 
+% send an email to me, I would love the help!  PLEASE EMAIL ME IF YOU 
+% FIND ANY MISTAKES, no matter how small.  I want to ensure that every 
+% slur, stem, hyphenation, and punctuation mark is correct; and I'm sure 
+% that there must be mistakes right now.
+%
+% Open Hymnal Project, 2009 Edition
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% PAGE LAYOUT
+%
+%%pagewidth	21.6000cm
+%%pageheight	27.9000cm
+%%scale		0.70000
+%%staffsep	1.60000cm
+%%exprabove	false
+%%measurebox	false
+%%combinevoices 1
+%%measurenb 0
+%OHSCRIP Is 38:19-20, Is 6:1-4, Rev 18:20, Phil 2:5-8, 1Tim 2:5-6
+%OHTOPICS {Church in Heaven (Church Victorious/Church Triumphant)}, {Father}, {Following Jesus, Sanctification}, {God, As King}, {God, Care of}, {God, Eternity of}, {God, Goodness of}, {God, Majesty &amp; Power of}, {God, Mercy of}, {God's Children - the Faithful (see also Saints, People of the World)}, {Holy Spirit}, {Jesus}, {Praise, Father}, {Praise, Son}, {Praise, Holy Spirit}, {Saints (all Faithful)}, {Salvation}, {Second Coming}, {Throne (also see God - As King)}, {Victory}, {Worship}
+%OHCATEGORY CHORAL
+%OHMETRICAL CHORAL
+%OHCOMPLEXITY 4
+%OHCOMPOSER Latin;Luther, Martin (1483-1546)
+%OHARRANGER Moritz von Hessen, Landgraf (1572-1627)
+%OHAUTHOR Luther, Martin (1483-1546)
+%OHTRANSLATOR Massie, Richard (1800-1887)
+
+X: 1
+T: Lord God, Thy Praise We Sing
+T: Te Deum Laudamus
+C: Words: Martin Luther, 1529 or 1531.  Translated by Richard Massie, 1854. 
+C: Music: 'Herr Gott, dich loben wir' ancient Latin, alt by Martin Luther. Found in Klug's Gesangbuch, 1535. 
+C: Setting: Landgraf Moritz, 1612, alt.
+C: copyright: public domain.  This score is a part of the Open Hymnal Project, 2009 Revision.
+L: 1/4 % default length
+%%staves {(S1V1 S1V2) | (S2V1 S2V2)} | {(S3V1 S3V2) | (S4V1 S4V2)}
+V: S1V1 clef=treble name="Choir" sname="Choir"
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+V: S3V1 clef=treble name="Congregation" sname="Congregation"
+V: S3V2 
+V: S4V1 clef=bass 
+V: S4V2 
+M: none
+K: C % key signature
+%
+%%MIDI program 1 1 % Piano 2
+%%MIDI program 2 1 % Piano 2
+%%MIDI program 3 0 % Piano 1
+%%MIDI program 4 0 % Piano 1
+%%MIDI program 5 19 % Church Organ
+%%MIDI program 6 19 % Church Organ
+%%MIDI program 7 19 % Church Organ
+%%MIDI program 8 19 % Church Organ
+%
+% 1
+[V: S1V1] [Q:1/4=150] E2 G A c A A2 | z4 z4 | c c B A B A A2 |
+w: Lord God, Thy praise we sing; Fa- ther in e- ter- ni- ty, 
+[V: S1V2]  B,2 E E E F E2 | x4 x4 | E E G ^F G E ^F2 |
+[V: S2V1]  G,2 B, C C D ^C2 | z4 z4 | G, C D D D ^C D2 |
+[V: S2V2]  E,2 E, A,, A,, D, A,,2 | x4 x4 | C, C, G,, D, G,, A,, D,2 |
+[V: S3V1]  z4 z4 | c2 c B A A G2 | z4 z4 |
+w: Lord God, our thanks we bring; 
+[V: S3V2]  x4 x4 | E2 E D D D B,2 | x4 x4 |
+[V: S4V1]  z4 z4 | A,2 G, G, ^F, F, G,2 | z4 z4 |
+[V: S4V2]  x4 x4 | A,,2 C, G,, D, D, G,,2 | x4 x4 |
+% 1
+[V: S1V1]  z4 z4 | c c B A B A A2 | z4 z4 |
+w: An- gels all and heav'n- ly host
+[V: S1V2]  x4 x4 | C E E C E E ^F2 | x4 x4 |
+[V: S2V1]  z4 z4 | E, A, ^G, A, ^G, A, A,2 | z4 z4 | 
+[V: S2V2]  x4 x4 | A,, A,, E, F, E, A,, D,2 | x4 x4 |
+[V: S3V1]  G2 A B c A G2 | z4 z4 | A G A B c A G2 | 
+w: All the world wor- ships Thee. Of Thy glo- ry loud- ly boast; 
+[V: S3V2]  D2 ^F G E D B,2 | x4 x4 | F E E G E D B,2 |
+[V: S4V1]  B,2 A, G, G, ^F, G,2 | z4 z4 | D B, C B, G, ^F, G,2 |
+[V: S4V2]  G,2 D, G,, C, D, G,,2 | x4 x4 | D, E, A,, G,, C, D, G,,2 |
+% 5
+[V: S1V1]  c2 c c B A B A A2 | z4 z4 z4 | E2 G A B B A2 |
+w: Both Che- ru- bim and Ser- a- phim Ho- ly art Thou, our God! 
+[V: S1V2]  C2 E G G ^F G E ^F2 | x4 x4 x4 | C2 C C E E C2 |
+[V: S2V1]  E2 C C D D D ^C D2 | z4 z4 z4 | G,2 E, A, A, ^G, A,2 |
+[V: S2V2]  A,,2 C, C, G,, D, G,, A,, D,2 | x4 x4 x4 | C,2 C, A,, E, E, A,,2 |
+[V: S3V1]  z4 z4 z2 | A2 A G A B c A G4 | z4 z4 |
+w: Sing ev- er with loud voice this hymn: 
+[V: S3V2]  x4 x4 x2 | F2 E E ^F G E D B,4 | x4 x4 |
+[V: S4V1]  z4 z4 z2 | D2 C B, D B, G, ^F, G,4 | z4 z4 |
+[V: S4V2]  x4 x4 x2 | D,2 A,, E, D, G,, C, D, G,,4 | x4 x4 |
+% 9
+%%newpage
+V: S1V1 clef=treble name="Choir" sname="Choir"
+V: S3V1 clef=treble name="Cong." sname="Cong."
+[V: S1V1]  z4 z4 | B2 B B d A A G A B c A G4 |
+w: Ho- ly art Thou, our God, the Lord of Sa- ba- oth! 
+[V: S1V2]  x4 x4 | E2 G D F F E B, D D E D B,4 |
+[V: S2V1]  z4 z4 | G,2 B, B, A, D ^C E A, G, G, ^F, G,4 |
+[V: S2V2]  x4 x4 | E,2 E, G, D, D, A,, E, [D,F,] G,, C, D, G,,4 |
+[V: S3V1]  E2 G A B B A2 | B2 B B d A A G A B c A G4 |
+w: Ho- ly art Thou, our God! Ho- ly art Thou, our God, the Lord of Sa- ba- oth! 
+[V: S3V2]  C2 C C E E C2 | E2 G D F F E B, D D E D B,4 |
+[V: S4V1]  G,2 E, A, A, ^G, A,2 | G,2 B, B, A, D ^C E A, G, G, ^F, G,4 |
+[V: S4V2]  C,2 C, A,, E, E, A,,2 | E,2 E, G, D, D, A,, E, [D,F,] G,, C, D, G,,4 |
+% 13
+[V: S1V1]  c2 c c B A B A A2 | z4 z4 z4 
+w: Thy maj- es- ty and god- ly might 
+w:  * * * * * * * * 
+w:  * * * * * * * * 
+[V: S1V2]  C2 E G G ^F G ^F E2 | x4 x4 x4 
+[V: S2V1]  E2 C C D D D D ^C2 | z4 z4 z4 
+[V: S2V2]  A,,2 C, C, G,, D, G,, D, A,,2 | x4 x4 x4 
+[V: S3V1]  x4 x4 x2 | A A A G A B c A G4 
+w: Fill the earth and all the realms of light. 
+w: * * * * * * * * * 
+w: * * * * * * * * * 
+[V: S3V2]  z4 z4 z2 | F F E E C E E D B,4 
+[V: S4V1]  x4 x4 x2 | D D C B, A, G, G, ^F, G,4 
+[V: S4V2]  z4 z4 z2 | D, D, A,, E, F, E, C, D, G,,4 
+% 13
+[V: S1V1] |: c2 c c B A B A A2 | z4 z4 z4 :|
+w: The twelve a- pos- tles join in song 
+w: The mar- tyrs' no- ble ar- my raise 
+w: The u- ni- ver- sal Church doth Thee 
+[V: S1V2] |: C2 E G G ^F G ^F E2 | x4 x4 x4 :|
+[V: S2V1] |: E,2 E, E D D D D ^C2 | z4 z4 z4 :|
+[V: S2V2] |: A,,2 C, C, G,, D, G,, D, A,,2 | x4 x4 x4 :|
+[V: S3V1] |: z4 z4 z2 | A2 A G A B c A G4 :|
+w: With the dear pro- phets' good- ly throng 
+w: Their voice to Thee in hymns of praise. 
+w: Through- out the world con- fess to be 
+[V: S3V2] |: x4 x4 x2 | F2 C E F G E D B,4 :|
+[V: S4V1] |: z4 z4 z2 | D2 A, B, D B, G, ^F, G,4 :|
+[V: S4V2] |: x4 x4 x2 | D,2 F, E, D, G,, C, D, G,,4 :|
+% 13
+%%newpage
+[V: S1V1]  c2 c c B A B A A2 | z4 z4 z4 |
+w:  Thee, Fa- ther, on Thy high- est throne, 
+[V: S1V2]  C2 E G G ^F G ^F E2 | x4 x4 x4 |
+[V: S2V1]  E,2 E, E D D D D ^C2 | z4 z4 z4 |
+[V: S2V2]  A,,2 C, C, G,, D, G,, D, A,,2 | x4 x4 x4 |
+[V: S3V1]  z4 z4 z2 | A2 A G A B c/ c/ A G4 |
+w: Thy wor- thy, true, and well be- lov'd Son,
+[V: S3V2]  x4 x4 x2 | F2 C E F G E/ E/ D B,4 |
+[V: S4V1]  z4 z4 z2 | D2 A, B, D B, G,/ G,/ ^F, G,4 |
+[V: S4V2]  x4 x4 x2 | D,2 F, E, D, G,, C,/ C,/ D, G,,4 |
+% 17
+[V: S1V1]  c2 c/ c/ c B A B A A2 | z4 z4 z4 |
+w: The Com- fort- er, ev'n the Ho- ly Ghost,
+[V: S1V2]  C2 E/ E/ G G ^F G ^F E2 | x4 x4 x4 |
+[V: S2V1]  E,2 E,/ E,/ E D D D D ^C2 | z4 z4 z4 |
+[V: S2V2]  A,,2 C,/ C,/ C, G,, D, G,, D, A,,2 | x4 x4 x4 |
+[V: S3V1]  z4 z4 z2 | A2 A G A B c A G4 |
+w:  Where- of she makes her con- stant boast. 
+[V: S3V2]  x4 x4 x2 | F2 C E F G E D B,4 |
+[V: S4V1]  z4 z4 z2 | D2 A, B, D B, G, ^F, G,4 |
+[V: S4V2]  x4 x4 x2 | D,2 F, E, D, G,, C, D, G,,4 |
+% 17
+[V: S1V1]  A2 A/ A/ A G B B A A2 | z4 z4 z4 
+w: Thee King of all glo- ry, Christ, we own, 
+[V: S1V2]  D2 F/ F/ E E G G ^F E2 | x4 x4 x4 
+[V: S2V1]  F,2 A,/ A,/ C C B, D D ^C2 | z4 z4 z4 
+[V: S2V2]  D,2 D,/ D,/ A,, C, G,, G,, D, A,,2 | x4 x4 x4 
+[V: S3V1]  z4 z4 z2 | A2 A G A3/4 B// c G G E4 
+w:  Th'e- ter- nal Fa- ther's e- ter- nal Son. 
+[V: S3V2]  x4 x4 x2 | F2 E E [C3/4E3/4] E// C [CE] [B,D] C4
+[V: S4V1]  z4 z4 z2 | D2 C B, A,3/4 A,// E, G, G, G,4 
+[V: S4V2]  x4 x4 x2 | D,2 A,, E, A,,3/4 A,,// A,, G,, G,, C,4 
+%%newpage
+% 21
+[V: S1V1] |: A2 A A G B B A A2 | z4 z4 z4 :|
+w: To save man- kind Thou hast not, Lord, 
+w: Thou ov- er cam- est death's sharp sting, 
+w: At God's right hand Thou sitt- est, clad
+w: Thou shalt in glo- ry come a- gain,
+[V: S1V2] |: F2 F E E G G ^F E2 | x4 x4 x4 :|
+[V: S2V1] |: D2 A, C C B, D D ^C2 | z4 z4 z4 :|
+[V: S2V2] |: D,2 D, A,, C, G,, G,, D, A,,2 | x4 x4 x4 :|
+[V: S3V1] |: z4 z4 z2 | A2 A G A c G G E4 :|
+w: The Vir- gin Ma- ry's womb ab- horred; 
+w: Be- lie- vers un- to heav'n to bring; 
+w: In th'glo- ry with the Fa- ther had; 
+w: To judge both dead and liv- ing men. 
+[V: S3V2] |: x4 x4 x2 | F2 E E E C [CE] [B,D] C4 :|
+[V: S4V1] |: z4 z4 z2 | D2 C B, C E, G, G, G,4 :|
+[V: S4V2] |: x4 x4 x2 | D,2 A,, E, A,, A,, A,, G,, C,4 :|
+% 21
+[V: S1V1] A2 A2 A2 G2 B2 B2 A2 A4 | z2 z4 z4 z4 z4 |
+w: Thy ser- vants help whom Thou, O God, 
+[V: S1V2] E2 F2 E2 E2 G2 G2 ^F2 E4 | x2 x4 x4 x4 x4 |
+[V: S2V1] D2 A,2 C2 C2 B,2 D2 D2 ^C4 | z2 z4 z4 z4 z4 |
+[V: S2V2] D,2 D,2 A,,2 C,2 G,,2 G,,2 D,2 A,,4 | x2 x4 x4 x4 x4 |
+[V: S3V1] z2 z4 z4 z4 z4 | A2 A2 A2 A2 A2 c2 G G E4 |
+w: Hast ran- somed with that pre- ci- ous blood; 
+[V: S3V2]  x2 x4 x4 x4 x4 | F2 E2 E2 E2 E2 C2 [CE] [B,D] C4 |
+[V: S4V1]  z2 z4 z4 z4 z4 | D2 C2 C2 B,2 C2 E,2 G, G, G,4 |
+[V: S4V2]  x2 x4 x4 x4 x4 | D,2 A,,2 A,,2 E,2 A,,2 A,,2 G,, G,, C,4 |
+% 25
+[V: S1V1]  F2 D F E D E ^F G2 | z4 z4 z4 |
+w: Grant that we share the heav'n- ly rest 
+[V: S1V2]  A,2 A, D C A, C C D2 | x4 x4 x4 |
+[V: S2V1]  F,2 F, A, A, F, G, A, B,2 | z4 z4 z4 |
+[V: S2V2]  D,2 D, D, B,, D, C, A,, G,,2 | x4 x4 x4 |
+[V: S3V1]  z4 z4 z2 | G G G3/2 G/ A F G3/4 G// F E4 |
+w: With the hap- py saints e- ter- nal- ly blest. 
+[V: S3V2]  x4 x4 x2 | C D E3/2 E/ F C E3/4 E// D ^C4 |
+[V: S4V1]  z4 z4 z2 | G, B, C3/2 C/ C A, C3/4 C// A, A,4 |
+[V: S4V2]  x4 x4 x2 | C, G,, C,3/2 C,/ F,, F,, C,3/4 C,// D, A,,4 |
+% 25
+%%newpage
+[V: S1V1] C2 D F E D F D ^C2 | z4 z4 z4 |
+w: Help us, O Lord, from age to age, 
+[V: S1V2] A,2 B, C C B, C B, A,2 | x4 x4 x4 |
+[V: S2V1] E,2 G, A, G, G, A, G, E,2 | z4 z4 z4 |
+[V: S2V2] A,,2 G,, F,, C, G,, F,, G,, A,,2 | x4 x4 x4 |
+[V: S3V1] z4 z4 z2 | G2 G G A F G F E4 |
+w: And bless Thy cho- sen her- i- tage. 
+[V: S3V2] x4 x4 x2 | E2 D E F C E D ^C4 |
+[V: S4V1] z4 z4 z2 | G,2 B, C C B, C A, A,4 |
+[V: S4V2] x4 x4 x2 | C,2 G,, C, F,, F,, C, D, A,,4 |
+% 29
+[V: S1V1]  F2 F F E D F D ^C2 | z4 z4 z4 |
+w: Nou- rish and keep them by Thy pow'r, 
+[V: S1V2]  A,2 C C C B, C B, A,2 | x4 x4 x4 |
+[V: S2V1]  C2 A, A, G, G, A, G, E,2 | z4 z4 z4 |
+[V: S2V2]  F,,2 F,, F,, C, G,, F,, G,, A,,2 | x4 x4 x4 |
+[V: S3V1]  z4 z4 z2 | G2 G G A F G F E4 |
+w: And lift them up for ev- er- more. 
+[V: S3V2]  x4 x4 x2 | E2 D E F C E D ^C4 |
+[V: S4V1]  z4 z4 z2 | G,2 B, C C B, C A, A,4 |
+[V: S4V2]  x4 x4 x2 | C,2 G,, C, F,, F,, C, D, A,,4 |
+% 29
+[V: S1V1]  E2 G A A A c A A2 | z4 z4 z4 
+w: Lord God, we praise Thee day by day, 
+[V: S1V2]  B,2 E E F F A E ^F2 | x4 x4 x4 
+[V: S2V1]  G,2 B, C D D E C D2 | z4 z4 z4 
+[V: S2V2]  E,2 E, A,, D, D, A,, A,, D,2 | x4 x4 x4 
+[V: S3V1]  z4 z4 z2 | A2 A G A c G G E4 
+w: And sanc- ti- fy Thy Name al- ways. 
+[V: S3V2]  x4 x4 x2 | E2 F E C C [CE] [B,D] C4 
+[V: S4V1]  z4 z4 z2 | C2 D B, A, A, G, G, G,4 
+[V: S4V2]  x4 x4 x2 | A,,2 D, E, A,, F,, G,, G,, C,4 
+% 33
+%%newpage
+[V: S1V1] |: A2 A A G B B A A2 | z4 z4 z4 :|
+w: Keep us this day, and at all times, 
+w: For mer- cy on- ly, Lord, we plead; 
+w: Show us Thy mer- cy, Lord, as we 
+[V: S1V2] |: F2 F F E G G F E2 | x4 x4 x4 :|
+[V: S2V1] |: A,2 C C C D D D ^C2 | z4 z4 z4 :|
+[V: S2V2] |: F,,2 F,, F,, C, G,, G,, D, A,,2 | x4 x4 x4 :| 
+[V: S3V1] |: z4 z4 z2 | A2 A G A c G G E4 :|
+w: From sec- ret sins and o- pen crimes; 
+w: Be mer- ci- ful to our great need. 
+w: Our stead- fast trust re- pose in Thee. 
+[V: S3V2] |: x4 x4 x2 | E2 F E C C [CE] [B,D] C4 :| 
+[V: S4V1] |: z4 z4 z2 | C2 D B, A, A, G, G, G,4 :|
+[V: S4V2] |: x4 x4 x2 | A,,2 D, E, A,, F,, G,, G,, C,4 :|
+% 33
+[V: S1V1] F2 D2 F2 G2 A2 G2 F2 E2 | z2 z4 z4 z4 z4 |
+w: In Thee, Lord, have we put our trust; 
+[V: S1V2] A,2 A,2 D3 E F2 E2 D2 ^C2 | x2 x4 x4 x4 x4 |
+[V: S2V1] F,2 F,2 _B,3 B, A,2 C2 A,2 A,2 | z2 z4 z4 z4 z4 |
+[V: S2V2] D,2 D,2 _B,,2 G,,2 F,,2 C,2 D,2 A,,2 | x2 x4 x4 x4 x4 |
+[V: S3V1] z4 z4 z4 z4 | F2 F2 G2 A2 F2 G2 F2 E4 |
+w: O nev- er let our hope be lost!
+[V: S3V2] x4 x4 x4 x4 | D2 D2 E2 F2 C2 E2 D2 ^C4 |
+[V: S4V1] z4 z4 z4 z4 | A,2 A,2 C2 C2 A,2 C2 A,2 A,4 |
+[V: S4V2] x4 x4 x4 x4 | D,2 D,2 C,2 C,2 F,2 C,2 D,2 A,,4 |
+% 37
+[V: S1V1]  (G2 E2 C2 D2) E4-E4 |]
+w: A- * * * men. *
+[V: S1V2]  (B,3/2 A,//B,// C G, A,/B,/ C3/2 B,/B,/A,//B,//) (C/D/E/D/C/B,/ C B,4) |]
+[V: S2V1]  (D,2 E,4 G,4) (A,2 ^G,4) |]
+[V: S2V2]  (G,,2 C,3/2 B,,/A,,/G,,/ A,, G,,2) (C,3/2 B,,/A,,/^G,,/ A,, [E,,4E,4]) |]
+[V: S3V1]  (G2 E2 C2 D2) E4-E4 |]
+w:  A- * * * men. *
+[V: S3V2]  (B,3/2 A,//B,// C G, A,/B,/ C3/2 B,/B,/A,//B,//) (C/D/E/D/C/B,/ C B,4) |]
+[V: S4V1]  (D,2 E,4 G,4) (A,2 ^G,4) |]
+[V: S4V2]  (G,,2 C,3/2 B,,/A,,/G,,/ A,, G,,2) (C,3/2 B,,/A,,/^G,,/ A,, [E,,4E,4]) |]
+% 39

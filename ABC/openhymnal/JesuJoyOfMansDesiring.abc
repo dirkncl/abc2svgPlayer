@@ -1,0 +1,219 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% This file is a part of the Open Hymnal Project to create a free, 
+% public domain, downloadable database of Christian hymns, spiritual 
+% songs, and prelude/postlude music.  This music is to be distributed 
+% as complete scores (words and music), using all accompaniment parts, 
+% in formats that are easily accessible on most computer OS's and which
+% can be freely modified by anyone.  The current format of choice is the 
+% "ABC Plus" format, favored by folk music distributors on the internet.
+% All scores will also be converted into pdf, MIDI, and mp3 formats.
+% Some advanced features of ABC Plus are used, and for accurate 
+% translation to a printed score, please consider using "abcm2ps" 
+% version 4.10 or later.  I am doing my best to create a final product
+% that is "Hymnal-quality", and could feasibly be used as the basis for
+% a printed church hymnal.
+%
+% The maintainer of the Open Hymnal Project is Brian J. Dumont (brian 
+% dot j dot dumont at gmail dot com).  I have gone through serious efforts 
+% to make sure that no copyrighted material makes it into this database.
+% If I am in error, please inform me as soon as possible.
+%
+% This entire effort has used only free software, and I am indebted to 
+% the efforts of many other individuals, including the authors of
+% the various ABC and ABC Plus software, the authors of "noteedit"
+% where the initial layouts are done, and the maintainers of the 
+% "CyberHymnal" on the web from where most of the lyrics come.
+% Undoubtedly, I am also indebted to all of the great Christians who 
+% wrote these hymns.
+%
+% This database comes with no guarantees whatsoever.
+%
+% I would love to get email from anyone who uses the Open Hymnal, and
+% I will take requests for hymns to add.  My decision of whether to 
+% add a hymn will be based on these criteria (in the following order):
+% 1) It must be in the public domain
+% 2) It must be a Christian piece
+% 3) Whether I have access to a printed copy of the music (surprisingly,
+%    a MIDI file is usually a terrible source)
+% 4) Whether I like the hymn :)
+%
+% If you would like to contribute to the Open Hymnal Project, please 
+% send an email to me, I would love the help!  PLEASE EMAIL ME IF YOU 
+% FIND ANY MISTAKES, no matter how small.  I want to ensure that every 
+% slur, stem, hyphenation, and punctuation mark is correct; and I'm sure 
+% that there must be mistakes right now.
+%
+% Open Hymnal Project, 2005 Edition
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% PAGE LAYOUT
+%
+%%pagewidth	21.6000cm
+%%pageheight	27.9000cm
+%%scale		0.730000
+%%staffsep	1.60000cm
+%%measurenb 0
+%%exprabove	false
+%%measurebox	false
+%OHSCRIP Is 26:8
+%OHTOPICS {Anticipation}, {Art and Music [2]}, {Aspiration}, {Assurance}, {Church in Heaven (Church Victorious/Church Triumphant)}, {Consecration}, {Eternal Life}, {Fellowship}, {God, As King}, {God, Creator}, {God, Eternity of}, {God, Goodness of}, {God, Love of}, {Heaven}, {Holiness}, {Hope}, {Jesus}, {Joy}, {Light [1]}, {Praise, Son}, {Throne (also see God - As King) [1]}, {Worship}
+%OHCATEGORY CHORAL
+%OHMETRICAL CHORAL
+%OHCOMPLEXITY 4
+%OHCOMPOSER Schop, Johann (1590-1664)
+%OHARRANGER Bach, Johann Sebastian (1685-1750)
+%OHAUTHOR Janus, Martin (1620-1682)
+%OHTRANSLATOR Bridges, Robert Seymour (1844-1930)
+
+X: 1
+T: Jesus, Joy of Man's Desiring
+C: Words: Martin Janus, 1661; translated probably by Robert S. Bridges (1844-1930).  
+C: Music: 'Jesus bleibet meine Freude' Johann Schop, 1641 and Johann S. Bach, 1723.
+C: Setting: Johann Sebastian Bach, 1723, alt. Brian J. Dumont, 2005.
+C: copyright: public domain.  Arrangement released into public domain 09 June 2005.
+C: This score is a part of the Open Hymnal Project, 2005 Revision.
+S: Music source: composite from numerous sources
+M: 9/4 % time signature
+L: 1/4 % default length
+V: Piano_Treble3V1 clef=treble name="Piano" sname="Piano"
+V: Piano_Treble3V2 
+V: Piano_Bass4V1 clef=bass
+V: Piano_Bass4V2 
+K: G % key signature
+%
+%%MIDI program 1 52 % Choir Aahs
+%%MIDI program 2 52 % Choir Aahs
+%%MIDI program 3 52 % Choir Aahs
+%%MIDI program 4 52 % Choir Aahs
+%%MIDI program 5 0 % Piano 1
+%%MIDI program 6 0 % Piano 1
+%%MIDI program 7 0 % Piano 1
+%%MIDI program 8 0 % Piano 1
+%
+% 1
+%%staves {(Piano_Treble3V1) | (Piano_Bass4V1)} 
+[V: Piano_Treble3V1] [Q:1/4=250] !p! z G A B d c c e d | d g f g d B G A B | c d e d c B A B G | F G A D F A c B A |
+[V: Piano_Bass4V1]  G,,3 G,3 E,3 | B,,3 E,3 E,,3 | A,,3 B,,3 C,3 | D,3 F,3 D,3 |
+% 5
+[V: Piano_Treble3V1]  B G A B d c c e d | d g f g d B G A B | E d c B A G D G F | G B d g d !crescendo(! B G B d  !crescendo)! 
+[V: Piano_Bass4V1]  G,3 E,3 C,3 | G,,3 E,3 D,3 | C,3 ^C,3 D,3 | G,,4- G,, G, E,2 B,, 
+% 9
+V: S1V1 clef=treble name="Choir" sname="Choir"
+V: S1V2 
+V: S2V1 clef=bass
+V: S2V2 
+%%staves {(S1V1 S1V2) | (S2V1 S2V2)} | {(Piano_Treble3V1 Piano_Treble3V2) | (Piano_Bass4V1)}
+[V: S1V1] |: [G6B6] yy [G3c3] | d6 [F3d3] | c6 B3 | [D3A3] [D6A6] | z3 z6 |
+w: 1.~Je- sus joy of man's de- sir- ing 
+w: 2.~Through the way where hope is guid- ing 
+[V: S1V2] |: x9 | (A3 G3) x3 | (G3 D3) B3 | x9 | x9 |
+[V: S2V1] |: D6 x3 | A,6 x3 | x6 G,3 | x9 | x9 |
+[V: S2V2] |: (G,3 F,3) [E,3E3] | (F,3 E,3) [D,3B,3] | ('([E,3B,3] [F,3A,3])) G,3 | [D,3F,3] [D,6F,6] | z6 z3 |
+[V: Piano_Treble3V1] |: !mf! [D6G6B6] [E3G3c3] | [D6d6] d3 | c6 B3 | [FA] D E F A G A c B | c A F D F A c B A |
+[V: Piano_Treble3V2] |: x9 | A3 G3 F3 | G3 D6 | x9 | x9 |
+[V: Piano_Bass4V1] |: G,,3 F,3 E,3 | F,3 E,3 D,3 | E,3 F,3 G,3 | D,3 D,2 D, D,2 D, | D,,3 z2 D, D,2 D, |
+% 14
+[V: S1V1]  [G6B6] [G3c3] | d6 [E3B3] | (,(A3/2 B3/4 c3/4 [F3B3])) [F3A3] | [D6-G6-] [D3G3] |
+w: Ho- ly wis- dom, love___ most bright;_
+w: Hark, what peace- ful mu- * * * sic rings;_ 
+[V: S1V2]  x9 | (G3 D3) x3 | E3 x3 x3 | x9 |
+[V: S2V1]  D6 x3 | D6 x3 | x3/2 A,3/2 x3/2 B,3/2 x3 | [G,6-B,6-] [G,3B,3] |
+[V: S2V2]  (G,3 F,3) [E,3E3] | (B,3 B,,3) [E,3G,3] | ('([C,3/2C3/2] A,3/2 [C,3/2D3/2] B,3/2)) [D,3C3] | x9 |
+[V: Piano_Treble3V1]  [D6G6B6] [E3G3c3] | [D6G6d6] [E3G3B3] | A3/2 B3/4 c3/4 [F3B3] [C3F3A3] | !p! [B,G] G A B d c c e d |
+[V: Piano_Treble3V2]  x9 | x9 | E3 x2 !diminuendo(! x4 !diminuendo)! | x9 |
+[V: Piano_Bass4V1]  G,3 F,3 E,3 | B,,3 B,,3 E,3 | C,3 D,3 D,3 | G,,3 G,3 E,3 |
+% 18
+%%newpage
+%%staves {(Piano_Treble3V1) | (Piano_Bass4V1)} 
+[V: Piano_Treble3V1]  d g f g d B G A B | c d e d c B A B G | F G A D F A c B A |
+[V: Piano_Bass4V1]  B,,3 E,3 E,,3 | A,,3 B,,3 C,3 | D,3 F,3 D,3 |
+% 21
+[V: Piano_Treble3V1]  B G A B d c c e d | d g f g d B G A B | E d c B A G D G F | G B d g d !crescendo(! B G B d !crescendo)! |
+[V: Piano_Bass4V1]  G,3 E,3 C,3 | G,,3 E,3 D,3 | C,3 ^C,3 D,3 | G,,6- G,,3 |
+% 25
+%%staves {(S1V1 S1V2) | (S2V1 S2V2)} | {(Piano_Treble3V1 Piano_Treble3V2) | (Piano_Bass4V1)}
+[V: S1V1]  [G6B6] [G3c3] | d6 [F3d3] | c6 B3 | [D3A3] [D6A6] | z3 z6 |
+w: Drawn by Thee, our souls as- pir- ing 
+w: Where the flock, in Thee con- fid- ing 
+[V: S1V2]  x9 | (A3 G3) x3 | (G3 D3) B3 | x9 | x9 |
+[V: S2V1]  D6 x3 | A,6 x3 | x6 G,3 | x9 | x9 |
+[V: S2V2]  (G,3 F,3) [E,3E3] | (F,3 E,3) [D,3B,3] | ('([E,3B,3] [F,3A,3])) G,3 | [D,3F,3] [D,6F,6] | z6 z3 |
+[V: Piano_Treble3V1]  !mf! [D6G6B6] [E3G3c3] | [D6d6] d3 | c6 B3 | [FA] D E F A G A c B | c A F D F A c B A |
+[V: Piano_Treble3V2]  x9 | A3 G3 F3 | G3 D6 | x9 | x9 |
+[V: Piano_Bass4V1]  G,,3 F,3 E,3 | F,3 E,3 D,3 | E,3 F,3 G,3 | D,3 D,2 D, D,2 D, | D,,3 z2 D, D,2 D, |
+% 30
+[V: S1V1]  [G6B6] [G3c3] | d6 [E3B3] | (,(A3/2 B3/4 c3/4 [F3B3])) [F3A3] | [D6-G6-] [D3G3] |
+w: Soar to un- cre- a- * * * ted light._
+w: Drink of joy from death- * * * less springs._
+[V: S1V2]  x9 | (G3 D3) x3 | E3 x6 | x9 |
+[V: S2V1]  D6 x3 | D6 x3 | x3/2 A,3/2 x3/2 B,3/2 x3 | x9 |
+[V: S2V2]  (G,3 F,3) [E,3E3] | (B,3 B,,3) [E,3G,3] | ('([C,3/2C3/2] A,3/2 [C,3/2D3/2] B,3/2)) [D,3C3] | [G,6-B,6-] [G,3B,3] |
+[V: Piano_Treble3V1]  [D6G6B6] [E3G3c3] | [D6G6d6] [E3G3B3] | A3/2 B3/4 c3/4 [F3B3] !diminuendo(! [C3F3A3] !diminuendo)! | !p! [B,G] G A B d c c e d |
+[V: Piano_Treble3V2]  x9 | x9 | E3 x6 | x9 |
+[V: Piano_Bass4V1]  G,3 F,3 E,3 | B,,3 B,,3 E,3 | C,3 D,3 D,3 | G,,3 G,3 E,3 |
+% 34
+%%staves {(Piano_Treble3V1) | (Piano_Bass4V1)} 
+[V: Piano_Treble3V1]  d g f g d B G A B | c d e d c B A B G | F G A D F A c B A |
+[V: Piano_Bass4V1]  B,,3 E,3 E,,3 | A,,3 B,,3 C,3 | D,3 F,3 D,3 |
+% 37
+%%newpage
+[V: Piano_Treble3V1]  B G A B d c c e d | d g f g d B G A B | E d c B A G D G F | G B d g d !crescendo(! B G B d !crescendo)! |
+[V: Piano_Bass4V1]  G,3 E,3 C,3 | G,,3 E,3 D,3 | C,3 ^C,3 D,3 | G,,6- G,,3 |
+% 41
+%%staves {(S1V1 S1V2) | (S2V1 S2V2)} | {(Piano_Treble3V1 Piano_Treble3V2) | (Piano_Bass4V1)}
+[V: S1V1]  [F6A6] [^G3B3] | [A6c6] [A3c3] | B6 [^G3B3] | A3 A4 z2 |
+w: Word of God, our flesh that fash- ioned, 
+w: Theirs is beau- ty's fair- est plea- sure; 
+[V: S1V2]  x9 | x9 | A6 x3 | x9 |
+[V: S2V1]  D6 x3 | E6 =F3 | x9 | x9 |
+[V: S2V2]  (D,3 C,3) [B,,3D3] | (A,,3 A,3/2 G,3) E,3/2 | (,([D,3F3] [B,,3D3])) [E,3E3] | [A,,3C3] [A,,4C4] z2 |
+[V: Piano_Treble3V1]  !mf! [F6A6] [^G3B3] | [A6c6] [A3c3] | [A6B6] [^G3B3] | A3 A4 z2 |
+[V: Piano_Treble3V2]  x9 | x9 | x9 | x9 |
+[V: Piano_Bass4V1]  D,3 C,3 B,,3 | A,,3 A,3/2 G,3 E,3/2 | D,3 B,,3 E,3 | A,,3 A,,2 A,, A,, z2 |
+% 45
+[V: S1V1]  [A6c6] [G3d3] | e6 [G3e3] | d6 [G3d3] | [G3c3] [G4c4] z2 |
+w: With the fire of life im- pass- ioned, 
+w: Theirs is wis- dom's ho- liest trea- sure. 
+[V: S1V2]  (G3 c3) x3 | (=F3 A3) x3 | x9 | x9 |
+[V: S2V1]  x9 | C6 x3 | A,6 x3 | x9 |
+[V: S2V2]  [A,6E6] [B,3D3] | (C3 A,3) [E,3C3] | (=F,3 E,3) [G,3B,3] | [C,3E3] [C,4E4] z2 |
+[V: Piano_Treble3V1]  [A6c6] [G3d3] | e6 [G3e3] | d6 [G3d3] | [G3c3] [G4c4] z2 |
+[V: Piano_Treble3V2]  x9 | G3 c3 x3 | =F3 A3 x3 | x9 |
+[V: Piano_Bass4V1]  A,,3 A,3 B,3 | C3 A,3 E,3 | =F,3 E,3 G,3 | C,3 C,2 C, C, z2 |
+% 49
+[V: S1V1]  [G6B6] [G3c3] | [G6d6] [G3d3] | c3 [G3B3] [F3-A3-] | [F6A6] z3 |
+w: Striv- ing still to truth un- known,  * 
+w: Thou dost ev- er lead Thine own  * 
+[V: S1V2]  x9 | x9 | (G3/2 ^F3/2) x6 | x9 |
+[V: S2V1]  x9 | x9 | x9 | x9 |
+[V: S2V2]  [G,6D6] [E,3E3] | (,([B,,3D3] [E,3B,3])) [E,3B,3] | [A,,3C3] [B,,3D3] [C,3-E3-] | [C,6E6] z3 |
+[V: Piano_Treble3V1]  [G6B6] [G3c3] | [G6d6] [G3d3] | c3 [G3B3] [F3-A3-] | [F6A6] z3 |
+[V: Piano_Treble3V2]  x9 | x9 | G3/2 ^F x4 x2 x/ | x9 |
+[V: Piano_Bass4V1]  G,,3 G,3 E,3 | B,,3 E,3 E,3 | A,,3 B,,3 C,3- | C,6 z3 |
+% 53
+%%newpage
+[V: S1V1]  [G6B6] [G3c3] | (,([G3d3] E3)) [E3B3] | (,(A3/2 B3/4 c3/4 [F3B3])) [F3A3] | [D6-G6-] [D3G3] |
+w: Soar- ing, dy- * ing round___ Thy throne._ 
+w: In the love * of joys___ un- known._
+[V: S1V2]  x9 | x3 E3 x3 | E3 x6 | x9 |
+[V: S2V1]  D6 x3 | x9 | x3/2 A,3/2 x3/2 B,3/2 x3 | x9 |
+[V: S2V2]  (G,3 F,3) [E,3E3] | (,([B,3D3] [B,,3B,3])) [E,3G,3] | ('([C,3/2C3/2] A,3/2 [D,3/2D3/2] B,3/2)) [D,3C3] | [G,6-B,6-] [G,3B,3] |
+[V: Piano_Treble3V1]  [G6B6] [G3c3] | [G3d3] E3 [E3B3] | A3/2 B3/4 c3/4 [F3B3] !diminuendo(! [F3A3] !diminuendo)! | !p! [DG] G A B d c c e d |
+[V: Piano_Treble3V2]  x9 | x3 E3 x3 | E3 x6 | x9 |
+[V: Piano_Bass4V1]  G,,3 F,3 E,3 | B,3 B,,3 E,3 | C,3 D,3 D,3 | G,,3 G,3 E,3 |
+% 57
+%%staves {(Piano_Treble3V1) | (Piano_Bass4V1)} 
+[V: Piano_Treble3V1]  d g f g d B G A B | c d e d c B A B G | F G A D F A c B A | B G A B d c c e d |
+[V: Piano_Bass4V1]  B,,3 E,3 E,,3 | A,,3 B,,3 C,3 | D,3 F,3 D,3 | G,3 E,3 C,3 |
+% 61
+[V: Piano_Treble3V1]  d g f g d B G A B | E d c B A G D G F | G B d g d B G B d :|
+[V: Piano_Bass4V1]  G,,3 E,3 D,3 | C,3 ^C,3 D,3 | G,,6- G,,3 :|
+% 64
+[V: Piano_Treble3V1]  =f d B G B d e c A | ^F A c d B G E G B | c A F D F !diminuendo(! A c B A !diminuendo)! | !p! [GB] G A B d c c e d |
+[V: Piano_Bass4V1]  G,,3 G,,6- | G,,3 G,,6- | G,,6 G,,3 | G,3 E,3 C,3 |
+% 68
+[V: Piano_Treble3V1]  d g f g d B G A B | E d c B A G D G [CF] | [B,6-D6-G6-] [B,3D3G3] |]
+[V: Piano_Bass4V1]  B,,3 E,3 D,3 | C,3 ^C,3 D,3 | G,,6- G,,3 |]
+% 71
