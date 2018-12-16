@@ -6,11 +6,11 @@
   
   - Choral - https://dirkncl.github.io/abc2svgPlayer/Choral.html
 
-  - abcother - https://dirkncl.github.io/abc2svgPlayer/abcTune.html
+  - abcTune - https://dirkncl.github.io/abc2svgPlayer/abcTune.html
   
   - abcother - https://dirkncl.github.io/abc2svgPlayer/abcother.html
 
-  - abcother - https://dirkncl.github.io/abc2svgPlayer/NMD.html
+  - NMD - https://dirkncl.github.io/abc2svgPlayer/NMD.html
 
 
 - abc2svg - http://moinejf.free.fr/js/
