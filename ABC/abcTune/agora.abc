@@ -1,0 +1,40 @@
+%abc
+%%vocalfont Times-Roman 13.0
+X:1
+%%header "Agora viniesse un viento		$P / 1"
+%%newpage 1
+T:Agora viniesse un viento
+%T:(ton original)
+C:Luys de Milan (1536)
+M:4/4
+Q:1/4=132
+K:Em
+%%staves 1 {2 3 4}
+%%continueall 1
+%%maxshrink 0.5
+V:1
+%%MIDI program 40
+SB2c2d4|e2d2d2c2|B4B4|B2cBA4|
+w:A-go-ra vi-nies-se un vien-to que me e-chas-
+w:Y me hi-sies-se tan con-ten-to que me e-chas-
+Bcd4c2|B4A8!fine!|:e2f2g4|f2e2e2^d2|
+w:se a-cu-lla den-tro. A-go-ra vi-nies-se un
+w:se a-cu-lla den-tro. que me~e-chas-se a-cu-lla
+e4e4|B2cBA4|Bcd4A2|B2B2A8S:|
+w:vien-to tan bue--no co--mo quer--ri-a.
+w:den-tro en fal--das de_ mi a--mi-ga.
+V:2
+%%MIDI program 24
+[B2^G2][c2A2][d4=G4]|[e2c2]d2d2[c2A2]|e4[e4B4]|[B2^G2]cB f=gaf|
+[gB][ac]b2d2e2|[e4B4][^c8A8]|:[e2c2][f2d2][g4d4]|[f2d2][e2B2][e2c2][^d2B2]|
+[eB]=d/c/ B/A/G/F/E4|[B2^G2]cB f=gaf|g2gab2f2|e2e2[^c8A8]:|
+V:3
+%%MIDI channel 2
+x2x2x4|x2GA BGx2|B/E/F/^G/A/B/c/A/x4|x2A2d4|
+d2d2G2A2-|A2^G2x8|:x2x2B4|x2x2x2x2|
+x4x4|x2A2[d4A4]|d2d4dc|BAB2x8:|
+V:4
+%%MIDI channel 2
+[E2E,2][E2A,2][D4G,4]|[G2C2][D4G,4][E2A,2]|E,4E,4|[E2E,2][E2A,2][A4D4]|
+G,3A, B,G,A,2|E,4[E8A,8]|:[G2C2][A2D2]G,A,B,C|[A2D2][G2E2][A2A,2][F2B,2]|
+E,8|[E2E,2][E2A,2]D4|[BG][cA][B4G4][A2D2]|E2E2[E8A,8]:|

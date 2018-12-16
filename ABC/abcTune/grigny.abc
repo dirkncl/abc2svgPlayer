@@ -1,0 +1,147 @@
+%%textfont Times-Roman 12
+%%annotationfont Times-Roman 12
+%%postscript /lphr{    % usage: x y lphr
+%%postscript   1.2 setlinewidth 9 sub exch 15 sub exch M 0 -12 RL 4 0 RM 0 12 RL stroke}!
+
+X:1
+T:Dialogue
+C:Nicolas de Grigny
+M:C|
+L:1/8
+%%header "Dialogue		$P / 3"
+%%squarebreve 1
+%%continueall 1
+%%staves {(1 2) (3 4)}
+K:Am
+%%begintext
+G.O.  Grand choeur léger
+P.    Trompette et Clairon
+R.    Grand Plein Jeu
+G.P.R.
+Ped.  Fonds 32, 16, 8, 4
+%%endtext
+V:1
+%%MIDI program 16
+"@-10,-55Grand Jeu (G.P.R.)"a3gf2e2|d2c2B2A2^G2A2PG3A|{A}MB4E2^F2{F}G=FE2A4-|A8-A6^G2|A8||
+V:2
+%%MIDI program 16
+[ce]4c2B2|A2G2F2E2D2C2D4|D4C4B,2MCB,A,2B,2|{B,}C8-C4{C}B,2MCD|[CE]8||
+V:3
+%%MIDI program 16
+A,4A,4|A,B,C2D2A,2B,2A,2B,4|B,4A,4D,2E,4D,2|E,4F,4^F,4E,4-|E,8||
+V:4
+%%MIDI program 16
+A,,4A,2G,2|F,2E,2D,2C,2B,,2C,2B,,2A,,2|^G,,4A,,4=G,,4F,,4|C,,4D,,4^D,,4E,,4|A,,8||
+V:1
+"@0,-45Petit Jeu (R.)"Me3dc2e2|Pd3cB2d2PcBcdedcB|AE^F^GABcd edcB ABcd|
+V:2
+x8|x16|x8A3=G=F2A2|
+V:3
+x8|x16|x16|
+V:4
+z8|z16|z16|
+V:1
+PBcdB edPcBA2ABc2de|{e}Mf4A3B{B}Mc3de4|{e}d2PcB{B}Mc3dPB4[ce]2P^c2|
+V:2
+G3FE2G2FEFGAGFE|DA,B,CDEFGA2E2cBAG|{G}^F2^G2A4=G3=FE2G2|
+V:3
+x16|x16|x16|
+V:4
+z16|z16|z8E3DC2E2|
+V:1
+d8e6ed&\
+A4B4c4B4|Pc8B2g4f2|e2d^c{c}Md4=c8|
+V:2
+^F4G4E3^F^G4|A8G4A4-|A6B2E4A4|
+V:3
+x16|x16|x16|
+V:4
+PD3CB,2D2PCB,CDEDCB,|A,E,^F,^G,A,B,CDE4{E}M=F2{E}D2|P^C2DEF4!longphrase!y10"@-10,-45Basse (P.)"A,3G,F,2A,2|
+V:1
+B4c2B2A6B^c|d3ef4e8-|e2Pdef4e2B2c4|
+V:2
+D4G4C2D2^C2DE|F4-FGABc6B2|A8B2^G2A4|
+V:3
+x16|x16|x16|
+V:4
+PG,3F,E,2G,2PF,E,F,G,A,G,PF,E,|D,A,,B,,C,D,E,F,G, A,B,CDEFGE|MFGFEDCB,A,^G,2EDCB,A,=G,|
+V:1
+d2A2B4c8-|c4B4c3de4|d2g2f4e4^f4|
+V:2
+A2^F2G4G8|F8E4-EFGA|B4A3Bc4B2A2|
+V:3
+x16|x16|x16|
+V:4
+^F,2DCB,A,G,=F,E,2CB,A,G,F,E,|D,C,B,,A,,G,,F,,E,,D,, C,,G,,A,,B,,C,D,E,F,|G,A,B,CDEFG AG^FEP^D3^C/D/|
+%(2)
+V:1
+PB3AB2c2PB4e4&\
+x12c4|A4d4G2A2^G2AB&\
+      x4B4x8|c2AB cde6^d4|
+V:2
+^G3^FG2A2G4A2=G2|^F4G2=F2E8|E4-E3^FG4A4|
+V:3
+x16|x16|x16|
+V:4
+E4z4E,3D,C,2E,2|PD,3C,B,,2D,2PC,B,,C,D,E,D,C,B,,|A,,E,,^F,,^G,,A,,B,,C,D,E,3^F,/=G,/PF,3E,/F,/|
+V:1
+e12e4|d8-d2c2PB3A|A8!longphrase!y10"@-15,-35Dessus (P.)"Me3dc2e2|
+V:2
+[^GB]12A4|A4P^GAB2-B2A2G4|[CE]8x8|
+V:3
+x16|x16|x8C8||
+V:4
+A,^F,/^G,/A,/B,/C/D/PD3^C/D/ E3/D/ =CB,/C/PC3B,/A,/|FEDF B,D^G,B,C,3A,,E,2E,,2|A,,8!longphrase!y10"@-5,-40(R.)"A,8-|
+V:1
+Pd3cB2d2PcBcdedcB|AE^F^GABcd{d}Me8-|e3^f/g/Pg3f/g/a8-|
+V:2
+x16|x16|x16|
+V:3
+B,8A,8-|A,8A,2B,2^C4-|C4E4D2E2^F4-&\
+		      x4B,2^C2x8|
+V:4
+A,4^G,4z4A,,2B,,2|C,8^C,2D,2E,2^F,2|G,8^F,2G,2A,2B,2|
+V:1
+ag^fedcPBA{A}MB4-B3/A/ ^G3/A/|P^G2-G/B/B/c/d3e Pc3/d/ {e}df/e/Pd3c|
+V:2
+x16|x16|
+V:3
+F8G4^F4&\
+x8D4x4|E4A,2E2-E4x4&\
+	x6B,2C4-C2B,2|
+V:4
+C8B,2^C2^D4|z2E,2^F,2^G,2A,2=F,2=G,4|
+V:1
+c8!longphrase!y10"@-5,20(R.)"[ce]8|d4PB4c4PA2d2|[Bd]8[Bd]4e4|
+V:2
+x8G4A4-|A2G2-G4-G4^F4|G8G4c2_B2|
+V:3
+C8x8|x16|x16|
+V:4
+z4C,4!longphrase!y10"@-20,-45Basse (P.)"C3B,A,2C2|PB,3A,G,2B,2PA,2B,C DCB,A,|G,G,,A,,B,,C,D,E,F,MG,3F,E,2G,2|
+V:1
+f6d2-d2c2B4|c4-ccdef2^f2[dg]4|[cg]4c2^c2d8|
+V:2
+A8G6F2|E4-EEFGA4B3A|G4A4A8|
+V:3
+x16|x16|x16|
+V:4
+PF,3E,D,2F,2PE,D,E,F,G,F,E,D,|C,CCB,A,G,F,E, D,DDCB,A,G,F,|E,EEDCB,A,G, ^F,DDCB,A,G,F,|
+%(3)
+V:1
+e8-e8|f8B2c2PB3A|[EA]4!longphrase!y10"@-15,-45Grand Jeu (G.P.R.)"c3/B/ A/G/^F/E/P^D4MB3c-&\
+		 x4A2x2x8|
+V:2
+B8-B4A4-|A8^G2A2G4|[A,C]4E4B,4E4-|
+V:3
+x16|x16|E,8!longphrase!y10^F,4E,4|
+V:4
+^G,B,B,A,G,^F,E,D, C,B,,C,D,C,E,PD,C,|D,C,D,E,D,F,PE,D,E,2A,2E,2E,,2|A,,12G,,4|
+V:1
+{c}PA4A3dG4G2z/A/A/G/|F4F3GPE4A4|A8-A4PG2^F2|^G16|]
+V:2
+E4D8C4-|C4PB,4-B,4A,4-|A,3B,C4B,6A,2|B,16|]
+V:3
+F,8G,4C,4|D,8E,8|F,4^F,4E,8|E,16|]
+V:4
+F,,8E,,8|D,,8C,,8|D,,4^D,,4E,,8|E,,16|]

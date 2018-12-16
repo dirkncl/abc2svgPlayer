@@ -1,0 +1,318 @@
+% adapted from abctab2ps
+
+% -- bataille
+
+% insert the fonts from abctab2ps
+%%format frFrancisque.ps
+
+%%beginps
+% ! stack error in frFrancisque.ps !
+pop
+% width x y n tab6h - tablature header
+/tab6h{
+	/tabfont{/FrenchTabfont 14 selectfont}!
+	/chofont{/Palatino-Roman 13 selectfont}!
+	pop .75 SLW
+%test
+%2 copy M -10 0 RL 0 30 RL 10 0 RL stroke
+	pop pop pop
+	tabfont
+	/barh 60 def
+}!
+% dx dy dslur - draw a down slur/tie
+/dslur{
+%	RL stroke
+	1 index 4 div dup 3 mul			% dx dy x1 x2
+	2 index 2 index mul 4 index div 8 sub exch	% dx dy x1 y1 x2
+	3 index 1 index mul 5 index div 8 sub	% dx dy x1 y1 x2 y2
+	3 index 3 index 3 index 3 index 9 index 9 index RC
+	4 index neg add 2 sub 6 1 roll 4 index neg add 6 1 roll
+	2 index neg add 2 sub 4 1 roll 2 index neg add 4 1 roll
+	exch neg exch neg RC
+	fill
+}!
+% char tabbadd - add the char to the bourdon string
+/tabbadd{
+	tabbstr length dup 1 add string
+	dup tabbstr exch copy pop /tabbstr exch def
+	exch tabbstr 3 1 roll put
+}!
+% functions for tablature notes
+/str( )def
+/tabtiex 0 def
+/tabtiext 0 def
+/tabindex 0 def
+/tablong 0 def
+/tabring 0 def
+% x y h n tflag - flags
+/tflag{
+	1 SLW 3 index 3 index 104 add M
+	dup 0 lt{
+		2.5 7 RM
+		0 -1 0 -7 -5 -7 RC -2 0 0 7 5 7 RC
+		currentpoint stroke moveto}
+	{	3 7 RM
+		0 -1 0 -7 -5 -7 RC -2 0 0 7 5 7 RC
+		currentpoint fill moveto -.5 0 RM
+	}ifelse
+	dup -2 gt{
+		0 13 RL
+		currentpoint stroke moveto
+	}if 
+	dup 0 gt{
+		1.2 -.2 RL currentpoint
+		-1.2 -1.2 RL fill moveto
+		{
+			2.4 -.4 7 0 3.5 -5 RC
+			-1.2 -1.2 RL currentpoint
+			3.5 5 -1.1 4.6 -3.5 5 RC 1.2 1.2 RL
+			fill moveto
+		}repeat
+	}{pop}ifelse
+}!
+% character not handled
+/actno{(char not handled: )print = }!
+% action table
+/tabaction [256{/actno}repeat] def
+% x y h char actchr - print a character
+/actchr{
+	tabbourd 0 eq{
+		3 index 3 index 3 index add M
+		tabtiex 0 ne{		% tie waiting to be drawn
+			currentpoint
+			1 index tabtiex exch sub 1 index tabtiey exch sub
+			dslur
+			/tabtiex 0 def
+			M
+		}if
+		str 0 3 -1 roll put str showc
+		12 sub
+	}{tabbadd}ifelse}!
+tabaction 97/actchr put	% 'a'
+tabaction 98/actchr put	% 'b'
+tabaction 99/actchr put	% 'c'
+tabaction 100/actchr put	% 'd'
+tabaction 101/actchr put	% 'e'
+tabaction 102/actchr put	% 'f'
+% '"' - enter in quoted string
+/act34{	pop
+	/inquote 1 def
+	chofont
+	/quoted 0 string def
+	1 index 17 add}!
+tabaction 34/act34 put
+% '(' - slur start
+/act40{	pop
+	/tabslurx 3 index def
+	tabbourd 0 eq{2 copy add 2 sub}
+	{1 index 18 add}ifelse
+	 /tabslury exch def}!
+tabaction 40/act40 put
+% ')' - slur end
+/act41{	pop
+	tabbourd 0 eq{3 copy add 10 add}
+	{2 index 2 index 18 add}ifelse
+	2 copy M exch tabslurx exch sub exch tabslury exch sub
+	dslur}!
+tabaction 41/act41 put
+% ',' - go to the next line or count the bourdon number
+/act44{pop
+	tabbourd 0 eq{12 sub}
+	{/tabbourd tabbourd 1 add def}ifelse}!
+tabaction 44/act44 put
+% '-' - tie start
+/act45{	pop
+	/tabtiext 3 index def
+	2 copy add 12 add /tabtiey exch def}!
+tabaction 45/act45 put
+% '.' - index finger
+/act46{pop
+	/tabindex 1 def}!
+tabaction 46/act46 put
+% '/' - quaver
+/act47{pop
+	1 tflag}!
+tabaction 47/act47 put
+% '1' - black note
+/act49{pop
+	0 tflag}!
+tabaction 49/act49 put
+% '2' - white note
+/act50{pop
+	-1 tflag}!
+tabaction 50/act50 put
+% ';' - ring finger
+/act59{pop
+	/tabring 1 def}!
+tabaction 59/act59 put
+% 'L' - long note
+/act76{pop
+	/tablong 1 def}!
+tabaction 76/act76 put
+% 'X' - mordent
+/act88{pop
+	2 index 2 index 2 index add M 7 -4.5 RM
+	.7 SLW 5 7 RL -5 0 RM 5 -7 RL stroke}!
+tabaction 88/act88 put
+% 'y' - 
+/act121{pop
+	tabbourd 0 eq{12 sub}if
+	}!
+tabaction 121/act121 put
+% '{' - bourdon start
+/act123{pop
+	/tabbourd 1 def
+	/tabbstr()def}!
+tabaction 123/act123 put
+% '}' - bourdon end
+/act125{pop
+	2 index tabbourd -3 mul add 2 index 18 add M
+	.75 SLW tabbourd 1 sub {6 10 RL -2.5 -10 RM}repeat currentpoint stroke
+	M -1 2 RM tabbstr show
+	/tabbourd 0 def}!
+tabaction 125/act125 put
+% string x y n tab6n - tablature note
+/tab6n{
+	/tabtiex tabtiext def
+	/tabtiext 0 def
+	/inquote 0 def
+	/tabbourd 0 def
+	pop barh 33 add 4 -1 roll	% stack: x y h string
+	{
+		inquote 0 eq{		% stack: x y h char
+			tabaction 1 index get load exec}
+		{			% inside double quote
+					% stack: x y h y' char
+			dup 34 eq{			% double quote
+				pop
+				3 index 1 index M quoted showc
+				pop
+				/inquote 0 def
+				tabfont
+			}{dup 59 eq{			% semicomma --> newline
+				pop
+				3 index 1 index M quoted showc
+				13 sub
+				/quoted 0 string def}
+			{	quoted length dup 1 add string	% char n str
+				dup quoted exch copy pop /quoted exch def
+				exch quoted 3 1 roll put
+			}ifelse}ifelse
+		}ifelse
+	}forall
+	tabindex 0 ne{			% index finger
+		add M 2 5 RM
+		currentpoint 1.3 0 360 arc fill
+		/tabindex 0 def}
+	{tablong 0 ne{			% long note
+		add M -4 4 RM 1.2 SLW 12 3 RL stroke
+		/tablong 0 def}
+	{tabring 0 ne{			% ring finger
+		add M -2 5 RM
+		currentpoint 2 copy 1.3 0 360 arc %fill
+		M 4 0 RM
+		currentpoint 2 copy 1.3 0 360 arc %fill
+		M 4 0 RM
+		currentpoint 1.3 0 360 arc fill
+		/tabring 0 def}
+	{pop pop pop}ifelse}ifelse}ifelse}!
+% string x y n tab6b - tablature bar
+/tab6b{
+	0 eq{			% first line only
+		.8 SLW
+		32 add
+		2 index length 1 sub -1 0{
+			3 index exch get
+			dup 124 eq{			% '|'
+				pop
+				2 copy M 0 barh RL stroke
+				exch 4 sub exch}
+			{dup 58 eq{			% ':'
+				pop
+				2 copy 6 add
+				5{
+					2 copy 2 copy M 1.2 0 360 arc
+					12 add
+				}repeat fill
+				pop pop
+				exch 4 sub exch}
+			{	pop			% '[' or ']'
+				2 copy M 0 barh RL -3 0 RL 0 barh neg RL fill
+				exch 6 sub exch
+			}ifelse}ifelse
+		}for
+	}if
+	pop pop pop}!
+%%endps
+
+U:i=!invisible!
+
+X:1
+%%indent         1.5cm
+%%wordsfont      Times-Italic 10
+T:Ma bergere, non l\'egere
+C:Gabriel Bataille
+L:1/4
+M:none
+% %leftmargin 1cm
+% %rightmargin 1cm
+%%staves [F | L]
+K:Dm
+%%scale 0.6
+%
+V:F clef=treble name=Voice %bracket=2
+V:L clef=frenchtab name=Lute stafflines=6 staffscale=2
+%
+[V:F]F/ G/ A/ F/ A/ B/ c/ c/ d/ e/ f>_e d c/B/ A G/ F/ E>F F3::
+w:Ma ber-ge-re, non l\'e-ge-re En a-mours, me fait re-\cce-vour du bien tous les jours.
+V:L
+K:none clef=none
+%%tablature 10 30 tab6h tab6n tab6b
+	ic/      ic/   ic/   ic/   ic/   ic/  ic \
+w:	,XbXdca/ ,,,,c ,,,,d ,,,,a ,bbcd ,,,a ,abc1 \
+	ic   ic        ic    ic/        ic/     ic   ic \
+w:	bdda a,b,d{(y} {,a)} ,XbXd,,(b/ ,,,,,a) {a}1 {,a} \
+	ic/    ic/   ic      ic    ic2        ic i::
+w:	,d,,c/ ,,,,a ,,,,,d1 ;,dba ,bbcd{(y}2 {,a)}1
+%
+[V:F]c/ B/ A/ F/ B/ A/ G/ A/ F/ G/ E> E F/ F/ G/ G/ A/ A/ =B/ c/ d/ e/ ^c d3:|
+w:Je la mei-ne, la pur mei-ne, par les champs, O\`u nous pre-nons en-sem-ble de doux pas - se temps.
+V:L
+	ic/   ic/  ic/    ic/   ic/   ic/   ic/   ic/   ic/   ic/ \
+w:	,,bc/ ,,,a ,Xb,,d ,,,,a ,,Xda ,,,,d ,,,,c ,,,,d ,,,,a .,,a \ 
+	ic/    ic/  ic/ ic/ ic/   ic/  ic/    ic/   ic/ \
+w:	,,c,,a .,,d ,a .,,c ,,,,a .,,d ,,b,Xc .,,,d ,,,cXd \
+	ic/  ic/  ic/ ic/   ic/ ic \
+w:	,,Xd ,,,a .,a ,b,,a .,d ,a,,,a1 \
+	ic2        ic i:|
+w:	,,dca{(y}2 {,,a)}1
+%
+W:Par la plaine  /  Sans grand peine  /  Nous mettons
+W:A mesmes trouppeau nos petits moutons
+W:Puis \`a l'aise  /  Je luy baise  /  Son beau sein
+W:Et sa bouche vermeille, son joli t\'etin.
+W:
+W:Que si j'ose  /  Autre chose  /  Rechercher,
+W:Elle ne me veut laisser aprocher
+W:Mais subite  /  Prend la fuitte  /  Moy apres,
+W:Je s\ccay bien la poursuivre et la joindre de pres.
+W:
+W:Si je l\`eve  /  Sus sa greve  /  Les genoux
+W:Sa cotte si haut qu'on voye dessoubs:
+W:En furie  /  Elle crie  /  Et me mord;
+W:Et puis en bien peu d'heure nous sommes d'accord
+W:
+W:Je luy cueille  /  Et recueille  /  Tant de fleurs
+W:Qu'elle en peut avoir de toutes couleurs
+W:Elle bonne  /  Me fa\cconne  /  Des bouquets
+W:Qui causent au village beaucoup de caquets
+W:
+W:Pourtant passe  /  Quoy qu'on face  /  L'aymeray
+W:Et magr\'e le bruit je l'estimeray
+W:L'inconstance  /  N'a puissance  /  Sur ma foy
+W:Je veux estre fidelle comme elle est \`a moy.
+W:
+W:Nostre vie  /  Sans envie  /  Nous passons
+W:Charmans nos soucis de gayes chansons
+W:Fy des villes  /  O\`u les filles  /  Ne font cas
+W:Des amants qui pour elle conduise au trespas

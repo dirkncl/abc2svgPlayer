@@ -1,0 +1,38 @@
+X:1
+T:Wohltemperierte Clavier I - Fuga II
+C:J.S. Bach
+%%header "Fuga II		$P / 2"
+%%continueall 1
+M:4/4
+Q:1/4=80
+%%staves {1 2 3}
+K:Cm
+V:1
+%%MIDI program 6
+z8|z8|zg/^f/ gc eg/f/ g=a|dg/^f/ g=a c/d/e2d/c/|Be/d/ eG Af/e/ f=A|Bg/f/ g=B cd/e/f2-|
+fe/d/ c/B/A/G/ Fagf|ed ef =Bc dB|cg/^f/ gde2z=e|ff/=e/ fcd2zd|ee/d/ eB ce/d/ ef|Be/d/ ef A/B/c2B/A/|
+G/E/F/G/ A/B/c/d/ e/d/c/d/ e/f/g/=a/|b/F/G/A/ B/c/d/=e/ f/_e/d/e/ f/g/=a/=b/|c'=b/=a/ g/=f/e/d/ cedc|
+B=ABc ^FGAF|Gd/c/ dz z=e/d/ ez|z^f/=e/ fz zG/F/ Gz|z=A/G/ Az2=B/A/ Bz|zc/=B/ cG Ac/B/ cd|
+Gc/=B/ cd F/G/A2G/F/|Ec/=B/ cG A2z=A|BB/=A/ BFG2zG-|GA/B/ c/=B/c/A/F4-|Fd/c/ dF Ee/d/ eG|
+%%printtempo 0
+Ff/e/ fA G/f/e/d/ c/=B/=A/G/|cfed zAGF|GF/E/ FD AG z=A|=Bc F/E/D/C/ Cc/B/ cG|Ac/=B/ cd Gc/B/ cd[Q:1/4=70]|
+F/G/[Q:1/4=64]A2G/F/[Q:1/4=40]=E4|
+V:2
+%%MIDI program 6
+zc/=B/ cG Ac/B/ cd|Gc/=B/ cd F/G/A2G/F/|E/c/=B/=A/ G/F/E/D/ Cedc|B=A Bc ^FG AF|
+G2z/C/D/E/ F/G/A- A/D/E/F/|G/=A/B- B/E/F/G/ _A/G/F/E/ Dc/=B/|c2z2zfed|zAGF GF/E/ FD|
+G2z=B cc/B/ cG|A2z=A BB/A/ BF|G2zG AAGF|zA,B,C zA,/G,/ A,F,|B,CB,A, B,G,F,E,|F,_DCB, CA,G,F,|
+G,G/^F/ GC EG/F/ G=A|DG/^F/ G=A C/D/E2D/C/|B,z z/D/=E/^F/ G/=A/B- B/E/=F/G/|=A/B/c- c/^F/G/A/ BE/D/ EG,|
+A,F/E/ F=A, B,G/F/ G=B,|C/F/E/D/ C/_B,/A,/G,/ F,A GF|EDEF =B,CDB,|C2z=E FPF/E/ FC|D2zD EPE/D/ EB,|
+C4-CD/E/ F/E/F/D/|=B,z zB, Cz zE|Dz zF Fz zF|EAGF EDEF|=B,C DB, B,C zC|F/D/E/C/- C=B,C2z=E|
+F2zF FE/D/ E[FA][Q:1/4=70]|[=B,D][Q:1/4=64]z [B,D][Q:1/4=40]z[G,4C4]|
+V:3
+%%MIDI program 6
+z8|z8|z8|z8|z8|z8|zC/=B,/ CG, A,C/B,/ CD|G,C/=B,/ CD F,/G,/A,2G,/F,/|E,/C/=B,/=A,/ G,/F,/E,/D,/ C,/D,/E,/D,/ C,/B,,/A,,/G,,/|
+F,,/B,/A,/G,/ F,/E,/D,/C,/ B,,/C,/D,/C,/ B,,/A,,/G,,/F,,/|E,,/A,/G,/F,/ E,/_D,/C,/B,,/ A,,CB,A,|
+G,F,G,A, D,E,F,D,|E,A,G,F, G,E,D,C,|D,B,A,G, A,F,E,D,|E,z z2zC,B,,=A,,|zE,D,C, D,C,/B,,/ C,D,|
+G,,B,/=A,/ B,D, E,C/B,/ C=E,|F,D/C/ D^F,G,2z/G,,/=A,,/=B,,/|C,/D,/E,- E,/=A,,/B,,/C,/ D,/E,/F,- F,/=B,,/C,/D,/|
+E,z z=E, F, F,,_E,,D,,|zA,,G,,F,, G,,F,,/E,,/ F,,G,,|C,/D,/E,/D,/ C,/_B,,/A,,/G,,/ F,,/B,/A,/G,/ F,/E,/D,/C,/|
+B,,/C,/D,/C,/ B,,/A,,/G,,/F,,/ E,,/A,/G,/F,/ E,/D,/C,/B,,/|A,,/B,,/C,/B,,/ A,,/G,,/F,,/E,,/ D,,/G,/F,/E,/ D,/C,/=B,,/=A,,/|
+G,,2z2z/G,,/=A,,/=B,,/ C,/D,/E,/F,/|G,/F,/A,/G,/ F,/E,/D,/C,/ =B,,C,/B,,/ C,G,,|A,,C,/=B,,/ C,D, G,,C,/B,,/ C,D,|
+F,,/G,,/A,,2G,,/F,,/E,,2zE,|D,C, G,G,,[C,,4C,4]-|[C,,8C,8]-|[C,,8C,8][Q:1/4=40]|

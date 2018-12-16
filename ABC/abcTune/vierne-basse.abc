@@ -1,0 +1,183 @@
+% -- cresc / decresc / dimin
+%%postscript /crdc{	% usage: str x y crdc - cresc, decresc, ..
+%%postscript	/Times-Italic 14 selectfont
+%%postscript	M -6 4 RM show}!
+%%deco cresc 6 crdc 20 2 14 cresc.
+%%deco dim 6 crdc 20 2 14 dim.   poco   a   poco
+
+X:1
+T:Messe basse
+C:Louis Vierne (1870 - 1937)
+T:II - Introit
+%%header "Messe basse		$P / 4"
+%%annotationfont Times-Bold 15
+%%newpage 1
+%%maxshrink 0.7
+%%continueall 1
+M:6/4
+L:1/4
+%%staves {(1 2) 3} 4
+K:Gm
+%%begintext
+R.    Gambe, Flûte 8.
+G.    Fonds 8.
+Ped. Basses douces 8, 16.
+Claviers accouplés, Tirasses.
+%%endtext
+% (3)
+Q:"Larghetto"
+V:1
+"@-10,-40R"(d2ed2e|d2=fe3/d/=B)|(c2=dB2c|
+V:2
+z!p!B2zA_A|zG^FzF=F|zE=Dz_DC|
+V:3
+zG[C_G]zF[B,_F]|zE[=A,D]zC[_A,_D]|z[_G,_B,][F,=A,]z[_F,_A,][E,=G,]|
+V:4
+x6|x6|x6|
+V:1
+G2AD3)|(E2GB_AG)|(_G2_B_d_cB)|
+V:2
+zB,A,zC2|!cresc!zB,_Dz=DE|z_D_Fz=F_G|
+V:3
+z[_D,F,][C,=E,]z[B,,_E,G,][A,,=D,^F,]|z[G,,_D,][B,,E,]z[=B,,=F,][C,E,]|z[_B,,_F,][_D,_G,]z[=D,__A,][E,_G,]|
+V:4
+x6|x6|x6|
+V:1
+(=A2=ce2_g|b2=c'Ha)zz|z6|
+V:2
+z!f!^D^FzAc|!diminuendo(!z=d^c!diminuendo)!d"@0,-30G.R."xx|x6|
+V:3
+z[^F,=B,][=A,=D]z[=C=F][_E_A]|z[=E^G][=A,=G]H[=D^F]z!f!z|z6|
+V:4
+x6|x3x2(D,|E,2D,^C,2B,-|
+V:1
+z6|z6|z3z2(G,|
+V:2
+x6|x6|x6|
+V:3
+z6|z6|z6|
+V:4
+B,A,=C,=B,,2)(_A,-|A,G,_B,,A,,2)(E,-|E,D,C,B,,A,,B,,)|
+% (4)
+V:1
+B,2A,^G,2F-|F=EG,^F,2)(_E-|ED=F,=E,2)B,-|
+V:2
+x6|x6|x6|
+V:3
+z6|z6|z6|
+V:4
+G,,G,F,-F,=E,D,|^C,2=E,-E,D,=C,|B,,2D,-D,^C,D,|
+V:1
+B,A,G,F,z(D|E2D^C2_B-|BA=CB,2)(_A-|
+V:2
+x6|x6|x6|
+V:3
+z3zG,_A,-|A,G,B,-B,=A,G,|^F,2A,-A,G,=F,|
+V:4
+=E,=B,,^C,D,=C,=B,,|C,_B,,G,,=A,,=B,,^C,|D,2^F,,G,,=A,,=B,,|
+V:1
+AG_B,=A,2)(E-|EDCB,)C(G|B2A^G2f-|
+V:2
+x6|x3x2D|D=EF-FED|
+V:3
+E,2G,-G,^F,G,|A,=E,^F,G,A,B,|B,CD-DC=B,|
+V:4
+C,2^C,D,3|C,B,,A,,G,,2x|G,2D,=E,2^G,|
+V:1
+f=e=G^F2)(_e-|ed=F=E2)(B-|BAGF)"@-25,-45R."(d_d|
+V:2
+^CD=E-ED=C|_B,CD-D^CD|=E_B,^CD!p!B2-|
+V:3
+A,=B,^C=CB,A,|G,A,=B,_B,A,G,-|G,F,=E,D,zz|
+V:4
+A,3D,3|G,3-G,=F,=E,|A,,G,,A,,_B,,[I:staff 2]zz|
+V:1
+c6)-|(c3=B)(g_g|f6)-|
+V:2
+BA_AG3|^F3Gzz|zd_dc3|
+V:3
+zF2-F=E_E|D3-Dzz|zB2-BA_A|
+V:4
+z3zB,2-|B,=A,_A,G,zz|z3zE2-|
+% (5)
+V:1
+f3-(fe)(g|_a2g^f2e'-|e'd'=f=e2)(_d'-|
+V:2
+=B3c2!pp!z|x6|x6|
+V:3
+G3-G2z|zce-edc|=B2d-dc_B|
+V:4
+ED_DC3-|C6-|C6-|
+V:1
+d'c'_e=d2)(_a-|agfd=e)g|(c2fBc_e)|
+V:2
+x6|x6|x6|
+V:3
+A2_A-AGF|ED=BcB_B-|B=A_A-AG_G-|
+V:4
+C6-|C6-|C6-|
+V:1
+(_A2_d=GAc)|(F=G_A[A=c][GB][FA-])|(AG_G-GF=A)|
+V:2
+x6|!cresc!x6|!mf!E6-|
+V:3
+GF=E-E_E=D-|D2xx3|x6|
+V:4
+C6-|C_CB,[I:staff 3]zz"@-10,-25R."B,,|(C,2B,,=A,,2G,-|
+V:1
+(c=EF-F_EG)|(B=DE-E=DE)|(FG_AB2c)|
+V:2
+ED2_D3-|DC2_CB,=A,|x6|
+V:3
+x6|x6|_A,G,F,-F,_F,E,|
+V:4
+G,F,_A,,G,,2)(F,-|F,E,_G,,F,,2)(_C,-|C,B,,_A,,G,,3)|
+V:1
+(_d2ed2_f|_d3)-d2-d/z/|(^c2^dc2=e|
+V:2
+zE_Fz=F_G|z=G_A=A=c_B/x/|!diminuendo(!z=B2zB2!diminuendo)!|
+V:3
+z[G,B,][_A,_C]z[=A,=C][B,_D]|z[=B,=D][C_E][^C=E][=D^F][_EG]/z/|z[=FA][=E^G]z[_E=G][D^F]|
+V:4
+z6|z6|z6|
+% (6)
+V:1
+[Q:"Poco rit."]^c6)|[Q:"a Tempo"](=d2_ed2e|d2=fe3/d/=B)|
+V:2
+!diminuendo(!z=B_BA_A!diminuendo)!G|!pp!zc=Bz_BA|z_AGz^F=F|
+V:3
+z[^C^E][=C=E][=B,^D][_B,=D][=A,^C]|z_EDz_DC|z_C_B,z=A,_A,|
+V:4
+z6|"@-10,-30R."D,6-|D,6-|
+V:1
+(c2d_B2c|G2AD3)|(E2GB_AG|
+V:2
+z=E_EzD_D|zC^Cz=B,_B,|!cresc!z=B,Cz^CD|
+V:3
+zG,^F,z=F,=E,|z_E,=E,zF,^F,|zG,_A,z=A,_B,|
+V:4
+D,6-|D,6-|D,6-|
+V:1
+_G2B_d_c_B)|(=A2ce2^f|b2=c'a3)|
+V:2
+zE=EzF^F|!mf!z!crescendo(!=G^FzB!crescendo)!A|!f!z=e^cz_e=c|
+V:3
+z_C=Cz_D=D|z_EDz^C=C|zG,=Ez^F,_E|
+V:4
+D,6-|D,6-|D,6-|
+V:1
+(_a2_bg2)x|(f2ge2d)|(_d2ec2_c)|
+V:2
+zd=Bz^c_B|!dim!zBAzG^F|z=FEz__E_D|
+V:3
+z=F,Dz=E,^C|zD=CzB,A,|z_A,G,z_G,F,|
+V:4
+D,6-|D,2E,C,3|B,,2__B,,_A,,3|
+V:1
+(B2c_A2B|G6)-|HG6|]
+V:2
+z_DCz_CB,|!diminuendo(!zB,=B,[_B,D]2!diminuendo)![=A,C]|!p!=B,6|]
+V:3
+z=F,=E,z_E,=D,|zG,=F,=E,[=D,F,][_E,^F,]|H[D,G,]6|]
+V:4
+=G,,2_G,,F,,2_F,,|E,,E,_D,C,3|HG,,6|]

@@ -1,0 +1,80 @@
+X:1
+T:Wo soll ich fliehen hin (BWV 646)
+C:J.S. Bach
+M:C
+L:1/8
+%%staves {1 2} 3
+%%continueall 1
+%%sysstaffsep 1cm
+%%header "		$P/3"
+%%footer Wo soll ich fliehen hin
+K:Em
+V:1
+% 1 Clav. 8 Fuss
+%%MIDI program 17
+z/E/F/G/ F/G/A/F/ Ge2^d|e/B/A/G/ A/G/F/A/ GcF=d|B/E/F/G/ C/D/E/C/ A/D/E/F/ B,/C/D/B,/|\
+G/C/D/E/ A,/B,/C/A,/ F4-|
+V:2
+% 2 Clav. 16 Fuss
+%%MIDI program 18
+E,E,, z2 z/E,/F,/G,/ F,/G,/A,/F,/|G,E2^D E/B,/A,/G,/ A,/G,/F,/A,/|G,E,A,G, F,D,G,F,|\
+E,C,F,E, ^D,/B,/A,/G,/ A,/G,/F,/A,/|
+V:3
+% Ped. 4 Fuss
+%%MIDI program 56
+z8|z8|z8|z8|
+V:1
+F/B/A/G/ A/G/F/A/ G/E/F/G/ F/G/A/F/|GBB,^D E2z2|z/B/A/G/ A/G/F/A/ GG2F/E/|F/E/F/G/ F/G/A/F/ G/F/G/A/ G/A/B/G/|
+V:2
+G,EF,^D EE,2^D,|E,G,/A,/ B,B,, E,/B,/A,/G,/ A,/G,/F,/A,/|G,E,2^D, E,/B,,/^C,/D,/ C,/D,/E,/C,/|\
+^D,B,D,B,, E,=CE,=C,|
+V:3
+z8|z4z2E,2|E,2F,2G,2A,2|B,4z4|
+%
+V:1
+A/G/A/B/ A/B/c/A/ BeF^d|e/E/F/G/ F/G/A/F/ GBe2-|e/^c/=d/e/ F/^G/^A/F/ d/B/c/d/ E/F/=G/E/|\
+^c/^A/B/c/ D/E/F/D/ B4-|
+V:2
+F,DF,D, G,/B,/A,/G,/ A,/G,/F,/A,/|G,E2^D E/B,/^C/=D/ C/D/E/C/|^A,^G,A,F, B,=A,=G,E,|\
+^A,F,B,=A, G,/F,/E,/D,/ E,/D,/^C,/E,/|
+V:3
+z4z2B,2|B,2A,2G,2G,F,|F,4z4|z8|
+V:1
+B/F/E/D/ E/D/^C/E/ D/B,/C/D/ C/D/E/C/|DB^C^A B,/B/=A/G/ A/G/F/A/|GEz2z/A/G/F/ G/F/E/G/|\
+=C/B/A/G/ A/G/F/A/ ^D/=c/B/A/ B/A/G/B/|
+V:2
+D,B,^C,^A, B,B,,2^A,,|B,,D,/E,/ F,F,, B,,E,2^D,|E,,/E,/F,/G,/ F,/G,/A,/F,/ G,^D,E,G,-|\
+G,F,/E,/ F,A,2G,/F,/ G,B,-|
+V:3
+z8|z4z2F,2|G,2A,2B,2B,2|A,4B,2z2|
+V:1
+E/d/c/B/ c/B/A/c/ F/e/d/c/ d/c/B/d/|EG2F/E/ F^deG-|Ge=dF G/d/=c/B/ c/B/A/c/|BG2F G/G,/A,/B,/ A,/B,/C/A,/|
+V:2
+B,A,/G,/ A,C- C/F,/G,/A,/ G,/A,/B,/G,/|C/D/C/B,/ C/A,/B,/C/ ^D,/A,/G,/F,/ G,/F,/E,/G,/|\
+^C,/G,/F,/E,/ F,/E,/=D,/F,/ B,,G,A,,F,|G,/G,,/A,,/B,,/ A,,/B,,/=C,/A,,/ B,,G,2F,|
+V:3
+z4z2B,2|G,2A,2B,2B,C|A,4G,2z2|z8|
+%
+V:1
+B,/B/c/d/ G/A/B/G/ e/A/B/c/ F/G/A/F/|d/G/A/B/ E/F/G/E/ c4-|c/d/c/B/ c/B/A/c/ B/G/A/B/ A/B/c/A/|\
+BdDF G2z2|
+V:2
+G,F,E,D, C,A,,D,C,|B,,G,,C,B,, A,,/A,/G,/F,/ G,/F,/E,/G,/|F,D,E,F, G,G,,- G,,F,,|G,,B,,/C,/ D,D,, G,,/D,/E,/F,/ E,/F,/G,/E,/|
+V:3
+z8|z8|z8|z4z2B,2|
+V:1
+z/A/G/F/ G/F/E/G/ F^deG-|G/A/G/F/ G/F/E/G/ F=d2^c|d/D/E/F/ E/F/G/E/ F/d/=c/B/ c/B/A/c/|\
+B/E/F/G/ F/G/A/F/ GB, E2-|
+V:2
+F,D,G,G,, ^D,,/A,/G,/F,/ G,/F,/E,/G,/|^C,E,A,,C, =D,,/D,/E,/F,/ E,/F,/G,/E,/|F,D2^C DG,2F,-|\
+F,E,2^D, E,/B,,/=C,/=D,/ C,/D,/E,/C,/|
+V:3
+D2B,2B,2B,2|A,4A,2z2|z4z2A,2|B,2A,2G,2A,G,|
+V:1
+E/B/A/G/ A/G/F/A/ Ge2d/c/|B/E/F/G/ C/D/E/C/ A/D/E/F/ B,/C/D/B,/|G/C/D/E/ A,/B,/C/A,/ F4-|\
+F/B/A/G/ A/G/F/A/ G/E/F/G/ F/G/A/F/|GBB,^D E2z2|]
+V:2
+A,,F,B,B,, E,,/E,/F,/G,/ F,/G,/A,/F,/|G,E,A,G, F,D,G,F,|E,C,F,E, ^D,/B,/A,/G,/ A,/G,/F,/A,/|\
+G,EF,^D EE,2^D,|E,G,/A,/ B,B,, E,2z2|]
+V:3
+F,4E,2z2|z8|z8|z8|z8|]

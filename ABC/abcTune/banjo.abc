@@ -1,0 +1,224 @@
+% adapted from abctab2ps
+
+% -- banjo
+
+% no Times on my system... and next line KO!
+% %postscript /Times /Times-Roman def
+
+%%font Palatino-Roman
+%%partsfont      Times-Roman 15 box
+
+% insert the fonts from abctab2ps
+% https://github.com/laughingman182/abctab2ps/blob/master/src/fonts/itTimes.ps
+%%format itTimes.ps
+
+%%beginps
+% width x y n banjo5h - banjo tablature header with 5 lines
+/banjo5h{
+	/tabfont{/ItalianTabfont 14 selectfont}!
+%	/chofont{/Helvetica 13 selectfont}!
+	/chofont{/Palatino-Roman 13 selectfont}!
+	pop .75 SLW
+%test
+%2 copy M -10 0 RL 0 120 RL 10 0 RL
+	40 add M 5{dup 0 RL dup neg 14 RM}repeat stroke
+	pop
+	tabfont
+}!
+% dx dy dslur - draw a down slur/tie
+/dslur{
+%	RL stroke
+	1 index 4 div dup 3 mul			% dx dy x1 x2
+	2 index 2 index mul 4 index div 8 sub exch	% dx dy x1 y1 x2
+	3 index 1 index mul 5 index div 8 sub	% dx dy x1 y1 x2 y2
+	3 index 3 index 3 index 3 index 9 index 9 index RC
+	4 index neg add 2 sub 6 1 roll 4 index neg add 6 1 roll
+	2 index neg add 2 sub 4 1 roll 2 index neg add 4 1 roll
+	exch neg exch neg RC
+	fill
+}!
+% string x y n banjo5n - banjo tablature note
+/str( )def
+/banjolong 0 def
+/banjotiex 0 def
+/banjotiext 0 def
+/banjo5n{
+	/banjotiex banjotiext def
+	/banjotiext 0 def
+	/inquote 0 def
+	pop 89 4 -1 roll		% stack: x y h string
+	{
+		inquote 0 eq{
+					% stack: x y h char
+			dup 44 eq{			% comma
+				pop
+				14 sub
+			}{dup 34 eq{			% double quote
+				pop
+				/inquote 1 def
+				chofont
+				/quoted 0 string def
+				1 index 17 add
+			}{dup 45 eq{			% '-'
+				pop
+				/banjotiext 3 index def
+				2 copy add 14 add /banjotiey exch def
+			}{dup 49 eq{			% '1'
+				pop
+			}{dup 50 eq{			% '2'
+				pop
+			}{dup 76 eq{			% 'L'
+				pop
+				/banjolong 1 def
+			}{				% normal character
+				3 index 3 index 3 index add M
+				banjotiex 0 ne{
+					currentpoint
+					1 index banjotiex exch sub
+					1 index banjotiey exch sub
+					dslur
+					/banjotiex 0 def
+					M
+				}if
+				str 0 3 -1 roll put str showc
+				14 sub
+			}ifelse}ifelse}ifelse}ifelse}ifelse}ifelse
+		}{				% inside double quote
+					% stack: x y h y' char
+			dup 34 eq{			% double quote
+				pop
+				3 index 1 index M quoted showc
+				pop
+				/inquote 0 def
+				tabfont
+			}{dup 59 eq{			% semicomma
+				pop
+				3 index 1 index M quoted showc
+				13 sub
+				/quoted 0 string def
+			}{
+				quoted length dup 1 add string	% char n str
+				dup quoted exch copy pop /quoted exch def
+				exch quoted 3 1 roll put
+			}ifelse}ifelse
+		}ifelse
+	}forall
+	banjolong 0 ne{
+		add M -4 9 RM 1.2 SLW 12 3 RL stroke
+		/banjolong 0 def
+	}{pop pop pop
+	}ifelse
+}!
+% string x y n banjo5b - banjo tablature bar
+/banjo5b{
+	0 eq{			% first line only
+		0.8 SLW
+		40 add
+		2 index length 1 sub -1 0{
+			3 index exch get
+			dup 124 eq{			% '|'
+				pop
+				2 copy M 0 56 RL stroke
+				exch 4 sub exch
+			}{dup 58 eq{			% ':'
+				pop
+				2 copy 7 add
+				4{
+					2 copy 2 copy M 1.2 0 360 arc
+					14 add
+				}repeat fill
+				pop pop
+				exch 4 sub exch
+			}{				% '[' or ']'
+				pop
+				2 copy M 0 56 RL -3 0 RL 0 -56 RL fill
+				exch 6 sub exch
+			}ifelse}ifelse
+		}for
+	}if
+	pop pop pop}!
+%%endps
+
+U:i=!invisible!
+%%staffnonote 0
+
+X:1
+T:Glory in the Meetinghouse
+T:From  Luther Strong
+C:Key of E; banjo tuning g#EG#BE (open D capoed up 2 frets)
+D:Library of Congress AAFS L2
+L:1/4
+M:none
+%%leftmargin 1cm
+%%rightmargin 1cm
+K:none clef=none
+%K:banjo5tab
+%%tablature 120 banjo5h banjo5n banjo5b
+%
+P:A
+icicicicicicicic | \
+w:"I",,b\- "Sl",,d "I"aa "T",,,,a "I"a "T",d "I",a "T",,b | \
+icicicicicicic | \
+w:"I",a\- "P"a "I;X"aa "T",,,,a "I"La2 "I"aa1 "T",,,,a | \
+icicicicicicicic | \
+w:"I",,b\- "Sl",,d "I"aa "T",,,,a "I"a "T",d "I",a "T",,a | \
+icicicicicicic |
+w:"I",,b\- "P",a "I",,b\- "P",,a "I"L,,,a2 "I;Ck"aa1 "T",,,,a |
+|icicicicicicicic | \
+w:"I",,b\- "Sl",,d "I"aa "T",,,,a "I"a "T",d "I",a "T",,b | \
+icicicicicicic | \
+w:"I",a\- "P"a "I;X"aa "T",,,,a "I"La2 "I"d\-1 "Sl"e,,,a |\
+icicicicicicicic | \
+w:"I"e\- "P"a "I",a "T",,,,a "I"a "T",d "I",a "T",,a | \
+icicicicicicic :|
+w:"I",,b\- "P",a "I",,b\- "P",,a "I"L,,,a2 "I"aaa1 "T",,,,a |
+P:B
+|:icicicicicicic |\
+w:"I",,,a\- "H",,,c "I",,a\- "H",,b "I"L,a2 "I"aa1 "T",,,,a | \
+icicicicicicicic | \
+w:"I",,b\- "P",a "I",,b\- "P",,a "I",,a "T",,,a "I;X"aa "T;X",,,,a|\
+icicicicicicicic | \
+w:"I",,,a\- "H",,,c "I",,a "T",,,,a "I",,b\- "P",a "I",,b\- "P",,a|\
+icicicicicicic |
+w:"I",,a "T",,,a "I;X"aa "T",,,,a "I"L,,,a2 "I"aa1 "T",,,,a|
+|icicicicicicicic | \
+w:"I",,,a\- "H",,,c "I"aa "T",,,,a "I",,b\- "P",a "I",ab "T",,,,a |\
+icicicicicicicic | \
+w:"I",,b\- "P",a "I",,b\- "P",,a "I",,a "T",,,a "I;X"aaa "T",,,,a|\
+icicicicicicicic | \
+w:"I"a "T",d "I",a "T",,a "I",,b\- "P",a "I",,b\- "P",,a| \
+icicicicicicic :|
+w:"I",,a "T",,,a "I;X",aa "T",,,,a "I"L,,,a2 "I"aa1 "T",,,,a|
+P:Alternate (high) B part:
+|:icicicicicicic | \
+w:"I"a\- "H"e "I"e "T",,,,a "I"Lh2 "I"h1 "T",,,,a | \
+icicicicicicicic | \
+w:"I"f\- "H"h "I"f "T",,,,a "I"e "T",f "I",f "T",,,,a|\
+icicicicicicicic | \
+w:"I"a "T",,,,a "I"e "T",,,,a "I"f\- "H"h "I"h "T",,,,a | \
+icicicicicicic |
+w:"I"e "T",f "I;X",a "T",,,,a "I"L,f2 "I"ef1 "T",,,,a| 
+|icicicicicicic | \
+w:"I"a\- "H"e "I"e "T",,,,a "I"Lh2 "I"h1 "T",,,,a | \
+icicicicicicicic | \
+w:"I"f\- "H"h "I"f "T",,,,a "I"e "T",f "I",f "T",,,,a|\
+icicicicicicicic | \
+w:"I"e\- "P"a "I",a "T",,,,a "I;X"aa "T",d "I",a "T",,a |\
+icicicicicicicic :|
+w:"I",,b\- "P",a "I",,b\- "P",,a "I"L,,,a2 "I"aa1 "T",,,,a|
+%original in abctab2ps
+%P:A
+%"I",,b-"Sl",,d "I"[aa] "T",,,,a "I"a "T",d "I",a "T",,b | "I",a-"P"a " I\nX"[aa] "T",,,,a "I"La2 "I"[aa1] "T",,,,a | \
+%"I",,b-"Sl",,d "I"[aa] "T",,,,a "I"a "T",d "I",a "T",,a | "I",,b-"P",a "I",,b-"P",,a "I"L,,,a2 " I\nCk"[aa1] "T",,,,a |
+%|"I",,b-"Sl",,d "I"[aa] "T",,,,a "I"a "T",d "I",a "T",,b|"I",a-"P"a " I\nX"[aa] "T",,,,a "I"La2 "I"d1-"Sl"[e,,,a] |\
+%"I"e-"P"a "I",a "T",,,,a "I"[a] "T",d "I",a "T",,a | "I",,b-"P",a "I",,b-"P",,a "I"L,,,a2 "I"[aaa1] "T",,,,a:|
+%P:B
+%|:"I",,,a-"H",,,c "I",,a-"H",,b "I"L,a2 "I"[aa1] "T",,,,a | "I",,b-"P",a "I",,b-"P",,a "I",,a "T",,,a " I\nX"[aa] "T\nX",,,,a|\
+%"I",,,a-"H",,,c "I",,a "T",,,,a "I",,b-"P",a "I",,b-"P",,a| "I",,a "T",,,a " I\nX"[aa] "T",,,,a "I"L,,,a2 "I"[aa1] "T",,,,a|
+%|"I",,,a-"H",,,c "I"[aa] "T",,,,a "I",,b-"P",a "I"[,ab] "T",,,,a |"I",,b-"P",a "I",,b-"P",,a "I",,a "T",,,a " I\nX"[aaa] "T",,,,a|\
+%"I"a "T",d "I",a "T",,a "I",,b-"P",a "I",,b-"P",,a| "I",,a "T",,,a " I\nX"[,aa] "T",,,,a "I"L,,,a2 "I"[aa1] "T",,,,a:|
+%P:Alternate (high) B part:
+%|:"I"a-"H"e "I"e "T",,,,a "I"Lh2 "I"h1 "T",,,,a | "I"f-"H"h "I"f "T",,,,a "I"e "T",f "I",f "T",,,,a|\
+%"I"a "T",,,,a "I"e "T",,,,a "I"f-"H"h "I"h "T",,,,a | "I"e "T",f " I\nX",a "T",,,,a "I"L,f2 "I"[ef1] "T",,,,a| 
+%|"I"a-"H"e "I"e "T",,,,a "I"Lh2 "I"h1 "T",,,,a | "I"f-"H"h "I"f "T",,,,a "I"e "T",f "I",f "T",,,,a|\
+%"I"e-"P"a "I",a "T",,,,a " I\nX"[aa] "T",d "I",a "T",,a |"I",,b-"P",a "I",,b-"P",,a "I"L,,,a2 "I"[aa1] "T",,,,a:|

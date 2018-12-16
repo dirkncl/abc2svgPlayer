@@ -1,0 +1,88 @@
+%%vocalfont Times-Roman 13.0
+%%beginps
+% -- cresc / decresc / dimin
+/crdc{		% usage: str x y crdc - cresc, decresc, ..
+	/Times-Italic 14 selectfont
+	M -6 4 RM show}!
+%%endps
+%%deco dolce 6 crdc 20 4 28 dolce
+
+X:1
+%%header "Ich liebe dich		$P / 2"
+%%newpage 1
+T:Ich liebe dich
+C:L. van Beethoven
+M:2/4
+L:1/16
+Q:"Andante"
+%%staves S {1 2}
+%%leftmargin 1cm
+%%rightmargin 1cm
+K:F
+%%scale 0.75
+%%continueall 1
+V:S
+C2|A3 G F2 F2|E3 F G2 C2|B3 A G2 G2|F3G A2 Fc|
+w:Ich lie-be dich, so wie du mich, am A-bend und am Mor--gen, noch*
+V:1
+%%exprbelow 1
+z2|(!p!A,CFC) (A,CFC)|(B,CEC) (B,CEC)|(B,CGC) (B,CGC)|(A,CFC) (A,CFC)|
+V:2
+z2|[F,,F,]8|[G,,G,]8|[E,,E,]8|[F,,F,]8|
+V:S
+c2 c2 c2 ^c2|d3 B G2 G2|A3 A BA BG|G4F2z2|z8|
+w:war kein Tag, wo du und ich nicht teil-ten uns'--re_Sor-gen.
+V:1
+[CF]F,[CF]F, [CF]F,[^CF]F,|[DF]F,[DF]F, [DF]G,[DF]G,|A,CFC B,CEC|[B,E]C[B,E]C [A,F]2 !mf!EF|[EG]2[EG]2[EG]2[Ec]2|
+V:2
+A,,4 A,,4|B,,4 =B,,4|C,4[C,,C,]4|F,,2F,2F,,2z2|[C,G,]2[C,G,]2[C,G,]2[C,G,]2|
+V:S
+z4z2EF|G2 G2 G2 c2|=B3 d c2 EF|G2 G2 GA =Bc|=B3d c2 c2|
+w:Auch*wa-ren sie für dich und mich ge--teilt leicht zu_er--tra--gen, du
+V:1
+=B3d c2 !p![CE][DF]&
+F2F2E2x2|[EG]G,[CE]G, [CE]G,[CE]G,|[=B,F]G,[B,F]G, [CE]G,[CE]G,|[CE]G,[CE]G, [CE]G,[CE]G,|[=B,F]G,[B,F]G, [CE]G,[CE]G,|
+V:2
+[D,G,]2[G,,G,]2[C,G,]2z2|z2[C,,C,]2[E,,E,]2[C,,C,]2|[D,,D,]2[G,,,G,,]2[C,,C,]2z2|z2[C,,C,]2[E,,E,]2[C,,C,]2|[D,,D,]2[G,,,G,,]2[C,,C,]2z2|
+V:S
+_B2 B2 A2 A2|G2 G2 F2 Ac|{c}B2 B2 A2 A2|{A}G2 G2 z2 G2|
+w:trö-ste-test im Kum-mer much, ich_wient in die-ne Kla-gen, in
+V:1
+z_B,[FB]B, zC[FA]C|zC[EG]C zC[Fc]C|zB,[FB]B, zC[FA]C|zD[FG]D zD[FG]D|
+V:2
+D,4C,4|B,,4A,,4|D,4C,4|B,,4=B,,4|
+V:S
+G4A4|HB3G HE2 !p!!dolce!CA|A3 G F2 F2|E3 F G2 C2|
+w:dei-ne Kla -gen. Drum*Got-tes Se-gen ü-ber dir, du
+V:1
+zGEB, A,CFA|!f!H[B,EGB]6z2|A,CFC A,CFC|B,CEC B,CEC|
+V:2
+C,4C,4|H[C,,C,]6z2|[F,,F,]8|[G,,G,]8|
+V:S
+B3 A G2 G2|F3G A2 Fc|c2 c2 c2 ^c2|d3 B G2 G2|
+w:mei-nes Le-bens Freu -de, Gott*schüt-ze dich, er-halt' dich mir, schütz'
+V:1
+B,CGC B,CGC|A,CFC A,CFC|[CF]F,[CF]F, [CF]F,[^CF]F,|!f![DF]F,[DF]F, [DF]G,[DF]G,|
+V:2
+[E,,E,]8|[F,,F,]8|A,,4 A,,4|B,,4 =B,,4|
+V:S
+A2 A2 cB AB|B2 A2 z2 F2|_e2 e2 e2 e2 |d4_e4|
+w:und er-halt'*uns_bei-de, Gott schüt-ze dich, er-halt' dich
+V:1
+A,CFC G,B,EB,|!p!F,A,FA, F,A,FA,|!f![C_EF]F,[CEF]F, [CEF]F,[CEF]F,|[B,DF]F,[B,DF]F, [C_EF]F,[CEF]F,|
+V:2
+[C,,C,]4[^C,,^C,]4|[D,,D,]4z4|A,,2A,,2A,,2A,,2|B,,4A,,4|
+V:S
+d4z2G2|A2 A2 B2 G2|c2 A2 z2 G2|A2 A2 B2 G2|
+w:mir, schütz' und er-halt' uns bei-de, er-halt', er-halt' uns
+V:1
+[B,DF]F,[B,DF]F, [DF]G,[DF]G,|A,C[FA]C [GB]C[EG]C|c2 [Aa][cc'] [cc'][Bb][Aa][Gg]|[Aa]2 [FA]C [GB]C[EG]C|
+V:2
+B,,4=B,,4|[C,,C,]2 [F,A,]2[G,B,]2[C,G,]2|A,C[F,A,]C [G,B,]C[E,G,]C|[F,A,]C [F,A,]2[G,B,]2[C,G,]2|
+V:S
+c2 A2 z2 G2|A4d4|F6AG|F4z4|z8|z4z2|]
+w:bei-de, er-halt' uns bei --de.
+V:1
+c2 [Aa][cc'] [cc'][Bb][Aa][Gg]|[Aa]2 z2 !f![FBd]2 z2|[A,CF]2 z2 [B,EG]2 z2|[A,F]4cdef|gabc' d'2 [GBce]2|[FAcf]4z2|]
+V:2
+A,C[F,A,]C [G,B,]C[E,G,]C|F,2 z2 B,,2 z2|C,2 z2 C,2 z2|F,,4[C,G,B,]4-|[C,G,B,]6[C,G,B,]2|[F,,A,,C,F,]4z2|]

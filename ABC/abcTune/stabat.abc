@@ -1,0 +1,2358 @@
+% %pslevel 1		% for RoPS
+%%splittune 1
+%%measurenb 0
+%%dynalign 0
+%%squarebreve 1
+%
+%%composerspace 0
+%%musicspace 0
+%%titlespace 0
+%%leftmargin 1.5cm
+%%rightmargin 1.5cm
+%%topspace 0.3cm
+%%staffsep 1.4cm
+%%sysstaffsep 1cm
+%%continueall 1
+
+%%subtitlefont Times-Italic 13.0
+
+%%vocalfont Helvetica 12.0
+
+%%beginps
+/crdc{	% usage: str x y crdc - cresc, decresc, ..
+	/Times-Italic 14 selectfont M -6 4 RM show}!
+%%endps
+
+%%deco cresc 6 crdc 16 2 14 crescendo
+%%deco dolce 6 crdc 16 2 14 dolce
+%%deco dolcea 6 crdc 16 2 14 dolce assai
+%%deco dolces 6 crdc 16 2 14 dolce sempre
+%%deco estacc 6 crdc 16 2 14 e staccato
+%%deco forte 6 crdc 16 2 14 forte
+%%deco fortea 6 crdc 16 2 14 forte assai
+%%deco pdolce 6 crdc 16 2 14 piu dolce
+%%deco sim 6 crdc 16 2 14 sim.
+%%deco sost 6 crdc 16 2 14 sostenuto
+%%deco sottov 6 crdc 16 2 14 sotto voce
+%%deco sottovs 6 crdc 16 2 14 sotto voce sempre
+
+%%header "Stabat mater		$P / 58"
+
+U:i=!invisible!
+U:w=!wedge!
+
+X:0
+T:Stabat mater
+T:für Sporan, Atl, Streicher und Basso continuo
+C:Giovanni Battista Pergolesi (1710-1736)
+%%titlefont Times-Roman 24.0
+%%subtitlefont Times-Roman 18.0
+K:C
+
+X:1
+T:1 Stabat mater dolorosa
+T:à due
+M:C
+L:1/8
+%%staves s | a | {1 2 3 4}
+Q:"Grave" % 1/4=60
+K:Fm
+V:s name=Sopran dyn=up
+z8|z8|z8|
+V:a name=Alt dyn=up
+z8|z8|z8|
+V:1 name="Streicher\nBasso continuo"
+%%MIDI program 40
+z4g4-|g2f2b4-|b2a2d'4-|
+V:2
+%%MIDI program 40
+!dolce!f6=e2|a6g2|c'6b2|
+V:3
+%%MIDI program 42
+z8|C4E4-|E2A2F2B2|
+V:4
+% %MIDI program 43
+%%MIDI program 42
+F,G,A,F, C,=D,=E,C,|F,G,A,F, _E,F,G,E,|A,B,CA, B,CDB,|
+V:s		% M4
+z8|z8|z8|z8|
+V:a
+z8|z8|z8|z8|
+V:1
+d'2c'b=a2c'2-|c'2b2Gwbwgw=e|C([GB][FA][=EG]) Awc'wawf|C([Ac][GB][FA]) [=EG][=eg][fa][FA]|
+V:2
+(=e4_e2)dc|d2f2=e2z2|x4F2z2|x4x!forte!x3|
+V:3
+G4C4|D4C4|C8|C4-iCx3|
+V:4
+CB,A,G, F,_G,F,E,|D,C,D,B,,C,2x2|zC,C,C,C,2z2|zC,C,C, [C,C][B,D][A,C][B,D]|
+V:s		% M8
+z8|z8|z8|
+V:a
+z8|z8|z8|
+V:1
+(A2G2)zw[fa] zw[fa]|z(dc=E) Fw[fa] zw[fa]|z(dc=E) (F/f/)(=e/g/) (f/c/)(d/B/)|
+V:2
+FF=EE!dolce!x4|z(BAG) !pdolce!x4|z(BAG) !forte!cBAG|
+V:3
+C4x4|x8|x8|
+V:4
+CCC,C, [D,D]z [A,,A,]z|[B,,B,]z [C,C]z [D,D]z [A,,A,]z|[B,,B,]z [C,C]z A,G,A,B,|
+% (6)
+V:s		% M11
+z8|z4G4-|G2F2B4-|B2A2d4-|
+w:Sta -bat ma -ter do-
+V:a
+z8|F6=E2|A6G2|c6B2|
+w:Sta-bat ma-ter do-lo-
+V:1
+{B}A2TG2FCA,2|z4G4-|G2F2B4-|B2A2d4-|
+V:2
+F2=E2x4|!dolces!F6=E2|A6G2|c6B2|
+V:3
+x8|x8|C4E4-|E2F4G2-|
+V:4
+CCC,C,F,2z2|F,G,A,F, C,=D,=E,C,|F,G,A,F, _E,F,G,E,|A,B,CA, B,CDB,|
+V:s		% M15
+d2(cB)(=A4|B2d4cB|T_A4)G2z2|f2e2(dc)B2-|
+w:-lo -ri -----sa jux-ta cru -cem
+V:a
+(=E4_E2DC|D3F=E4|TF4)=E2z2|z8|
+w:ro -------sa
+V:1
+(d2cB=A4)|d2df[G=e]4|[Acf][CFA][=B,FA][B,FA][C=EG]2z2|f2e2dcB2-|
+V:2
+=e4_e2dc|[FB]2d2-d2cB|x8|z2c2-c=ABF|
+V:3
+G4C4|x8|x8|x8|
+V:4
+CB,A,G, F,_G,F,E,|D,C,D,B,, C,B,,A,,G,,|F,,F,=B,,B,, C,_D,C,_B,,|=A,,G,,A,,F,, B,,C,D,B,,|
+V:s		% M19
+B (_GF) e {f}(3e/d/c/{c}d3|z8|z8|c3d{c}B3c|
+w:_ la -cri-mo --sa, dum pen-de-bat
+V:a
+z8|E2d2(cB)A2-|A (FE) d (3d/c/B/{B}c3|A3B{A}G3A|
+w:jux-ta cru -cem_ la -cri-mo --sa, dum pen-de-bat
+V:1
+BGFe- ed/c/ dd|E2d2cBA2-|AFEd- dc/B/ cc|[ac']3[bd']{[ac']}[gb]3[ac']|
+V:2
+_GB2=AF4|z2B2-B=GAE|FA2GE2z2|!dolce!x8|
+V:3
+x8|x8|x8|x8|
+V:4
+E,,E,D,C, B,,B,B,A,|G,F,G,E, A,B,CA,|D,DCB, A,A,A,G,|F,F,F,,2zG,=E,2|
+% (7)
+V:s		% M23
+{B}TA3AG2z2|!dolce!c6c2|(c4=B2)c2|(c2=B3/) c/c2z2|
+w:fi-li-us, dum pen-de -bat fi -li-us.
+V:a
+{G}TF3F=E2z2|z4!dolce!=D4-|D2=D2D2E2|=D3DC2z2|
+w:fi-li-us dum_ pen-de-bar fi-li-us.
+V:1
+{[gb]}T[fa]4[=eg]2z2|z4=d4-|d4[=B=d]2[c-e]2|c2=B2zw[ce] zw[ce]|
+V:2
+x8|c8-|c4x4|x4!dolce!x4|
+V:3
+x8|[I:staff 3]!sottov!E4F4|^F4G4-|[G=d]4[I:staff 4]x4|
+V:4
+zF,=B,,B,,C,2z2|C,=D,_E,C, F,G,A,G,|^F,F,F,F, G,G,E,=F,|G,G,G,,G,, C,z E,z|
+V:s		% M27
+z8|z4c4-|c2=B2e4-|e2=d2g4-|
+w:Sta -bat ma -ter do-
+V:a
+z8|z8|=D6C2|F6E2|
+w:Sta-bat ma-ter
+V:1
+z(AG=B,) Cw[ce] zw[ce]|z(AG=B,)C2z2|=d6c2|f6e2|
+V:2
+z(FE=D)x4|z(FE=D)c4-|c2=B2[Ge-]4|e2=d2g4-|
+V:3
+x8|x8|z4x4|B,6C2-|
+V:4
+F,z G,z A,z E,z|F,z G,z C,=D,E,C,|G,,=A,,=B,,G,, C,=D,E,C,|_B,,C,=D,B,, E,F,G,E,|
+V:s		% M31
+g2f2(=B4|c4)=B2z2|z4f2e2|_d2=d2e2_d2|(c4d2c2|
+w:-lo-ro -sa jux-ta cru-cem la-cri-mo --
+V:a
+A6(GF)|E4=D2z2|c2B2A2=A2|B2_A2_G2=G2|A2G2(F4|
+w:do-lo -ro-sa jux-ta cru-cem jux-ta cru-cem la-cri-mo-
+V:1
+a6gf|[Ece][Ece][^Fce][Fce][G=B=d]2z2|(c'2_b2[fa]2[e=a]2)|([_db]2[=d_a]2[e_g]2[_d=g]2)|(a2g2f4)|
+V:2
+g2f2=B4|x8|!dolce!z4x4|x8|c4(d2c2)|
+V:3
+C2=D6|x8|C6F2-|F4E4-|E4D4-|
+V:4
+F,G,A,F, G,F,E,=D,|C,C,^F,,F,, G,,G,G,=F,|=E,4F,4|B,,4E,4|A,,4D,4|
+% (8)
+V:s		% M36
+B4c2B2|{B}TA4)G2z2|z(BA) GTA2TA2|z(cB) A (G=ef) B|
+w:----sa, dum_ pen-de-bat, dum_ pen-de --bat
+V:a
+G2F2=E4)|TF4=E2z2|z(GF) =ETF2TF2|z(AG) F (=EGA) F|
+w:----sa, dum_ pen-de-bat, dum_ pen-de --bat
+V:1
+(g2f2=e4)|[Af][FA][FA][FA] Gwbwgw=e|C([GB][FA][=EG]) Awc'wawf|C([Ac][GB][FA]) [=EG][_d=eg][cfa][FB]|
+V:2
+B4(c2B2)|x4!dolce!=E2z2|x4F2z2|x4!forte!x4|
+V:3
+D4C4-|iCx3C4|C8|C4-Cx3|
+V:4
+G,,4C,4-|[C,C][=B,,=B,][B,,B,][B,,B,]C,4|zC,C,C,C,2z2|zC,C,C, C,B,,A,,B,,|
+V:s		% M40
+{B}(A2TG3/) F/F2z2|z(dc) =E F/E/ Fz2|z8|z4!sottov!G4-|
+w:fi -li-us, do -lo-ro -sa, dum
+V:a
+(F2=E3/) F/F2z2|z8|z(dc) =E F/E/ Fz2|!sottov!F6F2|
+w:fi -li-us, la -cri-mo -sa, dum pen-
+V:1
+[CFA][CFA][C=EG][CEG] zw[fa] zw[fa]|z(dc=E) F[fa] z[fa]|z(dc=E){E}F2z2|z4G4-|
+V:2
+x4!dolcea!x4|z(BAG)x4|z(BAG)F2x2|F8-|
+V:3
+x8|x8|x8|[I:staff 3]!sottov!A,4B,4|
+V:4
+C,C,C,C, [D,D]z [A,,A,]z|[B,,B,]z [C,C]z [D,D]z [A,,A,]z|[B,,B,]z [C,C]z [D,D]2z2|F,G,A,F, B,,C,D,C,|
+V:s		% M44
+G2G2G2A2|G3GF2z2|z8|Hz8|]
+w:_ pen-de-bat fi-li-us.
+V:a
+(F4=E2)F2|(F2=E) EF2z2|z8|Hz8|]
+w:de -bat fi -li-us.
+V:1
+G4-[=EG]2A2|G4F[fa] zw[fa]|z(dc=E) Fw[fa] zw[fa]|z(dc=E){E}F2Hz2|]
+V:2
+F4x2F2-|F2=E2!dolce!x4|z(BAG)x4|z(BAG)F2x2|]
+V:3
+[I:staff 4]x8|x8|x8|x8|]
+V:4
+=B,,B,,B,,B,, C,_B,,A,,B,,|C,4F,z [A,,A,]z|[B,,B,]z [C,C]z [D,D]z [A,,A,]z|[B,,B,]z [C,C]z[F,,F,]2Hz2|]
+
+X:2
+T:2 Cujus animam gementem
+T:Canto solo
+M:3/8
+L:1/8
+%%staves s {1 2 3}
+Q:"Andante amoroso"
+K:Cm
+% (9)
+V:s name=Sopran dyn=up
+z3|z3|z3|z3|z3|z3|z3|
+V:1 name="Str.\nBc."
+wcd2|wef2|wga2|w[D=B]w[Ec]z|w_Bc2|w_de2|wf_g2|
+V:2
+!dolce!E2D|C2=B,|G2C|!forte!x3|!dolce!_D2C|B,2=A,|F2B,|
+V:3
+C,2=B,,|C,2D,|E,2F,|wF,wE,z|_B,,2=A,,|B,,2C,|_D,2E,|
+V:s		% M8
+z3|z3|z3|z3|z3|z3|z3|z3|
+V:1
+w[C=A]w[_DB]z|B/c/_dd|c/B/Az|f/g/aa|[D=B]3|w[Gc]([=Bf][ce])|w[ce]w[=Bd]z|{a}Tg3|
+V:2
+!forte!x3|!dolce!E3-|E2G|!forte!A2c|x3|x3|x3|!forte!=B3|
+V:3
+wE,w_D,z|=G,3|A,CB,|A,3-|A,G,F,|E,D,C,|G,2z|zwG,wF,|
+V:s		% M16
+z3|z3|z3|z3|z3|z3|z3|z3|
+V:1
+{a}Tg3|{a}Tg3|{a}Tg3|(^f3|=f3)|(e=Bc)|d/f/e=B|{=B}c2z|
+V:2
+c3|=B3|c3|!dolce!x3|x3|!forte!x3|FGx|z!dolce!AE|
+V:3
+wE,wD,wC,|G,,G,F,|E,D,C,|z[D,D][C,C]|[=B,,=B,][=A,,=A,][G,,G,]|[C,C][D,D][E,E]|F,G,[G,,G,]|zA,E,|
+V:s		% M24
+z3|z3|z3|z3|!dolce!wcd2|wef2|wga2|!forte!w=B wcz|
+w:Cu-jus a-ni-mam ge-men-tem
+V:1
+!dolcea!(d/f/e)w=B|c2z|!forte!d/f/ed|cCz|wcd2|wef2|wga2|w[D=B]w[Ec]z|
+V:2
+F2G|z!forte!AE|FGx|x3|!dolce!E2D|C2=B,|G,2C|!forte!x3|
+V:3
+F,2G,|zA,E,|F,G,[G,,G,]|[C,C]2z|C,2=B,,|C,2D,|E,2F,|wF,wE,z|
+% (10)
+V:s		% M32
+!dolce!w_Bc2|w_de2|wf_g2|!forte!=A Bz|!dolce!B/c/_d2|c/B/ Az|!forte!f {e}T_d2|
+w:con-tris-ta-tam ac do-len-tem per -trans-i -vit, per-trans-
+V:1
+_Bc2|_de2|f_g2|w[C=A]w[_DB]z|B/c/_dd|c/B/A2|f{e}T_d2|
+V:2
+!dolce!_D2C|B,2=A,|F,2B,|!forte!x3|!dolce!E3-|E2c-|!forte!cB2-|
+V:3
+_B,,2=A,,|B,,2C,|_D,2E,|wE,w_D,z|G,3|A,CA,|_D2B,|
+V:s		% M39
+e {_d}Tc2|(B/c/_d) c|B2z|B_d2|c (eA)|B_d2|c (eA)|
+w:i-vit gla --di-us, cu-jus a-ni -mam ge-men-tem_
+V:1
+e{_d}Tc2|B/c/_dc|[EB]2z|w[GB][G_d]2|wc (eA)|[GB][G_d]2|wc (eA)|
+V:2
+BA2|GEE|x3|E3-|[E-A]3|E3-|[E-A]3|
+V:3
+C2A,|B,G,A,|E,2z|E,2E,|E,3|E,2E,|E,3|
+V:s		% M46
+B_d2|c (eA)|B (_dc)|c Bz|!dolce!=d3|_d3|(cB) !forte!A|
+w:con-tris-ta-tam_ ac do -len-tem per-trans-i -vit
+V:1
+[GB][G_d]2|c (eA)|[GB][B_d][Ac]|[Ac][GB]z|(=d3|_d3)|cBA|
+V:2
+E3-|[E-A]3|Ex2|x3|!dolce!x3|x3|x2!forte!x|
+V:3
+E,2E,|E,3|E[E,E][A,E]|[E,E]2z|zB,A,|G,F,E,|A,B,C|
+V:s		% M53
+(B/_d/c) G|A2z|!dolce!=d3|_d3|!forte!(cB) A|F/B/{A}G2|A2z|z3|
+w:gla --di-us, per-trans-i -vit gla -di-us.
+V:1
+B/_d/cG|AG,A,|(=d3|_d3)|cBA|F/B/{A}G2|Aa2|B/_d/cG|
+V:2
+x3|x3|!dolce!x3|x3|!forte!x3|x3|!forte!x3|!dolce!x3|
+V:3
+_D,E,E,,|A,,B,,C,|zB,A,|G,F,E,|A,,B,,C,|_D,E,E,,|A,,2C,|_D,E,2|
+% (11)
+V:s		% M61
+z3|z3|z3|!dolce!e3|e3|(e=A) B|c_d e|!forte!w_d wcz|
+w:Cu-jus a -ni-mam_ ge-men-tem
+V:1
+Aa2|B/_d/cG|AA,z|[(,ce-]3|[B)e]3|([=Ae][FA][GB]|c_de)|w[B_d]w[=Ac]z|
+V:2
+x!forte!x2|!dolce!x3|x3|!dolce!x3|x3|x3|=A3|!forte!x3|
+V:3
+zF,C,|_D,E,E,,|A,2z|zA,A,|z_G,G,|F,3-|F,3|w=E,wF,z|
+V:s		% M69
+!dolce!f3|f3|(f=B) c|de f|!forte!e dz|!forte!Tg3|Tg3|Tg3|
+w:con-tris-ta -tam ac_ do-len-tem per-trans-i-
+V:1
+[(,_df-]3|[c)f]3|([=Bf][GB][=Ac]|def)|w[ce]w[=Bd]z|Tg3|Tg3|Tg3|
+V:2
+!dolce!x3|x3|x3|=B3|!forte!x3|!forte![=Bd]3|[ce]3|[=Bd]3|
+V:3
+zB,B,|z_A,A,|G,3-|G,3|w^F,wG,z|zG,=F,|E,D,C,|G,,G,F,|
+V:s		% M77
+Tg3|!dolce!^f3|=f3|(e!forte!d) c|f/d/{c}=B2|c2z|!sottov!cc2|_dd2|
+w:vit, per-trans-i -vit gla -di-us, cu-jus a-ni-
+V:1
+Tg3|(^f3|=f3)|edc|f/d/{c}=B2|c2z|cc2|_dd2|
+V:2
+[ce]3|!dolce!x3|x3|x2!forte!x|FGx|x3|!sottov![=Ec]2E|[Fc]2[Fc]|
+V:3
+E,D,C,|z[D,D][C,C]|[=B,,=B,][=A,,=A,][G,,G,]|[C,C][D,D][E,E]|F,G,[G,,G,]|[C,C]2z|C,3-|C,3-|
+V:s		% M85
+=ee2|ff2|a=B2|cc2|ee2|e dz|!forte!Tg3|Tg3|
+w:mam ge-men-tem con-tris-ta-tam ac do-len-tem per-trans-
+V:1
+=ee2|ff2|a=B2|cc2|ee2|w[ce]w[=Bd]z|Tg3|Tg3|
+V:2
+[GB]2[GB]|[CA]2[CA]|A2[FA]|[EG]2[EG]|[^Fc]2[Fc]|G2x|!forte![=Bd]3|[ce]3|
+V:3
+C,3-|C,3-|C,3-|C,3|^F,2F,|wG,wG,,z|zG,F,|E,D,C,|
+% (12)
+V:s		% M93
+Tg3|Tg3|!dolce!^f3|=f3|(!forte!ed) c|d/f/e =B|c2z|!dolce!^f3|
+w:i-vit, per-trans-i -vit gla --di-us, per-
+V:1
+Tg3|Tg3|(^f3|=f3)|edc|d/f/e=B|c=B,C|(^f3|
+V:2
+[=Bd]3|[ce]3|!dolce!x3|x3|!forte!x3|FGx|x3|!dolce!x3|
+V:3
+G,,G,F,|E,D,C,|z[D,D][C,C]|[=B,,=B,][=A,,=A,][G,,G,]|[C,C][D,D][E,E]|F,G,[G,,G,]|[C,C]D,E,|z[D,D][C,C]|
+V:s		% M101
+=f3|(!forte!ed) c|(d/f/e) =B|c2z|z3|z3|z3|Hz3|]
+w:trans-i -vit gla --di-us.
+V:1
+=f3)|edc|d/f/e=B|cc'2|d/f/e=B|cc'2|d/f/e=B|cCHz|]
+V:2
+x3|!forte!x3|FGx|!forte!x3|!dolce!F2G|z!forte!AE|!dolce!FGx|x3|]
+V:3
+[=B,,=B,][=A,,=A,][G,,G,]|[C,C][D,D][E,E]|F,G,[G,,G,]|[C,C]2[E,E]|F,2G,|zA,E,|F,G,[G,,G,]|[C,C]2Hz|]
+
+X:3
+T:3 O quam tristis et afflicta
+T:à due
+M:C
+L:1/8
+%%staves s | a | {1 2 3}
+Q:"Larghetto"
+K:Gm
+V:s name=Sopran dyn=up
+d2d2^c2d2|z4=c2c2|c2B2z4|g2B2B2HA2|
+w:O quam tris-tis et af-fli-cta, et af-fli-cta
+V:a name=Alt dyn=up
+B2B2B2A2|z4^F2A2|A2G2z4|B2G2G2H^F2|
+w:O quam tris-tis et af-fli-cta, et af-fli-cta
+V:1 name="Str.\nBc."
+[GBd]2[GBd]2[GB^c=e]2[^FAd]2|(a^f_e=c Ac^Fc)|(cAB^F) (GBd^f)|(gbg[GB])[GB]2H[^FA]2|
+V:2
+x8|!dolcea!x8|x8|x8|
+V:3
+G,2G,2G,2^F,2|z4D,2D,2|G,2G,,2z4|^C,2C,2HD,4|
+% (13)
+V:s		% M5
+ff3ee3|(db2)d d cz2|!dolce!e4d4|z(ed) c(B2A3/) B/|B2z2!dolce!e4|
+w:fu-it il-la be -ne-di-cta ma-ter u -ni-ge -ni-ti, ma
+V:a
+dd3cc3|B2B2B Az2|!dolce!c4B4|z(GF) E (D/C/B,)C2|B,2z2!dolce!c4|
+w:fu-it il-la be -ne-di-cta ma-ter u -ni-ge -ni-ti, ma
+V:1
+w[d=f][df]3w[ce][ce]3|wdb2d [Bd][CF][FA][Ac]|[ce]4[Bd]4|z[Ge][Fd][Ec]([DB]2[CA]2)|z[B,D][DF][FB][ce]4|
+V:2
+x8|wBB3x4|!dolce!x8|x8|x4!dolce!x4|
+V:3
+zB,,D,B,, zC,A,,F,,|zB,,D,=E,F,2z2|zCA,F, zB,D,B,,|_E,4zB,E,F,|B,,2z2zCA,F,|
+V:s		% M10
+d4z(!forte!gf) e|(d//c//B3/)Tc2B2z2|z8|z8|
+w:ter u -ni-ge --ni-ti!
+V:a
+B4z(!forte!ed) c|(B2A3/) B/B2z2|z8|z8|
+w:ter u -ni-ge -ni-ti!
+V:1
+[Bd]4z[eg][fd][ce]|d2Tc2Bb2b-|ba/g/ f=e f3/g/ (f//_e3//)(d//c3//)|TB3/A//B// Tc3/B/ B,FB2|
+V:2
+x4!forte!x4|B2A2x4|x8|x8|
+V:3
+zB,,D,B,,E,4|zB,E,F,B,,2D,2|C,3B,, A,,B,,G,,E,|D,G,E,F,B,,2z2|
+V:s		% M14
+f2f2!forte!^f2g2|z4g2B2|B2A2!dolce!d2d2|d2c2a2c2|c2B2g2B2|
+w:O quinam tris-tis et af-fli-cta fu-il il-la be-ne-di-cta, be-ne-
+V:a
+d2d2!forte!c2B2|z4B2G2|G2^F2!dolce!D2D2|E2=E2^F2F2|G2G2B2G2|
+w:O quinam tris-tis et af-fli-cta fu-il il-la be-ne-di-cta, be-ne-
+V:1
+[Bdf]2[Bdf]2[Ac^f]2[GBg]2|GBd^f g[gb][Bg][GB]|[GB]2[^FA]2[dd'-]4|d'2c'4c'2-|c'2b2-ibx3|
+V:2
+x4!forte!x4|!dolce!x8|x4!dolce!x4|e2=e2^f4|g4-[gb][gb][Bg][GB]|
+V:3
+B,2B,2A,2G,2|z4^C,2C,2|D,8-|D,8-|D,4^C,4|
+% (14)
+V:s		% M19
+B Az2!forte!c4|B4z(!dolce!ed) c|(B2A3/) G/G2z2|!forte!c4B4|
+w:di-cta ma-ter u -ni-ge -ni-ti, ma-ter
+V:a
+G ^Fz2!forte!A4|G4z(!dolce!cB) A|(G2^F3/) G/G2z2|!forte!A4G4|
+w:di-cta ma-ter u -ni-ge -ni-ti, ma-ter
+V:1
+[GB][^FA]z2[Ac]4|[GB]4z[ce][Bd][Ac]|[GB]2[^FA]2G[G,B,][B,D][DG]|[Ac]4[GB]4|
+V:2
+x8|x4!dolce!x4|x8|!forte!x8|
+V:3
+D,2z2zA,^F,D,|zG,B,G,E,4|zE,C,D,G,,2z2|zA,^F,D, zG,B,G,|
+V:s		% M23
+z(!dolce!ed) c(B2A3/) A/|G2z2z4|z8|Hz8|]
+w:u -ni-ge -ni-ti!
+V:a
+z(!dolce!cB) A(G2^F3/) F/|G2z2z4|z8|Hz8|]
+w:u -ni-ge -ni-ti!
+V:1
+z[ce][Bd][Ac][GB]2[^FA]2|Gg2g- g^f/_e/ d^c|de d//=c3//B//A3// G3/A/TA2|GDG,2Hz4|]
+V:2
+!dolce!x8|x8|x8|x8|]
+V:3
+E,4D,4|G,,2B,2(A,3G,)|^F,G, E,C, B,,E, C,D,|G,,2z2Hz4|]
+
+X:4
+T:4 Quae moerebat et dolebat
+T:Alto solo
+M:2/4
+L:1/8
+%%staves a | {1 2 3}
+Q:"Allegro"
+K:Eb
+V:a name=Alt dyn=up
+z4|z4|z4|z4|z4|z4|
+V:1 name="Str.\nBc."
+ee2f/g/|ff2g/f/|c'c'2b/a/|g[fg]2d/e/|c'c'2b/a/|g/f/ez2|
+V:2
+zG zG|zA zA|za zf|zB zG|za zf|zG zE|
+V:3
+E,2E,2|E,2E,2|D,2B,2|E,2E,2|E,2D,2|E,2E,,2|
+% (15)
+V:a		% M7
+z4|z4|z4|z4|z4|z4|z4|
+V:1
+BB,TB,2|AB,TB,2|Ge2G|GFz2|cc2d|eE2B|cc2d|
+V:2
+!dolce!zB, zB,|zA, zA,|zG, zE|ED zG|!forte!zA zF|zE zE|zA zF|
+V:3
+G,2E,2|F,2D,2|E,2=A,,2|B,,2wG,2|wA,2wF,2|G,2E,2|A,2F,2|
+V:a		% M14
+z4|z4|z4|z4|z4|z4|z4|
+V:1
+eE2B|Af2A|Af2A|Aa2a|{a}gf/g/ af|{e}d4|Ee2e-|
+V:2
+zE zE|!dolce!zF zF|zF zF|!forte!zf zf|zB, zC|zB, zA,|!dolce!x4|
+V:3
+G,2E,2|wF,2wE,2|wD,2wC,2|B,,2D,2|E,2A,,2|B,,2B,,2|E,2G,2|
+V:a		% M21
+z4|z4|z4|z4|E(E2F/G/)|wF(F2G/F/)|
+w:Quae moe --re-bat__
+V:1
+eF/A/ GD/F/|Ee2e-|eF/A/ GD/F/|EB,G,2|z[GB] z[GB]|z[FA] z[FA]|
+V:2
+x4|x!forte!x3|x4|x4|!dolces!x4|x4|
+V:3
+A,2B,2|C2G,2|A,2B,2|E,2z2|E,2E,2|E,2E,2|
+V:a		% M27
+wc(c2B/A/)|wG(F2D/E/)|wc(c2B/A/)|G/F/ Ez2|wBTB3|wATA3|
+w:et do --le-bat__ et do --le -bat, et tre-me-bat,
+V:1
+z[Ac] z[FA]|z[B,G] z[B,G]|z[Ac] z[FA]|z[B,G] z[B,G]|z[GB] z[GB]|z[FA] z[FA]|
+V:2
+x4|x4|x4|x4|x4|x4|
+V:3
+D,2B,2|E,2E,2|E,2D,2|E,2E,2|G,2E,2|F,2D,2|
+% (16)
+V:a		% M33
+(Ge2)G|G Fz2|B2B2|B2=A2|E2E2|E3/ E/D2|
+w:cum_ vi-de-bat na-ti poe-nas poe-nas in-cly-ti,
+V:1
+z[EG] z[EG]|z[DF] z[DF]|zB zB|zB z=A|zE zE|zE zD|
+V:2
+x4|x4|x4|x4|x4|x4|
+V:3
+E,2=A,,2|wB,,2wB,,2|D,2=E,2|F,2F,,2|G,,2=A,,2|B,,2D,2|
+V:a		% M39
+wG(G2=A)|wB(B2F)|wG(G2=A)|wBB3|!dolce!E2E2|E2E2|
+w:et tre -me-bat,_ cum vi -de-bat na-ti poe-nas,
+V:1
+zg z=a|zb zf|zg z=a|zb zb|z[CE] z[CE]|z[CE] z[CE]|
+V:2
+x4|x4|x4|x4|x4|x4|
+V:3
+E,2C,2|D,2B,,2|E,2C,2|D,2B,,2|C,2B,,2|=A,,2G,,2|
+V:a		% M45
+!forte!e2e2|(dc/d/ we) d/c/|{B}=A3A|B2z2|wG(G2=A)|wB(B2F)|
+w:na-ti poe ---nas_ in-cly-ti, et tre -me-bat,_
+V:1
+z[ce] z[ce]|z[Bd] z[Bc]|z[=Ac] z[Ac]|zB zF|zG z=A|zB zF|
+V:2
+!forte!x4|x4|x4|x2!dolce!x2|x4|x4|
+V:3
+F,,2=A,,2|B,,2E,2|F,2F,,2|B,,2D,2|E,2C,2|D,2B,,2|
+V:a		% M51
+wG(G2=A)|BB3|!dolce!E2E2|E2E2|!forte!e2e2|(dc/d/ we) d/c/|
+w:cum vi -de-bat na-ti poe-nas, na-ti poe ---nas_
+V:1
+zG z=A|zB zB|z[CE] z[CE]|z[CE] z[CE]|z[ce] z[ce]|z[Bd] z[Be]|
+V:2
+x4|x4|x4|x4|!forte!x4|x4|
+V:3
+E,2C,2|D,2B,,2|C,2B,,2|=A,,2G,,2|F,,2=A,,2|B,,2E,2|
+% (17)
+V:a		% M57
+{B}=A3B|B2z2|z4|z4|z4|z4|
+w:in-cly-ti.
+V:1
+z[=Ac] z[Ac]|Bb2b-|bc/e/ d=A/c/|Bb2b-|bc/e/ d=A/c/|BFB,2|
+V:2
+x4|x4|x4|x!dolce!x3|x4|x4|
+V:3
+F,2F,,2|B,,2D,2|E,2F,2|G,2D,2|E,2F,2|B,2z2|
+V:a		% M63
+!dolce!TB2TB2|TB2TB2|(!forte!_d2c) B|wA(G2F)|(G/B/A2)G|A/G/ Fz2|
+w:Quae moe-re-bat et_ do-le-bat,_ et__ do-le -bat,
+V:1
+z[B_d] z[Bd]|z[B_d] z[Bd]|z[B_d] z[=EB]|z[FA] z[FA]|z[FG] z[=EG]|zf2f-|
+V:2
+!dolce!x4|x4|x4|x4|x4|x4|
+V:3
+B,2A,2|G,2F,2|=E,2C,2|F,2A,,2|B,,2C,2|F,2A,,2|
+V:a		% M69
+z4|!dolce!TA2TA2|TA2TA2|(!forte!c2B) A|wG(F2E)|(A/F/c2)B/A/|
+w:et tre-me-bat, cum_ vi-de-bat,_ cum__ vi -
+V:1
+fG/B/ A=E/G/|F[FA] z[FA]|z[FA] z[FA]|z[Ac] z[FA]|z[B,G] z[EG]|z[EF] z[DF]|
+V:2
+x4|x4|x4|x4|x4|x4|
+V:3
+B,,2C,2|F,2_E,2|D,2C,2|B,,2D,2|E,2G,,2|A,,2B,,2|
+V:a		% M75
+g/f/ ez2|z4|z4|wc(c2d)|weTE3|wc(c2d)|
+w:de -bat, et tre -me-bat, cum vi -
+V:1
+ze2e-|eF/A/ GD/F/|EB,/E/G,2|zc zd|ze zB|zc zd|
+V:2
+x!forte!x3|x4|x4|!dolce!x4|x4|x4|
+V:3
+E,2G,2|A,2B,2|E,2G,2|A,2F,2|G,2E,2|A,2F,2|
+% (18)
+V:a		% M81
+eE3|!dolce!A2A2|A2A2|!forte!f2A2|(TG3/F//G//) (TA3/G//F//)|{E}D3E|
+w:de-bat na-ti poe-nas, na-ti poe --nas__ in-cly-
+V:1
+ze zB|z[FA] z[FA]|z[FA] z[FA]|z[fa] z[fa]|z[eg] z[ef]|z[df] z[df]|
+V:2
+x4|x4|x4|!forte!x4|x4|x4|
+V:3
+G,2E,2|F,2E,2|D,2C,2|B,,2D,2|E,2A,,2|B,,2B,,2|
+V:a		% M87
+E2z2|wc(c2d)|eE3|wc(c2d)|eE3|!dolce!A2A2|
+w:ti, et tre -me-bat, cum vi -de-bat na-ti
+V:1
+ze zB|zc zd|ze zB|zc zd|ze zB|z[FA] z[FA]|
+V:2
+x2!dolce!x2|x4|x4|x4|x4|x4|
+V:3
+E,2G,2|A,2F,2|G,2E,2|A,2F,2|G,2E,2|F,2E,2|
+V:a		% M93
+A2A2|!forte!f2A2|(TG3/F//G//) (TA3/G//F//)|{E}D3E|E2z2|z4|
+w:poe-nas, na-ti poe --nas__ in-cly-ti.
+V:1
+z[FA] z[FA]|z[fa] z[fa]|z[eg] z[ef]|z[df] z[df]|Ee2e-|eF/A/ GD/F/|
+V:2
+x4|!forte!x4|x4|x4|x!forte!x3|x4|
+V:3
+D,2C,2|B,,2D,2|E,2A,,2|B,,2B,,2|E,2G,2|A,2B,2|
+V:a		% M99
+z4|z4|z4|z4|Hz4|]
+V:1
+Ee2e-|eF/A/ GD/F/|Ee/c/ =A_A/F/|DE/C/ A,B,|[G,E]2Hz2|]
+V:2
+x!dolce!x3|x4|x!forte!x3|x4|x4|]
+V:3
+C2G,2|A,2B,2|E,2z2|zwE,wA,,wB,,|E,,2Hz2|]
+
+X:5
+T:5 Quis est homo
+T:à due
+M:C
+L:1/8
+%%staves s | a | {1 2 3}
+Q:"Largo"
+K:Cm
+% (19)
+V:s name=Sopran dyn=up
+c3e d/c/{c}d2z|d2g2=e{e}f3|f3a{c}=B3c|
+w:Quis est ho -mo qui non fle-ret, Chri-sto ma-trem
+V:a name=Alt dyn=up
+z8|z8|z8|
+V:1 name="Str.\nBc."
+[Ge][Ge][Ge][Ge] [Fd][Fd][Fd][^Fd]|[Gd][Gd][Gd][Gd] [G=e][cf][cf][cf]|[cf][cf][cf][cf] [=Bd][Bd][GB][Gc]|
+V:2
+!dolce!x8|x8|x8|
+V:3
+C,CCC C=B,B,B,|_B,B,B,B, B,=A,A,A,|_A,A,F,F, F,F,E,E,|
+V:s		% M4
+f2e2e d zG|g8-|g2f//e3// (d//c3//) [Q:"Largo"]=B3/ =A/HG2|z8|
+w:si vi-de-ret in tan -to_ sup -pli-ci-o?
+V:a
+z8|z8|Hz8|G3_B =A/G/{G}A2z|
+w:Quis non pos -set
+V:1
+[df][df][ce][ce] [ce][=Bd]z2|g8-|g2[Q:"Largo"](f^fHg4)|[_Bd][Bd][Bd][Bd] [=Ac][Ac][Ac][A^c]|
+V:2
+x8|!dolce!z2(e2d2_d2|c4)=B4|!dolce!x8|
+V:3
+zF,^F,F, G,G,,z2|z2(C2=B,2_B,2|=A,2_A,2)HG,4|G,,G,G,G, G,^F,F,F,|
+V:s		% M8
+z8|z8|z8|z8|
+V:a
+=A2d2=B{B}c3|c3e{G}^F3G|c2B2B =A zD|d8-|
+w:con-tri-sta-ri, pi-am ma-trem con-tem-pla-ri do-len-
+V:1
+[=Ad][Ad][Ad][Ad] [G=B][Gc][Gc][Gc]|[Gc][Gc][Gc][Gc] [^F=A][FA][DF][DG]|[=Ac][Ac][GB][GB] [GB][^FA]z2|d8-|
+V:2
+x8|x8|x8|!dolce!z2(B2=A2_A2)||
+V:3
+=F,F,F,F, F,=E,E,E,|_E,E,C,C, C,C,B,,B,,|zC,^C,C,D,2z2|z2(G,2^F,2=F,2|
+% (20)
+V:s		% M12
+Hz8|=A2zB B Az2|=A3B B Az2|
+w:Quis est ho-mo, qui non fle-ret,
+V:a
+d2c//B3// =A//G3// [Q:"Largo"]{G}^F3/ =E/HD2|^F2zG G Fz2|^F3G G Fz2|
+w:-tem_ cum_ fi-li-o? Quis non pos-set con-tri-sta-ri
+V:1
+d2[Q:"Largo"](c^c)Hd4|D3/(d/ =A/B/^F/G/) D3/(d/ A/B/F/G/)|D3/(d/ =A/B/^F/G/) D3/(d/ A/B/F/G/)|
+V:2
+G4^F4|!dolce!x8|x8|
+V:3
+=E,2_E,2)HD,4|D,D,D,D, D,D,D,D,|D,D,D,D, D,D,D,D,|
+V:s		% M15
+=A3Bc2B2|gTB3B =A zd|g2(=f//e3//) (d//^c3//) [Q:"Largo"]d/ c/ dz2|
+w:Chri-sti ma-trem si vi-de-ret in tan-to_ sup -pli-ci-o?
+V:a
+^F3G=A2G2|BTG3G ^Fz2|z4z2zD|
+w:pi-am ma-trem con-tem-pla-ri do-
+V:1
+D3/(d/ =A/B/^F/G/) [Ac][Ac][GB][GB]|[gb][GB][GB][GB] B=Ad2-|d3^c[Q:"Largo"]d4-|
+V:2
+x8|x4G(^F/d/ A/B/F/G/)|G,G2G ^F3/(d/ =A/B/F/G/)|
+V:3
+D,D,D,D, ^F,F,G,G,|^C,C,C,C, D,D,D,D,|E,4D,D,D,D,|
+V:s		% M18
+z8|^F2z2=A2Hz2|[M:6/8][Q:"allegro"]B3-B (c_A)|
+w:quis? quis? Pro_ pec -
+V:a
+G2(=F//E3//) [Q:"Largo"](D//^C3//) D/ C/ Dz2|D2z2^F2Hz2|[M:6/8]G3-G (AF)|
+w:len-tem_ cum_ fi-li-o? quis? quis? Pro_ pec -
+V:1
+d3^c [Q:"Largo"][^Fd]3/(d/ =A/B/F/G/)|D3/(d/ =A/B/^F/G/)D2Hz2|[M:6/8]([GB][EG][F_A] [GB][Ac][FA])|
+V:2
+G,G2Gx4|x8|[M:6/8]x6|
+V:3
+E,4D,2z2|D,2z2D,2Hz2|[M:6/8]E,3E,3|
+% (21)
+V:s		% M21
+B3-B (cA)|B3-B (cA)|B3E2z|F3-F (_GE)|
+w:ca -tis_ su -se_ gen-tis vi -dit_
+V:a
+G3-G (AF)|G3-G (AF)|G3E2z|D3-D (EC)|
+w:ca -tis_ su -se_ gen-tis vi -dit_
+V:1
+([GB][EG][FA] [GB][Ac][FA])|([GB][EG][FA] [GB][Ac][FA]|[GB])wGwEwB,3|([DF][B,D][CE] [DF][E_G][CE])|
+V:2
+x6|x6|x6|x6|
+V:3
+E,3E,3|E,3E,3|E,3-E,G,E,|B,,3B,,3|
+V:s		% M25
+F3-F (_GE)|F3-F (_GE)|F3F2z|!forte!A3A3|
+w:Je -sum_ in_ tor -men-tis et fla
+V:a
+D3-D (EC)|D3-D (EC)|D3D2z|!forte!F3F3|
+w:Je -sum_ in_ tor -men-tis et fla
+V:1
+([DF][B,D][CE] [DF][E_G][CE])|([DF][B,D][CE] [DF][E_G][CE]|[DF])wFwDwB,2z|[FA][fa][FA] [FA][fa][FA]|
+V:2
+x6|x6|x6|!forte!x6|
+V:3
+B,,3B,,3|B,,3B,,3|B,,3-B,,F,D,|=B,,3B,,3|
+V:s		% M29
+G3c3|(c3=B2)c|c3z2z|!dolce!G6|
+w:gel-lis sub -di-tum, vi-
+V:a
+E3E3|D3-D2C|C3z2z|!dolce!G6|
+w:gel-lis sub -di-tum, vi-
+V:1
+[EG][eg][CE] [CE][ce][CE]|[CD][cd][CD] [=B,D][=Bd][B,D]|CGEC2z|G,D=B, G,DB,|
+V:2
+x6|x6|x4!dolce!x2|!sottov!x6|
+V:3
+C,3A,,3|F,,3G,,3|C,3-C,E,C,|G,,6-|
+% (22)
+V:s		% M33
+G6|G6|G6|G3G3|
+w:dit Je-sum in tor-
+V:a
+G6|G6|G6|G3G3|
+w:dit Je-sum in tor-
+V:1
+G,EC G,EC|G,FD G,FD|G,GE G,GE|G,GE G,FD|
+V:2
+x6|x6|x6|x6|
+V:3
+G,,6-|G,,6-|G,,6-|G,,6-|
+V:s		% M37
+G3G3|!forte!e3=B3|c3c3|(c3=B2)B|
+w:men-tis et fla-gel-lis sub -di-
+V:a
+G3G3|!forte!G3F3|G3A3|D3-D2D|
+w:men-tis et fla-gel-lis sub -di-
+V:1
+G,EC G,D=B,|G,ec z=Bd|zcG zFA|zEC z=B,D|
+V:2
+x6|!forte!x6|x6|x6|
+V:3
+G,,6|C,3D,3|E,3F,3|G,3G,,3|
+V:s		% M41
+c3z2Hz|c3=B3|c3c3|(c3=B2)B|
+w:tum, et fla-gel-lis sub -di-
+V:a
+C3z2Hz|E3F3|G3A3|D3-D2D|
+w:tum, et fla-gel-lis sub -di-
+V:1
+{=B,}C3z2Hz|zgc z=Bd|zcG zAF|zEC z=B,D|
+V:2
+x6|x!dolce!x2x3|x6|x6|
+V:3
+A,,3z2Hz|!dolcea!C,3D,3|E,3F,3|G,3G,,3|
+% (23)
+V:s		% M45
+c3z2z|z6|z6|z6|Hz6|]
+w:tum.
+V:a
+C3z2z|z6|z6|z6|Hz6|]
+w:tum.
+V:1
+C3-CcA-|A3-AG=B,|{=B,}C3-CcA-|A3-AG=B,|{=B,}HC6|]
+V:2
+x3!forte!x3|x6|x3!dolce!x3|x6|x6|]
+V:3
+C,3E,3|F,3G,3|A,3E,3|F,3G,3|HC,6|]
+
+X:6
+T:6 Vidit suum dulcem natum
+T:Canto solo
+M:C
+L:1/8
+%%maxshrink 0.6
+%%staves s | {1 2 3}
+Q:"A Tempo giusto"
+K:Fm
+V:s name=Sopran dyn=up
+z8|z8|z8|
+V:1 name="Str.\nBc."
+c2(f//e3//)(d//c3//) {e}dc3|B2(c//B3//)(A//G3//) ([CA]/[B,G]/){[B,G]}[A,F]3|z/(d/c/d/ c/d/c/d/) wg/(d/c/=B/){B}c2-|
+V:2
+AAAA BAAA|GGG2x4|!dolce!A4G4|
+V:3
+F,F,F,F, F,F,F,F,|F,F,=E,E, F,F,,A,,C,|F,4=E,4|
+V:s		% M4
+z8|z8|z8|
+V:1
+c/(c/=B/c/ B/c/B/c/) wf/(c/_B/=A/){A}B2-|B/(d/B/_A/) (G/F/=E/F/) (E/G/c/)B,/C2|_dd2=e ff- (f/_e//d//c/B/)|
+V:2
+_G4F4-|F2=B,2C3C|!forte!F2G2C2F2-|
+V:3
+_E,4=D,4|_D,4C,2C2-|C2B,2A,2B,2|
+% (24)
+V:s		% M7
+z8|z8|z4(c2f//e3//) (d//c3//)|
+w:Vi --dit_
+V:1
+{B}A3G dd2=e|ff- (f/_e//d//c/B/){B}A2-A/(F/G/=E/)|FCA,2[Ac][Ac][Ac][Ac]|
+V:2
+F2=E2!dolce!F2G2|cB cD CCCC|A,2z2!dolce!x4|
+V:3
+C2C,4B,,2|A,,G,,A,,B,, C,C,C,C,|F,,2z2F,F,F,F,|
+V:s		% M10
+dc3(B2c//B3//) (A//G3//)|(3A/G/F/ Fz2!dolce!d2d2|(d=B)wc2c2c2|
+w:su-um dul --cem_ na --tum mo-ri-en -tem de-so-
+V:1
+[Bd][Ac][Ac][Ac] [GB][GB][Gc][GB]|A/G/Fz2z2d2-|d=Bc2z2c2-|
+V:2
+x8|CF/=E/ FG!dolce!A4|G4_G4|
+V:3
+F,F,F,F, F,F,=E,E,|F,F,,A,,C,F,4|=E,4_E,4|
+V:s		% M13
+(c=A)wB2B2B2|(BG)wA2Td2Tc2|Tc Bz2d2z2|d2z2c2z2|
+w:la -tum, mo-ri-en -tem, de-so-la-tum, dum e-mi-
+V:1
+c=A_B2z2B2-|BG_A2w[Bd]2w[Ac]2|[Ac][GB]z2z2w[Bd]2|z2w[Bd]2z2w[Bc]2|
+V:2
+F8|E4x4|x4!dolcea!x4|!estacc!x8|
+V:3
+=D,4_D,4|C,4B,,G,A,=D,|E,2z2E,2z2|G,2z2A,2z2|
+V:s		% M17
+_c4B4-|B3BA2z2|z8|
+w:sit spi -ri-tum.
+V:1
+z2w[A_c]2z2w[AB]2|z2w[GB]2Aa2(d|c)a2(d c)a2(d|
+V:2
+x8|x4A!forte!feG|A!dolce!feG A!forte!feG|
+V:3
+=D,2z2E,2z2|E,2z2A,, _D,C,B,,|A,,D,C,B,, A,,D,C,B,,|
+% (25)
+V:s		% M20
+z8|(c2e//d3//) (c//B3//) B=A3|_GF3c/e/{c}d3|
+w:Vi --dit_ su-um dul-cem na -tum
+V:1
+c/B/)d/B/{A}G2AEA,2|c2(e//d3//)(c//B3//) (B=A3)|_GF3(c/e/){c}d3|
+V:2
+AFEB,C2z2|!dolce!EEBB, CCCC|CCCC CB,B,B,|
+V:3
+A,,D,E,E,A,,2z2|A,A,_G,G, F,F,F,F,|=A,,A,,A,,A,, B,,B,,B,,B,,|
+V:s		% M23
+(B2f//e3//) (=d//c3//) c=B3|_AG3f/=d/{d}e3|g2B2{B}TA4|
+w:mo --ri -en-tem de-so-la -tum, de-so-la-
+V:1
+B2(f//e3//)(=d//c3//) c=B3|_AG3(f/=d/){d}e3|[=eg][eg] [=EB][EB] {B}[FA][FA][FA][FA]|
+V:2
+DDc2=DDDD|=DDDD =DCCC|x8|
+V:3
+B,,B,,A,,A,, G,,G,,G,,G,,|=B,,B,,B,,B,, C,C,C,C,|[C,C][C,C][C,C][C,C] [C,C][C,C][=B,,=B,][B,,B,]|
+V:s		% M26
+G2z2d3=e|{=e}f3B{B}TA3G|F2(!forte!_g4f//e3//) (d//c3//)|
+w:tum dum e-mi-sit spi-ri-tum. Vi --dit_
+V:1
+G2z2dd2=e|ff- (f/_e//d//c/B/){B}A3G|F2_g4(f//e3//)(d//c3//)|
+V:2
+=E3C!dolce!F2G2|A2{dB}F4=E2|x2!forte!z2_e4|
+V:3
+[C,C]2C4B,2|A,2B,2C2C,2|F,2z2[=A,,=A,]4|
+V:s		% M29
+d/c/ B(!forte!a4g//f3//) (=e//=d3//)|(3=e/=d/c/ cz2!dolce!_d2d2|(d=B)wc2c2c2|
+w:su -um dul --cem_ na --tum mo-ri-en -tem de-so-
+V:1
+B2a4(g//f3//)(=e//=d3//)|[c=e]=B/c/C2z2_d2-|d=Bc2z2c2-|
+V:2
+d2!forte!z2f4|x4!dolce!A4|G4_G4|
+V:3
+[B,,B,]2z2[=B,,=B,][B,,B,][B,,B,][B,,B,]|[C,C]2z2F,4|=E,4_E,4|
+% (26)
+V:s		% M32
+(c=A)wB2B2B2|{B}TA4G2z2|B2z2B2z2|
+w:la -tum, de-so-la-tum, dum e-
+V:1
+c=A_B2z2B2|[F_A][FA][FA][FA] [=EG]w[c=e]w[eg]w[gb]|z2[GB]2z2[GB]2|
+V:2
+F8|x4x!forte!x3|!sottovs!x8|
+V:3
+=D,4_D,4|C,C,=B,,B,,C,2z2|C,2z2=E,2z2|
+V:s		% M35
+B2A2z4|!sottov!G4G4|G4A4|G6G2|
+w:mi-sit dum e-mi-sit spi-ri-
+V:1
+z2[FA]2z2[FA]2|z2[FG]2z2[FG]2|z2[=EG]2z2[FA]2|z2[FG]2z2[=EG]2|
+V:2
+x8|x8|x8|x8|
+V:3
+F,2z2A,,2z2|B,,2z2=B,,2z2|C,2z2C,2z2|C,2z2C,2z2|
+V:s		% M39
+F4z4|z8|z8|z8|Hz8|]
+w:tum.
+V:1
+F2w[fa]2z2[FA]2|[FG]2w[fg]2z2[FG]2|[=EG]2[=eg]2[fa]2[FA]2|[FG]2[FG]2[=EG]2[EG]2|F4Hz4|]
+V:2
+x2!sottov!x6|x8|x8|x8|x8|]
+V:3
+D,2z2!dolce!A,,2z2|B,,2z2=B,,2z2|C,2C,2C,2=B,,2|C,2C,2C,2C,2|F,,4Hz4|]
+
+X:7
+T:7 Eja mater fons amoris
+T:Alto solo
+M:3/8
+L:1/8
+%%maxshrink 0.7
+%%staves a | {1 2 3}
+Q:"Andantino"
+K:Cm
+V:a name=Alt dyn=up
+z3|z3|z3|z3|z3|z3|z3|
+V:1 name="Str.\nBc."
+wgwewd|c/=B/c2|(d/f/e)wd|g/e/{d}c2|(d/f/e)d|(c_BA-|A)G^F|
+V:2
+x3|x3|x3|x3|x3|!dolce!x3|x3|
+V:3
+z3|CA,G,|F,G,F,|E,A,G,|F,G,F,|E,D,C,|D,2C,|
+% (27)
+V:a		% M8
+z3|z3|z3|z3|z3|z3|G (ED)|
+w:E-ja_
+V:1
+G=f2|we/wg/w=B/wd/wc|(AG=B,)|we/wg/w=B/wd/wc|(AG=B,)|C2z|ged|
+V:2
+x3|!forte!x3|!dolce!x3|!forte!x3|x3|x3|!dolce!x3|
+V:3
+=B,,=A,,G,,|C,D,E,|F,G,G,,|C,D,E,|F,G,G,,|C,2z|z3|
+V:a		% M15
+C/=B,/{B,}C2|(D/F/E) D|G/E/{D}C2|(D/F/E) D|(3(E/D/C/) Cz|(BG) F|
+w:ma -ter fons__ a-mo -ris, fons__ a-mo --ris, me_ sen-
+V:1
+c/=B/c2|(d/f/e)wd|g/e/{d}c2|(d/f/e)d|(3(e/d/c/) cz|bgf|
+V:2
+x3|x3|x3|x3|x3|x3|
+V:3
+CA,G,|F,G,F,|E,A,G,|F,G,G,|C,/C/_B,/A,/G,/F,/|E,2z|
+V:a		% M21
+E/D/E2|(F/A/G) F|B/G/{F}E2|(F/A/G) F|(3(G/F/E/) Ez|!dolce!B3|_d3|
+w:ti -re vim__ do-lo -ris, vim__ do-lo --ris, fac, ut
+V:1
+e/d/e2|(f/a/g) f|b/g/{f}e2|(f/a/g) f|(3(g/f/e/) wez|B3|[B_d]3|
+V:2
+x3|x3|x3|x3|x3|!dolce!x3|x3|
+V:3
+ECB,|A,B,A,|G,CB,|A,B,B,,|E,G,B,|zE,E,|z=E,E,|
+V:a		% M28
+!forte!c/B/c2|(_dc) =E|F3|(_dc) =E|F2z|z3|
+w:te -cum lu -ge-am, lu -ge-am.
+V:1
+wc/wa/w=e/wg/wf|(_dc=E)|wF/wa/w=e/wg/wf|(_dc=E)|wc'wawg|f/=e/f2|
+V:2
+!forte!x3|!dolce!x3|!forte!x3|!dolce!x3|!forte!x3|x3|
+V:3
+F,G,A,|B,CC,|F,G,A,|B,CC,|F,2z|F,_D,C,|
+% (28)
+V:a		% M34
+z3|z3|z3|z3|z3|z3|
+V:1
+(g/b/a)wg|c'/a/{g}f2|(g/b/a)wg|wa/wf/w=e/wg/wf/wc/|(_dc=E)|FCA,|
+V:2
+x3|x3|x3|x3|x3|x3|
+V:3
+B,,C,B,,|A,,_D,C,|B,,C,C,|F,G,A,|B,CC,|F,,2z|
+V:a		% M40
+c AG|F/=E/{E}F2|(G/B/A) G|c/A/{G}F2|(G/B/A) G|(3(A/G/F/) Fz|
+w:E-ja_ ma -ter, fons__ a-mo -ris, fons__ a-mo --ris,
+V:1
+c'ag|f/=e/f2|(g/b/a)wg|c'/a/{g}f2|(g/b/a)g|wa/wc'/w=e/wg/wf|
+V:2
+!dolce!x3|x3|x3|x3|x3|!forte!x3|
+V:3
+z3|F,_D,C,|B,,C,B,,|A,,_D,C,|B,,C,C,|F,G,A,|
+V:a		% M46
+(AG) F|(ED) C|(ed) c|(3(=B/=A/G/) Gz|G3|G3|G3|
+w:me_ sen-ti -re vim_ do-lo --ris, fac, ut te-
+V:1
+(AGF)|w_E/wg/w=B/wd/wc|EDC|=B,/=A,/G,z|g3-|g3-|g3-|
+V:2
+!dolce!x3|!forte!x3|x3|x3|!dolce!z(e=B|c_A^F|G)(e=B|
+V:3
+=B,,3|C,D,E,|^F,,3|G,,G,=F,|z(E,=B,,|C,_A,,^F,,|G,,)(E,=B,,|
+V:a		% M53
+G3|G3|G3|G2z|dF2|TE/D/ Ez|(AG) =B,|C2z|
+w:cum lu-ge-am, fac, ut te -cum lu -ge-am.
+V:1
+g3-|g3-|g3-|g2z|d/=B/F2|wE/wg/w=B/wd/wc|(AG=B,)|C2z|
+V:2
+c_A^F|G)(e=B|c_A^F|G2)z|x3|x3|x3|x3|
+V:3
+C,_A,,^F,,|G,,)(E,=B,,|C,_A,,^F,,|G,,)=B,,D,|G,=B,,G,,|C,D,E,|F,G,G,,|C,2z|
+% (29)
+V:a		% M61
+!forte!Tc3|G3|(ED) C|(!dolce!cA) G|^FG2|(BG) =F|=EF2|
+w:E-ja ma -ter, fons_ a-mo-ris, me_ sen-ti-re
+V:1
+Tc3|TG3|EDC|(cAG)|w^FwG2|(BG=F)|=EF2|
+V:2
+!forte!x3|x3|x3|!dolce!x3|x3|x3|x3|
+V:3
+C3|G,3|E,D,C,|(CA,G,)|^F,G,2|(B,G,=F,)|=E,F,2|
+V:a		% M68
+(_AF) _E|DE2|G3|c3|[Q:"Largo"](=B/=A/)HG2|G3|G3|
+w:vim_ do-lo-ris, vim do-lo -ris, fac, ut
+V:1
+(_AF_E)|DE2|G3|c3|[Q:"Largo"](=B/=A/ HG)Hz|g3-|g3-|
+V:2
+x3|x3|x3|x3|x3|!dolcea!z(e=B|c_A^F|
+V:3
+(_A,F,_E,)|D,E,2|E,D,C,|_A,G,^F,|HG,3|z(E,=B,,|C,_A,,^F,,|
+V:a		% M75
+G3|G3|G3|G3|G2z|(d=B) F|F2E|
+w:te-cum lu-ge-am, fac,_ ut te-cum
+V:1
+g3-|g3-|g3-|g3-|g2z|(d=B=F)|wF/wf/w=B/wd/wc|
+V:2
+G)(e=B|c_A^F|G)(e=B|c_A^F|G2)z|x3|!forte!x3|
+V:3
+G,,)(E,=B,,|C,_A,,^F,,|G,,)(E,=B,,|C,_A,,^F,,|G,,)=B,,D,|G,D,=B,,|C,D,E,|
+V:a		% M82
+(!dolce!AG) =B,|C2z|(!dolcea!AG) =B,|C2z|z3|z3|z3|
+w:lu -ge-am, lu -ge-am.
+V:1
+(AG=B,)|wC/wg/w=B/wd/wc|(AG=B,)|wgwewd|c/=B/c2|(d/f/e)d|g/e/{d}c2|
+V:2
+!dolce!x3|!forte!x3|!dolce!x3|x3|x3|x3|x3|
+V:3
+(F,G,)G,,|wC,wD,wE,|(F,G,)G,,|C,2z|CA,G,|F,G,F,|E,A,G,|
+% (30)
+V:a		% M89
+z3|z3|z3|z3|z3|Hz3|]
+V:1
+(d/f/e)d|we/wg/w=B/wd/wc|(AG=B,)|we/wg/w=B/wd/wc|(AG=B,)|HC3|]
+V:2
+x3|!forte!x3|!dolce!x3|!forte!x3|!dolce!x3|x3|]
+V:3
+(F,G,)G,,|wC,wD,wE,|(F,G,)G,,|wC,wD,wE,|(F,G,)G,,|HC,3|]
+
+X:8
+T:8 Fac, ut ardeat cor meum
+T:à due
+M:C|=2/1
+L:1/4
+%%staves s | a | {1 2 3 4}
+Q:"Allegro"
+K:Gm
+V:s name=Sopran dyn=up
+d4e4|d3B(cA)(dc)|B2G2(gf)(=ed)|
+w:Fac, ut ar-de-at _ cor_ me-um in_ a -
+V:a name=Alt dyn=up
+z8|z8|!forte!G4B4|
+w:Fac, ut
+V:1 name="Str.\nBc."
+d4e4|d3BcAdc|BB,A,G,gf=ed|
+V:2
+z8|z8|!forte!G4B4|
+V:3
+zBAGcBAG|^FDG4F2|G4z2G2-|
+V:4
+x8|x8|x8|
+V:s		% M4
+^cAd4c2|d2A2z2=c2-|c2B2A4|
+w:man-do Chri-stum De-um, Chri -stum De-
+V:a
+A3F(G=E)(AG)|F2D2(=cB)(AG)|^FDG4F2|
+w:ar-de-at_ cor_ me-um in_ a -man-do Chri-stum
+V:1
+^cAd4c2|d4z2=c2-,|c2B2A4|
+V:2
+A3FG=EAG|Ff=edc'bag|^fdg4f2|
+V:3
+G2=F2=E4|D2^F2G4|[I:staff 3]A2x6|
+V:4
+x8|!forte!D,4_E,4|D,3B,,C,A,,D,C,|
+% (31)
+V:s		% M7
+G4B4|(A3F)(G=E)(AG)|FA(AB)zB(Bc)|
+w:um, ut si -bi_ com -pla ------
+V:a
+G2D2z2G2-|G2=F2=E4|D2F2TG4|
+w:De-um, Chri -stum De-um, ut si-
+V:1
+g4b4|a3fg=eag|fA(AB)zB(Bc)|
+V:2
+G2z2z2g2-|g2=f2=e4|!dolce!F4G4|
+V:3
+x8|x8|x8|
+V:4
+B,,B,,A,,G,,G,=F,=E,D,|^C,A,,D,4C,2|D,4=E,4|
+V:s		% M10
+zc(cd)zd(d_e)|ze(ef)zwdwcwd|Te4z!dolce!wdwcwd|
+w:----------------
+V:a
+TA4TB4|Tc4zwBwAwB|Tc4z!dolce!wBwAwB|
+w:bi com-pla -------
+V:1
+zc(cd)zd(d_e)|ze(ef)zw[Bd]w[Ac]w[Bd]|T!trill(![ce]4!trill)!zw[Bd]w[Ac]w[Bd]|
+V:2
+A4B4|c4x4|x4!dolce!x4|
+V:3
+x8|x8|x8|
+V:4
+F,4G,4|A,4B,4-|B,A,G,A,B,4-|
+V:s		% M13
+Te4!forte!Td3/c//d//we2|Td3/c//d//we2d4|c4B4|
+w:------------
+V:a
+Tc4!forte!TB3/A//B//wc2|TB3/A//B//wc2BFB2-|B2A2z2G2-|
+w:---------------
+V:1
+T!trill(![ce]4!trill)!T[Bd]3/[Ac]//[Bd]//w[ce]2|T[Bd]3/[Ac]//[Bd]//w[ce]2d4|c4B4|
+V:2
+x4!forte!x4|x4BFB2-|B2A2zDG2-|
+V:3
+x8|x8|x8|
+V:4
+B,A,G,A,B,3B,|B,3A,B,2zD,|E,C,F,E,D,B,,zB,,|
+% (32)
+V:s		% M16
+A4G2e2-|e2d2z2c2-|c2=B2ce2d|
+w:-----------
+V:a
+G2^F2G4|=F4E4|D3DC4|
+w:------ce-am.
+V:1
+A4GBe2-|e2d2zGc2-|c2=B2ce2d|
+V:2
+G2^F2G4|=F4E4|D4C4|
+V:3
+x8|x8|x8|
+V:4
+C,A,,D,C,B,,G,,zG,|_A,F,B,A,G,E,zE,|F,D,G,F,E,2C,2|
+V:s		% M19
+c_B(AG)^F2z2|z4!forte!d4|e4d3B|
+w:--ce -am. Fac, ut ar-de-
+V:a
+z4!forte!D4|E4D3B|(cA)(dc)B2G2-|
+w:Fac, ut ar-de-at_ cor_ me -
+V:1
+c_BAG^F2z2|z4!forte!d4|e4d3B|
+V:2 stem=down
+z4!forte!D4|E4D3B|cAdc!forte!BGg2-'|
+V:3 stem=up
+x8|z2c4B2|A4G4|
+V:4
+z2C4B,G,|CB,A,G,^F,2G,2-|G,2^F,2G,4|
+V:s		% M22
+(cA)(dc)(BG)d2-|d2^c2d2z(d|e=c)(fe)Td4|
+w:at_ cor_me ----um in__ a -man-
+V:a
+G2^F2G2z2|z4z2B2-|B2A2BF(FG)|
+w:--um in_ a-man ---
+V:1
+cAdcBGd2-|d2^c2d2zd|_e=cfed4|
+V:2
+g2^f2[Gg]2z2|=E4D2B2-|B2A2BF(FG)|
+V:3 stem=auto
+A4x4|x8|x8|
+V:4
+A,4G,3=F,|G,=E,A,G,F,D,z2|z4B,,4|
+% (33)
+V:s		% M25
+Te4Tf4|Tg4fwAwGwA|TB4z!dolce!wAwGwA|
+w:-----------
+V:a
+zG(GA)zA(AB)|zB(Bc)AwFw=EwF|TG4z!dolce!wFw=EwF|
+w:-----------------
+V:1
+e4f4|g4[Ac]w[fa]w[=eg]w[fa]|T[gb]4zw[fa]w[=eg]w[fa]|
+V:2 stem=auto
+zG(GA)zA(AB)|zB(Bc)x4|x4!dolce!x4|
+V:3
+x8|x8|x8|
+V:4
+C,4D,4|E,4F,4-|F,=E,D,E,F,4-|
+V:s		% M28
+TB4z!forte!wAwGwA|Tc4TB3/A//B//wc2|TB3/A//B//wc2z(Be)d|
+w:------------do, in_ a-
+V:a
+TG4z!forte!wFw=EwF|TA4TG3/^F//G//wA2|TG3/^F//G//wA2GDB2|
+w:--------do Chri --stum De-um, ut
+V:1
+T[gb]4zw[fa]w[=eg]w[fa]|T[ac']4T[gb]3/[^fa]//[gb]//w[ac']2|T[gb]3/[^fa]//[gb]//w[ac']2bB_ed|
+V:2
+x4!forte!x4|x8|x4g2b2|
+V:3
+x8|x8|x8|
+V:4
+F,=E,D,E,F,4|zD,=E,^F,G,3F,|G,3^F,G,2G,2-|
+V:s		% M31
+(cA)(dc)(BG)(cB)|AF(BA)(GE)AG|^FDD2z4|
+w:man -do_ Chri -stum_ De-um ut_ si -bi com-pla-ce-am.
+V:a
+A4G4|=F4E4|D2G4^F2|
+w:so-bi com -pla -ce-
+V:1
+cAdcBGcB|AFBAGEAG|^F2D2z4|
+V:2
+a4g4|=f4e4|d^fgGG2^F2||
+V:3
+[I:staff 4]x8|x8|z2B,2A,4|
+V:4
+G,2=F,4_E,2-|E,2D,4C,2-|C,2zB,,C,A,,D,C,|
+% (34)
+V:s		% M34
+!forte!d4e4|d3B(cA)(dc)|B2c4B2|
+w:Fac, ut ar-de-at_ cor_me --
+V:a
+G2z2!forte!G4|B4A3^F|(GB)(AG)^FDG2-|
+w:am. Fac, ut ar-de-at_ cor_ me-um in
+V:1
+!forte!d4e4|d3BcAdc|B2c4B2|
+V:2
+G2z2!forte!G4|B4!forte!A3^F|GBAG^FDG2-|
+V:3
+G,2z2x4|x8|x8|
+V:4
+B,,2G,,2z4|z4D,4|E,4D,3B,,|
+V:s		% M37
+A4Gdde|ze(ed)zd(dc)|zc(cB)zB(BA)|
+w:-um, ut si-bi com-pla --------ce -
+V:a
+G2^F2G2B2|TA4TG4|T=F4TE4|
+w:_ a-man-do Chri-stum De -
+V:1
+A4Gdde|ze(ed)zd(dc)|zc(cB)zB(BA)|
+V:2
+G2^F2G2B2|A4G4|=F4E4|
+V:3
+x8|x8|x8|
+V:4
+C,A,,D,C,B,,2G,2|=F,4E,4|D,4C,4|
+V:s		% M40
+B2F2TG4|TA4TB4|Tc4d4-|
+w:am, ut si-bi com -pla-
+V:a
+D2zDDEzE|(EF)zF(FG)zG|(GA)zAB2z2|
+w:um ut si-bi com-pla -------ce-am,
+V:1
+B2zddeze|efzffgzg|gazab2z2|
+V:2
+D2F2G4|A4B4|c4d4-|
+V:3
+x8|x8|x8|
+V:4
+B,,2zB,,(B,,C,)zC,|(C,D,)zD,(D,E,)zE,|(E,F,)zF,B,,D,C,B,,|
+% (35)
+V:s		% M43
+d4c4-|c4B4-|B3BA2z2|
+w:-----ce-am.
+V:a
+G8|^F3FG4|z4!forte!D4|
+w:com-pla-ce-am. Fac,
+V:1
+g8|^f4g4|z4!forte!d4|
+V:2
+d4c4-|c4B4-|B4A4|
+V:3
+x8|x8|x4z^F=ED|
+V:4
+E,D,C,B,,A,,C,B,,A,,|D,C,B,,A,,G,,B,,A,,G,,|C,B,,A,,G,,^F,,2z2|
+V:s		% M46
+z4!forte!d4|e4d3d|(cB)(AG)^F2G2-|
+w:Fac, ut ar-de-at_ cor_ me -
+V:a
+E4D3d|(cB)(AG)^F2D2|z4z2B2|
+w:ut ar-de-at_ cor_ me-um ut
+V:1
+z4!forte!d4|_e4d^f=ed|c'bag^fdg2-|
+V:2
+e4d^F=ED|cBAG!forte!^F2z2|z4z2B2|
+V:3
+cBAG^F2z2|x8|x8|
+V:4
+x8|z4D,4|E,4D,3B,,|
+V:s		% M49
+G2^F2G4|z4zdde|ze(ed)zd(dc)|
+w:--um, ut si-bi com-pla ----
+V:a
+A4G3B|(cA)(dc)B2zB|(BA)zA(AG)zG|
+w:si-bi com-pla -ce -am, com-pla -----
+V:1
+g2^f2g4|z4zd(de)|ze(ed)zd(dc)|
+V:2
+A4G3B|cAdcB2zB|(BA)zA(AG)zG|
+V:3
+x8|x8|x8|
+V:4
+C,A,,D,C,B,,G,,G,2-|G,2^F,2G,2zG,|(G,^F,)z=F,(F,=E,)z_E,|
+% (36)
+V:s		% M52
+zc(cB)zB(BA)|BwdwcwdTe4|z!dolce!wdwcwdTe4|!forte!d4c4|
+w:-----------------
+V:a
+(GF)zF(FE)zE|DwBwAwBTc4|z!dolce!wBwAwBTc4|!forte!BFB4A2|
+w:-------------------
+V:1
+zc(cB)zB(BA)|[DB][Bd][Ac][Bd]T[ce]4|z[Bd][Ac][Bd]T[ce]4|d4c4|
+V:2
+(GF)zF(FE)zE|x8|!dolce!x8|!forte!BFB4A2|
+V:3
+x8|x8|x8|x8|
+V:4
+(E,D,)zD,(D,C,)zC,|B,,4-B,,A,,G,,A,,|B,,4-B,,A,,G,,A,,|B,,3D,E,C,F,E,|
+V:s		% M56
+zBABTc4|z!dolce!BABTc4|B2z!forte!B(Bc)zc|
+w:-------------
+V:a
+BG^FBTA4|z!dolce!G^FGTA4|G!forte!D(DE)z=E(EF)|
+w:----------------
+V:1
+z[GB][^FA][GB]T[Ac]4|z[GB][^FA][GB]T[Ac]4|Bd(de)z=e(ef)|
+V:2
+x8|!dolce!x8|!forte!G2zB(Bc)zc|
+V:3
+x8|x8|x8|
+V:4
+D,B,,z2z^F,=E,F,|G,4-G,^F,=E,F,|G,2zG,,(G,,A,,)zA,,|
+V:s		% M59
+(cd)zdG2z2|!forte!d4e4|d3B(cA)(dc)|Bd(de)ze(ed)|
+w:--ce-am. Fac, ut ar-de-at_ cor_ me ------
+V:a
+z^F(FG)zG(GA)|^F2!forte!d4(c2-|c2B2)A4|G4^F2=F2|
+w:----ce -am in a --man ---
+V:1
+z^f(fg)zg(ga)|^fd!forte!d'4c'2-|c'2b2a4|g2(de)ze(ed)|
+V:2
+(cd)zdG2z2|!forte!d4e4|d3BcAdc|BdG2^F2=F2|
+V:3
+x8|x8|x8|x8|
+V:4
+(A,,B,,)z=B,,(B,,C,)z^C,|D,8-|D,8-|D,8-|
+% (37)
+V:s		% M63
+zd(dc)d4|z4e4-|e4d4-|
+w:---um, ut_ si-
+V:a
+=E2_E2D2z2|B8|A8|
+w:--do Chri-stum
+V:1
+zd(dc)d4|z4e4-|e4d4-|
+V:2
+=E2_E2D4|B8|A8|
+V:3
+x8|x8|x8|
+V:4
+D,4z^F,=E,D,|G,=F,_E,D,C,E,D,C,|F,E,D,C,B,,D,C,B,,|
+V:s		% M66
+d4c4-|c2c2B2d2-|d2c4B2|
+w:-bi_ com-pla ----
+V:a
+G8|^F4G2z2|z2G2^F2GG|
+w:De -um, ut si-bi com-
+V:1
+d4c4-|c2c2B2z2|z2g2^fdg2-|
+V:2
+G8|^F4G2d2-|d2c4B2|
+V:3
+x8|x8|x8|
+V:4
+E,D,C,B,,A,,C,B,,A,,|D,C,B,,A,,G,2=F,2|E,4D,4-|
+V:s		% M69
+A3AG2z2|z8|z8|Hz4|]
+w:-ce-am.
+V:a
+G2^F2G2z2|z8|z8|Hz4|]
+w:pla-ce-am.
+V:1
+g2^f2Gwfwgw^c|dAB^FGD_E^C|D^fgBAgAf|[GBg]2Hz2|]
+V:2
+A4G!forte!fg^c|!sim!x8|x8|x4|]
+V:3
+x8|x8|x8|x4|]
+V:4
+D,4G,,2z2|zwA,wB,w^F,G,2z2|zwD,wE,wB,,C,2D,2|HG,,4|]
+
+X:9
+T:9 Sancta mater, istud agas
+T:à due
+M:C
+L:1/8
+%%staves s | a | {1 2 3}
+Q:"A Tempo giusto"
+K:Eb
+% (38)
+V:s name=Sopran dyn=up
+z8|z8|z8|
+V:a name=Alt dyn=up
+z8|z8|z8|
+V:1 name="Str.\nBc."
+e4B4|Ee- (Te3/d//c//) (f//g3//)(a//b3//) (Tc'3/b//a//)|(g/f/)(b/g/)e4(d//c3//)(B//A3//)|
+V:2
+GGGG FFFF|EEx2x4|x4FFFF|
+V:3
+E,E,E,E, D,D,D,D,|C,C,[G,,E,][G,,E,] [A,,E,]A,[D,F,][D,F,]|[E,B,][E,G,]G,G, A,A,B,B,|
+V:s		% M4
+z8|z8|z8|
+V:a
+z8|z8|z8|
+V:1
+(G/E/)(E/G/) (G/B/)(B/_d/) (c/=d/)(d/e/) (e/c/)(B/A/)|(G/c/)(B/d/) e/B/G/E/ (F/A/)(G/B/) (TA3/G//F//)|G/(e/d/e/ d/e/d/e/)(=A4|
+V:2
+x8|x4DDDD|!dolce!E2z2!forte!z(_GFE)|
+V:3
+E,[E,G,][E,G,][E,G,] [E,A,][E,A,][E,A,][E,A,]|[E,B,][E,B,][E,B,][E,B,] B,,B,,B,,B,,|E,2z2z(_G,F,E,)|
+V:s		% M7
+z8|z8|z8|
+V:a
+z8|z8|z8|
+V:1
+B/)(f/=e/f/ e/f/e/f/)_A4|(G/c/A/F/){E}D2E/(e/f/e/ f/e/f/e/)|=A4B/(f/=e/f/ e/f/e/f/)|
+V:2
+!dolce!D2z2!forte!x4|x4x!dolce!x3|x8|
+V:3
+D,2z2z[B,,B,][C,C][D,D]|[E,E][A,C]B,[B,,A,][E,G,]2z2|z(_G,F,E,)D2z2|
+% (39)
+V:s		% M10
+z8|z4e4|B4E/D/{D}E3|
+w:San-cta ma -ter,
+V:a
+z8|z8|z8|
+V:1
+_A4(G/c/A/F/){E}D2|EB,G,2[GB][GB][GB][GB]|[FB][FB][FB][FB] [EG][EG][EG][EG]|
+V:2
+!forte!x8|x4!dolce!x4|x8|
+V:3
+z[B,,B,][C,C][D,D] [E,E][A,C]B,[B,,B,]|[E,G,]2z2E,E,E,E,|D,D,D,D, C,C,G,,G,,|
+V:s		% M13
+(F/G/A/B/ c) B/A/ (G/F/E)e2-|e2(d//c3//) (B//A3//) (G/F/) Ez2|B(B2c) A (A2f)|
+w:i ----stud_ a --gas,_ i -stud_ a -gas cru-ci -fi-xi -
+V:a
+z8|z8|z8|
+V:1
+[EF][EF][FA][FA] [B,G][EG][EG][EG]|[EF][EF][DF][DF] [EG]e2d|z[GB] z[Gc] z[FA] z[FB]|
+V:2
+x8|x8|x8|
+V:3
+A,,A,D,D, E,E,G,,G,,|A,,A,,B,,B,, E,G,F,A,|G,z E,z F,z D,z|
+V:s		% M16
+(Ge2)G G Fz2|TB4Tc4|d/e/ fz2=e3e|
+w:fi -ge pla-gas cor-di me -o, cor-di
+V:a
+z8|z8|z8|
+V:1
+z[EG] z[EG] [EG][DF]z2|TB4Tc4|d/(b/=a/b/ a/b/a/b/)=e4|
+V:2
+x8|!forte!x8|x!dolce!x3!forte!x4|
+V:3
+E,z =A,,z zB,,D,F,|zB,DB, zF,=A,F,|B,2z2z(_DCB,)|
+% (40)
+V:s		% M19
+f/=e/ fz2_e3e|(d/f/e/g/ f/d/) e/c/ TB3/c/ Tc3/ B/|B2z2!dolce!T=e3e|
+w:me -o, cor-di me -----o_ va --li-de, cor-di
+V:a
+z8|z8|z8|
+V:1
+f/(c'/=b/c'/ b/c'/b/c'/){f}_e4|(d/f/)(e/g/) (f/d/) (e/c/) TB3/c/ c2|z/(b/=a/b/ a/b/a/b/){f}=e4|
+V:2
+x!dolce!x3!forte!x4|x8|x!dolce!x3x4|
+V:3
+=A,2z2zF,G,A,|B,CDF, zG,E,F,|B,,2z2z(_DCB,)|
+V:s		% M22
+f/=e/ fz2!forte!_e3e|(d/f/e/g/ f/d/) (e/c/) TB3/c/ Tc3/ B/|B2z2z4|
+w:me -o, cor-di me -----o_ va --li-de.
+V:a
+z8|z8|z8|
+V:1
+(f/c'/=b/c'/ b/c'/b/c'/){f}_e4|(d/f/)(e/g/) (f/d/) (e/c/) TB3/c/ {d}Tc2|(d/B/)(B/d/) (d/f/)(f/_a/) (g/=a/)(a/b/) (b/f/)(d/B/)|
+V:2
+x4!forte!x4|x8|!forte!x8|
+V:3
+=A,2z2zF,G,A,|B,CDF, zG,E,F,|[B,D][B,D][B,D][B,D] [B,E][B,E][B,D][B,D]|
+V:s		% M25
+z8|z8|z8|
+V:a
+z8|z8|B4F4|
+w:Tu-i
+V:1
+(c/e/d/f/) (Te3/d//c//) (d/f/)(e/g/) (f/d/)(e/c/)|(TB3/c/)T!trill(!c2!trill)!BFB,2|[Fd][Fd][Fd][Fd] [Fc][Fc][Fc][Fc]|
+V:2
+x8|B,B,2=A,x4|!dolce!x8|
+V:3
+[F,E][F,E][F,=A,][F,A,] [B,,B,][C,A,][D,B,][F,A,]|zG,E,F,[B,,B,]2z2|B,B,B,B, =A,A,A,A,|
+% (41)
+V:s		% M28
+z8|z8|z8|
+V:a
+D/C/B,3(C//D3//E//F3// G) F/E/|D/C/ B,(TB4=A//G3//) (F//E3//)|(D/C/) B,z2F(F2G)|
+w:na -ti vul ----ne -ra -ri, vul --ne -ra -ri tam dig -
+V:1
+[DB][Bd][Bd][Bd] [Bc][Bc][ce][ce]|[Fd][Bd][Bd][Bd] [Bc][Bc][=Ac][Ac]|B(b2=a) z[df] z[dg]|
+V:2
+x8|x8|x4!dolce!x4|
+V:3
+G,G,D,D, E,E,=A,,A,,|B,,B,,D,D, E,E,F,F,|B,,D,C,E, D,z B,,z|
+V:s		% M31
+z8|z8|z8|
+V:a
+E(E2c) (DB2)D|D Cz2TF4|TG4=A/G/ Fz2|
+w:na-ti_ pro_ me pa-ti poe-nas me -cum,
+V:1
+z[ce] z[cf] z[Bd] z[Bd]|[Bd][=Ac]z2Tf4|Tg4=a/(f/=e/f/ e/f/e/f/)|
+V:2
+x8|x4!forte!x4|x4x!dolce!x3|
+V:3
+C,z F,,z B,,z =E,z|zF,=A,C zF,A,F,|zC,=E,C,F,2z2|
+V:s		% M34
+z8|z8|z8|
+V:a
+=B4c2z2|_B3B (=A/c/B/d/ c/A/) B/G/|TF3/G/ TG3/ F/F2z2|
+w:poe-nas, poe-nas me -----cum_ di --vi-de,
+V:1
+{c}=B4c/(g/^f/g/ f/g/f/g/)|{c}_B4(=A/c/)(B/d/) (c/A/)(B/G/)|TF3/G/TG2z/(f/=e/f/ e/f/e/f/)|
+V:2
+!forte!x4!dolce!x4|!forte!x8|x4!dolce!x4|
+V:3
+z(_A,G,F,)=E,2z2|zC,D,=E, F,G,=A,C,|zD,B,,C,F,,2z2|
+% (42)
+V:s		% M37
+z8|z8|z8|
+V:a
+!dolce!=B4c2z2|!forte!_B3B (=A/c/B/d/ c/A/) B/G/|TF3/G/ TG3/ F/F2z2|
+w:poe-nas, poe-nas me -----cum_ di --vi-de.
+V:1
+{c}=B4c/(g/^f/g/ f/g/f/g/)|{c}_B4(=A/c/)(B/d/) (c/A/)(B/G/)|TF3/G/TG2f4|
+V:2
+x8|!forte!x8|x4!forte!=AAAA|
+V:3
+z(_A,G,F,)=E,2z2|zC,D,=E, F,G,=A,C,|zD,B,,C, F,F,F,F,|
+V:s		% M40
+z8|z8|c3_d{d}c3d|
+w:Fac me ve-re
+V:a
+z8|z8|_A3B{B}A3B|
+w:Fac me ve-re
+V:1
+c4(=A/c/)(B/d/) (c/A/)(B/G/)|TF3/G/TG2FC=A,2|([_Ac]3[B_d]{[Bd]}[Ac]3[Bd]|
+V:2
+GGGG F=EFE|F2F=EF2z2|x8|
+V:3
+=E,E,E,E, F,G,=A,C,|zD,B,,C,F,,2z2|z2[F,F]2-[F,F][_G,=E][F,F]2-|
+V:s		% M43
+{_d}c3_d c B/A/ B A/G/|A/G/ Fz2_d3e|{e}_d3e{e}d3e|
+w:te-cum fle-re,_ te-cum_ fle -re, cru-ci-fi-xo con-do-
+V:a
+{B}A3B A G/F/ G F/=E/|F/=E/ Fz2F3_G|{_G}F3_G{G}F3G|
+w:te-cum fle-re,_ te-cum_ fle -re, cru-ci-fi-xo con-do-
+V:1
+{[B_d]}[Ac]3)[B_d] [Ac][GB]/[FA]/ [GB][FA]/[=EG]/|[FA]/[=EG]/Fz2([_df]3[_e_g]|{[e_g]}[_df]3[e_g]{[eg]}[df]3[eg]|
+V:2
+x8|x8|x8|
+V:3
+[F,F][_G,=E][F,F]2-[F,F][F,F][C,C][C,C]|F,[_E,_G,][_D,F,][C,E,][B,,D,]2[B,B]2-|[B,B][_C=A][B,B]2-[B,B][CA][B,B]2-|
+% (43)
+V:s		% M46
+{e}_d3e (dc/B/) (cB/=A/)|B/=A/ Bz2z4|g2B2(_Ac2)B|
+w:le-re, con --do --le -re, do-nec e -go
+V:a
+{_G}F3_G (FE/_D/) (ED/C/)|_D/C/ B,z2B2_d2|=E4(FA2G)|
+w:le-re, con --do --le -re, do-nec e-go__
+V:1
+{[e_g]}[_df]3)[e_g] [df][ce]/[Bd]/ [ce][Bd]/[=Ac]/|[B_d]/[=Ac]/Bz2B2d2|[=g2=E4]B2[F_A][Ac]2[GB]|
+V:2
+x8|B,B,2=A,x4|C8-|
+V:3
+[B,B][_C=A][B,B]2-[B,B][B,B][F,F][F,F]|B,,_D,C,E,[D,B,]4|C,4C,2C,2-|
+V:s		% M49
+A3AG2z2|!forte!T_e4Td4|c/=B/ cz2z4|
+w:vi-xe-ro, do-nec e -go,
+V:a
+F3F=E2z2|!forte!TG4TF4|_E/D/ Ez2^F4|
+w:vi-xe-ro, do-nec e -go, do-
+V:1
+[FA][FA][FA][FA][=EG]2z2|T[_eg]4T[df]4|e/(c'/=b/c'/ b/c'/b/c'/)(^f4|
+V:2
+Cx3x4|!forte!x8|x!dolce!x3!forte!x4|
+V:3
+C,[=B,,=B,][B,,B,][B,,B,] [C,C]2z2|z[C,C][_E,_E][C,C] z[D,D][=B,,=B,][G,,G,]|[C,C]2z2z([E,E][D,D][C,C])|
+V:s		% M52
+z4f3f|(ed/e/ f) e/d/(c2=B3/) B/|c2z2z4|
+w:do-nec e ---go_ vi -xe-ro.
+V:a
+G2z2_A3A|(GF/G/ A) G/F/(E2D3/) D/|C2z2z4|
+w:nec, do-nec e ---go_ vi -xe-ro.
+V:1
+g/)(d'/^c'/d'/ c'/d'/c'/d'/)[=f_a]4|[eg][df]/[ce]/ [fa][eg]/[df]/ [ce][ce][=Bd][Bd]|(c3_d)(c3=B)|
+V:2
+x!dolce!x3!forte!x4|x8|!dolce!x8|
+V:3
+[=B,,=B,]2z2z[B,,B,][B,,B,][B,,B,]|[C,C][C,C][F,,F,][F,,F,] [G,,G,][G,,G,][G,,G,][G,,G,]|C,A,G,F, E,F,E,=D,|
+% (44)
+V:s		% M55
+c4g4|(e/d/)c3(d/e/f/g/ a) g/f/|e/d/ cz2z4|
+w:Jux-ta cru -cem te ----cum_ sta -re,
+V:a
+z8|z8|z4G4|
+w:te
+V:1
+c4g4|(e/d/)c3d/e/f/g/ ag/f/|e/d/cz2_BBBB||
+V:2
+Ex3x4|x4ccdd|zG2^FG4|
+V:3
+C,[CE][CE][CE] [_B,D][B,D][B,D][B,D]|[A,C][A,C][E,C][E,C] F,F,=B,,B,,|C,C_B,=A, G,G,G,G,|
+V:s		% M58
+z8|z4z2zB|(_d4-dc) c B|
+w:in plan --ctu de-
+V:a
+d4B/=A/G3|(=A/B/c/d/ e) d/c/ B/A/ G zG|(B4-B_A) A G|
+w:li-ben -ter, so ----ci -a -re in plan --ctu de-
+V:1
+d4B/=A/G3|=A/B/c/d/ ed/c/ B/A/G zb|[b_d']4-[bd'][=ac'][ac'][gb]|
+V:2
+=AAAA GG3|GA/B/ cB/A/ G/^F/E xg|x8|
+V:3
+F,F,F,F, E,E,B,,B,,|C,C,^F,,F,, G,,G,G,,2|zG,G,F,=E,4|
+V:s		% M61
+TA3AG2zf|=B4c2z_B|(_d4cB/c/) d c/B/|
+w:si-de-ro, in plan-ctu, in plan ---ctu de -
+V:a
+TF3F=E2z2|z4z2zC|(_B4AG/A/) B A/G/|
+w:si-de-ro, in plan ---ctu de -
+V:1
+T[fa]4g/(f/=e/f/ e/f/e/f/)|{c}(=B4c/)(g/^f/g/ f/g/f/g/)|[_B_d]4[Ac][GB]/[Ac]/ [Bd][Ac]/[GB]/|
+V:2
+!forte!x4!dolce!x4|!forte!z(_AGF)!dolce!=E2z2|!forte!x8|
+V:3
+zF,=B,,B,,C,2z2|z(_A,G,F,)=E,2z2|zw[C,C]w[=D,=D]w[=E,=E] [F,F][F,F][B,,B,][B,,B,]|
+% (45)
+V:s		% M64
+(A2G3/) G/F2z2|z8|z8|
+w:si -de-ro.
+V:a
+(F2=E3/) E/F2z2|z8|z8|
+w:si -de-ro.
+V:1
+[FA][FA][=EG][EG](f3_g|f3=e)(f3_g|f3=e) (f3/_e//_d//) (c/d/B/G/)|
+V:2
+x4!dolce!x4|x8|x4!forte!x4|
+V:3
+[C,C][C,C][C,C][C,C] F,_DCB,|A,B,A,G, F,_D,C,B,,|A,,B,,A,,G,, F,,G,,A,,B,,|
+V:s		% M67
+z4f4|c4A3/ G/F2|(G/A/B/c/ _dc/B/) A/G/ Fz2|
+w:Vir-go vir-gi-num prae ------cla -ra,
+V:a
+z8|z8|z8|
+V:1
+(F2=E2)f4|c4AAAA|G/A/B/c/ _dc/B/A2z2|
+V:2
+x4!dolce!FAAA|GGGGf4|B4f/g/a/b/ c'b/a/|
+V:3
+C,C,C,C, F,F,F,F,|E,E,E,E, _D,D,A,,A,,|B,,B,=E,E, F,F,=D,D,|
+V:s		% M70
+z8|z8|z4B3c|
+w:fac me
+V:a
+e4B4|E3E (F/G/A/B/ c) B/A/|G/F/ Ez2G3A|
+w:mi-hi jam non sis____ a -ma -ra, fac me
+V:1
+e4B4|GGGG F/G/A/B/ cB/A/|G/F/ Ez2z[gb] z[ac']|
+V:2
+gGGG FFFF|e4A4|G e2dx4|
+V:3
+E,E,E,E, D,D,D,D,|C,C,G,,G,, A,,A,D,D,|E,G,F,A, G,z E,z|
+% (46)
+V:s		% M73
+{B}A3B{A}G3G|F2z2F3_G|{_G}F3_G{G}F3G|
+w:te-cum plan-ge-re, mi-hi jam non sis a-
+V:a
+{G}F3G{F}E3E|D2z2D3E|D3ED3E|
+w:te-cum plan-ge-re, mi-hi jam non sis a-
+V:1
+z[fa] z[fb] z[eg] z[eg]|f2z2z2B2-|B3=A(B3A)|
+V:2
+x8|x4([DF]3[E_G]|[DF]3[E_G])([DF]3[EG])|
+V:3
+F,z B,,z E,z =A,,z|B,,2z2z2B,,2-|B,,_C,B,,2-B,,C,B,,2-|
+V:s		% M76
+F/=E/ Fz2B2z2|=A3A B/A/ Bz2|_A3AG2(c/A3/)|
+w:ma -ra, fac, fac me te -cum, fac me te-cum_
+V:a
+D/C/ Dz2E2z2|z8|F3FE2E2|
+w:ma -ra, fac, fac me te-cum
+V:1
+B_Az2z/(e/d/e/ d/e/d/e/)|{B}=A4B/(f/=e/f/ e/f/e/f/)|{B}_A4G/B/A/G/ c/A/G/F/|
+V:2
+[DF]/[C=E]/[DF] FD!dolce!_E2z2|x8|!forte!x8|
+V:3
+B,,F,D,B,,G,,2z2|z(_G,F,E,)D,2z2|z[B,,B,][C,C][D,D] [E,E][E,E][A,,A,][A,,A,]|
+V:s		% M79
+(G2F3/) F/E2z2|z8|f2f2(e/g/f/e/ d/c/) B/A/|
+w:plan -ge-re, fac me te -----cum_
+V:a
+(E2D3/) D/E2z2|=A3A B/A/ Bz2|_A2A2G2E2|
+w:plan -ge-re, fac me te -cum, fac me te-cum
+V:1
+E3/F/TF2E/(e/d/e/ d/e/d/e/)|{B}=A4B/(f/=e/f/ e/f/e/f/)|[f_a]4[eg][df]/[c_e]/ [Bd]/[Ac]/[GB]/[FA]/|
+V:2
+x4x!dolce!x3|x8|!forte!x8|
+V:3
+[B,,B,][B,,B,][B,,B,][B,,B,]E,2z2|z(_G,F,E,)D,2z2|z[B,,B,][C,C][D,D] [E,E]F,G,A,|
+% (47)
+V:s		% M82
+(G2F3/) F/E2z2|z8|Hz8|]
+w:plan -ge-re.
+V:a
+(E2D3/) D/E2z2|z8|Hz8|]
+w:plan -ge-re.
+V:1
+[EG]2[DF]2(G/E/)(E/G/) (G/B/)(B/_d/)|(c/=d/)(d/e/) (e/B/G/E/) (F/A/)(G/B/) (TA3/G//F//)|(G/c/A/F/){E}D2EB,HG,2|]
+V:2
+x8|x8|x8|]
+V:3
+B,B,[B,,B,][B,,B,] E,E,E,E,|E,E,E,E, B,,B,,B,,B,,|E,A,,B,,B,,E,,2Hz2|]
+
+X:10
+T:10 Fac ut portem Christi mortem
+T:Alto solo
+M:C
+L:1/8
+%%staves a | {1 2 3}
+Q:"Largo"
+K:Gm
+V:a name=Alt dyn=up
+Hz8|Hz8|
+V:1 name="Str.\nBc."
+[Gg]G3//G// G3//B//A3//G// ^F3//^c// {c}dHz2|[=F=f]F3//F// F3//_A//G3//F// =E3//=B// {B}cHz2|
+V:2
+x8|!dolce!x8|
+V:3
+G,G,3//G,// G,3//B,//A,3//G,// ^F,DHz2|=F,F,3//F,// F,3//_A,//G,3//F,// =E,CHz2|
+V:a		% M3
+Hz8|Hz8|
+V:1
+[_E_e]E3//E// E3//G//F3//E// D3//=A//B Hz(b/^f/|Tg/^f/g-) g//g//(a//b//a//g//f//g//) (f/=e/d)Hyz2|
+V:2
+!forte!x4x3!dolcea!x|x8|
+V:3
+_E,E,3//E,// E,3//G,//F,3//E,// D,B, HzD|E(e/=B/ c)^CD2Hy!forte!D,/=C,/_B,,/A,,/|
+% (48)
+V:a		% M5
+z8|Hz8|
+V:1
+(g/b//a//g)- g/(c//A//)(B//G//)(A//^F//) G/(b//a//g)- g/((c//A//)B//G//)(A//F//)|G3//B//E3//G// ^CDG,2Hz2|
+V:2
+!forte!x4!dolce!x4|!forte!x8|
+V:3
+[G,,G,][B,,B,][C,C][D,D] [E,E]B,,C,D,|G,3//B,//E,3//G,// ^C,D,G,,2Hz2|
+V:a		% M7
+G2-G3//B// TA3//G// ^F {^c}dHz2|!dolce!=F2-F/_A/ TG/F/ =E {=B}cHz2|
+w:Fac__ ut_ por-tem Chri --sti_ mor-tem,
+V:1
+[Gg]G3//G// G3//B//A3//G// ^F3//(^c//d)Hz2|[=F=f]F3//F// F3//_A//G3//F// =E3//(=B//c)Hz2|
+V:2
+!dolce!x8|!dolcea!x8|
+V:3
+G,G,3//G,// G,3//B,//A,3//G,// ^F,DHz2|=F,F,3//F,// F,3//_A,//G,3//F,// =E,CHz2|
+V:a		% M9
+_E2-E/G/ TF/E/ D {A}B zB|TB3/ A//B// c E E D zB|
+w:Chri --sti_ mor-tem, pas-sio-nis_ fac con-sor-tem et
+V:1
+[_E_e]E3//E// E3//G//F3//E// D3//=A// {A}B z[FB-]|B3/A//B// [Ac][A,E] [B,E][DF][DF][Bd]|
+V:2
+x8|EEx2x4|
+V:3
+_E,E,3//E,// E,3//G,//F,3//E,// D,B, zD,|C,C,F,,F,, B,,B,,B,,B,,|
+V:a		% M11
+TA3//B///c///F- F/(c/B/A/) TB3//c///d///F- F/(d/c/B/)|Tc3//d///e///F Tc//TB//A//G//F/E/ TD3//E///F/// TE3//F///G/// (F/d/) c/B/|
+w:pla -------------------------------gas_ re -
+V:1
+[Ac][Ac][Ac][Ac] [Bd][Bd][Bd][Bd]|[ce][ce][ce][ce] [Fd][Fd][DB][CB]|
+V:2
+x8|x8|
+V:3
+F,,F,,F,,F,, F,,F,,F,,F,,|F,,F,,F,,F,, B,,C,D,E,|
+% (49)
+V:a		% M13
+G3/e//c// {B}Tc3/ B/B2z2|z8|
+w:co ---le-re.
+V:1
+[CB][CB][CA][CA] [B,B]3/d/ c3//B//A3//B//|w=E3/d/ c3//B//A3//B// w_E3/d/ c3//B//A3//B//|
+V:2
+x4!forte!x4|!forte!x4!forte!x4|
+V:3
+zE,F,F,,B,2z2|w=E,2z2w_E,2z2|
+V:a		% M15
+z8|B3D D Cz2|
+w:Fac me pla-gis
+V:1
+wD(f//A//B//d//) wc(e//G//A//c//) wB(f//A//B//d//) wc(e//G//A//c//)|(B/[Bd]/[Bd]/[Bd]/ [Bd]/[Bd]/[Bd]/[Bd]/) ([Bd]/[Bd]/[Ac]/[Ac]/ [Ac]/[Ac]/[Ac]/[Ac]/)|
+V:2
+x4x!dolce!x3|!dolce!x8|
+V:3
+D,[D,D][E,E][F,F] [B,,B,]D,E,F,|B,,B,,D,B,, F,F,A,G,|
+V:a		% M17
+{AB}c3B/A/ A Gz2|{GA}B3A/G/ G ^Fz D/ D/|
+w:vul-ne -ra-ri, vul-ne -ra-ri cru-ce
+V:1
+([Ac]/[Ac]/[Ac]/[Ac]/ [Ac]/[Ac]/[Ac]/[Ac]/) ([Ac]/[Ac]/[GB]/[GB]/ [GB]/[GB]/[GB]/[GB]/)|([GB]/[GB]/[GB]/[GB]/ [GB]/[GB]/[GB]/[GB]/) ([GB]/[GB]/[^FA]/[FA]/ [FA]/[FA]/[DF]/[DF]/)|
+V:2
+x8|x8|
+V:3
+^F,=E,F,D, G,G,,B,,G,,|^C,C,C,C, D,D,D,D,|
+V:a		% M19
+{=F}E3/ G/ {G}F3/ E/ E D zB|(TB3/A//B// c) G ^F/=E/ Dz2|
+w:hac i-ne-bri-a-ri, i-ne ---bri-a -ri
+V:1
+([EG]/[EG]/[EG]/[EG]/ [C=F]/[CF]/[CF]/[CE]/) ([EF]/[EF]/[DF]/[DF]/ [DF]/[DF]/[FB]/[FB]/)|([EB]/[EB]/[EB]/[EB]/ [EA]/[EA]/[GB]/[GB]/) [^FA]/D/F/A/wd2|
+V:2
+x8|x4x3!forte!x|
+V:3
+D,=C,A,,A,, B,,B,,B,,B,,|C,C,C,^C,D,2D,/=C,/B,,/A,,/|
+% (50)
+V:a		% M21
+!forte!TG2G/c/ B/A/G2-G/c//A//B//G//A//^F//|G2G/c//A//B//G// A//^F// G/ F/ G zA/ D/|
+w:ob__ a -mo -------------rem_ fi-li-i, ob a-
+V:1
+G/(b//a//g)- g/(c//A//)(B//G//)(A//^F//) G/(b//a//g)- g/(c//A//)(B//G//)(A//F//)|G/(b//a//g)- g/(c//A//)(B//G//)(A//^F//) (G/F/G) z[Ac]|
+V:2
+!forte!x4x!dolce!x3|x!sottov!x6!dolce!x|
+V:3
+[G,,G,][B,,B,][C,C][D,D] [E,E]B,,C,D,|E,B,,C,D,E,2^F,,2|
+V:a		% M23
+(3B/A/B/ (3c/B/A/ {G}A3/ A/G2^C C|[Q:"Largo"](D=c) (3(BAG)TA3A|
+w:mo --rem__ fi-li-i, ob a-mo -rem__ fi-li-
+V:1
+[DB][GA][GA][^FA] G3//B//E3//G// ^CC|[Q:"Largo"]D8|
+V:2
+x8|x8|
+V:3
+G,,C,D,D, G,3//B,//E,3//G,// ^C,C,|D,8|
+V:a		% M25
+G2z2z4|Hz8|]
+w:i.
+V:1
+G/(b//a//g)- g/(c//A//)(B//G//)(A//^F//) G/(b//a//g)- g/(c//A//)(B//G//)(A//F//)|G3//B//E3//G// ^CDG,2Hz2|]
+V:2
+x!forte!x4!dolce!x3|!forte!x8|]
+V:3
+[G,,G,][B,,B,][C,C][D,D] [E,E]B,,C,D,|G,3//B,//E,3//G,// ^C,D,G,,2Hz2|]
+
+X:11
+T:11 Inflammatus et accentus
+T:à due
+M:C
+L:1/8
+%%staves s | a | {1 2 3}
+Q:"Allegro"
+K:Bb
+% (51)
+V:s name=Sopran dyn=up
+z8|z8|z8|
+V:a name=Alt dyn=up
+z8|z8|z8|
+V:1 name="Str.\nBc."
+ff2e [Fd][Fd]2[Ec]|TB/A/B Tc/B/c d/c/Bz2|ff2e [Fd][Fd]2[Ec]|
+V:2
+x8|DB2A BG F/E/D/C/|!dolce!x8|
+V:3
+B,,2B,,2B,,2B,,2|B,,B,E,F, B,,G, F,/E,/D,/C,/|[B,,B,]2B,,2B,,2B,,2|
+V:s		% M4
+z8|z8|z8|
+V:a
+z8|z8|z8|
+V:1
+TB/A/B Tc/B/c d/c/B zf|gb2a bB zf|gb2a bBe2|
+V:2
+DB2AB2!forte!B,2|gfe2dEF!dolce!d|gfe2dB2!forte!A|
+V:3
+B,,B,E,F, B,,C,D,B,,|E,D,C,F, B,,C,D,B,,|E,D,C,F,B,2G,A,|
+V:s		% M7
+z8|z8|z8|
+V:a
+z8|z8|z8|
+V:1
+dc/B/Tc2x4|cdTe2d2fB|cdTe2db/a/ bb|
+V:2
+F2BAB2!dolcea!fB|x8|x4!fortea!x4|
+V:3
+B,D,E,F, B,,B,,D,D,|E,F,G,A, B,B,D,D,|E,F,G,A, B,FDC|
+% (52)
+V:s		% M10
+z8|z8|z8|
+V:a
+z8|z8|z8|
+V:1
+Bb/a/ bb Bb/a/ bb|Ge d/B/c/A/ Bb/a/ bb|Bb/a/ bb Bb/a/ bb|
+V:2
+x8|x4x!dolce!x3|x8|
+V:3
+B,DB,A, G,B,G,F,|E,E,F,F, B,,F,D,C,|B,,D,B,,A,, G,,B,,G,,F,,|
+V:s		% M13
+z8|f(f2e) d(d2c)|TB2Tc2d/c/ Bz2|
+w:In-flam -ma-tus_ et ac-cen -sus
+V:a
+z8|z8|z8|
+V:1
+Ge (d/B/)(c/A/) BFB,2|ff2e [Fd][Fd]2[Ec]|TB2Tc2d/c/Bz2|
+V:2
+x!forte!x3x4|x8|DB2A BG F/E/D/C/|
+V:3
+E,,E,,F,,F,,B,,2z2|B,,2B,,2B,,2B,,2|B,,B,E,F, B,,G, F,/E,/D,/C,/|
+V:s		% M16
+f(f2e) d(d2c)|TB2Tc2d/c/ B zf|(c2TB2)A2zf|
+w:per te,_ vir-go,_ sim de-fen -sus in di -e ju-
+V:a
+z8|z8|z8|
+V:1
+ff2e [Fd][Fd]2[Ec]|TB2Tc2d/c/Bz2|zf2=ex4|
+V:2
+x8|DB2A BB, B,d|c2B2[Af]F/=E/ F[Fd]|
+V:3
+[B,,B,]2B,,2B,,2B,,2|B,,B,E,F, B,,C,D,B,|A,F,G,C, F,G,A,B,|
+% (53)
+V:s		% M19
+c2TB2A2!dolce!c F|(GATB2)A2!cresc!c F|(GATB2)A2!forte!c F|
+w:di-ci-i. In-flam-ma --tus et ac-cen --sus per-te,
+V:a
+z8|z8|z8|
+V:1
+zf2=ex4|gaTb2a2c'f|gaTb2a2c'f|
+V:2
+c2B2[Af]2!dolce!c'f|x4x3!cresc!x|x8|
+V:3
+A,F,G,C, F,G,A,A,,|B,,C,D,=E, F,G,A,A,,|B,,C,D,=E, F,G,A,A,,|
+V:s		% M22
+(GATB2)A2c F|(GATB2)A2zc|Tf8-|
+w:vir --go, sim de-fen --sus in di-
+V:a
+z8|z8|z8|
+V:1
+gaTb2a2c'f|gaTb2a2z2|Ff/=e/ ff Ff/e/ ff|
+V:2
+x8|x8|x8|
+V:3
+B,,C,D,=E, F,G,A,A,,|B,,C,D,=E, F,F,,F,,2|F,CA,G, F,A,F,=E,|
+V:s		% M25
+f4-f=e/d/ c/B/ A/G/|F2TG2F2z2|z8|
+w:----e_ ju -di-ci-i.
+V:a
+z8|z8|z8|
+V:1
+Ff/=e/ ff fe/d/ c/B/A/G/|F2TG2Af/=e/ ff|=Bf/_e/ fB cg/f/ gg|
+V:2
+x8|x4x!forte!x3|x8|
+V:3
+D,F,D,C, B,,B,,A,,B,,|C,C,C,C, F,F,F,F,|=B,,B,,B,,B,, C,C,C,C,|
+% (54)
+V:s		% M28
+z8|z8|z8|
+V:a
+z8|z8|c(c2B) A(A2G)|
+w:Fac me_ cru-ce_
+V:1
+_Bg/f/ gB Af/=e/ fF|FB{F}=E2FCA,2|cc2B [CA][CA]2[B,G]|
+V:2
+x8|x8|x8|
+V:3
+B,,B,,B,,B,, A,,A,,A,,A,,|B,,B,,C,C,F,,2z2|F,,2F,,2F,,2F,,2|
+V:s		% M31
+z8|f(f2e) d (d2c)|TB2Tc2d/c/ Bz2|
+w:Mor-te_ Chri-sto_ prae-mu-ni -ri,
+V:a
+TF2TG2A/G/ Fz2|z8|z8|
+w:cu-sto-di -ri
+V:1
+TF2TG2A/G/Fz2|ff2e [Fd][Fd]2[Ec]|TB2Tc2d/c/Bz2|
+V:2
+A,F2=EF2F/=E/D/C/|x8|DB2A BB, B,B,|
+V:3
+F,,F,B,,C, F,,G, F,/_E,/D,/C,/|[B,,B,]2B,,2B,,2B,,2|B,,B,E,F, B,,C,D,C,|
+V:s		% M34
+F G_A2G2z2|G =AB2A2z2|z8|
+w:con-fo-ve-ri, con-fo-ve-ri.
+V:a
+D E F2E2z2|=E F G2F2z2|F2F2F4-|
+w:con-fo-ve-ri, con-fo-ve-ri, con-fo-ve-
+V:1
+[df][eg]T[f_a]2[eg][EG]/[DF]/ [EG][EG]|[=eg][f=a]T[gb]2[fa][FA]/[=EG]/ [FA][FA]|z4z2f/d/c/B/|
+V:2
+x8|x8|x4!dolce!F4-|
+V:3
+B,,B,,B,,B,, E,F,E,D,|C,C,C,C, F,G,A,G,|F,2z2B,,C,D,D,|
+% (55)
+V:s		% M37
+!dolce!c dTe2d2z2!cresc!|c dTe2d2z2|!forte!c dTe2d2z2|
+w:Fac me cru-ce cu-sto-di-ri mor-te Cgri-sti
+V:a
+F8-|F8-|F8-|
+w:---
+V:1
+cdTe2d2f/d/c/B/|cdTe2d2f/d/c/B/|cdTe2d2f/d/c/B/|
+V:2
+F8-|F8-|F8-|
+V:3
+E,F,G,A, B,CDD,|E,F,G,A, B,CDD,|E,F,G,A, B,CDD,|
+V:s		% M40
+c dTe2d2z2|!dolce!_A4G4|=A4B4|
+w:prae-mu-ni-ri, con-fo-ve-ri,
+V:a
+F4F2z2|D4E4|C4D4|
+w:-ri, con-fo-ve-ri,
+V:1
+cdTe2x4|([D_A]4[EG]4|[C=A]4[DB]4)|
+V:2
+F4-[Fd][db]/[ca]/ [db][db]|!dolce!x8|x8|
+V:3
+E,F,G,A, B,B,,B,,B,,|B,,B,,B,,B,, B,,B,,B,,B,,|B,,B,,B,,B,, B,,B,,B,,B,,|
+V:s		% M43
+!forte!c2c2(Bc/d/ e) d/c/|(B2=A3/) A/B2z2|!dolce!_A4G4|=A4B4|
+w:con-fo-ve ---ri_ gra -ti-a, con-fo-ve-ri,
+V:a
+!forte!E2E2(DE/F/ G) F/E/|(D2C3/) C/D2z2|!dolce!D4E4|C4D4|
+w:con-fo-ve ---ri_ gra -ti-a, con-fo-ve-ri,
+V:1
+[CE][ce]/[Bd]/ [ce][ce] [Bd][ce]/[df]/ [eg][df]/[ce]/|dbc2[Bd][db]/[ca]/ [db][db]|([D_A]4[EG]4|[C=A]4[DB]4)|
+V:2
+!forte!x8|B2A2x4|!dolce!x8|x8|
+V:3
+zF,,G,,A,, B,,B,E,E,|F,F,F,F, B,,B,,B,,B,,|B,,B,,B,,B,, B,,B,,B,,B,,|B,,B,,B,,B,, B,,B,,B,,B,,|
+% (56)
+V:s		% M47
+!forte!c2c2(Bc/d/ e) d/c/|(B2=A3/) A/B2z2|z8|
+w:con-fo-ve ---ri_ gra -ti-a.
+V:a
+!forte!E2E2(DE/F/ G) F/E/|(D2C3/) C/B,2z2|z8|
+w:con-fo-ve ---ri_ gra -ti-a.
+V:1
+[CE][ce]/[Bd]/ [ce][ce] [Bd][ce]/[df]/ [eg][df]/[ce]/|db ca Bb/a/ bb|Bb/a/ bb Bb/a/ bb|
+V:2
+!forte!x8|x4x!fortea!x3|x8|
+V:3
+zF,,G,,A,, B,,B,E,E,|F,F,F,F, B,,F,D,C,|B,,D,B,,A,, G,,B,,G,,F,,|
+V:s		% M50
+z8|z8|Hz8|]
+V:a
+z8|z8|Hz8|]
+V:1
+Ge d/B/c/A/ Bb/a/ bb|Bb/a/ bb Bb/a/ bb|Ge d/B/c/A/ BFHB,2|]
+V:2
+x4x!dolce!x3|x8|x!forte!x3x4|
+V:3
+E,,E,,F,,F,, B,,F,D,C,|B,,D,B,,A,, G,,B,,G,,F,,|E,,E,,F,,F,, B,,2Hz2|]
+
+X:12
+T:12 Quando corpus morietur
+T:à due
+M:C
+L:1/8
+%%staves s | a | {1 2 3}
+Q:"Largo assai"
+K:Fm
+V:s name=Sopran dyn=up
+z8|z8|
+V:a name=Alt dyn=up
+z8|z8|
+V:1 name="Str.\nBc."
+c3f(f2=e2)|g3B(B2A2)|
+V:2
+!dolces!z/(F/A/F/) z/(F/A/F/) z/(A/F/C/) z/(G/=E/C/)|z/(B/G/=E/) z/(G/E/C/) z/(E/G/E/) z/(F/A/F/)|
+V:3
+F,z F,z C,z C,z|=E,z E,z F,z F,z|
+% (57)
+V:s		% M3
+z8|z8|
+V:a
+z8|z8|
+V:1
+f3A(A2G2)|d3=e{e}f3d|
+V:2
+!sim!z/A/F/=D/ z/D/F/D/ z/C/F/C/ z/C/=E/C/|z/F/=E/F/ z/B/G/B/ z/c/A/F/ z/G/B/G/|
+V:3
+=B,,z B,,z C,z Cz|Cz _B,z A,z B,z|
+V:s		% M5
+z8|z8|
+V:a
+z8|z8|
+V:1
+{d}c3=E{E}F4|d3=e{e}f3d|
+V:2
+z/A/F/C/ z/C/=E/C/ z/A/E/F/ z/A/E/F/|!sottov!z/G/B/G/ z/B/G/B/ z/c/A/F/ z/G/B/G/|
+V:3
+Cz C,z D,z D,z|B,z G,z A,z B,z|
+V:s		% M7
+z8|!sost!c2f2f2=e2|
+w:Quan-do cor-pus
+V:a
+z8|z4!sost!G2B2|
+w:Quan-do
+V:1
+{d}c3=E{E}F4|x8|
+V:2
+z/F/A/F/ z/C/=E/C/ z/A/F/C/ z/A,/C/A,/|z/(c/A/F/) z/(c/A/F/) z/(B/G/F/) z/(B/G/=E/)|
+V:3
+Cz C,z F,,z F,,z|F,z F,z C,z C,z|
+% (58)
+V:s		% M9
+z4f2A2|A2G2c3e|
+w:mo-ri-e-tur fac ut
+V:a
+B2A2A2F2|F2=E2z4|
+w:cor-pus mo-ri-e-tur
+V:1
+x8|!sim!x8|
+V:2
+z/(B/G/=E/) z/(c/A/F/) z/(A/F/=D/) z/(A/F/D/)|z/A/F/C/ z/G/=E/C/ z/c/=A/F/ z/_e/c/A/|
+V:3
+F,z F,z =B,,z B,,z|C,z C,z =A,z F,z|
+V:s		% M11
+{e}d3B{B}c3{B}=A|B/=A/B3z4|
+w:a-ni-mae do-ne -tur
+V:a
+z8|z4B3d|
+w:fac ut
+V:1
+x8|x8|
+V:2
+z/f/d/B/ z/d/B/F/ z/_G/E/C/ z/E/C/=A,/|z/B,/D/F/ z/D/F/B/ z/B/=G/E/ z/d/B/G/|
+V:3
+B,,z D,z E,z F,z|B,z _A,z G,z E,z|
+V:s		% M13
+z8|e3ee4-|
+w:pa-ra-di-
+V:a
+{d}c3A{A}B3{A}G|A/G/ Az2B3B|
+w:a-ni-mae do-ne -tur pa-ra-
+V:1
+x8|x8|
+V:2
+z/e/c/A/ z/c/A/E/ z/F/D/B,/ z/D/B,/G,/|z/c/A/E/ z/c/A/E/ z/e/B/_G/ z/e/B/G/|
+V:3
+A,z C,z D,z E,z|A,z A,z _G,z G,z|
+% (59)
+V:s		% M15
+e2d2c3c|B2z2z4|
+w:-si glo-ri-a.
+V:a
+=A2B2(B2A3/) A/|B2z2z4|
+w:di-si glo -ri-a.
+V:1
+x8|x8|
+V:2
+z/e/c/=A/ z/d/B/F/ z/c/B/F/ z/c/A/F/|z/f/d/B/ z/d/B/F/ z/_G/E/C/ z/E/C/=A,/|
+V:3
+F,z F,z F,z F,z|B,,z D,z E,z F,z|
+V:s		% M17
+z4g2B2|B2A2=B4|
+w:Quan-do cor-pus mo-
+V:a
+d2F2=E4|F4F4|
+w:Quan-do cor-pus mo-
+V:1
+x8|x8|
+V:2
+z/B,/D/F/ z/d/B/F/ z/=G/=E/C/ z/B/G/E/|z/c/B/F/ z/c/A/F/ z/=B/A/F/ z/B/A/F/|
+V:3
+B,,z D,z C,z C,z|C,z C,z C,z C,z|
+V:s		% M19
+_B4(=A2_A2)|{A}G2z2_d2=e2|
+w:ri-e -tur fac ut
+V:a
+=E4F4|=E2c4B2|
+w:ri-e-tur fac ut
+V:1
+x8|x8|
+V:2
+z/_B/G/=E/ z/B/G/E/ z/=A/F/C/ z/_A/F/=B,/|z/G/=E/C/ z/G/E/C/ z/_d/B/G/ z/B/G/=E/|
+V:3
+C,z C,z C,z C,z|C,z C,z C,z C,z|
+% (60)
+V:s		% M21
+f2_e2d2f2|=e/=d/c3_d3=e|
+w:a-ni-mae do-ne -tur pa-ra-
+V:a
+A2=A2B2=B2|{=B}c2C2z4|
+w:a-ni-mae do-ne-tur
+V:1
+x8|x8|
+V:2
+z/c/A/F/ z/_e/c/=A/ z/d/B/F/ z/f/=d/=B/|z/g/=e/c/ z/e/c/G/ z/_d/_B/G/ z/B/G/=E/|
+V:3
+C,z C,z C,z C,z|C,z Cz B,z G,z|
+V:s		% M23
+{=e}f3B{B}A3G|F2z2f2f2|
+w:di-si glo-ri-a, pa-ra-
+V:a
+z8|B2B2B4-|
+w:pa-ra-di-
+V:1
+x8|x8|
+V:2
+z/c/A/F/ z/_d/B/G/ z/c/A/F/ z/B/G/=E/|z/_d/=A/B/ z/d/A/B/ z/f/d/B/ z/f/d/B/|
+V:3
+A,z B,z Cz C,z|D,z D,z D,z D,z|
+V:s		% M25
+=e2f2(f2e) e|f2Hz2!dolcea!B2B2|
+w:di-si glo -ri-a, pa-ra-
+V:a
+B2A2G3G|F2Hz2z4|
+w:-si glo-ri-a,
+V:1
+x8|x4!sottov!x4|
+V:2
+z/b/g/=e/ z/_a/f/c/ z/g/f/c/ z/g/e/B/|{B}A2Hz2z/(_d/=A/B/) z/(d/A/B/)|
+V:3
+C,z C,z C,z C,z|D,2 Hz2 D,z D,z|
+% (61)
+V:s		% M27
+B6A2|G3GF2z2|
+w:di-si glo-ri-a.
+V:a
+!dolcea!F2F2=E2F2|(F2=E) EF2z2|
+w:pa-ra--si glo -ri-a,
+V:1
+x8|x8|
+V:2
+z/(_d/B/F/) z/(d/B/F/) z/(B/G/=E/) z/(c/_A/F/)|z/(c/G/F/) z/(B/G/=E/) z/(A/E/F/) z/(c/A/F/)|
+V:3
+D,z D,z C,z C,z|C,z C,z F,z A,,z|
+V:s		% M29
+Hz8||[M:C|][Q:"Presto assai"]!forte!c8|d8|(c8|B8|
+w:A-men a -
+V:a
+Hz8||[M:C|]z8|z8|z8|z8|
+V:1
+x8||[M:C|]x8|x8|x8|x8|
+V:2
+z/(d/B/G/) z/(B/G/=E/)F2Hz2||[M:C|]!forte!c8|d8|c8|B8|
+V:3
+B,,z C,zF,,2Hz2||[M:C|]z4A2F2|B4G2E2|A4F2D2|G4=E2C2|
+V:s		% M34
+A4)(B2A2)|TG8|F4z4|z4f4-|f4e4-|e4=d4-|
+w:-men,_ a-men, a ----
+V:a
+z8|z8|!forte!F8|A8|(G8|F8|
+w:A-men a -
+V:1
+x8|x8|f8|a8|g8|f8|
+V:2
+A4B2A2|TG8|F4C2B,2|A,4f4-|f4e4-|e4=d4-|
+V:3
+F2_E2D2C2|B,4C4|z4A,2G,2|F,4F2=D2|E4C2A,2|=D4=B,2G,2|
+% (62)
+V:s		% M40
+d4c4-|c4=B4|c4z4|f8|=e4_e4|=d4_d4|c4d2c2|
+w:----men, a -------
+V:a
+E4)(F2E2)|T=D8|C4c4-|c4B4-|B4A4-|A4G4-|G4F4-|
+w:-men,_ a-men, a --------
+V:1
+e4f2e2|=d8|e4c'4-|c'4b4-|b4a4-|a4g4-|g4f4-|
+V:2
+d4c4-|c4=B4|c4=e2c2|f4b2f2|=e4_e2c2|=d4_d2B2|c4d2c2|
+V:3
+C2_B,2A,2G,2|(F,4G,4)|!forte!C8|D8|C8|B,8|A,4B,2A,2|
+V:s		% M47
+TB8|A4c4-|c4B2A2|G4f4|_d4=B4|c4z2f2|
+w:-men, a ---men, a-men, a-men, a-
+V:a
+F4=E4|F4A4-|A4G2F2|=E4z4|z8|c8-|
+w:--men, a ---men, a-
+V:1
+f4=e4|[Af]4[ca]4-|[ca]4[Bg]2[Af]2|[G=e]2a2f2a2|d2f2=B2=d2|c8-,|
+V:2
+TB8|x8|x8|x8|x8|c6f2|
+V:3
+G,8|F,4F,4|B,,4B,,4|C,4z4|z8|C,2C2B,2A,2|
+V:s		% M53
+=e2=d2c2=B2|c6f2|=e2=d2c2=B2|c4z4|z8|f8-|
+w:----------men, a-
+V:a
+c8-|c8-|c8-|c2_d2c2_B2|A2G2F2=E2|F6B2|
+w:-------------
+V:1
+c8|c8-,|c8|c2_d2c2_B2|A2G2F2=E2|f8-|
+V:2
+=e2=d2c2=B2|c6f2|=e2=d2c2=B2|x8|x8|F6B2|
+V:3
+G,2F,2=E,2=D,2|C,2C2B,2A,2|G,2F,2=E,2=D,2|C,4z4|z8|F,,2F,2_E,2_D,2|
+% (63)
+V:s		% M59
+f8-|f8-|f8-|f2_g2f2_e2|_d2c2B2=A2|B6e2|
+w:-------------
+V:a
+=A2G2F2=E2|F6B2|=A2G2F2=E2|F4z4|z8|B8-|
+w:----------men, a-
+V:1
+f8-|f8-|f8-|[Ff]2_g2f2_e2|_d2c2B2=A2|b8-|
+V:2
+=A2G2F2=E2|F6B2|=A2G2F2=E2|x8|x8|B6e2|
+V:3
+C,2B,,2=A,,2G,,2|F,,2F,2E,2D,2|C,2B,,2=A,,2G,,2|F,,4z4|z8|B,,2B,2_A,2_G,2|
+V:s		% M65
+d2c2B2=A2|B6e2|d2c2B2=A2|B4z4|z8|c8-|
+w:----------men, a-
+V:a
+B8-|B8-|B8-|B2c2d2c2|B2A2G2F2|=E6c2|
+w:-------------
+V:1
+b8-|b8-|b8-|[Bb]2c'2d'2c'2|b2_a2g2f2|=e6c'2|
+V:2
+d2c2B2=A2|B6e2|d2c2B2=A2|x8|x8|c8-|
+V:3
+F,2E,2D,2C,2|B,,2B,2A,2_G,2|F,2E,2D,2C,2|B,,4z4|z8|C,2C2B,2A,2|
+V:s		% M71
+c8-|c8-|c8|c8|d8|c8|
+w:---men, a -
+V:a
+B2A2G2F2|=E6c2|B2A2G2F2|=E4c4-|c4B4-|B4A4-|
+w:----------men, a ----
+V:1
+b2a2g2f2|=e6c'2|b2a2g2f2|=e4c4|d4b2d2|c4a2c2|
+V:2
+c8-|c8-|c8|C4c4-|c4B4-|B4A4-|
+V:3
+=G,2F,2=E,2=D,2|C,2C2B,2A,2|G,2F,2=E,2=D,2|C,8-|C,8-|C,8-|
+% (64)
+V:s		% M77
+B8|A4B2A2|G8|F4z4|z4_e4|d4z4|
+w:-----men, a-men,
+V:a
+A4G4-|G4F4-|F4=E4|F4z4|z4F4|F4z4|
+w:------men, a-men,
+V:1
+B4g2B2|A4f2A2|G8|F2a2g2a2|f2a2c2_e2|d2b2a2b2|
+V:2
+A4G4-|G4(F4-|F4=E4)|x8|x8|x8|
+V:3
+C,8-|C,8-|C,8|F,,4z4|z4=A,4|B,4z4|
+V:s		% M83
+z4f4|=e4f4|f4=e4|f4z4|z4!dolce!_e4|d4z4|
+w:a-men, a-men, a-men, a-men,
+V:a
+z4G4|G4A4|G4G4|F4z4|z4!dolce!F4|F4z4|
+w:a-men, a-men, a-men, a-men,
+V:1
+g2b2=d2f2|=e2c2f2A2|G2f2G2=e2|f2a2g2a2|f2a2c2_e2|_d2b2a2b2|
+V:2
+x8|x8|x8|x2!dolce!x6|x8|x8|
+V:3
+z4=B,4|C4_A,4|_B,4C4|F,4z4|z4!dolce![=A,,=A,]4|[B,,B,]4z4|
+V:s		% M89
+z4!forte!f4|=e4f4|f4=e4|f4!fortea!w=e4|wf4wc4|F4Hz4|]
+w:a-men, a-men, a-men, a-men, a-men.
+V:a
+z4!forte!G4|G4A4|G4G4|F4!fortea!wB4|wA4w=E4|F4Hz4|]
+w:a-men, a-men, a-men, a-men, a-men.
+V:1
+g2b2=d2f2|=e2c2f2A2|G2f2G2=e2|F2[fa]2z2[=eg]2|z2[fa]2z2[=EG]2|[Fcf]4Hz4|]
+V:2
+x4!forte!x4|x8|x8|x8|x8|x8|]
+V:3
+z4[=B,,=B,]4|[C,C]4[_A,,_A,]4|[B,,B,]4[C,C]4|F,4[C,C]4|[F,F]4[C,C]4|[F,,F,]4Hz4|]
