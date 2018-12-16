@@ -6,7 +6,7 @@
   
   - Choral - https://dirkncl.github.io/abc2svgPlayer/Choral.html
 
-  - abcother - https://dirkncl.github.io/abc2svgPlayer/abcTune.htm
+  - abcother - https://dirkncl.github.io/abc2svgPlayer/abcTune.html
   
   - abcother - https://dirkncl.github.io/abc2svgPlayer/abcother.html
 
