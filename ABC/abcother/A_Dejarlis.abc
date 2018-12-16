@@ -1,0 +1,797 @@
+X:1
+T:Ain't Nobody's Business
+C:Andy De Jarlis
+M:2/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+fg|a3/2a/ ab|f2 d2|GG/G/ GB|e2 d2|!
+A3/2A/ ce|a (3a/b/a/ ea|f4 -|f2 fg|!
+a3/2a/ ab|f2 d2|GG/G/ GB|e2 d2|!
+A3/2A/ ce|a (3g/a/g/ ef|d4 -|d2:|!
+|:z2|c3/2B/ cd|ec (3B/c/B/ A|d3/2c/ de|f3 f|!
+e2 e3/2f/|eB cd|e4 -|ec B^A|!
+A3/2A/ de|f d2 d|B3/2B/ ef|g3 g|!
+A3/2A/ cd|ef ge|d4 -|d2:|!
+
+X:2
+T:Andy's Special
+C:Andy De Jarlis
+M:2/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+F/G/|A/F/D/F/ A/F/D/F/|G[G/B/][G/ B/] [GB]c/d/|e/c/A/c/ e/c/A/c/|d/e/f/g/ aF/G/|!
+A/F/D/F/ A/F/D/F/|G[G/B/][G/ B/] [G2 B2]|c/d/c/B/ A/c/e/c/|d[d/f/][d/ f/] [d f]:|!
+|:A/d/|ff/e/ de/f/|g/a/g/f/ gg|e/f/e/c/ A/c/d/e/|ff/e/ ff|!
+A/B/A/F/ D/F/A/F/|G[G/B/][G/ B/] [G2 B2]|c/d/c/B/ A/c/e/c/|d[d/f/][d/ f/] [d f]:|!
+
+X:3
+T:Andy's Schottische
+C:Andy De Jarlis
+M:4/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+B3/2c/|d2 g3/2f/ g2 B2|c3/2d/c3/2B/ A2 A3/2B/|c2 a3/2^g/ a3 =g|f3/2g/f3/2e/ d2 B3/2c/|!
+d2 g3/2f/ g2 B2|c3/2d/c3/2B/ A2 A2|f3/2g/f3/2e/ d3/2c/B3/2A/|G2 B2 G2:|!
+K:D
+f3/2g/|a2 a2 a2 (3AB^c|d3/2[d/f/][d3/2f3/2][d/ f/] [d2 f2] e3/2d/|^c3/2d/e3/2f/ g2 f3/2g/|b3/2a/^g3/2a/ f2 f3/2^g/|!
+a2 a2 a2 (3AB^c|[d3/2f3/2][d/f/][d3/2f3/2][d/ f/] [d2 f2] e3/2d/|^c3/2d/e3/2f/ g3/2e/^c3/2e/|d2 f2 d2:|
+
+X:4
+T:Assinaboine Polka
+C:Andy De Jarlis
+M:2/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+A/G/|F/A/d/f/ a^g/a/|bc c/d/c/B/|A/c/e/^g/ a^g/a/|bd dA/G/|!
+F/A/d/f/ a^g/a/|bB B2|c/d/c/B/ A/c/e/c/|df d:|!
+K:A
+c/B/|A/c/e/^g/ a^g/a/|bf f2|^g/a/^g/f/ ^gd/e/|f/d/e/d/ c/d/c/B/|!
+A/c/e/^g/ a^g/a/|bf f2|^g/a/^g/f/ e/d/c/B/|AA/A/ A:|!
+K:G
+B/c/|dB gB|c/d/c/B/ AA/B/|cA fd/f/|a/g/f/e/ dB/c/|!
+dB gB|c/d/c/B/ A2|f/g/f/e/ d/c/B/A/|GB G:|!
+
+X:5
+T:Bedford Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+AG|F3 E FA|G3 F GA|F2 A2 d2|f3 c dB|!
+A2 g3 f|e3 d ec|A2 a2 a2|af fd dA|!
+F3 E FA|G3 F GA|F2 A2 d2|f3 c dB|!
+A2 g3 f|e3 d ef|d4 de|d4:|!
+K:G
+ef|g2 f2 e2|de dc BA|G4 DG|B3 A GB|!
+A4 FA|d3 e dc|B6|d2 e2 f2|!
+g2 f2 e2|de dc BA|G4 DG|B3 A GB|!
+A4 FA|d4 F2|G3 D FA|G4:|!
+
+X:6
+T:Blue Bell Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+B2|ed BG Bd|ed BG Bd|c3 B Ac|E6|!
+D2 F3 A|c2 B2 A2|GG FG Be|d3 B dB|!
+ed BG Bd|ed BG Bd|c2 cB cd|e4 e2|!
+f3 g fe|d2 e2 f2|g2 gf ga|g4:|!
+|:dg|b4 g2|d2 BG Bd|f4 ee|e2 f2 g2|!
+a3 b af|d2 e2 f2|g3 a ge|d3 B dg|!
+b4 g2|d2 BG Bd|f4 ee|e2 f2 g2|!
+a3 b af|de dc BA|G2 GF GA|G4:|!
+
+X:7
+T:Caribou Reel  (Em)
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Em
+B2|Be2e efed|Be2e efed|Bd2d dedc|BGBc dedc|!
+Be2e efed|Bdef g2fg|afge fde^c|dBAF E2:|!
+|:Bc|BGE2 EFGA|BGE2 EcBA|D3D D2DD|A,DDD D2Bc|!
+BGE2 EFGA|BGBe e3e|efed Bcd^B|AGF^D E4:|!
+
+X:8
+T:Carrick Jig
+C:Andy De Jarlis
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+ef|g2 e cBc|a2 f d2 c|Bdg gba|ag_g =gef|!
+g2 e cBc|a2 f d2 c|BAB GAB|c4:|!
+|:z2|CEG cea|g2 e c2 c|BdB GBd|dcA G2 E|!
+CEG cea|g2 e c2 c|BdB GAB|c4:|!
+
+X:9
+T:Centennial Schottische
+C:Andy De Jarlis
+M:4/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:F
+c2|f3/2e/f3/2g/ a2 c2|f3/2g/a3/2b/ a2 c'2|d'2 g2 b2 e2|(3fge f3/2a/ c4|!
+f3/2e/f3/2g/ a2 c2|f3/2g/a3/2b/ a2 c'2|d'2 g2 b3/2g/e3/2g/|f2 a2 f2 c2|!
+f3/2e/f3/2g/ a2 c2|f3/2g/a3/2b/ a2 c'2|d'2 g2 b2 e2|f3/2g/f3/2a/ c4|!
+f3/2e/f3/2g/ a2 c2|f3/2g/a3/2b/ a2 c'2|d'2 g2 b3/2g/e3/2g/|f2 a2 f2:|!
+K:C
+e3/2f/|g2 g3/2a/ g3/2e/c3/2A/|G G2 A G3/2E/G3/2c/|B2 B3/2c/ B3/2A/G3/2B/|d3/2c/c3/2B/ c2 e3/2f/|!
+g2 g3/2a/ g3/2e/c3/2A/|G G2 A G3/2E/G3/2c/|B2 B3/2c/ B3/2A/G3/2B/|d3/2c/c3/2B/ c2 e3/2f/|!
+g2 g3/2a/ g3/2e/c3/2A/|G G2 A G3/2E/G3/2c/|B2 B3/2c/ B3/2A/G3/2B/|d3/2c/c3/2B/ c2 e3/2f/|!
+g2 g3/2a/ g3/2e/c3/2A/|G G2 A G3/2E/G3/2c/|B2 B3/2c/ B3/2A/G3/2B/|d3/2c/c3/2B/ c2:|!
+
+X:10
+T:Centennial Reel
+C:Andy De Jarlis
+M:2/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+d|gb/g/ d/g/b/g/|d/g/b/d/ gf/g/|e^c/e/ A/e/^c/e/|A^c/d/ e/f/g/e/|!
+GB/d/ g/G/B/d/|gf/g/ ef/g/|a/f/g/e/ d/e/g/e/|d/B/A/F/ Gd|!
+gb/g/ d/g/b/g/|d/g/b/d/ gf/g/|e^c/e/ A/e/^c/e/|A^c/d/ e/f/g/e/|!
+GB/d/ g/G/B/d/|gf/g/ ef/g/|a/f/g/e/ d/e/g/e/|d/B/A/F/ G:|!
+|:B/c/|d/B/B/A/ B/A/G/B/|A/G/E/G/ DD/E/|=FC/=F/ c/=F/A/=F/|c/=F/A/=F/ cB/c/|!
+d/B/B/A/ B/A/G/B/|A/G/E/G/ DB,/D/|B,E/D/ E/F/G/A/|B/G/A/F/ GB/c/|!
+d/B/B/A/ B/A/G/B/|A/G/E/G/ DD/E/|=FC/=F/ c/=F/A/=F/|c/=F/A/=F/ cB/c/|!
+d/B/B/A/ B/A/G/B/|A/G/E/G/ DB,/D/|B,E/D/ E/F/G/A/|B/G/A/F/ G:|!
+
+X:11
+T:Centennial Jig
+C:Andy De Jarlis
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+f3 d2 B|A3 A2 F|DFA d2 e|f2 d fba|!
+g3 e2 d|c2 B Ace|b2 a aba|a3 -a^ga|!
+f3 d2 B|A3 A2 F|DFA d2 e|f2 d fba|!
+g3 f2 e|c/d/cB c2 B|ABA GFE|D3 -D3:|!
+K:A
+efe c/d/cA|EAc e2 e|ded B2 G|DGB dcd|!
+efe c/d/cA|EAc e2 a|^gb^g ef^g|a3 acd|!
+efe c/d/cA|EAc e2 e|ded B2 G|DGB dcd|!
+efe c/d/cA|EAc e2 a|^gb^g ef^g|a6:|!
+
+X:12
+T:Citadel Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+AG|F2 A2 d2|f3 d AF|E2 F2 G2|B4 B2|!
+AB cd ef|g3 g fg|b4 ag|f4 AG|!
+F2 A2 d2|f3 d AF|E2 F2 G2|B4 B2|!
+AB cd ef|g2 B2 c2|d6 -|d2 z2:|!
+|:a2|a2 ^ga ba|f2 z ^e fa|g2 f2 e2|B4 B2|!
+AB cd ef|g3 g fg|b4 ag|f4 a2|!
+a2 ^ga ba|f2 z ^e fa|g2 f2 e2|B4 B2|!
+AB cd ef|g2 B2 c2|d6 -|d2 z2:|!
+
+X:13
+T:Coureur De Bois
+C:Andy De Jarlis
+M:2/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:E
+E/E/|EG/B/ c/B/G/E/|B,/E/G/B/ ee|FA/c/ f/c/A/c/|ff/e/ f/a/g/e/|!
+EG/B/ c/B/G/E/|B,/E/G/B/ ee|B/c/d/e/ f/g/a/f/|e/c/B/G/ E:|!
+|:G/A/|B/e/e/e/ ee/f/|g/e/f/g/ e/e/e|B/c/d/e/ ff/e/|f/g/a/f/ g/B/f|!
+B/e/e/e/ ee/f/|g/e/f/g/ e/e/e|B/c/d/e/ f/g/a/f/|e/c/B/G/ E:|!
+
+X:14
+T:Daffodil Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+EF|G4 ^F2|A4 G2|e6 -|e3 g _g=g|!
+a2 g2 z e|d2 c2 z A|B6 -|B4 DE|!
+F4 E2|G4 F2|B6 -|B3 f _f=f|!
+b2 a2 z g|g2 d2 c2|e6 -|e4 EF|!
+G4 ^F2|A4 G2|e6 -|e3 g ^fg|!
+a2 g2 z e|c2 _b3 _b|a6 -|a4 z2|!
+ag ag cd|b4 a2|ga ge ^FG|f4 e2|!
+e3 d BG|e3 d BG|c6 -|c4:|!
+K:G
+GA|B4 d2|^c4 e2|d4 B2|G4 d2|!
+c3 A FD|C4 e2|d3 B GE|D6|!
+B,4 D2|^C4 E2|D4 d2|B4 d2|!
+c3 A FD|C2 D2 E2|G6 -|G4:|!
+
+X:15
+T:Fiddler's Polka
+C:Andy De Jarlis
+M:2/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+f/g/|af/a/ g/f/e/g/|fd d/A/d/f/|ec A/c/e/g/|fa af/g/|!
+af/a/ g/f/e/g/|fd d/A/d/f/|ec A/c/e/g/|fd d:|!
+K:A
+A|e2 e3/2d/|c/e/e e2|E/F/^G/A/ B/c/d/B/|A/B/c/d/ ec|!
+e2 e3/2d/|c/e/e e2|E/F/^G/A/ B/c/d/B/|Ac A:|!
+
+X:16
+T:Fiddle March
+C:Andy De Jarlis
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+EF|GEG c2 e|gec G2 G|AFA d2 f|afd A2 G|!
+G^FG B2 d|g2 f e2 d|c2 a g2 e|c4:|!
+|:EF|G2 E G2 c|e3 c3|d2 ^c def|A3 -Adc|!
+B3 b2 a|g2 f e2 d|c2 a g2 e|c4:|!
+
+X:17
+T:Fort Garry Jig
+C:Andy De Jarlis
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+D|F2 F FEF|DFA dcd|e2 e ede|f2 f fef|!
+F2 F FEF|DFA d2 d|A,CE GFE|D2 D D2:|!
+|:f|fef a2 f|fef d2 A|B2 B BAB|G3 GFG|!
+A,2 A, A,CE|[c2 e2] [c e] [c2 e2] B|A2 g fed|A3 -A2 f|!
+fef a2 f|fef d2 A|B2 B BAB|G3 GFG|!
+A,2 A, A,CE|[c2 e2] [c e] [c2 e2] e|gec ABc|d3 d2:|!
+
+X:18
+T:Friendship Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Bb
+F/E/|D2 E2 F2|d2 _d2 =d2|f3 g fd|e3 d cA|!
+F2 A2 c2|e2 g3 a|g3 f gf|d4 F3/2E/|!
+D2 E2 F2|d2 _d2 =d2|f3 d ec|G3 B AG|!
+F2 A3 e|d2 A3 c|B3 A Bc|B4:|!
+K:F
+cB|A2 c2 b2|a4 ef|g2 f2 d2|B4 BA|!
+G2 B2 g2|e4 c^c|d2 c2 B2|A4 cB|!
+A2 c2 b2|a4 ef|g2 f2 e2|d6|!
+g3 a gf|e3 c =Bc|b2 a3 g|f4:|!
+
+X:19
+T:Golden Dawn Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+Bc ^c|d6|^c4 -^ce|d3 B GE|D2 B,3 C|!
+D6|E4 G2|F6 -|F2 A2 B2|!
+c6|B4 -Bd|c3 A FE|D6|!
+D6|C4 -CD|B,6 -|B,2 B2 c2|!
+d6|^c4 -^ce|d3 B GE|D2 B,3 C|!
+D6|G4 -G=F|E6 -|E2 E2 F2|!
+G6|A4 G2|B6|D6|!
+E6|F4 ED|G6|G3:|!
+|:d Bd|g2 d2 Bd|g2 d2 Bd|c2 a3 a|a4 ce|!
+a2 a2 ce|f2 f2 ed|B2 G3 G|G3 A Bd|!
+g2 d2 Bd|g2 d2 Bd|c2 a3 a|a4 g2|!
+f3 g fe|d2 c2 F2|G6|G3:|!
+
+X:20
+T:Grandma's Chickens
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+ (3ABc|ddfd ccec|BABc B2AF|GGBG FFAF|EDEF E2 (3ABc|!
+ddfd ccec|BABc BABc|d2fd gfec|d2 (3edc d2:|!
+|:fg|abag f2fe|dfdf f2ed|cdef gecA|defg a2fg|!
+abag f2fe|dfdf f2ed|cdef gece|d2 (3edc d2:|!
+
+X:21
+T:Happy Days Jig
+C:Andy De Jarlis
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+B/c/|d2 g B2 e|d2 B GFG|A2 B cAF|d2 B G2 B/c/|!
+d2 g B2 e|d2 B GFG|A2 B cAF|G3 -G2:|!
+|:D|B2 c BAG|D2 B, G,B,D|c2 F A2 G|B2 c BAG|!
+B3 BAG|D2 B, G,B,D|c2 F A2 F|G4 -G:|!
+|:B/d/|g2 a g2 f|e3 -efg|a2 g fef|g3 -gBd|!
+g2 a g2 f|e3 -efg|a2 g fef|g4 -g:|!
+
+X:22
+T:Happy Land Schottische
+C:Andy De Jarlis
+M:4/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+D2|G>FG>A B>cB>A|G>Be>B d2 d2|c>AF>A D>FA>c|B>AG>B D2 D2|
+G>FG>A B>cB>A|G>Be>B d2 d2|f>gf>e d>cB>A|G2 B2 G2:|
+|:z2|c>Bc>d e>gf>e|d>BG>B d2 d2|c>AF>A D>FA>c|B>AG>B d2 d2|
+c>Bc>d e>gf>e|d>BG>B d2 d2|f>gf>e d>cB>A|G2 B2 G2:|
+
+X:23
+T:Holiday Polka
+C:Andy De Jarlis
+M:2/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+d/c/|Bd gb|B/c/B/A/ B (3B/c/B/|AB ce|E3 (3E/F/E/|!
+D/E/F/G/ A/B/c/d/|f/g/f/e/ ff/e/|d/d/^c/d/ ed|B/c/B/^A/ Bd/c/|!
+Bd gb|B/c/B/A/ B (3B/c/B/|AB ce|E3 (3E/F/E/|!
+D/E/F/G/ A/B/c/d/|f/g/f/e/ ff/e/|dd/d/ ef|g3:|!
+K:D
+A/G/|(3F/G/F/ A/d/ f/e/d/f/|aa a3/2a/|(3a/b/a/ ^g/a/ b/a/^g/a/|^c2 ^c/d/^c/B/|!
+A/B/^c/d/ e/f/g/e/|aa/a/ af/a/|aa/f/ g/f/e/^c/|d^c/d/ B/d/A/G/|!
+(3F/G/F/ A/d/ f/e/d/f/|aa a3/2a/|(3a/b/a/ ^g/a/ b/a/^g/a/|^c2 ^c/d/^c/B/|!
+A/B/^c/d/ e/f/g/e/|bb bf/g/|aa/f/ g/f/e/^c/|d3:|!
+K:C
+(3g/a/g/|fg eg|G2 G/A/G/F/|EG ce|g2 B (3a/b/a/|!
+ga fa|B2 B/c/B/A/|G3/2E/ FG|E/F/E/D/ E (3g/a/g/|!
+fg eg|G2 G/A/G/F/|EG ce|g2 f3/2e/|!
+fa a/b/a/g/|e/gg/ g/f/e/d/|BG AB|c3:|!
+
+X:24
+T:Interlake Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+dc|B2 d2 g2|d4 ed|c2 e2 a2|e3 g fe|!
+d2 f z fg|f2 e2 d2|B3 c BA|B4 dc|!
+B2 d2 g2|d4 ed|c2 e2 a2|e3 g fe|!
+d2 f2 g2|a2 e2 f2|g2 gf ga|g4:|!
+|:DC|B,6|C6|B,3 D GA|B4 AB|!
+c2 AB AG|F4 Dc|B2 G3 E|DE DC B,A,|!
+B,6|C6|B,3 D GA|B4 AB|!
+c2 AB AF|D2 E2 F2|G2 GF GA|G4:|!
+
+X:25
+T:Jack Pine Trail
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+faab afde|fdab afdf|g2ga ge=cd|egga g2ed|!
+faab afde|fdab afdB|=c2=cB =cAGB|AFE2 D4:|!
+|:DFAc defd|ecB2 A2de|fdeg f2ec|dAFD E2E2|!
+DFAc defd|ecB2 A2de|faab afde|fdec d4:|!
+
+X:26
+T:Jolly Dolly Polka
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Bb
+c=e|f2f2 g2g2|fgfd B2B2|A2cf a2a2|gag=e cdcB|!
+A2c2 a2a2|gag=e cdcB|A2FA d2Ac|B2BA B2:|!
+|:FE|D2F2 d2d2|D2E2 c3B|Acfa g=ecA|B2d2 FGFE|!
+D2F2 d2d2|D2E2 c3B|Acfa g=ecA|B2BA B2:|!
+
+X:27
+T:Manitoba's Golden Boy
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+F2G2|A4 d3e|f6cd|e2d2 c2B2|A6F2|!
+G4 e3e|e6G2|F4 d3d|d4 F2G2|!
+A4 d3e|f6cd|e2d2 c2B2|A6F2|!
+G4 e2d2|c2A2 B2c2|d4 d2e2|d4:|!
+|:e3f|g2B2 g2B2|g4 a3g|f2A2 f2A2|f4 g3f|!
+e2A2 c2d2|e2g2 f2e2|f8 -|f4 e3f|!
+g2B2 g2B2|g4 a3g|f2A2 f2A2|f4 g3f|!
+e2A2 c2d2|e2g2 f2e2|d4 d2e2|d4:|!
+
+X:28
+T:Manitoba Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+ga|b3 g dc|B2 a3 g|f3 e cA|E4 fe|!
+d3 ^c d^c|c3 B cd|B6 -|B4 ga|!
+b3 g dc|B2 a3 g|f3 e cA|E4 fe|!
+d3 ^c d^c|c3 F BA|G4 GA|G4:|!
+K:D
+FG|A2 d3 e|f3 (3f/g/f/ ef|g2 B3 f|e4 ed|!
+c2 B3 A|G2 B3 A|F4 G2|F4 FG|!
+A2 d3 e|f3 (3f/g/f/ ef|g2 B3 f|e4 ed|!
+c2 B2 A2|c2 d2 e2|d4 de|d4:|!
+
+X:29
+T:Manitoba Special
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+Ac|defd edBc|dBAF DEFD|E2=cd =cAG=F|E=CG,=C EGFE|!
+D2FA defd|edBc d2AF|GABG Aceg|fddc d2:|!
+|:eg|faab afde|fdeg f2ec|dcdA B2AF|GEFD E2eg|!
+faab afde|fdeg f2ec|dcdA B2AF|EDEF D2:|!
+
+X:30
+T:Merry Scotchman Breakdown
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:A
+(3efg|a2a2 efed|cAcd ecef|=g2=G2 =GA=GF|=GAB=c defg|!
+a2a2 efed|cAcd ecef|=gf=ge dB=GB|A2AA A2:|!
+|:A2|EA2A ABcd|efec [A2e2]cA|=G2B=G D=GA=G|=c=GB=G ABA=G|!
+EA2A ABcd|efec e2ef|=gf=ge dB=GB|A2AA A2:|!
+
+X:31
+T:Moccasin Reel
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+ag|fd2d d2 (3ed=c|defg abag|e=c2=c =cd=cB|=cdef geag|!
+fd2d d2(3ed=c|defg abag|fdeg f2ec|dd2d d2:|!
+|:(3ABc|d2de dAFA|Bcdc BAFA|e2ee efed|Be2e e2(3ABc|!
+d2de dAFA|Bcdc BAFD|C^B,CD EFGE|FDCE D2:|!
+
+X:32
+T:Pierre's Special
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+G2BG dGBG|=F2A=F c=FA=F|G2BG dGBd|cBAc B2D2|!
+G2BG dGBG|=F2A=F c=FA=F|G2BG dGBd|cBAc B2G2|!
+K:F
+B2dB fdBd|c2AF cFAc|B2dB fdBd|cBAc B2G2|!
+B2dB fdBd|c2AF cFAc|B2dB fdBd|cBAc B4:|!
+
+X:33
+T:Poor Girl Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+g^f g|a6|g4 g^f|a3/2g/ e3/2c/ A3/2c/|G4 -GE|!
+G3/2c/ e3/2g/ a3/2b/|a4 g2|B6 -|B3 g ^fg|!
+a6|g6|a3/2g/ f3/2d/ B3/2A/|G6|!
+d6|g4 a2|e6 -|e3 g ^fg|!
+a6|g4 g^f|a3/2g/ e3/2c/ A3/2c/|G4 -GE|!
+G3/2c/ e3/2g/ a3/2b/|a4 e2|g2 f2 d2|A6|!
+d6|c4 A2|G3/2c/ e3/2g/ a3/2b/|a2 g3 e|!
+d6|e4 G2|c6 -|c3:|!
+|:E2 F|G6|G2 ^F3 A|G6 -|G2 E2 F2|!
+G2 A2 B2|c2 a3 g|B6 -|B2 D2 E2|!
+F6 -|F2 E3 G|F6 -|F2 D2 E2|!
+F2 G3 A|B2 d3 c|E6 -|E2 E2 F2|!
+G6|G2 ^F3 A|G6 -|G2 E2 F2|!
+G2 A2 B2|c2 a3 g|f6 -|f4 de|!
+f2 d3 d|d4 cd|e2 c3 c|c4 Bc|!
+d2 B3 A|G2 e3 d|c6 -|c3:|!
+
+X:34
+T:Prairie Schooner
+C:Andy De Jarlis
+M:4/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+AG|F2 A2 A3 A|A3 A (3ABA A2|F2 A2 d2 f2|a4 a3 a|!
+b2 a2 a3 a|g2 (3fgf e3 d|d2 c2 c2 B2|(3BcB A2 A3 G|!
+F2 A2 A3 A|A3 A (3BcB A2|F2 A2 d2 f2|a4 a3 a|!
+b2 a2 a3 a|g2 (3fgf e2 ed|d2 (3cdc B2 c2|d6:|!
+|:AG|F2 (3fgf e2 d2|A6 AG|F2 (3fgf e2 d2|B4 B3 B|!
+B2 g2 g3 f|(3fgf e2 e3 d|d2 (3cdc c2 B2|(3BcB A2 A2 AG|!
+F2 (3fgf e2 d2|A6 AG|F2 (3fgf e2 d2|B4 B3 B|!
+B2 g2 g3 f|(3fgf e2 e3 d|d2 (3cdc B2 c2|d6:|!
+
+X:35
+T:Prairie Schottische
+M:4/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+F3G|A4F4 D3FA3d|c4B4 B6 (3ef^g|a4c4 c3de3g|f4d4 d4F3G|!
+A4F4 D3FA3d|c4B4 B6(3ef^g|a4c4 c3de3g|f4d4 d4:|!
+|:z4|g3fg3a b4b4|a2_a2g2e2 B8|A4c3e a3gf3e|d3ef3g a8|!
+g3fg3a b4b4|a2_a2g2e2 B8|A4c3e a3gf3e|d4f4 d4:|!
+
+X:36
+T:Prairie Reel
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+fg|afdf afbf|afde fdfd|cdef gece|defg a2fg|!
+afdf afbf|afde fdfd|cdef gece|[d2f2][df][df] [d2f2]:|!
+|:[FA][EA]|DFAc B2Ac|defd A2AF|G2B[GB] [F2A2][FA][FA]|[EA][DA][EA][FA] E2FE|!
+DFAc B2Ac|defd AdcB|A3d c2ec|[d2f2][df][df] [d2f2]:|!
+
+X:37
+T:Rainy River Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+G3/2F/|E4 G2|c2 E2 G2|F4 A2|A6|!
+G3 A Bc|d3 e fd|e6 -|e4 G3/2F/|!
+E4 G2|c2 E2 G2|F4 A2|A6|!
+G3 A Bc|d3 f ed|c6 -|c4:|!
+|:de|f3 e fg|f4 Gc|e6 -|e4 dc|!
+B4 c2|d4 ef|e6 -|e4 de|!
+f3 e fg|f4 Gc|e6 -|e4 dc|!
+B4 c2|d3 f ed|c6 -|c4:|!
+
+X:38
+T:Red River Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+dc|B2 d2 g2|b4 fg|a2 g2 e2|c4 c2|!
+DE FG AB|c4 A2|DE FG Ac|B4 dc|!
+B2 d2 g2|b4 fg|a2 g2 e2|c6|!
+d3 ^c de|d2 E2 F2|G3 F GA|G4:|!
+|:d2|d2 ^cd ed|B6|g2 fg ag|e6|!
+DE FG AB|c6|DE FG Ac|B4 d2|!
+d2 ^cd ed|B6|G2 F2 G2|e6|!
+d3 ^c de|d2 E2 F2|G3 F GA|G4:|!
+
+X:39
+T:Red River Blues
+C:Andy De Jarlis
+M:4/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+e3f|g3^fg3a g4e4|c3Bc3d e4d3c|A3Bc3A d3cA4|G12e3f|!
+g3^fg3a g4e4|c3Bc3d e2Bd3c2|B2b4b2 b2^a2b4|g12e3f|!
+g3^fg3a g4e4|c3Bc3d e4d3c|A3Bc3A d3cA4|G12-G3E|!
+F3EF3G A3Bc3e|g3^fg3a -a8|e2g4e2 d3cA3G|[E4c4][E4c4] [E4c4]:|!
+|:G3F|E3Gc4 e6B2|d3cB3d c4G3F|E2G4c4e4d2 -|d12G3F|!
+E3Gc3e -e6B2|d3cB3d c2c4E2|G3G_F3D E3CA,4|C12:|!
+
+X:40
+T:Rogueland Waltz  (traditional)
+C:in Andy De Jarlis old music book
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+Bc|d2 b3 f|a2 g2 e2|d6|B4 d_d|!
+c2 d2 f2|a2 b2 c'2|b6 -|b4 Bc|!
+d2 b3 f|a2 g2 e2|d6|B4 B2|!
+A2 d3 f|a2 e3 f|d6 -|d3 d ^cd|!
+e4 ee|f4 ba|g6|d4 e2|!
+f3 e fa|g2 f2 e2|a6 -|a4 Bc|!
+d2 b3 f|a2 g2 e2|d6|B4 d2|!
+e2 a3 g|f2 b3 a|g6 -|g4:|!
+|:Bc|d3 e dc|B4 g2|e3 f ed|^c4 a2|!
+f3 g fe|d6|de fe dc|B4 Bc|!
+d3 e dc|B4 g2|e3 f ed|^c4 a2|!
+f3 g fe|d2 e2 f2|g6|g4:|!
+
+X:41
+T:Romeo's First Change
+C:Andy De Jarlis
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+fg|a2 ^g a2 b|afd Adf|g2 f g2 b|afd Adf|!
+a2 ^g a2 b|afd Adf|gec ABc|d4 z:|!
+|:B|AFA dcB|ABA [F2 A2] [F A]|GEC A,CE|DFB A2 A|!
+DFA dcB|ABA [F2 A2] [F A]|GFG ABc|d4:|!
+
+X:42
+T:Scan Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+ef|gd BG DB,|G,B, DE DB,|C2 EC EG|c3 B AG|!
+F2 D2 z F|d2 e2 d2|B2 BA Bc|B4 ef|!
+gd BG DB,|G,B, DE DB,|C2 EC EG|c3 B AG|!
+F2 D2 z F|A2 B2 A2|G2 z G G2|G4:|!
+|:D2|G3 A Bc|d2 B2 G2|c2 cB cd|e4 e2|!
+d2 fg af|d2 fg af|g2 ga (3gfe|d4 D2|!
+G3 A Bc|d2 B2 G2|c2 cB cd|e4 e2|!
+d2 fg af|d2 fg af|g2 gf ga|g4:|!
+
+X:43
+T:Sitting Bull Reel  (Am)
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Am
+ea2a abag|edeg a2e^f|gedc B2GA|BGAc B2A2|!
+ea2a abag|edeg a2e^f|gedc B2AG|EAAG A4:|!
+|:[A,2E2][A,E][A,E] [A,2E2]ED|EGAB c2BA|G2B2 D2GA|BGAc B2A2|!
+[A,2E2][A,E][A,E] [A,2E2]ED|EGAB c2A2|efed c2Ac|BAGB A4:|!
+
+X:44
+T:Sleeping Giant Two-Step
+C:Andy De Jarlis
+M:2/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+Ad|f3/2g/ fd|A z F z|GG/G/ GF|E3 F|!
+GG/G/ GF|EA, DE|F3/2G/ FE|F2 Ad|!
+f3/2g/ fd|A z F z|GG/G/ GF|E3 F|!
+GG/G/ GA|c3/2A/ Bc|d2 d3/2d/|d2:|!
+|:c=c|B2 d2|g3 g|f3/2g/ fd|AF Ad|!
+e2 e3/2f/|ec BA|dd FG|Ad c=c|!
+B2 d2|g3 g|f3/2g/ fd|AF GF|!
+E3 F|G3/2A/ Bc|d2 d3/2d/|d2:|!
+
+X:45
+T:Surveyor's Reel
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:F
+c2|f2fe fgaf|c2c=B c2Ac|f2fe fgaf|dd2d d2fg|!
+agfa g2eg|fefd c2Ac|BAGF EFGE|F2FF F2:|!
+|:cB|AFcF dFcF|AFcF G2cB|AFcF dFcF|BAGE F2cB|!
+AFcF dFcF|AFcF G2cB|Acfa gfeg|f2fe f2:|!
+
+X:46
+T:Swinging Gate Reel
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:A
+A4 A2E2|Bcde f4|efga bgbg|abc'd' e'c'a2|!
+A4 A2E2|Bcde f4|efga bgbg|ac'bg a4|!
+A4 A2E2|Bcde f4|efga bgbg|abc'd' e'c'a2|!
+A4 A2E2|Bcde f4|efga bgbg|ac'bg a4:|!
+|:aecB Aceg|fedc B2BA|GABG E2BG|ABcd e2fg|!
+aecB Aceg|fedc B2BA|GABG EEBG|ABcd e2fg|!
+aecB Aceg|fedc B2BA|GABG EEBG|ABcd e2fg|!
+aecB Aceg|fedc B2BA|GABG EEBG|AcBG A2z2:|!
+
+X:47
+T:Toniata Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+g2|a3 g e3/2c/|a3 g e3/2c/|g6|[B6 g6]|!
+G3/2A/ B3/2c/ d3/2e/|f4 g2|[c6 e6]|[c4 g4] g2|!
+a3 g e3/2c/|a3 g e3/2c/|g6|[B6 g6]|!
+G3/2A/ B3/2c/ g3/2_g/|f2 A2 B2|c3 B cd|c4:|!
+|:z2|E6|^D4 F2|E3 G ce|g6|!
+a2 g3 e|a2 g3 e|B6|[B6 g6]|!
+G6|[G6 B6]|d6|[d6 f6]|!
+g3 g ^fg|f4 g2|e4 ge|ag ec Ac|!
+E6|^D4 F2|E3 G ce|g6|!
+a2 g3 e|c2 B2 _B2|A6|[F6 A6]|!
+A3 G AB|c4 g^f|ag ec Ac|b2 a3 e|!
+g3 e fa|e4 d2|c6 -|c4:|!
+
+X:48
+T:Village Carousel Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Bb
+DE|F4 d2|E3 F Ac|B6|[D4 B4] Bc|!
+d4 B2|F4 G2|A6|A4 CD|!
+E4 F2|G4 F2|A6|A4 CB,|!
+A,2 C2 E2|F2 G2 e2|d6|d4 DE|!
+F4 d2|E3 F Ac|B6|[D3 B3] F DC|!
+B, z z D FB|b2 a2 _a2|g6|g4 a2|!
+g3 e ce|G4 g2|f3 d Bd|F4 e2|!
+d3 c AF|E3 F Ac|B6|[D4 B4]:|!
+K:F
+AB|c6|=B4 d2|c6|c4 =Bc|!
+a4 g2|f4 c2|e2 d4 -|d4 GA|!
+B6|A4 c2|B6|B4 AB|!
+g4 e2|c4 B2|A6|A4 AB|!
+c6|=B4 d2|c6|c4 =Bc|!
+a4 g2|f4 c2|e2 d4 -|d4 de|!
+f4 f2|e4 d2|c6|c4 AB|!
+c4 =B2|B4 E2|F6 -|F4:|!
+
+X:49
+T:Western Waltz
+C:Andy De Jarlis
+M:3/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+Bc|d2 e2 d2|_d2 =d3 c|B2 D2 G2|B3 B cB|!
+A2 D2 F2|A4 dc|B2 G2 E2|D4 Bc|!
+d2 e2 d2|_d2 =d3 c|B2 D2 G2|B3 B cB|!
+A2 F2 A2|d2 c2 A2|G3 F GA|G4:|!
+|:Bc|d2 z2 b2|c2 z2 a2|B2 g3 a|g3 d BG|!
+F2 d3 d|d3 c BA|GA Bc de|d4 Bc|!
+d2 z2 b2|c2 z2 a2|B2 g3 a|g3 d BG|!
+F2 d3 d|f2 e2 f2|g3 f ga|[B4 g4]:|!
+
+X:50
+T:Whiskey Before Breakfast
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+FE|D2FD A2AA|ABAG F2DF|GABG FFAF|EDEF EGFE|!
+D2FD A2AA|ABAG F2DF|GABG FFAF|EDEF D2:|!
+|:A2|d3d d2Bc|dBAG F2D2|e3e e2ef|gfed c2Ac|!
+defd ce2e|ABAG F2DF|GABG FFAF|EDEF D2:|!
+
+X:51
+T:Wigwam Polka  (Bm & D)
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Bm
+F2|BcBA Bcde|f2d2 f4|b2f2 g2fa|gfed cBAF|!
+BcBA Bcde|f2d2 f4|b2f2 a2eg|fedc B2:|!
+K:D
+B2|A2FA d2Ad|f2df a3f|g2f2 e2ce|b2ab a^ga2|!
+A2FA d2Ad|f2df a3f|g2e2 Aceg|f2d2 d2:|!
+
+X:52
+T:Winnipeg Reel
+C:Andy De Jarlis
+M:4/4
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+fg|a2 f2 dcde|g2 e2 B4|gfed cABc|defg a2 fg|!
+a2 f2 dcde|g2 e2 B4|gfed cABc|d2 f2 d2 fg|!
+a2 f2 dcde|g2 e2 B4|gfed cABc|defg a2 fg|!
+a2 f2 dcde|g2 e2 B4|gfed cABc|d2 f2 d2:|!
+|:AG|FAFF FFAF|GBGG GBed|cAce aece|defd A2 AG|!
+FAFF FFAF|GBGG GBed|cAce aece|d2 (3edc d2 AG|!
+FAFF FFAF|GBGG GBed|cAce aece|defd A2 AG|!
+FAFF FFAF|GBGG GBed|cAce aece|d2 (3edc d2:|!
+
+X:53
+T:Woodridge Breakdown
+C:Andy De Jarlis
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:A
+EGAB cAA2|efed c2A2|EF=GA B=G=G2|Bdde dBcA|!
+EGAB cAA2|efed c2ef|=gefd efed|c2BG A2z2:|!
+|:ea2a abaf|ea2a abaf|edef =g2=gf|=gedB =GABd|!
+A2a2 abaf|ea2a a2ef|=gefd efed|c2BG A2:|!

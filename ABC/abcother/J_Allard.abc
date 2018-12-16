@@ -1,0 +1,622 @@
+X:1
+T:Reel des Ouvrieres
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+(3DEF|G2BG dGBG|ABcd cBAG|Bdgd egdB|cBAG FADF|!
+G2BG dGBG|ABcd cBAG|Bdgd egdB|cAFA G2:|!
+|:ef|g2dg Bgdg|gabg agef|g2dg BgdB|cBAG Fdef|!
+g2dg Bgdg|gabg agef|gfga gfed|egfa g2:|!
+
+X:2
+T:Gigue a` Paddy
+C:Joseph Allard
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+d|gfg efg|afd def|gfg efg|afd def|!
+g2 g aga|bgg bge|dcB AGA|BGG G2:|!
+|:E|DGB AGA|Bcd efg|G2 B AGA|BGE E2 D|!
+DGB AGA|Bcd efg|dcB AGA|BGG G2:|!
+
+X:3
+T:Gigue Canadienne
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+dc|B2GB cAFA|d^cde dBGB|DFAB cBcB|AGFE DB,DG|!
+B2B2 cBce|dBge dBGB|DFAB cAFG|A2G2 G2:|!
+|:ga|bgfg dega|bgfg dega|ba^ga ea^ga|ba^ga ef=ga|!
+bgfg dega|bgfg defg|(3aba (3gag (3fgf (3efe|defe g2:|!
+
+X:4
+T:Gigue de la De`bauche
+C:Joseph Allard
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+d|g2 B BAG|Bdd dBG|cec BdB|AFA def|!
+g2 B BAG|Bdd dBG|cec BdB|AcA G2:|!
+|:B|def g2 g|faf d2 d|def gfg|a2 a gbb|!
+gbg faf|ege dBG|cec BdB|AFA G2:|!
+
+X:5
+T:Gigue des Capuchons
+C:Joseph Allard
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+g|faa afa|gfe d2 e|faf ede|fdf efg|!
+faa afa|gfe d2 e|faf ede|fdd d2:|!
+|:F|A3 G3|FAd fed|cBc edc|dfe dcB|!
+A3 G3|FAd fed|cBc edc|dfe d2:|!
+
+X:6
+T:Gigue des Paroissiens
+C:Joseph Allard
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+A|AFA dfa|agf efg|fdf fed|cee ecA|!
+AFA dfa|agf efg|afd gec|edd d2:|!
+|:D|DFA dcB|ABA FAF|DFA DFA|A,CE A,CE|!
+DFA dcB|ABA FAd|fef gec|edd d2:|!
+
+X:7
+T:Gigue des Sucres
+C:Joseph Allard
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+G|D2 G D2 G|DGA B3|cBc ABc|e2 d B2 G|!
+D2 G D2 G|DGA B3|cBc DEF|GBA G2:|!
+|:d|g3 f3|ece d3|cBc ABc|e2 d B2 d|!
+g3 f3|ece d3|cBc DEF|GBA G2:|!
+
+X:8
+T:Gigue du Forgeron
+C:Joseph Allard
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+A|dcd AFA|dfb a2 f|gfg Ace|dfd AFA|!
+dcd AFA|dfb a2 f|gfg Ace|d2 d d2:|!
+|:g|b3 -bag|faa agf|gfg Ace|ba^g a2 a|!
+gbb bag|faa agf|gfg Ace|d2 d d2:|!
+
+X:9
+T:Gigue du Sous-Marin
+C:Joseph Allard
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+B|BAB G2 D|B,2 E D2 B|BAB d2 B|G2 B A2 B|!
+cBc A2 G|F2 G A2 B|cBc fed|cBA B2 B|!
+BAB G2 D|B,2 E D2 B|BAB d2 B|G2 B A2 B|!
+cBc A2 G|F2 G A2 B|cBc fed|cBA G2:|!
+|:B/c/|d2 d e2 d|g3 -gfg|a3 -aga|b3 -bab|!
+d'2 B d2 g|gfe d2 g|fed cBA|B3 -BBc|!
+d2 d e2 d|g3 -gfg|a3 -aga|b3 -bab|!
+d'2 B d2 g|gfe d2 g|fed cBA|G4 -G:|!
+
+X:10
+T:Gigue du Violoneux
+C:Joseph Allard
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+e|f2 d AFA|B2 A d2 f|efg B2 c|d2 e f2 g|!
+aba AFA|B2 c d2 f|efg B2 c|edd d2:|!
+|:d|g3 -gag|f2 d fgf|efe ede|fdB B2 A|!
+g3 gag|f2 d fgf|e2 d efg|ABc d2:|!
+
+X:11
+T:Madame Renaud
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+G2BG dGBG|DGBd g2fg|A2cA eAcA|ABcd efge|!
+G2BG dGBG|DGBd g2eg|afge fdec|ABcd BAG2:|!
+|:g2fg dgBg|dgba gfed|ea^ga ea^ga|ecaf gfed|!
+g2fg dgBg|dgba gfeg|afge fdec|ABcd BAG2:|!
+
+X:12
+T:Money Musk
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+ge|:dGBG dGce|dGBG ABce|dGBG dGBg|BeAc BGGe|!
+dGBG dGBe|dGBG ABce|dGBG dGBg|BeAc BGG2:|!
+|:gdeg dgBa|gdca BAAf|gdeg dBca|BgAd BGGf|!
+gdeg dgBa|gdca BAAf|gdeg dBca|BgAf gGG2:|!
+
+X:13
+T:Gigue de Touristes
+C:Joseph Allard
+M:6/8
+L:1/8
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+e|gec cBc|dBG G2 F|EFG ABc|edc d2 g|!
+gec cBc|dBG G2 F|EFG ABc|dcB c2:|!
+|:e|gec c2 a|age c2 e|gec cBc|dBG G2 g|!
+gec c2 a|age c2 e|gec BAB|c3 -c2:|!
+
+X:14
+T:Reel du Canada
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+dg|b2g2 d2B2|e2c2 cBce|a2g2 f2c2|e2d2 d^cdg|!
+b2g2 d2B2|e2c2 cBcA|FGAB cdef|g2gf g2:|!
+|:Bc|d2B2 e2B2|d2B2 c3B|c2A2 f2c2|e2B2 d3d|!
+d2B2 e2B2|d2B2 cBcA|FGAB cdef|g2gf g2:|!
+
+X:15
+T:Quadrille Montcalm
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:F
+AFcF dFcF|DFcF EGGB|AFcF dFcF|BdcB AFFB|!
+AFcF dFcF|DFcF EFGA|Bcde fdcB|ABGB AFF2:|!
+|:fagf eccg|ecgc acgc|fagf edcB|ABGB AFAc|!
+fagf eccg|fcgc acgc|fagf edcB|ABGB AFF2:|!
+
+X:16
+T:Reel Boule de Neige
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+Bc|d2B2 g2B2|d2c2 cBAB|c2A2 d2A2|c2B2 BAGB|!
+d2B2 g2B2|f2e2 edef|e2c2 a2f2|g2b2 g2:|!
+K:D
+d2|ABAG F2A2|fefg f2d2|efed c2e2|a^gab a4|!
+ABAG F2A2|fefg f2ed|c2e2 a2c2|e2d2 d2:|!
+
+X:17
+T:Reel de Cabano
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+BGdG BGGd|BGdG BGGB|A=Fc=F A=F=Fc|A=Fc=F A=F=Fc|!
+BGdG BGGd|BGdG A=F=F2|GFGA Bcde|fdAc BGG2:|!
+|:gfga gede|=fe=fg a=fd=f|g=fga gede|fdAd BGG2|!
+gfga gede|=fe=fg a=fde|=fge=f decd|BdcA BGG2:|!
+
+X:18
+T:Reel de Chateauguay
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+dg|b2bg a2af|ggbg d2dg|fdAB cBce|dBGA B2dg|!
+b2bg a2af|ggbg d2dg|fdAB cdef|g2b2 g2:|!
+|:BA|G2GB d2g2|efge d2dg|fdAB cBce|dBGA B2BA|!
+G2GB d2g2|efge d2dg|fdAB cdef|g2b2 g2:|!
+
+X:19
+T:Reel des Skieurs
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+Bc|d2gd B2dB|G2BG D2DF|A2AB cBcA|GFGA BABc|!
+d2gd B2dB|G2BG D2DF|A2AB cAFA|G2B2 G2:|!
+K:C
+|:GB|c2Gc e2ce|g6gf|eceg fedc|BGAB cBAG|!
+c2Gc e2ce|g6gf|eceg fedc|BGAB c2:|!
+
+X:20
+T:Reel de Gaspe
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+FE|DFAF DFA,D|FDAF GEEG|FAdA FAdf|edcB AGFE|!
+DFAF DFA,D|FDAF GEEG|FAdA FAdf|ecAc d2:|!
+|:cd|ecAc EAce|fdAd FAdf|gfeg fedf|edcB ABcd|!
+ecAc EAce|fdAd FAdf|gfeg fedf|ecAc d2:|!
+
+X:21
+T:Reel de L'enfant
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+gfgb afdg|ecdc BGBd|gfgb agfd|egfa g2e2|!
+gfgb afdg|ecdc BGBd|bgaf gedB|ceAc BGG2:|!
+|:GDB,D DGBG|cGBG AGAB|GDB,D DGBG|ceAc BGG2|!
+GDB,D DGBG|cGBG AGAB|GDB,D DGBG|ceAc BGG2:|!
+
+X:22
+T:Reel de l'Hotelier
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+AG|F2D2 DFAd|B2G2 GBed|c2A2 Aceg|fdAd fdAG|!
+F2D2 DFAd|B2G2 GBed|c2A2 Aceg|f2d2 d2:|!
+|:ef|g2gf g2bg|abaf d2fa|gece Aceg|fdAd fdef|!
+g2gf g2bg|abaf d2fa|gece Aceg|fddc d2:|!
+
+X:23
+T:Reel de la Tuque Bleue
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:F
+f2cf fagf|eceg bgge|f2cf fagf|edcB AFAc|!
+f2cf fagf|eceg bgge|f2ce fagf|edcB AFF2:|!
+|:AFcF AFGA|BGdG BGGB|AFcF AFGA|BdcB AFFB|!
+AFcF AFGA|BGdG BGGB|AFcF AFGA|BdcB AFF2:|!
+
+X:24
+T:Reel de la Veuve
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+D2|G2Bd gdBd|cBAB cBce|dBG2 Bddg|ecAF GFEF|!
+G2Bd gdBd|cBAB cBce|dBG2 Bddg|ecAF G2:|!
+|:Bd|gfgb agfd|efge dBG2|Bdgb agfd|efga bggf|!
+gfgb agfd|efga bgga|bgaf gfed|egfa g2:|!
+
+X:25
+T:Reel de Limoilou
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+Bc|dedB G2Bc|dedB G2Bc|d2g2 f2g2|A6AB|!
+cdcA F2AB|cdcA F2AB|c2e2 d2F2|G6:|!
+|:g2|b2bb b2a2|g6fg|a2g2 f2g2|e6e2|!
+aaaa a2g2|ffff f2e2|d2^cd e2d2|B6d2|!
+b2bb b2a2|g6fg|a2g2 f2g2|e6e2|!
+aaaa a2g2|ffff f2e2|d2^cd b2a2|g6:|!
+
+X:26
+T:Reel de Minuit
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+AG|F2D2 DFAF|G2E2 E3F|GFGA BGBd|ceAc dBAG|!
+F2D2 DFAF|G2E2 E3F|GFGA BGEG|F2D2 D2:|!
+|:de|f2df edce|dfec dcBA|GBef gfgf|edcB Acde|!
+f2df edce|dfed dcBA|GABc dBAG|F2D2 D2:|!
+
+X:27
+T:Reel de Napoleon
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+GF|EGGc AFAF|EGed Bcdf|ecGc AFAF|EGBd cBc2|!
+EGGc AFAF|EGed Bcdf|ecAc AFAF|EGBd c2:|!
+|:ef|gcac gcea|g2ec Bddf|ecca gedc|BGAB cBce|!
+gcac gcea|g2ec Bddf|ecGc AFAF|EGBd c2:|!
+
+X:28
+T:Reel de Peribonka
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+GABA GEED|FGAG FDD2|GABc dBge|dBAc BGEF|!
+GABA GEED|FGAG FDD2|GABc dBge|dcAc BGG2:|!
+|:dBBA dBBe|dBBA B2Be|dBBA Bdge|dcAc BGGB|!
+dBBA dBBe|dBBA B2GB|dBBA Bdge|dcAc BGG2:|!
+
+X:29
+T:Reel de Portneuf
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Bb
+(3fga|bfdB FBdf|gecB AGFE|DFBc dBed|cf=eg f2ga|!
+bfdB FBdf|gecB AGFE|DFBd cBAc|Bbfd B2:|!
+|:FD|B,DFB dBFD|CEGc ecAc|Bdfd egce|dfBd cAFD|!
+B,DFB dBFD|CEGc ecAc|Bdfd gecA|Bbfd B2:|!
+
+X:30
+T:Reel de Tadoussac
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+GA|B2B2 cBce|d2dc BGBd|cBcA FDFA|eddc BGDG|!
+B2B2 cBce|d2dc BGBd|cBcA FDFA|G2GF G2:|!
+|:Bd|gagf ecge|d2dc BGBd|cBcA FDFA|eddc BGBd|!
+gagf ecge|d2dc BGBd|cBcA FDFA|G2GF G2:|!
+
+X:31
+T:Reel de Ti'Pit
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+g2dB cBAB|ceag fdef|g2dB cBAB|ceAc BGBd|!
+g2dB cBAB|ceag fdef|g2dB cBAB|ceAc BGG2:|!
+|:B2AG BGEF|GABc d2gd|B2AG BGEF|GBAF G2GA|!
+B2AG BGEF|GABc d2gd|B2AG BGEF|GBAF G4:|!
+
+X:32
+T:Reel des Bottes Sauvages
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+FG|ABAG F2A2|f4 d4|ABAG F2A2|f4 d4|!
+e2ef g2ge|dcde fafd|c2c2 egec|d4 d2:|!
+|:df|a2g2 e2ce|g2f2 d4|f2e2 B2c2|dcde f2df|!
+a2g2 e2ce|g2f2 d2dc|B2g2 e2c2|d4 d2:|!
+
+X:33
+T:Reel des Chantiers
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+FG|Adcd Adcd|ecde fdB2|g2f2 ecAc|edcB AGFG|!
+Adcd Adcd|ecde fdB2|g2f2 ecAc|e2d2 d2:|!
+|:FG|ABAG FDFA|BABc d2dB|AFdB AFDF|G2E2 E2FG|!
+ABAG FDFA|BABc d2cd|efed cABc|d2f2 d2:|!
+
+X:34
+T:Reel des Fusilles
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+g3a gfed|eaab agef|gfga gedB|fedc BGG2|!
+g3a gfed|eaab agef|gafg egdB|cedc BGG2:|!
+|:DGBG dGBG|FGAB cAFA|DGBG dGBG|cedc BGG2|!
+DGBG dGBG|FGAB cAFA|DGBG dGBG|Aedc BGG2:|!
+
+X:35
+T:Reel des Habitants
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Am
+EAAB AGAB|cded cBc2|DGGA G^FGA|BcdB cBAG|!
+A4 DAAB|AGAB cde^f|g^fge dBGB|cBAG A4:|!
+|:eagb age^f|g^fga g^fed|eaab age^f|gedB cAA2|!
+eaab age^f|g^fga gedB|g^fge dBGB|cBAG A4:|!
+
+X:36
+T:Reel des Moissonneurs
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+g2|bgdB GBdg|ecAG FAd2|dcAF dcAF|GABc d2g2|!
+bgdB GBdg|ecAG FAd2|dcAF dcAF|G2B2 G2:|!
+K:D
+FG|ABAF ABAG|FAde f2a2|agec agec|defg a2FG|!
+ABAF ABAG|FAde f2a2|agec agec|d2f2 d2:|!
+
+X:37
+T:Reel des Oignons
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+d2|gage d2Bd|c2A2 A4|feee eddd|dccc c2B2|!
+gage d2Bd|c2A2 A4|fgfe dcBA|G2B2 G2:|!
+|:Bc|d2g2 g2fg|a6Bc|d2a2 a2ga|b6Bc|!
+d2g2 g2fg|a6Bc|d2a2 agba|g6:|!
+
+X:38
+T:Reel des Sucres
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+D2|GABc dedB|dedB dedB|cdcA BcBG|ABAF GFED|!
+GABc dedB|dedB dedB|cdcA BcBG|ABAF G2:|!
+|:Bd|gagf gdBd|g2f2 e2d2|cdcA BdBG|ABAF GFED|!
+GABc d2Bd|efge dBGB|cdcA BdBG|ABAF G2:|!
+
+X:39
+T:Reel du Carnaval
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+dc|BcAB G2Bd|gdBd c2Bc|dBcA FAdc|BGdB Aedc|!
+BcAB G2Bd|gdBd c2Bc|dBcA FAdc|BGAF G2:|!
+|:GA|BGBd g2gb|agbg agbg|eaag a2ab|agab g2dc|!
+BGBd g2ga|bgdB c2Bc|dBcA FAdc|BGAF G2:|!
+
+X:40
+T:Reel du Cultivateur
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+EG|c2cc cGce|d2dd dBdf|edce dcBd|cecA G2EG|!
+c2cc cGce|d2dd dBdf|edce dcBd|c2cB c2:|!
+|:GF|EGcG EcGE|FAcA FAcA|GBdB GBdB|cedc BAGF|!
+EGcG EcGE|FAcA FAcA|GBdB GBdB|c2cB c2:|!
+
+X:41
+T:Reel du Goglu
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+fg|afge dfed|cdec ABAG|FAdf gfed|cdec A2fg|!
+afge dfed|cdec ABAG|FAdf gecd|e2d2 d2:|!
+|:cd|eA (3AAA Adfd|eA (3AAA Adfd|gfed fedc|edcB AGFE|!
+DFAc d2cB|Ace^g a2^ga|bagf gecd|e2d2 d2:|!
+
+X:42
+T:Reel du Gueux
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:D
+A|d2dc BGEF|GBEF GABc|d2dc BGEF|GBAG FDFA|!
+d2dc BGEF|GBEF GABc|d2dc BGEF|GBAG FDD:|!
+|:d|Adfd adfd|cdef gefd|Adfd adfd|cdeg fded|!
+d2fd adfd|cdef gefg|afge fdec|dBAG FDD:|!
+
+X:43
+T:Reel du Pecheur
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Bb
+F2|B2Bc BFDF|BcdB cBBd|f2fg fdBd|cAFA cedc|!
+B2Bc BFDF|BcdB cBBd|f2fg fdBd|cAFA B2:|!
+|:de|f2fg fdBd|gagf g2ga|bagf edcB|ABcA F2de|!
+f2fg fdBd|gagf g2ga|bagf edcB|AFcA B2:|!
+
+X:44
+T:Reel du Printemps
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:A
+eg|a2AA cAec|Bcde fefg|a2AA cAeA|fAgA a2eg|!
+a2AA cAec|Bcde fefg|afge fdec|dfec A2:|!
+|:ed|cAEA Acec|Bcde f2ed|cAEA Acec|dfec dBBd|!
+cAEA Acec|Bcde fefg|afge fdec|dfec A2:|!
+
+X:45
+T:Reel du Tricentenaire
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:A
+ed|cAEA cAec|dBGB dBed|cefg afed|cAec d2ed|!
+cAEA cAec|dBGB dBed|cefg afed|cABG A2:|!
+|:eg|a2ab agf2|fbb^a b2fg|afbf afeg|fe^df e2fg|!
+a2ga fece|fBgB aece|fBgB afed|cABG A2:|!
+
+X:46
+T:Reel du Regiment
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:C
+Gc|e2ed cBcA|GAGF EGFE|DGBG dGBG|DGBd gagf|!
+e2ed cBcA|GAGF EGFE|DGBG dGBG|cedB c2:|!
+K:G
+|:Bc|d2dc defg|d2dc defg|B2Bc BAGA|BABc BAGA|!
+d2dc defg|d2dc defg|abag fdef|g2gf g2:|!
+K:C
+AB|c2ec gcea|g2ec BcdB|c2ec gcea|g2ec BcdB|!
+c2ec gcea|g2ec BcdB|c2ec gcea|g2ec Bcdf||!
+
+X:47
+T:Reel du Veterinaire
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:F
+ce|fefa gfga|fcfa gece|fefa gfga|bagf ecce|!
+fefa gfga|fcfa gece|fdcB AFAc|dfeg f2:|!
+|:cB|AFFc AFcF|dFcF BGGB|AFFc AFAc|dfeg fdcB|!
+AFFc AFcF|dFcF BGGB|AFFc AFAc|dfeg f2:|!
+
+X:48
+T:Reel Jaccques-Cartier
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Bb
+FE|DFBF dBFD|EGBG ecAc|Bdfd gfec|BdcB AcBG|!
+DFBF dBFD|EGBG ecAc|Bdfd gfec|Bgfd B2:|!
+|:fe|dfBd cecA|FAcA BcdB|FBdB edcB|Af=eg f2f_e|!
+dfBd cecA|FAcA BcdB|FBdB ecAc|Bgfd B2:|!
+
+X:49
+T:Reel Polo
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+FGAB c2e2|d2G2 BABc|d2ed c2A2|G2B2 B2G2|!
+FGAB c2e2|d2G2 BABc|d2ed c2A2|F2A2 G4:|!
+|:c2e2 gage|d2G2 BABc|d2ed c2A2|G2B2 BAB2|!
+c2e2 gage|d2G2 BABc|d2ed c2A2|F2A2 G4:|!
+
+X:50
+T:Reel Saint-Sauveur
+C:Joseph Allard
+M:2/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:G
+GA|BGFG Bdgd|BgdB cAAc|BGFG Bdgd|egfa gedc|!
+BGFG Bdgd|BgdB cAAc|BGFG Bdgd|egfa g2:|!
+|:BA|BGFG DGBG|FGAB cedc|BGFG DGBG|cedc BGGA|!
+BGFG DGBG|FGAB cedc|BGFG DGBG|cedB G2:|!
+
+X:51
+T:Danse Ecossaise
+C:Joseph Allard
+M:4/4
+L:1/16
+Z:abc by Bruce Osborne - bosborne@kos.net
+K:Am
+^fg|a4e3a c3ae3^f|g4d3g B3gd3g|a4e3a c3ae3^f|g3ed3B B3AA3g|!
+a4e3a c3ae3^f|g4d3g B3gd3g|a3^fg3e ^f3de3d|B3gd3B B3AA2:|!
+|:cd|e3AA3B c3de3d|g4G3A B3AB3d|e3AA3B c3de3d|g4G3A B3AA3a|!
+e3AA3B c3de3d|g4G3A B3AB3d|e3AA3B c3de3d|g4G3A B3AA2:|!

@@ -1,0 +1,418 @@
+%%%%%%%%%%%%
+% Hornpipes
+%%%%%%%%%%%%%
+
+X: 1
+T:Sunshine Hornpipe
+R:hornpipe
+S:Dubliners Album
+Z:Added by alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:A
+|:cd|(3eae (3cec (3AcA EA|CEAc ecAc|
+(3ded (3cdc (3BcB (3ABA| GeFe E2 cd|(3eae (3cec (3AcA EA|
+CEAc defg|(3agf (3edc (3fed (3cBA|(3GAB (3EFG A2 :|
+|:Bc|dBGB EGBc|dBGB d2ga|ec (3cBA EA (3cd^d|
+ec (3Ace a2 ga|fdAd (3fed (3cBA|(3GAB (3AGF E2 cd|
+eafd cABG|Aa (3gec A2:|
+
+X: 2
+T:Blackbird
+R:hornpipe
+D:De Dannan
+Z:B part slightly modified version of Norbeck's
+M:C|
+L:1/8
+K:Dmix
+DE|F2FA GFD2|de (3fed dcAF|G2GF GFDE|FGAF GBAG|
+F2FA GFD2|de (3fed dcAG|AdcA GcAG|F2D2 D2:|
+|:fg|ag (3fed gfe^c|d^cde fdA2|ag (3fed gfeg|fagf e2 (3efg|
+afge fde^c|d2de fdAG|AdcA GcAG|F2D2 D2:|
+
+X: 3
+T:High Level Bridge
+R:Hornpipe
+Z:added by Alf Warnock
+M:4/4
+L:1/8
+K:G
+BA|"G"(3GAB DG B,DGB|dgBd GBAG|"D7"(3ABc FA DFAc|ed^cd ed (3=cBA|
+"G"(3GAB DG B,DGB dgBd GBAG|"C"EFGA Bc^cd|"D7"(3fed (3cBA "G"G2:|
+K:D
+AG|"D"FdAd FdAd|(3FED FA dAFA|"G"BdGd BdGd|(3BAG Bd gdBd|
+"A7"ceAe ceAe|(3cBA ce gece|"D"(3dcd fd "A7"gece|dcde d2:|
+
+X: 4
+T:Glenbeigh Hornpipe
+R:Hornpipe
+C:Trad
+M:4/4
+L:1/8
+K:G
+|:(3DEF|GABc dgfa|g2B2 d2d2|(3cde AB c2c2|
+(3Bcd GA B2BA|GABc dgfa|g2B2 d2d2|(3cde AB cAFG|
+(3ABA G2 G2:: (3ABc|d2b2 c2a2|Bggf gdBG|FGAB cAFA|
+G3A B3c|d2b2 c2a2|Bggf gdBG|FGAB cAFG|(3ABA G2:|
+
+X: 5
+T:Madame Bonaparte
+R:Hornpipe
+C:Alistair Anderson
+S:Nottingham Music Database
+M:4/4
+L:1/8
+K:A % transposed from G
+ed|"A"c2cB cecA|"D"d2dc dfdB|"A"Aceg "F#m"agaf|"Bm"e3f "E7"edcB|
+"A"c2cB cecA|"D"dcde fgaf|"A"ecAc "E7"dBGB|"A"A2AG A2:|
+cB|Aceg "F#m"agaf|"Bm"e3f "E7"edcB|"A"Aceg "F#m"agaf|"Bm"e3f "E7"edcB|
+"A"ceae ceae|"Bm"dfaf dfae|"A"ceae ceae|"E7"Begf gfed|
+"A"ceae ceae|"D"dcde fgaf|"A"ecAc "E7"dBGB|"A"A2AG A2:|
+
+X: 6
+T:Rickett's
+R:Hornpipe
+Z:Added by Alf Warnock
+M:C
+L:1/8
+K:D
+(3ABc|dcdA FAdf|edcB A2g2|fgaf gfed|edcB Agfe|
+dcdA FAdf|edcB A2g2|fafd egec|d2d2 d2:||
+fg|afaf d2ga|bgbg e2fg|afba gfed|edcB Agfe|
+dcdA FAdf|edcB A2g2|fafd egec|d2d2 d2:|
+
+X: 7
+T:Brown Chest
+R:Hornpipe
+B:Feadog Stain
+M:4/4
+L:1/8
+Q:1/4=141
+K:D
+FG|ABAG FAde|fgfe dedA|BcdB ABDE|FEED E2FG|
+ABAG FAde|fgfe dedA|BcdB ABDE|F2D2 D2:|
+|:FG|agfd gfec|dcde fdAF|GABG FADF|EGgf eAce|
+agfd gfec|dcde fdAF|GABG FADA|F2D2 D2:|
+
+X: 8
+T:Little Stack of Wheat
+R:Hornpipe
+M:4/4
+L:1/8
+K:G
+GA|:BGAG EGDE|G2GF GBAG|(3EFG AB cBAG|EAAG A2AB|
+cece BdBd|ABAG EGDG|BGAG EGDE|[1 G2GF G2GA:|[2 G2GF G2 (3ABc||
+d2de dBGA|B2e2 e2ef|gfed BABd|(3efg  (3fga g2ef|
+gbgf efed|BGAG EGDG|BGAG EGDE|[1 G2GF G2 (3ABc:|[2 G2GF G2z|]
+
+X: 9
+T:Boys of Bluehill
+R:hornpipe
+Z:Often followed by Harvest Home as a medley
+M:4/4
+L:1/8
+K:D
+FA|"D"BAFA D2FA|BA (3Bcd "A7"e2de|"D"faaf "G"egfe|"D"dfed "G"B2dA|
+"D"BAFA DAFA|BA (3Bcd "A7"e2de|"D"faaf "A7"egfe|"D"d2d2 d2:|
+fg|"D"afdf a2gf|"A7"efga b2ag|"D"faaf "A7"egfe|"D"dfed "G"B2dA|
+"D"BAFA D2FA|BA "A7"(3Bcd e2de|"D"faaf "A7"egfe|"D"d2d2 d2:|
+
+X: 10
+T:Harvest Home
+R:Hornpipe
+C:Kevin Briggs
+S:Nottingham Music Database
+M:4/4
+L:1/8
+K:D
+AF|"D"DAFA DAFA|defe dcBA|"A"eAfA gAfA|"Em"edcB "A7"AGFE|
+"D"DAFA DAFA|defe dcBA|"A7"eAfA gece|"D"d2f2 d2:|
+cd|"A7"eA (3AAA "D"fA (3AAA|"A7"gA (3AAA "D"fA (3AAA|"A"eAfA gAfA|
+"Em" (3efe  (3dcB "A7" (3ABA  (3GFE|
+"D"DAFA DAFA|defe dcBA|"A7"eAfA gece|"D"d2f2 d2:|
+
+X: 11
+T:Little Stack of Barley
+R:hornpipe
+M:C|
+L:1/8
+K:G
+gf|eged BedB|AGEG AcBA|GFGA BA (3Bcd|eAAG A2 (3Bcd|
+efed BedB|AGEG AcBA|GFGA  (3Bcd Ac|BGGF G2:|
+A|BGBd g2fg|agfg e2d2|g2fg edBd|(3efg dB A3z|
+agfa gedB|AGEG AcBA|GFGA  (3Bcd Ac|BGGF G3:|
+
+X: 12
+T:Flowing Tide
+R:hornpipe
+S:Boys of the Lough
+M:C|
+L:1/8
+K:G
+D|~G3B dGBd|GBdg bgag|(3efg dg Bdge|dBAG edBA|
+~G3B dGBd|GBdg bgag|(3efg dg Bdge|dBAB G3:|
+D|GFGB AGED|gfge dBAG|(3cde Bd ABGB|cABG AG (3EFG|
+DGBd B3d|cABG AG (3EFG|DGBd gdBG|DGFA G3:|
+
+X: 13
+T:Fisher's
+R:hornpipe
+C:BSDB, KCC p22
+S:Nottingham Music Database
+M:4/4
+L:1/8
+K:D
+(3ABc|"D"dAFA "G"GBAG|"D"FAFA "G"GBAG|"D"FDFD "A7"GEGE|"D"FDFD "A7"EA (3ABc|
+"D"dAFA "G"GBAG|"D"FAFA "G"GBAG|"D"FAdA "A7"fedc|"D"d2f2 d2:|
+cd|"A7"ecAc ecge|"D"fdAd fdaf|"A"ecAc ecgf|"E7"edcB "A"A3A|
+"G"BGDG BGdB|"D"AFDF AFdA|"G"BdcB "A7"AGFE|"D"D2F2 D2:|
+
+X: 14
+T:Off to California
+R:Hornpipe
+C:Lesley Dolman
+S:Nottingham Music Database
+M:4/4
+L:1/8
+K:G
+(3DEF|"G"GFGB "D7"AGED|"G"GBdg "C"e2"D7" (3def|"G"gfgd "Em"edBG|"Am"ABAG"D7"E2 (3DEF|
+"G"GFGB "D7"AGED|"G"GBdg "C"e2"D7" (3def|"G"gfgd "Em"edBG|"D7" (3ABA GF"G"G2:|
+(3def|"Em"gfeg "D"fedf|"C"edef "G"edBd|"Em"gfgd edBG|"Am"ABAG "D7"E2 (3DEF|
+"G"GFGB "D7"AGED|"G"GBdg "C"e2"D7" (3def|"G"gfgd "Em"edBG|"D7" (3ABA GF"G"G2:|
+
+X: 15
+T:Rights of Man
+R:hornpipe
+C:KCC p27
+S:Nottingham Music Database
+M:4/4
+L:1/8
+K:Em
+GA|"Em"BcAB GAFG|EFGA B2ef|gfed "G"edBd|"Am"cBAG "B7"A2GA|
+"Em"BcAB GAFG|EFGA B2ef|"Am"gfed "B7"Bgf<g|"Em"e2E2 E2:|
+ga|b^abg efga|b^abg e2fe|"D"d^cde fefg|afdf a2gf|
+"Em"eBeg "D"fdfa|"G"gfga b2ef|"Am"gfed "B7"Bgf<g|"Em"e2E2 E2:|
+
+X: 16
+T:Bobby Casey's
+R:Hornpipe
+S:Kevin Burke (If The Cap Fits)
+M:4/4
+L:1/8
+K:Am
+ed|:cAAB c3d|eaaf gedB|c2cA B2Bc|
+d2de dBGB|AGAB c>d|eaaf gedB|cAAc dBGB|
+(3ABA AB A2:: (3ABc|daa2 aged|daa2 aged|egg2 gedB|
+egg2 gedB|A3B c3d|eaaf gedB|cAAc dBGB|
+(3ABA AB A2:|
+
+X: 17
+T:Wonder
+R:Hornpipe
+M:4/4
+L:1/8
+K:G
+(3DEF|"G"GdBG "D7"FcAF|"G" (3GFG BG D2GF|"C"EGAB cBAG|"D7" (3FED d^c ed (3=cBA|
+"G"GdBG "D7"FcAF|"G" (3GFG BG D2GF|"C"Eedc "D7"BADF|"G"AGGF G2:||
+AG|"D"FAd^c d2AG|FAd^c dfed|"A7" (3B^cd ef gece|"D"d^cde d2=c2|
+"B7"B3A "E7"^GBe2|"A7"A3G "D7"FAd2|"C" (3efg fe "D7" (3ded  (3=cBA|"G"G2 (3AGF G2:|
+
+X: 18
+T:Home Ruler
+R:hornpipe
+Z:Boston sessions
+M:4/4
+L:1/8
+K:D
+FE|"D"D2FA D2FA|dfed "G"BcdB|"D"A3B AFDE|FDED B,DA,B,|
+"D"D2FA D2FA|dfed "G"BcdB|"D"A3B AFDE|F2D2 D2:|
+AB|"D"d3c defg|"D"af"G"bf "D"afed|"Em"efed BA (3Bcd|"D"fded "A7"BdAB|
+"D"d3c defg|"D"af"G"bf "D"afed|"Em"efed BA (3dcB|"A7"AFEF "D"D2:|
+
+X: 19
+T:Kitty's Wedding
+R:hornpipe
+Z:Boston sessions
+M:4/4
+L:1/8
+K:D
+fe|"D"d2Bd A2FA|BAFE DFED|B,DA,D DFBF|"Em"AFDF "A7"E2fe|
+"D"d2Bd A2FA|BAFA D2ED|B,DA,D DFBF|"A7"AFEF "D"D2:|
+fg|"D"afed "G"bafd|"D"Adfd "A7"edBA|"D"DFAd "Bm"FAde|"Em"fdgf "A7"e2fg|
+"D"afed "G"bafd|"D"Adfd "A7"edBA|"D"DFAd "Bm"FAdf|"A7"eABc "D"d2:|
+
+X: 20
+T:Cronin's
+R:hornpipe
+S:Keenan and Glackin
+E:7
+M:C|
+L:1/8
+K:G
+BA|GABd dBde|gage dega|bage dBGA|BAAG AcBA|
+GABd dBde|gage dega|bage dBAB|G2GF G2:|
+|:(3efg|afd^c dega|beed e2ga|(3bag af gedB|BAAG AcBA|
+GABd dBde|gage dega|bage dBAB|G2GF G2:|
+
+X: 21
+T:Walsh's
+R:Hornpipe
+M:4/4
+L:1/8
+K:A
+e2|"A"(3ABc EF Ace2|"D"(3def Bc def2|"A"fece aecA|"E7"(3Bcd cA "F#m"BAF2|
+"A"(3ABc EF Ace2|"D"(3def Bc def2|"A"fece aecA|[1  "E7"(3Bcd "A"cB A2:|[2 "E7"(3Bcd "A"cB A2g2||
+"A"aece fece|aece "E7"fecB|"A"ABce fecA|"E7"(3Bcd cA "F#m"BAF2|
+"A"(3ABc EF Ace2|"D"(3def Bc def2|"A"fece aecA|[1  "E7"(3Bcd cB "A"A2g2:|[2 "E7"(3Bcd "A"cB A2|]
+
+X: 22
+T:Wicklow
+T:Delahunty's
+R:hornpipe
+E:7
+M:C|
+L:1/8
+K:D
+FG|ABAF DEFG|AGAB =c2 (3AB^c|dcde fdAF|DGGF G2FG|
+ABAF DEFG|~A3B =c2 (3AB^c|dcde fdAG|F2D2 D2:|
+de|~f3d ecAF|Gggf g2fg|agab agec|dcAF G2FG|
+ABAF DEFG|~A3B =c2 (3AB^c|dcde fdAG|F2D2 D2:|
+
+X: 23
+T:Black Swan
+R:Hornpipe
+Z:added by Alf Warnock
+M:4/4
+L:1/8
+K:F
+AB|:cFAc dFBd|cFAc f2 (3ef^f|gceg bdag|(3fef  (3gfd cBAB|
+cFAc d<fed|cFAc f2ef|gcbg ecBG|F>efF-F2:|
+ef|:gceg b<ceg|aAcf a2{ga}gf|gc'=ba  (3gag  (3fed|c>cc'c-c2A,B,|
+(3CDC A,C FAc^c|d2DF Bdfb|aAcf  (3efe de|fa (3gfe f2:|
+
+X: 24
+T:Caledonian Laddie
+R:Hornpipe
+S:New Penny Whistle album
+Z:Added by alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:D
+A2|"D"D2DE FDFA|"G"BABd "A7"e2f2|"D"dcBA BdAF|"A7"G2E2 E2F2|
+"D"D2DE FDFA|"G"BABd "A7"e2f2|"D"dcBA "A7"BdAG|"D"F2D2 D2:|
+de|f2fd "G"gfed|"A7"cded A2AA|"Bm"BABc "F#7#5"dcde|"Bm"f2B2 B2 (3dcB|
+"D"A2AB AFGE|D2d2 d2 (3dcB|A2AF "G"BAGF|"A7"G2E2 E2F2|
+"D"D2DE FDFA|"G"BABd "A7"e2f2|"Em"E2EF GEGB|eBef g2ef|
+"G"gfed "A7"edcB|"Em"cBAG "A7"ABcA|"D"d2E2 "A7"FGAG|"D"F2D2 D2||
+
+X: 25
+T:Marquis of Lorne
+R:Hornpipe
+C:Kevin Briggs
+S:Nottingham Music Database
+M:4/4
+L:1/8
+K:G
+ba|"G"gfge B2ed|"Am"cBcA E2AG|"D7"FGAB cedc|"G" Bcde "D7"d2ba|
+"G"gfge "Em"B2ed|"Am"cBcA E2AG|"D7"FGAB cdef|"G"g2b2 g2:|
+Bc|dBgB dBgB|(3dcB gB d2cB|"Am"cafd cafd|cafd "D7"c2Bc|
+"G"(3dcB gB (3dcB gB|(3dcB gB "Em"d2cB|"Am"cafd "D7"^cdef|"G"g2b2 g2:|
+
+X: 26
+T:Kildare Fancy
+R:Hornpipe
+S:Paddy Canny and Peter O'Loughlin, Clare (fiddles)
+H:Played after "The Rights Of Man"
+N:As played (P O'L much the louder)
+B:Matt Cranitch-Irish Fiddle Book
+Z:Bernie Stocks
+M:4/4
+L:1/8
+K:D
+dB|:AFDF AFdB|(3ABA FA fedc|BGBd gefd|(3efe  (3dcB A2dB|
+AFDF AFdB|(3ABA FA fedc|BGBd gefd|[1 ec (3ABc d2dB:|[2 ec (3ABc d2de||
+|:fdcd  (3Bcd AF|Ddcd fdcd|eA (3AAA fA (3AAA|(3efe  (3dcB A2de|
+fdcd  (3Bcd AF|Ddcd fdcd|eAfA gAfA|[1 ec (3ABc d2de:|[2 ec (3ABc  d2dB|]
+
+X: 27
+T:Golden Eagle
+R:Hornpipe
+O:England
+O:Scotland
+O:Ireland
+M:4/4
+L:1/8
+K:F % transposed from G
+(3BAG|FA,CF ACFA|cFAc fagf|edc=B _BGEC|FAGF (3EDC (3BAG|
+FA,CF AcFA|cFAc fagf|edc=B _BGEC|(3FFF FE F2:|
+|:(3aaa|aA^ce agfe|d^cde fef^f|gG=Bd gfed|d=cc=B c2ga|
+bgec =Bcde|fefg afgf|edc=B _BGEC|(3FFF FE F2:|
+
+X: 28
+T:The Smoky Chimney
+R:hornpipe
+M:4/4
+L:1/8
+K:D
+(3ABc|d3e fdAF|GFGA BGE2|ef (3gfe cABc|defd ADFA|
+dcde fdAF|GFGA BGE2|ef (3gfe cABc|dAfe d2:|
+|:de|fefg afdf|gfga bgeg|fgaf defe|(3efe  (3dcB A2Ae|
+fefg afdf|gfga bgeg|afge  (3fed ec|[1 Agfe d2:||[2 Agfe def^g|
+|:a2^g2 a3f|fe^df e2c2|B2^A2 B3^G|[1 EB^GB A2 (3ef^g:||[2 EB^GB A3B|
+|:c2a2 c2Ac|d2b2 B3c|def^g agaf|edcB c2AB|
+c2a2 c2Ac|d2b2 B3c|def^g ag (3agf|[1 edcB A3B:||[2  (3efe  (3dcB A4|]
+
+X: 29
+T:Cross the Fence
+R:hornpipe
+C:Brendan McGlinchey
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:G
+|:GA|"G"~B3G"C" ~c3A|"G"d^cde dBGB|"C"~c3d"G" BGDG|"Am"cA (3BAG "D7"AGFD|
+"G"GDB,D GABc|dgge dBGB|dg (3Bcd "D7"ecAF|"G"AGGF G2:|
+|:AG|"D7"FDA,D FAcA|"G"B~G3 DGBd|"C"ecc2 "G"dBB2|"A"cAag "D7" fdcA|
+"G"D~B3 "C"D~c3|"G"~d3e dBGB|dgBd "D7"ecAF|"G"AGGF G2:|
+|:Bc|dggf g2 bg|dg (3gfg agfg|ea a^g aba=g|fed^c d2 d=c|
+(3Bcd BG (3ABc AF|GDB,D GABc|dg (3Bcd edcF|AG GF G2:|
+
+X: 30
+T:Trumpet
+R:Hornpipe
+C:Captain Pugwash
+M:4/4
+L:1/8
+K:G
+(3DEF| (3"G"GGG G2  (3GGG G2|"G"BGBd gdBG| "D7"(3DDD D2  (3DDD D2|FDFA dAFD|
+(3"G"GGG G2  (3GGG G2|"G"BGBd g2ag|"D"fafd "A7"ege^c|"D"d2d2 "D7"d2:|
+c| "G"(3ddd d2  (3ddd d2|"C"efgf edcB|"Am"cded cBAG|"D7"FGAG FDEF|
+"G"(3GGG G2  "G7"(3=FFF F2| "C"(3EEE E2  "Cm"(3_EEE E2|"D7"D2fe dcBA|"G"G2B2 G2:|
+
+X: 31
+T:Greencastle
+R:hornpipe
+C:John Jones
+M:4/4
+L:1/8
+K:G
+dc|"G"BGDG BGDG|(3gag fg "C"e2dc|"G"BGDG BGDG|"Am"dcB<c "D7"A2dc|
+"G"BGDG BGDG|(3gag fg "C"e2dc|"G"Bdfe "D7"dcAF|"G"G2B2 G2:|
+ga|"Em"bagf efga|bagf e2fg|"D"agfe defg|agfe "D7"d2 (3def|
+"G"gfgd "C"e2"G"d2|"Am"cBAB "D7"cdef|"G"gfgd "D7"ecAF|"G"G2B2G2:|
+
+X: 32
+T:Charlie Lennon's
+T:Planxty Joe Burke
+R:Hornpipe
+D:Kevin Griffin - Down in Doolin
+M:C|
+L:1/8
+K:G
+G,A,B,C DGFG|CGFG B,GFG|G,A,B,C DGFG| cBAG FAdc|
+BDBc dGFG|CGFG B,GFG| FGFG BAGF|[1 GEDB, G,G,G,A, :|[2 GEDB, G,2 dc||
+Bc (3dcB edcB|AB (3cBA dcBA|GABG cBAG| FdAF DCB,A,|
+G,A,B,C DGFG|CGFG B,GFG| FGFG BAGF|[1 GEDB, G,Bdc :|[2 GEDB, G,G,G,A, ||
+
+
+

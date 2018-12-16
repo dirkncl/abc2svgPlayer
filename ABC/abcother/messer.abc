@@ -1,0 +1,1162 @@
+X: 1
+T:Allie Crocker
+R:reel
+M:4/4
+L:1/8
+K:D
+A|:Addc d2df|edcd efga|fddc d2df|edcB AGFE|
+Dddc d2df|edcd efga|fddc d2df|edcd efge||
+faa^g a2af|bagf efg2|Aggf g2gb|agfe def2|
+Addd dccc|cBBB BAAA|Aggf g2gb|afge d2d:|
+
+X: 2
+T:Angus Campbell
+M:2/4
+R:reel
+L:1/16
+K:A
+E2|A2cA EAce|a2ga faec|d2Bd c2Ac|BFBA GEFG|
+A2cA EAce|a2ga faec|defd ceaf|dcdB A2:|
+|:(3efg|a2ea caAa|cAce aAca|ebgb ebgb|gefg agfe|
+a2ea caAa|cAce aecA|defd ceaf|ecdB A2:|
+
+X: 3
+T:Ariel Hornpipe
+R:Hornpipe
+M:2/4
+L:1/16
+K:A
+A2|A,CEA c2BA|BEGB d2cB|cAce aecA|BcdB AGFE|
+A,CEA c2BA|BEGB d2cB|Acea gfdB|A2c2 A2:|
+|:(3efg|aece a2ga|fdBd f2ed|cAce aecA|BcdB AGFE|
+aece a2ga|fdBd f2ed|Acea Begb|gefg a2:|
+
+X: 4
+T:Atkin's Polka No.1
+R:Polka
+M:2/4
+L:1/16
+K:G
+A2|ffff g2f2|f2e2 e^de2|gggg a2g2|g2f2 fef2|
+aaaa b2f2|a2g2 gfe2|AA^GA f2e2|d2d^c d2:|
+K:A
+|:d2|cde2 c'ae2|cde2 c'ae2|d'2c'2 b2a2|g2f2 e2d2|
+cde2 c'ae2|cde2 c'ae2|d'2c'2 b2a2|gefg a2:|
+
+X: 5
+T:Atkin's Polka No.2
+R:Polka
+M:2/4
+L:1/16
+K:D
+A2|DFAd f2d2|d2c2 cBc2|CEGB c2B2|B2A2 A^GA2|
+DFAd f2d2|d2c2 cBc2|CEGB c2c2|d2d2 d2:|
+K:A
+|:e2|f2e2 c3A|E2A2 c3e|f2e2 c3A|E2A2 c3e|
+a2g2 g3a|g2f2 f3a|g2f2 f3g|f2e2 e3e|
+f2e2 c3A|D2A2 c3e|f2e2 c3A|E2A2 c3e|
+a2g2 g3a|g2f2 f3g|f2e2 B3c|A2c2 A2:|
+
+X: 6
+T:Atkin's Polka No.3
+R:Polka
+M:2/4
+L:1/16
+K:D
+B2|A2d2 f3d|d2c2 e3B|A2f2 g3g|f2d2 a3B|
+A2d2 f3e|c2c2 e3c|Aceg gecA|d2d2 d2:|
+K:A
+z2|eee2 fff2|eee2 abc'2|c'b^ab d'2g2|baga c'2a2|
+eee2 fff2|eee2 abc'2|c'b^ab d'2g2|a2a2 a2:|
+
+X: 7
+T:Atkin's Polka No.4
+R:Polka
+M:2/4
+L:1/16
+K:D
+A2|ffff f2e2|(3efe d2 A4|cccc c2B2|(3BcB A2 F4|
+ffff f2e2|(3efe d2 A4|cccc c2fe|d2f2 d2:|
+|:f2|f2e2 d2F2|(3BcB A2 A4|G2E2 c3c|B2A2 f3f|
+f2e2 d2F2|(3BcB A2 A4|G2E2 c3c|d2f2 d2:|
+
+X: 8
+T:Atkin's Polka No.5
+R:Polka
+M:2/4
+L:1/16
+K:D
+A2|a2a2 f2f2|d2d2 A4|f2e2 gfe2|e2d2 fed2|
+a2a2 f2f2|d2d2 A4|f2e2 gfe2|d2f2 d2:|
+K:G
+A2|Bdce d2f2|Bdce d2f2|f3g a2g2|f2e2 d2c2|
+Bdce d2g2|Bdce d2g2|f3g a2f2|g2g2 g2:|
+K:D
+z2|A3B A3G|FAdf a4|gfe2 ede2|fed2 dcd2|
+A3B A3G|FAdf a4|gfe2 edc2|d2f2 d2:|
+
+X: 9
+T:Atlantic Polka (first change)
+R:Polka
+M:2/4
+L:1/16
+K:D
+A2|fdfa g2c2|e2d2 Add2|f2e2 Acef|g2fg fed2|
+fdfa g2c2|e2d2 Add2|f2e2 gece|d2f2 d2:|
+|:z2|A4 F3G|A2fg fed2|g4 e3c|d2fg fed2|
+A4 F3G|A2fg fed2|g4 e3c|d2f2 d2:|
+
+X: 10
+T:Atlantic Polka (second change)
+R:Polka
+M:4/4
+L:1/8
+K:D
+A>d|c2A2 efec|d2A2 f3g|a2g2 edeg|f2d2 A3d|
+c2A2 efec|d2A2 f3g|a2A2 B2c2|d6:|
+|:A2|f8-|f2g2 f2e2|d2cd e2d2|B6B2|
+e6d2|c6c2|B3c B3c|B2A2 F2D2|
+f8-|f2g2 f2e2|d2cd e2d2|B6B2|
+e6d2|c6B2|AA2g f2e2|d6:|
+
+X: 11
+T:Atlantic Polka (third change)
+R:Polka
+M:2/4
+L:1/16
+K:D
+A2|AAFA f2d2|BABd g2e2|cdec A2Bc|defg a4|
+AAFA f2d2|BABd g2e2|cdec A2Bc|d2f2 d2:|
+|:A2|f2a2 f3f|e2g2 B4|cdec A2Bc|ddcB A4|
+f2a2 f3f|e2g2 B4|cdec A2Bc|d2f2 d2:|
+
+X: 12
+T:Away Back
+M:2/4
+L:1/16
+K:A
+(3efg|a2g2 a2e2|fedf ecAc|B2^A2 B2E2|EGBc Aceg|
+a2g2 a2e2|fedf ecAc|B2^A2 B2E2|EGBc A2:|
+|:(3dcB |A2a2 A2a2|fedf ecAc|E2e2 E2e2|ABcd edcB|
+A2a2 A2a2|fedf ecAc|E2e2 E2e2|gefg a2:|
+
+X: 13
+T:Butcher's Row
+M:4/4
+L:1/8
+K:G
+BcdB G2gf|edef gedc|BcdB G2Bd|cBAG F2D2|
+BcdB G2gf|edef gdef|gfge dedc|BGAF G2d2:|
+|:gfga b2b2|abag f2d2|edef gdBd|cBAG F2D2|
+GFGB AGAc|BGBd edef|gfge dedc|BGAF G4:|
+
+X: 14
+T:Carnival Hornpipe
+R:Hornpipe
+M:2/4
+L:1/16
+K:A
+ed|cAcf e2ed|cAcf e2ef|edB2 edB2|egba gfed|
+cAcf e2ed|cAcf e2ef|edBf edBG|A2c2 A2:|
+K:E
+GA|Bege B2GA|Bege B2fg|agfe dcBA|GBAc B2GA|
+Bege B2GA|Bege B2fg|agfe dBcd|e2g2 e2:|
+
+X: 15
+T:Chatagee Reel
+R:reel
+M:4/4
+L:1/8
+K:G
+g>a|b2bg a2af|gbge d2g2|fdAB cBce|dBGA B2ga|
+b2bg a2af|gbge d2g2|fdAB cdef|gagf g2:|
+|:z2|G2GB d2(3gag |efge d2g2|fdAB cBce|dBGA B2BA|
+G2GB d2(3gag |efge d2g2|fdAB cdef|gagf g2:|
+
+X: 16
+T:Churning Butter
+M:2/4
+L:1/16
+K:G
+Bd|b2fa g2fe|d2Bd g2AB|c2Ad f2fe|d2Bd g2Bd|
+b2fa g2fe|d2Bd g2AB|cBAB cdfa|g2b2 g2:|
+K:C
+z2|g4 e2c2|G6AB|c4 a4|g4 fefg|
+a4 f2d2|B4-BcBA|GABc defg|g2ga gec2|
+g4 e2c2|G6AB|c4 _b4|a2g2 a4|
+GABc a2g2|GABc g2c2|Bcdf g2B2|c6:|
+
+X: 17
+T:Clara Polka
+R:Polka
+M:2/4
+L:1/16
+K:G
+Bcd2 Bcd2|g2B2 d4|e2A2 A4|B2G2 G4|
+Bcd2 Bcd2|g2B2 d4|e2AB c2F2|G2B2 G4:|
+K:D
+|:A2f2 fed2|A2c2 e4|A2g2 gfe2|A2d2 f4|
+A2f2 fed2|A2c2 e4|A2g2 gfe2|d2f2 d4:|
+K:G
+|:Bcd2 Bcd2|g2B2 d4|e2A2 A4|B2G2 G4|
+Bcd2 Bcd2|g2B2 d4|e2AB c2F2|G2B2 G4:|
+K:D
+|:f2fe d2f2|e2ed B4|c2cB A2c2|d2f2 A4|
+f2fe d2f2|e2ed B4|c2cB A2c2|d2f2 d4:|
+
+X: 18
+T:Daisy Polka
+R:Polka
+M:2/4
+L:1/16
+K:G
+Bc|d2B2 g3d|f2e2 a3g|f2e2 d2c2|B2e2 d2Bc|
+d2B2 g3d|f2e2 a3g|f2e2 d2ef|g2g2 g2:|
+K:D
+z2|A2^GA B2c2|d2e2 f4|age2 age2|d2b2 a4|
+A2^GA B2c2|d2e2 f4|age2 age2|d2d2 d2:|
+K:G
+Bc|d2B2 g3d|f2e2 a3g|f2e2 d2c2|B2e2 d2Bc|
+d2B2 g3d|f2e2 a3g|f2e2 d2ef|g2g2 g2:|
+K:C
+e2|g2G2 cde2|g2G2 cde2|g2B2 Bcd2|def2 f2G2|
+g2G2 cde2|g2G2 cde2|def2 Bcd2|d2c2 c2:|
+
+X: 19
+T:Dusty Miller's Reel
+R:Reel
+M:4/4
+L:1/8
+K:A
+A2|A,2CE D2FA|E2GB A2cA|BEcE dEcE|BEcB AFEC|
+A,2CE D2FA|E2GB A2ce|fefg agaf|ecBc A2:|
+|:(3efg|a2ga fece|b2bg agfe|gebe gbeg|fe^df e2(3efg|
+a2ga fece|fgag fece|fdge afed|cABG A2:|
+
+X: 20
+R:Reel
+T:Flop-Eared Mule
+M:2/4
+L:1/16
+K:D
+A2|^e2f2 c2d2|ABAF D2F2|EDEF GECE|DEFG A4|
+^e2f2 c2d2|ABAF D2F2|EDEF GABc|d2f2 d2:|
+K:A
+cd|efec efec|efec A2c2|BABc dBGE|ABcd e2cd|
+efec efec|efec A2c2|BABc defg|[c2a2][c2a2] [c2a2]:|
+
+X: 21
+T:Forester's Hornpipe
+R:Hornpipe
+M:2/4
+L:1/16
+K:D
+fg|a^gaf dfba|a^gaf d2cd|eAfA eAfA|edcB A2fg|
+a^gaf dfba|a^gaf d2cd|BGFG Adce|d2f2 d2:|
+|:cd|edcB AGEG|FAdf a2fa|geBg fdAf|edcB A2cd|
+edcB AGEG|FAdf afba|gfed cABc|d2f2 d2:|
+
+X: 22
+T:High Level Hornpipe
+R:Hornpipe
+M:2/4
+L:1/16
+K:Bb
+dc|BdFB DFBd|fbdf BdcB|cecB AFAc|agfa gfdc|
+BdFB DFBd|fbdf BdcB|GABc d=efg|afcA B2:|
+K:F
+cB|Afcf Afcf|AFAc fcAF|dfBf dfBf|dBdf bfdB|
+egcg egcg|eceg bgec|fefa gfeg|f2fe f2:|
+
+X: 23
+T:Honeymoon Hornpipe
+R:Hornpipe
+M:2/4
+L:1/16
+K:G
+dc|B2G2 D2G2|BGBd e2d2|gdBd f2e2|c6B2|
+A2B2 c2d2|efed c2B2|ABcd f2e2|B6dc|
+B2G2 D2G2|BGBd e2d2|gdBG F2G2|e6e2|
+eee2 c2A2|ddd2 B2G2|gecB c2F2|G6:|
+|:B2|A2A2 BcBA|c2e2 d2Bc|d2g2 fed^c|d6Bc|
+d2g2 gfe2|d2g2 B2d2|cBAc e2F2|G6B2|
+A2A2 BcBA|c2e2 d2Bc|d2g2 fed^c|d6Bc|
+d2g2 gfe2|d2g2 B2d2|cBAc e2F2|G6:|
+
+X: 24
+T:Jack Cameron
+M:2/4
+L:1/16
+K:A
+AB|cAce dcBA|cAce fgaf|e^def ecAB|c2B2 B2AB|
+cAce dcBA|cAce fgaf|e^def ecAB|c2A2 A2:|
+|:ce|agab agfe|dcde fagf|ecaf ecAB|c2B2 B2e2|
+agab agfe|dcde fagf|ecaf ecAB|c2A2 A2:|
+
+X: 25
+T:Jacket Trimmed in Blue
+R:polka
+M:2/4
+L:1/8
+K:G
+D|GA/B/ ce|dB B2|de/d/ cA|GB B2|
+GA/B/ ce|dB B2|de/d/ cF|AG G:|
+|:z|de/f/ ge|dB B2|de/d/ cA|GB B2|
+de/f/ ge|dB B2|de/d/ cF|AG G:|
+
+X: 26
+T:Jack Wood Reel
+R:Reel
+M:4/4
+L:1/8
+K:D
+A2|A,2DF Adfg|a2ab afdf|(3gag (3fgf  ecAc|ecac ecAE|
+A,2DF Adfg|a2ab afdf|(3gag ec AABc|d2f2 d2:|
+|:fg|(3aba fd Adfa|(3gag ec Acef|(3aba fd Adfd|e2[c2a2] [c2a2]fg|
+(3aba fd Adfa|(3gag ec Aceg|fafd egec|d2f2 d2:|
+
+X: 27
+T:Jacques Cartier
+M:2/4
+L:1/16
+K:D
+ag|fafd egec|Acec defd|Adfd gfed|ca^gb a3=g|
+fafd egec|Acec defd|Adfd gfed|caec d2:|
+|:AG|FAde fdAF|GBef gece|dfaf bgec|dfed cBAG|
+FAde fdAF|GBef gece|dfaf bgec|daec d2:|
+
+X: 28
+T:Johnny Wagoner's Breakdown
+R:Reel
+M:2/4
+L:1/16
+K:C
+gf|e[c2e2][ce] [c2e2][c2e2]|cdef gedc|[GB][G2B2][GB] [G2B2][G2B2]|GABc d2gf|
+e[c2e2][ce] [c2e2][c2e2]|cdef gfeg|fgab aged|[c2e2][ce][ce] [c2e2]:|
+|:GF|E[C2E2][CE] [C2E2][C2E2]|EGAB cdcB|A[F2A2][FA] [F2A2][F2A2]|FGAB cBAG|
+E[C2E2][CE] [C2E2][C2E2]|EGAB cdeg|fgab aged|[c2e2][ce][ce] [c2e2]:|
+
+X: 29
+T:Kitchen Reel
+R:Reel
+M:4/4
+L:1/8
+K:A
+ed|cAce a2e2|fgaf e2c2|cAce afec|d2B2 B2ed|
+cAce a2e2|fgaf e2c2|ceae gabg|a2a2 a2:|
+|:b2|c'4 c'2b2|a6c2|dcde f2d2|B6e2|
+b4 b2a2|g6e2|d2e2 f2e2|c6e2|
+c'4 c'2b2|a6c2|A2c2 e2a2|f6d2|
+BBdd f2a2|AAcc e2a2|BABc defg|a2a2 a2:|
+
+X: 30
+T:Leventine's Barrel
+M:2/4
+L:1/16
+K:D
+fe|dfAd f2fe|d2ba ^gafd|ceAc eAce|defg a2fe|
+dfAd f2fe|d2ba ^gafd|ceAc eAce|d2f2 d2:|
+|:A2|B2c2 d2cB|BA^GA F2ed|ceAc eAce|defg a2A2|
+B2c2 d2cB|BA^GA F2ed|ceAc eAce|d2f2 d2:|
+
+X: 31
+T:Little Black Moustache
+M:4/4
+L:1/8
+K:D
+AG|FDFG A2dc|BGBd g2ag|fedf edcA|BcdA BdAG|
+FDFG A2dc|BGBd g2ag|fedf edce|d2f2 d2:|
+|:A2|f4 a4-|a2ba ^g2a2|f4 f4-|f2e/fa/ g2f2|
+e4 B4-|B2ed cABc|d8-|d2A2 F2A2|
+f4 a4-|a2ba ^g2a2|f4 f4-|f2e/fa/ g2f2|
+e4 B4-|B2ed cABc|d2cB AGFE|D6:|
+
+X: 32
+T:Little Judique Reel
+R:Reel
+M:2/4
+L:1/16
+K:D
+fg|a^gab a2f2|d2A2 A2fg|a^gab a2f2|d4 e3f|
+gfga g2e2|c2A2 A2ef|gfga g2e2|c4 f3g|
+a^gab a2f2|d2A2 A2fg|a^gab a2f2|d4 g3a|
+b2gb a2fa|g2eg f2ed|c2A2 a2c2|d6:|
+K:A
+cd|e4 e3f|e2c2 B2A2|agab a2f2|e4 f3g|
+a3b a3f|e2c2 a3f|e2c2 B2A2|B4 c2d2|
+e4 e3f|e2c2 B2A2|agab a2f2|e4 f3g|
+a3b a3f|e2c2 a3f|e2c2 B2c2|A6:|
+
+X: 33
+T:Macdougall's Polka
+R:Polka
+M:4/4
+L:1/8
+K:A
+E2|AAEA c2Ac|eece a3e|g2f2 fede|f2e2 edcB|
+AAEA c2Ac|eece a3e|g2f2 edcB|A2c2 A2:|
+K:E
+GA|B2g2 g3B|A2f2 f3e|e2d2 d2A2|c2B2 BAGA|
+B2g2 g3B|A2f2 f3e|e2d2 a2d2|e4 e2:|
+
+X: 34
+T:Mackilmoyle Reel
+R:Reel
+M:2/4
+L:1/16
+K:D
+Ad|fdfd cdec|dBAF DFAc|BGBG FGAF|EA,A,E DFAd|
+fdfd cdec|dBAF DFAc|BGBd cAce|d2f2 d2:|
+|:d2|cdef gfg2|Aceg a^ga2|edef gfge|dfed cBA2|
+Acef gfg2|Aceg a^ga2|Acef gfge|Acec d2:|
+d2|:
+
+X: 35
+T:Mississippi Sawyer
+R:Reel
+M:2/4
+L:1/16
+K:D
+fg|a2af a2af|a2af abaf|g2ge g2ge|g2ge gage|
+f2fe defe|defg a2ag|fedf edce|d2f2 d2:|
+|:dB|Adfd Adfd|Adfg abaf|Acec Acec|Acef gage|
+Adfd Adfd|Adfg abag|fedf edce|d2f2 d2:|
+
+X: 36
+T:Montreal Reel
+R:Reel
+M:2/4
+L:1/16
+K:G
+d2|gfga g2f2|e^def e2=d2|cBcd c2B2|A6f2|
+a^gab a2=g2|fefg f2e2|d^cd^d e2f2|g6:|
+|:B2|D2D2 G2B2|d6^cd|e2d2 B2G2|F6FE|
+D2F2 A2c2|e6de|f2e2 c2F2|GFGA G2:|
+
+X: 37
+T:Mother's Reel
+R:Reel
+M:4/4
+L:1/8
+K:C
+g>f|e2ed cBcA|GAGF EGFE|DGBG dGBG|DGBd gagf|
+e2ed cBcA|GAGF EGFE|DGBG dGAB|cedB c2:|
+K:G
+Bc|d2d^c defg|d2d^c defg|B2Bc BAGA|BcBA B2Bc|
+d2d^c defg|d2d^c defg|abag fdef|gagf g2:|
+K:C
+(3GAB ||c2ec gcea|ggec BcdB|c2ec gcea|ggec BcdB|
+c2ec gcea|ggec BcdB|c2ec gcea|ggec BcdB||
+
+X: 38
+T:Mouth of the Tobique
+R:Reel
+M:2/4
+L:1/16
+K:G
+(3DEF |GFGA Bded|BdBG DGBG|AGFE DFAc|BdBG DG(3DEF |
+GFGA Bded|BdBG DGBG|AGFE DFAc|BGGG G2:|
+|:ef|gfga gfeg|fdAd fagf|eGFE DFAc|BGBc d2ef|
+gfga gfeg|fdAd fagf|eGFE DFAc|BGGG G2:|
+
+X: 39
+T:New Brunswick Breakdown
+R:Reel
+M:2/4
+L:1/16
+K:C
+e2|:g^fga g2e2|cBcd c2A2|G^FGA BAGB|a2g2 g4|
+g^fga g2e2|cBcd c2A2|G^FGA BGAB|c2cc c2z2:|
+|:G2GG G2AB|c2c2 c2Bc|d2d2 d2cd|eag^f g4|
+G2GG G2AB|c2c2 c2Bc|d2Ac BAG2|c2cc c2z2:|
+
+X: 40
+T:North Shore Breakdown
+R:Reel
+M:2/4
+L:1/16
+K:D
+(3ABc |d2d2 dABc|d2d2 dABc|dcde fedc|B2G2 G2cd|
+e2e2 eAcd|e2e2 eAcd|efed cABc|d2f2 d2:|
+|:fg|abaf d2Ad|cBBB B2ef|gage c2Ac|BAAA A2fg|
+abaf d2Ad|cBBB B2ef|gage cABc|d2f2 d2:|
+
+X: 41
+T:Nova Scotia Polka
+R:Polka
+M:4/4
+L:1/8
+K:A
+cd|efec Acea|g2f2 f2Bc|dedc Bcde|f2e2 c2cd|
+efec Acea|g2f2 b2ba|gagf edcB|A2c2 A2:|
+|:e2|c2e2 edef|e2d2 dcBc|d2f2 fefg|f2e2 c3d|
+e2f2 g2a2|a2g2 gfga|g2f2 fefg|f2e2 e3d|
+c2e2 edef|e2d2 dcBc|d2f2 fefg|f2e2 c3d|
+e2f2 g2a2|b2a2 f3a|gagf edcB|A2c2 A2:|
+
+X: 42
+T:On The Road to Boston
+R:Reel
+M:2/4
+L:1/8
+K:D
+A|f2 fe/f/|gf ed|cd ef|dA FA|
+f2 fe/f/|gf ed|cd ef|d2 d:|
+|:f|a2 ag/a/|ba gf|g2 gf/g/|ag fe|
+f2 fe/f/|gf ed|cd ef|d3:|
+
+X: 43
+T:Parry Sound Reel
+R:Reel
+M:2/4
+L:1/16
+K:G
+Bc|d2b2 a2g2|d4-dcBA|G2B2 d2f2|a4 e4|
+e2c'2 c'2e2|f6e2|dedc B2^A2|B6Bc|
+d2b2 a2g2|d4-dcBA|G2B2 d2f2|a4 e4|
+e2c'2 c'2e2|f6e2|dedc A2B2|G6:|
+|:Bc|d2G2 B2Bc|d2G2 B2G2|FGAB cBcd|ed^ce d=cB=c|
+d2G2 B2Bc|d2G2 B2G2|FGAB cAFA|G2B2 G2:|
+
+X: 44
+T:Pincushion Polka
+R:Polka
+M:2/4
+L:1/16
+K:C
+e2|efg2 gag2|c'2e2 g4|a2d2 f4|g2c2 e4|
+efg2 gag2|c'2e2 g4|a2d2 f2B2|c2e2 c2:|
+K:G
+z2|d2d2 c'4|b2b2 g4|abc'2 d2f2|g2b2 d4|
+d2d2 c'4|b2b2 g4|abc'2 d2g2|a2g2 g2:|
+K:C
+z2|efg2 gag2|c'2e2 g4|a2d2 f4|g2c2 e4|
+efg2 gag2|c'2e2 g4|a2d2 f2B2|c2e2 c2:|
+K:F
+z2|C2F2 F2A2|BcBA GAB2|C2G2 G2AG|F2d2 c4|
+C2F2 F2A2|BcBA GAB2|C2G2 G2AG|F2A2 F2:|
+
+X: 45
+T:Popcorn Reel
+R:Reel
+M:2/4
+L:1/16
+K:E
+c|B2GB EBGB|EBGB cFFc|B2GB EBGB|Bcef geec|
+B2GB EBGB|EBGB cFFc|B2GB EBGB|Bcef gee:|
+|:e|Bege bege|bege aff2|Bege bege|Bcef gee2|
+Bege bege|bege aff2|gbfg e2ec|Bcef gee:|
+
+X: 46
+T:Pork and Beans
+M:2/4
+L:1/16
+K:G
+Bc|d2B2 g2B2|d2cd cBA2|c2A2 d2A2|c2Bc BAG2|
+d2B2 g2B2|f2e2 edef|e2d2 f2a2|g2b2 g2:|
+K:D
+|:B2|ABAG F2A2|fefg f4|efed c2e2|a^gab a4|
+ABAG F2A2|fefg f4|e2ce a2c2|e2d2 d2:|
+
+X: 47
+T:Prince Albert Hornpipe
+R:Hornpipe
+M:2/4
+L:1/16
+K:D
+fg|afdf ecAc|dcdB A2FG|Adcd Be^de|c2A2 A2fg|
+afdf ecAc|dcdB A2dc|Bcde (3fga ec|d2f2 d2:|
+|:cd|efge cABc|dcde f2ef|gaba gfed|c2e2 e2fg|
+afdf ecAc|dcdB A2dc|Bcde fdec|d2f2 d2:|
+
+X: 48
+T:Quebec Reel
+R:Reel
+M:2/4
+L:1/16
+K:D
+A2|FAdA FAdf|e2ee e3d|cecA BcBA|F6A2|
+FAdA FAdf|e2ee e3d|cecB Acec|d2dc d2:|
+|:b2|a2fd Adfa|g2gg g3g|bgec Acec|dAdf a2b2|
+a2fd Adfa|gfga g3g|bgec Acec|d2dc d2:|
+
+X: 49
+T:Rambler's Hornpipe
+R:Reel
+M:2/4
+L:1/16
+K:D
+(3ABc |d2cd BdAF|DFAd f2ed|cdef gece|defd A2(3ABc |
+d2cd BdAF|DFAd f2ed|cdef gece|d2f2 d2:|
+K:A
+|:cd|efec c2A2|AEAc e2dc|B=GBd =gfed|cAce a2cd|
+efed c2A2|AEAc e2dc|B=GBd =gfed|c2A2 A2:|
+
+X: 50
+T:Reilly's Own Reel
+R:Reel
+M:2/4
+L:1/16
+K:G
+D2|DGGG G2GG|G2ed ^cdBG|DFAA A2AA|A2ed ^cdBG|
+DGGG G2GG|G2ed ^cdBG|FADF A2FA|G2B2 G2:|
+|:d2|e2f2 g2fe|ed^cd B2AG|FADF A2FA|G2ed ^cdBG|
+e2f2 g2fe|ed^cd B2AG|FADF A2FA|G2B2 G2:|
+
+X: 51
+T:Saint Anne's Reel
+R:Reel
+M:2/4
+L:1/16
+K:D
+A2|f2fg fedB|A2FG AFAd|BGGF G2FG|BAAG A2de|
+f2fg fedB|A2FG AFAd|BGBd cAce|dfec d2:|
+|:ag|fdfa fdfa|aggf g2gf|edcB ABce|baa^g a2a=g|
+fdfa fdfa|aggf g2gf|edcB ABce|fdec d2:|
+
+X: 52
+T:Saturday Night Breakdown
+R:Reel
+M:2/4
+L:1/16
+K:C
+ef|g2ef age2|c2G2 E4|FGFE DEFG|AGG^F G2ef|
+g2ef age2|c2G2 E2G2|FEFG dcBd|c2e2 c2:|
+|:EG|c2G2 EFGE|c2G2 E2G2|FGFE DEFG|AGG^F G2AB|
+c2G2 EFGE|c2G2 E2G2|FEFG dcBd|c2e2 c2:|
+
+X: 53
+T:Snow Shoer's Reel
+R:Reel
+M:2/4
+L:1/16
+K:F
+c2|:f2cf a2gf|eceg bgeg|f2cf a2gf|edcB AFF2|
+f2cf a2gf|eceg bgeg|f2cf a2gf|edcB AFF2:|
+|:AFcF AFGA|Bcdc BAGB|AFcF AFGA|BdcB AFF2|
+AFcF AFGA|Bcdc BAGB|AFcF AFGA|BdcB AFF2:|
+
+X: 54
+T:Stacks of Barley
+R:Hornpipe
+M:2/4
+L:1/16
+K:G
+gf|efed BcdB|A2AG AcBA|G2GA BABd|e2A2 A2gf|
+efed BcdB|A2AG AcBA|G2GA BdAc|B2G2 G2:|
+|:dc|BGBd g2fg|agfg edBd|g2fg ed^cd|e2A2 A2fg|
+a2(3fgf  ed^cd|e2A2 AcBA|GFGA BdAc|B2G2 G2:|
+
+
+X: 55
+T:St.Clair Hornpipe
+R:Hornpipe
+M:2/4
+L:1/16
+K:D
+AG|FADF Adcd|edcd e2ef|gfed edcB|ABAG F2AG|
+FADF Adcd|edcd e2ef|gfed cABc|d2f2 d2:|
+|:FG|A^GAF DFAF|GABc edcB|A^GAF DFAF|GFED E2FG|
+A^GAF DFAF|GABc edcB|ABAF AGFE|D2F2 D2:|
+
+X: 56
+T:The Chamberlain Reel
+R:Reel
+M:2/4
+L:1/16
+K:D
+AG|FDDD DFAd|BGGG G2ed|cAAA Aceg|fddd d2AG|
+FDDD DFAd|BGGG G2ed|cAAA Aceg|fddd d2:|
+|:f2|gagf g2fg|abaf d2f2|edef gece|defg a3f|
+gagf g2fg|abaf d2f2|edef gece|dfec d2:|
+
+X: 57
+T:The Farmer's Reel
+R:Reel
+M:4/4
+L:1/8
+K:G
+d>c|BGBd BGBd|gfge dBGB|ecdB cABG|E2A2 A2dc|
+BGBd BGBd|gfge dBGB|ecdB cABG|D2G2 G2:|
+|:g2|dgBg dgBg|dgba gfed|ea^ca ea^ca|e2ag fed^c|
+dgBg dgBg|dgba gfed|faba gfef|g2g2 g2:|
+|:B>c|dBgB dgBg|ecgc egce|dBgB dgBd|AGFE D2Bc|
+dBgB dgBd|ecgc egce|dBGB cAFA|G2B2 G2:|
+
+X: 58
+T:The Fargo Polka
+R:Polka
+M:2/4
+L:1/16
+K:D
+A2|:A2FA d2F2|A2G2 B2z2|A2ce a2c2|e2d2 f2z2|
+A2FA d2F2|A2G2 B2z2|A2ce a2c2|d2f2 d2z2:|
+|:fgfe d2ef|g2fg B2z2|g2ge c2eg|b2a2 a^ga2|
+fgfe d2ef|g2fg B2z2|g2ge cABc|d2f2 d2z2:|
+
+X: 59
+T:The Fundy Polka
+R:Polka
+M:2/4
+L:1/16
+K:D
+FG|A2FA f2ef|e2d2 A4|B2^AB g2fg|f2e2 e2FG|
+A2FA f2ef|e2d2 A4|B2^AB gfga|b2a2 d2:|
+|:B2|A2d2 a2^ga|b2a2 e3f|gfed cABc|dAdf a3B|
+A2d2 a2^ga|b2a2 e3f|gfed cABc|d2f2 d2:|
+
+X: 60
+T:The Golden Rooster
+M:4/4
+L:1/8
+K:G
+D2|DGGF GABG|EAA^G ABcA|FDFA d3c|BcAB GDB,C|
+DGGF GABG|EAA^G ABcA|FDFA d3c|BGAF G2:|
+K:D
+FG|AAFA dded|BBGB eefe|ccAc egfe|dcBA GEFG|
+AAFA dded|BBGB eefg|afdA gecA|d2f2 d2:|
+
+X: 61
+T:The Griffin Hornpipe
+R:Hornpipe
+M:4/4
+L:1/8
+K:D
+AG|FAd2 d2ef|gec2 c2Ac|dcdc dfed|cdBc ABAG|
+FAd2 d2ef|gec2 c2Ac|dfaf bgec|d2f2 d2:|
+|:fg|a2fd A2ef|g2ec A2ef|gege fdfd|cdBc ABAG|
+FAd2 d2ef|gec2 c2Ac|dfaf bgec|d2f2 d2:|
+
+X: 62
+T:The Minstrel's Fancy
+R:Hornpipe
+M:4/4
+L:1/8
+K:D
+F>G|AFAd BGBd|AFAd f2e>d|cegf edcd|(3efe (3dcB  A2F>G|
+AFAd BGBd|AFAd f2e>d|cegf edce|d2f2 d2:|
+|:e>f|gfge cABc|dcde f2e>f|gfge cABc|(3efe (3dcB  A2F>G|
+AFAd BGBd|AFAd f2e>d|cegf edce|d2f2 d2:|
+
+X: 63
+T:The Old Man and The Old Woman
+R:reel
+M:2/4
+L:1/16
+K:G
+Bc|dedB GBdB|cdcB A2g2|fgfe dfaf|gage d2Bc|
+dedB GBdB|cdcB A2g2|fgfe dfaf|gfga g2:|
+|:Bc|dg2g g2Bc|df2f f2AB|ce2e e2dB|GABc d2Bc|
+dg2g g2Bc|df2f f2AB|ce2e e2dc|BGAF G2:|
+
+X: 64
+T:The Plough Boy Reel
+R:reel
+M:2/4
+L:1/8
+K:D
+a/g/|fa df|B_B Ad|c/d/e/f/ ga|f/a/g/f/ ea/g/|
+fa df|B_B Ad|c/d/e/f/ gc|df d:|
+K:A
+a|gg g/e/f/g/|aa a>a|gg g/e/f/g/|aa a>a|
+gg g/e/f/g/|ae fd|cB eG|A3:|
+
+X: 65
+T:Tommy Sullivan's Hornpipe
+R:Hornpipe
+M:2/4
+L:1/16
+K:D
+FG|Adfd Adfd|Adge B2ed|cdec A2Bc|defd A2FG|
+Adfd Adfd|Adge B2ed|cdec AABc|d2f2 d2:|
+|:FG|A2f2 fgfe|B2g2 g3e|cdec A2Bc|defd A2FG|
+A2f2 fgfe|B2g2 g3e|cdec AABc|d2f2 d2:|
+
+X: 66
+T:Turkey in the Straw
+R:reel
+M:2/4
+L:1/16
+K:D
+fe|dcde dAFG|ABAF A2de|f2fg fede|feef e2fe|
+dcde dAFG|ABAF A2de|fa2b afde|fddc d2:|
+|:f2|fa2f a2a2|fa2f a4|gb2g b2b2|gb2g b2bc'|
+d'2d'2 a2a2|fgfd e2de|fa2b afde|fddc d2:|
+
+X: 67
+T:Victory Breakdown
+R:reel
+C:Don Messer
+M:2/4
+L:1/16
+K:D
+A2|A,DFA BAFA|dcdf edAF|GABG FAFA|GFED CDE2|
+A,DFA BAFA|dcdf ecAF|GABG FAdf|edce d2:|
+|:(3a^ga |fafd Adcd|Bdef g3f|eece aece|defg a2(3a^ga |
+fafd Adcd|Bdef g3f|eece aece|d2f2 d2:|
+
+X: 68
+T:Violetta Hornpipe
+R:Hornpipe
+M:2/4
+L:1/16
+K:D
+FG|A^GAB Adfd|Bdgf edcB|A^GAB AFDF|EDEF E2FG|
+A^GAB Adfd|Bdgf edcB|Adfd Bgec|d2f2 d2:|
+|:cd|e^def gecA|dcde fdAd|ggff edcd|(3efe (3dcB  A2FG|
+A^GAB Adfd|Bdgf edcB|Adfd Bgec|d2f2 d2:|
+
+X: 69
+T:Walker Street Reel
+R:reel
+M:2/4
+L:1/16
+K:G
+D2|G2BG dGBG|ABcd cBAG|Bdgd egdB|cBAG FADF|
+G2BG dGBG|ABcd cBAG|Bdgd egdc|BGAF G2:|
+|:ef|g2dg Bgdg|gabg agef|g2dg Bgdg|cBAG FADF|
+g2dg Bgdg|gabg agef|gfga gfed|egfa g2:|
+
+X: 70
+T:Winnipeg Reel
+R:reel
+M:2/4
+L:1/16
+K:D
+AG|FA2F ABAF|GB2B B2ed|cAce aece|defd A2AG|
+FA2F ABAF|GB2B B2ed|cAce aece|d2f2 d2:|
+|:fg|a2f2 dcde|gfed B4|gfed cABc|defd A2fg|
+a2f2 dcde|gfed B4|gfed cABc|d2f2 d2:|
+
+X: 71
+T:Woodchopper's Breakdown
+R:reel
+C:Ned Landry
+M:2/4
+L:1/16
+K:D
+fg|afdB AdFA|DFAd f2ef|(3gfe cB Aceg|a^gab a2f=g|
+afdB AdFA|DFAd f2ef|(3gfe cB Acec|dfec d2:|
+|:FE|DFAd (3BdB AF|DFAd (3BdBA2|A,CEA ceaf|gfed cBAF|
+DFAd (3BdB AF|DFAd (3BdBA2|A,CEA ceaf|(3gfe cA d2:|
+
+X: 72
+T:Andy's Jig
+R:jig
+M:6/8
+L:1/8
+K:C
+D|EDE CEG|FGF Ddc|BdB GAB|cBA G2F|
+EDE CEG|FEF Ddc|BdB GAB|c3 c2:|
+|:e|g^fa g2e|cBA G2G|cBc ABc|ed^c d2e|
+g^fa g2e|cBA G2A|BdB GAB|c3 c2:|
+
+X: 73
+T:Goose Feathers
+R:jig
+M:6/8
+L:1/8
+K:G
+d|gfg d^cd|B^AB GFG|DFA cBA|GBe def|
+gfg d^cd|B^AB GFG|DFA cBA|G3 G2:|
+K:D
+A|a2z a2z|a^gb afd|Ace gfe|dfb a2A|
+a2z a2z|a^gb afd|Ace gfe|d3 d2:|
+
+X: 74
+T:Bell's Favorite Jig
+R:jig
+M:6/8
+L:1/8
+K:D
+A|FEF GFG|BAF A2d|cde ABc|dcB A2G|
+FEF GFG|BAF A2d|cde ABc|d3 d2:|
+|:f|aba fdf|gfg e2d|cde ABc|dcB A2f|
+aba fdf|gfg e2d|cde ABc|d3 d2:|
+
+X: 75
+T:Blackberry Quadrille
+R:jig
+M:6/8
+L:1/8
+K:D
+f/g/|a2a ba^g|a2f d2f|e2c A3/2f/g|fdB A3/2f/g|
+a2a ba^g|a2f d2f|e2c ABc|d3 d2:|
+|:F/G/|A2B G2A|F2A def|g2e c2e|dfe dcB|
+A2B G2A|F2A def|g2e ABc|d3 d2:|
+
+X: 76
+T:Captain White
+R:jig
+M:6/8
+L:1/8
+K:D
+A|DFA d2f|edc B2d|A2d F2B|AGF E2F|
+DFA d2f|edc B2d|A2d F2d|ABc d2:|
+|:f|e^de A2f|e^de a2f|efe dcB|A2B c2f|
+e^de A2f|e^de a2f|efe dcB|ABA GFE|
+D2f fef|d2A A2A|A2f fef|g2e e2e|
+A2f fef|d2A A2A|Bcd edc|d3 d2:|
+
+X: 77
+T:Major Mackie's Jig
+R:jig
+M:6/8
+L:1/8
+K:D
+A|ABc dcd|B2e e2d|c2a a^ga|f2d d2d|
+ABc dcd|B2e e2d|c2a gec|d3 d2:|
+|:A|f2f def|g3-g2g/f/|e2e cde|f3-f2A|
+d2d def|g2B e2d|c2a gec|d3 d2:|
+
+X: 78
+T:First Western Change
+R:jig
+M:6/8
+L:1/8
+K:G
+d|gba gfe|d2B GBd|d^cd F2d|d^cd GBd|
+gba gfe|d2B GBd|d^cd DEF|G3 G2:|
+K:D
+A|AFA B2A|FGA f2f|g2f agf|ece a^ga|
+AFA B2A|FGA f3|gfg ABc|d3 d2:|
+
+X: 79
+T:The Harvey Jig
+R:jig
+M:6/8
+L:1/8
+K:D
+A|ABA F2A|dcd f2a|e2f gfe|cde dcB|
+ABA F2A|dcd f2a|e2f gec|d3 d2:|
+|:(3e/f/g/|aba faf|dcB A2G|FDF AGF|E3 E2e|
+gag efe|dcB A2 (3e/f/g/|aba gfe|d3 d2:|
+
+X: 80
+T:Honest John
+R:jig
+M:6/8
+L:1/8
+K:G
+d|b3 a3|gfg B3|cBc ABc|ed^c d3|
+b3 a3|gfg B3|cBc DEF|G3 G2:|
+K:D
+E|DFA DFA|DFA a3|gfg ABc|ecB AFD|
+DFA DFA|DFA a3|gfg ABc|d3 d2:|
+
+X: 81
+T:Joys of Wedlock
+R:jig
+M:6/8
+L:1/8
+K:G
+D|GAG GBd|gfe d2c|Bdg dBG|FAA A2D|
+GAG GBd|gfe d2c|BdB cAF|AGG G2:|
+|:c|Bdg dBG|Bdg d2c|Bdg dBG|FAA A2c|
+Bdd def|gfe fed|BdB cAF|AGG G2:|
+
+X: 82
+T:The Poppy Jig
+R:jig
+M:6/8
+L:1/8
+K:C
+A/B/|c2G E2A|G2E C3|B,CD G,A,B,|C2A G2A/B/|
+c2G E2A|G2E C3|B,CD G,A,B,|C3 C2:|
+K:G
+B,/C/|D2G B2G|E2G c2A|F2d d^cd|edB G2B,/C/|
+D2G B2G|E2G c2A|F2A DEF|G3 G2:|
+
+X: 83
+R:jig
+T:The Rustler's Jig
+M:6/8
+L:1/8
+K:D
+f/g/|a2d' f2a|d2f A2d|cBc ABc|gfa g2e/f/|
+g2b e2g|c2e A2a|c'ba gfe|d3 d2:|
+K:A
+A|cd^d efg|a2e c'2a|gab efg|acf e2A|
+cd^d efg|a2e c'2a|gab efg|a3 a2:|
+
+X: 84
+T:Londonderry Clog
+R:Hornpipe
+M:4/4
+L:1/8
+K:D
+A>G|F2A>d f>dA>F|G2B>d g>dB>G|F2A>d f>dA>F|E2G>B e>cA>G|
+F2A>d f>dA>F|G2B>d g2a>g|f>af>d B>ge>c|d2f2 d2:|
+|:f>g|a2f>d A>df>a|g2e>c A>ce>g|a2f>d A>dg>f|(3efd (3cdB A2f>g|
+a2f>d A>df>a|g>fe>f g2a>g|f>af>d B>ge>c|d2f2 d2:|
+
+X: 85
+T:Newcastle Hill Clog
+R:Hornpipe
+M:4/4
+L:1/8
+K:Bb
+d>c|B2B,2 (3dcB (3AGF|E2g2 g2f>e|d>fB>d c>eA>c|B>ba>g f>ed>c|
+B2B,2 (3dcB (3AGF|E2g2 g2f>e|d>fB>d c>eA>c|B>AB>c B2:|
+|:D>C|B,>DF>B d>fb>a|g>^fg>a g2C>B,|A,>CF>A c>fa>g|f>=ef>g f2D>C|
+B,>DF>B d>fb>a|g>^fg>a g>de>=e|f>ef>g f>ec>A|B>AB>c B2:|
+
+
+X: 86
+T:Tableau Clog
+R:Hornpipe
+M:4/4
+L:1/8
+K:G
+(3def|a>gd>B A>GB>d|f>ec>A E2_E2|D>FA>g f>ed>e|B>c^c>d e>de>f|
+a>gd>B A>GB>d|f>ec>A E2_E2|D>FA>g f>dA>d|G2B2 G2:|
+K:D
+B>_B|A>gB>^B c>ba>g|f>ad>f B>Af>d|c>eA>c G>Ac>B|A>B (3cde f>dA>F|
+A>gB>^B c>ba>g|f>ad>f B>Af>d|c>Bg>e (3dcB (3ABc|d2f2 d2:|
+
+X: 87
+T:Dry River Waltz
+R:Waltz
+M:3/4
+L:1/8
+K:G
+Bc|:d4^cd|c2B2A2|G3 AGF|G2B2c2|
+d4^cd|e2d2B2|A3 BA^G|A2d2c2|
+B3 cBA|B2A2G2|e6-|e2f2g2|
+f6|f2e2d2|g3 agf|g2B2d2:|
+b4b2|b2g2e2|d3 ed^c|d2B2d2|
+f6-|f2e2f2|a2g2e2|d2B2G2|
+b4b2|b2g2e2|d3 ed^c|d2f3g|
+a6|c'2b2a2|g3 agf|g6:|
+
+X: 88
+T:The Dawn Waltz
+R:Waltz
+M:3/4
+L:1/8
+K:Bb
+(3Bc^c|d4g2|f4d'2|d4g2|(3fgf d2B2|
+A2c3A|G2A2F2|B3 ABg|f6|
+d4g2|f4d'2|d4g2|(3fgf d2B2|
+A2c3A|G2A2c2|B3 ABc|B4:|
+|:B2|F2B2d2|f2=e2f2|g4f2|e6|
+F2A2c2|f2=e2f2|g4f2|d6|
+F2B2d2|f2=e2f2|g4f2|e6|
+F2A2c2|f2e2c2|B3 ABc|B4:|
+
+X: 89
+T:Norwegian Waltz
+R:Waltz
+M:3/4
+L:1/8
+K:G
+dc|B2D2G2|B3 cdB|c2E2G2|c6|
+D2F2A2|d2e2f2|g3 fga|g4:|
+|:ga|b2g2g2|g4AB|c2e2e2|e6|
+d2f2a2|d2f2a2|d3 edc|B4ga|
+b2g2g2|g4AB|c2e2e2|e6|
+d2f2a2|d2f2a2|d2e2f2|g4:|
+
+X: 90
+T:Scenes From the Findland Woods
+R:Waltz
+M:3/4
+L:1/8
+K:D
+D3 FAd|f3 dAF|G3 FGe|B6|
+a3 gec|A3 ceg|f3 dAF|d6|
+D3 FAd|f3 dAF|G3 FGe|B6|
+a3 gec|A3 gfe|d3 edc|d6:|
+|:f2e2f2|g2f2e2|d3 cdb|a6|
+a3 gec|A3 ceg|f3 dAF|d4e2|
+f2e2f2|g2f2e2|d3 cdb|a6|
+age age|age age|a2b2c'2|d'6:|
+
+X: 91
+T:Balkin Hills Schottische
+M:2/4
+L:1/16
+K:D
+ag|fAfe d2A2|BGdB A2de|fAAa gfed|f2e2 e2ag|
+fAfe d2A2|BGdB A2de|faga gecA|d2f2 d2:|
+|:fg|adfa f2ed|BGdB A2fg|adfa gfed|f2e2 e2fg|
+adfa f2ed|BGdB A2de|faga gecA|d2f2 d2:|
+|:AB|d2e2 f2ed|BGdB A2de|fAAa gfed|f2e2 e2AB|
+d2e2 f2ed|BGdB A2de|faga gecA|d2f2 d2:|
+
+X: 92
+T:Rochester Schottische
+M:4/4
+L:1/8
+K:C
+g/a/g/^f/|a>ge>d c>B (3cde|d2A2 A3c|B2F2 F>EF>B|A2G2 G2g/a/g/^f/|
+a>ge>d c>B (3cde|d2A2 A3c|B>G^F>G e>dB>G|c2e2 c2:|
+|:E>F|(3G^FG (3cBc (3e^de (3g^fg|f2A2 A3c|B2F2 F>EF>B|A2G2 G2E>F|
+(3G^FG (3cBc (3e^de (3g^fg|f2A2 A2A>c|B>G^F>G e>dB>G|c2e2 c2:|
+
+X: 93
+T:Honeysuckle Schottische
+M:4/4
+L:1/8
+K:F
+=B,2|C>D (3FAc f2f2|e>fe>f d2=B,2|C>D (3EFG e2e2|d>ed>A c>d (3cAF|
+C>D (3FAc f2f2|e>fe>f d2=B,2|C>D (3EFG e2d2|(3cdc (3BAG F2:|
+|:F2|A2A2 B2=B2|c6A>B|c2=B>c d>c_B>A|G6C2|
+G2G2 A2B2|d6c/=Bc/|b>ge>c =B>cd>c|A>d^c>d (3=cd=c (3AFD|
+A2A2 B2=B2|c6A>B|c2=B>c d>c_B>A|G6C2|
+G2G2 A2B2|d6c/=Bc/|b>ae>c (3cdc (3BAG|F6:|
+
+X: 94
+T:Belledune Quickstep
+M:2/4
+L:1/16
+K:D
+(3ABc|d2c2 B2A2|F6 (3ABc|d2cd e2d2|B6cd|
+e2d2 c2B2|c4 cdcB|A2g2 f2e2|d6:|
+|:AF|D2FA DAFA|G2BG dGBG|A2ce Aece|dfed cBAF|
+D2FA DAFA|G2BG dGBG|Acef gece|d2f2 d2:|
+
+X: 95
+T:White River Stomp
+M:4/4
+L:1/8
+K:F
+(3G,A,B,|C>DE2 FGAc|d2^c2 =c2 (3G,A,B,|C>DE2 FGAA|c2=B2 _B2 (3G,A,C|
+C>DE2 FGAA|e2_e2 d4|c>dc2 B>A^G2|A6 (3G,A,B,|
+C>DE2 FGAc|d2^c2 =c2 (3G,A,B,|C>DE2 FGAA|c2=B2 _B2 (3G,A,C|
+C>DE2 FGAA|e2_e2 d4|f>gf2 d>cA2|F4 z2CD|
+E2c2 E2c2|E2c3dcA|F2A2 F2A2|F2A3dcA|
+E2c2 E2c2|E2c3dcA|F2A2 F2A2|F2A3cde|
+f>ef2 a2g2|f>ed2 c2A>B|c<aa2 f2g2|f6z2|
+b4 g4|e>ge2 c4|a>^ga2 f>ef2|cdcA F4|
+b4 g4|e>ge2 c4|a>ga2 f>ef2|cdcA F2D>_E|
+E2c2 E2c2|E2c3dcA|F2A2 F2A2|F2A3dcA|
+E2c2 E2c2|E2c3dcA|F2A2 F2A2|F2A3cde|
+f>ef2 a2g2|f>ed2 c2A>B|c>aa2 f2g2|f4 z2:|
+
+X: 96
+T:Silver And Gold Two-Step
+M:4/4
+L:1/8
+K:D
+fg|a4 f2d2|A4 d2f2|a2g4f2|g4 e2f2|
+g4 e2c2|A4 c2e2|b2a4^g2|a4 f2g2|
+a4 f2d2|A4 d2f2|a2g4f2|g4 e2f2|
+g4 e2c2|A4 c2e2|d4-dedc|d6:|
+|:FG|A2f2 A2f2|A2f2 f2g2|f2e4-e^d|e4 E3F|
+G2e2 G2e2|G2e2 e2f2|e2d4-dc|d4 F2G2|
+A2f2 A2f2|A2f2 f2g2|a4 g2e2|B4 c2d2|
+f2e4c2|A4 c2e2|d4-dedc|d6:|
+
+X: 97
+T:Macdonald's March
+M:2/4
+L:1/16
+K:A
+ed|c2Bc A2A2|cAce a2ef|=g2ae =g2de|=gdBA =GAB=G|
+c2Bc A2A2|cAce a2ef|=gdBA =GABd|c2A2 A2:|
+|:e2|AAa2 =g2ea|=gefe a2ef|=g2ae =g2de|=gdBA =GAB=G|
+AAa2 =gea2|=gefe a2ef|=gdBA =GABd|c2A2 A2:|
+|:E2|ABcd eaec|ABcd ecA2|=GABc d=gdB|=GABc dB=G2|
+ABcd eaea|=gefe a2ef|=gdBA =GABd|c2A2 A2:|
+

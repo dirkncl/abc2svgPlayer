@@ -1,0 +1,1460 @@
+X: 101
+T:Gentleman Soldier
+R:jig
+N:This is a song from a Dubliner's album
+M:6/8
+L:1/8
+K:D
+|"D"f2f A2B|d2e f2d|"A7"efe d2c|"D"d3 d2e|
+f2f A2B|d2e f2d|"A7"efe d2c|"D"d3 d2e|
+f2f f2d|"A7"e2e f2e|"G"d2d dcB|"A7"A3 A2a|
+"D"a2A A2A|d2e f2d|"A7"efe d2c|"D"d3 d2e|
+"Chorus"f2f fed|"A7"efe efe|"G"d2d dcB|"A7"A3 A2a|
+"D"a2A A2A|d2e f2d|"A7"efe d2c|"D"d3 d2z|]
+
+X: 102
+T:Rattlin' Roarin' Willie
+R:Slip jig
+O:Scotland
+M:9/8
+L:1/8
+K:AMix
+|"A" ecA ABA cef|"G"{ef}g2d BGB d2f|"A"ecA ABA ceg|aga c2d e2f/g/|
+aga ecA cef|"G"{ef}g2d BGB d2f|"A"ece f2e fae|cAc "G"B2G "A"A2f||
+"A"ecA acA ecA|"G"BGB gdB d2f|"A"ecA acA ecA|{b}agf ecA e2f/g/|
+{b}agf ecA cef|"G"gfg BGB d2B|"A"ABA c2A cea|cAc "G"BGB "A"A2z|]
+
+X: 103
+T:Banks of the Quay
+R:Polka
+M:4/4
+L:1/4
+K:G
+|:DGB>B|cAB2|BA/G/FG|AGFE|
+DGB>B|cAB2|BA/G/FG|AGG>F:|
+d2d>d|edd>B|AGFG|[1AGG>B|d2d>d|
+edd>B|AGFG|AGG>B:|[2AGFE|DGB>B|cAB2|
+BA/G/FG|AGG>F:|
+
+X: 104
+T:Crucaharan Cross
+R:Polka
+M:4/4
+L:1/4
+K:G
+B/A/|:GdBd|G>AGe|dBB/A/G/A/|BAAB/A/|
+GdBd|G>AGe|dBAB/A/|G2Gz:|
+|:e>d e/f/g|G>AGe|dB B/A/G/A/|BAAd|
+e>d e/f/g|G>AGe|dBAB/A/|G2Gz:
+
+X: 105
+T:Barren Rocks of Aden, The
+R:March
+N:ACCW added 4th part from Jim Chalmers music
+Z:<cfalt@trytel.com> www.trytel.com/~cfalt/Fiddle/The_List.abc
+M:2/4
+L:1/8
+K:D
+d/2e/2|"D"f>gfe|dfAd|"A7"ceAe|"D"fAde|
+f>gfe|dfAd|"A7"ceAe|"D"d2d:|
+f/2g/2|:"D"a>fdf|"A7"efA(e/2f/2)|gece|"D"dfA(f/2g/2)|
+a>fdf|"A7"efA(e/2f/2)|gece|"D"d2d f/2g/2:|
+L:1/16
+:afdf afdf|"A7"e2f2A2(ef)|gece gece|"D"d2f2A2(fg)|afdf afdf|
+"A7"e2f2A2(ef)|g2e2c2e2|"D"d4d4::afdA Afdf|afdA Afdf|
+gecA Aece|gecA Aece|afdA Afdf|afdA Afdf|gecA Aeca|
+d4d2z2:|
+
+X: 106
+T:Bear Island Reel
+T:R'il Bheara
+R:reel
+S:Session
+Z:From Mel Bay's Irish Tune Book.  Added by Alf.warnock@rogers.com
+M:C|
+L:1/8
+K:Edor
+EB^GB A^GEc|dBcA Beec|d2fd AFDF|GEFD EDB,D|
+~E3F GFGA|BAGA (3Bcd ef|g2fg efge|[1 dBAF E3D:|[2 dBAF E3A||
+|:Beef ga/g/fe|dBAG FDD2|Beef gefd|Be^df e3f|
+edBc decd|BcdB AFDF|GB~B2 AGFA|GEFD E4|]
+
+X: 107
+T:Altan reel from Liz Carroll
+S:Liz Carroll, Boston 1999 Gaelic Roots
+Z:alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:A
+ed|"A"cBAc "E7"BGED|"A"CEAc e2fg|aece gaec|"Bm"dcBA "E7"GBed|
+"A"cBAc "E7"BGED|"A"CEAc e2fg|aece gaec|[1 "E7"A/2B/2AGB "A"A3d:|[2 "E7"A/2B/2AGB "A"Aagf||
+"A"eccB ceag|"D"fddc dfaf|"A"eccB ceaf|ecBA "E7"BEGB|
+"A"eccB ceag|"D"fddc dfaf|"A"e/2f/2ece "E7"dBGB|[1 "A"Aaec Aagf:|[2"A"Aaec A2 ed|
+
+X: 108
+T:Paddy Canny's Jig
+T:The Caves of Killarney
+S:Liz Carroll, Boston 1999, Gaelic Roots
+Z:alf.warnock@rogers.com, Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:F
+"Gm"DGA B2c|dgf dcA|BDd cBA|"Dm"BAG FDC|
+"Gm"DGA B2c|dgf dcA|"Dm"BDd cBA|"Gm"BDF G2:|
+"Gm"Gga bag|"D7"a^fd c=Bc|"G"=BDd cBA|"D7"=BAG A^FD|[1 "Gm"Gga bag|
+"D7"a^fd c=Bc|"Gm"dba "D7"g^fd|gd^f "Gm"g3:|[2 "Gm"BDB c2c|"D7"dba g^fd|
+"Gm"BDd "D7"cBA|BDF "Gm"G2A[|"Gm"BGd BGd|"F"AFc AFc|
+"Gm"BGd BGB|"Dm"daf "Gm"g2a|"Gm"bag agf|[1 "Dm"dgf dcA|"Gm"BDd cBA|
+"Dm"BDF "Gm"G2A:|[2 "Dm"gfd cBA|"Gm"BDd cBA|"Dm"BDF "Gm"G3|]
+
+X: 109
+T:Tom Doherty's
+S:Liz Carroll, Boston 1999, Gaelic Roots
+Z:alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:C
+"Dm"A2FA DAFA|AGAB cdcB|A2FA DAFA|"C"GECE GAcB|
+"Dm"A2FA DAFA|AGAB c2Bc|"G"dB"F"cA "Em"BG"D"A^F|"C"GECE GABc:|
+"Dm"dD (3DDD AD (3DDD|dD (3DDD "C"c2Bc|"Dm"dD (3DDD AG^FA|"C"GECE GABc|
+"Dm"dD (3DDD AD (3DDD|dD (3DDD "C"c2Bc|"G"dB"F"cA "Em"BG"D"A^F|"C"GECE GABc:|
+P:B2
+dD (3DDD fD (3DDD|dD (3DDD c2Bc|dD (3DDD AG^FA|GECE GABc|
+dD (3DDD fD (3DDD|dD (3DDD c2Bc|dBcA BGA^F|GECE GABc:|
+P:B3
+dD (3DDD fD (3DDD|gD (3DDD aD (3DDD|dD (3DDD AG^FA|GECE GABc|
+dAeA fAgA|aAAB c2Bc|dBcA BGA^F|GECE GABc:|
+d4|]
+
+X: 110
+T:Farmer's Jamboree Jig
+R:Jig
+S:from Derek Wilson
+M:6/8
+L:1/8
+K:A
+(cd)|:efe dcB|A2c E2A|cBc edc|B3 (Bcd)|
+efe dcB|A2c E2e|gfe dcB|A3 (Acd):|
+|:ece (a2g)|fdf (b2a)|gfe def|e3 (ecd)|
+ece (a2g)|fdf (b2a)|gfe dcB|[1A3 (Acd):|[2(A3A)|]
+
+X: 111
+T:Baby Brat
+C:Jerry Holland
+B:Jerry Holland's Collection of fiddle tunes
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:G
+|:"G"G,B,D GDB,|"Am"A,CE AEC|"Bm"B,DG BGD|"D7"EDC B,CA,|
+"G"G,B,D GDB,|"Am"A,CE AEC|"Bm"B,DG BGD|"D7"CB,A, "G"G,2z:|
+"G"DGG Bdg|"Em"bag dcB|"Am"Aaa bag|"D7"gfa gdc|
+"G"DGG Bdg|"Em"bag dcB|"Am"Aaa bag|"D7"fef "G"g2z:|
+
+X: 112
+T:The Dionne Reel
+R:Reel
+S:from Nathan Curry
+Z:a five part reel named for the Dionne quintuplets. Played ABABCCDDEE.
+Z:Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:C|
+L:1/8
+K:D
+P:A
+|Adfd gdfd|Adfd ed (3Bcd|Adfd gdfd|efec d2(3dcB|
+Adfd gdfd|Adfd ed (3Bcd|Adfd gdfd|efec d2fg|]
+P:B
+|afbf afde|fded Bcde|afbf afde|fdec d2fg|
+afbf afde|fded Bcde|afbf afde|fded d2|
+P:C
+A|~B2AG BGAG|BGAG EFGA|~B2AG BGAG|EGFA G3:|
+P:D
+|:F2Ad fdAF|G2Bd ~g3B|ABce gece|defg afdA|
+F2Ad fdAF|G2Bd ~g3B|ABce gece|[1 dfec dBAG:|[2 dfec defg|]
+P:E
+|:a2fd afda|g2e=c gefg|a2fd afda|[1 gece defg:|[2 gece d3B:|
+
+X: 113
+T:Reel de Sauvagesse
+R:Reel
+S:Pierre Schryer
+N:The two beat bar at the end is not an error. That's how they play it.
+N:Follow with Reel a Remi.
+Z:Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs from Pierre's handwritten copy.
+M:C|
+L:1/8
+K:A
+a3f|:"$"ec (3ABc dB (3cBA|EA(3cBA dB(3cBA|ce(3efg aecA|[1 GBBd cAaf:|[2 GBBd cAAd||
+"@"GBBd cBA=G|]|f2ed "tr"f2ed|ffed Bcde|f3g aecA|
+GBBd cAAd|[d2f2]ed fded|fded Bcde|f3g a2ga|
+faea caBg|a2 "D.S. al @"(3fga|]
+
+X: 114
+T:Reel a R\'emi
+R:reel
+S:Pierre Schryer
+N:Follow with Reel de l'Enfant
+Z:Alf -> Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs from Pierre's handwritten copy
+M:C|
+L:1/8
+K:D
+FD (3DDD DFAd|BG"tr"GF G2ed|cA (3AAA Aceg|[1 fddc dBAG:|[2 fdec d2ef
+|:g2{a}gf g2b2|abaf dfaf|"tr"gece Aceg|[1 fd"tr"dc d^def:|[2 fd"tr"dc dBAG|]
+
+X: 115
+T:Reel du Printemps
+R:Reel
+C:Trad.
+S:Pierre Schryer
+Z:Alf -> Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs from Pierre's handwritten copy
+M:C|
+L:1/8
+K:A
+e=g^g|:aAAA cAec|Bcde fefg|aAAA cAeA|fAgA a2(3efg|
+aAce aece|Bcde fefg|[1 aaga faec|dfec Ac(3efg:|[2 afge faec|dfec A2ed
+|:cAEA cAec|Bcde f2ed|cAEA Acec|dfec dBBd|
+cAEA Acec|Bcde fefg|[1 aaga faec|dfec A2ed:|[2 afge faec|dfec A2zA|
+|:EAcA EAcA|GABc dBBA|GBEB GBEB|GBEB A3A|
+EAcA EAcA|GABc defg|[1 aaga faec|dfec AzAz:|[2 abga faec|dBGBA2z2|]
+
+X: 116
+T:Reel de L'Enfant
+R:Reel
+C:Trad.
+S:The Schryer Triplets
+N:Coda leads to Reel du Printemp
+Z:Alf -> Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs from Pierre's handwritten copy
+M:2/4
+L:1/16
+K:G
+d|gfgb afdg|ecdc BGBd|"tr"gfgb afdf|egfa g2d2|
+"tr"gfgb afdg|ecdc BGBd|bgaf gedB|ceAc BGG2||
+GDB,D DGBG|cGBG AGAB|GDB,D DGBG|ceAc BGG2|
+GDB,D DGBG|"@"cGBG AGAB|GDB,D DGBG|ceAc BGG2||
+"@"cGBG AGA_B|Bdgb afdf|egfa gz|]
+
+X: 117
+T:Setting a course for Lewis
+R:Waltz
+Z:Alf Warnock - Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:G
+B>c|"G"d3c BA|"Em"G4D2|"C"EG3G2|"G"ED3B>c|
+d3c BA|"Em"G4D2|"C"Ec3B2|"D7"A4B>c|
+"G"d3c BA|"Em"G4D2|"C"EG3G2|"G"ED3D2|
+"C"E4G2|"G"D4 B>c|"D"d2B2A2|"G"G4 G>F||
+"C"E4G2|"G"D4D2|"C"EG3G2|"G"ED3D2|
+"C"E4G2|"G"D4AB|"Am"c4B>A|"D7"A4c2|
+"Em"B4 A>G|B3c dD|"C"Dc3E2|"G"ED3D2|
+"C"E3F GE|"G"D4Bc|"D7"d2BGA2|"G"G4z2|
+
+X: 118
+T: Da Slockit Light
+M:4/4
+R:air
+C:Tom Anderson
+L:1/8
+Z:added by Alf warnock alf0@rogers.com - www.alfwarnock.info/alfs
+K:D
+FE|"D"D3F "F#m"A2d2|"Bm"fedc "D"d2A2|"G"B2d2 "D"A2d2|"Em"BAGF "A7"EGFE|
+"D"D3F "F#m/C#"A2d2|"D6"fedc "D"d2A2|"G"B2G2 "A7"A[GA][FA][EA]|"D"[A,6D6]FE|
+"D"D3F "F#m/C#"A2d2|"Bm"fedc "D"d2A2|"G"B2d2 "D"A2d2|"Em"BAGF "A7"EGFE|
+"D"D3F "F#m/C#"A2d2|"Bm"fedc "D"d2A2|"G"B2G2 "A7"A[GA][FA][EA]|"D"[A,6D6]zg||
+"D"f2a2 "A7"e3c|"G"d3e "A7"dcBA|"D"f2a2 "E7"e2^g2|"A7"a6g2|
+"D"f2a2 "A7"e3c|"G"d3e "A7"dcBA|"G"B2G2 "A7"AGFE|"D"D6zg|
+"D"f2a2 "A7"e3c|"G"d3e dcBA|"G"B2d2 "D"A2d2|"Em"BAGF "A7"EGFE|
+"D"D3F "F#m/C#"A2d2|"Bb+"fedc "D"d2A2|"G"B2G2 "A7"A[GA][FA][EA]|"D"[A,8D8]|]
+
+X: 119
+T:Da Slockit Light 2nd Part
+C:Ellen Thomas
+Z:Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs from photocopy
+M:4/4
+L:1/8
+K:D
+FE|A,3D F2A2|dcAG F2D2|G2B2 F2A2|GFED A,4|
+A,3D F2A2|dcAG F2D2|G,4 A,3C|[A,6D6]:|
+g|d2A2 c3E|G4 FEDC|D4 ^G3E|C2A,2 B,2C2|
+D4 A4|G6GF|G2B,2 A,B,A,C|DA,B,G, A,4|
+D4 C4|B,6GF|G2B2 F2A2|GFED A,4|
+A,3D F2A2|^A4 F2D2|G,4 A,3C|[A,8D8]|]
+
+X: 120
+T:Sourgrass & Granite
+R:Waltz
+C:Brian Pickell
+S:Denis Sprott via Pierre Schryer CD
+Z:Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:D
+FE|"D"DA, DF Ad|"A"c3d eg|"D"f2 d2 A2|"G"B3G D2|
+"G"B3c d2|"D"F3G A2|[1 "Em"Bc dA F2|"A"E3G FE:|[2 "Em"Bc dF "A7"E2|"D"D3c de||
+"Bm"fB Bc d2|"A"eA AB c2|"G"d2 c2 B2|"D"A4 FD|
+"G"B2 BA FA|"D"D3F Ad|[1 "E9"f2 fe df|"A"e3c "D"de:|[2 "E9"f2 fe "A7"dc|"D"d6|]
+
+X: 121
+T:La Valse des Jeunes Filles
+R:Waltz
+C:Trad.
+S:The Waltz Book
+Z:Added by alf.warnock@rogers.com
+M:3/4
+L:1/8
+K:D
+dcBA|:F2FEDE|F2dcBA|F2FEDF|G3FGA|
+B2BAGF|E3FGA|BABcBA|[1 F2dcBA:|[2 d2DFAd||
+c2cBAB|DFBFAF|EBEcEc|d2DFAd|
+c2cBAB|DFBFAF|EAEcEc|[1 d2DFAd:|[2 d4 d2|]
+
+X: 122
+T:La Valse des Jouets
+R:Waltz
+C:Michel Faubert
+S:The Waltz Book
+Z:Added by alf.warnock@rogers.com
+M:3/4
+L:1/8
+K:D
+|:fe fg fe|dB AFD2|fe fg fe|dB AFD2|
+ed ef ed|c3 d cB|AE AB cA|dB AF Ad||
+fe fg fe|dB AFD2|fe fg fe|dB AF D2|
+ed ef ed|c3 d cB|AB AG FE|[1 D3 F Ad:|[2 D3 d dc||
+dA FA dA|B3 d dB|cA Bc de|f3 f df|
+bf df bf|g3 e ed|ce Ac ae|f3 d dc|
+BF FB BF|G3 e ed|cB AG FE|F4F2|
+GF GA Bc|de f3f|ge ce BA|[1 d3 d dc:|[2 d3 F Ad|]
+
+X: 123
+T:Hakki's Polka
+R:Polka
+C:Tom Anderson 1978
+Z:Added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:D
+DE|"D"F2A/2F3/2 "G"G2B/2G3/2|"D"A2f/2d3/2 A3F|"Em"G2B/2G3/2 "A7"A,2CE|"D"D2DE F2DE|
+"D"F2A/2F3/2 "G"G2B/2G3/2|"D"A2f/2d3/2 A3F|"Em"G2B/2G3/2 "A7"A,2C/2E3/2|[1 "D"D4 D2:|[2 "D"D4 D2fg||
+"D"a2af "Bm"d2df|"Em"e2ec "A7"A2Ac|"D"d2de "Bm"f2ed|"A7"edcB A2fg|
+"D"a2af "Bm"d2df|"Em"e2ec "A7"A2A/2F3/2|"G"G2B/2G3/2 "A7"A,2C/2E3/2|"D"D6fg|
+"D"a2af "Bm"d2df|"Em"e2ec "A7"A2Ac|"D"d2de "Bm"f2ed|"A7"edcB AGFE|
+"D"F2A/2F3/2 "G"G2B/2G3/2|"D"A2f/2d3/2 A3F|"G"G2B/2G3/2 "A7"A,2C/2E3/2|"D"D6|]
+
+X: 124
+T:Hakki's Polka 2nd part
+R:Polka
+Z:Added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:D
+DE|"D"D2F/2D3/2 "G"E2G/2E3/2|"D"F2A/2F3/2 D3F|"Em"E2G/2E3/2 "A7"A2AG|"D"F2DE D2A,C|
+"D"D2F/2F3/2 "G"E2G/2G3/2|"D"F2A/2F3/2 D3F|"Em"E2G/2E3/2 "A7"A2A/2F3/2|[1 "D"D4 D2:|[2 "D"D4 D2de||
+"D"f2fd "Bm"A2Ad|"Em"c2cA "A7"E2EA|"D"d2dc "Bm"d2dc|"A7"cBAG E2de|
+"D"f2fd "Bm"A2Ad|"Em"c2cA "A7"E2F/2D3/2|"G"E2G/2E3/2 "A7"A,2C/2E3/2|"D"D6de|
+"D"f2fd "Bm"A2Ad|"Em"c2cA "A7"E2EA|"D"d2dc "Bm"d2cB|"A7"cBAG E2DE|
+"D"D2F/2D3/2 "G"E2G/2E3/2|"D"F2A/2F3/2 D3F|"G"E2G/2E3/2 "A7"A2A/2G3/2|"D"D6DE|]
+
+X: 125
+T:Down the Lane
+R:Jig
+C:Niall Vallely
+Z:Added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:D
+|:afd afd|cde Ace|gfe bag|fge d2f/g/|
+afd afd|cde Ace|gfe bag|fge d3:|
+|:e2e Ace|f2f def|g2g efg|f2f def|
+e2e Ace|f2f def|gfe bag|fge d3:|
+
+X: 126
+T:Betty Gluaistean
+R:Jig
+C:Niall Vallely
+Z:Added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:A
+:e2c AEC|DFB GBd|cAG AEC|DBA GFE|
+e2c AEC|DFB GBd|cea fde|cEG A3:|
+K:E
+B2B dfa|geb gec|B2B fga|ged edc|
+B2B dfa|geb geg|aa/a/a gfe|[1 fbb/b/b b2z:|[2 ff/f/f fed|
+]
+
+X: 127
+T:Reel du Pendu
+R:reel
+Z:entered by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:G
+|"G"DEGA B2B2|BcBA B2B2|DEGA B2B2|"D7"ABAF "G"G2G2:|
+"D7"A/2A/2AA2 A/2A/2AA2|A/2A/2AB2 c2B2|A/2A/2AB2 c2B2|A2F2 "G".G2 z2:|
+"G"DB,CD "C"ECDE|"G"DCB,G, "D7"A,2A,2|"G"DB,CD "C"ECDE|"D7"DCB,A, "G"G,2G,2:|
+"G shot"z4 B2B2|BcBA .B2 z2|"G shot"z4 B2B2|ABAF .G2 z2:|
+
+X: 128
+T:Wae's Me for Prince Charlie
+R:song
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:D
+"D"A2AB d3f|"G"BABd "A"e3f|"D"A3B "Bm"dfed|"Em"B4 "A7"A4|
+"A"e3f a3b|"D"afef d3f|"A"e2fg a2g2|"Em"f4 "A"e3d|
+e3f a3b|"D"afed "A"e2f2|"D"A3B "Bm"dfed|"Em"B4 "A7"A4|
+]
+
+X: 129
+T:Aiken Drum
+S:via PR
+M:4/4
+L:1/4
+Z:transposed from A by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+K:D
+d/2e/2|"D"ff g/2f/2e/2d/2|"G"B2 d3/2B/2|"D"A3/2B/2 dA|"E7"fe "A7"ed/2e/2|
+"D"ff g/2f/2e/2d/2|"G"B2 d3/2B/2|"A7"AA Bc|"D"d3:|
+|:d/2e/2|"D"ff fe/2d/2|"G"gg b3/2g/2|"D"fa fd|"Em"fe "A7"ed/2e/2|
+"D"ff g/2f/2e/2d/2|"G"B2 d3/2B/2|"A7"AA Bc|"D"d3:|
+
+X: 130
+T:The Humors of Bandon.
+R:Jig
+C:J. O'Neill.
+B:Krassen O'Neill's Music of Ireland
+Z:Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:G
+D|DGG GFG|A2G FGA|~B3 GFG|Ade fef|
+~d2 e c2 d|BAG FGA|BAG FEF|~G3 G2:|
+B|:d2g gfg|a2g fga|g2f d2e|fed c2e|
+d2c Bcd|cBA G2B|A2G FGA|GFE FDC|
+DGG GFG|A2G FGA|BGG GFG|Ade fef|
+ded c2d|BAG FGA|B/c/dB cAF|[1 ~G3 G2B:|[2 G3 G2|
+]
+
+X: 131
+T:The King's Jig
+R:jig
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:G
+|"G"G2G AGA|Bcd efg|GFG AGA|"Em"BGE E2D|
+"G"G2G AGA|Bcd efg|"D7"dcB AGA|[1 "G"BGE G2D:|[2 "G"BGE GBd||
+"Em"gfg e2e|edB def|"G"gfg "Am"aga|"G"bag "Em"e2f|
+"G"gfg "Am"a2a|"G"bag "Em"efg|"D7"dcB AGA|[1 "G"AGE GBd:|[2 "G"AGE G2E||
+"G"DGG BGG|AGG BGG|"C"efg dcB|"D7"AGA AGE|
+"G"DGG BGG|AGG BGG|"C"efg dcB|[1 "D7"AGE "G"G2E:|[2 "D7"AGE "G"G2B|
+"Em"efg "Bm"fBB|bag fBB|"Em"eBB "Bm"fBB|"Em"gfe "Bm"fdB|
+"Em"efg "Bm"fBB|bag fBB|"Em"efg "Bm"fdB|[1 "Em"e/f/gf "Bm"e2d:|[2 "Em"e/f/gf "Bm"edB|]
+
+X: 132
+T:Westering Home
+R:waltz
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:C % transposed from G
+|"C"G3A G2|G2 E2 G2|"Am"c2 c2 d2|"Em"e6|
+"F"f3e d2|"C"e2 d2 c2|"Dm"A2 A2 G2|"G7"G6|
+"C"G3A G2|G2 E2 G2|"Am"c2 c2 d2|"Em"e4 f2|
+"F"g3e c2|"G7"de3 d2|"F"c6|"C"c6||
+"C"g3e c2|"Am"c2 d2 e2|"Dm"d3c d2|"G7"G6|
+"C"G2 A2 B2|"Am"c2 d2 e2|"Dm"f3e f2|"G7"d6|
+"C"g3e c2|"Am"c2 d2 e2|"Dm"d3e d2|"G7"G4 f2|
+"C"e2 d2 c2|"G7"e2 e2 d2|"F"c6|"C"c6|]
+
+
+X: 133
+T:Twa Heids are better than Yin
+R:waltz
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:D
+A2|"D"A3B A2|F2 E2 D2|"G"E2 D2 B,2|"D"D4 A,2|
+D2 D2 F2|A2 F2 D2|"A7"E6-|E4 A2|
+"D"A3B A2|F2 E2 D2|"G"E2 D2 B,2|"D"D4 A,2|
+"D"D2 D2 F2|"A7"G2 F2 E2|"D"D6-|D4 D2|
+"A7"C2 C2 D2|E4 E2|"D"D2 D2 F2|A4 A2|
+A2 A2 F2|D2 G2 F2|"A7"E6-|E4 A2|
+"D"A3B A2|F2 E2 D2|"G"E2 D2 B,2|"D"D4 A,2|
+D2 D2 F2|"A7"G2 F2 E2|"D"D6|]
+
+X: 134
+T:Utpick Waltz
+R:Waltz
+S:The Waltz Book
+Z:Added by alf.warnock@rogers.com
+M:3/4
+L:1/8
+K:G
+(3DEF|:G3ABd|AF2DED|EG2DC2|B,3ABd|
+e4-ef|ed3BA|Bd4e|d2g2f2|
+e4ef|ed3dA|B3d(3BAG|E4ED|
+C3DEG|DF2DED|EG2DC2|[1 B,4(3DEF:|[2 "Fine" B,3ABd||
+eB4A|B4Be|dB4^A|B4B^A|
+=A4AB|AG3ED|EG3GF|G2A2Bd|
+e4B2|B4Be|dB4c|B2B2^A2|
+A4-AB|AG3ED|EG4G|"DC al fine" FEDEFD|]
+
+X: 135
+T:Reel St Sauveur
+R:reel
+S:from Nathan Curry manuscript
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+Z:The third part really has nine bars in it
+M:4/4
+L:1/8
+K:D
+|"D"A2FA ABcd|A2FA ABcd|"Bm"F2DF FEDE|"Em"FDEF "A7"E2DF|
+"D"A2FA ABcd|A2FA ABcd|"Em"efed "A7"cABc|[1 "D"dfec d2FG:|[2 "D"dfec dABc
+|:"D"d2fd adfd|adfd "A7"cABc|"D"d2fd adfd|adfd "A7"cABc:|
+"D"fgfe dedB|ABAG FAGF|"A11"EADA EADA|"A7"cABc BAAd|
+"D"fffe dddB|AAAG FAGF|"A7"EecB AAcA|eAcA eABc|[1 "D"dfec ddAd:|[2"D"dfec d2DF|
+
+X: 136
+T:Reel des temps Dull
+R:reel
+S:from Nathan Curry manuscript
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:G
+DG|"G"B2GB "C"c2Bc|"G"ded/2c/2B "Em"G2AB|"Am"cBAG "D7"FDEF|"G"GABc d2DG|
+"G"B2GB "C"c2Bc|"G"ded/2c/2B "Em"G2AB|"Am"cBAG "D7"FDEF|"G"G2GG [G2B2]DG:|
+ef|"G"gagf "C"e2g/2f/2e|"G"dedB G2AB|"Am"cBAG "D7"FDEF|"G"GABc "D7"d2ef|
+"G"gagf "C"e2fe|"G"dedB G2AB|"Am"cBAG "D7"FDEF|"G"G2[GB][GB] [G2B2]:|
+
+X: 137
+T:Northern Lights of Old Aberdeen
+R:waltz
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/4
+K:D
+A|"D"A F G|"F#m"A2 A|"G"d c B|"D"A3|
+"Em"G A G|"A7"F2 E|"D"A3 -|A2 A|
+"D"A2 "D7"F|"F#m"A2 A|"G"d c B|"D"A3|
+"Em"G A G|"A7"F2 E|"D"D3 -|D2 A|
+"G"B G B|d c B|"D"A3|"D7"A2 A/A/|
+"G"B G B|"G"d c B|"F#m"c3 -|c2 A|
+"D"A A F|"F#m"A2 A|"G"d c B|"D"A3|
+"Em"G A G|"A7"F F E|"D"D3 -|D2 "A7"A||
+"D"D2 D|"Bm"F2 F|"Em"E D "A7"E|"D"D2 "D7"A|
+"G"B2 B|"A7"G A B|"D"A3 -|A2 A|
+"G"B2 B|"Em"G2 "A7"B|"D"A2 F|"Bm"E2 D|
+"E7"E2 E|F2 D|"A7"A3 -|A2 A|
+"D"D2 D|"Bm"F2 F|"Em"E D "A7"E|"D"D2 A|
+"G"B2 B|"G"G A B|"D"A3 -|A2 A|
+"G"B2 G|"Ddim"d2 B|"D"A2 F|"Bm"d2 d|
+"E7"d2 B|"A7"c2 d|"D"d3 -|d3|]
+
+X: 138
+T:Riverside Waltz
+R:waltz
+C:Don Pettigrew
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:G
+B c^c|"Gmaj7"d4 B2|"G6"e4 B2|"Gmaj7"d6|DE FG AB|
+d2 B2 G2|"G#dim"D3G EF|"Am6"F6|"D7"F6|
+d4 c2|"Am7"e4 d2|"D7"f6|"Am7"e6|
+"D7"D2 F2 A2|"D+"d2 ^c2 c2|"G"B6|"G/D"B3B c^c|
+"Gmaj7"d4 B2|"G6"e4 B2|"Gmaj7"d6|DE FG AB|
+d2 B2 G2|"G7"F3G D^D|"C"E6|"Am"E6|
+"C"e6|"A13b9"f4 "Bbdim"e2|"G"d6|DE FG AB|
+"Am"d2 c3A|"D7"E2 F3D|"G"G6|"Fine"G6||
+"Gmaj7"B,4 D2|"G6"G4 D2|"Gmaj7"B4 G2|d6|
+d3B G2|"G#dim"D3G EF|"Am6"F6|"D7"F6|
+d4 c2|"Am7"e4 d2|"D7"f6|"Am7"e6|
+"D7"D3F A2|"D+"d2 ^c2 c2|"G"B6|"UC134"B6|
+"Gmaj7"B,4 D2|"G6"G4 D2|"Gmaj7"B4 G2|d6|
+d3B GF|"G7"F3G D^D|"C"E6|"Am"E6|
+"C"e6|"A13b9"f4 "Bbdim"e2|"G"d6|DE FG AB|
+"Am"d2 c3A|"D7"E2 F2 D2|"G"G6|G3 "DC al Fine"B c^c|]
+
+X: 139
+T:Jock o' Hazeldean
+R:waltz
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:D
+d2|"D"A4 F2|"A7"E4 "D"D2|D2 F4|A,4 B,2|
+D4 D2|"B7"G4 F2|"E7"F2 E4-|E4 d2|
+"D"A4 F2|"A7"E4 D2|"D"D2 F4|"A7"A,4 B,2|
+"D"D4 F2|"A7"E4 D2|"D"D6-|D4 F2|
+"G"G4 F2|G4 A2|B4 A2|d4 B2|
+"D"A4 F2|"A7"E2 F2 A2|"G"B6-|B4 d2|
+"D"A4 F2|"F#7"E4 D2|"Bm"D2 F4|"A7"A,4 B,2|
+"D"D4 F2|"A7"E4 D2|"D"D6-|D4|
+
+X: 140
+T:The Bonnie Banks of Loch Lomond
+B:Allan's Violin Gems
+Z:Nigel Gatherer
+Z: chords by Alf Warnock
+M:4/4
+L:1/8
+K:G
+D2|"G"G2 GA B2 AG|"Am"A2 AG E2 "D"D2|"G"G2 G2 G2 Bd|"C"e4 "G"d2 d2|
+"C"e2 ed "G"B2 Bd|"Am"cBAG E2 "D"DE|"G"G2 Bd "C"e2 dB|"D"A4 "G"G2 "D"D2|
+"G"G2 GA B2 AG|"C"ABAG "Am"E2 "D"DE|"G"G2 G2 G2 Bd|"C"e4 "G"d2 d2|
+"C"e2 ge "G"d2 Bd|"C"cBAG "Am"E2 "D"DE|"G"GGBd "C"e2 dB|"D"A4 "G"G2|]
+
+
+X: 141
+T: Mingulay Boat Song
+M:3/4
+R:waltz
+L:1/8
+Z:Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+K:C
+%%text Chorus
+G4 A2| "C"c6| c6| g4 e2| e4 d2| c6| g4 e2| "G7"d6| d4 c2|
+e2 d2 c2| "F"A6| A6| "G7"G4 A2| "C"c6| c6| g4 e2| e4 d2|
+c6| g4 e2| "G7"d6| d4 c2| "G13"e4 d2| "F"c6-|c6|"C"z6||
+%%text Verse
+"G7"G4 A2| "C"c6| c6| "G7"d2 c2 d2| "C"e6| "G7"G6| G4 A2| "C"c6|
+"Am"c6| "G7"d2 c2 d2| "C"e6| "G"d6| "E7"e4 d2| "Am"c6| c6| "G7"d2 c2 d2|
+"C"e6| G6| "G7"G4 A2| "C"c6| G4 e2| "G7"d4 c2| "C"c6-|c6|]
+
+
+X: 142
+T:Flowers of Normandy
+R:waltz
+C:John Sheahan of the Dubliners
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:G
+P:A
+D2| "G"G3F GB|"Gmaj7"F3E FB|"G6"E3D EG|"G"D4 D2| "G"G3F GB|"Gmaj7"F3E FA|"Am"E6-|E4 E2|
+"Am"A3^G Ac|"Am7"G3E Gc|"Am6"F6-|F4 D2| "Am"E3D ED|"D7"A3D ED|"Edim"^A3D ED|"G"B5D|
+"G"G3F GB|"Gmaj7"F3E FB|"G6"E6-|E4 D2| "Fdim"=F3E ^DE|A3^A Bc|"Am"A6-|A6|
+"C"e3c BA|"Cm"^d3c BA|"G"d3B AG|"E7"F4 D^D|"Am"E3^D Ec|"D7"F3E Fd|"G"G6-|!fine!G3d ef||
+P:1st B part
+"G"g3d BG|"Gmaj7"f3d BG|"G6"e3d BG|"G"D3B ef|"G"g3d BG|"Gmaj7"f3d BG|"Am"e3d cA|"Am7"E6|
+"Am"a3e cA|"Am7"g3e cA|"Am6"f3e cA|"Am"e3d cA|"Am"E3D Ec|"D7"F3E Fe|"Edim"^A3A Bf|"G"d4 ef|
+"G"g3d BG|"Gmaj7"f3d BG|"G6"e3d BG|"G"D4 E2| "Fdim"=F3E ^DE|"E7"A3^A Bc|"Am"A3^G Ac|e6|
+"C"a3g fe|"Cm"^d3e fg|"G"d3e fg|"E7"B3c de|"Am"c3B ce|"D7"F3E FA|"G"G6-|G3D EF||
+%%newpage
+P:Flowers of Normandy 2nd B part
+"G"gd Bg dB|"Gmaj7"fd Bf dB|"G6"ed BG EG|"G"Dd ^cd ef|"G"gd Bg dB|"Gmaj7"fd Bf dB|"Am"ed cB cA|"Am7"E6|
+"Am"ae ca ec|"Am7"ge cg ec|"Am6"fe cf ec|"Am"ec fe cA|"Am"E5c|"D7"F5e|"Edim"A^A f3^c|"G"d6|
+"G"gd Bg dB|"Gmaj7"fd Bf dB|"G6"ed BG EG|"G"D4 E2| "Fdim"=FE ^DE =FE|A^G A^A Bc|"Am"A^G AB cd|e6|
+"C"ag fg fe|"Cm"^dd ^de fg|"G"d^c de fg|"E7"B^A Bc de|"Am"cB cd ec|"D7"F=F FG AB|"G"GF GA Bd|g4 D2|]
+
+X: 143
+T:Poor Girl Waltz
+R:waltz
+C:Andy de Jarlis
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:C
+g ^fg|"C"a6|"Cmaj7"g4-g^f|"C6"a3/2g/2 e3/2c/2 A3/2c/2|"Cmaj7"G4-GE|
+"C"G3/2c/2 e3/2g/2 a3/2b/2|"Cdim"a4 g2|"Dm7"B6-|B3g ^fg|
+"Dm7"a6|"G7"g6|"Dm7"a3/2g/2 f3/2d/2 B3/2A/2|"G7"G6|
+d6|"G+"g4 a2|"C"e6-|e3g ^fg|
+"C"a6|"Cmaj7"g4-g f|"C6"a3/2g/2 e3/2c/2 A3/2c/2|"Cmaj7"G4-GE|
+"C"G3/2c/2e3/2g/2 a3/2b/2|"C7"a4 e2|"F"g2 f2"A7" d2|"Dm"A6|
+"Dm"d6|"Fm"c4"Cdim" A2|"C"G3/2c/2 e3/2g/2 a3/2b/2|"A7"a2 g3e|
+"D7"d6|"G7"e4 G2|"C"c6-|c2 E2 F2||
+"C"G6|"Cdim"G2 ^F3A|"C"G6-|"C"G2 E2 F2|
+G2 A2 B2|"Adim"c2 a3g|"G7"B6-|B2D2 E2|
+"Dm7"F6-|"F"F2 E3G|"Dm"F6-|F2 D2 E2|
+F2 G3A|"G7"B2 d3c|"C"E6-|"C"E2 E2 F2|
+G6|"Cdim"G2 ^F3A|"C"G6-|G2 E2 F2|
+G2 A2 B2|"C7"c2 a3g|"F"f6-|f4 de|
+"Dm"f2 d3d|d4 cd|"C"e2 c3c|"Cdim"c4 Bc|
+"G7"d2 B3A|G2 e3d|"C"c6-|c3:|
+
+
+X: 144
+T:Southwind
+R:waltz
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:G
+c2|"G"B3A G2|B2 c2 d2|"D7"A4 A2|A4 c2|
+"G"B3A G2|"C"E2 D2 E2|"G"G6|G4 c2|
+"G"B3A G2|B2 c2 d2|"D7"A4 A2|A4 c2|
+"G"B3A G2|"C"E2 D2 E2|"G"G6|G4 d2|
+"G"g4 g2|"C"g3f e2|"G"d4 d2|d4 c2|
+"G"B3A G2|B2 c2 d2|"D7"A6|A4 dd|
+"C"g4 g2|g3f e2|"G"d4 d2|d4 cc|
+"G"B3A G2|"D7"A3c F2|"G"G6|G6|]
+
+X: 145
+T:Tiree Bridal Song
+R:waltz
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:D
+D2|"D"F4 G2|A4 A2|"Em"G2 F2"A7" E2|"D"D4 D2|
+"D"F4 G2|"A7"A2 B2 c2|"D"d6|"D7"A4 c2|
+"G"B2 d4|"A7"A4 G2|"Bm"F4 D2|"G"G4 B2|
+"D"A2 A4|"C"C4 E2|"D"D6|D6|
+"D"F2 F2 G2|A6|"Em"G2 F2"A7" E2|"D"D6|
+F2 F2 G2|"A7"A2 B2 c2|"D"d6|"D7"A6|
+"G"B2 d4|"A7"A4 G2|"Bm"F4 D2|"G"G4 B2|
+"D"A2 A4|"C"C4 E2|"D"D6|D4 D|]
+
+X: 146
+T:Citadel Waltz
+R:waltz
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:D
+AG|"D"F2 A2 d2|f3d AF|"Em"E2 F2 G2|"E7"B4 B2|
+"A7"AB cd ef|g3g fg|"Em"b4"A7" ag|"D"f4 AG|
+"D"F2 A2 d2|f3d AF|"Em"E2 F2 G2|"E7"B4 B2|
+"A7"AB cd ef|g2 B2 c2|"D"d3c de|d4 a2|
+"D"a2 ^ga ba|"B7"f3f fa|"Em"g2 f2 e2|"E7"B4 B2|
+"A7"AB cd ef|g3g fg|"Em"b4 ag|"D"f4"A7" a2|
+"D"a2 ^ga ba|"B7"f3f fa|"Em"g2 f2 e2|"E7"B4 B2|
+"A7"AB cd ef|g2 B2 c2|"D"d3c de|d4|]
+
+X: 147
+T:Tennessee Waltz
+R:waltz
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:F
+FG|"F"A2 c2 FG|"F6"Ac3 fg|"F7"a4 ag|"Bb"fd4f|
+"F"fc4c|"Dm7"d2 c2 A2|"G7"G4 GA|"C7"G4 FG|
+"F"Ac3 FG|"F6"Ac3 fg|"F7"a4 ag|"Bb"fd4f|
+"F"fc3 A2|"C7"B2 A2 G2|"F"F6|"F"F4 fg||
+"F"a4 aa|"A7"g4 ag|"Bb"f3d f2|"F"dc3 de|
+"F"f2 c2 A2|"Dm7"d2 c2 A2|"G7"G4 GA|"C7"G4 FG|
+"F"Ac3 FG|"F6"Ac3 fg|"F7"a4 ag|"Bb"fd4f|
+"F"fc3 A2|"C7"B2 A2 G2|"Bb"F6|"F"F6|]
+
+X: 148
+T:Donegal Jig
+R:jig
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:G
+B2 c|"G"d^cd b2 f|agf ged|Bcd edB|"Am" c3 c2 B||[1 "D7"ABA DFA|
+fgf f2 e|d^cd edc|"G" B3 B2 c:|[2 "D7"ABA f2 e|"G" d^cd g2 e|
+"D7"ded cBA|"G" G3 G2 E|]"G"GBd edB|d3 d2 D|
+GBd edB|"Am" c3 c2 B||[1 "D7"ABA DFA|fgf f2 e|d^cd edc|
+"G" B3 B2 D:|[2 "D7"ABA f2 e|"G" d^cd g2 e|"D7"ded cBA|"G" G3 G2|]
+
+X: 149
+T:Cross the Fence
+R:hornpipe
+C:Brendan McGlinchey
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:G
+|:GA|"G"~B3G"C" ~c3A|"G"d^cde dBGB|"C"~c3d"G" BGDG|"Am"cA (3BAG "D7"AGFD|
+"G"GDB,D GABc|dgge dBGB|dg (3Bcd "D7"ecAF|"G"AGGF G2:|
+|:AG|"D7"FDA,D FAcA|"G"B~G3 DGBd|"C"ecc2 "G"dBB2|"A"cAag "D7" fdcA|
+"G"D~B3 "C"D~c3|"G"~d3e dBGB|dgBd "D7"ecAF|"G"AGGF G2:|
+|:Bc|dggf g2 bg|dg (3gfg agfg|ea a^g aba=g|fed^c d2 d=c|
+(3Bcd BG (3ABc AF|GDB,D GABc|dg (3Bcd edcF|AG GF G2:|
+
+X: 150
+T:Reel de Rimouski
+R:reel
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs from a photocopy
+Z:repertoire de Jos Bouchard, notation de Marcel Ducharme.
+M:2/4
+L:1/16
+K:G
+|:DEF|"G"G2Bd gdBG|"D7"ABcA FDEF|"G"GFGB dBGB|"D7"Agfe dcBA|
+"G"G2Bd gdBG|"D7"ABcA FDEF|"G"GFGB dBGB|"D7"ABAF "G"G:|
+K:C
+|"C"e2ef edce|g2ga gece|gece gecA|"G7"B2^A2 A4|
+|1 "G7"f2fg fefg|b2bb bg^fg|a2ab agfg|"G7"ag^fg "C"e2c2:|
+|2 "F"aa^ga b2a2|"C"gg^fg a2g2|"Dm"fedf "G7"a2B2|"C"c4z efg||
+K:F
+|"F"aaa2 "C"ggg2|"F"fff2 c2Ac|f2fg fefa|"Gm"g2d2 d4|
+"C7"bbb2 aaa2|ggg2 e2cd|e2ef edce|"F"dc=Bc A2F2|
+"F"aaa2 "C"ggg2|"F"fff2 c2Ac|f2fg fefa|"Gm"g2d2 d3e|
+"Gm"fefg fefg|"F"afcB Aceg|"Gm"b2bb "C7"bgeg|"F"fefg f4||
+
+X: 151
+T:North Shore
+R:reel
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/16
+K:D
+A2|"D"d2d2 dABc|d2d2 dABc|dcde fedc|"G"B2G2 G2cd|
+"A7"e2e2 eAcd|e2e2 eAcd|efed cABc|[1 "D"d2f2 d2:|[2 "D"d2f2 d2fg|
+"D"abaf d2Ad|"G"cBBB B2ef|"A7"gage c2Ac|"D"BAAA A2fg|
+abaf d2Ad|"G"cBBB B2ef|"A7"gage cABc|[1 "D"d2f2 d2fg:|[2 "D"d2f2 d3|]
+
+X: 152
+T:The Stage Hornpipe
+R:hornpipe
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs from a photocopy lying around the house
+Z:not the same as hn-hornpipe-77
+M:4/4
+L:1/8
+K:G
+GA|"G"BGFG (3EFG DB,|G,B,DB "Am"cBAE|A^GAB cBcB|"D7"(3AGF (3GFE (3DCB,(3CB,A,|
+"G"G,B,DB "C" cBcd|e^def ga (3gfe|"G"db "Am" ca "G" Bgfg|"D7"ecAF "G" G3A:|
+"G"ga (3gfe dgbd|"Am"ceac "G" Bdgd|BGDG "Am"(3cBA ag|fgfe "D7"defd|
+"G"ga (3gfe dgbc|"Am"Bcac "G"Bdgd|(3gag (3fgf "Am" egfg|"D7"ecAF "G" G2:|
+
+X: 153
+T:Christine McCann's
+R:jig
+C:Wilf Gillis
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:G
+D|"G"~G3 GED|GAG GBd|"Am"gfg ABc|"D7"BAG FED|
+"G"~G3 GED|GAG GBd|"Em"gfg "D7"ABc|[1 "G"BGG G2D:|[2 "G"BGG G2B||
+"G"dBB gBB|ded dcB|"C"c3 "G"B3|"A7"Aag "D7"fge|
+"G"dBB gBB|ded dBG|"C"EcB "D7"Adc|[1 "G"BGG GBc:|[2 "G"BGG G3|]
+
+X: 154
+T:Dan Collins Father's Jig
+R:jig
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:D
+|fe|"D"d2A BAB|def a3| aba f2e|"Bm"dBB BAB|
+"D"d2A BAB|def ~a3| aba f2d|edd d2:|
+|:e|"D"faa faa|afe ~f3| aba f2e|"Bm"dBB BAB|
+"D"d2A BAB|def ~a3| aba f2d|edd d2:|
+
+X: 155
+T:Seamus Connolly's
+R:jig
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:E
+|"E"EGB ede|"B7"fdB aga|"E"bge Beg|"B7"fec BGF|
+"E"EGB efg|"B7"fdB aga|"E"bge Beg|"B7"fed "E"e2f:|
+"E"geg b2b|"A"c'ac' "E"b2a|geg b2b| "A"c'ac' "E"b2g|
+"A"aba "E"gag|"A"fec a3| "E"bge Beg|"B7"fed "E"e3:|
+
+X: 156
+T:Brid Harpur's
+R:jig
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:A
+|: "A"c3 Ace|ac'b afe|"D"f/g/af "A"ecA|"Bm"BAB "E7"cAF|
+"A"AFE Ace|ac'b afe|"D"f/g/af "A"ece|"D"fag "A"a2e:|
+"A"ac'b afe|"D"f/2g/2af "A"ecA|ac'b afe|"E7"fbb b2e|
+"A"ac'b afe|"D"f/2g/2af "A"ecA|c3 "E7"ecB|"A"AcB A2e:|
+
+X: 157
+T:Sonny's Mazurka
+R:Mazurka
+Z:added by Alf Warnock
+M:3/4
+L:1/8
+K:D
+DF|A2 AG FA|d2 dA BA|G2 GB AG|FG EF DF|\
+A2 AG FA|d2 dA BA|G2 Gg fe|d4:|
+Ad|f2 fa gf|e2 eg fe|d2 df ed|cd Bc Ad|\
+f2 fa gf|e2 eg fe|d2 df ec|d4:|
+
+
+X: 158
+T:O'Rahilly's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:C|
+L:1/8
+K:D
+A/B/c|"D"d3/2c/2df edcB|A3/2B/2AF A3e|fdfa gfed|"A7"e2A3/2B/2 A2A/B/c|
+"D"d3/2c/2df edcB|A3/2B/2AF A2de|f/2g/2a f/2g/2a "A7"A2f3/2e/2|"D"d2d3/2c/2 d2:|
+fg|"D"afaf a2g3/2f/2|"A7"edef g2fe|"D"fdfa gfed|"A7"e2A3/2B/2 A2A/2B/2c|
+"D"d3/2c/2df edcB|A3/2B/2AF A2de|f/2g/2a f/2g/2a "A7"A2f3/2e/2|"D"d2d3/2c/2 d2:|
+
+X: 159
+T:McAlpine's Fusiliers
+R:march
+C:Dominic Behan
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:D
+A|"D"d3c B2AF|"G"E2D2 B,2DE|"D"FF3 "A"E3C|"D"D7A|
+A3F A2Bc|"G"d2"A"c2 "G"B3A|BcBA "D"F2A2|"G"BB6A|
+"D"A2F2 A2Bc|"G"d2"A"c2 "G"B3A|BcBA "D"FEFA|"G"B6Bc|
+"D"d3c B2AF|"G"E2D2 B,2DE|"D"FF3 "A"E3D|"D"D8:|
+
+X: 160
+T:Joan O'Neills #1
+R:Polka
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/8
+K:D
+|"D"AD FG|A2 A>B|"A7"c/B/A GF|EF GB|\
+"D"AD FG|A2 A>B|"A7"c/B/A GE|"D"ED D2:|
+"D"Ad de|f2 e>d|"A7"c/B/A AB|cd ec|\
+"D"Ad de|f2 e>d|"A7"c/B/A GE|"D"ED D2:|
+
+X: 161
+T:Joan O'Neills #2
+R:Polka
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/8
+K:Bm
+A/2|"Bm"B>A B>A|F/2G/2A "D"D>A|"Bm"B>A B>A|B/2c/2d "A"ed|\
+"Bm"B>A B>A|F/2G/2A "D"DE|FD AF|"Em"E2 E3/2:|
+"Em"B/2c/2d e>f|ed B>A|B/2c/2d e>f|ed B>c|\
+"D"d>e dB|AF DE|FD AF|"Em"E2 E2:|
+
+X: 162
+T:Joan O'Neills #3
+R:polka
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/16
+K:A
+| "A"A2c2 E2F2|"F#m"A4 A3f|"A"e2c2 B2AB|e2c2 "E7"B2c2|\
+"A"A2c2 E2F2|"F#m"A4 A3f|"A"e2c2 B2AB|c2A2 A4:|
+c2e2 c2e2|a4 a3f|e2c2 B2Ac|e2c2 B2A2|\
+c2e2 c2e2|a4 a2f2|e2c2 "E7"B2AB|c2A2 A3B:|
+
+X: 163
+T:Newmarket Polka #1
+R:polka
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/16
+K:A
+| "A"A3B c2B2|"F#m"A2F2 F2E2|"A6"C2E2 F2E2|C2E2 F2E2|\
+"A"A3B c2B2|"F#m"A2F2 F2E2|"A"C2E2 F2E2|A4 A4:|
+"A"a4 g2a2|b2a2 a2f2|e2c2 B2c2|A2B2 c2e2|\
+a4 g2a2|b2a2 a2f2|"E"e2c2 B2c2|"A"A4 A4:|
+
+X: 164
+T:Newmarket Polka #2
+R:polka
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/16
+K:D
+| "D"D3E F2A2|d2c2 B2A2|"A7"E3F G2E2|"D"B2A2 F4|\
+"D"D3E F2A2|d2c2 B2A2|"A"E3F G2E2|"D"B2A2 D4:|
+"D"f2A2 f2A2|f2A2 f3f|"A"e2B2 e2B2|e2B2 e3e|\
+"D"f2A2 f2A2|f2A2 f3f|"A"e2B2 c2d2|"D"e2d2 d4:|
+
+X: 165
+T:Newmarket Polka #3
+R:polka
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/16
+K:D
+| "A"E3E E2c2|B2A2 B2c2|E3E E2c2|"F#m"B2A2 F4|\
+"A"E3E E2c2|B2A2 B2c2|"E"e3f e2c2|"A"B2A2 A4:|
+"A"c3e e2c2|B2A2 F2E2|c3e e2c2|"F#m"B2A2 A3B|\
+"A"c3e e2c2|B2A2 F2A2|E3E E2c2|"E"B2A2 "A"A4:|
+
+X: 166
+T:Mussels in the Corner
+R:polka
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/16
+K:A
+|"A"A2E2 A2B2|c2e2 "D"f4|"A"e2c2 B2AB|"E7"c2B2 B4|\
+"A"A2E2 A2B2|c2e2 "D"f4|"A"e2c2 "E7"B2cB|"A"A4 A4:|
+"A"a2g2 f2e2|c2e2 "D"f4|"A"e2c2 B2AB|"E7"c2B2 B4|\
+|[1"A"a2g2 f2e2|c2e2 "D"f4|
+"A"e2c2 "E7"B2cB|"A"A4 A4:|\
+|[2"A"A2E2 A2B2|c2e2 "D"f4|"A"e2c2 "E7"B2cB|"A"A4 A4|]
+
+X: 167
+T:Humours of Glendart
+R:jig
+Z:added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+A|BAF AFD|FEF DFA|BAF AFD|FEE EFA|BAF AFD|FEF DFA|dcB AFE|FDD D2:|
+A|def d2B|ABA AFA|def def|efe efB|def d2B|ABA AFA|dcB AFE|FDD D2:|
+
+X: 168
+T:Jackie Coleman's reel
+R:Reel
+S:Matt Cranitch Fiddle book
+Z:added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+|:dB|AF~F2 EDB,D|F2AF BFAF|E2BE dEBE|ABde fedB|AF~F2 EFDE|F2AF BFAF|
+E2BE dEBE|ABde fd::de|fd~d2 dfag|fd~d2 dfaf|eA~A2 eAfA|
+eA~A2 cdeg|fd~d2 dfag|fd~d2 dfaf|g2ef gbag|(3fga eg fd:|
+
+X: 169
+T:Herb Reid's
+R:Polka
+O:Newfoundland
+Z: Added by Aidan Crossey
+M:2/4
+L:1/8
+K:D
+|:DF/G/ AF|EF GB|AB cd|ed cA|
+DF/G/ AF|EF GB|AB ce|d2 d2:|
+|:df fe|dc BA|Be ed|cB Ac|
+df fe|dc BA|Bc/d/ cd/e/|d2 d2:|
+
+X: 170
+T:Convenience, The
+R:Reel
+O:Ireland
+M:4/4
+L:1/8
+Z: amalgamated version by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+K:D
+dABA dABA|GAFA EADA|dABA dABA|FAEA D4:|
+|:df f/f/f dfed|cAce gecA|df f/f/f dfed|[1 cABc d4:|[2 cABc defg||
+~a3f gfed|Ae~e2 Ae~e2|a3f gfed|Adce d2fg|
+aA A/A/A aA A/A/A|gA A/A/A gA A/A/A|~f3f gfed|Addc defg||
+aAgA fAeA|Ae e/e/e Ae e/e/e|aAgA fAeA|Addc defg|
+aA A/A/A A/A/A/ A/A/A|gA A/A/A A/A/A A/A/A|f2af gbag|fdec d4|]
+
+X: 171
+T:Flowers of Normandy
+R:waltz
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/8
+K:G
+P:A
+D2| "G"G3F GB|"Gmaj7"F3E FB|"G6"E3D EG|"G"D4 D2| "G"G3F GB|"Gmaj7"F3E FA|"Am"E6-|E4 E2|
+"Am"A3^G Ac|"Am7"G3E Gc|"Am6"F6-|"Edim"F4 D2| "Am"E3D ED|"D7"A3D ED|"Edim"^A3D ED|"G"B5D|
+"G"G3F GB|"Gmaj7"F3E FB|"G6"E6-|E4 D2| "Fdim"=F3E ^DE|A3^A Bc|"Am"A6-|A6|
+"C"e3c BA|"Cm"_e3c BA|"G"d3B AG|"E7"F4 D^D|"Am"E3^D Ec|"D7"F3E Fd|"G"G6-|G3d ef||
+P:1st B part
+"G"g3d BG|"Gmaj7"f3d BG|"G6"e3d BG|"G"D3B ef|"G"g3d BG|"Gmaj7"f3d BG|"Am"e3d cA|"Am7"E6|
+"Am"a3e cA|"Am7"g3e cA|"Am6"f3e cA|"Am"e3d cA|"Am"E3D Ec|"D7"F3E Fe|"Edim"^A3A Bf|"G"d4 ef|
+"G"g3d BG|"Gmaj7"f3d BG|"G6"e3d BG|"G"D4 E2| "Fdim"=F3E ^DE|"E7"A3^A Bc|"Am"A3^G Ac|e6|
+"C"a3g fe|"Cm"^d3e fg|"G"d3e fg|"E7"B3c de|"Am"c3B ce|"D7"F3E FA|"G"G6-|G3D EF||
+%%newpage
+P:2nd B part
+"G"gd Bg dB|"Gmaj7"fd Bf dB|"G6"eB Ge BG|"G"Dd ^cd ef|"G"gd Bg dB|"Gmaj7"fd Bf dB|"Am"ed cB cA|"Am7"E6|
+"Am"ae ca ec|"Am7"ge cg ec|"Am6"fc Af cA|"Am"ec Ae cA|"Am"E5c|"D7"F5e|"Edim"A^A f3^c|"G"d6|
+"G"gd Bg dB|"Gmaj7"fd Bf dB|"G6"ed Be BG|"G"D4 E2| "Fdim"=FE ^DE =FE|A^G A^A Bc|"Am"A^G AB cd|e6|
+"C"ag fg fe|"Cm"^dd ^de fg|"G"d^c de fg|"E7"B^A Bc de|"Am"cB cd ec|"D7"F=F FG AB|"G"GF GA Bd|g4 D2|]
+
+X: 172
+T:Frank's Reel
+R:reel
+C:John McCusker
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:A
+| "A"AcBA "D"F2AF|"A"EFAB cABc|"D"d3f "A"ecAe|"D"faec "E7"B/2c/2dcB|
+"A"AcBA "D"F2AF|"A"EFAB cABc|"D"d3f "A"ecAc|"E7"BAGB "A"A2E/2F/2G|
+"A"AcBA "D"F2AF|"A"EFAB cABc|"D"d2df "A"ecAe|"D"faec "E7"B/2c/2dcB|
+"A"AcBA "D"EFAF|"A"EFAB cABc|"D"dff/2f/2f "A"ecAc|"E7"BAGB "A"Aefg|
+"A"aAAg "C#m7"AAfA|"F#m"effe "A"cABc|"D"d3f "A"ecAc|"Bm"Bcde "E7"fee/2f/2g|
+"A"aAAg "C#m7"AAfA|"F#m"effe "A"cABc|"D"dff/2f/2f ecAc|"E7"BAGB "A"Aefg|
+"A"aAAg "C#m7"AAfA|"F#m"ef2e "A"cABc|"D"d3f "A"eAce|"Bm"faec "E7"B/2c/2dcB|
+"A"AcBA "D"F3A|"A"EFAB cABc|"D"d3f "A"ecAc|"E7"BAGB "A"A4|
+
+X: 173
+T:Simon Thoumire's Jig
+R:jig
+C:John McCusker
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:G
+BA|"G"G3 EDE|GA^A Bde|"Em"gfd dee|"D7"dBG ABA|
+"G"G3 EDE|GA^A Bde|"Em"gfd dee|"D7"dBA "G"G:|
+Bd|"G"gfd "Em"ezg-|gfd edg|"Em"edB BAG|"D7"ABG E2D|
+"G"G3 EDE|GA^A Bde|"Em"gfd dee|"D7"dBA "G"G:|
+
+X: 174
+T:Scatter the Mud
+R:jig
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:Am
+|: "Am"eAA BAA|eAA "G"ABd|"Am"eAA BAB|"G"dBG GBd|
+"Am"eAA BAA|eAA "Em"AGE|"G"GAB d2e|"Am"dBA A3:|
+|:"Am"eae ege|"G"edB ABd|"Am"eae ege|"G"dBG GBd|
+"Am"ea^f "G"g2e|"Em"edB AGE|"G"GAB dge|dBG "Am"A3:|
+
+X: 175
+T:Nail That Catfish to the Tree
+S:Greg Dahms
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/16
+K:G
+D2|: G2[B2G2] A2[B2G2]| [c2E2][c2E2] [B2D2][B2D2]| ABAG FED2| ABAG FED2|
+G2[B2G2] A2[B2G2]| [c2E2][c2E2] [B2D2][B2D2]| ABAG DEF2| [G4B,4] [G2B,2]D2:|
+|:C2C2 E2G2| [c2E2][c2E2] [B2D2][B2D2]| ABAG FED2| ABAG FEDB,|
+C2C2 E2G2| [c2E2][c2E2] [B2D2][B2D2]| ABAG DEF2| [G4B,4] [G4B,4]:|
+
+X: 176
+T:Sally's Jig
+R:jig
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:G
+|:"G"BcB AGA|B2G D2D|"Am"E2A ABA|E2A A2A|
+"G"BcB AGA|B2G D2D|"Am"EAG "D7"FEF|"G"G3 G3:|
+|:"G"Bdd Bdg|e2d B2G|"Am"E2A ABA|E2A A2c|
+|[1 "G"Bdd Bdg|e2d B2G|"Am"EAG "D7"FEF|"G"G3 G3:|
+|[2 "G"BcB AGA|B2G D2D|"Am"EAG "D7"FEF|"G"G3 G3|]
+
+X: 177
+T:Auld Hoose
+C:trad.
+S:First Ceilidh Collecton
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/4
+K:G
+GA|"G"B3|"G7"A2 G|"C"A2 G|"A7"E2 G|"G"D2 E|"Em"G2 B|"A7"A3-|"D7"AG A|
+"G"B3|"G7"A2 G|"C"A2G|"A7"E2 G|"G"D2 B|"D7"B2A|"G"G3-|GA B|
+"D7"c2 B|"G"c2 d|"C"e2 e|"D7"d2 B|"G"d2 B|"G7"A2 G|"A7"A3-|"D7"A G A|
+"G"B2 B|"G7"A2 G|"C"A2 G|"A7"E2 G|"G"D2 B|"D7"B2 A|"G"G3-|G2||
+
+X: 178
+T:Bonnie Galloway
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:3/4
+L:1/4
+K:G
+|"G"B2 F|"G7"A2 G|"C"E G2|"G"D3|D2E|"Em"G2B|
+"A7"A2B|"D7"A3|"G"B2F|A2G|"C"EG2|"G"D3|
+D2E|"Em"G2B|"D7"A2G|"G"G3|d2d|"G7"B2G|"C"e2G|
+"G"d3|d2d|"Em"B2A|"A7"GFG|"D7"A3|"G"B2F|
+"B7"A2G|"C"EG2|"G"D3|D2E|"Em"G2B|"D7"A3|"G"G3||
+
+
+X: 179
+T:Sweet Tibbie Dunbar
+R:jig
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:D
+|:d|\
+"D"AFF FED|AFF F2d|"D"AFF "F#7"FEF|"Bm"DB,B, B,2d|
+"D"AFF FED|ABA FED|"Em"EFG "F#7"FEF|"Bm"DB,B, B,2:|
+|:A|\
+"D"dcd "A7"ede|"Bm"fdB "D"AFA|"D"dcd "A7"ede|"Bm"fdB Bde|
+"D"fdf "A7"ece|"Bm"dBc "G"dcB|"D"AFF "F#7"FEF|"Bm"DB,B, B,2:|
+
+X: 180
+T:Brosna Slide
+R:slide
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:12/8
+L:1/8
+K:G
+|:"G"D2G G2A BAB d2B|"D7"A2D FED A2D FED|
+"G"G3 G2A BAB d2B|"D7"A2D FED"G"G3 G3:|
+|:"Em"g2f efg "D7"f2e d2B|"C"cBc A2B "D7"c2d e2f|
+"Em"g2f efg "D7"f2e d2B|"C"c2A F2D "G"G3 G3:|
+
+X: 181
+T:John D McGurk's
+R:jig
+C:Jackie Daly
+D:First Month of Summer
+Z:transcribed by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+Z:also gets played as a reel on the album
+M:6/8
+K:D
+e|:fde faa|gec ABc|dAd eaa|ged cde|
+fde faa|gec ABc|dAd eaa|gec d2e:|
+K:A
+|:cea ece|dBG EGB|AEA Bee|cee Bee|cea ece|
+dBG EGB|[1 AEA Bec|dBG A2B:|[2 Ace dfa|egb a2=g|]
+
+X: 182
+T:John D McGurk's
+R:reel
+C:Jackie Daly
+D:First Month of Summer
+Z:transcribed by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+Z:also gets played as a jig on the album
+M:4/4
+K:D
+e|:f2de faaf|gece Aece|d2Ad eaaf|gecd edd2:|
+K:A
+|cee/e/e aece|dBGB EBGB|cee/e/e aece|dBGA BAA2|
+cee/e/e aece|dBGB EBGB|ABce defa|gabg a2=g2|]
+
+X: 183
+T:Blacksmith's reel
+R:reel
+D:First Month of Summer
+Z:transcribed by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+Z:follows John D McGurk's
+M:4/4
+K:D
+|:aff/f/f aff/f/f|aff/f/f efge|aff/f/f aff/f/f|g2fg efge:|
+|:d2fd Adfd|d2fd efge|d2fd Adfd| edcd efgf :|
+
+X: 184
+T:Captain Dunne's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:D
+A>F|:"D"D2D>D DFAF|"Em"G2E>E E3D|"D"FABc dAFD|"A7"A2A>B AGFE|
+"D"D2D>D DFAF|"Em"G2E>E E3E|"D"F/2G/2AFD "A7"E/2F/2GEC|[1 "D"D2D>D D2A>F:|[2 "D"D2D>D D2AB/2c/2|
+"D"d2d>d dAFD|"Em"G2E>E E2cd|"A7"e2e>f edcB|ABcB AGFE|
+"D"D2D>D DFAF|"Em"G2E>E E3G|"D"F/2G/2AFD "A7"E/2F/2GEC|[1 "D"D2D>D D2AB/c/:|[2 "D"D2D>D D4|]
+
+X: 185
+T:Clare's Dragoons
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:A
+|"A"C2E2 E2FG|A2AB AGFE|C2E2 E2c2|"Bm"dcBA F3D|
+"A"C2E2 E2FG|A2"Bm"B2 "C#m"c3d|"A"e2E2 "D"F2d2|"E7"c3B "A"A3B|]
+c2ec "Bm"B2cB|"A"A3B "C#m"c3B|"A"c2ec "Bm"B2c2|"D"dcBA F3B|
+"A"c2ec "Bm"B2cB|"A"A3B "C#m"c3d|"A"e2E2 "D"F2d2|"E7"c3B "A"A4|]
+
+X: 186
+T:OCB Reel #01
+R:reel
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:G
+|: "G"d2Bd edBd|edBA G3F|"Am"EAAA BAGA|"D7"Bdef g2e2|
+"G"d2Bd edBd|edBA G3F|"Am"EAAA BAAe|"D7"dBAB "G"G4:|
+|:"G"Bdef g2fg|"Am"agfg "Em"e2dA|"G"Bdef g2bg|"D7"agab "G"g2ga|
+"G"bggg "D7"agef|"G"g2ge dBGE|DEGA B2Be|"D7"dBAB "G"G4:|
+
+X: 187
+T:Judique Jig
+R:Jig
+C:Trad.
+S:Jig Set -- Buddy MacMaster, Gaelic Roots III, Boston 1997
+Z:Set: Judique Jig / Up the Bow Jig
+Z:Added by elizabeth.scarlett@rogers.com
+M:6/8
+L:1/8
+K:A
+c|efe c2d|efe c2e|dcd B2c|d3 dcd|
+efe cea|fef dfa|g2b gfg|a3 a2:|
+|:b|agf edc|Bcd f2e|cde a2e|cde f2g|
+agf edc|Bcd f2a|efe dcB|A3 A2:|
+
+X: 188
+T:Up the Bow Jig
+R:Jig
+C:Trad.
+S:Buddy MacMaster, Gaelic Roots III, Boston 1997
+Z:Set: Judique Jig / Up the Bow Jig
+Z:Added by elizabeth.scarlett@rogers.com
+M:6/8
+L:1/8
+K:A
+A,CE DFA|EAc ecA|dcd efg|aec BAF|
+A,CE DFA|EAc ecA|dcd efg|aec A2A:|
+|:Ace Ace|Adf afd|Ace Ace|B=GB dcB|
+Ace Ace|fdf afd|egb efg|aec A2A:|
+
+X: 189
+T:Memories of Father Charlie MacDonald
+R:Lament
+C:Trad.
+S:Cape Breton set: air, strathspey, march, reel -- Buddy MacMaster, 1997
+Z:Added by elizabeth.scarlett@rogers.com
+M:3/4
+L:1/8
+K:D
+A2|d4fe|d4c2|B2d2B2|A4AB|d4ef|a4f2|f4ed|e4A2|
+d4fe|d4c2|B2d2B2|A4AB|d4ef|a4f2|e6|d4:|
+|fg|a4ba|f4ed|B2d2B2|A4B2|d4ef|a4f2|f4ed|e4fg|
+a4ba|f4ed|B2d2B2|A4AB|d4ef|a4f2|e6|d4fg|
+a4ba|f4ed|B2d2B2|A4B2|d4ef|a4f2|f4ed|e4fg|
+a4A2|A4=c2|Bd3B2|A4AB|d4ef|a4f2|e6|d4|]
+
+X: 190
+T:Peter and Doreen Chiasson
+R:slow march
+C:Brenda Stubbert
+S:Buddy MacMaster, Gaelic Roots III, Boston 1997
+Z:Added by elizabeth.scarlett@rogers.com
+M:C
+L:1/16
+K:D
+F3G|A3B A>GF<B D2d2 d2ef|g3e g>fe<d c2e2 e2 F>G|A3B A>GF<B D2d2 d2ef|g>eg<b a>gf<e d4 d2:|
+f>g|a3d g>fe<d B2d2 d3B|A>FA<d f<ag<f e4 e2fg|a3d g>fe<d B2d2 d3B|A>FA<d c<eA<c d2D2 D2fg|
+a3d g>fe<d B2d2 d3B|A>FA<d f<ag<f e4 e2FG|A3B A>GF<E D2d2 d2ef|g>eg<b a>gf<e d4 d2:|
+
+X: 191
+T:Willie Kennedy's Strathspey
+R:Strathspey
+C:Brenda Stubbert
+S:Buddy MacMaster, Gaelic Roots III, Boston 1997
+Z:Added by elizabeth.scarlett@rogers.com
+M:C
+L:1/16
+K:D
+F3A AAA2 B3A Fd3|FA3 A3f e3d ef3|F3A AAA2 B3A F3A|df3 e3d B4 Bd3:|
+A3d ddd2 f3e df3|Be3 e3f g3f ef3|A3d ddd2 f3e df3|e3d ef3 e3d B3G|
+A3d ddd2 f3e df3|Be3 e3f g3f eg3|f3e df3 e3d c3A|BG3 A3F E3F GE3||
+
+X: 192
+T:Homeward Bound
+R:Reel
+C:Rory MacDonald
+S:Buddy MacMaster, Gaelic Roots III, Boston 1997
+Z:Added by elizabeth.scarlett@rogers.com
+K:D
+A,|"D"D2DE FEDF|A/2A/2AAF ABde|faed "G"B2dB|"D"AFEF "A"DB,A,B,|
+"D"D2DE FEDF|A/2A/2AAF ABde|faed "G"B2dB|"A"AFEF "D"D/2D/2DD :|
+g|"D"fdfg afdf|"Em"e/2e/2eed "A"efg2|"D"fdfg afdf|"A"edef "D"d/2d/2ddg|
+"D"fdfg afdf|"Em"e/2e/2eed "A"efg2|"D"f/2g/2aed "G"B2dB|"A"AFEF "D"D/2D/2DD :|
+
+X: 193
+T:Old Mother Flanagan
+R:Hornpipe
+Z:added by elizabeth.scarlett@rogers.com
+M:C|
+L:1/8
+K:A
+(3efg|agae fecd|efec BAFG|ABAF EFAB|cAcd e2 (3efg|
+agae fecd|efec BAFG|ABAF EF (3def|ecBc A2:|
+|:F2|ABAF EFAB|cBcd cBAF|ABAF EFAB|cA (3Bcd e2 (3ABc|
+d2fd c2ec|BABc BAFG|ABAF E2ef|ecBc A2:|
+% C:\aaa\ABCcollections\gavin.abc
+
+
+X: 194
+T:Jimmy Duffy's Barndance #1
+R:Barndance
+Z:Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+Z:Learned from Mick Moloney, Gaelic Roots 2002
+M:4/4
+L:1/8
+K:G
+A|:"G"BGDG B2B2|BAGB d2d2|efge "Em"B2cB|"D7"AGFG A3A|
+"G"BGDG B2B2|BAGB d2d2|efge "Em"B2cB|"D7"AGFA "G"G4:|
+|:"G"g2gd B2B2|BAGB d2d2|efgd "Em"B2cB|"D7"AGFG A4|
+|[1 "G"g2gd B2B2|BAGB d2d2|efgd "Em"B2cB|"D7"AGFA "G"G4:|
+|[2"G"BGDG B2B2|BAGB d2d2|efge "Em"B2cB|"D7"AGFA "G"G4|]
+
+X: 195
+T:Jimmy Duffy's Barndance #2
+R:reel
+Z:Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+Z:Learned from Mick Moloney, Gaelic Roots 2002
+M:4/4
+L:1/8
+K:G
+ga|:"G"b2ba g2ge|dBGA B3A|GABc defg|"D7"agfe d2ga|
+"G"b2ba g2ge|dBGA B3A|Ggfe "D7"dcBA|[1 "G"G2B2 G2ga :|[2 "G"G2B2 G4|
+|: "C"e2e2 "D7"d2d2|"G"G2G2 G3D|GABc defg|"D7"agfe d4|
+"C"e2e2 "D7"d2d2|"G"G2G2 G3D|GABc defg|"D7"a2f2 "G"g4 :|
+
+X: 196
+T:Collin's Jig
+T:Brid Harpur's
+R:jig
+D:Inishkeeragh by Brenda McCann
+Z:Alf Warnock, alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:G
+|: "G"B2B GBd|"Em"g2g ged|ege dBG|"D7"AGA BGE|
+"G"GED GBd|"Em"g2g ged|ege dBd|"D"egf "G"g3:|
+"G"g2g ged|"Em"ege dBG|"G"g2g ged|"D"eag a3|
+|[1"G"g2g ged|"Em"ege dBA| "G"B2B dBA|"D"GBA "G"G3:|
+|[2"G"gba ged|"Em"ege dBA|"G"B2B dBA|"D"GBA "G"G3|]
+
+X: 197
+T:Mary's Shoes
+R:jig
+D:Inishkeeragh by Brenda McCann
+Z:Alf warnock, alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:F
+|: "F"~F3 "Gm"GFD|"F"CFA cag|fdc "Dm"dcA|"F"cAF "Gm"GFD|
+"F"~F3 "Gm"GFD|"F"A,CF Acf|"Dm"dcA "F"cAF|[1"C"GFE "F"FDC:|[2 "C"GFE "F"Fde||
+|:"F"f3 "Am"edc|"Bb"def "F"cAF|CFA CFA|cAF "Gm"Gcd|
+|[1"F"~f3 "Am"edc|"Bb"def "F"cAF|"Gm"~B3 GcB|"C"AFE "F"Fde:|
+|[2 "F"~f3 "Gm"~g3|"F"afd cAF|AFD CFA|"C"GFE "F"F3|]
+
+X: 198
+T: Rothesay Bay
+M:3/4
+R:waltz
+L:1/4
+Z:Alf Warnock - alf0@rogers.com
+K:D
+F G|"D"A3|"A7"A2 A|"D"A d2 -|d D E|\
+"D"F3|"A7"F2 E|"D"F A2 -|A F E|
+"Bm"D3|"F#m"C2 D|"G"B3|"D"A2 F|\
+"F#m7"C2 C|"Em7"F2 E|"A7"E3 -|E F G|
+"D"A3|"A7"A2 A|"D"A d2 -|d D E|\
+"D"F3|"A7"F2 E|"D"F A2 -|A F D|
+"Em"E2 "D7"F|"G"G2 "D7"A|"Em"B2 c|"Ddim"d c B|\
+"D"A d2|"A7"F2 E|"D"D3 -|D :|
+
+X: 199
+T: Roses of Prince Charlie
+M:4/4
+R:march
+L:1/8
+Z:Alf Warnock - alf0@rogers.com
+K:D
+A2|"D"D4 F4| "Em"E2F2 "A7"G4| "D"F4 A2F2|d3e "D7"d4|
+"G"B4 d2B2|"D"A2F2 E2D2|"Em"G4 F3G|"A7"E6A2|
+"D"D4 "Bm"F4| "Em"E2F2 "A7"G4| "D"F4 A2F2|"G"d3B "D"A4|
+"G"G4 B3c|"D"d2F2 "Bm"G2F2|"Em"E8|"D"D4 A2F2|
+"D"D3D D2E2|F4 E2D2|"Em"E3F G2E2|"A7"A8|
+"G"G4 B3c|"D"d4 F4| "G"G4 FG3|"A7"E6A2|
+"D"D3D D2E2|F4 E2D2|"Em"E3F G2E2|"A7"A8|
+"G"G4 B3c|"D"d2F2 G2F2|"Em"E8|"D"D6|]
+
+X: 200
+T: Bonnie Lass O' Bon Accord
+M:4/4
+R:march
+D: Best of the Ceili Bands
+L:1/8
+Z:Alf Warnock - alf0@rogers.com
+K:G
+D2|"G"G3/2F/2G3/2A/2 B3/2c/2B3/2A/2|G2G,2 B,2D2|G3/2F/2Ge dBAG|"D7"ADFA d^c=cA|
+"G"G3/2F/2G3/2A/2 B3/2c/2B3/2A/2|G2G,2 B,2D2|"C"ECEG "D7"FDFA| "G"G2G3/2F/2 G2:|
+de/2f/2|"G"g3B "C"c2e2|"G"d2G2 g2fe|d3/2G/2FG "C"edcB|"D7"ADFA d^cef|
+"G"g3B "C"c2e2|"G"d2G2 F2=F2|"C"ECEG "D7"FDFA| "G"G2G3/2F/2 G2:|
+
+
+
+

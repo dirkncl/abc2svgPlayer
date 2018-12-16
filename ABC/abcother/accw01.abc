@@ -1,0 +1,1361 @@
+X: 1
+T:Faral O'Gara
+R:Reel
+S:Charles de Lint
+Z:Added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:D
+DB,|A,D (3DDD A,DFA|BFAF EFAc|d2cd (3Bcd AF|(3GFE (3FED EDB,G,|
+A,D (3DDD A,DFA|BFAF EFAc|d2cd BAFA|GFEG FDD2:|
+|:fd (3ddd fdgd|f2gf edBc|(3dcB BA Bcde|fdgf e2de|
+|[1 fd (3ddd fdgd|f2gf edBc|(3dcB BA BAFA|GFEG FDD2:|
+|[2 fgaf edBc|defd BAFD|A,D (3DDD A,DFA|BFAF D2|]
+
+X: 2
+T:Cahir's Kitchen
+R:reel
+S:Paddy Keenan via Charles de Lint
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:Em
+E2GB E2GB|A2FA DEFD|E2GB E2GA|B (3cBA B AGF|
+E2GB E2GB|A2FA dAFD|EGFA GBAd|BAFG E4||
+B2BG EGB2|A2FA DEFD|B2BG EGB2|BGcA dBcA|
+B2BG EGB2|A2FA dAFD|(3EFG GA GBAc|BAFG E3f||
+eBgf e2fd|dAfe d2fg|eBgf eBBA|BAGF GEEf|
+eBgf eBfe|dA (3AAA FAd2|(3EFG FA GBAC|BAFG E3f||
+eBgf eBfe|dAfe fAfg|eBgf eBBA|BAGF GEE2|
+g2gf eBfe|dA (3AAA FAd2|(3EFG FA GBAc|BAFG E4|]
+
+X: 3
+T:The Bunch of Keys
+R:reel
+C:Traditional
+S:Fiddler's Fakebook
+D:Kevin Burke, Sweeney's Dream, Folkways FW 8876
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+Q:1/4=130
+K:Gdor
+GF|:DGGF G2Ac|B~G3 dGBG|DFFE F3B|A~F3 DFAF|
+DGGF G2Ac|BGGA Bcde|fefd cAFA|[1 ABAF DGGF:|[2 B2AF DGGA||
+dggf g2dg|~g2dg agfd|cffe efcf|~f2ag fAcf|
+dggf g2dg|gdga agfd|c~f3 cAFA|[1 BGAF DGGA:|[2 BGAF DG|
+
+X: 4
+T:The Orphan
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:Em
+|E3 EDB,|GFG A^GA|BGB AFA|GEF EDB,|
+A,3 EDB,|GFG A^GA|[1 BGB AFA|GEE E3:|[2 BdB AdA|GEE E3
+|:ege dBA|GAB d2d|edB AGA|BGE DB,A,|
+B,EE EDB,|GFG A^GA|BGB AFA|GEE E3:|
+
+X: 5
+T:Brendan Tonro's
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+D2E|:~F3 AFE|FDB, A,B,D|~F3 ~G3|BdB AFE|
+~F3 AFE|FDB, A,B,D|FEF GFG|BAF D2:|
+e|:fed dcd|edc Bdg|fef dcd|ABF A2e|
+fed dcd|edc Bdg|fef gec|dAF D3:|
+
+X: 6
+T:Father O'Flynn
+T:Rollicking Irishman
+R:Jig
+M:6/8
+Q:3/8=120
+L:1/8
+K:D
+A|"D"dAF DFA|ded "A"cBA|"D"dcd "A"efg|"D"fdf "A"ecA|"D"dAF DFA|ded "A"cBA|
+"D"dcd "A"efg|"D"fdd d2::e|fdf fga|"A"ecA ABc|"Bm"dcd "E7"Bcd|
+"A"cAA A3|"G"BGB Bcd|"D"AFD "Bm"DFA|"Em"dcd "A7"efg|"D"fdd d2:|
+
+X: 7
+T:Gallagher's Frolics
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+|:EDE GFE|BAB dBA|BdB BAB|GFG AFD|
+EDE GFE|BAB dBA|BAG FAF|GEE E2z:|
+|:e2f gfe|g2a bge|dcd fed|faf fed|
+e2f gfe|dfe dBA|BAG FAF|GEE E2B:|
+
+X: 8
+T:Gander in the Pratie Hole
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+|:FAD FAD|GFG EFG|FAD FAG|FDD D2E|
+FAD FAD|G2G EFG|FAD FAG|[1 FDD D2E:|[2 FDD D2A||
+Adc ded|cAB =cBA|Add ded|^cAB =c2B|
+Ad^c ded|cAB =cde|fed e^cA|GEA D2:|
+
+X: 9
+T:Geese in the Bog
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:C
+|:cEE GEE|cEE GAB|cEE GED|EAA A2B|
+cEE GEE|cEE GAB|cBA GED|EAA A2B:|
+|:cde ged|eaa ged|cde ged|eaa a2B|
+cde ged|eaa ged|cBA GED|EAA A2B:|
+
+X: 10
+T:Cedars of Lebanon
+R:Reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+|:EA,A,G, A,CEC|D2FA d3e|fdd2 AFDF|GEED EGFG|
+EA,A,G, A,CEC|D2FA dcde|fdd2 AFDF|GBAG FDD2:|
+|:dcde fdd2|Adfa a2gf|edef gfga|bgaf gfec|
+d3e fdd2|Adfd AFDF|GFGA BcdB|AFGE FDD2:|
+
+X: 11
+T:Cully Set Tune
+R:Polka
+Z:Added by Alf.Warnock@rogeres.com
+Z:This is just Mussels in the Corner in G with A and B swapped.
+M:2/4
+L:1/8
+K:D
+|:gf ed|Bd eg/2e/2|dB AG/2A/2|BA A2|
+gf ed|Bd eg/2e/2|dB AB/2A/2|G2 G2:|
+|:GD GA|Bd eg/2e/2|dB AG/2A/2|BA A2|
+GD GA|Bd eg/2e/2|dB A/2B/2A|G2 G2:|
+
+X: 12
+T:Hag's Purse
+R:Jig
+S:Matt Cranitch Fiddle book
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:G
+B|:ADD FED|A2d cAF|GEE EDE|c2d cAG|
+ADD FED|A2d cAF|GFG cGE|EDD D2z:|
+|:d2e fdd|ged cAA|G2E EDE|c2d cAG|
+Add fdd|ged cAA|GFG cAE|EDD D2z:|
+
+X: 13
+T:Harper's Frolic
+R:Reel
+Z:Added by Alf Warnock
+M:2/4
+L:1/8
+K:D
+A/2G/2|:FA DA/2G/2|FA Dd|cd ec|d/2c/2d/2e/2 dA/2G/2|
+FA DA/2G/2|FA Dd|cd e/2d/2c|[1 d2 dA/2G/2:|[2 d2 d>e|
+|:fd d/2e/2f|ge e/2f/2g|fd df|e/2d/2c/2B/2 A3/2e/|
+fd d/2e/2f|ge e/2f/2g|f/2e/2d e/2d/2c|[1 d2 d3/2e/:|[2 d2 d2|]
+
+
+X: 14
+T:Little Stack of Wheat
+R:Hornpipe
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:G
+GA|:BGAG EGDE|G2GF GBAG|(3EFG AB cBAG|EAAG A2AB|
+cece BdBd|ABAG EGDG|BGAG EGDE|[1 G2GF G2GA:|[2 G2GF G2 (3ABc||
+d2de dBGA|B2e2 e2ef|gfed BABd|(3efg (3fga g2ef|
+gbgf efed|BGAG EGDG|BGAG EGDE|[1 G2GF G2 (3ABc:|[2 G2GF G2z|]
+
+X: 15
+T:Lilting Banshee
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+|:EAA EAA|BAB G2A|Bee edB|def gfg|
+eAA eAA|BAB G2A|Bee edB|dBG A2z:|
+|:eaa age|dBA G2A|Bee edB|def gfg|
+eaa age|dBA G2A|Bee edB|dBG A2z:|
+
+X: 16
+T:Loch Giel
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:G
+|:DGG BGG|dGG BGG|DFA DFA|DFA cBA|
+DGG BGG|dGG BAG|DFA cBA|AGF G2z:|
+|:Bdg bgg|aff gfe|Ace aba|gag fdc|
+Bdg bgg|aff gfe|ABc ecA|AGF G2z:|
+
+X: 17
+T:Longford Tinker
+R:Reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+|dBBA B3c|dBB2 fBeB|dBBA B2dB|ABde f3e|
+dBB2 fBB2|dBB2 f2fg|aAA2 ABAF|ABde fgfe||
+d2fd efge|defa g2fe|d2fd efge|fgaf g2fe|
+d2fd efge|defa g2ga|bgaf gfed|faaf gfed||
+faa2 faa2|faaf gfed|gbb2 gbb2|gbbf gfeg|
+faa2 faa2|faaf g2ga|bgaf gfed|faaf gfef||
+"Ending"|dBBA B3z|
+
+X: 18
+T:Martin Wynne's #2
+R:reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+BA|:FBAF E2FE|DB,B,2 DB,A,2|B,EE2 FEDE|FABc dcBA|
+FBAF E2FE|DB,B,2 DB,A,2|B,EE2 FEDE|FBBA B2BA:|
+|:FBAF A2FA|Beeg edde|fbaf egfe|dBAF BAFE|
+FBAF A2FA|Beeg fdde|fbaf egfe|[1 dBAF B2BA:|[2 dBAF B2z2
+
+X: 19
+T:Mike's Fancy
+R:Jig
+C:Jerry Holland
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:G
+c|:Bd^c dBG|Bdg dBG|EA=c cBc|FAd d2c|
+Bd^c dBG|Bdg dBG|EAG FEF|[1 G3 G2=c:|[2 G3 G2C|
+|:D3 DB,G,|CEG EDC|D3 DGB|=cBc ADC|
+D3 DB,G,|CEG EDC|B,DG FEF|G3 G2z:|
+
+X: 20
+T:Mitten's Breakdown
+R:reel
+C:Earl Mitten
+N:Canadian Old Time reel
+D:Lonely Bird - Aly Bain
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:Bb % 2 flats
+|:bBAB gBAB|bBAB fBAB|ABcd ecAc|BABg f3f|
+bBAB gBAB|bBAB fBfB|ABcd ecAc|[1 BABc B3f:|[2 BABc B2A2|
+|:BBfB BgBB|aBBg BBfB|AAfA AgAA|aAAg AAfA|
+BBfB BgBB|aBBg BBfB|ABcd ecAc|[1 BABc B2zA:|[2 BABc B2zB|]
+
+X: 21
+T:Mulvihill's reel
+R:reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:G
+|:BABd eBdB|edBG AGED|B,D~D2 EDB,D|~G2GA BAA2|
+BABd eBdB|edBG AGED|B,D~D2 EDAB|cAFD G2A2:|
+|:d2Bd gBdB|d2Bd gBdB|e2^ce a^ce^c|afge fde^c|
+d2Bd gBdB|d2Bd gBdB|c2cB cBAB|cAFD G2z2:|
+BAGE DB,DE|DB,DG B2AB|cBAG FEDE|DEFG A2GA|
+BAGE DB,DE|DB,DG B2AB|c2cB cBAB|cAFD G2z2:|
+
+X: 22
+T:Queen of the Fair
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+AG|:FEF DA,D|DFA dAF|GBG FGA|BEE E2G|
+FEF DA,D|DFA dAF|GFG BAG|FDD D2g:|
+|:fdf ecA|Bcd AFD|GBG FGA|BEE E2g|
+fdf ecA|Bcd AFD|EFG BAG|FDD D2z:|
+Add fdd|add fdd|Ace geg|fdf ecA|[1 Add fdd|
+add fdd|EFG BAG|FDD D2B:|[2 afa geg|fdf ecA|
+EFG BAG|FDD D2|]
+
+X: 23
+T:Charlie Harris' Polka
+T:Kevin Burke Polka #1
+R:Polka
+D:Kevin Burke, "If the Cap Fits"
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+d>B|AFDF EFDF|AFAB e2d>B|AFDF EFDF|[1 AFAB BddB:|[2 AFAB BddA||
+d2fd efdB|AFAB e2dB|d2fd efdB|AFAB BddA|
+d2fd efdB|AFAB e2dB|dffe/2f/2 affe/2f/2|afef d2z2|]
+
+X: 24
+T:Kevin Burke Polka #2
+R:polka
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:Bm
+|:B2Bc dBBd|cAAc d/2c/2B/2A/2BF|B2Bc dBBd|ef/2e/2dc BABF:|
+f2df eccd|ef/2e/2dc Bcde|f2df eccd|ef/2e/2dc BAB2:|
+
+X: 25
+T:Jessica's Polka
+T:Kevin Burke Polka #3
+R:polka
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+Q:1/4=126
+K:A
+|:ef/2e/2ce feBc|A>BcA ecB2|ef/2e/2ce feBc|A>BcA FAE2:|
+FBAF cBA2|ef/2e/2ce agf2|ef/2e/2ce feBc|A>BcA FAE2:|
+
+X: 26
+T:Dancing Bear
+R:reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:C
+e2A2 ABcd|e2A2 A2AB|c2c2 B2c2|d4 c2d2|
+e2A2 ABcd|e2A2 A2AB|cBAc BAGA|A4 A4|
+e2A2 ABcd|e2A2 A2AB|c2c2 B2c2|d4 c2d2|
+e2a2 e2a2|e2A2 A2AB|cBAc BAGA|A4 A2AB||
+|:c2e2 dcB2|c2e2 dcB2|gdBd gdBd|A2f2 e2^g2|
+a3e c2B2|AGAB cde2|fedc BAGB|A4 A4:|
+
+X: 27
+T:Pinch of Snuff
+R:reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+|:F2DF EFDE|F2DF EFGE|F2DF EFDF|G2BG EFGE:|
+|:DFAF BFAF|DFAF EA,CE|DFAF BFAF|[1 GABG EA,CE:|[2 GABG EFGA|
+K:G
+|:B2GB ABGA|B2GB ABcA|B2GB ABGB|cdec ABcA:|
+|:GBdB eBdB|GBdB ADFA|GBdB eBdB|[1 cdec ADFA:|[2 cdec ABcd|
+K:A
+|:c2Ac BcAB|c2Ac BcdB|c2Ac BcAB|[1 defd BcdB:|[2 defd BE^GB|
+|:Acec fcec|Acec BEGB|Acec fcec|defd BcdB:|
+K:D
+|:f2df efde|f2df efge|f2df efde|gabg efge:|
+|:dfaf bfaf|dfaf eAce|dfaf bfaf|[1 gabg eAce:|[2 gabg efge|
+|:fgfe dcdB|AFDF AFD=c|BGBd =cBcG|[1 ED=CD EFGe:|[2 E=CEF GBAG|]
+
+X: 28
+T:Buck Fever Rag
+R:Rag
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:C
+|g2g3agf|efed cA^AB|c2c3dc_B|A_BAG FGAc|
+BBgB BaBB|gBBa BBgB|[1 ccgc cacc|g2{a}e2 f2^f2:|[2 gagf efed|c2c2 B2^A2|
+|:A^cea ^f2{a}ec|A^cea ^f2{a}ec|D^FAd B2{d}AF|D^FAd B2{d}AF|
+G,B,DG E2{G}DB,|G,B,DG E2{G}DB,|C2DE FGAB|[1 c2c2 B2^A2:|[2 c2e2 f2^f2|]
+
+X: 29
+T:Capers
+R:Jig
+C:Jerry Holland
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:C
+|EDE CEG|FEF Adc|BAB az^f|g^fa g2F|
+EDE CEG|FEF Adc|BAB a2B|[1 c3 cGF:|[2 c3 c2z|
+|:G,CE Gce|ag^f g2e|cBc E2G|FEF FEF|
+DFA d2e|[1 =fef ABc|BAB a^fa|g3 g^fg:|[2 =fef A2c'|bag fed|c3 cGF|]
+
+X: 30
+T:Con Cassidy's
+R:Jig
+S:Charles de Lint
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:G
+A|BAB cBc|dgg d2g|fed cAF|Ggg d2c|
+BAB cBc|dgg dgg|fed cAF|[1 G3 G2A:|[2 G3 G2B||
+g2G f2G|efg d2c|BA^G Aag|fe^d efg|
+a2f gfe|fed fga|gfe def|gGG G2:|
+
+X: 31
+T:The Red Crow
+R:reel
+C:Mair\'ead Ni Mhaonaigh
+S:Altan, The Red Crow.
+Z:Transcribed by Charles and Mary Ann de Lint
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:G
+G,|:A,2EA, B,G,G,B,|A,2EG FDEG|AGED EA,A,D|ECDC B,G,G,B,|
+A,2EA, B,G,G,B,|A,2EG FDEG|AGED EA,CE|[1 DB,G,B, A,3G,:|[2 DB,G,B, A,3G|
+|:A2eA ceAc|eAce dcBA|G2dc BdGB|dGBd edcB|[1 A2eA ceAc|
+eAcb ageg|agec dfed|cABG A3G:|[2 A2aA gAfA|A2cA BAGB|
+cABG AGED|ECDC B,A,G,B,||A,4|
+
+X: 32
+T:Crested Hens
+R:Waltz
+C:Chabenat
+S:Charles de Lint
+Z:Added by Alf Warnock
+M:3/4
+L:1/8
+K:D
+|:E3 GFE|B4Bc|dcB edc|dcB AGF|
+E3 GFE|B4Bc|dcB AGA|[1 B3 GFD:|[2 B3 zef|
+|:gBB ggB|=c4ef|gfa gfe|^d2e2f2|
+gBB ggB|=c4ef|gfa gfd|[1 e4ef:|[2 e6|
+
+X: 33
+T:Rainy Day
+R:reel
+B:Scully's Irish Music Book and O'Neill's
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:G % 1 sharp
+"Scully"
+|:EAAG A3B|(3B^cd ef ged=c|BGGF G3A|BGdG eGdG|
+EAAG A3B|cBAB cdef|g3e dBGA|BGdB BAA2:|
+|:eaag a4|baa2 bgag|eggf g3a|bgg2 bgag|
+eaag aged|(3B^cd ef g3e|g3e dBGA|BGdB BAA2:|
+"O'Neill"
+:EAAG A2Ac|BcdB cBAc|BGGA G2GA|(3Bcd ef gdBG|
+EAAB AGAB|cBAB cdef|gbaf gedB|GBdB cAA2:|
+|:eaag agag|e^def gabg|eggf g2ga|bgaf gedf|
+eaag eaag|e^def gaba|(3gfe dB GBaf|gedB cAA2:|
+
+X: 34
+T:Shetland Fiddler
+R:reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+Q:1/4=97
+K:D
+|d2fd Adfe|defg afdf|e2ge (3Bcd ed|cdef gece|
+d2fd Adfe|defg afdf|(3fga fd (3fga fd|[1 Bgec d3A:|[2 Bgec d2cd||
+eAfA gAaA|faaf gfed|AeBe cede|efed cABc|
+dAeA fAgA|faaf gfed|(3fga fd (3fga fd|[1 Bgec d2cd:|[2 Bgec d2z|
+
+X: 35
+T:Ragtime Annie
+R:Rag
+M:4/4
+L:1/8
+K:D
+|:FE|"D"DFBF AFBF|DFBF A2FE|DEFG ABAF|"A7"A2c2 c2cB|
+ABcA B2cB|ABcA BAcB|ABcd egfe|"D"d2dc d2:|
+fg|"D"a2ab afd2|A6fg|a2ab agf2|"G"g6ef|
+"Em"gfef gfef|gagf "A7"e2ef|"Em"gagf "A7"edcB|"D"A6fg|
+a2ab afd2|A2AB A2A2|[F4d4] "C"[E4=c4]|"G"[G6B6]A2|
+B2b2 b2ag|"D"f2a2 a2gf|"A7"A2ef gfec|"D"d2=c2 "D7"B2A2|]
+K:G
+|"G"[G6B6]AB|"C"[E6c6]cB|"D7"A2f2 f2ef|"G"gfga gedc|
+D2B2 B2AB|"C"E2c2 c2cB|"D7"A2f2 f2ef|[1 "G"gfga g2dc:|[2 "G"g6|]
+
+X: 36
+T:Whisky Before Breakfast
+R:Reel
+Z:added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+|:A,B,DE D3E|F2A2 B2A2|G2BG F2AF|EDEF EDB,D|
+A,B,DE D3E|F2A2 B2A2|G2BG F2AF|EDEF D2D2:|
+|:FGAB cdef|gfed cBA2|e2ee e2ef|gfed cBA2|
+d2fd c2ec|BABc A2F2|G2BG F2AF|EDEF D2D2:|
+
+X: 37
+T:Ale is Dear
+R:Reel
+S:Nathan Curry
+B:Nathan's Sideways Book
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+f2ef B2fe|faea cAec|f2ef B2fe|faec B3B:|
+B2Bc d2cB|A2AB cABA|B2Bc d2cB|efec B3B:|
+
+X: 38
+T:Charlie Lennon's Mazurka
+R:Mazurka
+B:Sullivans' Session Tunes Book 2
+Z:Added by Alf Warnock
+M:3/4
+L:1/8
+K:G
+DG|B3 AGB|d4AB|c3 edc|(3Bcd g2DG|
+B3 AGB|d4AB|c3 AFA|G4:|
+gf|e2c ece|d2d2AB|c3 edc|Bdg2gf|
+e2c ece|d2d2AB|c3 AFA|G4:|
+
+X: 39
+T:Rickett's Hornpipe
+R:Hornpipe
+Z:Added by Alf Warnock
+M:C
+L:1/8
+K:D
+(3ABc|dcdA FAdf|edcB A2g2|fgaf gfed|edcB Agfe|
+dcdA FAdf|edcB A2g2|fafd egec|d2d2 d2:|
+fg|afaf d2ga|bgbg e2fg|afba gfed|edcB Agfe|
+dcdA FAdf|edcB A2g2|fafd egec|d2d2 d2:|
+
+X: 40
+T:Hare in the Corn
+R:Jig
+D:From Planxty album
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+A|FAA AFA|BdB AFE|~F3 EDE|FDD D2A|
+FAA AFA|BdB AFA|Bcd ecA|ded d2:|
+|:e|f2f fed|g2g gfe|f2f fed|a2a bag|
+f2f fed|gee ecA|Bcd ecA|ded d2:|
+
+X: 41
+T:Langstrom's Pony
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+|:fed cAA|EAA cAA|fed cAA|BGB dcB|
+fed cAA|EAA cAA|faf gfe|dBG Bcd:|
+|:cee dff|cee ecA|cee deg|dBG Bcd|
+cee dff|cee efg|faf gfe|dBG Bcd:|
+|:Ace a^ga|ecA ecA|GBd =gfg|dBG Bcd|
+faf gfe|fed ecA|faf gfe|dBG Bcd:|
+|:AEA A2d|cAc ecB|AEA AB=c|BGB d^cB|
+AEA A2d|cAc efg|faf gfe|dBG Bcd:|
+
+X: 42
+T:Oak Tree
+R:Reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+AG|:FDAD FDAD|FDAF GEFD|A,2A,G, A,2A,G,|A,G,A,B, =CDEG|
+FDAD FDAD|FAAF GFED|Bdef gece|[1 d2dc d2AG:|[2 d2dc d2eg|
+|:fBB2 fa^ge|fece faed|cAA2 fAeA|cAea fece|
+fBB2 fa^ge|fece faec|ABce a^gae|[1 faed cAce:|[2 faed cABc|
+|:d2fd d2fd|c2ec c2ec|d2fd d2fg|afge dcBA|
+d2fd Adfd|c2ec Acec|d2fd Adfg|[1 afge dcBA:|[2 afge dBAG|
+
+X: 43
+T:Old Hag You Have Killed me
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:G
+G|FED c2A|ded cAG|ABA ABG|ABA A2G|
+FED c2A|ded cAF|GAF GcA|GAF G2:|
+de|fef gfg|afd cAG|ABA A2G|ABA Ade|
+fef gfg|afd cAF|GAF GcA|GAG G2:|
+
+X: 44
+T:Paddy Carthy
+R:Reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+|E2BE GABG|E2BG FDAF|E2BE GABe|dBBA BEE2|
+E2BE GABG|E2BG FDAF|E2BE GABe|dBBA BEE2:|
+|:efge fgaf|gfed edBA|efge fgaf|gfed Bee2|
+efge fgaf|gfed edBA|bgaf gfed|edBA BEE:|
+
+X: 45
+T:Patsy Geary's Jig
+R:Jig
+Z:added by Alf Warnock
+M:6/8
+L:1/8
+K:G
+AG|F2A ABA|BcB A2G|F2A d2e|f3 fef|
+g3 f3|e=fe d2B|[1 ABA AFD|E3 EFG:|[2 ABA e^fe|d3 d2|
+|:e|f2e f2e|f2e fga|ABA BAF|ABA ABd|
+efe efe|efe dfa|baf afe|d3 d2:|
+
+X: 46
+T:Rose in the Heather
+R:Jig
+Z:added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+E|FAF EFE|DFA BAF|ABd ede|fdB AFE|
+FAF EFE|DFA BAF|AdB AFE|FDC D2:|
+e|fdB ABd|faa afd|~g3 fed|~B3 efg|
+fdB ABd|faa afa|baf gfe|fdc d2:|
+
+X: 47
+T:Spey in Spate
+R:Reel
+C:J. Scott Skinner
+Z:added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+A,2|D/2D/2DFD A,DFA|dcBA ^GAFD|E/2E/2E=GE B,EGE|gecA ^GA=GE|
+D/2D/2DFD A,DFA|dDcD BDef|g/2f/2efd ecdB|AFGE D2:|
+A,2|d/2d/2dfd AdFA|DFAd fagf|e/2e/2ege BAGF|EFGB egfe|
+d/2d/2dfd AFFA|dDcD BDef|g/2f/2efd ecdB|AFGE D2:|
+
+X: 48
+T:Tar Road to Sligo
+R:Jig
+Z:added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+e|fdB Bcd|ecA BAG|FAA ABc|dcd efg|
+fdB Bcd|ecA BAG|FAA Aag|[1 fdc d2e:|[2 fdc d2B||
+Aff Aff|gfg efg|afd dcd|Bed cBA|
+Aff Aff|gfg efg|afd bge|edc d2B|
+Aff Aff|gfg efg|afd dcd|Bed cBA|
+fdB gec|afd bge|a^ga b=ge|edc d2|]
+
+X: 49
+T:Tom Ward's Downfall
+R:Reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:G
+dc||BGG2 AGFG|EGG2 AEGE|DEGA B2Bd|(3=fed ^cd Bdgd|
+BGG2 AFGF|ECC2 ACGE|DEGA B2Bd|ecdc BGGA||
+B2A2 G2F2|EGG2 AEGE|DEGA B3d|ed^cd Bdgd|
+BGG2 AFGF|ECC2 ACGE|DEGA B2Bd|ecdc BGGA||
+dgg^f g2ag|e2ab adga|bgg2 agef|(3gfe dc BGG2|
+dgg2 bgag|eaab adga|bgg2 agef|(3gfe dc BGG2||
+dgg2 abag|e2ab adga|bgg2 agef|(3gfe dc BGG2|
+dgg2 bgag|eaab adga|bgg2 agef|(3gfe dc (3Bcd gd|
+
+X: 50
+T:Trip To Windsor
+R:Reel
+C:Dan R. Macdonald (1912-76)
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:A
+|EA2A Acea|f2fe fefg|agfa feaf|ecAc BAFA||[1 ecBc A3A:|[2 ecBc A2cz/2d/2|
+|:efec e/2f/2gae|faec BAcB|AFEC EFAB|cABc BAFE|
+A,2CE FECE|A2cB Acea|fefg afed|[1 cABc A2cd:|[2 cABc A2c2|]
+
+X: 51
+T:Winter Ducks
+R:Jig
+Z:Added by Alf Warnock, named by Charles de Lint
+M:6/8
+L:1/8
+K:G
+D|GFG AGA|B2g gdB|GAB c2A|BGE EDE|
+GFG AGA|B2g gdB|cBA (3Bcd B|AGF G2:|
+d|gfg efg|eag fed|gfg efg|afd df|
+gfe agf|gfe edB|cBA (3Bcd B|AGF G2:|
+
+X: 52
+T:Edelweiss
+R:Waltz
+C:Richard Rodgers
+M:3/4
+L:1/4
+K:G
+B,2D|A3|G2D|C2z|
+B,2B,|B,CD|E3|D2z|
+B,2D|A3|G2D|C2z|
+B,2D|DEF|G3|G3|
+ADD|FED|B,2D|G2z|
+E2G|A2G|F3|D2z|
+B,2D|A3|G2D|C2z|
+B,2D|DEF|G3|G2z:|
+
+X: 53
+T:Sleep soond ida moarnin'
+T:Sleep sound in the morning
+R:Reel
+O:Shetland
+Z:3rd part played in Ottawa
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:ADor
+ea2^g a2ef|gedB GABG|ea2^g a2ef|gedB A2:|
+AB|cAeA cAeA|BcdB G2AB|cAeA cAeA|BAGB A2AB|
+cAeA cAeA|BcdB G2GB|ABcd efga|gedB A2
+|:AB|c2e2 c2e2|d2=f2 d2f2|ea2^g a2ef|gedB A2:|
+
+X: 54
+T:Humours of Ballyloughlin
+R:Double Jig
+S:Matt Molloy
+Z:Modified by Alf Warnock to agree more with the Black Boo
+M:6/8
+L:1/8
+K:DMix
+~A3 AGE|GED D2B|cBc ded|cAG FED|
+~A3 AGE|~G3 cGE|~D3 DFA|~D3 D3:|
+|:cBc cAB|cAG ABc|~d3 dfd|dAF DFA|
+cBc dcB|cAG FGE|~D3 DFA|~D3 D3:|
+|:fdd gdd|fdd gdd|^cde ged|^cde ~g3|
+fdd gdd|fdd gdd|^cde gag|ed^c d3:|
+|:A2D AAG|~F3 GED|~E3 ~E3|~E3 EFG|
+~A3 dAG|~F3 GEA|~D3 DFA|~D3 D3:|
+
+X: 55
+T:Long Note
+R:Slide
+S:Whistle Book
+Z:Added by Alf Warnock
+M:12/8
+L:1/8
+K:D
+|:.D.D.D D2A A2G E2F|G2E .E.E.E =c2E d3|.D.D.D D2A A2G E2G|.A.A.A G2A E2A D3:|
+.d.d.d d2B =c2A d2B|=c2A d2B c2A G2z|ddd d2B =c2A d2d|e2a a2g e3 d3|
+.d.d.d d2B =cAd2B|=c2A d2B c2A G2F|D2E F2G A2d d2c|.A.A.A G2A E2A D3|
+|:.a.a.a a2b a2f d2f|g2f g2a g2e cz|.a.a.a a2b a2f d2d|e2a a2g eae d3|
+eaa a2b a2f d2f|g2e fed e2d c2B|A2B c2d e2d d2c|.A.A.A G2A EAD3:|
+
+X: 56
+T:Blackberry Blossom
+R:reel
+S:Robin Williams Fiddle book
+Z:Added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:4/4
+L:1/8
+K:G
+g2bg f2af|egfe dBAG|EFGF E2GA|BdBG A4|
+(3gfg bg f2af|efge dBAB|E2GF EFGA|BGAF G4:|
+|:B2eB dBed|B2eB dBAF|B2eB d2ef|gbag edBA|
+B2eB dBed|B2eB dBAF|[1 GABA A2GA|BGAF GFED:|[2 GABd efge|dBAB G4|]
+
+X: 57
+T:Up Sligo
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:Em
+D|EBB BAG|Fdd AFD|EBB EBB|AGF EFD|
+EBB BAG|Fdd AB^c|ded BGB|AGF E2:|
+A|Bee ede|fef dBA|Bee Bee|fe^c d2A|
+Bee ede|fef dBA|BdB GBd|AGF E2:|
+
+X: 58
+T:Galway Farmer
+R:Reel
+C:Steve Knightly
+S:Charles de Lint
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:G
+D|E2EF EDB,D|EDEF GFED|D2AB AFED|dA (3Bcd AFED|
+E2EF EDB,D|EDEF GFED|D2AB AFED|E4 E3:|
+D|E2BE cEBE|E2BE cEBE|E2cE dEcE|E2cE dEcE|
+d3B AFED|AGAB AFED|B2 (3BBB AGFG|E4 E3:|
+
+X: 59
+T:Harvest Home
+R:Hornpipe
+S:Charlie Lennon, Boston 1997
+Z:Added from memory by Alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:D
+AF|DFAF DGBG|FAde fdAF|GBef gfgf|edcB AGFE|
+DFAF DGBG|FAde fdAF|GBef gecd|e2d2 d2:|
+gf|eA (3cBA E2ef|gafg eA (3cBA|E2ef gafg|edcB AGFE|
+DFAF DGBG|FAde fdAF|GBef gecd|e2d2 d2:|
+
+X: 60
+T:Prince Charlie's Welcome to Skye
+T:Twa Bonnie Maidens
+T:Planxty George Brabazon
+R:March
+Z:3rd Part added by  alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:G
+dB|"D"A2D2 GFED|A2D2 GFED|"Em"B2E2 EFGE|B2E2 "A7"E2FG|
+"D"A2GF "G"d2cB|"D"A2GF GFED|"G"FEDB, "A7"A,B,DE|"D"F2D2 D2:|
+\
+de|f2df "A"e2ce|"D"d2Ad "Bm"BAGF|"Em"B2E2 EFGE|B2E2 "A7"E2de|
+"D"f2df "A"e2ce|"Em"d2Bd BAGF|"G"GFED "A7"A,B,DE|"D"F2D2 D2:|
+\
+ag|.f2.d2 fgag|.f2.d2 fgag|"Em".g2.e2 efga|"A7".b2.e2 e2ag|
+"D".f2.d2 fgag|.f2.d2 fgag|"Em"fgab "A7"agfe|"D"f2d2 d2:|
+
+
+X: 62
+T:Newfoundland set tunes
+R:Reel
+S:Ryan's Fancy record
+Z:Added by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:D
+|:"1st tune"DF EF/E/|Dd Bd/B/|AF ED/E/|FD B,A,|
+DF EF/E/|Dd Bd/B/|AF ED/E/|FD D2:|
+A|FA d>A|FA d>A|FA dB|c2 c>d|
+e/f/e/d/ cB|A/B/A/G/ EF/G/|AF EF/E/|D2 D:|
+"2nd tune"FA GB|FA f2|fe/f/ g/f/e|ed/e/ f/e/d/A/|
+FA GB|FA f2|fe/f/ g/e/c|ed d2:|
+A/B/|d2 c/d/c/B/|Ad F>G|AG EG|BA FA/B/|
+d2 c/d/c/B/|Ad F>G|AG EF/E/|D2 D:|
+
+X: 63
+T:Limerick Rake
+R:Jig
+Z:Added by alf.warnock@rogers.com.  Song played as jig
+M:6/8
+L:1/8
+K:D
+E|EGF EDE|GAB e2e|dBB AFG|AFE D2D|
+EGF EDE|GAB e2e|dBB AGF|E3 E2:|
+B|Bee efe|dBc d2d|eBB AFG|AFE D2D|
+EGF EDE|GAB e2e|dBB AGF|E3 E3:|
+
+X: 64
+T:Caledonian Laddie
+R:Hornpipe
+S:New Penny Whistle album
+Z:Added by alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:D
+A2|"D"D2DE FDFA|"G"BABd "A7"e2f2|"D"dcBA BdAF|"A7"G2E2 E2F2|
+"D"D2DE FDFA|"G"BABd "A7"e2f2|"D"dcBA "A7"BdAG|"D"F2D2 D2:|
+de|f2fd "G"gfed|"A7"cded A2AA|"Bm"BABc "F#7#5"dcde|"Bm"f2B2 B2 (3dcB|
+"D"A2AB AFGE|D2d2 d2 (3dcB|A2AF "G"BAGF|"A7"G2E2 E2F2|
+"D"D2DE FDFA|"G"BABd "A7"e2f2|"Em"E2EF GEGB|eBef g2ef|
+"G"gfed "A7"edcB|"Em"cBAG "A7"ABcA|"D"d2E2 "A7"FGAG|"D"F2D2 D2|]
+
+X: 65
+T:Sculley's Reel
+R:Reel
+N:1st part is just King of the Fairies
+M:4/4
+L:1/8
+K:Em
+B,2|"Em"EDEF GFGA|BcBA GFGA|B2E2 EFGE|"D"FGFE D2F2|
+"Em"EDEF GFGA|BcBA GFGA|"Bm"B3c "D"BAFA|"Em"G2E2E2:|
+B2|efge B2B2|g2g2B4|c3BA2G2|FGAG D2F2|
+EDEF GFGA|BABd e2d2|B3cBAFA|G2E2E2:|
+
+X: 66
+T:Master Henry's
+R:Reel
+S:Barley Bree Album
+Z:Added by alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:G
+G2GB AGED|GGBd gedB|G2GB AGED|cBAG E2D2:|
+|:g2eg dgeg|g2eg eaa2|[1 g2eg dgeB|cBAG EGD2:|[2 bgaf gfed|^cdef (3gfe dB|]
+
+X: 67
+T:Richmond Reel
+R:Reel
+S:Battlefield Band album
+Z:added by alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:D
+A2 f2 fgfe|dedB A2 d2|cdcB A2 AB|AF G2 F2 E2|
+D2 f2 fgfe|dedB A2d2|cdcB A2 d2|e2 c2 "Fine" d4:|
+K:A
+:|efed cde2|afed cde2|B2 e2 e2 ef|ecd2 c2 B2|
+efed cde2|afed cde2|B2 e2 eefg|[1 a4 a4:|[2 a4 =g4|]
+
+X: 68
+T:Sunshine Hornpipe
+R:Hornpipe
+S:Dubliners Album
+Z:Added by alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:A
+cd|:(3eae (3cec (3AcA EA|CEAc ecAc|(3ded (3cdc (3BcB (3ABA|GeFe E2 cd|
+(3eae (3cec (3AcA EA|CEAc defg|(3agf (3edc (3fed (3cBA|(3GAB (3EFG A2:|
+Bc|dBGB EGBc|dBGB d2ga|ec (3cBA EA (3cd^d|ec (3Ace a2 ga|
+fdAd (3fed (3cBA|(3GAB (3AGF E2 cd|eafd cABG|Aa (3gec A2:|
+
+X: 69
+T:Blackbird, The
+R:hornpipe
+D:De Danaan
+Z:B part slightly modified version of Norbeck's
+M:C|
+L:1/8
+K:Dmix
+DE|F2FA GFD2|de (3fed dcAF|G2GF GFDE|FGAF GBAG|
+F2FA GFD2|de (3fed dcAG|AdcA GcAG|F2D2 D2:|
+|:fg|ag (3fed gfe^c|d^cde fdA2|ag (3fed gfeg|fagf e2 (3efg|
+afge fde^c|d2de fdAG|AdcA GcAG|F2D2 D2:|
+
+X: 70
+T:Old Man and the Old Woman
+R:reel
+Z:added by alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:G
+Bc|dedB GBdB|cdcB A3d|fgfe dfaf|gage d2Bc|
+dedB GBdB|cdcB A3d|fgfe dfaf|g2gfg2:|
+Bc|dg2f g2fe|df2e f2ed|ce2 de2 dc|BABcd2Bc|
+dg2f g2fe|df2e f2ed|ce2 de2 dc|BGAFG2:|
+
+X: 71
+T:Boys of the Lough
+R:Reel
+S:Boys of the Lough Book
+Z:Added by alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:D
+dB|AF ~F2 A2AB|defd efdB|AF ~F2 ABAF|EDEFE2 DF|
+AF ~F2 A2AB|defd efdB|AF ~F2 BdAF|EDEFD2:|
+de|faag fgfe|dBBA GBdB|AF ~F2 ABde|fdgfe2 fg|
+a2ag fgfe|dBBA GBdB|AF ~F2ABAF|EDEFD2:|
+
+X: 72
+T:Mary O'Neill
+R:Jig
+C:O'Carolan
+Z:Modified version. alf.warnock@rogers.com
+M:6/8
+L:1/8
+K:D
+|:dAG F2D|EGE F2D|dAG F2D|ECE GFE|
+dAG F2D|EGE F2D|GAB =cBA|GE=C EGE:|
+|:f2f dfd|afd ege|f2f dfd|ged efg|[1 f2f dfd|
+afd ege|fed =cBA|GE=C EFG:|[2 fed edc|d=cB cBA|
+GAB =cBA|GE=C EGE::FED d2D|FED d2D|
+FED d2D|GEC EGE|FED d2A|e2A f2A|
+fed =cBA|GE=C EFG:|
+
+X: 73
+T:Old Tipparerry
+R:jig
+Z:Add by alf.warnock@rogers.com. Always play
+Z:it after
+Z:Garret Barry's
+M:6/8
+L:1/8
+K:G
+|:dcA ~G3|ABA ~G3|dcB ~G3|ADE FGA|
+dcA ~G3|ABA GAd|fdd efe|gfd =cAF:|
+|:GBd ~g3|gag ~g3|dgg dgg|a2g fga|
+bag agf|gfe f2e|dcA d2e|fed cAF:|
+
+X: 74
+T:Paddy Gavin's
+R:Jig
+S:a Mick Moloney album
+Z:Added by alf.warnock@rogers.com
+M:6/8
+L:1/8
+K:D
+F|GEG BGB|e2d cAG|FDF AFA|d2d DFA|
+GEG BGB|G2E EBc|dcd DFA|GAF E2:|
+D|EGB e2f|gfe fed|DFA d2e|faf fed|
+EGB e2fgfe fed|BdB DFA|GEF E2:|
+
+X: 75
+T:Priest's Boots
+R:Jig
+S:A Mick Moloney album
+Z:Added by alf.warnock@rogers.com
+M:6/8
+L:1/8
+K:D
+fg|afa geg|fdf ecA|dcd fed|cAc efg|
+afa geg|fdf ecA|dcd fef|gec d2:|
+cd|efe efe|efd cBA|dcd fed|cAc ecd|
+efe efe|efd cBA|dcd fef|gec d2:|
+
+X: 76
+T:Top of Maol
+R:Polka
+S:Matt Cranitch Book
+Z:Added by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:G
+A2 AB/d/|ed Bd|G2 G>A|Bd BG|
+A2 AB/d/|ed Bd|e/f/g/e/ dB|A2 A2:|
+|:ea ag/a/|ba g2|ef g>a|ge ed|
+ea ag/a/|bag>f|e/f/g/e/ dB|A2A2:|
+
+X: 77
+T:Sean McGovern's Polka
+R:Polka
+S:Matt Cranitch Book
+Z:Added by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:D
+B|AD FA|GF EF/G/|AD FA|d2 c/d/c/B/|
+AD FA|GF E>d|ce Ac|d2 d3/2:|
+e/|fd gf|e/f/e/c/ Ae|fd gf|e2 a/b/a/g/|
+fd gf|ec A>B|ce ce|d2 d3/2:|
+
+X: 78
+T:D\'alaigh's Polka
+R:Polka
+S:Matt Cranitch book
+Z:Added by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:G
+eA {Bd}BA|eA {Bd}BA|eA {Bd}BA|G2 GB/d/|
+eA {Bd}BA|eA {Bd}BA|Be dB|A2 A2:|
+|:ed ef|ga ga/g/|ed ef|az g2{ag}|
+ed ef|ga g/a/g/e/|dB gB|A2A2:|
+
+X: 79
+T:Running the Goat #1
+R:Polka
+N:Running the Goat is the name of a set dance from Harbour Deep,
+N:Newfoundland. This is originally the tune that was played there for the
+N:dance.  St John's musicians added the other three tunes.  The B part
+N:doesn't get repeated.
+Z:Added by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:G
+E>F ED|(3EFG A2|BG GA|BD E2|
+DE FG|ABA2|BD (3EFE|D2D2:|
+Bddc|BcA2|BG GA|BGA2|
+Bddc|BcA2|BD (3EFE|D2D2|]
+
+X: 80
+T:Running the Goat #2
+R:Polka
+Z:Added by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:C
+CE GE|ED ED|CE GE|ED D2|
+CE GE|ED EG|A>B AG|ED C2:|
+|:Cc Bc|E2 ED|Cc Bc|d2d2|
+Cc Bc|E2 EG|A>B AG|ED C2:|
+
+X: 81
+T:Running the Goat #3
+T:She said she couldn't Dance
+T:Ringle Dingle Daddy
+R:Polka
+Z:Added by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:G
+dB GA|B2 Bc|dB GA|BA A2|
+dB GA|B2 Bc|de dB|AG G2:|
+|:dd ef|g2g2|dd ef|ed d2|
+dd ef|g2 g2|dedB|AG G2:|
+
+X: 82
+T:Running the Goat #4
+R:Polka
+C:Geoff Panting
+N:An original tune from Geoff Panting of the group Rawlin's Cross
+Z:Added by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:Bm
+|:BE EA|Bc dc|BE EB|A2 A2|
+BE EA|Bc dc|Bc/B/ AF|E2E2:|
+|:Be ed|BA A2|Be ed|Bc d2|
+Be ed|BA A2|Bc/B/ AF|E2E2:|
+
+X: 83
+T:Winning Ticket
+C:Jerry Holland
+Z:Added by Alf.warnock@rogers.com
+M:6/8
+L:1/8
+K:G
+E|DB,D G2A|BGB de=f|ecg dB3/2G|A/2B/2cB AGE|
+DB,D G2A|BGB de=f|ecg dBA|[1 G3 G^FE:|[2 G3 GBd||
+g2a bag|a^fd d2e|=f2g agf|ege cBc|
+ded dBA|GBd g2=f|ecg dBA|[1 G3 GBd:|[2 G3 z3|]
+
+X: 84
+T:Reel Beatrice
+R:Reel
+C:Trad.
+N:Modified slightly from version on the web.  Added some more accidentals
+N:and transposed to Gminor. alf.warnock@rogers.com
+M:2/4
+L:1/16
+Q:100
+K:Gm
+G,3A,|:B,2G,B, DG,B,D|GDDB, D2GA|BBGB dGBd|gd (3ddd gdga|
+bagf edcB|Acc=B c4|d^cde d=cBA|[1 G3G, G,3A,:|[2 G3G, G,2z2||
+|:g2eg ae (3eee|ed^cd gd (3ddd|d^cde d=ccA|BcBA G2g2|
+ggeg ae (3eee|ed^cd gd (3ddd|d^cde d=cBA|[1 G2zG, G,3z:|[2 G2z2 F>A||
+|:BF (3FFF DFBd|BF (3FFF DFBd|cA (3AAA FAcA|Bbag fedc|
+BF (3FFF DFBd|BF (3FFF DFBd|cA (3AAA FAcA|[1 BABc B2FA:|[2 BABc B2z2|]
+
+X: 85
+T:Kilmoulis Jig
+R:Jig
+Z:Added by alf.warnock@rogers.com
+M:6/8
+L:1/8
+K:D
+A|ded cdc|BcB ABA|GAG FGF|FED E2A|
+f2f efe|d2F FEF|GFG B2B|AFD D2e||
+f2f efe|d2F FEF|GFG BAB|ABd e2e|
+f2f efe|d2F FEF|GFG BAB|AFD D2e|
+|:f2f fed|g2g gfe|f2f fed|dcB A2e|
+f2f fed|g2g gfe|fef afd|cBc d2e:|
+dfa dfa|c2e ecA|gfe fed|B2e e2|
+dfa dfa|c2e ecA|gfe fed|FEF G2:|
+
+X: 86
+T:Hobo's Jig
+R:Jig
+Z:Added by alf.warnock@rogers.com
+M:6/8
+L:1/8
+Q:3/8=120
+K:A
+[e3A3]|[ec]ee e2e|{g}fec ef/2g/2a|geg efg|aga fed|
+[ec]ee e2e|{g}fec ef/2g/2a|gag efg|[1 {g}[a3A3] a2[eA]:|[2 aAA =gAA|
+K:D
+|:faf edc|dAF {c}BAF|[GA]FG [AE]FG|{c}BAF Ade|
+faf edc|"To Coda"dAF AB/2c/2d|cec ABc|[1 edc d2A:|[2 edc d2[eA]||
+"Coda"dAF A2 [de]|[ce]BA [GA]FE|D3 [D3A3]|]
+
+
+
+X: 87
+T:Bailey's Breakdown
+R:Reel
+M:4/4
+L:1/8
+K:D
+AD|FADF ABAF|GBDG B2 AG|FAde f2 ef|gfed cBAG|
+FADF ABAF|GBDG B2 AG|FAdf edce|d2 +df++fd+ +f2d2+:|
+fg|afdf ecAc|dcdB AFDF|GABG FAdf|edcB A2 fg|
+afdf ecAc|dcdB AFDF|GAdf edce|d2 +fd++fd+ +f2d2+:|
+
+X: 88
+T:Maple Sugar
+R:Reel
+C:Ward Allen
+S:Nancy Roach book
+Z:entered by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:A
+Acd|:"A"e2e>f|edcB|c2c>d|cAdc|
+"E7"cBBc|d2c>B|"A"dccB|cAcd|
+e2e>f|edcB|c2c>d|cAdc|
+"E7"cBBc|d2c>B|"A Fine"A2A>B|[1 A2CD|E2E>F|
+ECEA|c2c>B|AEFE|"E7"B2B>c|
+BGFG|"A"A2GF|ECCF|E2E>F|
+ECEA|c2cB|AEFE|"E7"B2B>c|
+BGFG|"A"A2A>B|A2ce:|[2 A2 G>A|
+K:E
+"E"B2B>c|BGBe|g2g>f|eBcB|
+"B7"f2f>g|fdcd|"E"e2dc|BGAc|
+B2B>c|BGBe|g2g>f|eBcB|
+"B7"f2f>g|fdcd|"E"e2e>f|"DC al Fine"eAcd:|
+
+X: 89
+T:High Part of the Road
+R:Jig
+S:Matt Cranitch Book
+Z:Added by alf.warnock@rogers.com
+M:6/8
+L:1/8
+K:G
+A|:~B3~c3|ded cAG|~F3DED|DGG FGA|
+~B3~c3|dcA B/^c/de|fed cAF|[1 AFG3:|[2 AGF GBd|
+|:~g3def|g2a bag|~f3dfg|afd cAG|
+~g3def|g2a bag|fed cAF|[1 AGF GBd|[2 AGFG2|]
+
+X: 90
+T:Johnny O'Leary's #1
+R:Jig
+Z:Added by alf.warnock@rogers.com, after Vince Milne workshop in Ottawa, Feb 1
+Z:8
+M:6/8
+L:1/8
+K:A
+AB|:cAA eAA|a^ga e2d|cAA eAA|Bcd BAB|
+cAA eAA|a^ga e2d|cAc BAB|cAA A2B:|
+|:~c3 ecA|~d3 bfd|~c3 ecA|Bcd Bcd|
+~c3 ecA|~d3 bfd|~c3 BAB|cAA A2b:|
+
+X: 91
+T:Johnny O'Leary's #2
+R:Jig
+Z:Added by alf.warnock@rogers.com, after Vince Milne workshop in Ottawa, Feb 1
+Z:8
+M:6/8
+L:1/8
+K:Em
+|:dcA G2A|BA^G ABc|dcA GBA|GEE E2c|
+dcA G2A|BA^G ABc|dcA GBA|GEE E2z:|
+gfg e2f|gfg e2f|gfg eag|fdc def|
+gfg aba|gef g2e|dBA GBA|GEE E2z:|
+
+X: 92
+T:Compliments to Sean Maguire
+R:reel
+C:Brendan Mulvihill
+S:Jerry Holland Book
+M:C|
+L:1/8
+K:Bb
+(3FE_D|:DB,~B,2 FB,DF|EDEF EFG_A|AF~F2 cFAc|BABc BGFE|
+DB,~B,2 A,B,_A,B,|G,EED EFG_A|AF~F2 cFAc|[1 BABc B2 (3FE_D:|[2 BABc B2gf
+|:dBFB DFBc|dBAc BAGF|GeFd EcDB|AF~F2 cFAc|
+B/B/BfB bBfB|gBfB AF~F2|[1 G/G/GeG F/F/FdF|EcAc B2gf:|[2 E/E/EcE dEcE|AG (3FGA B2z2|
+
+X: 93
+T:Mutt's Favorite reel
+R:reel
+C:Jerry Holland
+M:C|
+L:1/8
+K:G
+|:EAAc B2Ac|BAAg feea|EAAc B2Ac|BGGA BcdD|
+EAAc B2 Ac|BAAg feef|gfgde2dg|BGBc dBGB:|
+|:EA A/A/A fA A/A/A|gA A/A/A aA A/A/A|EAfA gAaA|fgdg BGGD:|
+
+X: 94
+T:Bernadette's reel
+R:reel
+C:Jerry Holland
+M:C|
+L:1/8
+K:C
+B,|:A,2AGA2AB,|A,AAc BGGA|A,AAGA2Ac|[1 BGGe dGGA:|[2 BGGedGGd||
+|:cdef gedc|BGGE GFFA|[1 cdef gece|dGAB c/c/c cd:|[2 cdef gecg|dGAB c2cz|
+
+X: 95
+T:Banish Misfortune
+R:Jig
+C:Trad.
+Z:Added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:6/8
+L:1/8
+K:G
+|:fed =cAF|Add cAG|F2D DED|FEF GFG|
+A2A cAG|AGA cde|fed cAG|Ad^c d2z:|
+|:f2d d^cd|f2g agf|e2=c cBc|ede gec|
+f2g agf|e2f gfe|fed cAG|Ad^c d2z:|
+f2g e2f|ded =c2d|A3 AGA|F2A GFD|
+cdc cAG|AGA cde|fed cAG|Add d3:|
+
+X: 96
+T:Caledonian Wedding Anniversary Waltz
+C:Wilf Gillis
+S:Wilf Gillis
+M:3/4
+R:Waltz
+L:1/4
+K:C
+C3/2E/ G|c2 B|A F A|G2 A/B/|c3/2d/ c|c G E|
+F A, C|B, D G,||C3/2E/ G|c2 B|A F A|G2 F/E/|
+[1 F3/2A,/ C|B, A, B,|C3|C2 z G:|[2 F3/2A/ c|B A B|c3|c2 e/f/||
+g3/2e/ c|c2 B|A f A|G2 A/B/|c3/2B/ c|e g f|e d c|d2 e/f/|
+g3/2e/ c|c2 B|A f A|G2 e/f/|g e c|B d f|e c B|c2 e/f/|
+g3/2e/ c|c2 B|A f A|G2 E/F/|G c e|g f e|d B G|F E D|
+C3/2E/ G|c2 B|A F A|G2 F/E/|F3/2A,/ C|B, A, B,|C3|C3|]
+%%text harmony
+M:3/4
+E3/2E/ E|E2 G|F A F|E2 C/D/|E3/2F/ E|E E C|D F E|D F B,|
+E3/2E/ E|E2 G|F A F|E2 D/C/|D3/2F/ E|
+[1 G G F|E3 -|E2z:|[2 G F G|E3 -|E c>d|
+e3/2c/ E|E2 G|F A F|E2 F/G/|E G E|c B d|c B A|B2 B/d/|
+e3/2c/ E|E2 G|F A F|E2 c/d/|e c E|G B d|c E F|E2 c/d/|
+e3/2c/ E|E2 G|F A F|E2 C/D/|E E c|e d c|B G F|D2 C/B,/|
+E3/2E/ E|E2 G|F C F|E2 D/C/|D3/2F/ E|G G F|E3 -|E2 z|]
+
+X: 97
+T:Colonel Rodney
+R:Reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:A
+B|:cA~A2 eAce|eaga fedc|dB~B2 fBde|f=f^fg afed|
+cAA2 eAce|eaga fedc|defg agaf|[1 (3efg ae cAAB:|[2 (3efg ae cAAf|
+|:e2ce Aece|aAgA fAeA|f2df Bfdf|bBaB gBfB|
+e2ce aece|gaga fe.dc|defg agaf|[1 efae cAAf:|[2 efae cAA|]
+
+X: 98
+T:Cottage in the Grove
+R:Reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:D
+|:EDB,A, B,EFA|B2eB dBAF|D2DF EEDB,|A,B,DF EDB,D|
+E2EE DEFA|B2eB dBAF|DEFA ^AB=AF|DEFD EEEz:|
+|:Bee2 fedA|eAfe dBAF|A2AB d2fd|edef ddBA|
+Bee2 fedA|eAfe dBAF|DEFA ^AB=AF|DEFD EEE2:|
+
+X: 99
+T:Dill Pickle Rag
+R:Rag
+C:Charles L. Johnson
+S:Nottingham Music Database repaired by Alf Warnock
+B:Fiddler's Fakebook
+M:4/4
+L:1/8
+K:G
+B2c2 ^c2|:"G"degd egde|gdeg -ged2|"Em"GABG ABGA|BGAB -BAG2|"D"DEFD EFDE|
+FDEF -FED2|[1 "G"GFGE -"E"EFG^G|"A"A^GAd -"D"dBc^c:|[2 "A"A^GAd -"D"dBA2|"G"G4 -GGFE|]
+|:"D"D2_E2 =E2F2|"G"G2ed -ded2|"D"F2ed -ded2|"G"G2ed -ded2|
+"D"DAEA =FA^FA|"G"G2ed -ded2|[1 "A"AB^cA Bc3|"D"d4 -dGFE:|[2 defd ef3|"G"g8|]
+K:C
+|:"C"cAGc AGEF|GEGA -AGE2|"G"D^CDG -GED2|"C"C4 A2B2|
+cAGc AGEF|GEGA -AGE2|"D"A^GAd -dBA2|"G"G4 A2B2|
+"C"cAGc AGEF|GEGA -AGE2|"G"D^CDG -GED2|C4 c2B2|
+"Am"A2AB cBcd|e^dea -age2|"D"d^cdg -"G"ged2|[1 "C"c6AB:|[2 c6z2|]
+
+X: 100
+T:The Steampacket
+R:Reel
+M:4/4
+L:1/8
+K:C
+~G3c AGFG|AG~G2 Ad{e}dc|AcGc AFDE|FEFG Ad{e}dc|
+AG~G2 AGFG|AG~G2 A2dc|AcGc AFDE|JF2zG ABcA||
+dg~g2 ag~g2|dg{a}ge ^fdcA|dg~g2 ag~g2|~d3e ^fdcA|
+dg~g2 ag~g2|abag J^f3g|(3ag^f {a}ge fdcA|d^cde ^fdcA||
+

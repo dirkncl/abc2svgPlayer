@@ -1,0 +1,240 @@
+%%%%%%%%%%%
+% Airs
+%%%%%%%%%%%
+
+X: 1
+T:King of the Fairies
+R:Air
+C:Fiddler's Fakebook, via PR
+S:Nottingham Music Database
+M:4/4
+L:1/8
+K:Em
+B,2|"Em"EDEF GFGA|BcBA GFGA|BEE2 EFGE|"D"FGFE D2B,2|
+"Em"EDEF GFGA|BAGB "D"dedc|"Em"B2E2 "D"GFED|"Em"E6:|
+d2|(3ege B2 Bdef|gagf edef|e2B2 B2B^c|"D"ded=c BcdB|
+"Em"e2B2 Bdef|gagf efed|Bd (3efg "D"fe (3def|"Em"e6ef||
+"G"g2g2 "D"f2f2|"G"edBc "D"d2de|dBAF "G"GABc|"D"dBAF GFED|
+"Em"B,2E2 EFGA|B2ef edef|e2B2 "D"BAGF|"Em"E6|]
+
+X: 2
+T:Morgan Magan
+R:Air
+C:O'Carolan
+S:Tony Gordon, manuscript
+M:4/4
+L:1/8
+K:G
+D2|D2G2 G2AB|cBAG Bcd2|e2A2 A3G|GFEF D2EF|
+G3A GFEF|G2FE D2G2|FGA2 A3G|F2EF D2d2|
+G2B2 AGA2|G6B2|c3B ABc2|d4 e4|
+d2B2 cBAG|AGFE D2EF|G2B2 AGAF|G6dc|
+B2d2 d2ef|g2G2 Bcdf|g2G2 Bcd2|edcB A2c2|
+BABc d2B2|e2c2 d2B2|c2A2 B2G2|F2D2 D3D|
+E2C2 C3D|E2C2 C3E|F2D2 D2AG|FGEF D2Bc|
+d2B2 edcB|cBAG AGFE|D2G2 AGAF|G8|]
+
+X: 3
+T:Give me your hand
+T:Tabhair dom do lamh
+R:air
+M:6/8
+L:1/8
+K:G
+D|:"C"EGG "G"G2D|"C"EGG "G"G2D|"C"EGG "G"GAB|"Em"Bed "G"B2A/2G/2|
+"Am"A2e/d/2 "G"B2 A/2G/2|"Am"A>BA/2G/2 "C"E2D|EGG "G"G2D|"C"EGG "G"G2D|
+"C"EGG "G"GAB|"D7"A>BA/2B/2 "G"G2D|"C"EGG "G"GAB|"Em"Bed "G"B2A/2G/2|
+"Am"A2e/2d/2 "G"B2A/2G/2|"Am"A2 (3B/2c/2d/2 "C"e2d/2B/2|"G"dde "Em"g2e/2d/2|"C"eeg "D7"a2g/2e/2|
+"G"ggd/2e/2 "Em"ggd/2e/2|"C"gga "G"b3|bbb b2a/2g/2|"D7"a>ga/2b/2 a2g/2f/2|
+"C"e2g/2e/2 "G"ddg/2d/2|"Em"B2d/2B/2"Am"A2B/2A/2|"G"G2 (3B/2d/2e/2 "F"=f2e/2d/2|"C"eeg e2d/2B/2|
+"G"ddg "Em"B2c/2B/2|"Am"A>cB/2A/2 "G"G2D:|"C"EGG "G"G2D|"C"EGG "G"G3|]
+
+X: 4
+T:Resting Chair
+R:Air
+C:Tom Anderson
+M:C
+L:1/8
+K:G
+|:B3c A3B|G2D2 B,2G,2|C2A2 B,2GD|^CEAG F2D2|
+B3c A3B|G2D2 B,2G,2|C2A2 D2F2|[1 G6D2:|[2 G6d2|
+cBAG g3d|e2g2 d2B2|c3d B2G2|E2AG F2D2|
+cBAG g3d|e2g2 d2B2|c3e d2F2|G6d2|
+cBAG g3d|e2g2 d2B2|c3d B2GD|^CEAG F2D2|
+B3c A3B|G2D2 B,2G,2|C2A,2 D2F2|G8|]
+
+X: 5
+T:Resting Chair, Second Part
+R:Air
+C:Trad
+M:C
+L:1/8
+K:G
+|:z8|z8|z8|z8|
+d4 c4|B2G2 =F4|C2B,C A,2DC|B,3z2:|
+z4 cBAG|EDEF GABG|E4 G2D2|^C4 D4|
+z4 cBAG|EDEF GABG|E2DE D2C2|B,6z2|
+z4 cBAG|EDEF BABG|c4 g2d2|^c4 d2d=c|
+d4 c4|B2G2 =F4|C2A,4C2|B,8|]
+
+X: 6
+T:Niel Gow's Lament for the Death of his Second Wife
+R:Air
+C:Niel Gow
+S:unknown, photocopy
+M:3/2
+L:1/8
+K:D
+DB,|A,3B,D2 D3ED2|E2F2A2 B4d2|A2F2D2 E3DE2|{DE}F2D2B,2 B,4DB,||
+A,3B,D2 D3ED2|E2F2A2 d4cB|A2F2D2 {C}B,4A,2|B,2D2D2 D4:|
+(3ABc|d2f2d2 e2c2.A2|BABc{Bc}d2 BAGFED|E3DE2 {DE}F3ED2|F2D2B,2 B,4 (3ABc|
+d2f2.d2 e2c2.A2|BABc{Bc}d2 BAGFED|E3DE2 {DE}F2D2B,2|A,2D2D2 D4 (3ABc|
+d2f2.d2 e2c2.A2|BABc{Bc}d2 BAGFED|FDAFdA BAGFED|{DE}FE2E2E4DB,|
+A,3B,D2 D3ED2|E2F2.A2 d4cB|A2F2D2 {C}B,4A,2|B,2D2D2 D4|]
+
+X: 7
+T:Planxty Irwin
+R:air
+C:Turlough Carolan
+M:3/4
+L:1/8
+K:G
+d2|g4f2|e3 fg2|d4c2|B3 AG2|c4A2|B3 cd2|F4G2|A4d2|
+g4f2|e3 fg2|d4c2|B3 AG2|c4A2|B3 cd2|G4F2|G4:|
+d2|g4g2|g3 fg2|a3 ba2|a2f2d2|b4b2|a3 bg2|f3 ge2|d3 ef2|
+g4f2|e3 fg2|d4c2|B3 AG2|c4A2|B3 cd2|G4F2|G4:|
+
+X: 8
+T:Lord Inchiquin
+R:Air
+C:Turlough O'Carolan
+O:Ireland
+M:3/4
+L:1/8
+K:D
+A2|d2 de fe|d2 ed cB|A2 F2 A2|f4 e2|
+d2 ed cB|A2 G2 F2|G2 BA GF|E4 ag|
+f3e d2|d2 c2 B2|A2 F2 A2|f4 e2|
+d2 ed cB|Ad3 F2|E4 D2|D4:|
+|:A2|AB cd e2|e2 d2 e2|f2 d2 f2|e4 d2|
+de fg a2|a2 b2 g2|f3d f2|e4 d2|
+de fg a2|a2 b2 g2|f3g e2|d4 f2|
+gf e2 e2|e2 f2 d2|c2 d2 B2|A2 a2 g2|
+f3e d2|d2 c2 B2|A2 F2 A2|g4 fe|
+d2 ed cB|Ad3 F2|E4 D2|D4:|
+
+X: 9
+T:South Wind
+R:Air
+O:Ireland
+M:3/4
+L:1/8
+K:G
+c2|:B3 AG2|B3 cd2|A4A2|A4c2|
+B3 AG2|E3 DE2|G4G2|G4:|
+|:d2|g4g2|g3 fe2|d4d2|d4c2|
+B3 AG2|[1 B3 cd2|A4A2|A4:|[2 Ac3F2|(G6|G4)|]
+
+X: 10
+T:Miss Rowan Davies
+R:air
+C:Phil Cunningham
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+M:3/4
+L:1/4
+K:G
+|:BA|"G"G2D|"D7"D>EF|"Em"G3-|Ggf|
+"C"e>GG|"G"d>GB|"Am"A3|"D7"B2A||
+"G"G2D|"D7"D>EF|"Em"G3-|GAB|
+"C"E<cA|"D7"F2G|"G"G3-|G:|
+|:GF|"C"E>EE|e>GG|"G"d3-|"Bm"dBA|
+"Em"G>AB|"C"eG>A|"B7"B3-|"E7"Bcd||
+"Am"e2E/G/|"D7"F>G A/F/|"G"G3-|"Em"GAB|
+"C"E<cA|"D7"F2G|"G"G3-|G:|
+
+X: 11
+T:Crossing to Ireland
+R:Air
+C:Trad. Scottish
+S:Simon Fraser Collection, Scotland, 1815;  Scotty Fitzgerald c. 1950
+N:was not intended as a waltz
+B:Simon Fraser - Airs and Melodies (1816) appears in 4 flats, 12/8 time
+D:Scotty Fitzgerald c. 1950
+D:Dougie MacDonald
+D:The Glasnotes "Live from Contrafornia" (Avocet Records
+O:Scotland
+M:3/4
+L:1/4
+K:Em
+E/F/|:G E E/D/|B, E>F|G E/F/ G|B>B A/G/|
+F D D|A, D D|F D D|A>A G/F/|
+G E E/D/|B, E>F|G E/F/ G|B2 A|
+G>A B/^c/|d ^c B|A G F|[1 E2 E/F/:|[2 E>e e/f/|
+|g e e|B e>B|G E E|E>b a/g/|
+f d d|A d>A|F D D|D>a g/f/|
+g e e|B e>B|G E g|f2 e|
+G>A B/^c/|d ^c B|A G F|E2 e/f/|
+g e e|B e e|E G B| e/f/ g/b/ a/g/|
+f d d|A d>A |D F A|d/e/ f/g/ a/f/|
+g>f e| f>e ^d| e>d B | A>G F|
+G>A B/^c/|d ^c B| A G F | E2 |]
+
+X: 12
+T:Si Bheag Si Mhor
+R:planxty
+C:Turlough Carolan
+Z:Probably the first tune composed by Carolan.  Si Bheag and Si Mhor
+Z:are two hills in Co. Leitrim associated in the local folklore with two
+Z:bands of fairies continually at war with each other.
+M:3/4
+L:1/8
+K:D
+de|f3 ed2|d3 ed2|B4A2|F4A2|BAB cd2|e4de|f4e2|d4f2|
+B4e2|A4d2|F4E2|D4f2|B4e2|A4dc|d6-|d4:|
+de|f3 ed2|ede fa2|b4a2|f4ed|e4a2|f4e2|d4B2|B4BA|
+F4E2|D4f2|B4e2|A4a2|bag fed|e4dc|d6|d4:|
+
+X: 13
+T:Planxty Fanny Power
+R:planxty
+C:Turlough Carolan
+M:3/4
+L:1/8
+K:G
+D2|G4D2|G3 AB2|c4B2|A4G2|F4E2|D3 ED2|F4G2|A4c2|
+B3 AG2|B3 cd2|e4A2|A4G2|F3 ED2|D2G2F2|G6|G4:|
+Bc|d2B cd2|d2B cd2|G3 AG2|G2B2d2|e2c de2|e2c de2|A3 BA2|A2B2c2|
+B3 cd2|e2f2g2|f2g2a2|d4c2|B3 AG2|B4A2|G6|G4:|
+
+X: 14
+T:Carolan's Concerto
+T:Mrs. Power
+R:planxty
+C:Turlough Carolan
+M:C
+L:1/8
+K:D
+|d2dd d2cB|ABGA F2A2|E2A2 D2A2|Bcde dcBA|
+d2a2 fgaf|efge fgaf|gabg fdfa|gfed dcBA|
+(3Bcd Bd gBgB|AdAd fAfA|GBGB efed|c2Bc A3G|
+FGAF EFGE|FGAF GABG|A2d2 fedc|[1 d4 d3:|[2 d4 d3A|
+|:d2b2 agfe|d2a2 c2a2|B2g2 ABcd|ecBA d3f|
+edcB caaa|Bggg Afff|edcB caaa|Bggg bgbg|
+afaf edcB|cABG AFGE|DAFA DAFA|(3GFE BE  (3GFE BA|
+FAdc BAGF|EFGA BcdB|A2d2 fedc|d4 d4:|
+
+X: 15
+T:Carolan's draught
+R:Other
+C:Turlough O'Carolan
+O:Ireland
+M:C
+L:1/8
+K:G
+D2|GABc defd|g2fe d2d2|e2E2 d2D2|c2Bc ABcA|
+GABc defd|gfed ^cbag|gfed A2^c2|d6:|
+|:fg|afga bagf|egfe edcB|e^def gfga|bagf efga|
+bBbB aBaB|gBgB fBfB|e^def gfed|e6f2|
+gfed cBAG|e2d2 d2D2|c2B2 A2G2|FGAF D2z2|
+EFGE FGAF|GABG ABcA|d2g2 bagf|g6:|
+

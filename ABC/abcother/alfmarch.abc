@@ -1,0 +1,570 @@
+%%%%%%%%%%%%%
+% Marches
+%%%%%%%%%%%%%
+
+X: 1
+T:Battle of Aughrim
+R:march
+S:Martin Byrnes
+Z:The second measure in the first part is usually played  |e2d2 c2B2|.
+M:4/4
+L:1/8
+K:G
+AG|E2A2 A2Bd|e2dB c3A|B2G2 G3A|B2AG E2D2|
+E2A2 A2Bd|e2d2 eaag|eged BAGB|A4 z2:|
+fg|a2e2 e2fg|abag e2fg|abaf g2e2|dedB G2fg|
+a2e2 e2fg|abag e3d|B2e2 d2B2|A4 z2:|
+
+X: 2
+T:Dancing Bear
+R:reel
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:C
+e2A2 ABcd|e2A2 A2AB|c2c2 B2c2|d4 c2d2|
+e2A2 ABcd|e2A2 A2AB|cBAc BAGA|A4 A4|
+e2A2 ABcd|e2A2 A2AB|c2c2 B2c2|d4 c2d2|
+e2a2 e2a2|e2A2 A2AB|cBAc BAGA|A4 A2AB||
+|:c2e2 dcB2|c2e2 dcB2|gdBd gdBd|A2f2 e2^g2|
+a3e c2B2|AGAB cde2|fedc BAGB|A4 A4:|
+
+X: 3
+T:Atholl Highlanders
+R:March
+C:Kevin Briggs, via EF
+S:Nottingham Music Database
+M:6/8
+L:1/8
+K:A
+c/2d/2|"A"e3 ecA|ecA "E7"Bcd|"A"e3 ecA|"D"Bcd "E7"cBA|
+"A"e3 ecA|ecA "E7"Bcd|"A"e<ae "D"fed|"E7"cdB "A"A2:|
+e|Ace Ace|"D"Adf Adf|"A"Ace Ace|"Bm"Bcd "E7"c2B|
+"A"Ace Ace|"D"Adf Adf|"A"e<ae "D"fed|"E7"cdB "A"A2:|
+e|aee edc|aee edc|aee edc|"D"Bcd "E7"cBA|
+"A"aee edc|aee edc|aee fed|"E7"cdB "A"A2:|
+A/2B/2|cAc cAc|"D"dBd dBd|"A"cAc cAc|"G"B=GB BGB|
+"A"cAc cAc|"E7"dBd dBd|"A"e<ae "D"fed|"E7"cdB "A"A2:|
+
+X: 4
+T:Cock of the North
+R:March
+C:Kevin Briggs, via EF
+S:Nottingham Music Database
+M:6/8
+L:1/8
+K:A
+e/2d/2|"A"cdc cBA|Ace "D"f2e|"A"cdc cBA|"B7"BcB "E7"Bed|
+"A"cdc cBA|Ace "D"f2e|"A"c2c "E7"BcB|"A"A3 A2:|
+(3e/2f/2g/2|a2e "D"f2e|"A"a2e "D"f2e|"A"cdc cBA|"Bm"Bcd "E7"efg|
+"A"a2e "D"f2e|"A"a2e "D"f2e|"A"c2c "E7"BcB|"A"A3 A2:|
+
+X: 5
+T:Ho Ro My Nut Brown Maiden
+R:March
+C:KCC p8, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/4
+K:C
+P:A
+G|"C"c>B "G7"AG|"C"c2 "G7"GG|"C"c>d fe|"Dm G7"d3f|
+"C"e<g e<g|G2 "F"cd|"G7"e>e fd|"C"c3:|
+P:B
+e/2f/2|ga ge|g2 ef|ga ge|"Dm"d2 "G7"df|
+"C"e<g e<g|G2 "Am"cd|"Dm"e>e "G7"fd|"C"c3:|
+
+X: 6
+T:Crossing the Minch
+R:March
+C:Trad
+S:Aly Bain Book
+M:4/4
+L:1/8
+K:D
+|:d>e|f>A (3AAA f2e>f|g>B (3BBB g2a>g|f>A (3AAA f2e>f|g>Be>d d>cd>e|
+f>A (3AAA f2e>f|g>B (3BBB g2a>g|f>ga>f g>ec>d|e2d2 d2:|
+|:A>d|f>A (3AAA f>ga>f|g>B (3BBB g>aa>g|f>A (3AAA f>ga>f|g>Be>d d>cd>e f3/2A/ (3AAA f3/2g/a3/2f/|
+g>B (3BBB g2a>g|f>ga>f g>ec>d|e2d2 d2:|
+|:A>d|f>A (3AAA f>Ae>f|g>B (3BBB g>Ba>g|f>A (3AAA f>Ae>f|g>Be>d d>cd>e f3/2A/ (3AAA f3/2A/e3/2f/|
+g>B (3BBB g2a>g|f>ga>f g>ec>d|e2d2 d2:|
+|:A>d|f>A (3AAA f>A (3AAA|g>A (3AAA g>A (3AAA|f>A (3AAA f>A (3AAA|e>fe>d d>cd>e|
+f>A (3AAA f>A (3AAA|g>B (3BBB g3/2a3/2g/|f>ga>f g>ec>d|e2d2 d2:|
+
+X: 7
+T:Prince Charlie's Welcome to Skye
+T:Twa Bonnie Maidens
+T:Planxty George Brabazon
+R:March
+Z:3rd Part added by  alf.warnock@rogers.com
+M:4/4
+L:1/8
+K:D
+dB|"D"A2D2 GFED|A2D2 GFED|"Em"B2E2 EFGE|B2E2 "A7"E2FG|
+"D"A2GF "G"d2cB|"D"A2GF GFED|"G"FEDB, "A7"A,B,DE|"D"F2D2 D2:||
+de|f2df "A"e2ce|"D"d2Ad "Bm"BAGF|"Em"B2E2 EFGE|B2E2 "A7"E2de|
+"D"f2df "A"e2ce|"D"d2Ad "Bm"BAGF|"G"GFED "A7"A,B,DE|"D"F2D2 D2:||
+ag|.f2.d2 fgag|.f2.d2 fgag|"Em".g2.e2 efga|"A7".b2.e2 e2ag|
+"D".f2.d2 fgag|.f2.d2 fgag|"Em"fgab "A7"agfe|"D"f2d2 d2:|
+
+X: 8
+T:Campbell's Farewell to Redcastle
+R:march
+N:C part not always used
+Z:John Chambers <jc@eddie.mit.edu>
+M:2/4
+L:1/8
+K:AMix
+e|:"A"A>B cd|ea e>d|cA AB/c/|"G"dd/B/ G>B|
+"A"A>B cd|ea e>d|"G"cB/A/ GB|"A"A4:|
+g/f/||"A"ea ag/f/|ea e>d|cA AB/c/|"G"dd/B/ Gg/f/|
+"A"ea ag/f/|ea e>d|"G"cB/A/ GB|"A"A3 g/f/|
+"A"ea ag/f/|ea e>d|cA AB/c/|"G"dd/B/ G>B|
+"A"A>B cd|ea e>d|"G"cB/A/ GB|"A"A4|
+|:"A"ee ef|g2 fe|"G"dB GB|dB dg/f/|
+"A"ee ef|g2 fe|"G"dB gB|"A"BA A2:|
+
+X: 9
+T:Barren Rocks of Aden
+R:March
+N:ACCW added 4th part from Jim Chalmers music
+Z:<cfalt@trytel.com> www.trytel.com/~cfalt/Fiddle/The_List.abc
+M:2/4
+L:1/8
+K:D
+d/2e/2|"D"f>gfe|dfAd|"A7"ceAe|"D"fAde|
+f>gfe|dfAd|"A7"ceAe|"D"d2d :|
+f/2g/2|:"D"a>fdf|"A7"efA(e/2f/2)|gece|"D"dfA(f/2g/2)|
+a>fdf|"A7"efA(e/2f/2)|gece|"D"d2d f/2g/2:|
+L:1/16
+:afdf afdf|"A7"e2f2A2(ef)|gece gece|"D"d2f2A2(fg)|
+afdf afdf|"A7"e2f2A2(ef)|g2e2c2e2|"D"d4d4:|
+:afdA Afdf|afdA Afdf|gecA Aece|gecA Aece|
+afdA Afdf|afdA Afdf|gecA Aeca|d4d2z2:|
+
+X: 10
+T:Maxwell's Rant
+R:march
+B:RSCDS 18-19(I) (in F)
+Z: 1997 by John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music
+Z:bc/
+M:4/4
+L:1/8
+K:G
+|: ef \
+| "G"g2G2 B2G2 | "D7"F2A2 A2ef | "G"g2G2 B2d2 | g4- "D7"g2ef \
+| "G"g2G2 B2G2 | "D7"F2A2 A2GF | "C"E2G2 "D7"F2A2 | "G"G4- G2 :|
+|: d2 \
+| "G"g3a b2g2 | "D7"agfe d2d2 | "G"g3a "Em"g2b2 | "Am"a4- "D7"a2d2 \
+| "G"g3a "Em"b2g2 | "Am"agfe "D7"d2ga | "G"b2g2 "D7"a2f2 | "C"g4- "G"g2:|
+
+X: 11
+T:Maxwell's Rant II
+R:march
+B:RSCDS 18-19(II)
+Z: 1997 by John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music
+Z:bc/
+M:4/4
+L:1/8
+K:A
+|: c2 \
+| "A"A3E C2E2 | A3E C2c2 | A3E "D"FEDC | "E7"c2B4 c2 \
+| "A"A3E C2E2 | A3F E2C2 | "D"D3F "E"E2G2 | "A"A6 :|
+|: E2 \
+| "A"A3A c2e2 | "E7"d2B2 G2B2 | "A"c2A2 "F#m"e2c2 | "Bm"c2B2- "E7"B2G2 \
+| "A"A3F E2C2 | "D"D3E F2f2 | "E7"e3d c2B2 | "A"c2A4 :|
+
+X: 12
+T:Bonny Dundee
+R:March
+O:Scotland
+M:6/8
+L:1/8
+K:A
+A/c/|efe efe|agf e2d|ceE BeE|BcB Bcd|
+efe efe|agf e2d|ceE BeE|ABA A2:|
+|:e|A3 d2c|BGE E2G|BcB Bcd|dcc c2A|
+cBc dcd|ede fed|ceE BeE|ABA A2:|
+
+X: 13
+T:Triumphal March
+R:March
+S:Roche III #205 p79
+M:C|
+L:1/8
+Q:1/4=120
+K:D
+(3ABc|d2d>d dAFD|A2A>A A2FG|A2FA BAGF|
+E2A>A AABc|d2d>d dAFD|A2A>A A2FG|(3AFD  (3BGE d2c2|d2d>d d2:|
+EF|G2G>G GBAG|GFF>F F2 (3ABc|dcBA GFED|A2A>A A2 (3ABc|
+d2d>d dAFD|A2A>A A2FG|(3AFD  (3BGE d2c2|d2d>d d2:|
+EF|GAcA eAcA|FAdA fAdA|GAcA eAcA|FAdA fAdA|
+B2B>B Bd/c/ e/d/c/B/|A2A>A A2g2|f2 (3age d2c2|e2d>d d2:|
+
+X: 14
+T:Farewell to the Creeks
+R:march
+N:The WWI ballad "Banks of Sicily" is based on this pipe march.
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+M:6/8
+L:1/8
+K:A
+|: a | "A"e2c cBc | "D"def "E7"e2d | "A"cde "F#m"Ace | "Bm"edc "E7"B2a
+| "A"e2c cBc | "D"def "E7"e2d | "A"cde  edc | "E7"B3   "A"A2 :|
+e | "A"ece aga | "D"fef "E7"dcd | "A"cde "F#m"Ace | "Bm"edc "E7"B2e
+| "A"ece aga | "D"fef "E7"dcd | "A"cde  edc | "E7"B3   "A"A2 ||
+e | "A"ece aga | "D"fef "E7"dcd | "A"cde "F#m"Ace | "Bm"edc "E7"B2a
+| "A"e2c cBc | "D"def "E7"e2d | "A"cde  edc | "E7"B3   "A"A2 |
+|: B | "A"cz2 "D"d3  | "A"e2c  cBA | "D"d2f   "A"c2e |     edc "E7"B2A
+| "A"cz2 "D"d3  | "A"e2c  cBA | "A"cde edc | "E7"B3   "A"A2 :|
+|: e | "A"a2e "D"f2a | "A"e2f  ecA | "D"d2f   "A"c2e |     edc "E7"B2e
+| "A"a2e "D"f2a | "A"e2f  ecA | "A"cde  edc | "E7"B3   "A"A2 :|
+
+X: 15
+T:Hundred Pipers
+R:march
+N:(*) G chords give even more "bagpipey" version.
+O:trad Scotland
+Z:\251 1997 by John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/
+M:6/8
+L:1/8
+K:G
+|:GA |"G"B2D D>ED|"C"E2G G2e|"G"d2B "Em"B>AG|
+"Am"B2A "D7"A>GA |"G"B2D D>ED|"C"E2G G2e|"G"d2B "D7"A>GA|
+"G"G3- G :: Bc |"G"d2d dBd|"C"e2g gfe|"G"d2B "Em"B>AG|
+"Am"B2A "D7"ABc |"G"d2d dBd|"C"e2g gfe|"G"d2B "D7"A>GA|"G"G3- G:|
+
+X: 16
+T:My Love she's But a Lassie Yet
+R:march
+C:Trad
+M:2/4
+L:1/8
+K:D
+d/2c/2|:dD FA|dD Dd/2c/2|dD FA|eE Ed/2c/2|
+dD FA|Bg fe| d/2c/2B/2A/2 B/2c/2d/2e/2|fd d:|
+f/g/|a>f g>e|fd df/2g/2|af ga|be ef/2g/2|
+af ge|fd ed| d/2c/2B/2A/2 B/2c/2d/2e/2|fd dz:|
+
+X: 17
+T:Scotland the Brave
+R:march
+C:Kevin Briggs, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/4
+K:G
+D|"G"G2 "C"G>A|"G"BG Bd|"G"g2 "C"g>f|"G/b"gd BG|
+"C"c2 e>c|"G"Bd BG|"Am"A2 d>e|"D7"dc BA|
+"G"G2 "C"G>A|"G"BG Bd|"G"g2 "C"g>f|"G/b"gd BG|
+"C"c2 e>c|"G"Bd "Em"BG|"Am"A2 "D7"G>F|"G"G2 fg|
+"D7"a2 a>a|af d2|"G"g2 b>a|gd BG|
+"Em"g2 gg|"B7"f2 gf|"Em"eg fe|"D7"dc BA|
+"G"G2 "C"G>A|"G"BG Bd|"G/b"g2 "C"g>f|"G/b"gd BG|
+"C"c2 e>c|"G"Bd "Em"BG|"Am"A2 "D7"G>F|"G"G2 G:|
+
+X: 18
+T:Kitty O'Connor
+R:March
+S:Dennis Alexander
+Z:added by Alf warnock alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/16
+K:D
+|:"D"D3D D2E2|F2G2 A2G2|F3F F2E2|F2G2 A2Bc|d3d d2B2|A2F2 D2E2|
+"F#m"F4 "Em"E4|[1 "A7"E6A2:|[2 "D"D6A2|:"D"d3d d2e2|f2d2 d2cB|A3B A2G2|F2G2 A2Bc|
+[1 d3d d2e2|f2d2 d2A2|"Em"B2e2 e2f2|"A7"e4 A2Bc:|[2 d3d d2B2|"D"A2F2 D2E2|"F#m"F4 "Em"E4|"D"D8|]
+
+X: 19
+T:Martin Mulvihill's March
+R:March
+Z:added by Alf warnock alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+d3/2c/2|"G"BA Bc|dG Bd|"C"eG ce|"G"d2 g3/2f/2|"C"ef ge|"G"dB GB|"D"A2 A3/2B/2|A2 d3/2c/2|
+"G"BA Bc|dG Bd|"C"eG ce|"G"d2 g3/2f/2|(3efg dB|"D7"cA FA|"G"G2 G3/2F/2 G2:|
+e>f|"G"gd Bd|"C"ec ce|"G"d3/2e/2 dB|G3B|"D"Ad fa|"A7"ge ^cA|"D7"dc/2d/2 ed|cA FD|
+"G"BA Bc|dG Bd|"C"eG ce|"G"d2 g3/2f/2|(3efg dB|"D7"cA FA|"G"G2 G3/2F/2|G2:|
+
+X: 20
+T:Old Faithful
+R:reel
+C:Jerry Holland
+Z:Paul Cranford - www.cranfordpub.com - modified by Alf warnock alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/8
+K:D
+ag|"D"f2 ed|"A"c2 Bc|"D"d2 A>G|"Bm"F2 ED|"G"G>F GB|"D"AF dA|"A"F2 E2|E2 ag|
+"D"f2 ed|"A"c2 Bc|"D"d>A BG|"Bm"F2 ED|"G"G>B dB|"D"AF "A"GE|"D"F2 D2|D2 :|
+fg|"D"a>b ag|f2 ef|"G"g>a ge|"A"c2 BA|"D"dc de|f>a gf|"A"e2 E2|E2 fg|
+"D"a>b ag|f2 ef|"G"g>e dc|"D"d2 (3AB=c|"G"BA GB|"D"AF dA|F2 D2|D2 fg||
+"D"a>b ag|f2 ef|"G"g>e dc|"D"d2 (3AB=c|"G"BA GB|"D"AF dA|"A"F2 E2|EG FE|
+"D"D>F Ad|"Em"E>G Be|"F#m"F>A df|"G"g2 bg|"D"a>f ed|"A"cb ag|"D"f2 d2|d4|]
+
+X: 21
+T:Captain Dunne's March
+R:March
+M:2/4
+L:1/8
+K:D
+AF|"D"D2 D>D|DF AF|"Em"G2 E>E|E3D|"D"FA Bc|dA FD|"A7"A2 A>B|AG FE|
+"D"D2 D>D|DF AF|"Em"G2 E>E|E3E|"D"F/2G/2A FD|"A7"E/2F/2G EC|"D"D2 D>D|D2:|
+|:AB/2c/2|"D"d2 d>d|dA FD|"Em"G2 E>E|E2 cd|"A7"e2 e>f|ed cB|AB cB|AG FE|
+"D"D2 D>D|DF AF|"Em"G2 E>E|E3G|"D"F/2G/2A FD|"A7"E/2F/2G EC|"D"D2 D>D|D2:|
+
+X: 22
+T:O'Rahilly's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+A/B/c|"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A3e|fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/B/c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+fg|"D"af af|a2 g3/2f/2|"A7"ed ef|g2 fe|"D"fd fa|gf ed|"A7"e2 A3/2B/2|A2 A/2B/2c|
+"D"d3/2c/2 df|ed cB|A3/2B/2 AF|A2 de|f/2g/2a f/2g/2a|"A7"A2 f3/2e/2|"D"d2 d3/2c/2|d2:|
+
+X: 23
+T:Kilkenny March
+R:March
+Z:added by Alf warnock alf0@rogers.com - www.alfwarnock.info/alfs
+Z:taped by Dan O'Grady, Kilkenny Fleadh, 1986
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+D2|"G"B3D|"Am"cA F3/2A/2|"G"dg Be|"D7"d^c =cA|"G"BD GB|"Fdim"d^c =c3/2B/2|"Am"AE A3/2G/2|"D7"FD GA|
+"G"B3c|dg fg|"C"eG ce|"G"d2 B3/2c/2|"D7"df ed|cF BA|"G"G2 G3/2F/2|G2:|
+K:D
+FG|"D"A2 d3/2e/2|fa gf|"A7"ec A3/2^G/2|A2 fg|"D"a3/2b/2 ag|fA d3/2e/2|fA gf|"A7"e2 d3/2e/2|
+"D"fA A3/2F/2|"G"G2 F3/2G/2|"D"AB =c/2B/2A|"G"G2 F3/2G/2|"D"Ad fd|"A7"eA ce|"D"d2 d3/2c/2|d2:|
+K:A
+cB|"A"A2 EA|"D"F2 A3/2F/2|"A"EA ce|a2 f3/2g/2|af ed|c/2B/2A d3/2c/2|"Bm"BF B3/2A/2|"E7"G/2F/2E FG|
+"A"A2 EA|"D"F2 A3/2F/2|"A"EC EA|c2 ce|"D"f3/2g/2 af|"E7"ef cB|"A"A2 A3/2A/2|A2:|
+
+X: 24
+T:O'Donnel Abu
+R:march
+Z:John Chambers <jc@eddie.mit.edu>
+M:2/4
+L:1/8
+K:G
+"G"G2 Bc|d2 Bd|b2 "(C)"ge|"G"d2 cB|"Am"A2 AB|"D7"c2 BA|"G"G2 Bc|"D7"d4|
+"G"G2 Bc|d2 Bd|b2 "(C)"ge|"G"d2 cB|"Am"A2 a>g|"D7"fd ef|"G"g2 "C"g>a|"G"g4|
+"G"b2 ba|ge d2|g2 "(C)"ge|"G"dB G2|"C"c2 cc|"G"Bd-dB|"Am"A2 AB|"D7"A4|
+"G"G2 Bc|de d2|b2 "(C)"ge|"G"dd cB|"Am"A2 a>g|"D7"fd ef|"G"g2 "C"g>a|"G"g4||
+
+X: 25
+T:The Minstrel Boy
+R:march
+Z: John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+M:2/4
+L:1/8
+K:D
+|: "D"D3 E | GF ED | F2 A2 | "Bm"d2 cd | "G"B2 A2 | "D"F>G AF | "A7"E4 | "Fine""D" D4:|
+"D"d2 "A"c2 | "Bm"B2 cd | "A"c3 B | A3 A | "Bm"B3 F | F3 F | "G"B2 "A7"c2 | "D"d2 "da Capo" "al Fine"FE ||
+
+X: 26
+T:McAlpine's Fusiliers
+R:march
+C:Dominic Behan
+Z:added by Alf Warnock - alf0@rogers.com -
+M:2/4
+L:1/8
+K:G
+"G"g3f|e2 dB|"C"A2 G2|E2 GA|"G"BB3|"D"A3F|"G"G4 -|G2 Bc|d3B|d2 ef|
+"C"g2 "D"f2|"C"e3d|ef ed|"G"BA Bd|"C"e4-|e2 Bc|"G"d2 B2|d2 ef|"C"g2 "D"f2|"C"e3d|
+ef ed|"G"BA Bd|"C"e4-|e2 ef|"G"g3f|e2 dB|"C"A2 G2|E2 GA|"G"BB3|"D"A3G|"G"G8|]
+
+X: 27
+T:The Irish Rover
+R:march
+Z:John Chambers <jc@eddie.mit.edu>
+M:2/4
+L:1/8
+K:D
+|:"D"D2 FG|A2 de|f2 ed|"G"d2 cB|"D"A2 BG|[1 F2 AF|"A7"E4 -|EG FE:|[2 FG -GE|"D"D4 -|DA Bc||
+d3e|f2 ed|"A7"e>f ec|A2 Bc|"D"d3e|f2 ed|"A7"e3c|AG FE|
+"D"D2 FG|A2 de|f2 ed|"G"G2 FE|"D"D2 FA|d2 f2|"A7"e4|"D"d2|]
+
+X: 28
+T:Roddy McCorley
+O:Trad
+M:2/4
+L:1/8
+K:D
+| "D"f2 ef | A2 de | "Bm"f3 e | d3 A | "G"B2 d2 | "A7"d2 e2 | "D"d4- | d2  |
+|:fg|"D"a2 a2 | a2 fa | "G"b2 b2 | "D"a2 fe | "Bm"d2 B2 | "Em"g3 f | "A7"e4- | e2  :|
+de|"D"f2 ef | A2 de | "Bm"f3 e | d3 A | "G"B2 d2 | "A7"d2 e2 | "D"d4- | d4 |]
+
+X: 29
+T:Kelly of Killane
+R:march
+Z:John Chambers <jc@eddie.mit.edu>
+M:2/4
+L:1/8
+K:G
+|:GB|"G"d2 Bd|"C"g2 fe|"G"d2 BG|"Em"E2 GA|"G"B2 AB|"D7"dc AF|"G"G4 -|G2:|
+Bd|"C"e2 ce|g2 fe|"G"d2 de|d2 Bd|"C"e2 ce|g2 fe|"D7"d4 -|d2||
+Bc|"G"d2 Bd|"C"g2 fe|"G"d2 BG|"Em"E2 GA|"G"B2 AB|"D7"dc AF|"G"G4 -|G2||
+
+X: 30
+T:Centenary March, The
+R:March
+Z:Paul de Grae <sullgrae@IOL.IE> irtrad-l 2001-01-18
+M:2/4
+L:1/8
+K:D
+FG|A2 A>B|AF ED|f2-f>d|ed Bd|A2 A>B|AF ED|E2 E>F|E2 DF|!
+A2 A>B|AF ED|f2-f>d|ed Bd|A2 d>e|fe dc|d2 d>e|d2||!
+Ad|f>e fa|Ad fa|g2 f2|e2 f>g|af dA|FA GF|E2 E>F|E2 FG|!
+AD FA|dF Ad|fa gf|ed cB|Aa ^ga|ge cA|d2 d>e|d2||
+
+X: 31
+T:Captain Taylor's March
+R:march
+Z:John Chambers <jc@eddie.mit.edu>
+M:2/4
+L:1/8
+K:G
+DE/F/|"G"G>F GA|B2 gf|"C"eg/e/ dB|"D7"AB/A/ GA|
+"G"B>A B/A/G/F/|"C"EG "D7"FA|"G"G2 G>F|G2:|
+de/f/|"C"g2 f2|"Am"e2 fg|"D7"a>g fe|"G"d2 Bd|
+"C"e>d ef|g>f ed|"(D7)"e>d eg|"D7"ed BA|
+"G"G>F GA|B2 gf|"C"eg/e/ dB|"D7"AB/A/ GA|
+"G"B>A B/A/G/F/|"C"EG "D7"FA|"G"G2 G>F|G2|]
+
+X: 32
+T:Paddy O'Brien's March
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/8
+K:G
+Bc | dG Bd  | gd cB  | Ae cA | E2 A>G | FD  FA  | d^c ed | dc A_B | B2 B>c |
+|  dG Bd  | g2 f>g | ag ec | A2 f>e | d^c =cA | FD EF | A2 G>F | G2 :|
+Bc| d2 g>f | gd Bc  | dB (3cBA | G2 AB  | ce  a^g | ab ag | f2 d>^c | d2 B>c |
+|  dB gd  | BG dB  | Ae cA | E2 f>e | d^c =cA | (3FED EF | A2 G>F | G2 Bc :|
+
+X: 33
+T:Clare's Dragoons
+R:March
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+M:2/4
+L:1/8
+K:A
+"A"C2 E2 | E2 FG | A2 AB | AG FE | C2 E2 | E2 c2 | "Bm"dc BA | F3D | "A"C2 E2 | E2 FG | A2 "Bm"B2 |
+"C#m"c3d | "A"e2 E2 | "D"F2 d2 | "E7"c3B | "A"A3B | c2 ec | "Bm"B2 cB | "A"A3B | "C#m"c3B | "A"c2 ec | "Bm"B2 c2 |
+"D"dc BA | F3B | "A"c2 ec | "Bm"B2 cB | "A"A3B | "C#m"c3d | "A"e2 E2 | "D"F2 d2 | "E7"c3B | "A"A4 | ]
+
+X: 34
+T:The Mountains of Pomeroy
+R:March, Song
+M:2/4
+L:1/8
+K:D
+A2 F2|(AG) (FE )|D3E|B,2 (DB,)|A,2 (B,D)|D2 (EF)|G4 -|G2 FG|A2 F2|(AG) (FE )|D2 E2|B,2 (DB,)|
+A,2 (B,D)|D3E|D4 -|D2 DE|F3E|D2 EF|G2 A2|A2 dB|A2 F2|D2 (EF)|
+G4 -|G2 FG|A2 FF|(AG) (FE )|D2 E2|B,2 DB,|A,2 B,D|D3E|D4 -|D2 |]
+
+X: 35
+T:The Boys of Wexford
+R:march
+M:2/4
+L:1/8
+K:G
+| "G"G3A | GF ED | d3e | d2 c2 | B2 G2 | BA GF | "C"E4 - | E2 D2 | "G"G3A | GF ED | d3e |
+d2 c2 | B2 A2 | "A7"GA B^c | "D"d4 - | d2 d2 | "C"e2 c2 | g2 fe | "G"d3c | "Em"B2 d2 | "C"c2 B2 | "Am"A2 G2 |
+E4- | E2 "D"D2 | "G"G3A | GF ED | d3e | d2 c2 | B2 G2 | "D"BA GF | "G"G4 - | G2 | ]
+
+X: 36
+T:The Dawning of the Day
+M:2/4
+L:1/8
+K:D
+"D"F2 F2|F2 EF|A2 A2|"G"B2 AF|"D"D2 E2|"A7"DC3|"D"D4 -|D2 AA|"G"B3A|B3d|
+"D"F2 FE|D2 FG|A2 F2|d2 F2|"A7"E4 -|E2 DE|"D"F2 F2|F2 EF|A2 A2|"G"B2 AF|"D"D2 E2|"A7"DC3|"D"D4||
+
+X: 37
+T:Bonny Lass of Fyfie
+R:march
+S:Nottingham Music Database
+M:2/4
+L:1/8
+K:G
+"G"G>F "C"GA|"G"G2 "D"D2|"G"G>F "C"GA|"G"G2 -GD|G2 Bc|d2 cB|"Am"A2 D2|"D7"D2 dc|
+"G"B>A Bc|"G7"d2 DD|"C"G>A GE|C2 EE|"G"D2 G2|"D7"AG FE|"G"D2 "C"G2|"G"G3:|
+
+X: 38
+T:A Nation Once Again
+M:2/4
+L:1/8
+K:G
+"G"D2 EF | "Em"G2 FG | "G"B3A | G2 F2 | "C"E2 A2 | "D7"GF EF | "G"A2 G2 - | G2 D2 | "G"D2 EF | "Em"G2 FG | "G"B3A | G2 F2 |
+"C"E2 A2 | "Am"GF EF | "D7"E2 D2 - | D2 D2 | "D"D2 E2 | F3G | A2 D2 | D3D | "Em"E3F | G2 A2 | "B7"B4 - | B2 GF |
+"C"E2 E2 | "Am"c3B | "D"A2 G2 | F3E | "G"D2 B2 | "D"A3G | "G"G4 - | G2 D2 | "G"B3A | G2 F2 | "C"E4 - | E2 E2 |
+"Am"c3B | A2 G2 | "D"F4 - | F2 E2 | "G"D2 EF | "Em"G2 FG | "C"E2 A2 | "D"F2 GA | "G"B2 c2 | "D"A3G | "G"G4 - | G2 ||
+
+X: 39
+T: Brian O'Kane's March
+M: 4/4
+L: 1/8
+R: March
+K: D
+|: F>G |A^GBA FAd>e | fdaf d2 e>f | gfed edc>d | edBd A2 F>G |
+A^GBA FAd>e | fdaf d2 e>f | gecA ^GABc | d2 d>c d2 :|
+K: G
+|: c2 |B>ABc dDGB | cCEG D2 B,>C | DB,DG B/c/d c>B | ADFA d2 B>c |
+dDGB cCEG | DB,DG B2 A>B | cAFD CDEF | G2 G>F G2 :|
+K: A
+|: E2 |c/B/A ec aecA | DFdB c2 cd | e2 e>f ecAB | c/B/A dc B2 cd |
+e2 e>f ecBA | DFdB c2 cd | e2 g>f edcB | A2 A>B A2 :|
+
+X: 40
+T:Kilfenora March
+M:4/4
+R:march
+L:1/8
+Z:Alf Warnock - alf0@rogers.com
+Z: No name on the CD for this march
+D: Set in Stone - Kilfenora Ceili Band
+K:G
+G>A|"G"Bdg>a g2f>e|dBB>c B2AG|Bd"Am"ce "G"dBGB|"D7"A2A>B A2G>A|
+"G"Bdg>a g>a b/2a/2g/2f/2|edB>c B2AG|Bdge "D7"dBAB|"G"G2G>A G2:|
+f>g|"D7"afd>^c d2ga|"Em"bge>^d e2ga|"G"bg"Am"af "G"ge"Em"fd|"D"BAA>B A2G>A|
+"G"Bdg>a g2 b/2a/2g/2f/2|edB>c B2AG|Bdge "D7"dBAB|"G"G2G>A G2:|
+a>b|"Am"c'baf "D7"gedc|"G"BG/2B/2 dB/2d/2 g2a>b|"Am"c'baf gedB|"D7"BAA>B A2G>A|
+"G"Bdg>a g>a b/2a/2g/2f/2|edB>c B2AG|Bdge "D7"dBAB|"G"G2G>A G2:|
+
+X: 41
+T:Shane O'Neills
+R:March
+M:4/4
+L:1/8
+Z:Alf warnock - alf0@rogers.com
+K:G
+GA|"G"B>AB>A B2B/2c/2d|B>AB>A B2AG|Bdge dBGB|"Am"A2A>G "D7"A2GA|
+"G"B>AB>A B2B/2c/2d|B>AB>A B2AG|Bdge "D7"dBAB|"G"G2G>F G2:|
+ef|"G"g2fg "Em"e2ag|"D"f>efd "G"B2G/2A/2B/2c/2|d2d>d dBAG|g2g>f g2g/2f/2g/2f/2|
+"C"e2e/2f/2g/2e/2 "G"d2e/2f/2g/2e/2|dBAG "D7"A2GA|"G"Bdge "D7"dBAB|"G"G2G>G G2:|
+
+
+X: 42
+T:Slieve Aughty March
+R:March
+D:Tracin' - O'Hallmurhain and Ourceau
+M:4/4
+Z:Alf warnock - alf0@rogers.com
+Z: Key is F on CD
+L:1/8
+K:G
+DG|B2A>B AGEG|D2G>F GABG|E2c2 BAGB|A2d>^c d2DG|
+B2A>B AGEG|D2G>F GABG|E2c2 BAGF|G2G>F G2:|
+Bc|d2B>d gdBd|g2g>f gdBd|c2a>b agfe|d2d2 d2ef|
+g2g>f gdBd|c2a>b agfe|d2d>e fdfa|g2g>f g2:|
+
+
+

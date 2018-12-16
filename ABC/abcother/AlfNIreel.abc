@@ -1,0 +1,776 @@
+X: 1
+T:Archie Menzie's
+R:Reel
+C:John Lowe
+M:4/4
+L:1/8
+Q:1/4=200
+K:F
+FE|:~F2CF AFEF|Acde fcA^F|G2DG BGDG|(3Bcd ef gdBG|
+~F2CF AFCF|Acde fcAF|BdGB AcFA|GECE F2FE:|
+fe|:ffcf afef|cfag fed^f|g2dg bg^fg|dgba gfed|
+cfef afef|cfag fedc|BdGB AcFA|GECE F2fe:|
+
+X: 2
+T:Mary Claire
+R:Reel
+C:Jerry Holland
+B:Jerry Holland's Collection of fiddle tunes
+Z:added by Alf Warnock
+M:4/4
+L:1/8
+Q:1/4=200
+K:Bb
+(3edc|:B2FD B,DFD|EG,B,E {E}G2FE|DFBd f2=ef|gf=eg fcAc|
+B/2B/2BFD B,DFD|EG,B,E G2FE|DFBd cBAc|B2BA B2:|
+Bc|:dcBd cBAc|dBFD B,DFD|EGFE DFBd|cBAG F2Bc|
+dcBd cBAc|[1 dBFD B,DFD|EGFE DFBd|cAFA B2Bc:|
+|[2 BdFB DFB,D|EGFE DFBd|cAFA B2|]
+
+X: 3
+T:Soldiers' Joy
+R:Reel
+C:Kevin Briggs, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+FG|"D"AFDF AFDF|A2d2 "G"d2cB|"D"AFDF AFDF|"E7"G2E2 "A7"E2FG|
+"D"AFDF AFDF|A2d2 "G"d2g2|"D/a"fafd "A7"egec|"D"e2d2 d2:|
+de|f2fd fagf|"A7"e2ec egfe|"D"f2fd fagf|"E7""G"edcB "A7""A"A2de|
+"D""Bm"fdfd fagf|"Em"ecec "A7"egfe|"D"fafd "A7"egec|"D"e2d2 d2:|
+
+X: 4
+T:Mitton's Breakdown
+R:Reel
+C:Earl Mitton
+N:Canadian Old Time reel
+D:Lonely Bird - Aly Bain
+M:4/4
+L:1/8
+Q:1/4=200
+K:Bb
+|:bBAB gBAB|bBAB fBAB|ABcd ecAc|BABg f3f|
+bBAB gBAB|bBAB fBfB|ABcd ecAc|[1 BABc B3f:|[2 BABc B2A2|]
+BBfB BgBB|aBBg BBfB|AAfA AgAA|aAAg AAfA|
+BBfB BgBB|aBBg BBfB|ABcd ecAc|[1 BABc B2zA:|BABc B2zB|]
+
+X: 5
+T:Trip To Windsor
+C: Dan R. Macdonald (1912-76)
+R:reel
+M:4/4
+L:1/8
+Q:1/4=200
+K:A
+|A2AB Ace=g|f2fe fefg|agfe fgaf|ecAc BAFE|
+|A2AB Ace=g|f2fe fefg|agfe fgaf|[1 ecBc A3A:|[2 ecBc A2cd||
+efec e/2f/2gae|faec BAcB|AFEC EFAE|FAEC B,A,CB,|
+A,2CE FECE|A2cB Acea|fefg afed|[1 cABc A2cd:|[2 cABc A2c2|]
+
+
+X: 6
+T:La Bastringue
+R:Reel
+C:French Canadian, via PR
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+de|:"D"f2ff f2gf|"A"e2c2 "D"d3d|"A"c2d2 efec|"D"d2e2 f2d2|
+f2ff f2gf|"A"e2c2 "D"d3d|"G"g2 (3fgf e2d2|[1 "A"B2c2 "D"d2A2:|[2 "A"B2c2 "D"d2 (3ABc
+|:d2fd adfd|"C"=c2ec gcec|"D"d2fd adfa|"G"bgec "A"dcBA|
+"D"d2fd adfd|d2fd adfa|Adfa "G"bgec|[1 "D"df"A"ec "D"d2 (3ABc:|[2 df"A"ec "D"d4|]
+
+X: 7
+T:On The Road To Boston
+R:Reel
+C:via PR
+S:Nottingham Music Database
+M:2/4
+L:1/8
+Q:1/4=200
+K:D
+A|"D"f2 fe/f/|"G"gf ed|"A7"cd ef|"D"dA FA|
+f2 fe/f/|"G"gf ed|"A7"cd ef|"D"d2 d:|
+|:f/g/|a2 ag/a/|"G"ba gf|"A7"g2 gf/g/|"D"ag fe|
+|"Bm"f2 fe/f/|"G(Em)"gf ed|"A7"cd ef|"D"d2 d:|
+
+X: 8
+T:Dashing White Sergeant
+R:Reel
+C:Trad, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+FE|"D"D2D2 DEFG|A2A2 A2fe|"G"d2B2 "D"A2F2|"Em"B2E2 "A7"EGFE|
+"D"D2D2 DEFG|A2A2 A2f2|"E7"e2d2 c2B2|"A7"A^GAB AGFE|
+"D"D2D2 DEFG|A^GAB A2fe|"G"d2B2 "D"A2F2|"Em"B2E2 "A7"EGFE|
+"D"DCDE DEFG|A^GAB A2f2|"E7"e2d2 c2B2|"A"A6E2|
+A2AB c2cd|e2ec A4|"Bm"B2Bc d2de|f2fd B4|
+"A"c2AA "E7/b"d2AA|"A"e2AA "D"f2AA|"E7"g2f2 e2d2|"A7"c2B2 A2G2|
+"D"F2d2 dc2/2de|d2A2 A4|"Em"B2e2 edef|"A7"e2B2 B4|
+"D"A2d2 dcde|"Bm"f2d2 dcde|"D"f4 "A7"a4|"D"d2cB AG|]
+
+X: 9
+T:Galopede
+R:Reel
+C:Eric Foxley
+S:Nottingham Music Database
+P:AAB
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+dc|"G"B2Bc "D7"A2AB|"G"G2G2 G2AB|"C"cBcd edcB|"Am"c2A2 "D7"A2dc|
+"G"B2Bc "D/f+"A2AB|"Em"G2G2 "Em7/d"G2AB|"Am/c"cBAG "D7"FGAF|"G"G2G2 G2:|
+dc|B2gf "C"e2ed|"Am"dcBc "D7"A2dc|"G"B2gf "C"edcB|"Am"c2A2 "D7"A2dc|
+"G"B2gf "C"e2ed|"Am"dcBc "D7"A2dc|"G"BdcB "D7"AcBA|"G"G2G2 "D7"G2Bc|
+"G"d2dd d2g2|d2dd d2g2|d2d2 "C"edcB|"Am"c2A2 "D7"A2Bc|
+"G"d2dd d2g2|"Em"d2dd d2g2|"Am"edcB "D7"dcBA|"G"G2G2 G2|]
+
+X: 10
+T:Gin I Were Where The Gadie Rins
+R:Reel
+C:via PR
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+dB|"D"A2AB ABde|f2f2 f2ed|f2f2 f2ed|"G""Em"e2ef "A7"edBd|
+"D"A2AB ABde|f2f2 f2ed|"G"a2A2 "A7"A2Bc|"G"d6:|
+|:cB|"D"A2F2 F2A2|"A7"G2E2 E2G2|"D"F2D2 F2A2|"G"d2cd "A"edcB|
+"D"A2F2 F2A2|"A7"G2E2 E2G2|"D"F2D2 "A7"F2A2|"D"d6:|
+
+X: 11
+T:La Russe
+R:Reel
+C:Kevin Briggs, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+BA  | "G"G2BB B2dd|d2g2 g2fg|"C"a2g2 e2c2|"Am"e2de "D7"dcBA|
+"G"G2BB B2dd|d2g2 g2fg|"C"e2d2 "D7"d2FG|"G"A2G2 G2:|
+K:D
+A2 | "D"A2d2 d2cB|A2a2 a2gf|"A7"g2f2 g2e2|
+"D"fgag "A7"f2d2|"D"A2d2 d2cB|A2a2 a2gf|"A7"g2f2 g2e2|"D"d6:|
+
+X: 12
+T:Joys Of Quebec
+R:Reel
+C:French Canadian, via PR
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:A
+e2|"A"eccc c2e2|eccc c2e2|fAeA dAcA|"E"dBBB B2d2|
+dBBB B2d2|dBBB B2d2|[1 e2e2 gfeg|"A"fedf "E"e2cd:|[2 e2ee "D"fefg|"A"a6cd
+|:e2z2 "D"f2z2|"A"e3f e2AB|c2cc "D"d2dd|"A"c3d c2AB|
+cBA2 G2A2|"E"B3c B2Bc|[1 d2e2 gfeg|"A"fedf "E"e2cd:|[2 d2e2 fefg|"A"afec A2|]
+
+X: 13
+T:Mairi's Wedding
+R:Reel
+C:Kay Graham, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+dB|"D"A3A A2B2|d2e2 f4|"G"e2d2 B2d2|"A7"f2e2 f4|
+"D"A3A A2B2|d2e2 f4|"G"e2d2 B2G2|"A7"A6:|
+fg|"D"a3a a2b2|"Bm"a2g2 f4|"E7"e2d2 B2d2|"A"f2e2 f4|
+"F#m"a3a a2b2|"Bm"a2g2 f4|"Em"e2d2 B2G2|"A7"A6:|
+
+X: 14
+T:Maple Sugar
+R:Reel
+C:Ward Allen
+S:Nancy Roach book
+Z:entered by alf.warnock@rogers.com
+M:2/4
+L:1/8
+K:A
+Acd|:"A"e2e>f|edcB|c2c>d|cAdc|
+"E7"cBBc|d2c>B|"A"dccB|cAcd|
+e2e>f|edcB|c2c>d|cAdc|
+"E7"cBBc|d2c>B|"A"A2 A>B|[1 "$"A2CD|E2E>F|
+ECEA|c2c>B|AEFE|"E7"B2B>c|
+BGFG|"A"A2GF|ECCF|E2E>F|
+ECEA|c2cB|AEFE|"E7"B2B>c|
+BGFG|"A"A2A>B|A2ce:|[2 A2 G>A|
+K:E
+"E"B2B>c|BGBe|g2g>f|eBcB|
+"B7"f2f>g|fdcd|"E"e2dc|BGAc|
+B2B>c|BGBe|g2g>f|eBcB|
+"B7"f2f>g|fdcd|"E"e2e>f|"DC al $"eAcd:|
+
+
+
+X: 15
+T:Brenda Stubbert
+R:reel
+C:Jerry Holland
+N: BSFC VIII-9
+N: (get Jerry Holland's permission)
+N: Well known in New England.
+N: This fine tune is already being mistakenly called "traditional"
+N: by people who don't realize that it's only a few years old.
+D:on Altan The Red Crow; Natalie McMaster tape?
+O:Cape Breton
+Z: John Chambers <jc@eddie.mit.edu>
+M:4/4
+L:1/8
+Q:1/4=200
+K:Am
+|: "Am"A/A/ABA GAAB  | A/A/ABd edd[eB] | "G"G/G/GBA BGGB | ~c2BA BGGB |
+| "Am"A/A/ABA GAAB  | A/A/ABd edda    | "G"gedB GABd  |"Em"~e2dB "Am"eAA2 :|
+| "Am"A/A/Aa2 A/A/Ag2 | Aage age[gd]  | "G"G/G/GBA BGGB | ~c2BA BGGB |
+| "Am"A/A/Aa2 A/A/Ag2 | Aage agea     | "G"gedB GABd  | "Em"~e2dB "Am"eAA2 |
+| "Am"A/A/Aa2 A/A/Ag2 | Aage age[gd]  | "G"G/G/GBA BGGB | ~c2BA BGGB |
+| "Am"A/A/ABA GAAB  | A/A/ABd edda    | "G"gedB GABd  | "Em"~e2dB "Am"eAA2 |
+
+X: 16
+T:Sandy MacIntyre's Trip to Boston
+R:Reel
+C:John Campbell
+O:Cape Breton
+M:4/4
+L:1/8
+Q:1/4=200
+K:A
+|:F|E2CE A,ECE|Acef ecce|f2af ecAc|dBcA BFFA|
+E2CE A,ECE|Acef ecce|F2af ecBc|dfec A2A:|
+|:f|eAc2 ecBc|ABce f2fa|eAc2 ecBc|
+dfec B2Bf|eAc2 ecBc|ABce f2fg|agfe fgaf|ecBc A2A:|
+
+X: 17
+T:Aiken Drum
+R:reel
+M:4/4
+L:1/4
+Q:1/4=200
+K:D
+d/2e/2|"D"ff g/2f/2e/2d/2|"G"B2 d>B|"D"A>B dA|"E7"fe "A7"ed/2e/2|
+"D"ff g/2f/2e/2d/2|"G"B2 d>B|"A7"AA Bc|"D"d3:|
+|:d/2e/2|ff fe/2d/2|"G"gg b>g|"D"fa fd|"Em"fe "A7"ed/2e/2|
+"D"ff g/2f/2e/2d/2|"G"B2 d>B|"A7"AA Bc|"D"d3:|
+
+X: 18
+T:Big John McNeil
+R:reel
+C:Trad
+M:2/4
+L:1/16
+Q:1/4=200
+K:A
+A2|:A,2CE FECE|AECE FECE|A,2CE FECE|
+FAGF EDCB,|A,2CE FECE|AECE FECE|A,CB,D CEDF|
+EGBd cA:|
+:cd|eAfA eAcd|eAfA e2 (3agf|eAfA eAce|
+daca B2cd|eAfA eAcd|eAfA e2fg|agfe fece|
+defg a2:|
+"final"
+|:A2|A,2A,2 C2A,2|C2A,2 C2A,2|A,2A,2 C2A,2|
+DFED CB,A,G,|A,2A,2 C2A,2|C2A,2 C2A,2|A,2G,B, A,CB,D|
+E2G2 A2::AB|c2d2 c2AB|c2d2 c2e2|c2d2 c2A2|
+B2A2 G2AB|c2d2 c2AB|c2d2 c2de|fedc dcAc|
+Bcdd c2:|
+
+X: 19
+T:De'il Amang the Tailors
+R:Reel
+C:FTB, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:A
+eg|"A"a2eg a2eg|a2ea "(F#7)"fedc|"Bm"dfBf dfBf|dfba "E7"gefg|
+"A"a2eg a2eg|a2ea fedc|"D"defd "A"ecBA|"E7"E2G2 "A"A2:|
+ed|ceAe ceAe|ceag fedc|"Bm"dfBf dfBf|dfba "E7"gfed|
+"A"ceAe ceAe|ceag fedc|"D"defd "A"ecBA|"E7"E2G2 "A"A2:|
+
+X: 20
+T:The Cape Breton Visit to Shetland
+R:reel
+C:W.Hunter 1982
+Z: 1997 by John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/abc/
+M:C|
+L:1/8
+Q:1/4=200
+K:A
+AF \
+| "A"EC ~C2 C2B,C | A,B,CE FECE | "D"FB~B2 "Bm"BcBA | "E7"Bffe f2fg |
+| "A"ac ~c2 eA ~A2 | cBAF "F#m"EC ~C2 | "D"FGAF "A"Eaaf | "E7"ecBc "A"A2 :|
+|: fg \
+| "A"ae ~e2 efed | ce ~e2 fece | "Bm"bf ~f2 fgfe | defd "E7"B2"=>Coda"fg |
+| "A"ae ~e2 efed | ce ~e2 fece |[1 "D"fdge "Bm"afed | "E7"cdBc "A"A2 :|[2 "D"fdec "Bm"dBcA | "E7"Bagf "d.C."eAGF :|
+|| "Coda"ed \
+| "A"cdBc "F#m"ABGA | "D"FGEF "Bm"DECD | B,CDE F^ABc | "E7"defg "A"a4 |]
+
+X: 21
+T:Spey in Spate
+C:James Scott Skinner (1843-1927)
+R:Reel
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+A,2|D/2D/2DFD A,DFA|dcBA ^GAFD|E/2E/2E=GE B,EGE|gecA ^GA=GE|
+D/2D/2DFD A,DFA|dDcD BDef|g/2f/2efd ecdB|AFGE D2:|
+A,2|d/2d/2dfd AdFA|DFAd fagf|e/2e/2ege BAGF|EFGB egfe|
+d/2d/2dfd AFFA|dDcD BDef|g/2f/2efd ecdB|AFGE D2:|
+
+X: 22
+T:Miss Wedderburn
+R:Reel
+O:Scotland
+M:4/4
+L:1/8
+Q:1/4=200
+K:A
+F|:E2EF EFAc|BABc BAFA|E2EF EFAc|BABc A/A/A A:|
+c|d2fd c2ec|BABc BAFc|d2fd c2ec|BABc A/A/A Ac|
+dfdf cece|BABc BAFf|efge a2gf|ecBc A/A/A A|]
+
+X: 23
+T:Clog Double
+R:reel
+S:Jean Carignan; Hommage a Joseph Allard, Philo
+M:C|
+L:1/8
+Q:1/4=200
+K:Bb
+|:B2dB fBdB|gBaB bBAB|FBAB GcBc|AecA BAGA|
+B2dB fBdB|gBaB bBAB|FBAB GcBc|AecA BFGA:|
+|:B2dB fBdB|bagf =egfd|B2dB fBdB|AecA FAcA|
+B2dB fBdB|bagf =egfd|B2dB fBdB|AecA BFGA:|
+
+X: 24
+T:King's Reel
+R:Reel
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+B,|A,<A,EA, FA,EA,|A,<A,ED CA,A,B,|A,<A,EA, FA,EF|G2EC B,G,G,B,:|
+e|c/2B/2AeA aAeA|c/2B/2AeA cAAe|c/2B/2AeA aAef|g2dc BGGe|
+c/2B/2AeA aAeA|c/2B/2Aed cAAB|c2ec B2dB|Bgdg BGG2|]
+
+X: 25
+T:Music For A Found Harmonium
+R:reel
+C:Simon Jeffes
+S:Penguin Cafe Orchestra: "Broadcasting from Home" (EG Records 1984)
+Z:This is the whole thing as played on the album.
+M:4/4
+L:1/8
+Q:1/4=200
+K:D % transposed from C
+"[A]"D|:FDGD FDDD|FDGD FDCD|FDGD FDDD|EDCD FDD:|
+|:"[B]"D|EDCD EDCD|FDCD FDCD|GDED CDGD|FDDD D2D:|
+|:"[A]"D|FDGD FDDD|FDGD FDCD|FDGD FDDD|EDCD FDD:|
+|:"[B]"D|EDCD EDCD|FDCD FDCD|GDED CDGD|FDDD D2D:|
+K:C
+|:"[C]"F|cFEF GF2F|cFEF E3F|cFEF GF2F|cFEF E3:|
+K:F
+F|"[D]"BFDF GF2F|BFDF GF2F|BFEF GE2F|BFEF GE2|
+K:D
+G|"[E]"cGEG CG2G|cGEG CG2G|cGEG CG2G|cGEG CG2|
+|:"[A]"D|FDGD FDDD|FDGD FDCD|FDGD FDDD|EDCD FDD:|
+|:D"[B']"|EDCD EDCD|FD=CD FDCD|GDB,D GDCD|FDDD D2D:|
+K:C
+|:F|"[C]"cFEF GF2F|cFEF E3F|cFEF GF2F|cFEF E3:|
+K:F
+F|"[D]"BFDF GF2F|BFDF GF2F|BFEF GE2F|BFEF GE2|
+K:D
+G|"[E]"cGEG CG2G|cGEG CG2G|cGEG CG2G|cGEG CG2|
+|:D|"[A]"FDGD FDDD|FDGD FDCD|FDGD FDDD|EDCD FDD:|
+|:D|"[B]"EDCD EDCD|FDCD FDCD|GDED CDGD|FDDD D2D:|
+|:D|"[A]"FDGD FDDD|FDGD FDCD|FDGD FDDD|EDCD FDD:|
+|:D|"[B]"EDCD EDCD|FDCD FDCD|GDED CDGD|FDDD D2D:|
+|:D|"[B]"EDCD EDCD|FDCD FDCD|GDED CDGD|FDDD D2D:|
+
+X: 26
+T:Mouth of the Tobique
+S:Don Messer Anthology + 3rd part
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+(3DEF|GFGA Bded|BdBG DGBG|AGFE DFAc|BdBG D2 (3DEF|
+GFGA  Bded|BdBG DGBG|AGFE DFAc|BGGF G2:|
+|:Bd|gfga gfeg|fdAd fagf|eGFE DFAc|BGBc d2ef|
+gfga gfef|fdAd fagf|eGFE DFAc|BGGF G2:|
+|:DEF|GGBG GcGG|BGGc GGBG|FGAB cAFD|GABc dDEF|
+GGBG GcGG|BGGc GGBG|FGAB cAFD|GBAF G2:|
+
+X: 27
+T:Old French
+T:Rambler's Hornpipe
+R:Reel
+C:via PR
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+(3ABc|"D"d2cd BdAF|DFAd f2ed|"A"cdef gece|"D"defd "A"A2 (3ABc|
+"D"d2cd BdAF|DFAd f2ed|"A"cdef "A7"gece|"D"d2f2 d2:|
+|:cd|"A"efed c2A2|AEAc e2dc|"G"BGBd gfed|"A"cAce a2cd|
+efed c2A2|AEAc e2dc|"G"BGBd gfed|"A"c2A2 A2:|
+
+X: 28
+T:Flowers of Edinburgh
+R:Reel
+C:Trad
+S:Aly Bain Book
+M:C
+L:1/8
+Q:1/4=200
+K:G
+|:GE|D2DE G2GA|BGBd cBAG|FGFE DEFG|AFdF E2GE|
+D2DE G2GA|BGBd efge|dcBA GFGA|B2G2 G2:|
+d2|:g2g2 gbag|f2f2 fagf|edef gfed|B2e2 e2ge|
+dBGB d3d|[1 edef g2fe|dcBA GFGA|B2G2 G2d2:|
+|[2 edef agfe|dcBA GFGA|B2G2 G2|]
+
+X: 29
+T:Spootiskerry
+R:reel
+C:Ian Burns (Shetland)
+Z:Set Spootiskery / Willafiord / Sleep Sound Morning
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+DE|:"G"G2DE GDEG|DEGA "D7"B2AB|"G"G2DE "Em"GABd|"Am"eged "D7"B2AB|
+"G"G2DE GDEG|DEGA B2AB|"C"g2ed "D7"edBA|"G"B2G2 G2:||
+ef|g2ed "Em"edB2|"C"BABG "D7"E2DE|"G"GABd "Em"eged|"Am"B2A2 "D7"A2ef|
+"G"g2ed "Em"edB2|"C"BABG "D7"E2DE|"G"GABd "D7"eged|"G"B2G2 G2ef|
+g2ed "Em"edB2|"C"BABG "D7"E2DE|"G"GABd "Em"eged|"Am"B2A2 "D7"A2DE|
+"G"G2DE GDEG|DEGA B2AB|"C"g2ed "D7"edBA|"G"B2G2 G2|]
+
+X: 30
+T:Willafjord
+R:reel
+O:trad Shetland
+Z:John Chambers <jc@eddie.mit.edu>
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+|: B2 | "D"A2FA -ADFA | "G"B2GB -BDGB | "D"A2FA -ADFA | "Em"EFGA "A7"GFED |
+"D"A2FA -ADFA | "G"B2GB -BDGB | "A7"ABcd efge | "D"f2d2 d2 :|
+|: e2 | f2df -fAdf | "Em"geaf "A7"gfeg | "D"f2df -fAdf | "A7"e2ce -eAce |
+"D"f2df -fAdf | "Em"geaf "A7"gfec | ABcd efge | "D"f2d2 d2 :|
+
+X: 31
+T:Sleep soond ida moarnin'
+T:Sleep sound in the morning
+R:Reel
+O:Shetland
+Z:3rd part played in Ottawa
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+Q:1/4=200
+K:ADor
+|:ea2^g a2ef|gedB GABG|ea2^g a2ef|gedB A2:|
+|:AB|cAeA cAeA|BcdB G2AB|cAeA cAeA|BAGB A2AB|
+cAeA cAeA|BcdB G2GB|ABcd efga|gedB A2||
+AB|c2e2 c2e2|d2=f2 d2f2||ea2^g a2ef|gedB A2:|
+
+X: 32
+T:My Love is but a Lassie Yet
+R:Reel
+C:Nan F-W, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+P:A
+dc|"D"d2D2 F2A2|d2D2 "G"D2dc|"D"d2D2 F2A2|"E7"e2E2 "A7"E2dc|
+"D"d2D2 F2A2|"G"B2g2 f2e2|"Em"dcBA "A7"B2c2|"D"d2D2 D2:|
+P:B
+fg|a3f "A7"g3e|"D"f2d2 "A7"d2fg|"D"a3f "G"g2a2|"Em"b2e2 "A7"e2fg|
+"D"a3f "A/c+"g3e|"Bm"f2d2 "A7"e2c2|"Em/g"dcBA "A7"B2c2|"D"d2D2 D2:|
+P:BAlt
+fg|agfa "A7"gfeg|"D"f2d2 d2fg|agfa "G"gfga|"Em"bagf "A7"e2fg|
+"D"agfa "A/c+"gfeg|"Bm"fedf "A7"e2c2|"Em/g"dcBA "A7"Bcde|"D"f2d2 d2|]
+
+X: 33
+T:Rakes O' Mallow
+T:Rigs O' Mallow
+R:Reel
+C:Kevin Briggs, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+cB|"G"G2B2 G2B2|G2B2 cBAG|"D7"F2A2 F2A2|F2A2 dcBA|
+"G"G2B2 G2B2|G2B2 "Em"d3B|"Am"cBAG "D7"FGAc|"G"B2G2 G2:|
+d2|g2fe d2c2|B2c2 "D7"d4|"G"g2fe d2c2|B2d2 "D7"A4|
+"G""Em"g2fe d2c2|"G"B2c2 "Em"d3B|"Am"cBAG "D7"FGAc|"G"B2G2 G2:|
+
+X: 34
+T:White Cockade
+R:Reel
+C:Kevin Briggs, via EF
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+GA|"G"B2B2 B2AG|B2B2 B2g2|d2B2 B2AG|"Am"B2A2 "D7"A2GA|
+"G"B2B2 "D7"cBAG|"G"B2d2 "Em"g2ga|"G"bagf "D"agfe|"Em"d2B2 "D7"B2:|
+Bc|"G"d2B2 g2Bc|d2d2 d2Bc|d2B2 g2fg|"A7"a2A2 "D7"A2GA|
+"G"B2B2 "D7"cBAG|"G"B2d2 "Em"g2ga|"G"bagf "D"agfe|"Em"d2B2 "D7"B2:|
+
+X: 35
+T:Blackberry Blossom
+R:reel
+S:Robin Williams Fiddle book
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+|:g2bg f2af|egfe dBAG|EFGF E2GA|BdBG A4|
+(3gfg bg f2af|efge dBAB|E2GF EFGA|BGAF G4:|
+|:B2eB dBed|B2eB dBAF|B2eB d2ef|gbag edBA|
+B2eB dBed|B2eB dBAF|[1 GABA A2GA|BGAF GFED:||[2 GABd efge|dBAB G4|]
+
+X: 36
+T:Billy In The Lowground
+R:Reel
+C:via PR
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:C
+| "C"G,A,CD EGAB|cBcd cAGB|"Am"ABAG EGAB|(3cBA GE DCCA,|
+"C"G,A,CD EGAB|cBcd cAGB|"Am"ABAG EGAB|(3cBA GE "G7 C"D2C2:|
+|:eg2e g2eg|aged cAG2|"Am"ea2g a2eg|agab age2|
+"C"eg2e g2eg|aged cAG2|"Am"ABAG EGAB|(3cBA GE "G7"D2"C"C2:|
+
+X: 37
+T:Bill Cheetham
+R:Reel
+C:via PR
+S:Nottingham Music Database
+M:4/4
+L:1/8
+Q:1/4=200
+K:A
+|:"A"E2c2 c2AB|cBAc BAFE|"D"DFAc d2Bc|dcde "E7"dcBA|
+"A"EFAB c2AB|cBAc BAFA|"D"dcde fgaf|"E7"ecBc "A"A4:|
+|:ecea "D"fdfa|"E"gabg "A"a2cd|ecea "D"fdfa|"A"ecBA "E7"B2cd|
+"A"ecea "D"fdfa|"E"gabg "A"a2fg|agae "D"faed|"E"cAB2 "A"A4:|
+
+X: 38
+T:Fourposter Bed
+C:Traditional
+N:In 3rd and 4th measure of 2nd part, note after each PIZZ is a tap on
+N:the top of the fiddle.
+M:2/4
+L:1/16
+Q:1/4=200
+K:D
+de|:f2f2 e2fg|agfe dcde|f2gf e2d2|a4 A4:|
+|:e2ee e2ef|edcB A2A2|.a2.e2 .a2.e2|.a2.e2 .a2.e2|
+e2ee e2ef|edcB A2^g2|a2 (3gag f2e2|d4 d4:|
+
+X: 39
+T:Nail That Catfish to the Tree
+R:reel
+S:Greg Dahms
+Z:Alf.warnock@rogers.com
+M:2/4
+L:1/16
+K:G
+D2|: G2B2 A2B2| c2c2 B2B2| ABAG FED2| ABAG FED2|
+G2B2 A2B2| c2c2 B2B2| ABAG DEF2| G4 G2D2:|
+:C2C2 E2G2| c2c2 B2B2| ABAG FED2| ABAG FEDB,|
+C2C2 E2G2| c2c2 B2B2| ABAG DEF2| G4 G4:|
+
+X: 40
+T:Compliments to Sean Maguire
+R:reel
+C:Brendan Mulvihill
+S:Jerry Holland Book
+Z:Alf.warnock@rogers.com
+M:C|
+L:1/8
+K:Bb
+(3FE_D|:DB,~B,2 FB,DF|EDEF EFG_A|AF~F2 cFAc|BABc BGFE|
+DB,~B,2 A,B,_A,B,|G,EED EFG_A|AF~F2 cFAc|[1 BABc B2 (3FE_D:|[2 BABc B2gf
+|:dBFB DFBc|dBAc BAGF|GeFd EcDB|AF~F2 cFAc|
+B/B/BfB bBfB|gBfB AF~F2|[1 G/G/GeG F/F/FdF|EcAc B2gf:|[2 E/E/EcE dEcE|AG (3FGA B2z2|
+
+X: 41
+T: Betty Patton
+M:4/4
+R:reel
+L:1/8
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+K:G
+| "G"G2GG G2A2|B2BB B2d2|e2d2 B2G2|"D7"B2A2 A4|
+"G"G2GG G2A2|B2BB B2d2|"C"e2d2 "D7"c2F2|"G"A2G2 G2d2:|
+|:"G"g4 d3d|e2d2 B2d2|e2d2 B2G2|"D7"B2A2 A2d2|
+"G"G2GG G2A2|B2BB B2d2|"C"e2d2 "D7"c2F2|"G"A2G2 G4:|
+
+X: 42
+T: Frank's Reel
+M:4/4
+R:reel
+L:1/8
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+C: John McCusker
+K:A
+|: "A"AcBA "D"F2AF|"A"EFAB cABc|"D"d3f "A"ecAe|"D"faec "E7"B/2c/2dcB|
+|1 "A"AcBA "D"F2AF|"A"EFAB cABc|"D"d3f "A"ecAc|"E7"BAGB "A"A2E/2F/2G :|
+|2 "A"AcBA "D"EFAF|"A"EFAB cABc|"D"dff/2f/2f "A"ecAc|"E7"BAGB "A"Aefg|
+"A"aAAg "C#m7"AAfA|"F#m"effe "A"cABc|"D"d3f "A"ecAc|"Bm"Bcde "E7"fee/2f/2g|
+"A"aAAg "C#m7"AAfA|"F#m"effe "A"cABc|"D"dff/2f/2f ecAc|"E7"BAGB "A"Aefg|
+"A"aAAg "C#m7"AAfA|"F#m"ef2e "A"cABc|"D"d3f "A"eAce|"Bm"faec "E7"B/2c/2dcB|
+"A"AcBA "D"F3A|"A"EFAB cABc|"D"d3f "A"ecAc|"E7"BAGB "A"A4|
+
+X: 43
+T:Mutt's Favorite reel
+R:reel
+C:Jerry Holland
+M:C|
+L:1/8
+K:G
+|:EAAc B2Ac|BAAg feea|EAAc B2Ac|BGGA BcdD|
+EAAc B2 Ac|BAAg feef|gfgde2dg|BGBc dBGB:|
+|:EA A/A/A fA A/A/A|gA A/A/A aA A/A/A|EAfA gAaA|fgdg BGGD:|
+
+
+X: 44
+T: Mrs. Norman McKeigan
+C: Dan R. Macdonald (1912-76)
+M:4/4
+R:reel
+L:1/8
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+K:D
+A,|"D"D2DG FAAB|defd "G"g2fe|"D"dcBA "G"BcdA|"D"BdAF "A"AFEF|
+"D"D2DE FAAB|defd "G"g2fe|"D"dcBA "G"BcdA|"A"BdAF "D"DD2f||
+"D"abaf defd|fada f2ef|abaf defd|fadf "A"e2ef|
+"D"abaf defd|fadf "G"g2fe|"D"dcBA BcdA|"A7"BdAF "D"D4||
+
+
+X: 45
+T: Pointe au Pique
+M:2/4
+R:reel
+L:1/16
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+K:G
+|:dBd|"G"ABGA FGEF|DDD2 zdBd|ABGA FGEG|"D"FFF2 zdBd|
+ABGA FGEG|FFF2 zd^cd|ed^cd edBG|"G"DDD2 zdBd|
+ABGA FGEF|DDD2 zdBd|ABGA F2=F2|"C"E6EF|
+EDEF "C#dim"GFGA|"G"BABd "Em"e4| "Am"d2c2 zAEF|"G"G4 z:|
+|:D2|"Em"EDEF GFGA|Be2e efe2|Be2e efe2|Be2e3E2|
+"D"D2DE FDFA|d^cde dAFA|d2de dAFA|ddd4GF|
+"Em"EDEF GFGA|Be2e efee|Be2e efee|Be2e "D"e2f2|
+"C"g3a gdBc|"G"d^cde dBGA|"Am"BdBG "D"A^cAF|"G"G4 G2:|
+
+
+
+X: 46
+T:Pretty Pegg
+M:4/4
+R:reel
+L:1/8
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+K:D
+A|:"D"d/2d/2d fd AFDF|d/2d/2d fd "G"e/2f/2g "A7"fe|"D"d/2d/2d fd AFDF|"G"GE"D"FD "A7"CEEA:|
+"D"F/2E/2D AD BDAD|G/2F/2E F/2E/2D "A7"CEE3/2G/2|"D"F/2E/2D AD BDAD|"A7"G/2F/2E F/2E/2D "D"A,DDA|
+F/2E/2D dD cDBD|AD F/2E/2D "A7"CEEG|"D"FAdf "A"ec"G"dB|"A7"AFGE "D"D3|]
+
+X: 47
+T: Reel du Pendu
+M:4/4
+R:reel
+L:1/8
+Z:added by Alf Warnock - alf0@rogers.com - www.alfwarnock.info/alfs
+K:G
+|:"G"DEGA B2B2|BcBA B2B2|DEGA B2B2|"D7"ABAF "G"G2G2:|
+|:"D7"A/2A/2AA2 A/2A/2AA2|A/2A/2AB2 c2B2|A/2A/2AB2 c2B2|A2F2 "G"G4:|
+|:"G"DB,CD "C"ECDE|"G"DCB,G, "D7"A,2A,2|"G"DB,CD "C"ECDE|"D7"DCB,A, "G"G,2G,2:|
+|:z4 B2B2|BcBA Bz3|z4 B2B2|ABAF G z3:|
+
+
+X: 48
+T: White Fish up the rapids
+M:4/4
+R:reel
+L:1/8
+Z:added by alf0@rogers.com - www.alfwarnock.info/alfs
+K:Bb
+|:"Bb"B2FB dBFD|"Eb"E2GB eBGE|"Bb"FGFE DFBd|"F7"cBAG FGAF|
+"Bb"B2FB dBFD|"Eb"E2GB eBGE|"Bb"FGFE "Gm"DFBd|"F7"cBAc "Bb"B2F2:|
+|:"Bb"Bcde fBAB|"Gm"gB"F7"aB "Bb"bBAB|"Gm"bBgB "Bb"fBAB|"Cm"cecA "F7"BAGA|
+"Bb"Bcde fBAB|"Gm"gB"F7"aB "Bb"bBAB|"Cm"FGFE "F7"DFBd|cBAc "Bb"B2F2:|
+
+X:49
+T: Reel de Rimouski
+M:2/4
+R:reel
+L:1/16
+Z:added by Alf warnock alf0@rogers.com - www.alfwarnock.info/alfs
+Z:repertoire de Jos Bouchard, notation de Marcel Ducharme.
+K:G
+|:DEF|"G"G2Bd gdBG|"D7"ABcA FDEF|"G"GFGB dBGB|"D7"Agfe dcBA|
+"G"G2Bd gdBG|"D7"ABcA FDEF|"G"GFGB dBGB|"D7"ABAF "G"G:|
+K:C
+|"C"e2ef edce|g2ga gece|gece gecA|"G7"B2^A2 A4|
+ |1 "G7"f2fg fefg|b2bb bg^fg|a2ab agfg|"G7"ag^fg "C"e2c2:|
+ |2 "F"aa^ga b2a2|"C"gg^fg a2g2|"Dm"fedf "G7"a2B2|"C"c4z efg||
+K:F
+|"F"aaa2 "C"ggg2|"F"fff2 c2Ac|f2fg fefa|"Gm"g2d2 d4|
+ "C7"bbb2 aaa2|ggg2 e2cd|e2ef edce|"F"dc=Bc A2F2|
+"F"aaa2 "C"ggg2|"F"fff2 c2Ac|f2fg fefa|"Gm"g2d2 d3e|
+"Gm"fefg fefg|"F"afcB Aceg|"Gm"b2bb "C7"bgeg|"F"fefg f4||
+
+X: 44
+T:Olive Branch
+M:4/4
+L:1/8
+K:A
+|A2 cA eAfA|eAfA ecBc|A2 cA eAfA|ecBc AFEF|
+A2 cA eAfA|eAfA ecBc|ABAF Ecdf|ecBc A3z:|
+|:A2 ce a2 af|efed cdBc|A2 ce a2 ag|fbba gbeg|
+agae faec|dBcA BAFG|ABAF Ecdf|ecBc A3z:|
+
+X: 45
+T:Pointe au Pic
+M:2/4
+L:1/16
+R:reel
+K:G
+dBd|"G"ABGA FGEF|DDD2 zdBd|"G"ABGA FGEG|"D"FFF2 zdBd|
+ABGA FGEG|"D"FFF2 zd^cd|ed^cd edBG|"G"DDD2 zdBd|
+"G"ABGA FGEF|DDD2 zdBd|"G"ABGA F2=F2|"C"E6D2|
+"C"EDEF "C#dim"GFGA|"G"BABd"Em"e4|"D"d2c2 -cAEF|"G"G4z:|
+D2|"Em"EDEF GFFA|Be2e efe2|Be2e efe2|Be2e e2(3GFE|
+"D"D2DE FDFA|"D"d^cde dAFA|"D"d2de dAFA|ddd2 d2GF|
+"Em"EDEF GFFA|Be2e efe2|Be2e efe2|Be2e "D"e2 f2|
+"C"g3a gdBc|"G"d^cde "Em"dBGA|"A"BdBG "D"AcAF|"G"G4 G:|
+
+
