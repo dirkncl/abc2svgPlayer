@@ -1,0 +1,167 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% This file is a part of the Open Hymnal Project to create a free, 
+% public domain, downloadable database of Christian hymns, spiritual 
+% songs, and prelude/postlude music.  This music is to be distributed 
+% as complete scores (words and music), using all accompaniment parts, 
+% in formats that are easily accessible on most computer OS's and which
+% can be freely modified by anyone.  The current format of choice is the 
+% "ABC Plus" format, favored by folk music distributors on the internet.
+% All scores will also be converted into pdf, MIDI, and mp3 formats.
+% Some advanced features of ABC Plus are used, and for accurate 
+% translation to a printed score, please consider using "abcm2ps" 
+% version 4.10 or later.  I am doing my best to create a final product
+% that is "Hymnal-quality", and could feasibly be used as the basis for
+% a printed church hymnal.
+%
+% The maintainer of the Open Hymnal Project is Brian J. Dumont (brian 
+% dot j dot dumont at gmail dot com).  I have gone through serious efforts 
+% to make sure that no copyrighted material makes it into this database.
+% If I am in error, please inform me as soon as possible.
+%
+% This entire effort has used only free software, and I am indebted to 
+% the efforts of many other individuals, including the authors of
+% the various ABC and ABC Plus software, the authors of "noteedit"
+% where the initial layouts are done, and the maintainers of the 
+% "CyberHymnal" on the web from where most of the lyrics come.
+% Undoubtedly, I am also indebted to all of the great Christians who 
+% wrote these hymns.
+%
+% This database comes with no guarantees whatsoever.
+%
+% I would love to get email from anyone who uses the Open Hymnal, and
+% I will take requests for hymns to add.  My decision of whether to 
+% add a hymn will be based on these criteria (in the following order):
+% 1) It must be in the public domain
+% 2) It must be a Christian piece
+% 3) Whether I have access to a printed copy of the music (surprisingly,
+%    a MIDI file is usually a terrible source)
+% 4) Whether I like the hymn :)
+%
+% If you would like to contribute to the Open Hymnal Project, please 
+% send an email to me, I would love the help!  PLEASE EMAIL ME IF YOU 
+% FIND ANY MISTAKES, no matter how small.  I want to ensure that every 
+% slur, stem, hyphenation, and punctuation mark is correct; and I'm sure 
+% that there must be mistakes right now.
+%
+% Open Hymnal Project, 2011 Edition
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% PAGE LAYOUT
+%
+%%pagewidth	21.6000cm
+%%pageheight	27.9000cm
+%%scale		0.700000
+%%staffsep	1.10000cm
+%%exprabove	false
+%%measurebox	false
+%%combinevoices 1
+%%measurenb 0
+%OHSCRIP 
+%OHTOPICS 
+%OHCATEGORY INSTRUMENTAL
+%OHMETRICAL CHORAL
+%OHCOMPLEXITY 5
+%OHCOMPOSER Pachelbel, Johann (1653-1706)
+%OHARRANGER Dumont, Brian James (1971-)
+%OHAUTHOR none
+%OHTRANSLATOR none
+
+X:1
+T: Canon in D
+C: Music: 'Kanon (for piano)' Johann Pachelbel, circa 1680. Setting: Brian J. Dumont, 2011.
+C: copyright: Melody, public domain.  Setting: Copyright 2011 Brian J. Dumont. This setting 
+C: may be freely reproduced or published for Christian worship, provided it is not altered, and this notice is 
+C: on each copy. All other rights reserved.   This score is a part of the Open Hymnal Project, 2011 Revision.
+S: Music source: rearranged for piano from "Archiv für Musikwissenschaft I", ed. Max Seiffert, 1919.
+M: 4/4 % time signature
+L: 1/16 % default length
+%%staves (S1 S2) | (S3 S4)
+V: S1 clef=treble
+%%MIDI beat 127 125 110 1
+V: S2 
+%%MIDI beat 127 125 110 1
+V: S3 clef=bass
+%%MIDI beat 127 125 110 1
+V: S4 
+%%MIDI beat 127 125 110 1
+K: D % key signature
+%
+%%MIDI program 1 0 % Piano 1
+%%MIDI program 2 0 % Piano 1
+%%MIDI program 3 0 % Piano 1
+%%MIDI program 4 0 % Piano 1
+%
+% 1
+[V: S1] [Q:1/4=56] x8 x8 | x8 x8 | f4 e4 d4 c4 | B4 A4 B4 c4 | f4 e4 d4 c4 | B4 A4 B4 c4 |
+[V: S2]  x8 x8 | x8 x8 | x8 x8 | x8 x8 | d4 c4 B4 A4 | G4 F4 G4 E4 |
+[V: S3]  x8 x8 | x8 x8 | x8 x8 | x8 x8 | x8 x8 | x8 x8 |
+[V: S4]  D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 | D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 | D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 |
+% 7
+[V: S1]  D2F2 A2G2 F2D2 F2E2 | D2B,2  D2A2 G2B2 A2G2 | F2D2  A2c2 F2F2 A2A2 | B2G2 A2A2 G2d2 d3c |
+[V: S2]  x8 x8 | x8 x8 | D2B,2 E2A2 D2D2 F2E2 | D2B,2 D2F2  D2B2 A2G2 |
+[V: S3]  x4 C4 x4 A,4 | x4 F,4 x4 E4 | x8 x8 | x8 x8 |
+[V: S4]  D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 | D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 |
+% 11
+[V: S1]  |: dcdD CAEF DdcB cfab | gfeg fedc BAGF EGFE | DEFG AEAG FBAG AGFE | DB,Bc dcBA GFEB ABAg |
+[V: S2]  |: x8 x8 | x8 x8 | x8 x8 | x8 x8 |
+[V: S3]  |: x8 x8 | x8 x8 | x8 x8 | x8 x8 |
+[V: S4]  |: D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 | D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 |
+% 15
+[V: S1]  x8 x8 | x8 x8 | x8 x8 | x8 x8 |
+[V: S2]  dcdD CAEF DdcB cfab | gfeg fedc BAGF EGFE | DEFG AEAG FBAG AGFE | DB,Bc dcBA GFEB ABAg |
+[V: S3]  F,4 A,4 B,2D2 F,4 | B,4 A,4 B,4 C4 | x4 C4 B,4 D4 | z6 D2 D4 E4 |
+[V: S4]  D,4 E,4 B,4 F,4 | G,4 D,4 G,4 A,4 | D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 |
+% 19
+[V: S1]  af/g/ af/g/ a/A/B/c/d/e/f/g/ fd/e/ fF/G/ A/B/A/G/A/F/G/A/ | GB/A/ GF/E/ F/E/D/E/F/G/A/B/ GB/A/ Bc/d/ A/B/c/d/e/f/g/a/ |
+[V: S2]  x8 x8 | x8 x8 |
+[V: S3]  F,4 A,4 B,2D2 F,4 | B,4 A,4 B,4 C4 |
+[V: S4]  D,4 E,4 B,4 F,4 | G,4 D,4 G,4 A,4 |
+% 21
+[V: S1]  fd/e/ fe/d/ e/c/d/e/f/e/d/c/ dB/c/ dD/E/ F/G/F/E/F/d/c/d/ | Bd/c/ BA/G/ A/G/F/G/A/B/c/d/ Bd/c/ dc/B/ c/d/e/d/c/d/B/c/ :|
+[V: S2]  x8 x8 | x8 x8 :|
+[V: S3]  D4 C4 B,4 F,4 | G,4 D,4 D4 E4 :|
+[V: S4]  D,4 A,4 B,,4 D,4 | D,6 D,2 G,4 A,4 :|
+% 23
+[V: S1]  fFGF Eefe dFDB AA,G,A, | B,BcB AA,G,A, B,BAB cCB,C | Dded cCDC B,BAB cCFE |
+[V: S2]  x8 x8 | x8 x8 | x8 x8 |
+[V: S3]  D,2A,2 A,2 A,2 x4 F,4 | G,2 G,2 x4 G,2 G,2 A,4 | z2 A,2 A,4 z2 F,2 z2 A,2 |
+[V: S4]  x4 C,2 x2 B,2F,2 D,2A,,2 | D,2 x2 D,2F,2 D,2 x2 E,2E,,2 | D,4 A,4 B,,4 F,4 |
+% 26
+%%newpage
+[V: S1]  Ddeg fFAf dgfg eAGA | fFGF Eefe dFDB AA,G,A, | B,BcB AA,G,A, B,BAB cCB,C |
+[V: S2]  x8 x8 |  x8 x8 | x8 x8 |
+[V: S3]  G,4 z2 F,2 G,4  z2 e,2 | D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 |
+[V: S4]  G,4 D,4 G,4 A,4 | F,,A,,A,,A,, A,,A,,A,,A,, F,F,F,F, F,,F,,A,,A,, | G,,G,,G,,D, D,D,D,D, D,D,B,,B,, A,,A,,E,C, |
+% 29
+[V: S1]  Afff eeee dddd aaaa | bbbb aaaa bbbb c'ccc | dD/E/FD Cc/d/ed BB,/C/DB, CA/G/FE |
+[V: S2]  x8 x8 | x8 x8 | x8 x8 |
+[V: S3]  x8 x8 | x8 x8 | x8 x8 |
+[V: S4]  D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 | D,4 A,,4 B,,4 F,4 |
+% 32
+[V: S1]  DG/F/EG FD/E/FA GB/A/GF EA/G/FE | Fd/c/dF AA/B/cA Fd/e/fd ff/e/dc | BB/A/Bc df/e/df gd/c/BB AEAA |
+[V: S2]  x8 x8 | x8 x8 | x8 x8 |
+[V: S3]  x8 x8 | x8 x8 | x8 x8 |
+[V: S4]  G,4 D,4 G,4 A,4 | D,4 A,4 B,4 F,4 | G,4 D,4 G,4 A,4 |
+% 35
+[V: S1]  F3f fgfe d3d dedc | B4 d4 d=cB=c A3A | A3a abag f3f fgfe |
+[V: S2]  D2d2 c4 B4 A4 | D3E F4 B2B2 E3E | F3f fgfe d3d dedc |
+[V: S3]  A,4 x4 D6 A,2 | x4 A,4 x4 D3C | D2D2 C4 B,4 A,4 |
+[V: S4]  D,4 A,4 B,4 F,4 | G,4 D,4 G,2D,2 A,4 | D,4 A,4 x4 F,4 |
+% 38
+[V: S1]  d=cB=c d4 d=cB=c ^c3c | d2 d4 c4 B4 A2- | A2 G4 F2- F3E  E4 |
+[V: S2]  B4 A3A G4 A3A | A4 A4 F4 D4 | D4 A,4 G,4 ^C4 |
+[V: S3]  D3E F,4 B,4 E3E | F,3F, F,G,F,E, D,3D, D,E,D,C, | B,,4 D,4 D,=C,B,,=C, A,,3A,, |
+[V: S4]  G,4 D,4 G,4 A,4 | D,4 A,,4 B,,4 F,,4 | G,,4 x4 G,,4 x4 |
+%  41
+[V: S1]  d2 f4 e2d2 d4 =c2 | B4 d2A2 B4 A4 |
+[V: S2]  F2 d4 c4 B4 A2- | A2 G4 F2- F3E  E4 |
+[V: S3]  A,3A, A,B,A,G, F,3F, F,G,F,E, | D,=C,B,,=C, A,3A, G,2D,2 ^C,3C, |
+[V: S4]  D,4 x4 B,,4 x4 | G,,4 D,4 G,,4 A,,4 |
+% 43
+[V: S1]  f2F2 E2e2 d2D2 C2c2 | B2b2 a2A2 G3e A2e2 | f8 z8 |]
+[V: S2]  d2D2 C2c2 B2B,2 A,2A2 | G2g2 f2F2 E2B2 E2A2 | A8 x8 |]
+[V: S3]  A,4 A,3G, F,4 F,3E, | D,6 D,2 D,4 C,4 | D,8 z8 |]
+[V: S4]  D,4 A,,4 B,,4 F,,4 | G,,4 D,,4 G,,4 A,,4 | x8 x8 |]
+
