@@ -6,7 +6,15 @@
   
   - Choral - https://dirkncl.github.io/abc2svgPlayer/Choral.html
 
+  - abcother - https://dirkncl.github.io/abc2svgPlayer/abcTune.htm
+  
   - abcother - https://dirkncl.github.io/abc2svgPlayer/abcother.html
 
+  - abcother - https://dirkncl.github.io/abc2svgPlayer/NMD.html
+
+
 - abc2svg - http://moinejf.free.fr/js/
+
 - openhymnal ABC files - http://openhymnal.org/
+
+- NMD ABC Files - Nottingham Music Database
