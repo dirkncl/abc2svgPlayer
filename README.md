@@ -18,3 +18,13 @@
 - openhymnal ABC files - http://openhymnal.org/
 
 - NMD ABC Files - Nottingham Music Database
+
+
+# add abc2svg new version 1.18.3 from http://moinejf.free.fr/js/
+## experimental 
+
+- normal editing - https://dirkncl.github.io/abc2svgPlayer/index.xhtml
+
+- One file player - https://dirkncl.github.io/abc2svgPlayer/index.xhtml?../ABC/openhymnal/Amazing_Grace-New_Britain.abc
+
+- Playlist player - https://dirkncl.github.io/abc2svgPlayer/openhymal_new.html
