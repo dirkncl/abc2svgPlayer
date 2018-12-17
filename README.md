@@ -23,8 +23,8 @@
 ## add abc2svg new version 1.18.3 from http://moinejf.free.fr/js/
 ### experimental 
 
-- normal editing - https://dirkncl.github.io/abc2svgPlayer/index.xhtml
+- normal editing - https://dirkncl.github.io/abc2svgPlayer/abc2svg-1.18.3/index.xhtml
 
-- One file player - https://dirkncl.github.io/abc2svgPlayer/index.xhtml?../ABC/openhymnal/Amazing_Grace-New_Britain.abc
+- One file player - https://dirkncl.github.io/abc2svgPlayer/abc2svg-1.18.3/index.xhtml?../ABC/openhymnal/Amazing_Grace-New_Britain.abc
 
 - Playlist player - https://dirkncl.github.io/abc2svgPlayer/openhymal_new.html
