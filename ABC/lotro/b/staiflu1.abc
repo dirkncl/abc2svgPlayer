@@ -1,0 +1,49 @@
+X:1
+T:StairwayToHeaven Flute (flute/voice combo)
+Z:findeladan Durinsbane
+M:4/4
+L:1/8
+Q:1/4=84
+K:G
+z8|z8|z8|G,A, A,4 z2|
+E4- [E4^G,4]|[A,4-=G,4] [A,4^F,4]|[A,8C8]|[GD] [AE] [A4C4] z2|
+[C4E4] [A4F4]|[c-A-] [cA] [A-D] [A=F] [A,3E3] [B,G]|G4 [B,4D4]|[BG]A [D4^F4] z2|
+[G2E2] [cA] [BG] D[AF] [GA,] [FD]|=F2 [dB][G,G] [e3c3]d|[C4e4] [A4^F4]|[=F,G] [A=F,] [=F,4A4] AB|
+[c2A,2-] [B/2A,/2-][A/2-A,/2-][A/2A,/2-][B/2-A,/2][B^G,-]^G,2-[A/2^G,/2-][B/2^G,/2]|[c/2A,/2-][d2-A,2-][d/2A,/2-][cA,] [B/2=G,/2-][A3/2=G,3/2-] [c=G,-][d=G,]|[e3/2=F,3/2-][d3/2=F,3/2-][c=F,-] [B=F,-][A2-=F,2-][A/2=F,/2-][G/2=F,/2]|[GG,][A-A,][A2A,2-] A,2 AB|
+[c2E2-] [BE-][A/2E/2-][B/2-E/2][BG,-]G,2-[A/2G,/2-][B/2G,/2]|[c3/2E3/2-A,3/2-][d3/2E3/2-A,3/2-][cEA,-] [B/2D/2-A,/2-][A2D2-A,2-][c/2D/2-A,/2-][d/2D/2-A,/2-][e/2-D/2A,/2]|[e3/2=F,3/2-A,3/2-][d3/2=F,3/2-A,3/2-][c=F,-A,-] [B2=F,2-A,2-] [A=F,-A,-][G=F,A,]|[GD][AE] [A4C4] z2|
+C2- [cC-][eC] [d4D4]|[d2-D2] [d/2C/2-][c/2C/2][BB,] [cC-][AC-] [AC-][BC]|[cE-][dE-] [eE-][dE] [d/2D/2-][c3/2D3/2-] [B3/2D3/2-][G/2D/2]|[G=G,][A-A,][A2A,2-] A,2 AB|
+[c2G2] [Bc][A/2B/2-]B/2 [A-D]A G[A/2^F/2-][B/2^F/2]|[c2A2] [d/2B/2-][cB-]B/2 [A2A,2-] [cA,][dB,]|[e3/2G3/2-][dG-][cG-] [B/2-G/2][B/2D/2-][A3/2D3/2-][GD]|[BG][cA] [c2A2-] A2 AB|
+[c2E2-A,2-] [dE-A,-][c/2E/2-A,/2-][B/2E/2-A,/2] [A2E2-^G,2-] [AE-^G,-][BE^G,]|[c3/2E3/2-A,3/2-][d3/2E3/2-A,3/2-][cEA,-] [B/2^F,/2-A,/2-][A3/2^F,3/2-A,3/2-] [c^F,-A,-][d^F,A,]|[e2C2-A,2-][dC-A,-][cC-A,-] [B/2C/2-A,/2-][A3/2C3/2-A,3/2-] [AC-A,-][GCA,]|[GD][AE] [A4C4] z2|
+[A,4E4-][^G,4E4]|[E4A,4-][F,4A,4]|[C8A,8]|[GD][AE] [A4C4] z2
+z8|c4- cc/2B3/2c|BA3 z4|z8|
+c8-|c2 Bc/2BA/2A3|A3/2G/2 AG/2AG/2A3|z6 AB|
+c2 B/2AB3A/2B|c2 dc/2B/2 A2 cd|e2 dc BA GG-|GA3 z2 AB|
+c2 dc B/2A2-A/2A/2B/2|c2 dc/2B/2 A2 cd|e2 dc BA GG-|GA3 z4|
+z8|z8|c4- cc/2B3/2c|BA3 z4|
+z8|c8-|c2 Bc/2BA/2A3|A3/2G/2 AG/2AG/2A3|
+z6 AB|c2 B/2AB3A/2B|c2 dc/2B/2 A2 cd|e2 dc BA GG-|
+GA3 z2 AB|c2 dc B/2A2-A/2A/2B/2|c2 dc/2B/2 A2 cd|e2 dc BA GG-|
+GA3 z4|z8|z8|z8|
+z8|z8|z8|c/2d/2c/2d/2 c/2d/2c/2d/2 c3/2BA3/2|
+z8|z8|ze dc dc AG/2A/2-|Ac3/2A/2A/2G/2 A/2E/2E z2|
+zc ce dc A/2G/2c-|cA3 z4|ze dc dc AG|Ac3/2A/2A/2G/2 A/2E/2E z2|
+z3/2A/2 ce dc/2dA/2c-|cA/2A2-A/2 z4|z8|z8|
+z4 zd/2d/2 dd/2c/2-|cc3 z4|z8|z8|
+e4- ef/2dc3/2-|cz6z|z8|ze dc dc AG|
+Ac3/2A/2A/2G/2 A/2E3/2 z2|zA/2c3/2e dc/2AG/2c-|cA2z4z|ze dc dc AG/2A/2-|
+Ac zA/2G/2 A/2E3/2 z2|zc ce dc Ac-|cA A6-|A4 B4-|
+B3/2A2-A/2 z4|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|AA A/2c3/2 BA G/2A3/2-|Az6z|AA/2A3/2c B/2A/2B2B|
+A3z4z|AA A/2e3/2 dc/2BB3/2|c/2B/2A2z4z|AA Ae dc BB|
+A3z4z|AA A/2(3c2B2A2B/2B|A3z4z|AA Ac/2B3/2A/2BB3/2|
+A3z4z|AA A/2c3/2 B/2B3/2 A/2G/2A-|A3z4z|AA/2Ae3/2 dc/2de3/2|
+d2 c/2B2-B/2z3|AA/2Ac2G/2c cc-|c8-|c8-|
+c6- cB-|B3A2z3|z8|z8|
+z8|z8|z3c2d2e-|ed2c2B2c|
+BA/2G3/2z2G2c|GA6-A-|A3
