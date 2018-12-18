@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Look Up To Heaven
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A | d3 F | B3 E | A3 G | F2z E | F3 G | B A E F | E2z E | E2 (F G) | F2z F | ^G2 (A B) | c3 c | e d A F | (A G F) E | D2z|]
+w: Look up to Heav'n, lo! stars are there; The ho- ly patri- arch gazed on high And choirs of_ light, se- rene and_ fair All sang for him a pro-__ phe cy,
+

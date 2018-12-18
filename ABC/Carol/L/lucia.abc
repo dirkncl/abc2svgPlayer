@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: lucia
+L: 1/4
+M: 3/4
+V: P1 name="Sankta Lucia"
+%%MIDI program 1 0
+V: P2 name="Sequenced by"
+%%MIDI program 2 0
+V: P3 name="Don Erickson 4/18/98"
+%%MIDI program 3 0
+V: P4 name="Tempo Track"
+%%MIDI program 4 -1
+K: Bb
+[V: P1]  [DF] [DF]z/ [D/B/] | B/A/ [E2A2] | [CE] [CE]z/ [E/G/] | [EG] [D2F2] | [=B,D] [B,G]z/ [D/F/] | [D/F/][_D/=E/] [C2_E2] | [CE] [B,D] [A,C] | [DG] [D2F2] | [Fd] [Ec] [FB] | [F/A/][E/G/] [G2c2] | c B [EG] | [_D/=E/][=D/F/] [D2B2] | d/B/ B/F/ F/D/ | E/c/ [E2c2] | [Ec] [EG]z/ A/ | [Ec] [D2B2] | [Fd] [Ec] [FB] | [F/A/][E/G/] [G2c2] | c B [EG] | [_D/=E/][=D/F/] [D2B2] | d/B/ B/F/ F/D/ | E/c/ [E2c2] | [Ec] [Fd]z/ [E/c/] | [Ec] [D2B2] | [DF] [DF]z/ [D/B/] | B/A/ [E2A2] | [CE] [CE]z/ [E/G/] | [EG] [D2F2] | [=B,D] [B,G]z/ [D/F/] | [D/F/][_D/=E/] [C2_E2] | [CE] [B,D] [A,C] | [DG] [D2F2] | [Fd] [Ec] [FB] | [F/A/][E/G/] [G2c2] | c B [EG] | [_D/=E/][=D/F/] [D2B2] | d/B/ B/F/ F/D/ | E/c/ [E2c2] | [Ec] [EG]z/ A/ | [Ec] [D2B2] | [Fd] [Ec] [FB] | [F/A/][E/G/] [G2c2] | c B [EG] | [_D/=E/][=D/F/] [D2B2] | d/B/ B/F/ F/D/ | E/c/ [E2c2] | [Ec] [Fd]z/ [E/c/] | [Ec] [D2B2] | [DF] [DF]z/ [D/B/] | B/A/ [E2A2] | [CE] [CE]z/ [E/G/] | [EG] [D2F2] | [=B,D] [B,G]z/ [D/F/] | [D/F/][_D/=E/] [C2_E2] | [CE] [B,D] [A,C] | [DG] [D2F2] | [Fd] [Ec] [FB] | [F/A/][E/G/] [G2c2] | c B [EG] | [_D/=E/][=D/F/] [D2B2] | d/B/ B/F/ F/D/ | E/c/ [E2c2] | [Ec] [EG]z/ A/ | [Ec] [D2B2] | [Fd] [Ec] [FB] | [F/A/][E/G/] [G2c2] | c B [EG] | [_D/=E/][=D/F/] [D2B2] | d/B/ B/F/ F/D/ | E/c/ [E2c2] | [Ec] [Fd]z/ [E/c/] | [Ec] [D2B2]|]
+[V: P2]  B,, [F,B,] [F,B,] | C, [F,A,] [F,A,] | F,, [F,A,] [F,A,] | B,, [F,B,] [F,B,] | G,, [D,G,] [D,G,] | C, [E,G,] [E,G,] | F,, [C,F,] [C,F,] | B,, [F,B,] [F,B,] | B,, C, D, | E, [G,B,E] [G,B,E] | E, [G,B,] [G,B,] | B,, [F,B,] [F,B,] | B,, [F,B,] [F,B,] | F,, [F,A,] [F,A,] | F,, [F,A,] [F,A,] | B,, [F,B,] [F,B,] | B,, C, D, | E, [G,B,E] [G,B,E] | E, [G,B,] [G,B,] | B,, [F,B,] [F,B,] | B,, [F,B,] [F,B,] | F,, [F,A,] [F,A,] | F,, [F,A,] [F,A,] | [F,,F,] [B,,2F,2] | B,, [F,B,] [F,B,] | C, [F,A,] [F,A,] | F,, [F,A,] [F,A,] | B,, [F,B,] [F,B,] | G,, [D,G,] [D,G,] | C, [E,G,] [E,G,] | F,, [C,F,] [C,F,] | B,, [F,B,] [F,B,] | B,, C, D, | E, [G,B,E] [G,B,E] | E, [G,B,] [G,B,] | B,, [F,B,] [F,B,] | B,, [F,B,] [F,B,] | F,, [F,A,] [F,A,] | F,, [F,A,] [F,A,] | B,, [F,B,] [F,B,] | B,, C, D, | E, [G,B,E] [G,B,E] | E, [G,B,] [G,B,] | B,, [F,B,] [F,B,] | B,, [F,B,] [F,B,] | F,, [F,A,] [F,A,] | F,, [F,A,] [F,A,] | [F,,F,] [B,,2F,2] | B,, [F,B,] [F,B,] | C, [F,A,] [F,A,] | F,, [F,A,] [F,A,] | B,, [F,B,] [F,B,] | G,, [D,G,] [D,G,] | C, [E,G,] [E,G,] | F,, [C,F,] [C,F,] | B,, [F,B,] [F,B,] | B,, C, D, | E, [G,B,E] [G,B,E] | E, [G,B,] [G,B,] | B,, [F,B,] [F,B,] | B,, [F,B,] [F,B,] | F,, [F,A,] [F,A,] | F,, [F,A,] [F,A,] | B,, [F,B,] [F,B,] | B,, C, D, | E, [G,B,E] [G,B,E] | E, [G,B,] [G,B,] | B,, [F,B,] [F,B,] | B,, [F,B,] [F,B,] | F,, [F,A,] [F,A,] | F,, [F,A,] [F,A,] | [F,,F,] [B,,2F,2]|]
+[V: P3] z3 | Ez2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | G2z |z3 | F D D | Cz2 |z3 |z3 |z3 |z3 | G2z |z3 | F D D | Cz2 |z3 |z3 |z3 | Ez2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | G2z |z3 | F D D | Cz2 |z3 |z3 |z3 |z3 | G2z |z3 | F D D | Cz2 |z3 |z3 |z3 | Ez2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | G2z |z3 | F D D | Cz2 |z3 |z3 |z3 |z3 | G2z |z3 | F D D | Cz2 |z3 |z3|]
+[V: P4] z3|]
+

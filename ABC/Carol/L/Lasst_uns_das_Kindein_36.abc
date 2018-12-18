@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lasst uns das Kindlein wiegen
+Z: Koln, 1619
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=125
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F | F2 G | A2 B | (G3/ F/ G) | A2 F | F2 G | A2 B | (G3/ F/ G) | A2 A | c2 B | A2 G | (A3/ G/ A) | G2 A | c2 B | A2 G | (A3/ G/ A) | G2 G | C3/ D/ E | A2 A | G3/ F/ G | A2|]
+w: Come, rock the cra- dle for__ Him Come, in the crib a- dore__ Him, Dull care, I pray you, bu-__ ry, And in the Lord make mer-__ ry. Sweet lit- tle Je- su, Sweet lit- tle Je- su.
+

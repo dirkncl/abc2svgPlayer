@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Let Heaven And Earth Rejoice And Sing
+Z: Old Cornish Melody
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c | G3/ F/ (E/G/) (c/e/) | d B c3/ B/ | G c d B | c2z c | G3/ F/ (E/G/) (c/e/) | d B c3/ A/ | (G/F/) c d B | c2z d | d3/ c/ (c/B/) (B/A/) | G F E3/ G/ | A G B c | B2z G | E G (A3/4G/4) (A/B/) | (c3/4B/4c/) d/ e c | (B/A/) (d3/4c/4) c B | c2z|]
+w: Let heav’n and earth_ re-_ joice and sing, Sa- lute this hap- py morn; Let heav’n and earth_ re-_ joice and sing, Sa- lute_ this hap- py morn; The Sa- viour which_ is_ Christ the Lord, And on this day was born; The Sa- viour which_ is_ Christ__ the Lord, And on_ this_ day was born.
+

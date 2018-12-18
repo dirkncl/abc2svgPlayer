@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Love Unknown
+L: 1/4
+M: 3/4
+Q: 1/4=84
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: Eb
+[V: P1] z2 [B,EG] | [B,/E/B/][C/c/] [B,DG] F [K: Eb]  | [M: 2/4]  [C3/E3/] [B,/F/] | [B,/E/G/]A/ [D/B/][C/E/G/] | [C3/E3/c3/] c/ | [D/A/d/]c/ [B,/D/G/B/]B/ | [C/E/G/e/][B,/F/d/] [G/c/][B,/D/B/] | [C/F/B/]G/- G/=A/ | [B,/F/B/]E/ D/[E/B/] [K: Eb]  | [M: 3/4]  [F/d/][E/c/] [CA] _D/A/ | [C/c/][_D/B/] [CE] B,/F/ [K: Eb]  | [M: 2/4]  [B,/E/G/][E/A/] [B,/B/][C/G/] | [B,DG] F | E2|]
+[V: P2] z2 E, | G,/[E,/G,/]z B,,/A,/ [K: Eb]  | [M: 2/4]  [C,A,] G,/[D,/F,/] | E,/F,/ G,/E,/ | A, G, | [F,A,] G, | C,/D,/ [E,/G,/]G,/ | F, E, | D,/C,/ B,,/[E,/G,/] [K: Eb]  | [M: 3/4]  [D,/A,/][E,/G,/] [F,A,] [D,F,] | [A,,/E,/][B,,/G,/] [C,3/G,3/] [D,/F,/] [K: Eb]  | [M: 2/4]  E,/[C,/E,/A,/] G,,/A,,/ | B,,3/ A,/ | [E,2G,2]|]
+

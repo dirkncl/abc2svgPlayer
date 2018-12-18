@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lazarus
+Z: American Traditional
+Z: Copyright © 2006 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: D
+[V: P1]  D | D2 E (D/ G3/) G | A2 G B2 (B/ A/) | G2 D G2 E | D3 D2 D | D2 E (D/ G3/) G | A2 G B2 (B/ A/) | A2 D G2 E | D3 D2 D | (G A) B d2 B/ B/ | (B/4 =c/4 B3/) A G2 G/ G/ | (G A) B d B A | d (d2 d2) D | (G A) B d2 B | (B A) B G2 A | (B A) B G2 E | D (D2 D2)|]
+w: There was a man_ in an- cient times, The_ Scrip- tures doth in- form us, Whose pomp and gran-_ deur and whose crimes Was_ great and ve- ry num- 'rous. This rich_ man fared sump- tuous ly__ each day And was dressed_ in pur- ple fine lin- en._ He eat_ and drink, but scorned_ to pray, And spent_ his day in sin- ning._
+

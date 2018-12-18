@@ -1,0 +1,33 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lazarus
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=155
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2_1 name="Right Hand"
+V: P2_2
+%%MIDI program 2 0
+V: P3_1 name="Left Hand"
+V: P3_2
+%%MIDI program 3 0
+K: G
+[V: P1] z2 | z4 z4 | z4 z4 | z4 z4 | z4z2 (G F) | E2 E2 (E D) (E F) | G2 G2 A2 (G A) | B B B B (A G) E2 | D6 (G F) | E2 E2 (E D) (E F) | G2 G2 A2 (G A) | B2 B2 (A G) E2 | E6 (B c) | d2 B2 B2 (A G) | A2 A2 B2 (G A) | B B A G (A G) E2 | D6 (G F) | E2 E2 (E D) (E F) | G2 G2 A2 (G A) | B3 B A G E2 | E6 (B c) | d2 B2 B2 (A G) | A2 A2 B2 (G A) | B B A G (A G) E2 | D6 (G F) | E2 E2 (E D) (E F) | G2 G2 A2 (G A) | B3 B A G E2 | E6z2|]
+w: As_ it fell out_ up-_ on a day, Rich_ Di- ver us he made_ a feast, And_ he in- vit_ ed_ all his friends, And_ gen- try of_ the best. As_ it fell out up-_ on a day, Poor_ La- za rus he ws_ so poor He_ came and laid_ him_ down and down Ev'n_ down at Di- ver us' door As_ it fell out up-_ on a day, Poor_ La- za rus he ws_ so poor He_ came and laid_ him_ down and down Ev'n_ down at Di- ver us' door
+% Extracting voice 1 from part P2
+[V: P2_1]  | (E D) (E (E | [E3G3] A [G2B2] [D2A2d2] | B2 [G2B2] A | [B,6E6] (G | E6 E | | G2 B2 [CA] G [CE] | D6 G | [D2E2] E4 E | [E4G4] A2 | B4 A E2 | | | | | D6 D2 | E6 [A,2C2] | | | | | | G4 [C2E2] | D6 G | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | E2 E2 C2 D) C2 F) | x3  E6 x4  | D4 A4 x2  C4 E4 G E2 | x6  B,2 F) | D2 C4 C2 F | | D4 x1  D2 E x1  | C2 B, G, B,2 D2 F | x2  C B, C2 C2 F | x4  E4 G A | ^D2 E2 E2 G =D C | | | | | B,3 A, G,2 D2 | D2 (C B,) C2 x2  | | | | | | D6 E2 x2  | C2 B, A, B,2 D2 F | | | ||]
+% Extracting voice 1 from part P3
+[V: P3_1]  | | B,6 [F,A,] [E,2G,2] [F,,2D,2A,2] | | | | | G,2 G,,2 E,4 | | | | | [G,2B,2] [E,G,] [F,A,] [G,2B,2]z2 | | | [E,4G,4] G,3 A, | D,6 [B,,2G,2] | | | | | | | | G,2 G,,4 [B,,2G,2] | | | A,2 G,2 [A,,4C,4E,4] ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | | G,3 x5  | | | | | G,4 G,, A,, B,,2 | | | | | E,,6 x6  | | | x4  C,4 | G,,3 A,, B,,2 x2  | | | | | | | | G,6 x2  | | | G,,4 x4  ||]
+

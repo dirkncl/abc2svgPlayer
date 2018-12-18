@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Let Us The Infant Greet
+Z: S. Smith
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  E | A (A/B/) c (B/A/) | ^G2z E | A A/ B/ c (d/c/) | B2z (B/d/) | e (e/d/) (d/c/) (B/A/) | (A/B/) (c/A/) d (c/d/) | (e3/4f/4) (e/d/) (c/A/) (B3/4A/4) | A3|]
+w: Let us the_ In- fant_ greet, In wor- ship be- fore Him_ fall, And_ let us_ pay_ Him_ hom-_ age_ meet, On_ this_ His_ Fes-_ ti_ val.
+

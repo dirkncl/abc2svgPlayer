@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Let Every Heart Now Dance With Joy
+Z: Rev. J. H. Hopkins
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A/ | c A/ c A/ | c A/ c d/ | c A/ (A/G/) F/ | G3/z A/ | c A/ c A/ | c A/ f d/ | c A/ (G/A/) G/ | (F3/ F)"^Verse" A/ | d A/ d A/ | d A/ d A/ | d A/ (B/A/) G/ | (F3/ E) A/ | G A/ G A/ | G A/ G d/ | e c/ (d/c/) =B/ | c3/z|]
+w: Let eve- ry heart now dance with joy, For Christ- mas comes_ a- gain; Sing "Glo- ry to be God on high, On earth good will_ to men!"_ Though win- try cold may chill the skies, And earth be dark_ and bare;_ Our Christ- mas light with- in shines bright, And love reigns eve-_ ry where.
+

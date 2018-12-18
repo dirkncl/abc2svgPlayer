@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Let Christians All With One Accord
+Z: Mr. A. H. Brown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F | A/ c/ d3/ c/ | c/ A/ c/ A/ G | G G/ A/ (B | B/) c/ d/ B/ A/ G/ | (F E) G | c/ d/ e3/ c/ | =B/ c/ A/ G/ A | f e/ d/ (^c | c/) d/ B/ G/ F/ E/ | F2"^Chorus" C | F/ G/ A3/ G/ | F/ G/ A/ B/ c | f e/ d/ (^c | c/) d/ B/ G/ F/ E/ | F2|]
+w: Let Christ- ians all with one ac- cord re- joice, And prais- es sing,_ a- loud with heart and voice,_ To God on high, for great things He has done, In send- ing us_ His well be- lov ed Son. Then, one and all, our voic- es let us raise, For sweet it is_ Blest Ma- ry's Son to praise.
+

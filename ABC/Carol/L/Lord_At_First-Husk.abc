@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Carol For Christmas Eve
+Z: English Traditional From William Henry Husk
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Tuba"
+%%MIDI program 3 58
+K: Bb
+[V: P1]  G | d (d/c/) B (A/d/) | G F G G | A A B (c/e/) | d3 G | d (d/c/) B (A/d/) | G F G G | A A B (B/d/) | d3 (B/c/) | d (d/e/) f3/ e/ | c (c/B/) c3/ d/ | e (f/g/) d3/ c/ | d3 (B/c/) | d d d3/ c/ | (B/c/) d c (B/A/) | G (d/c/) B A | G3"^Chorus." D | G3/ A/ (B/c/) d | c B A3/ A/ | A A B (A/G/) | A3 (B/c/) | d3/ c/ (B/c/) d | c c d3/ d/ | B (A/G/) (A/G/) F | G3|]
+w: The Lord at_ first did_ Ad- am made Out of the dust and_ clay. And in his_ nos- trils_ breath- ed life E'en at the Scrip- tures_ day. And_ then in_ Ed- en's par- a_ dise He pla- ced_ him to dwell That_ he with- in it should_ re- main To_ dress and_ keep it well. Now let good Chris-_ tians all be- gin An ho- ly life to_ live. And_ to re- joice_ and mer- ry be For this is_ Christ-_ mas Eve.
+[V: P2]  D | G A F E | D2 D D | F E F E | F3 D | G A F E | D2 D D | F E F E | F3 (G/A/) | B (B/A/) A (F/G/) | A3/ G/ F (A/B/) | c (A/G/) F E | F3 (D/E/) | F F F3/ G/ | G (F/G/) A G | E (F/G/) ^F F | G3z | E3/ [D/F/] [D/G/][E/A/] [FB] | [EA] [EG] [CE] C | F F [DF] F/E/ | [D3F3] G/A/ | B3/ [E/A/] [DG] [FA] | G [EA] [F3/B3/] [F/B/] | G [DF] [DF] [A,D] | D3|]
+[V: P3]  [G,B,] | [G,B,] F,/E,/ D, C, | B,, A,, G,, G, | F, A, D, A,, | D,3 [G,B,] | [G,B,] F,/E,/ D, C, | B,, A,, G,, G, | F, A, D, A,, | D,3z |z B,,/C,/ D,3/ E,/ | F,3/ G,/ A, C,/B,,/ | A,, D, F, A, | B,3z |z B,,/C,/ D, D, | D, B,, A,, D, | C, F, D, D,, | G,,3 [D,F,A,] | [G,3/B,3/] D,/ G, D, | A, E, C, [F,A,] | [C,2A,2] F, A,, | D,3 [D,/B,/][E,/B,/] | [F,3/B,3/] A,/ B, A, | [E,C] A,, D, B,, | [E,G,] A,, D, F,, | [G,,3B,3]|]
+

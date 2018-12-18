@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lulajze Jezuniu
+Z: Polish Lullaby
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=92
+V: P1_1 name="Staff-1"
+V: P1_2
+%%MIDI program 1 19
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  | | ||] | | ||]"^Refrain" [GB] [GB] (e/ d/) | | ||] [EG] (G/ [_DG] | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | ||] | | ||]"^Refrain" x2  G | | ||] x1  D F/) x1  | | ||]
+

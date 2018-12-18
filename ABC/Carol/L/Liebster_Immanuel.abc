@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Liebster Immanuel
+Z: Melody from 'Himmels-Lust,' 1679
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=288
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  d2 d2 d2 | c3 B A2 | B2 G2 F2 | E4 D2 | A2 A2 F2 | B3 c d2 | D2 E3 F | F6 | F2 F2 G2 | A2 F3 F | B2 ^A2 B2 | c2 F4 | d2 c2 B2 | ^A3 F B2 | (c d) ^A3 B | B6|]
+[V: P2]  F2 F2 (^E F) | ^G2 ^E2 F2 | D2 (D C) D2 | (D2 C2) A,2 | D2 D2 D2 | D2 G2 F2 | B,2 (B, D) (C B,) | C6 | D2 D2 D2 | E2 D3 D | F2 E2 F2 | F2 F4 | F2 G2 E2 | F3 F F2 | G2 F2 F2 | F6|]
+[V: P3]  B,2 B,2 (B, A,) | ^G,2 C2 C2 | B,2 B,2 A,2 | A,3 G, F,2 | A,2 A,2 A,2 | (G, A,) B,2 B,2 | B,2 B,2 (^A, B,) | ^A,6 | B,2 B,2 B,2 | A,2 A,3 A, | B,2 C2 D2 | ^A,2 A,4 | B,2 ^A,2 B,2 | C3 C B,2 | (E D) C2 C2 | D6|]
+[V: P4]  B,,2 (B, A,) (^G, F,) | ^E,2 C,2 F,2 | =G,2 E,2 F,2 | (A,2 A,,2) D,2 | F,2 F,2 D,2 | G,2 E,2 B,,2 | G,,2 G,,2 G,2 | F,6 | B,,2 B,,2 E,2 | C,2 D,3 D, | D,2 C,2 B,,2 | F,2 F,4 | B,2 E,2 G,2 | F,2 E,2 D,2 | E,2 F,2 F,,2 | B,,6|]
+

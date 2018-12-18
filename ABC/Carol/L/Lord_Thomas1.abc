@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lord Thomas
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+Q: 1/4=80
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  D/ | (G/A/) B/ A G/ | (F/E/) F/ D A/ | (B/^c/) d/ B G/ | (A3/ A) A/ | (B/^c/) d/ B G/ | (F/E/) F/ D D/ | (G/A/) B/ B A/ | (G3/ G)|]
+w: Oh, who_ would be a shep-_ herd boy, And mind_ a flock of sheep,_ While o-_ ther men and boys_ en- joy A qui-_ et night of sleep._
+[V: P2]  B,/ | (B,/C/) D/ E D/ | D D/ D D/ | (D/E/) D/ D B,/ | (D ^C/ D/E/) F/ | (G/E/) D/ D E/ | ^C C/ D D/ | (B,/C/) D/ D D/ | (D/C/A,/ B,)|]
+[V: P3]  B,/ | G, F,/ (E,/F,/) G,/ | (A,/G,/) A,/ (F,/G,/) A,/ | G, A,/ G, G,/ | (G,/F,/E,/ F,/G,/) A,/ | G, A,/ B, B,/ | A, A,/ (F,/G,/) A,/ | G, G,/ (G,/E,/) F,/ | (G,3/ G,)|]
+[V: P4]  G,/ | E, D,/ C, B,,/ | D, D,/ (D,/E,/) F,/ | G, F,/ (G,/B,,/) E,/ | (D,3/ D,) D,/ | G, F,/ (G,/F,/) E,/ | A,, A,,/ (D,/E,/) F,/ | E, (B,,/4C,/4) D, D,/ | (E, C,/ G,,|]
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lewes
+Z: J. Randall, 1715-1799
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  B3 c A2 d2 | G2 A2 F2 G2 | c2 B2 e3 d | c2 B2 A4 | B3 c A2 d2 | G2 A2 F2 G2 | c2 B2 (A ^c) (d e) | d2 ^c2 d4 | B3 c (A G) A2 | c3 d (B A) B2 | d3 e d2 (c B) | B2 A2 G4|]
+w: An- gels from the realms of glo- ry, Wing your flight o'er all the earth; Ye who sang cre- a tion's sto- ry Now pro- claim_ Mes-_ si ah's birth. Come and wor-_ ship, come and wor-_ ship Wor- ship Christ, the_ new- born King.
+[V: P2]  G3 G A2 F2 | G2 E2 D2 B,2 | E2 D2 G3 F | (G A) G2 F4 | G3 G A2 F2 | G2 E2 D2 B,2 | E2 D2 (D G) (F E) | F2 (E G) F4 | D2 G2 (F E) F2 | A2 A2 G2 G2 | G3 G (G E) (F G) | G2 F2 G4|]
+[V: P3]  D3 E D2 C2 | B,2 C2 A,2 G,2 | G,2 B,2 C3 A, | E2 D2 D4 | D3 E D2 C2 | B,2 C2 A,2 G,2 | G,2 G,2 A,2 (A, B,) | A,2 A,2 A,4 | G,2 E2 D2 D2 | E2 D2 (D C) D2 | B,3 C D2 D2 | D2 (D C) B,4|]
+[V: P4]  G,3 E, F,2 D,2 | E,2 C,2 D,2 E,2 | C,2 G,2 C,3 D, | (E, F,) G,2 D,4 | G,3 E, F,2 D,2 | E,2 C,2 D,2 E,2 | C,2 G,2 (F, E,) (F, G,) | A,2 A,,2 D,4 | G,2 C,2 D,2 D,2 | A,2 D,2 E,2 E,2 | G,3 C B,2 (A, G,) | D,2 D,2 G,4|]
+

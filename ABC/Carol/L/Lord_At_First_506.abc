@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Lord At First Did Adam Make
+Z: English Traditional From Charles L. Hutchins
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  (B/^c/) | d3/ ^c/ B3/ (A/4G/4) | c3/ B/ A G | F E B3/ B/ | E3 (B/^c/) | d3/ ^c/ B3/ (A/4G/4) | c3/ B/ A G | F E B3/ B/ | E3 F | G3/ F/ G3/ (A/4B/4) | A G F3/ D/ | G3/ G/ d A | B3 e | d3/ e/ B3/ (A/4G/4) | c B A3/ G/ | F E B3/ B/ | E3"^Chorus" F | G3/ F/ G3/ (A/4B/4) | A G F3/ D/ | G3/ G/ d A | B3 e | d3/ e/ B3/ (A/4G/4) | c B A3/ G/ | F E B3/ B/ | E3|]
+w: The_ Lord at first had_ A- dam made Out of the dust and clay, And_ in his nos- trils_ breath- ed life, As Ho- ly Scrip- tures say. And then in E- den’s_ Par- a dise He placed him there to dwell, That he with- in it_ should re- main, To dress and keep it well. Now let good Chris- tians_ all be- gin A ho- ly life to live, And to re- joice and_ mer- ry be, For this is Christ- mas Eve.
+[V: P2]  G | F3/ E/ D E | E3/ E/ E E | B, E E ^D | E3 G | F3/ F/ F E | E3/ ^D/ F E | C ^C/E/ E ^D | (E C B,) D | D3/ D/ D ^C | D3/ ^C/ D3/ D/ | D =C B,/D/ E/F/ | G3 G | G3/ G/ G3/ G/ | E ^D F E | C ^C/E/ E ^D | (E C B,) D | D3/ D/ D ^C | D3/ C/ D3/ D/ | D =C B,/D/ E/F/ | G3 G | G3/ G/ G3/ E/ | E ^D F E | C ^C/E/ E ^D | E3|]
+[V: P3]  G, | B,3/ F,/ F, G, | A,3/ B,/ C B, | B,/A,/ G, G, A, | G,3 G, | B,3/ ^C/ D B, | A,3/ F,/ B, B, | A, G, G, A, | (G, A, G,) A, | B,3/ A,/ B, G, | F, A, A,3/ F,/ | G, G, G,/B,/ C | B,3 C | B,3/ C/ G,3/ B,/ | A, F, B, B, | A, G, G, A, | (G, A, G,) A, | B,3/ A,/ B, G, | F, A, A,3/ F,/ | G, G, G,/B,/ C | B,3 C | B,3/ C/ G,3/ B,/ | A, F, B, B, | A, G, G, A, | G,3|]
+[V: P4]  E, | B,,3/ B,,/ B,, E, | A,,3/ A,,/ A,, E, | ^D, E, B,, B,, | E,3 E, | B,,3/ B,,/ B,, G,, | A,,3/ B,,/ ^D, E, | A,, ^A,, B,, B,, | E,3 D, | G,3/ D,/ G, E, | F, E, D, =C, | B,, E, D, D, | G,,3 C, | G,3/ C,/ E, E, | A,, B,, ^D, E, | A,, ^A,, B,, B,, | E,3 D, | G,3/ D,/ G, E, | F, E, D, =C, | B,, E, D, D, | G,,3 C, | G,3/ C,/ E, E, | A,, B,, ^D, E, | A,, ^A,, B,, B,, | E,3|]
+

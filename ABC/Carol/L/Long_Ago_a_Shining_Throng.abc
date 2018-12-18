@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Long Ago a Shining Throng
+Z: Kate Ulmer
+Z: Music by W. A. Post
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: 6/8
+Q: 1/4=115
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="Long Ago, Shining Throng"
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | (G/F/) [B,/G/] [B,3/F3/] | | (A/G/) [C/E/^F/] [C3/E3/G3/] | | (B/A/) [C/F/^G/] [C3/F3/A3/] | | | | (G/F/) [B,/E/] [B,3/F3/] | | (A/G/) [C/E/^F/] [C3/E3/G3/] | | (B/A/) ^G/ B A/ | |||"^Refrain" | (e/d/) A/ [F3/d3/] | | (d/c/) G/ [E3/c3/] | | (B/A/) ^G/ [C3/A3/] | | | | (e/d/) A/ [F3/d3/] | | (d/c/) G/ [E3/c3/] | | (B/A/) ^G/ B A/ | ||]
+w: Long_ a-_ go__ a__ shin-_ ing_ throng,__ Thrilled_ the_ mid-__ night__ air_ with__ song;____ For__ the__ Sav-__ ior__ prom-_ ised__ long,____ Lay_ in_ Beth-_ l’em’s_ stall.___ O-_ ver_ Ju-__ dah’s__ si-_ lent_ plain,__ Sweet-_ ly_ rang__ the__ joy-_ ous__ strain;____ Of__ His__ birth,__ Who__ yet_ shall reign, As___ King_ of_ all.___ Praise_ Him,_ an-_ gels bright,__ Praise_ Him,_ stars_ of light,__ Tell_ His_ wond-_ rous might,__ Who_ to-_ day_ was_ born.___ Shout,_ O_ shout_ His Name,__ Glad-_ ly_ now_ pro- claim,__ How_ to_ save_ He came, This__ hap-_ py_ morn.___
+% Extracting voice 2 from part P1
+[V: P1_2]  | B, x2  | | C E x2  | | C F x2  | | | | B, x2  | | C E x2  | | C3/ F3/ ^D3/ | |||"^Refrain" | ^F3/ x1  | | E3/ x1  | | C3/ x1  | | | | ^F3/ x1  | | E3/ x1  | | C3/ ^D3/ | ||]
+w: Long_ a-_ go__ a__ shin-_ ing_ throng,__ Thrilled_ the_ mid-__ night__ air_ with__ song;____ For__ the__ Sav-__ ior__ prom-_ ised__ long,____ Lay_ in_ Beth-_ l’em’s_ stall.___ O-_ ver_ Ju-__ dah’s__ si-_ lent_ plain,__ Sweet-_ ly_ rang__ the__ joy-_ ous__ strain;____ Of__ His__ birth,__ Who__ yet_ shall reign, As___ King_ of_ all.___ Praise_ Him,_ an-_ gels bright,__ Praise_ Him,_ stars_ of light,__ Tell_ His_ wond-_ rous might,__ Who_ to-_ day_ was_ born.___ Shout,_ O_ shout_ His Name,__ Glad-_ ly_ now_ pro- claim,__ How_ to_ save_ He came, This__ hap-_ py_ morn.___
+[V: P2]  [C,3/G,3/] [G,,3/G,3/] | [D,3/G,3/] [G,,3/G,3/] | [D,3/G,3/] [G,,3/G,3/] | [C,3/G,3/] [G,,3/G,3/] | [C,3/G,3/] [E,3/G,3/] | [F,3/A,3/] [F,3/A,3/] | [D,C] [D,/C/] [D,B,] [D,/A,/] | [G,3/-B,3/-] [G,B,]z/ | [C,3/G,3/] [G,,3/G,3/] | [D,3/G,3/] [G,,3/G,3/] | [D,3/G,3/] [G,,3/G,3/] | [C,3/G,3/] [G,,3/G,3/] | [C,3/G,3/] [E,3/G,3/] | [F,3/A,3/] [^F,3/C3/] | [G,3/C3/] [G,3/B,3/] | [C,3/-C3/-] [C,C]z/|| [C,3/C3/] [^C,3/_B,3/] | [D,3/A,3/] [D,3/C3/] | [G,3/B,3/] [G,3/B,3/] | [C,3/C3/] [C,3/C3/] | [C,3/G,3/] [E,3/^G,3/] | [F,3/A,3/] [F,3/A,3/] | [D,C] [D,/C/] [D,B,] [D,/A,/] | [G,3/-B,3/-] [G,B,]z/ | [C,3/C3/] [^C,3/_B,3/] | [D,3/A,3/] [D,3/C3/] | [G,3/B,3/] [G,3/B,3/] | [C,3/C3/] [C,3/C3/] | [C,3/G,3/] [E,3/^G,3/] | [F,3/A,3/] [^F,3/C3/] | [G,3/C3/] [G,3/B,3/] | [C,3/-C3/-] [C,C]z/|]
+

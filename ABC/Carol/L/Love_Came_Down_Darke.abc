@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Love Came Down At Christmas
+Z: Harold Darke
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  e3/ f/(3 (e d) c | B2 c2 | d c e c |(3 (A G) A B2 | B3/ c/(3 (B A) G | F2 G2 | f e(3 (d c) B | c3/ B/ A2|]
+w: Love came down_ at Christ- mas, Love all love- ly, love_ di- vine; Love was born_ at Christ- mas, Stars and an-_ gels gave the sign.
+

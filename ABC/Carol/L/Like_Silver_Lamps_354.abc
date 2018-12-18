@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Like Silver Lamps In A Distant Shrine
+Z: C. Steggall
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  d | A B A F/ F/ | E3/ F/ D E | F B A d | c3 A | d c/ B/ A/ G/ (F/ E/) | F ^G A B/ B/ | c3/ d/ e/ e/ A | B3/ c/ A A | B F A A/ A/ | B F A A | B/ B/ d e3/ f/ | d3|]
+w: Like sil- ver lamps in a dis- tant shrine, The stars are spark- ling bright The bells of the Ci- ty of_ God ring out, For the Son of Ma- ry was born to- night. The gloom is past And the morn at last Is com- ing with o- rient light.
+

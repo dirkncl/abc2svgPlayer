@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Little Children, Can You Tell?
+Z: Unknown Authorship
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Staff"
+%%MIDI program 1 16
+K: Eb
+[V: P1]  B B/ B A/ | G G/ Gz/ | F F/ F G/ | A G/ Az/ | G G/ G F/ | G A/ Bz/ | c c/ B A/ | G F/ Gz/ | e e/ (e/ c/) A/ | (G3/ F3/) | E3|]
+w: Lit- tle child- ren, can you tell? Do you know the sto- ry well, Ev'- ry girl and ev'- ry boy, Why the ang- els sing for joy On the Christ-_ mas morn-_ ing.
+

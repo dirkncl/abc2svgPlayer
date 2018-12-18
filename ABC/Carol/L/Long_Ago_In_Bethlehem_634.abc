@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Long Ago In Bethlehem
+Z: H. Davan Wetton
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  e | d3/4 c/4 B/ G/ F/ E/ | F2 G | E2 E | G2 G | B/ ^F/ B3/ G/ | B/ =F/ B3/ c/ | d/ B/ d3/ B/ | d/ B/ d3/ c/ | c2 d | B2 e | d3/4 c/4 B/ G/ F/ E/ | F2 G | E2 E | G2 G | B3/ G/ A/ B/ | B/ _d/ c3/ c/ | f3/ e/ d/ c/ | d/ c/ B c | A2 G | E2"^Chorus" E | G3/ F/ E/ F/ | G3/4 F/4 E G | B2 F/ | G2 B | d/ c/ B3/ d/ | f/ e/ d f | d3/ c/ B/ c/ | A/ G/ F G | E2 E | G2|]
+w: Long, long a- go in Beth- le hem The Christ- child came With no one but his Mo- ther sweet, To warm His lit- tle hands and feet, And know His Name How won- der ful to think that He was God of all! No sign of Hea- ven's bright es- tate, To show that He was rich and great, That Babe, so small! O Christ- child sweet, our In- fant King! We child- ren pray Make in our hearts a lit- tle place Where we may keep Thee, by Thy Grace, On Christ- mas Day.
+

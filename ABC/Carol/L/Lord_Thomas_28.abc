@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lord Thomas and Fair Ellinor
+Z: English Traditional
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D/ | G/ G/ G/ G B/ | (A/ G/) A/ D/ (B/ c/) | d/ d/ d/ c c/ | (B3/ A) D/ | G/ G/ G/ G/ A/ B/ | A A/ D d/ | B/ B/ B/ (A/ G/) A/ | G3/|]
+w: Lord Thom- as was a bold for-_ es ter; And_ keep- er of the king's deer._ Fair El- li nor was as a gay la- dy; Lord Thom- as he loved_ her dear.
+

@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lasst Uns Alle Frohlich Sein
+Z: Unknown
+Z: Public Domain
+Z: From Freylinghausens Gesangbuch, 1632
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Treble Clef"
+%%MIDI program 1 0
+V: P2 name="Bass Clef"
+%%MIDI program 2 0
+V: P3 name="Bass Clef-2"
+%%MIDI program 3 0
+K: F
+[V: P1]  [CF] [DF] [Cc] [Fc] | [FB] [EG] [F2A2] | [EG] [CG] [FA] [Ec] | [G2d2] [E2c2] | [Fc] [Fd] [Ec] [FA] | [DB] [EG] [F2A2] | [EG] [FA] [FB] [FA] | [FG] E F2 | [D2F2] [C2F2]|]
+[V: P2]  [F,A,] [D,A,] [E,G,] [F,A,] | D C [F,2C2] | C [E,G,] [F,C] [A,C] | [G,C] =B, C2 | [F,A,] B, G, [D,F,] | F, C C2 | C [F,C] D C | C2 A,2 | B,2 A,2|]
+[V: P3]  z4 | B,, C,z2 | C,z3 |z2 C,2 |z B,, C,z | B,, C, F,,2 | C,z B,,z | C,2 F,,2 | B,,2 F,,2|]
+

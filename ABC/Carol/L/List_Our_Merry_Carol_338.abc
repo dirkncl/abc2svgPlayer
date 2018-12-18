@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: List Our Merry Carol
+Z: Unknown
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G A B e | B2 Gz | F G A c | B3z | G A B e | B2 Gz/ G/ | F B d c | B3z | c F F F | B2 Ez | A G A F | G3z | G A B e | e2 Fz | c c B A | G3z | e d e G | d2 cz | c B B D | E3z |"^Chorus" F B =A B | G2 Bz | F G A F | B3z | e d e G | d2 cz | c B B D | E3z|]
+w: List our mer- ry car- ol, On this bless- ed morn For our lov- ing Sav- iour On Christ- mas day was born! There so peace- ful sleep- ing, Like a flow'r He lay: Christ, our lov- ing Sav- iour, Born on Christ- mas Day, Christ, our lov- ing Sav- iour, Born on Christ- mas Day. Car- ol, car- ol gai- ly, Car- ol on our way, Christ, our lov- ing Sav- iour, Born on Christ- mas Day.
+

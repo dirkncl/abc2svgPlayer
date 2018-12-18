@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Let All That Are To Mirth Inclined
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=105
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  E/ | A/ B/ c G | A/ F/ Ez/ B/ | c/ d/ e (A/^G/) | A/ B/ c e | d/ c/ B A | G/ ^F/ Ez/ F/ | G/ E/ A c | B/ B/ A"^Chorus" e | d/ c/ B A | G/ ^F/ Ez/ E/ | G/ E/ A c | B/ B/ A|]
+w: Let all that are to mirth in- clined Con- sid er well, and_ bear in mind What our good God for us has done In send- ing his be- lo ved Son. For to re- deem our souls from thrall Christ is the Sa- viour of us all.
+[V: P2]  E/ | E/ G/ G E | F/ D/ Ez/ E/ | E/ G/ G E | E/ G/ G G | G/ E/ E (C/F/) | E/ D/ B, (C/E/) | E/ E/ E E | B,/ E/ C G | B/ A/ (A/G/) (G/F/) | E/ D/ B, C | E/ E/ E E | E/ B,/ ^C|]
+[V: P3]  E,/ | C/ D/ E C | C/ A,/ ^G, (A,/B,/) | A,/ B,/ C (C/B,/) | C/ D/ E C | B,/ A,/ G, (F,/A,/) | C/ A,/ ^G, (A,/C/) | B,/ G,/ E, A, | A,/ ^G,/ A, (C/E/) | G/ E/ E C | C/ A,/ ^G, A, | B,/ G,/ E, A, | A,/ ^G,/ A,|]
+[V: P4]  E,/ | A,/ G,/ C, (C,/B,,/) | A,,/ D,/ E, (^F,/G,/) | A,/ G,/ (C,/D,/) E, | A,/ G,/ C (C,/D,/) | G,/ A,/ E, F, | C,/ D,/ E, A,, | E,/ E,/ (C,/B,,/) (A,,/C,/) | E,/ E,/ A,, C | G,/ A,/ E, F, | C,/ D,/ E, A,, | E,/ E,/ (C,/B,,/) (A,,/C,/) | E,/ E,/ A,,|]
+

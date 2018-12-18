@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Like Silver Lamps
+Z: G. B. Lissant
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G | G G c F/ E/ | D A G E | C C/ C/ D (E/F/) | E3 G | G G/ G/ c/ c B/ | A (B/A/) d G/ ^F/ | (E/c/) (B/A/) G G/ G/ | G A B3/ B/ | B E E F/ E/ | c3/ B/ A E | G F/ E/ D3/ C/ | C3|]
+w: Like sil- ver lamps in a dis- tant shrine, The stars are all spark- ling_ bright The bells of the Ci- ty of God ring_ out, For the Son_ of_ Ma- ry is born to- night. The gloom is past And the morn at last Is com- ing with o- rient light.
+

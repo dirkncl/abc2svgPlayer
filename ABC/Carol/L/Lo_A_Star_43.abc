@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lo: A Star, Ye Sages Hoary
+Z: Walter Newport
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  (E G) A | G2 G | (G c) A | A2 G | G2 G | A2 G | (c B) A | (A2 G) | (c G) A | G2 G | A2 d | c2 B | (c B) A | (c B) A | E2 ^F | G3 | (G B) d | (e c) A | (G B) d | e2 c | (e =c) A | B2 B | B2 B | B3 | (c E) A | A2 G | (G c) E | A2 G | G2 G | A2 A | G3 | G3 | G3|]
+w: Lo!_ a star, ye sa-_ ges hoa- ry; Lo! a won- drous star_ a- bove,_ He_ is born, the King of glo- ry, He,_ our wond-_ rous star of love. Lord_ of Life,_ Re- deem_ er, Mas- ter, Loud_ the shep- herds' wel- come rolls, He_ is born the peo-_ ples' pas- tor, He the Shep- herd of our souls.
+

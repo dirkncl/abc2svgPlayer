@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lieti Pastori, Venite Alla Capanna
+Z: Italian Traditional
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 61
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: C
+[V: P1] "^Verse" A2 A G | c2 c e | f e d d | c2 c2 | A2 A B | c2 c e | f e d B | c2 c"^Chorus" d | d3/ e/ f d | e3/ d/ c c | d3/ c/ B B | A4|]
+w: "Ho! mer- ry herd- men; go hear o'er yon- der by- re Glo- ri a, Glo- ri a, Sun- gen by our qui- re, Why wea- ry ye; why drea- ry be? I pray you sing No- well.
+[V: P2]  E2 F D | G2 G G | F G A G | E2 E2 | F2 F G | E2 E G | A G F D | E2 E G | A3/ G/ F G | G3/ F/ E C | F E E E | E4|]
+[V: P3]  C2 C B, | C2 C C | A, C C B, | C2 C2 | C2 D D | C2 C C | A, C A, G, | G,2 G, B, | A,3/ A,/ A, B, | G,3/ G,/ G, A, | A, A, A, ^G, | A,4|]
+[V: P4]  A,2 F, G, | E,2 E, C, | D, E, F, G, | C,2 C,2 | F,2 D, G, | A,2 A, E, | D, E, F, G, | C,2 C, G, | F,3/ E,/ D, G, | C,3/ D,/ E, F, | D, A, E, E, | A,,4|]
+

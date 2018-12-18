@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Leise rieselt der Schnee
+Z: Eduard Ebel, 1839-1905
+L: 1/4
+M: 6/8
+Q: 1/4=102
+V: P1 name="Staff"
+%%MIDI program 1 -1
+V: P2 name="Staff-2"
+%%MIDI program 2 -1
+K: C
+[V: P1]  [FA] [F/A/] [E/G/][F/A/][E/G/] | [D3/-F3/-] [D/8F/8]zz3/8 | [DF] D/ [D/F/][C/E/]D/ | C3 | [E/G/][^D/^F/][E/G/] [G/^A/][=F/=A/][E/G/] | [D3/-F3/-] [D/8F/8]zz3/8 | [E3/4G3/4]D/4D/ [C/E/]D/[C/E/] | [C3/-F3/-] [C/8F/8]zz3/8|]
+[V: P2]  F,3 | ^A,3 | ^A, A,/z A,/ | [F,3/-A,3/-] [F,/8A,/8]zz3/8 | C,3 | ^A,3 | ^A,3/4A,/4A,/z/ A, | [C,3F,3A,3]|]
+

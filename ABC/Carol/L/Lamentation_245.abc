@@ -1,0 +1,17 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lamentation of Owen Roe O'Neill
+Z: O'Carolan
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+V: P1 name="Staff"
+%%MIDI program 1 110
+K: Bb
+[V: P1]  (G/A/B/c/) d3/ c/ | (B/c/d/=e/) f (e/f/) | (g/d/)(d/c/) B (A/G/) | A (G/F/) Dz | (G/A/)B/c/ d c/B/ | (c/B/)(A/G/) F A/c/ | (B A/G/) (A/G/A/c/) | B (A3/4G/4) Gz | (G/A/B/c/) d3/ c/ | B/c/d/=e/ f e/f/ | g d (e/d/c/B/) | A (G3/4F/4) Fz | (d3/4e/4d/).B/. c/.c/.c/.A/ | (B3/4c/4B/).G/. A/.G/.F/.D/ | B3/ (G/ A3/) (F/ | G3/4)F/4D/^F/ Gz|]
+

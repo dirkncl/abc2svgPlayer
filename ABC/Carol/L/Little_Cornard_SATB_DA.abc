@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Little Cornard
+Z: Martin Shaw, 1915
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+V: P1 name="Staff"
+%%MIDI program 1 40
+V: P2 name="Staff-1"
+%%MIDI program 2 41
+V: P3 name="Staff-2"
+%%MIDI program 3 42
+V: P4 name="Staff-3"
+%%MIDI program 4 43
+K: D
+[V: P1]  B, D/ E/ F F B2 | A F/ D/ E F B,2 | d c/ B/ A ^G c2 | c F/ ^G/ A G | F3 C | D E F A | B3/ A/ F E | F A d A | F3 E | D2|]
+[V: P2]  F, D/ E/ F F (D E) | F D/ D/ B, ^A, B,2 | F F/ F/ F ^E (F A) | F D/ D/ C ^E | C3 ^A, | B, C D C | B, C D A, | D E D C | B,2 C2 | D2|]
+[V: P3]  B,, D,/ E,/ F, F, (B, C) | D A,/ F,/ E, C, D,2 | B, C/ D/ C C C2 | C C/ B,/ F, ^G, | ^A,3 F, | F, A, A, A, | F, E, F, A, | A, A, F, A, | D2 A,2 | F,2|]
+[V: P4]  B,, D,/ E,/ F, F, G,2 | D, D,/ D,/ G,, F,, B,,2 | B, A,/ B,/ C B, (A, F,) | D, B,,/ B,,/ C, C, | ^F,3 F,, | B,, A,, D, F, | D, C, B,, C, | D, C, B,, F,, | G,,2 A,,2 | D,2|]
+

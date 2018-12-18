@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lift Up Your Heads, Ye Mighty Gates
+Z: Johann A. Freylinghausen, 1704
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A | c2 B | A2 G | (F G) A | G2 c | B2 B | A2 A | (G F) G | F2 A | G2 G | (A =B) c | (c d) =B | c2 G | A2 G | (A =B) c | (c d) =B | c2 c | d2 c | d2 c | (d c) B | A2 c | d2 c | d2 c | (d c) B | A2 c | F2 F | B2 A | G3 |z2 c | B2 A | (G F) G | F2|]
+w: Lift up your heads, ye might-_ y gates! Be- hold, the King of Glo-_ ry waits; The King of kings_ is draw-_ ing near, The Sa- vior of_ the world_ is here. Life and sal- va tion He_ doth bring, Where- fore re- joice and glad-_ ly sing: We praise Thee, Fa- ther, now, Cre- a tor, wise_ art Thou!
+

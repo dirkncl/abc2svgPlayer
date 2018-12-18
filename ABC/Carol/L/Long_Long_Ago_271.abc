@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Long, Long Ago, The Angel Throng
+Z: Frederick A. Keene
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  (B/c/) | d G A B | c A G (B/c/) | d d f d | c2 B (B/c/) | d G A B | c A G (A/B/) | c A B A | G2 F (d/e/) | f f c (c/d/) | e e B (B/c/) | d d c B | c2 F (B/c/) | d G A B | c A G (B/c/) | d d f d | c2 B"^Chorus" (d/e/) | f f c (c/d/) | e e B (B/c/) | d d c A | G2 F/z/ (B/c/) | d G A B | c A G (B/c/) | d d f d | c2 B|]
+w: Long,_ long a- go, the An- gel throng O'er_ Ju- dah's hills ap- pear ing, First_ chant- ed their im- mor tal song In_ ho- ly shep- herd's hear- ing; And_ we must sing, For_ Christ our King, Whose_ love can nev- er va- ry, For_ us was born, On Christ- mas morn, Of_ bless- ed Vir- gin Ma- ry. Come,_ one and all, Hark_ to the call, Love_ makes for love's re- ply ing, See_ where He lies Who left the skies To_ bring us life un- dy ing.
+

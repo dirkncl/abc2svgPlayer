@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Llangloffan
+Z: Welsh hymn melody
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: C
+[V: P1]  E A [EA] [FB] | [EB] [C3/c3/] [D/B/] [EA] | [EA] [Dd] [Fd] [Ec] | [Ec] [E3B3] | E/D/ [CA] [FA] [FB] | [GB] [Gc] A/d/ [Ge] | [Fd] [Ec] [CA] [FB] | [E^G] [E3A3] | [Ae] [Ge] [Gc] [FB] | [Dd] [G2c2] [GB] | [DA] [E^G] [EA] [Dd] | [Ec] [E3B3] | E A [EA] [FB] | [EB] [E3/c3/] d/ [Ae] | [Ad] [Gc] [FA] [FB] | [E^G] [E3-A3-] | [EA]z3|]
+[V: P2]  E, A, [C,A,] [D,A,] | [E,^G,] [A,,3/A,3/] B,/ [A,C] | [G,C] [F,A,] [D,A,] [A,,A,] | [C,A,] [E,3^G,3] | [E,^G,] [F,A,] [F,/C/]E,/ [D,D] | [G,D] [E,E] [F,C] [C,/C/]B,/ | [D,A,] [E,G,] [F,A,] [D,D] | [E,B,] [A,3C3] | [A,/C/][B,/D/] [CE] [C,E] [D,D] | [F,/A,/]B,/ [E,2C2] [G,D] | [F,A,] [E,/B,/]D,/ [C,A,] [B,,^G,] | [A,,A,] [E,2A,2] ^G, | E, A, [C,A,] [D,A,] | [E,^G,] [A,,3/A,3/] B,/ [A,C] | [D,F] [E,E] [F,C] [D,D] | [E,B,] [A,,3-C3-] | [A,,C]z3|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Listen, Gentles, To The Story
+Z: Flemish Tune
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=95
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D (E/ D/) | D G A d | B A E (F/ G/) | A B (c/ d/) (B/ c/) | A2 D (E/ D/) | D G A d | B A (E/ A/) (F/ D/) | G c B (A3/4 G/4) | G2 A (B/ G/) | A (G/ F/) E (F/ G/) | G F (D/ E/) (F/ G/) | (F/ G/) (A/ B/) F E | D2 d3/ d/ | d c c3/ c/ | c B B c | d (c/ B/) (e/ d/) (c/ B/) | A2 D (E/ D/) | D G A d | B A (E/ A/) (F/ D/) | G3/ c/ B (A3/4 G/4) | G2|]
+w: Lis- ten,_ Gen- tles, to the sto- ry Of our_ God made man_ to-_ day, Low- ly_ lies the Lord of glo- ry In_ the_ ox- en's stall on_ hay, From e-_ ter nal_ splen- dour_ com- ing, To_ the_ win-_ try_ world be- low From the flow- 'ry glades of E- den, To the earth en-_ tombed_ in_ snow; From the_ still and tran- quil hea- ven, 'Midst_ the_ howl- ing winds that_ blow.
+

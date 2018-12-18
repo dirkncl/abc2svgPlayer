@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Let Music Break On This Blest Morn
+Z: J. B. Calkin
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B/ | d G/ B E/ | (G/F/) E/ D F/ | G A/ (B/c/) d/ | e B/ c E/ | e d/ c E/ | c B/ A F/ | G A/ (B/c/) d/ | e e/ d d/ | d c/ _e d/ | _B c/ d d/ | (=e/=G/) ^c/ d d/ | (e/B/) ^c/ d B/ | d G/ B E/ | (G/F/) E/ D F/ | G A/ (B/c/) d/ | e3/ F3/ | (G3 | G3/)z/ G/ | G G/ (B/A/) G/ | G"^Chorus" F/ F F/ | G G/ (B/A/) G/ | G F/ F ^A,/ B, B,/ ^C ^D/ | F E/ ^D ^C/ | F B,/ (B,/F/) E/ | ^D ^C/ B,z/|]
+w: Let mu- sic break on this_ blest morn, And sweet- ly e-_ cho back to heav'n, For lo! the pro- mis'd Son is born, The long ex- pect_ ed One is giv'n. Of old the Pro- phets wrote of Him, Pre- dict_ ing this most glad_ e- vent, And we, in one u- nit_ ed hymn, Now cel- e brate_ the Sa- viour sent,_ In heav'n the An-_ gels sing of Him, And won- der at_ His migh- ty love; On earth we glad- ly chant the theme, Thus join- ing in_ the song a- bove.
+

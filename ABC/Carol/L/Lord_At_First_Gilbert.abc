@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Lord At First Did Adam Made
+Z: English Traditional From Davies Gilbert
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=85
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  (B/c/) | d3/ c/ | B3/ (A/4G/4) | =c3/ B/ | A G | [M: 3/4]  F E B/ B/ | [M: 2/4]  E (B/c/) | d3/ c/ | B3/ (A/4G/4) | =c3/ B/ | A G | [M: 3/4]  F E B/ B/ | [M: 2/4]  E F | G3/ F/ | G3/ (A/4B/4) | A G | F3/ D/ | [M: 3/4]  G/ G/ d A | [M: 2/4]  B e | d3/ e/ | B3/ (A/4G/4) | =c B | A3/ G/ | [M: 3/4]  F E B/ B/ | [M: 2/4]  E"^Chorus" F | G3/ F/ | G3/ (A/4B/4) | A G | F3/ D/ | [M: 3/4]  G/ G/ d A | [M: 2/4]  B e | d3/ e/ | B3/ (A/4G/4) | c B | A3/ G/ | [M: 3/4]  F E B/ B/ | E|]
+w: The_ Lord at first had_ A- dam made Out of the dust and clay, And_ in his nos- trils_ breath- ed life, E’en as the Scrip- tures say. And then in E- den’s_ Pa- ra dise He plac- ed him to dwell, That he with- in it_ should re- main, To dress and keep it well. Now let good Chris- tians_ all be- gin An ho- ly life to live, And to re- joice and_ mer- ry be, For this is Christ- mas Eve.
+[V: P2]  E | D E | D E | E3/ G/ | E E | [M: 3/4]  D (B,/E/) E/ D/ | [M: 2/4]  E (G/E/) | D E | D E | E3/ G/ | E E | [M: 3/4]  D (B,/E/) E/ D/ | [M: 2/4]  B, D | D D | D E | (E/D/) (D/C/) | D3/ D/ | [M: 3/4]  D/ E/ G F | [M: 2/4]  G E | A G | F E | E G | E3/ E/ | [M: 3/4]  D B, E/ D/ | [M: 2/4]  B, D | D D | D E | (E/D/) (D/C/) | D3/ D/ | [M: 3/4]  D/ E/ G F | [M: 2/4]  G E | A G | F E | E G | E3/ E/ | [M: 3/4]  D (B,/E/) E/ ^D/ | B,|]
+[V: P3]  G, | F, A, | F, (G,/A,/4B,/4) | (A,/B,/) (=C/D/) | C (B,/=C/) | [M: 3/4]  A, G, F,/ F,/ | [M: 2/4]  G, G, | F, A, | F, (G,/A,/4B,/4) | (A,/B,/=C/) D/ | =C (B,/=C/) | [M: 3/4]  A, G, F,/ F,/ | [M: 2/4]  G, A, | B, A, | B, G, | A, (B,/G,/) | A, A, | [M: 3/4]  B,/ B,/ (B,/=C/) D | [M: 2/4]  D B, | A, B, | B, (G,/A,/4B,/4) | (A,/=C/) (D/B,/) | =C3/ C/ | [M: 3/4]  A, G, F,/ F,/ | [M: 2/4]  G, A, | B, A, | B, G, | A, (B,/G,/) | A, A, | [M: 3/4]  B,/ B,/ B, D | [M: 2/4]  D B, | A, B, | B, (G,/A,/4B,/4) | (A,/=C/) (D/B,/) | =C3/ C/ | [M: 3/4]  A, G, F,/ B,/ | ^G,|]
+[V: P4]  E, | B,, A,, | B,, E, | A,3/ G,/ | A, (E,/=C,/) | [M: 3/4]  D, E, B,,/ B,,/ | [M: 2/4]  E, E, | B,, A,, | B,, E, | A,3/ G,/ | A, (E,/=C,/) | [M: 3/4]  D, E, B,,/ B,,/ | [M: 2/4]  E, D, | G, D, | G, E, | F, E, | D, F, | [M: 3/4]  G,/ E,/ D, D, | [M: 2/4]  G, G, | F, E, | D, E, | A, G, | A, (A,,/=C,/) | [M: 3/4]  D, E, B,,/ B,,/ | [M: 2/4]  E, D, | G, D, | G, D, | F, E, | D, F, | [M: 3/4]  G,/ E,/ D, D, | [M: 2/4]  G, G, | F, E, | D, E, | A, G, | A, (A,,/=C,/) | [M: 3/4]  D, E, B,,/ B,,/ | E,|]
+

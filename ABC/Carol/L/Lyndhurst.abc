@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Lyndhurst, 65 65 D
+Z: Anonymous, before 1918
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Lyndhurst"
+%%MIDI program 2 91
+K: Ab
+[V: P1]  [(C(E] [CF] [CG] [CA] | [D2A2] [D2G2] | [DE] [DE] [DF] [DE] | [C4)E4)] | [(C(F] [CG] [CA] [Cc] | [E2c2] [E2B2] | [=DB] [DF] [DG] [DF] | E4) | [(C(E] [Cc] [CB] [CA] | [D2A2] [D2G2] | E [Ed] [Ec] [EB] | [E4)e4)] | [(_G(e] [Ge] [Gd] [Gc] | [F2B2] [D2F2] | [DG] [DF] [DE] [DB] | [C4)A4)]|]
+[V: P2]  [(A,,(E,] [A,,E,] [A,,E,] [A,,E,] | [B,,2E,2] [B,,2E,2] | [G,B,] [G,B,] [E,G,] [E,G,] | [A,,4)A,4)] | [(A,,(A,] [A,,G,] [A,,F,] [A,,F,] | [B,,2G,2] [B,,2G,2] | [B,,F,] [B,,B,] [B,,B,] [B,,A,] | [E,4)G,4)] | [(A,,(A,] [A,,E,] [A,,E,] [A,,E,] | [B,,2E,2] [B,,2E,2] | [B,,G,] [B,,G,] [D,G,] [D,G,] | [C,4)A,4)] | [(C,(=A,] [C,A,] [C,A,] [C,A,] | [D,2B,2] [B,,2B,2] | [E,B,] [E,A,] [E,G,] [E,G,] | [A,,4)A,4)]|]
+
