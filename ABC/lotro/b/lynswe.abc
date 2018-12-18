@@ -1,0 +1,51 @@
+X:1
+T:Sweet Home Alabama
+C:Lynard Skynard
+T:Asphyx oF Brandywine
+I:Lute, Harp
+Q:1/4=220
+M:4/4
+L:1/8
+K:C
+D,D,D/A,D,/C,C,z/G,DD,/|
+G,G,G,DA,/_B,/=B,/D,/E,/D,/F,/_B,/=B,/^F,/|
+D,DD,A,/D,/C,C,z/G,D,/|
+DG,G,G,B,/G,/G,/C,/G,/G,/^C,/G,/|
+D,D,D,D,D,/D,/D/A,/D,/C,C,C,C,DC,C,z/G,D,/|
+G,G,G,G,G,G,D,DG,G,D,G,G,zDC,B,/C,/|
+D,D,D,D,DD,D,A,G,C,C,C,C,DC,C,G,|
+G,G,G,G,D,DG,G,G,DG,zD,C,B,/C,/|
+D,D,D,D,e/D/D,/A,/D,/G,/e/C,/C,/d/C,C,d/DC,G,Bd/D,/|
+G,G,G,AG,G,D,G,DG,G,G,zG,D,DC,/C,^C,/|
+D,D,D,D,A,/D,/D/e/e/e/D,/e/C,C,C,C,dC,dDG,B/d/|
+G,G,G,D,G,DG,G,zG,D,DG,C,C,/^C,/|
+D,D,D,D,e/D,/A,/D/ee/D,/C,C,C,/d/C,d/C,DG,B/d/D,/|
+G,G,G,G,AG,D,G,DG,G,zG,D,DG,C,C,/^C,/|
+D,D,D,/D,d/D,/A,/D/e/eD,/e/C,C,C,C,dC,dG,DC,B/D,/d/|
+G,G,G,dG,G,D,G,G,dDd/d/G,G,zG,G,D,G,DC,/^C,/|
+D,/F/D,/^F/D,/D,d/d/D/A,/d/F/D,/C,/C,/_E/=E/C,C,cC,G,c/DD,/|
+G,/A,/G,/_B,/G,/=B,/G,/GG,/D/G/zG,G,G,G,G,zDC,/C,^C,/|
+D,/F/D,/^F/D,/d/D,d/D/d/A,/F/D,/C,/C,/_E/=E/C,C,cG,c/DD,/|G,/A,/G,/_B,/=B,/G,/G,/GD/G/zG,G,G,G,G,zDC,/C,^C,/|D,D,D,D,dA,/D,/e/D/ee/D,/C,C,C,dC,dC,G,DB/d/D,/|
+G,G,AG,G,G,D,DG,G,G,DG,zG,D,C,C,/^C,/|D,D,dD,D,A,DeD,e/D,/e/C,/C,z/C,dC,dC,G,DB/D,/d/|G,G,G,G,G,D,DG,G,G,zD,DG,G,C,/C,^C,/|
+D,D,D,D,dD,eDA,e/D,/e/C,C,d/C,dC,dC,G,Dd/D,/|G,G,dG,/G,A/G,D,G,DG,G,zG,D,G,DC,/C,^C,/|D,D,D,/D,d/D,A,D^ff/D,/e/C,/C,/d/C,C,ddC,G,Dd/d/|
+G,DG,dG,D,dG,Dz/dz/G,G,zG,D,G,DC,|D,D,A,DD,D,A,DD,/B,/e/A,/C,C,G,CeC,C,G,CdA,/C,dG,B/|G,G,D,G,dG,G,D,G,AG,G,E,G,G,G,D,G,C,C,G,C|
+D,D,A,DD,D,A,DD,/B,/e/A,/eC,G,CC,/e/z/C,C,G,CdA,/C,dG,/B/d/|G,G,D,G,G,G,D,G,G,G,E,G,G,G,D,G,C,C,G,C|D,D,A,D,D,A,DD,/B,/e/A,/C,C,G,CeC,C,G,CdA,/C,dG,C,/B/|
+G,G,D,G,dG,G,D,G,AG,G,E,G,G,G,D,G,C,C,G,C|D,D,A,DD,D,A,DD,/B,/e/A,/eC,C,G,Ced/C,C,G,CA,/C,dG,/B/d/G,/G,/D,/G,/|G,G,D,G,G,D,G,F,gE,g|
+D,/D,/^f/d/D,D,AD/d/A,D,/C,/C,/A/c/C,C,B/c/G,DB/A/D,/G/|G,G,GG,/G,/E/D/G,DEzGG,G,G,G,zG,DC,/^C,/|D,/D,/F/^F/D,/d/D,d/D/A,/d/F/D,/C,/C,/_E/=E/C,C,cG,Dc|
+G,/G,/A,/_B,/G,/=B,/G,G/D/G/zG,G,G,G,G,zDC,/C,^C,/|D,D,D,D,dD,/A,/D/e/eD,/e/C,C,C,dC,C,dG,DB/d/|G,G,AG,D,G,DF,fE,e|
+D,dD,dD,/A,/D/e/ee/C,C,ddC,G,De/D,/d/G,/G,/|zG,G,G,D,G,DG,G,zG,D,G,DC,/C,^C,/|D,D,D,D,dD,A,Dee/D,/e/C,/C,/d/C,C,ddC,G,DB/d/|
+G,DG,AG,D,G,DG,G,zG,D,G,DC,/C,^C,/|D,D,G,DD,/D,d/D,A,Dee/D,/e/C,/C,/d/C,C,dC,/G,/D/d/e/d/|G,G,ddG,DG,D,d/z/dG,G,G,D,G,DC,/C,^C,/|
+D,D,A,DD,D,A,D,/B,/e/A,/C,C,G,CeC,C,G,CdA,/C,dG,B/|G,G,D,G,dG,G,D,G,AG,G,E,G,G,G,D,G,C,C,G,C|D,D,A,DD,D,A,DD,/B,/e/A,/eC,C,G,Ce/z/C,C,G,CdA,/C,dG,/e/d/G,/G,/D,/G,/|
+G,G,D,G,G,G,E,G,G,G,D,G,C,C,G,C|D,D,A,DD,D,A,DD,/B,/e/A,/C,C,G,CeC,C,G,CdA,/C,dG,B/|G,G,D,G,dG,G,D,G,AG,G,E,G,G,G,D,G,C,C,G,C|
+D,D,A,DD,D,A,DD,/B,/e/A,/e/C,/C,/G,/C/e/d/C,C,G,CA,/d/C,G,/e/d/|G,G,D,G,G,G,D,G,G,D,F,F,E,E,|D,/D,/F/^F/D,/d/D,d/D/A,/d/F/D,/C,/C,/_E/=E/C,C,cc/G,DD,/|
+G,/G,/A,/_B,/G,/G,/=B,/G/zDG/zG,G,G,G,G,zDC,/C,^C,/|D,/D,/F/D^F/D,/d/D,d/z/DA,/d/F/D,/C,/C,/_E/=E/C,C,cc/G,DD,/|G,/G,/A,/_B,/G,/G,/=B,/G/DG/zG,G,G,G,G,zDC,/C,^C,/|
+D,D,D,D,dD,/A,/D/e/eD,/e/C,C,C,C,ddC,G,DB/D,/d/|G,G,G,G,AG,D,G,DG,G,zG,D,G,DC,/C,^C,/|D,D,D,/D,d/D,A,D^ff/D,/e/C,/C,/d/C,/d/C,d/C,/G,/D/d/e/D,/d/|
+G,G,G,G,G,D,G,DG,G,zG,D,G,DC,/C,^C,/|D,D,D,D,dD,A,Dee/D,/e/C,/C,/d/C,C,ddC,G,DB/D,/|G,G,dG,/G,/z/AG,D,G,DG,G,zG,D,G,DC,/^C,/|
+D,D,D,/D,d/D,A,Dee/D,/e/C,/C,/d/C,C,ddC,G,De/d/|G,DG,ddG,D,G,DG,/d/z/dG,G,G,G,G,D,DC,|D,D,A,DD,D,A,DD,/D,/B,/e/A,/C,C,G,CeC,C,G,CdA,/C,dG,B/|
+G,G,D,G,dG,G,D,G,AG,G,E,G,G,G,D,G,C,C,G,C|D,D,A,DD,D,A,DD,/B,/e/A,/eC,C,G,CeC,C,G,CdA,/d/C,G,/e/d/|G,G,D,G,G,G,D,G,G,G,E,G,G,G,D,G,C,C,G,C|
+D,D,A,DD,D,A,DD,/B,/e/A,/C,C,G,CeC,C,G,CdA,/d/C,G,/B/d/G,/G,/D,/G,/|G,G,D,G,AzG,G,E,G,G,G,D,G,C,C,G,C|D,D,A,DD,D,A,DD,/B,/e/A,/eC,C,G,Ced/C,C,G,CA,/C,dG,/e/d/G,/G,/D,/G,/|
+G,G,G,D,zG,G,D,G,F,gE,g|D,/D,/^f/d/D,D,AD/d/A,D,/C,/C,/A/C,/c/C,B/c/G,DB/A/C,/D,/G/|G,G,GG,/G,/E/D/GG,DG,G,G,G,z/G,DG,/C,/C,^C,/|
+D,/D,/F/G,D^F/D,/D,/d/dA,/d/D,/F/D,/C,/C,/D/_E/C,C,cc/G,DC,/D,/|G,/G,/A,/_B,/G,/G,/=B,/G/D/G/zG,G,G,G,G,zDC,/C,^C,/|D,/D,/F/^F/D,/D,/d/d/D/A,/d/FD,/D,/C,/C,/_E/=E/C,C,cc/G,DD,/|
+G,/G,/A,/_B,/G,/=B,/G,/Gz/DG/zG,G,G,G,G,zDC,/C,^C,/|D,/D,/F/^F/D,/d/D,d/D/A,/d/FD,/C,/C,/_E/=E/C,C,cc/G,DD,/|G,/G,/A,/_B,/G,/G,/=B,/G/z/DG/G,G,G,G,G,G,z/DG,/C,/C,^C,/|
+D,/D,/F/^F/D,/D,/d/d/D,/D/A,/d/F/D,/C,/C,/_E/=E/C,C,cc/C,G,DD,/|G,/G,/A,/_B,/G,/=B,/G,/GG,/DG/zG,G,G,G,G,zDC,/C,^C,/|D,/D,/F/^F/D,/D,/d/d/D,/DA,/d/F/D,/C,/C,/_E/=E/C,C,cc/C,G,DD,/|
+G,/A,/_B,/G,/=B,/G,G/D/G/G,F,gE,g|D,^f|

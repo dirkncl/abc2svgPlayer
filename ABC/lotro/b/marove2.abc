@@ -1,0 +1,20 @@
+X: 1
+T: Mario Overworld (Support)
+Z: Nightwind of Windfola
+G: Nintendo
+I: Lute
+Q: 1/4=100
+M: 4/4
+L: 1/8
+K: G
+
+D,/2D,D,D,/2D, G/2z3/2 G,/2z3/2|G,/2zE,/2 zC,/2z=F,G,^F,/2=F,|E,2/3G,2/3C2/3 =FD/2ECA,B,/2G,|G,/2zE,/2 zC,/2z=F,G,^F,/2=F,|
+E,2/3G,2/3C2/3 =FD/2ECA,B,/2G,|C,/2zG,/2 zC =F,/2zC/2 z=F,|C,/2zE,/2 zG,/2CGG/2 GG,|C,/2zG,/2 zC =F,/2zC/2 z=F,|
+C,^G,/2z^A,/2z C/2z=G,/2 zC,|C,/2zG,/2 zC =F,/2zC/2 z=F,|C,/2zE,/2 zG,/2CGG/2 GG,|C,/2zG,/2 zC =F,/2zC/2 z=F,|
+C,^G,/2z^A,/2z C/2z=G,/2 zC,|^G,/2z^D,/2 z^G, =G,/2zC,/2 z=G,|^G,/2z^D,/2 z^G, =G,/2zC,/2 z=G,|^G,/2z^D,/2 z^G, =G,/2zC,/2 z=G,|
+=D,/2D,D,D,/2D, G/2z3/2 G,/2z3/2|G,/2zE,/2 zC,/2z=F,G,^F,/2=F,|E,2/3G,2/3C2/3 =FD/2EC=A,B,/2G,|G,/2zE,/2 zC,/2z=F,G,^F,/2=F,|
+E,2/3G,2/3C2/3 =FD/2ECA,B,/2G,|C,/2z=F,/2 G,C =F,=F, C=F,|D,/2z=F,/2 G,B, G,G, CG,|C,/2z=F,/2 G,C =F,=F, C=F,|
+G,/2zG,2/3G,2/3A,2/3B,/2 CG, C,/2z3/2|C,/2z=F,/2 G,C =F,=F, C=F,|D,/2z=F,/2 G,B, G,G, CG,|C,/2z=F,/2 G,C =F,=F, C=F,|
+G,/2zG,2/3G,2/3A,2/3B,/2 CG, C,/2z3/2|^G,/2z^D,/2 z^G, =G,/2zC,/2 z=G,|^G,/2z^D,/2 z^G, =G,/2zC,/2 z=G,|^G,/2z^D,/2 z^G, =G,/2zC,/2 z=G,|
+=D,/2D,D,D,/2D, G/2z3/2 G,/2z3/2|C,/2z=F,/2 G,C =F,=F, C=F,|D,/2z=F,/2 G,B, G,G, CG,|C,/2z=F,/2 G,C =F,=F, C=F,|
+G,/2zG,2/3G,2/3A,2/3B,/2 CG, C,/2

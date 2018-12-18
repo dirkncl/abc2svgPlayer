@@ -1,0 +1,137 @@
+X:1
+T:Motorbreath
+C:Metallica
+N:Asphyx of Brandywine
+Q:1/8=500
+M:8/8
+L:1/8
+K:D
+EA, =F_B, |
+B,FB,/B,/ B,B,/B,/ B,B,/B,/ B,/B,/B,/B,/ |
+G,G,/G,/ G,G,/G,/ G,G,/G,/ G,/G,/G,/G,/ |
+A,A,/A,/ A,A,/A,/ A,A,/A,/ A,/A,/A,/A,/ |
+F,F,/F,/ F,F,/F,/ F,F,/F,/ F,/F,/F,/F,/ |
+B,B,/B,/ B,B,/B,/ B,B,/B,/ B,/B,/B,/B,/ |
+G,G,/G,/ G,G,/G,/ G,G,/G,/ G,/G,/G,/G,/ |
+A,A,/A,/ A,A,/A,/ A,A,/A,/ A,/A,/A,/A,/ |
+F,F,/F,/ F,F,/F,/ F,F,/F,/ F,/F,/F,/F,/ |
+B,F B,F EA, B,FF/B,/ A,/E/A,E |
+G,DD/G,/ F,/C/CF, DG,G,/D/ F,/C/F,C |
+A,EA,/E/ G,/D/DG, EA,A,/E/ D/G,/DG, |
+F,C F,C E, F,C F,C EA, |
+FB, FB, EA, FB,B,/F/ E/A,/EA, |
+DG,D/G,/ C/F,/CF, G,DD/G,/ F,/C/F,C |
+EA,A,/E/ G,/D/G,D A,EA,/E/ G,/D/DG, |
+CF, F,C E, CF, CF, A,E |
+B,FBB,/F/B B/A,E FB,DF/B,/B A,/E/A,E |
+BDG,G,/D/B D/C/F,/F,C DDG,G,/D/B F,/C/F,C |
+A,EAA,/E/A/ G,/D/G,DA EA,BA,/A/E/ G,/D/G,DB |
+C/F,/B/B/ F,BC E,B F,CB CF, EA, |
+B,BFB,/F/B B/EA, B,FDF/B,/B A,/E/B/A,E |
+G,DDG,/D/D/ F,/C/F,EC DG,BD/G,/ F,/C/CF, |
+A,EEA,/E/E/ D/G,/G,DD EA,EA,/E/E/ G,/D/G,ED |
+FF,C CF,F EE, FF,C CF, EA,4 |
+B,F B,F A, B,F FB, A, |
+B,F B,F A, FB, B,F A, |
+B,FF B,FF F G,D G,D D |
+DAA DA F,CF F,CEF,CF E|
+G,DD G,DD E,B,B E,B,B |
+F,/C/C/F,/C/C/ F,CC F,CB F,CC |
+B,FF B,FF F G,D G,D D |
+DAA DA F,CF F,/C/F/F/F,/C/ F G,/D/D/ |
+G,DB E,/B,/D/D/E,B,B|
+F,/C/C/F,/C/B/F,/C/F,/C/ F,CC8 |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/A,/F/ E/A,/F/E/ A,/F/E/A,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/A,/F/ E/A,/F/E/ A,/F/E/A,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+B,FBB,/F/B B/A,E B,FDB,/F/B A,/E/A,E |
+G,DBG,/D/B F,/C/D/F,C G,DDG,/D/B F,/C/F,C |
+A,EAA,/E/A/ G,/D/G,DA A,EBA,/E/A/ G,/D/G,DB |
+F,/C/B/B/ F,CB E,B F,CB F,C A,E |
+B,FBB,/F/B B/A,E B,FDB,/F/B A,/E/B/A,E |
+G,DDG,/D/D/ F,/C/F,CE G,DBG,/D/ F,/C/F,C |
+A,EEA,/E/E/ G,/D/G,DD A,EEA,/E/E/ G,/D/G,DE |
+F,CF F,CF E,E F,CF F,C A,E |
+B,F B,F A, B,F B,F A, |
+B,F B,F A, B,F B,F A, |
+B,FF B,FF F G,D G,D D |
+DAA DA F,CF F,CEF,CF E |
+G,DD G,DD E,B,B E,B,B |
+F,/C/C/F,/C/C/ F,CC F,CB F,CC |
+B,FF B,FF F G,D G,D D |
+DAA DA F,CF F,/C/F/F/F,/C/ F G,/D/D/ |
+G,DB E,/B,/D/D/ E,B,B |
+F,/C/C/F,/C/F,/C/C/F,/C/ F,/C/C/F,/C/F,/C/B/F,/C/ F,CC |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/A,/F/ E/A,/F/E/ A,/F/E/A,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+F/E/A,/F/ E/A,/F/E/ A,/F/E/A,/ FE |
+F/E/B,/F/ E/B,/F/E/ B,/F/E/B,/ FE |
+B,F B,F |G2=C2=C,2 |
+=C,/=C/G/C,/f/b/C,/C,/ C,/C,/C,/C,/ C,/C,/C,/C, |
+C,/C,/C,/^g/g/C,/b/C,/C,/g/C,/f/C,/g/C,/b/C,/g/C,/f/C,/g/C,/b/C,/g/f/G,g |
+^G,/f/C,/c/C,/e/C,/f/C,/f/C,/g/C,/b/C,/b/C,/c/C,/b/C,/g/C,/b |
+C,/c/C,/e/C,/f/C,/C,/f/C,/e/C,/c/C,/e/C,/f/C,/e/C,/c/C,/e/C,/f/C,/e/c/^G,e |
+C,/_e/C,/e/C,/f/C,/e/ C,/c/e/C,/f/C,/e/C,f/C,/=C,/ |=C,/ |
+FB, B,F A,E FB,B,F|
+B,/F/E/A,/EA, G,DG,/D/ F,/C/F,C G,DG,D|
+D/G,/F,/C/F,C A,EE/A,/ D/G,/DG, EA,A,E|
+A,/E/G,/D/G,D CF, CF, E, CF,CF,|
+CF,A,E B,F FB, EA, FB,B,F|
+B,/F/A,/E/A,E G,DG,/D/ F,/C/CF, G,DG,D|
+G,/D/C/F,/F,C EA,A,/E/ G,/D/G,D A,EA,E|
+A,/E/G,/D/G,D F,C F,C E, F,CCF,|
+CF,A,E B,FBB,/F/B B/A,E B,FDB,/F/B/|
+B/A,/E/A,E G,DBG,/D/B F,/C/D/F,C G,DDG,/D/B/|
+B/F,/C/F,C A,EAA,/E/A/ G,/D/G,DA A,EBAA,E |
+A,/E/ G,/D/G,DB F,/C/B/B/ F,CB E,B F,CB F,C|
+F,CA,E B,FBB,/F/B B/A,E B,FDB,/F/B/|
+B/A,/E/B/A,E G,DDG,/D/D/ F,/C/F,CE G,DB G,D|
+G,/D/F,/C/F,C A,EEA,/E/E/ G,/D/G,DD A,EEA,EE|
+A,/E/E/G,/D/G,DE F,CF F,CF E,E F,CF F,C|
+F,CF A,E B,F B,F A, B,FB,F |
+A, B,F B,F A, B,FB,F |
+A, B,FF B,FF F G,DG,D|
+G,DD DAA DA F,CF F,CEF,CF |
+E G,DD G,DD E,B,BE,B,B |
+F,/C/C/F,/C/C/ F,CC F,CB F,CC |
+B,FF B,FF F G,DG,D|
+G,DD DAA DA F,CF F,/C/F/F/F,C |
+F G,DD G,DB E,/B,/D/D/E,B,B |
+F,/C/C/F,/C/F,/C/C/F,/C/ F,/C/C/F,/C/F,/C/B/F,/C/ F,CC4 |
+B,FB,/=C=C,G/^C,/e/c/b/C,/^g/C,|
+e/C,/c/C,/b/C,/C,/^g/e/C,/C,/c/C,/b/g/C,/e/C,/C,/c/b/C,/g/C,/C,/e/c/C,/b/C,/g/C,/|
+e/C,/C,/c/C,/b/^g/C,/C,/e/C,/c/b/G,/g/e/G,/c/b/g/b/C,/e/c/C,/e/C,/c/|
+C,/_e/C,/=c/C,/d/b/C,/C,/c/_b/C,/C,/=c/C,/a/C,/=b/C,/^g/C,/g/C,/g/C,|
+g/C,/C,/f/g/C,/C,/b/|
+C,/^g/C,/f/C,/_e/f/G,/e/c/G,b/G,/g/b/g/C,/b/e/C,/C,/g/|
+C,/_e/b/C,/C,/^g/C,/e/b/C,/g/C,/C,/c/=f/C,/C,/b/e/C,/g/C,/C,/b/C,/c/C,/e/C,/^f/e/C,/|
+C,/b/c/b/C,/C,/^g/C,/b/C,/c/C,/b/G,/g/f/G,_e/c/C,/G/C,/B/C,/c/|
+C,/_e/C,/C,/f/C,/f/C,/^g/C,/f/C,/e/C,/f/C,/g/C,/b/C,/c/C,/C,/c/C,/g/C,/b/C,/c/|
+C,/b/C,/^g/C,/b/C,/c/G,/b/g/b/G,/eG,/f/C,/f/c/C,/c/C,/b/|
+C,/C,/C,/^g/C,/g/C,/C,/c/C,/b/C,/C,/b/C,/C,/C,/C,/f/C,/g/C,/c/C,/b/|
+C,/C,/C,/C,/^g/g/C,/f/C,/c/G,b/G,b/b/C,/b/g/C,/g/C,/g/|
+C,/b/C,/^g/C,/c/C,/c/e/C,/b/C,/g/C,/=g/C,/^g/C,/b/C,/g/C,|
+f/C,/e/C,/e/C,/e/C,/f/C,/e/C,/c/|
+C,/b/C,/b/C,/b/^G,/c/b/g/G,f/G,/f/g/C,f/C,/f/C,/f/|
+C,/C,/f/C,/f/C,/f/C,/b/C,/^g/C,/f/C,/g/C,/b/C,/g/C,/c/C,/g/C,/b/C,/g/C,/f/C,/g/|
+C,/b/C,/^g/C,/c/C,/g/C,/b/C,/g/G,/f/g/G,/b/g/f/_e/C,/c/e/C,/f/C,/e/|
+C,/^g/b/C,/g/C,/f/C,/_e/C,/c/C,/e/C,/f/C,/e/C,/b/C,/g/C,/f/C,/e/C,/c/C,/e/C,/f/C,/e/|
+C,/b/C,/^g/C,/f/C,/g/G,b/G,b/G,/C,b/C,/C,/|
+C,/b/C,/C,/C,/C,/C,/C,/C,/C,/C,/C,/C,/C,/C/F/C,/^G/C,/C/C,/C/|
+C,/C/C,/C/C,/C/C,/C/C,/C/^G/C,/F/G,G,_E/G,G,E/C,CG/C,/C/C,/C/|
+C,/C/C,/C/C,/C/C,/C/C,/C/^G/C,/F/C,/C/C,/C/G/C,/C,/C,/C/G/C,/F/C,/C/F/C,/G/C,/C/C,/C/|
+C,/C/C,/C/C,/C/C,/C/^G,^G,_E/G,G,E/G,/G,/E/C,/C/G/C,/C/C,/C/|
+C,/C/C,/C/C,/C/C,/C/C,/C/^G/C,/F/C,/C/C,/C/G/C,/C,/C,/C/G/C,/F/C,/C/F/C,/G/C,/C/C,/C/|
+C,/C/C,/C/C,/C/C,/C/C,/C/^G/C,/F/G,G,_E/G,G,E/C,CG/C,/C/C,/C/|
+C,/C/C,/C/C,/C/C,/C/C,/C/^G/C,/F/C,/C/C,/C/G/C,/C,/C,/C/G/C,/F/C,/C/F/C,/G/C,/C/C,/C/|
+C,/C/C,/C/C,/C/C,/C/^G,^G,_E/G,G,E/G,/G,/E/B,B,F/B,/B,/F/|
+B,B,F/F,F,C/F,F,C/F,/F,/C/C,C^G|

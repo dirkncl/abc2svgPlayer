@@ -1,0 +1,54 @@
+X:1
+T:Mummers Dance-Bass
+C:Loreena McKennitt
+Z:Giddily 
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z6 zC,-|C,2 D,C, C,D, D,/2z3/2|z6 zC,-|C,2 D,z C,D, D,C,/2z/2|
+z6 zC,-|C,D, D,/2z3/2 C,D, D,/2z3/2|z8|z6 D,D,|
+z6 zC,-|C,D, D,/2z3/2 C,D, D,/2z3/2|z6 zC,-|C,D, D,A, C,2 D,/2z3/2|
+z6 zC,-|C,D, D,/2z3/2 C,z D,C,/2z/2|z8|z4 C,D, D,C,|
+D,2 zD,2D, A,B,|C,2 zC,2C,2G,|C,3C,2C, zC,|G,2 zG,2^F, G,A,|
+D,3D,2D, A,B,|C,2 zC,2C,2G,|C,3C, C,2 B,C,|D,2 zD,2A, B,C,|
+D,3D,2D, D,2|C,3C,2C, C,G,|C,3C, C,2 zC,|G,3^F,2G,2A,|
+D,3D,2D, B,2|C,3C,2C, C,G,|C,3C, G,2 B,C,|D,2 A,D,2D, D,C,|
+D,3D, zD,2A,|C,3C,2C, G,A,|C,2 zC,2C,2G,|D,2 D,2 C,D, D,E,|
+D,3D,2D, A,2|C,2 zC,2C, A,G,|C,2 C,G, C,C, zC,|D,2 zD,2D, D,D,|
+C,G, CC,2C,2z|^A,3^A, C,3C,|D,6- D,D,|D,3D,2D, zD,|
+C,G, CC,2C,3/2z3/2|^A,3^A, C,3C,|D,3D,2D,2=A,|D,3D,2D,2A,|
+D,2 D,z D,D, A,z|C,3C,2C,2G,|C,2 zC,2C,2G,|G,3G,2^F, G,C,|
+D,3D,2D, A,B,|C,3C,2C, C,G,|C,4- C,C, C,2|D,2 D,2 C,D, D,C,|
+D,3D,2D, A,B,|C,3C,2C, B,B,|B,3A, A,2 zG,|G,2 zG,2^F, G,A,|
+D,3D, zA, B,2|C,3C,2C, C,G,|C,3C, B,C,2z|D,C, D,D, C,D, D,C,|
+D,3D,2D,2A,|C,3C,2C, G,A,|C,2 zC,2C,2C,|D,2 D,z C,D, D,E,|
+D,3D,2D, A,2|C,2 zC,2C, A,G,|C,2 C,G,2C, zC,|D,2 zD,2D, C,D,|
+C,G, C4- Cz|^A,3^A, C,3C,|D,6- D,D,|D,3D,2D, zD,|
+C,G, CC,2C,3/2z3/2|^A,3^A, C,3C,|D,3D,2D,2=A,|D,3D,2D,2A,|
+D,3D,2D, D,2|=F,2 zC,2G, C,D,|C,2 zC,2C, zC,|D,2 zD,2D, D,D,|
+^A,3^A, ^A,3^A,|C,3C,2G, C,G,|D,3D,2D, D,=A,|D,3D,2A, C,A,|
+D,3D, D,3C,-|C,2 D,C, C,D, D,/2z3/2|z6 zC,-|C,2 D,z C,D, D,C,/2z/2|
+z6 zC,-|C,D, D,/2z3/2 C,D, D,/2z3/2|z8|z6 D,A,|
+D,2 zD,2D, A,B,|C,2 zC,2C,2G,|C,3C,2C, zC,|G,2 zG,2^F, G,A,|
+D,3D,2D, A,B,|C,2 zC,2C,2G,|C,3C, C,2 B,C,|D,2 zD,2A, B,C,|
+D,3D,2D, D,B,|C,3C,2C,2G,|C,3C,2C, zC,|G,3G,2^F, G,A,|
+D,3D,2D, zB,|C,2 zC,2C,2G,|C,3C, C,2 G,C,|D,2 zD,2A, B,C,|
+D,3D,2D,2A,|C,3C,2C, G,A,|C,2 zC,2C, zC,|D,2 D,D, C,D, D,E,|
+D,3D,2D, A,2|C,2 zC, zC, A,G,|C,2 C,G, C,C, zC,|D,2 zD,2D, D,C,|
+D,2 zD,2D,2A,|C,3C,2C, G,A,|C,2 zC,2C, zC,|D,3/2z3/2D, C,D, D,E,|
+D,2 zD,2D, A,2|C,2 zC,2C, A,G,|C,2 C,G, C,C, zC,|D,2 zD,2D, D,D,|
+C,G, C6-|C/2z2z/2^A, C,3C,|D,6- D,D,|D,3D,2D, zD,|
+C,G, CC,2C,3/2z3/2|^A,3^A, C,3C,|D,3D,2D,2=A,|D,3D,2D,2A,|
+D,z2D,3 zD,|C,D, D,z C,D, D,/2z3/2|C,2 zG,3 zA,|C,D, D,2 C,D, D,C,|
+^A,2 z^A, ^A,2 zC,-|C,D, D,z C,D, D,/2z3/2|D,2 zD,2D, z=A,|D,2 zD, C,A, C,D,-|
+D,2 zD, D,2 zD,|C,D, D,A, C,D, D,2|C,2 zC,2C, A,/2zC,/2|C,D, D,A, C,D, D,2|
+^A,2 z^A, ^A,2 zC,-|C,D, D,2 E,D, D,C,/2z/2|zC, D,2 zD,/2z3/2D,-|D,D, C,=A, C,A, C,D,|
+D,3D, D,2 D,A,|C,D, D,A, C,D, D,/2z3/2|C,2 zC, G,2 C,C,-|C,D, D,A, C,D, D,A,|
+^A,2 z^A, =F,^A,2^A,/2z/2|zD, D,/2z3/2 C,D, D,/2z3/2|D,2 zD,2D, =A,C,|D,2 zD, C,A, C,A,|
