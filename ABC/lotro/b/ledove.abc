@@ -1,0 +1,38 @@
+X:1
+T:Over the Hills and Far Away [Galvo]
+Q:1/4=91
+M:4/4
+L:1/8
+K: G
+z6 G/4A/G/4F/[z/D/] |[DG] [B3/2B,3/2D3/2G3/2][B/g/G/] G/[B/g/G/][B,G,D] G/4A/G/4F/G/ |B/4A/4G/ [z2D2] [d3/2A3/2f3/2] [d/D/A/f/][A/D/f/d/][D/f/d/A/] G/4A/G/4F/[D/z/] |[GD] [GB,D][GBg] [GgB]G, G/4A/G/4F/G/ |
+B/4A/G/4 D2 [fA,dAD] [A/d/f/][f/A/d/]A,/B,/ E/B,/D/E/ |D2 [BB,4D4G][B/G/][GBg] [g/B/][B/G/]B/ G/4A/G/4F/G/ |B/4A/G/4 z [zD2] [d3/2A3/2f3/2] [d/A/F/][dA] G/4A/G/4F/D/ |[D2E2C2] [EdG][G/d/E/][d/G/E/] [B,2z] [dG] [dG][G/d/][=F/_B,/] |
+[_B,3/2=F3/2G3/2][F/G/] [GFd][FdGB,] [B,4G3/2d3/2F3/2][G/F/d/] [G/F/d/][F/d/G/][d/G/F/][d/G/F/] |[d/G/B,/=F/][G/C/e/][G/e/][G/e/] [CGe] [e2C2G2] [G/e/C/][e/G/] [e2G2C2] |[z2d6b6G] [z3/2B,4G2D4] [Bg] [B/g/][B/g/][g/B/] G/4A/G/4F/G/ |
+B/4A/4G/ [D6z2] [d3/2A3/2f3/2] [d/A/f/][d/A/f/][f/d/A/] G/4A/G/4F/[z/D/] |[GD] [B,GD][g3/2B3/2] [G/g/B/]G, G/4A/G/4F/G/ |B/4A/G/4 D2 [fA,AdD] [A/f/d/][f/d/A/]A,/B,/ E/B,/D/E/ |D2 [BGD4B,4] [G/B/][gGB] [B/g/][G/B/]B/ G/4A/G/4F/G/ |
+B/4A/G/4 z [zD2] [d3/2f3/2A3/2] [A/d/][Ad] G/4A/G/4F/D/ |[C2D2] [dGE][G/d/]B, G,G, G,/B,/A,/ |[zE2D4] A/A/ [Adf][A/d/f/][e/A/d/] A [B,/d3D/G,/G3]G, A,/B,/A,/ |[D4E2zGd]A/A/ [dAf][d/f/A/][A/d/e/] A [G,/D/B,/G3d3]G, A,/B,/A,/ |
+[zE2D6dG]A/A/ [dAf][d/f/A/][A/d/f/] A/[A/d/f/][d/A/f/][A/d/] G/4A/G/4F/[z/D/] |[GD] [GD4B,4] [g3/2B3/2] [B/g/][g/B/][B/g/] G/4A/G/4F/G/ |B/4A/4G/ [z2D6] [A3/2d3/2f3/2] [d/f/][d/f/][d/f/] G/4A/G/4F/F/ |
+G2 [GgBD6] [G3/2B3/2g3/2] [^c/A/][d/B/][d/B/] e/[B/d/][Bz/d]e/ |[D/c/e/][fd][f/d/] [D4df][d3/2f3/2] [d/f/][df] G/4A/G/4F/[z/D/] |[GD] [B,4D4G][B3/2g3/2] [g/B/][g/B/][g/B/] G/4A/G/4F/G/ |B/4A/G/4 z [zD2] [f3/2A3/2d3/2] [A/d/][Ad] G/4A/G/4F/D/ |
+[C2D2] [EdG] [G/d/]B, G,G, G,/B,/A,/ |[zE2D4] A/A/ [Adf][A/d/f/][A/f/d/] [G,3/2D3/2G4B,3/2d4] G, A,/B,/A,/ |[zE2D4] A/A/ [Afd][A/d/f/][A/d/f/] [G,3/2D3/2d4B,3/2G4] G, A,/B,/A,/ |[E2zD4] [d/A/][d/A/] [Afd][A/d/][A3/2d3/2] [g/d/b/][a^ce] [e/a/c/][e/a/c/][b/g/d/] |
+[Dgbd][g/b/d/][d/b/g/] [d/g/b/][g/d/b/] [dgbD4] [d/g/b/][d/g/b/][e/a/^c/][e/a/c/] [z/A,2] [e/a/c/][c/a/e/][d/b/g/] |[Dgdb][g/b/d/][b/g/d/] [g/d/b/][A,/g/D/d/b/] [z/dbB,2A,4D4] z/ [d/g/b/][d/g/b/][a/e/^c/][cae] [e/c/a/][e/a/c/][D/d/g/b/] |
+[Ddgb][d/g/b/][d/g/b/] [d/g/b/][A,/D/d/g/b/] [z/bdB,2A,4g] z/ [d/b/g/][g/b/d/][e/a/^c/][cea] [e/c/a/][e/a/c/][D/d/g/b/] |[Ddgb][D/d/g/b/][D/d/g/b/] [D2d2g2b2] [D/G/d/g/][D3/2A3/2d3/2f3/2] [D/A/d/f/][A,3/2E3/2A3/2^c3/2e3/2] |
+K: D
+[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB][G,/D/G/B/][G,/D/G/B/] [A,/E/A/c/][A,EAc][A,/E/A/c/] [A,/E/A/c/][A,/E/A/c/][A,/E/A/c/][A,/E/A/d/] |[G,/D/G/B/][G,/D/G/B/][D/G,/G/B/][G,/D/G/B/] [G,DGB][G,/D/G/B/][G,/D/G/B/] [D/G/d/g/][D3/2A3/2d3/2f3/2] [D/A/d/f/][E3/2A,3/2A3/2c3/2e3/2] |
+[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB][G,/D/G/B/][G,/D/G/B/] [A,/E/A/c/][A,EAc][A,EAc] [A,/E/A/c/][A,/E/A/c/][A,/E/A/d/] |[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB]D/D/ D/D/[D/e/a/c/][Deac] [Deac][d/g/b/D/] |
+[zD] [D/d/g/b/][D/d/g/b/] [D/d/g/b/][D/e/a/c/][e/a/c/][e/a/c/] [e/a/c/][D/e/a/c/][c/D/e/a/][Deac] [D/e/a/c/][D/e/a/c/][D/e/a/c/] |[Ddgb][d/g/b/][D/d/g/b/] [D/d/g/b/]D/D/D/ D/[D/e/a/c/][D/e/a/c/][Deac] [D/e/a/c/][D/e/a/c/][D/d/g/b/] |
+[Ddgb][D/d/g/b/][D/d/g/b/] [D/d/g/b/][D/d/g/b/][D/d/g/b/][e/a/c/] [e/a/c/][e/a/c/][e/a/c/][eac] [e/a/c/][e/a/c/][D/d/g/b/] |[Ddgb][D/d/g/b/][D/d/g/b/] [Ddgb]D/D/ [D/G/d/g/][D3/2A3/2d3/2f3/2] [D/A/d/f/][A,3/2E3/2A3/2c3/2e3/2] |
+[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB][G,/D/G/B/][G,/D/G/B/] [A,/E/A/c/][A,EAc][A,/E/A/c/] [A,/E/A/c/][A,/E/A/c/][A,/E/A/c/][A,/E/A/d/] |[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB][G,/D/G/B/][G,/D/G/B/] [D/G/d/g/][D3/2A3/2d3/2f3/2] [D/A/d/f/][A,3/2E3/2A3/2c3/2e3/2] |
+[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB][G,/D/G/B/][G,/D/G/B/] [A,/E/A/c/][A,EAc][A,EAc] [A,/E/A/c/][A,/E/A/c/][A,/E/A/d/] |[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB]D/D/ D/D/[D/e/a/c/][Deac] [Deac][D/d/g/b/] |
+z [D/d/g/b/][D/d/g/b/] [D/d/g/b/][D/e/a/c/][e/a/c/][e/a/c/] [e/a/c/][D/e/a/c/][D/e/a/c/][Deac] [D/e/a/c/][D/e/a/c/][D/e/a/c/] |[Ddgb][d/g/b/][D/d/g/b/] [D/d/g/b/]D/D/D/ D/[D/e/a/c/][D/e/a/c/][Deac] [D/e/a/c/][D/e/a/c/][D/d/g/b/] |
+[Ddgb][D/d/g/b/][D/d/g/b/] [D/d/g/b/][D/d/g/b/][D/d/g/b/][e/a/c/] [e/a/c/][e/a/c/][e/a/c/][eac] [e/a/c/][e/a/c/][D/d/g/b/] |[Ddgb][D/d/g/b/][D/d/g/b/] [Ddgb]D/D/ [D/G/d/g/][D3/2A3/2d3/2f3/2] [D/A/d/f/][A,3/2E3/2A3/2c3/2e3/2] |
+[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB][G,/D/G/B/][G,/D/G/B/] [A,/E/A/c/][A,EAc][A,/E/A/c/] [A,/E/A/c/][A,/E/A/c/][A,/E/A/c/][A,/E/A/d/] |[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB][G,/D/G/B/][G,/D/G/B/] [D/G/d/g/][D3/2A3/2d3/2f3/2] [D/A/d/f/][A,3/2E3/2A3/2c3/2e3/2] |
+[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB][G,/D/G/B/][G,/D/G/B/] [A,/E/A/c/][A,EAc][A,EAc] [A,/E/A/c/][A,/E/A/c/][A,/E/A/d/] |[G,/D/G/B/][G,/D/G/B/][G,/D/G/B/][G,/D/G/B/] [G,DGB]D/D/ D/D/[D/e/a/c/][Deac] [Deac][D/d/g/b/] |
+z [D/d/g/b/][D/d/g/b/] [D/d/g/b/][D/e/a/c/][e/a/c/][e/a/c/] [e/a/c/][D/e/a/c/][D/e/a/c/][Deac] [D/e/a/c/][D/e/a/c/][D/e/a/c/] |[Ddgb][d/g/b/][D/d/g/b/] [D/d/g/b/]D/D/D/ D/[D/e/a/c/][D/e/a/c/][Deac] [D/e/a/c/][D/e/a/c/][D/d/g/b/] |
+[B3/2d3/2g3/2b3/2][B/d/g/b/] [B2d2g2b2] [A3/2d3/2f3/2a3/2][A/d/f/a/] [A3/2d3/2f3/2a3/2][A/d/f/a/] |[Adfa][Acea] [A/c/e/a/][A/c/e/a/] [E7/2^G7/2B7/2e7/2] [E/G/B/e/][E/G/B/e/][E/G/B/e/] |[B3/2d3/2g3/2b3/2][B/d/g/b/] [Bdgb][B/d/g/b/][B/d/g/b/] [A3/2d3/2f3/2a3/2][A/d/f/a/] [A3/2d3/2f3/2a3/2][A/d/f/a/] |
+[Adfa][Adfa] [Adfa][E^GBe] [E/G/B/e/][E/G/B/e/][E/G/B/e/][E/G/B/e/] [E/G/B/e/][E/G/B/e/][E/G/B/e/][E/G/B/e/] |[B3/2d3/2g3/2b3/2][B/d/g/b/] [Bdgb][Bdgb] [A3/2d3/2f3/2a3/2][A/d/f/a/] [Adfa][Adfa] |[Adfa][Adfa] [Adfa][E^GBe] [E/G/B/e/][E/G/B/e/][E/G/B/e/][E/G/B/e/] [E/G/B/e/][E/G/B/e/][E/G/B/e/][B/e/E/G/] |
+K:A
+[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,/C/F/B/][F,/C/F/B/] |[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,CF_Bce][F,/C/F/B/c/e/][F,/C/F/B/c/e/] |
+[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,/C/F/B/][F,/C/F/B/] |[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,CF_Bce][F,/C/F/B/c/e/][F,/C/F/B/c/e/] |
+[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,/C/F/B/][F,/C/F/B/] |[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,CF_Bce][F,/C/F/B/c/e/][F,/C/F/B/c/e/] |
+[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,/C/F/B/][F,/C/F/B/] |[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,CF_Bce][F,/C/F/B/c/e/][F,/C/F/B/c/e/] |
+[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,/C/F/B/][F,/C/F/B/] |[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,CF_Bce][F,/C/F/B/c/e/][F,/C/F/B/c/e/] |
+[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,/C/F/B/][F,/C/F/B/] |[F,CFB][F,/C/F/B/][F,/C/F/B/] [F,CFB][F,CFB] [F,/C/F/B/][F,/C/F/B/][F,CF_Bce] [F,2C2F2B2c2e2] |
+z8 |z8 |

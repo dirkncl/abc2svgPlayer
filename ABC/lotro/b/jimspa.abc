@@ -1,0 +1,45 @@
+X:1
+T:Spanish Castle Magic, Jimi Hendrix
+Z:Samril/Maes
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+z4 DA, D,2|B,3D B,2 B,2-|
+B,A, B,2 DA, D,2|B,3D B,2 B,2-|B,2 z2 DA, D,2|B,3D B,2 B,2-|
+B,2 z2 DA, D,2|B,3D B,2 B,2-|B,2 z2 A3/2A/2 A2|A2 z6|
+z4 ^G3/2^G/2 ^G2|^G2 z2 =G3/2G/2 G2|G2 z2 F3/2F/2 F2|F2 z6|
+z4 B,3/2B,/2 B,2|B,2 z6|z4 A3/2A/2 A2|A2 z6|
+z4 ^G3/2^G/2 ^G2|^G2 z2 =G3/2G/2 G2|G2 z2 F3/2F/2 F2|F2 z6|
+z4 B,3/2B,/2 B,2|B,2 z6|z4 GD G,2|E3G E2 E2-|
+ED E2 GD G,2|E3G E2 E2|A,B, DB, DA, D,2|B,3D B,2 B,2|
+A,B, DB, DA, D,2|B,3D B,A, B,A,|DB, D2 E/2F3/2 F2|F2 F2 F2 =F2|
+E2 ^D2 =D2 DD|A2 D2 D2 D2|^D2 E2 =DA, D,2|B,3D B,2 B,2|
+A,B, DB, DA, D,2|B,3D B,2 B,2|B,^D E2 A3/2A/2 A2|A2 z6|
+z4 ^G3/2^G/2 ^G2|^G2 z2 =G3/2G/2 G2|G2 z2 ^F3/2F/2 F2|F2 z6|
+z4 B,3/2B,/2 B,2|B,2 z6|z4 A3/2A/2 A2|A2 z6|
+z4 ^G3/2^G/2 ^G2|^G2 z2 =G3/2G/2 G2|G2 z2 F3/2F/2 F2|F2 z6|
+z4 B,3/2B,/2 B,2|B,2 z6|z4 G=D G,2|E3G, E2 E2|
+DE3 GD G,2|E3G E2 E2|A,B, DB, DA, D,2|B,3D B,2 B,2|
+A,B, DB, DA, D,2|B,3D B,2 A,/2B,3/2|DB, D2 E/2F3/2 F2|F2 F^C F2 =F2|
+E2 ^D2 =D2 D2|A2 DD D2 ^D2|E2 =F2 =DA, D,2|B,3D B,2 B,2|
+A,B, DB, DA, D,D,|B,3D B,2 D,2|E,3/2=F,/2 ^F,3/2D,/2 B,2 B,2|B,3G, B,2 B,2-|
+B,3/2F,/2 F,2 B,2 B,z|B,3B, B,2 B,2-|B,B, A,3/2^A,/2 ^A,B, B,3/2G,/2|B,3B, B,2 B,2-|
+B,B, B,2 =A,B, B,G,|B,2 B,G, B,2 B,2|E,F, A,2 ^A,B, B,F,|B,3F, B,2 B,2|
+E,F, =A,^A, ^A,B, B,G,|B,2 B,F, B,2 B,2|E,F, =A,^A, ^A,B, B,G,|B,3F, B,2 B,2|
+E,F, =A,^A, ^A,B, B,2|B,3G, B,2 B,2|E,F, =A,^A, ^A,B, B,G,|B,3F, B,2 B,2|
+E,F, =A,^A, ^A,B, B,G,|B,2 B,F, B,2 B,2|E,F, =A,^A, ^A,B, B,G,|B,2 B,F, B,2 B,2|
+E,F, =A,^A, ^A,B, B,F,|B,3G, B,2 B,2|B,2 ^C/2^D3/2 G=D G,2|E3G, E2 E2-|
+EG, E2 GD G,2|D/2E2-E/2G, E2 E2|=A,B, DB, DA, D,2|B,3D B,2 B,2|
+A,B, DB, DA, D,2|B,3D B,2 A,B,-|B,D E/2D3/2 ^F2 F2|F2 F2 F2 =F2|
+E2 ^D2 =D2 D2|A3D D2 ^D2|E2 =F2 =DA, D,2|B,3D B,2 B,2|
+A,B, DA, DA, D,2|B,3D B,2 B,2|A,B, DA, DA, D,2|B,3D B,2 B,2-|
+B,A, B,2 DA, D,2|B,3D B,2 B,z|B,4 D3/2A,/2 D,2|B,3D B,2 B,2|
+B,4 DA, D,2|B,3D B,2 B,2|A,B, DB, DA, D,2|B,3D B,2 B,2-|
+B,A, B,2 DA, D,2|B,3D B,2 B,2-|B,A, B,2 DA, D,2|B,3D B,2 B,2-|
+B,2 B,2 DA, D,2|B,3D B,2 B,2-|B,2 B,2 DA, D,2|B,3D B,2 B,2-|
+B,2 A,2 DA, D,2|B,3D B,2 B,2-|B,2 B,2 DA, D,2|B,3D B,2 B,2-|
+B,2 B,2 DA, D,2|B,3D B,2 B,2-|B,2 B,2 DA, D,2|B,3D B,2 B,2-|
+B,2 B,2 D2 D,2|B,3D B,2 B,2-|B,2 B,2 DA, D,2|B,3D B,2 B,2-|
+B,B, B,B, DA, D,2|B,3D B,2 B,2-|B,2 B,2 DA, D,2|B,3D B,2 B,2-|
+B,2 B,2|
