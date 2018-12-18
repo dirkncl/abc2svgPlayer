@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Wind That Shakes The Barley, The
+C:Traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+|"D"vA2 (AB) AFED|"G"B2 (BA) BcdB|"D"A2 (AB) AFED|"G"gfe(d "A"Bc)dB
+|"D"A2 (AB) AFED|"G"B2 (BA) BcdB|"D"A2 (AB) AFED|"G"gfe(d "A"Bc)de
+|"D"vf2 fd "G"g2 ge|"D"f2 (fd) Bcde|"D"f2 fB "G"g2 fg|"D"afe(d Bc)de
+|"D"f2 fd "G"g2 ge|"D"f2 (fd) Bcde|"D"defg afb(a "G"gf)ed "A"BcdB:|"D""^last x"A8||

@@ -1,0 +1,22 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Up On The Housetop
+C:B. R. Hanby, words & music
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:Eb    %(D, C)
+|:"Eb"B B/2c/2 B G|E G B2|"Ab"c c  "Eb"B G|"Bb"F B "Bb7"B2
+w:1~Up on the house-top rein-deer pause, out jumps good old San-ta Claus.
+w:2~First comes the stock-ing~of Lit-tle Nell; Oh, dear San-ta, fill it well;
+w:3~Next comes the stock-ing~of Lit-tle Will; Oh, just see what~a glo-rious fill!
+|"Eb"B B/2c/2 B G/2F/2|E G B2|"Ab"c c/2c/2 "Eb"B/2B/2 G|"Bb"F "Bb7"B "Eb"E2
+w:Down thru the chim-ney with lots of toys, all for the lit-tle ones, Christ-mas joys.
+w:Give her a dol-lie that laughs and crys, one that will o-pen and shurt her eyes.
+w:Here is a ham-mer and lots of tacks, al-so a ball_ and~a whip that cracks.
+|"Ab"A A c2|"Eb"B B/2B/2 G2|"Bb7"F A A2|"Eb"G B/2B/2 "Eb"(E G)
+w:Ho, ho, ho! Who  would-n't go! Ho, ho, ho! Who would-n't go!_
+|"Eb"B B/2c/2 B G|"Ab"A "Eb"B "Ab"c2|"Eb" B B/2c/2 B G/2G/2|"Bb7"F B "Eb"E2:||
+w:Up on the  house-top, click, click, click. Down thru the chim-ney with old Saint Nick.

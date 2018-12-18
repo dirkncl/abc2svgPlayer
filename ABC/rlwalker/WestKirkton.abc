@@ -1,0 +1,19 @@
+%%scale 1.1
+%%barsperstaff 4
+X: 1
+T:West Kirkton
+T:Ian Powrie's Farewell to Archterarder
+C:John MacGregor (Hamilton Leaflet)
+M:6/8
+L:1/8
+K:D
+|A,
+| "D"D3 A,3 | F3 D3 | A3 FDF | d2c B2A
+| "Em"G3 B,^A,B, | B3 E^DE | "A7"gfe dcB | ABA GFE
+| "D"D3 A,3 | F3 D3 | A3 FDF | d2c B2A
+| "Em"G2G GAB | "A7"E2E EFG | e<ge cAc | "D"d3- d2 ||
+|A,
+| "D"DA,D FDF | AFA dcd | DFA dcd | "Em"g2g B3
+| "A7"gec AGE | GEC A,3 | gfe dcB | ABA GFE
+| "D"DA,D FDF | AFA dcd | DFA dcd | "Em"g2g B3
+| "(G)"G2G GAB | "A7"E2E EFG | e<ge cAc | "D"d3- d2 ||

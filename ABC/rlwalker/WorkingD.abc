@@ -1,0 +1,42 @@
+%Scale the output
+%%scale 1.05
+%%format dulcimer.fmt
+%%continueall
+X: 1
+T:He's Still Workin' On Me
+C:Joe Hemphill
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+K:D%(D, C)
+V:1 clef=treble
+|"D""^Chorus"A A "B7"B3/4A/4 G3/4F/4|"Em"G3 z3/4 G/4|"A7"G G A3/4G/4 F3/4E/4
+w:4 4 5 4 3 2 3 3 3 3 4 3 2 1
+w:He's still work-in' on_ me to make me what I ought to
+|"D"F3 z3/4 F/4|A3/4A/4 A3/4A/4 "B7"B3/4A/4 G3/4F/4|"Em"G3/4F/4 G3/4F/4 E z3/4 F/4
+w:2 2 4 4 4 4 5 4 3 2 3 2 3 2 1 2
+w:be It took Him just a week to make the moon_ and the stars, The
+|"A7"G G3/4G/4 A G|"D"F3/4E/4 F3/4E/4 D z3/4 A/4
+w:3 3 3 4 3 2 1 2 1 0 4
+w:sun and the earth and Ju-pi-ter and Mars. How
+|A A3/4A/4 "B7"B3/4A/4 G3/4F/4|"Em7"G3 z|"D"F F "A7"E3/4D/4 E
+w:4 4 4 5 4 3 2 3 2 2 1 0 1
+w:lov-ing and pa-tient He must be! He's still work-in' on
+|1,2 "^To Verses""D"D3|3 "^Fine""D"D4-|D3 z||
+w:0 0 0
+w:me. me_._
+|"^Verses"A,3/4A,/4|"D"F3/4^E/4 F3/4E/4 F z3/4 A,/4
+w:4 4 2 1 2 1 2 4
+w:1~There_ real-ly ought to be a
+w:2~In the mir-ror of His Word re-
+|"A"E3/4^D/4 E3/4D/4 E3/2 z|"Em"E3/4E/4 E3/4D/4 "A7"E3/4E/4 E3/4F/4
+w:1 0 1 0 1 1 1 1 0 1 1 1 2
+w:sign up-on  my heart: Don't_ judge me yet,_ There's an
+w:flec-tions that I see. Make me won-der why He nev-er
+|"D"D D3/4B,/4 A,/2 z A,3/4A,/4|A3/4A/4 A3/4A/4 B3/4A/4 G3/4F/4
+w:0 0 5 4 4 4 4 4 4 4 5 4 3 2
+w:un-fin-ished part!" * But I'll_ be_ per-fect just ac-
+w:gave up on me. But He loves me as I am__ and
+|"Em"G3/4F/4 G3/4F/4 E z3/4 E/4|"D"F3/4^E/4 F3/4D/4 "A7"=E3/4^D/4 E3/4F/4|"D"D3 z||
+w:3 2 3 2 1 1 2 1 2 0 1 0 1 2 0
+w:cord-ing to His plan, * fash-ioned by the Mas-ter's lov-in' hand.
+w:helps me when I pray. re-mem-ber He's the Pot-ter, I'm the clay.

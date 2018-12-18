@@ -1,0 +1,20 @@
+%Scale the output
+%%scale 1.35
+%%format dulcimer.fmt
+%%stretchlast 1
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+X:1
+T:Turkey in the Straw
+C:Traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:G    %(D, C)
+|:BA
+|"G""^Part A"G2 GG GDB,C|D2 DD D2 GA|B2 BB BAGA|"D"B2 A2 A2 BA
+|"G"G2 GG GDB,C|D2 DD D2 GA|B2 d2 dBGA|"D"B2 A2 "G"G4:|
+|"G""^Part B"B d2 B d2 dd|B d2 B d4|"C"c e2 c e2 ee|c e2 c e2 ef
+|"G"g2 gg d2 dd|B BB "D"A2 G2|"G"B2 d2 dBGA|"D"B2 A2 "G"G2 z2||

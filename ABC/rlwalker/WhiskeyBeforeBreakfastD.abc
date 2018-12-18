@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.15
+%%format dulcimer.fmt
+X:1
+T:Whiskey Before Breakfast
+C:Traditional
+M:4/4
+L:1/8
+P:Play AAB
+K:D
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+P:A
+|:"D"DEFG A2 AA|ABAG FE D2|"G"G2 GG "D"F2 FF
+|1 "A"E2 EF GF E2:|2 "A"EF E2 "D"D4||
+P:B
+|:"D"A2 d2 d2 de|f2 e2 d2 A2|"Em"B2 e2 e2 ef|
+|"A"g2 f2 e2 ee|"D"d2 dd "A"c2 cc|"G"B2 BB "D"A2 AA|
+|"G"G2 GG "D"F2 FF|1 "A"EF E2 "D"D2 DD:|2 "A"EF E2 "D"D4||

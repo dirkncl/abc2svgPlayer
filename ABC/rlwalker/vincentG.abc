@@ -1,0 +1,59 @@
+%Scale the output
+%%scale 0.91
+%%format dulcimer.fmt
+X:1
+T:Vincent (Starry, Starry Night)
+C:Don McLean, 1971, 1972
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:G    %(D, C)
+|:DEG"^to coda after 3"A|"G"B4- "C"B4|"G"z4 BAGE\
+w:1~Star-ry, star-ry night,_ paint your pa-lette
+w:2~Star-ry, star-ry night,_ flam-ing  flow'rs that
+w:3~Star-ry, star-ry night,_ por-traits hung in
+|"Am"AB E6|z4 BAGE|"C"AB E4  z F\
+w:blue and grey,  look  out on a  sum-mer's day, with
+w:bright-ly blaze, swirl-ing clouds in vio-let haze re-
+w:emp-ty halls, frame-less heads on name-less walls, with
+|"D7"GFED EFGA|"G"B2 z2 DEGA|"G"B4- "C"B4\
+w:eyes that know  the  dark-ness in my soul. Sha-dows on the hills,_
+w:flect in Vin-cent's eyes of  Chi-na clue, Co-lors chang-ing hue,_
+w:eyes that watch the world and can't for-get. Like~the~stran-gers that you've met,_
+|"G"z4 BA GE/2E/2|"Am"AB E6|z4 BA GE/2E/2\
+w:sketch the trees and the daf-fo-dils, catch the breeze and the
+w:morn-ing fields of_ am-ber grain. wea-thered fa-ces_
+w:the~rag-ged men in_ rag-ged clothes, the~sil-ver thorn of_
+|"C"AB E4 z F|"D7"GFED EFGA|"G"G4- "C"G4\
+w:win-ter chills, in co-lors on the  snow-y lin-en land._
+w:lines in pain,  are  soothed be-neath the art-ist's lov-ing hand._
+w:blood-y rose, lie crushed and  bro-ken on the vir-gin show._
+|"G"z4 GABG|"Am"A8|\
+w:Now I un-der-stand
+w:Now I un-der-stand
+w:Now I think I know
+|"D7"z4 ABcd
+w:what you tried to
+|"G"B3 B B4|"Em"z2 Bc  BAGE|"Am7"BA A6\
+w:say to me, how you suf-fered for your sa-ni-ty,
+|"D7"z2 AA ABcA
+w:how you tried to set them
+|"Em"BBBc BAG"^To Coda"E|\
+w:free. They would not  lis-ten, they did
+w:* * * * * * 3~they're not
+|"A7"A2 BE-E4
+w:not know how,_
+|"Am7"z2  z D "D7"FGAF|1 "G"G8-|G4:|\
+w:per-haps they'll list-en now._
+|2 "G"G2 GG A2 B2|"Am7"B2 A6|"D7"z DAA B2 c2\
+w:now. For they could not love you,  but  still  your love was
+|"G"d8|"Em"z2 B2 c2 d2|"Am7"eddc c/2B/2 B c2\
+w:true, and when no hope was left in sight_ on that
+|"Cm6"_eddc d2 z e|"G"dccB "F7"BGAB|"E7"B6 BB\
+w:star-ry, star-ry night, you took your  life as lov-ers of-ten do;  but I
+|"Am7"cBBA AB z B|"C"cBBA AGFG\
+w:could have told you, Vin-cent, this world was nev-er meant for one as
+|"D7"z2 BA G2 F2|"G"G4- "C"G4|"G"z4:|\
+w:beau-ti-ful as you._
+|"A7"!coda!G E2 B-B4|"Am7"z2 z E FGAB|"D7"d8-|"G"!fermata!d4||
+w:list-'ning still,_ per-haps  they nev-er will._

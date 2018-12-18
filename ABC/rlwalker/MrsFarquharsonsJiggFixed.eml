@@ -1,0 +1,38 @@
+From: owner-abcusers@argyll.wisemagic.com on behalf of John Chambers
+[jc@trillian.mit.edu]
+Sent: Wednesday, June 09, 2004 11:47 AM
+To: abcusers@argyll.wisemagic.com; abcusers@argyll.wisemagic.com
+Subject: Re: [abcusers] What software will translate this correctly?
+
+| I just completed a transcription of Robert Petrie's 1st tunebook 
+| (Scottish, 1790), which has parts for violin and cello.  I wrote the 
+| code using Phil Taylor's BarFly, on which this reads and plays 
+| correctly, but it appears that a lot of other abc software can't 
+| handle the multiple voices.  Below is a sample tune; I'd be interested 
+| to know what other readers and midi players can handle this code, 
+| especially any PC software (for reference, the 2nd note in the 3rd 
+| staff bass line is middle C).  Thanks for any help, or suggestions for 
+| improving the portability of this code! -Steve
+
+I tried it with the original abc2ps,  Jef  Moine's  abcm2ps,  and  my
+jcabc2ps.   They  all  handled it.  The original abc2ps had two minor
+problems: It doesn't accept V: lines in  the  header  section,  so  I moved  them  to after the K: line.  And it can't handle the spaces in the "name = " term, so I removed them.  The result looked like:
+
+X:2
+T:Mrs. Farquharson's Jigg or Quick Step
+C:Robert Petrie
+S:Petrie's Collection of Strathspey Reels and Country Dances &c., 1790 Z:Steve Wyrick <sjwyrick'at'astound'dot'net>, 3/20/04 N:Petrie's First Collection, page 2
+L:1/8
+M:6/8
+R:Jig
+K:Cm
+V:1 name="violin"
+V:2 name="bass" clef=bass middle=d transpose=-24 [V:1] G|(Tc=Bc) GEC|(Tc=Bc) edc|(Tc=Bc) G=A_B| FGE DCB, |
+[V:2] z|C3      E3 |  F3    G3 | c3     e3   | d2f b2B  |
+...
+
+This worked without problems in all three abc2ps clones.  There  were some  warnings about the unrecognized "transpose" term, but that's to be expected from a program  that  doesn't  produce  pitches,  and  it didn't  effect  the output at all.  All three programs produced pages that look identical.
+
+Actually, the original abc2ps doesn't implement the middle= term, and it gave a warning about that.  But it assumes middle=d for bass clef, so it worked. Jef and I have both implemented it. Tunes that expect a different  mapping  than  middle=d for bass come out strange with the original abc2ps.  Lots and lots of leger lines ...
+
+To subscribe/unsubscribe, point your browser to: http://www.tullochgorm.com/lists.html

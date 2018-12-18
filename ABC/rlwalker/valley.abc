@@ -1,0 +1,23 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Little Green Valley (Down in the)
+C:Carson J Robison
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|"D"F F/2E/2 D/2E/2 F|"G"G G/2D/2 B,/2D/2  G
+w:C~I see a can-dle-light down in the  Lit-tle Green
+w:1~I hear a mock-ing-bird down in the Lit-tle Green
+|"D"F F D D|z F F F|"A7"F/2 E E/2-E F|"A+"G F F ^E|"D"F D C B,
+w:Val-_ley,_ Where morn-ing glo-ry vines_ are twi-ning 'round the door;___
+w:Val-_ley,_ He's sing-ing out a song_ of wel-come just for me;___
+|A, D "A7"E ^E|"D"F F/2E/2 D/2E/2 F|"G"G G/2D/2 B,/2D/2 G|"D"F D D D
+w:_Oh how I wish I was there a-gain, down in the Lit-tle Green Val-_ley;_
+w:_And some-one waits by the gar-den gate down in the Lit-tle Green Val-_ley;_
+|z F "D+"F F|"A7"F E E F|G/2 F F/2-F E|"D"z D2 D|D "D7"D E F
+w:For then my home-sick heart would trou-ble me_ no more;___ There's on-ly
+w:When I get back a-gain, how hap-py she_ will be.___ And by a
+
+

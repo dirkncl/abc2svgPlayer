@@ -1,0 +1,31 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%barsperstaff 6
+X:1
+T:He's Still Workin' On Me
+C:Joe Hemphill
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%%staves [1 2 3 4]
+K:Eb   %(D, C)
+V:1 clef=treble
+|"Eb"B B "Ab"c3/4"Eb"B/4 A3/4G/4|"Bb7"A3 z3/4 A/4|"Fm"A A "Bb7"B3/4A/4 G3/4F/4
+w:4 4 5 4 3 2 3 3 3 3 4 3 2 1
+w:He's still work-in' on_ me to make me what I ought to
+V:2 clef=treble
+|G G A3/4G/4 F3/4E/4|F3 z3/4 F/4|F F G3/4F/4 D3/4D/4
+V:3 clef=bass
+|E E E3/4E/4 B,|D3 z3/4 D/4|C C D3/4C/4 B,3/4B,/4
+V:4 clef=bass
+|E, E, E,3/4E,/4 E,|B,,3 z3/4 B,,/4|F, F, B,,3/4B,,/4 B,,3/4B,,/4
+V:1
+|"Eb"G3 z3/4 G/4|B3/4B/4 B3/4B/4 "Ab"c3/4"Eb"B/4 A3/4G/4|"Fm"A3/4G/4 A3/4G/4 "Fm"F z3/4 G/4
+w:2 2 4 4 4 4 5 4 3 2 3 2 3 2 1 2
+w:be It took Him  just a week to make the moon_ and the stars,  The
+V:2
+|E3 z3/4 E/4|G3/4G/4 G3/4G/4 A3/4G/4 F3/4E/4|F F C z3/4 E/4
+V:3
+|B,3 z3/4 B,/4|E3/4E/4 E3/4E/4 E3/4E/4 B,3/4B,/4|C3/4=B,/4 C A, z3/4 A,/4
+V:4
+|E,3 z3/4 E,/4|E,3/4E,/4 E,3/4E,/4 E,3/4E,/4 E,3/4E,/4|A,, A,, F,  z3/4 C,/4

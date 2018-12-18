@@ -1,0 +1,15 @@
+%%scale 1.2
+%%format dulcimer.fmt
+X: 1
+T:Westphalia Waltz
+M:3/4
+L:1/4
+K:G
+|D|:"G"G2 A|"Bm"B2 e|"Em"d3-|"G"d2 D
+|G2 A|B3/2 c/2 d|"D"F3-|F2 D|F2 G
+|A2 g|"D7"f3-|f2 e|1d2 ^c/2d/2|e d c
+|"G"B3-|B2 D:|2d2 B|c B A|"G"G3-|G2 z||
+|:"G"g3/2 z/2 (3ggg|"Bm"f3/2 z/2 (3fff|"Em"e f g|"G"B3
+|B A G|B A G|"Am"c3-|"D7"c3|"Am"e3/2 z/2 (3eee
+|"D7"e3/2 z/2 (3eee|"Am"e f g|"D7"f2 e|1d2 d|e d c
+|"G"B3-|B3:|2d A B|c B A|"G"G D B,|G,2||

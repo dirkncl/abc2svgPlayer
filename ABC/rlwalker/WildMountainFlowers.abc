@@ -1,0 +1,36 @@
+%Scale the output
+%%scale 1.2
+%%format dulcimer.fmt
+X:1
+T:Wild Mountain Flowers For Mary (I Picked)
+C:Alan Mills (?)
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:G    %(D, C)
+|"^Verses"D E "D"F2|F F F2|D F "A"F E-|E4
+w:1~We grew up liv-ing close to each o-ther_
+w:2~Her~dad-dy died_ when she~was  ve-ry young__
+w:3~Now my days~of youth are gone~and I'm so hap-py_
+|E F G2-|G G A2|A G "D"F2-|F4
+w:Went to  school_ and played side by side._
+w:And she  ne-_ver knew~the love of~a man_
+w:And my time is-n't very far a-way_
+|F G A2|A A A A|F A "G"A G-|G4
+w:And I  longed  for the day when I would  ask her_
+w:I~tried so hard_ to make_ her_ hap-py_
+w:I~picked some wild moun-tain flow-_ers for Ma-ry_
+|z D "D"F2-|F G "A"F2-|F E "D"D2-|D3||
+w:If she_ would be_ my bride._
+w:And tried~to make her mother un-der-stand._
+w:And placed_ them on~her  grave to-day._
+|D
+w:C~I
+|"^Chorus"D E "D"F2|F F F2|D F "A"F E-|E4
+w:picked some wild moun-tain flow-ers for Ma-ry._
+|E F G2|G G A2|A G "D"F2-|F4
+w:and I told her I loved her to-day._
+|F G A2-|A A A2|F A "G"A G-|G4
+w:but she said_ we ne-ver could mar-ry_
+|D E "D"F2|F G "A"F2|E E "D"D2-|D4||
+w:That her mo-ther would stand in the way._ 

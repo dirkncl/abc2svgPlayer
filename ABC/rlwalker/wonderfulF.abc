@@ -1,0 +1,36 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:What a Wonderful World
+C:George David Weiss and Bob Thiele
+M:4/4
+L:1/8
+%%score (V1)
+V:1 clef=treble name="Melody"
+K:F
+|CE
+w:I see
+|"F"F3 A "Am"c4
+w:trees of green,
+|"Bb"z d d d "Am"c4|"Gm7"z B B B "F"A4|"A7"z G G G "Dm"F2- (3F F F
+w:red ros-es too, I see them bloom for me and  you,_ and I
+|"Db"F2- (3F F F F4|"Gm7"z2 F F (3"C7"E2 F2 G2|"F"A4- "F+5"A4-|"Bbmaj7"A4 "C7"z2 C E
+w:think_ to my-self what a wond-der-ful world.__ I see
+|"F"F3 A "Am"c3 c|"Bb"d3 d "Am"c3 c|"Gm7"b2- (3b b b "F"A3 A
+w:skies of blue and clouds of white, the bright_ bles-sed day, the
+|"A7"G2- (3G G "Dm"F2- (3F F F|"Db"F2- (3F F F F4|"Gm7"z2 F F (3"C7"E F G
+w:dark- sac-red night,_ and I think_ to my-self what a won-der-ful
+|"F"F4- "Bb"F4-|F4 "F"z2 F2|"C7"G G G G G C2 C
+w:world.__ The col-ors of the rain-bow, so
+|"F"B A A ^G A3 F|"C7"G G G G G C2 G|"F"B A A ^G A A c
+w:pret-ty in the sky are al-so on the fac-es of peo-ple go-in' by, I see
+|"Dm"d2 d d "C"c2- (3c A c|"Dm"d2 d d "C"c4|"Dm"z2 d d d "F#dim"c c3
+w:friends shak-in' hands,_ say-in', "How do you do!" They're real-ly say-in'
+|"Gm7"B2 "F#dim"A2 "C7"G2 C E|"F"F3 A "Am"c3 c|"Bb"d3 d "Am"c4
+w:"I love you." I hear ba-bies cry, I watch them grow.
+|"Gm7"z2 B B B "F"A3 A|"A7"G2- (3G G G "Dm"F2- (3F F F|"Db"F2 (3F F F F4
+w:They'll learn much more than I'll_ ev-er know_ and I think_ to my-self
+|"Gm7"z2 F F (3E F G|"F"A4- "Am7-5"A4|"D7"A2 z2 A2 A2
+w:What a won-der-ful world.__ Yes, I
+|"Gm7"(3A F G F4|z2 F F (3"C7-9"E F G|"F"F4- "Bb6"F4-|!fermata!F4- "F"F4||
+w:think to my-self what a won-der-ful world.___

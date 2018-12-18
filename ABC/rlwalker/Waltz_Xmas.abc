@@ -1,0 +1,60 @@
+%%scale 1.0
+%%format dulcimer.fmt
+
+X: 0
+T: Christmas Waltzes
+K: C
+
+
+X: 1
+P: The Gloucester Wassail
+Z: John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+A2 \
+|  "D"d4    d2 |     d2 e2 f2 | "A7"g2 f2 e2 |  "D"f2 a2 a2 \
+| "Em"g2 e2 e2 | "A7"e2 f2 g2 |  "D"fe de f2 | "A7"e4 g2 |
+|  "D"fe de fg | "A7"a4    ag |  "D"f2 d2 f2 | "A7"e4 de \
+|  "D"f4    ef |  "G"g4    f2 | "A7"e2 d2 c2 |  "D"d4 |]
+
+X: 2
+P: Away in a Manger (The Ash Grove)
+O: Wales
+R: waltz
+M: 3/4
+L: 1/4
+K: G
+D \
+| "G"GGB/A/ | GGD | "C"EGE | "D7"D2D | "G"GGA | "(Em)"BBd | "(A7)"dBG | "D7"A2D |
+| "G"GGB/A/ | GGD | "C"EcE | "D7"D2D | "G"GGA | "(Em)"Bdc | "D7"BDF | "G"G2 |]
+F/G/ \
+| "D"AAd | AAF | "A7"AGE | "D"D2F/G/ | AAd | AAF | "A7"G/F/ G/A/ B/^c/ | "D"d"D7"e2 |
+| "G"dBB/A/ | GGD | "C"EcE | "D7"D2D | "G"GGA | "(Em)"Bdc | "D7"BDF | "G"G2 |]
+
+X: 3
+P: What Child is This? (Greensleeves)
+N: Also played as a jig
+M: 3/4
+L: 1/4
+K: Edor
+E \
+| "Em"G2"(Am)"A | "Em"B>cB | "D"A2F | "(Bm)"D>EF \
+| "Em"G2E | "(C)"E>^DE | "B7"F2^D | B,2E |
+| "Em"G2"(Am)"A | "Em"B>cB | "D"A2F | "(Bm)"D>EF \
+| "C"G>FE | "B7"^D>^CD | "Em"E3 | E3 |]
+[| "G"d3 | d>cB | "D"A2F | "(Bm)"D>EF \
+| "Em"G2E | "(C)"E>^DE | "B7"F2^D | B,3 |
+|  "G"d3 | d>cB | "D"A2F | "(Bm)"D>EF \
+| "Em(C)"G>FE | "B7"^D>^CD | "Em"E3 | E2 |]
+
+X: 4
+P: We Wish You A Merry Christmas
+C: Trad. English
+S: Ted Neil <ted.neil@amd.com> abcusers 2002-12-15
+M: 3/4
+L: 1/4
+K: G
+D | "G"G G/A/ G/F/ | "C"E E E | "A7"A A/B/ A/G/ | "D"F D D | "B7"B B/c/ B/A/ | "Em"G E E/E/ | "C"E A "D7"F | "G"G2 ||
+D | "G"G G G | "D"F2 F | "C"G F E | "D"D2 B | "D"c B A | "G"d D D/D/ | "C"E A "D7"F | "G"G2 |]
+

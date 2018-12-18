@@ -1,0 +1,60 @@
+%Scale the output
+%%scale 1.1
+%%format dulcimer.fmt
+X:1
+T:Victory In Jesus
+C:Words and Music: E.M. Bartlett, 1939
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:G    %(D, C)
+|G
+w:I
+|:"G""^Verses"B3/4B/4 B2 B|"C6"A "G"G2 G/2G/2\
+w:1~heard and old,  old sto-ry, how a
+w:2~heard a-bout His heal-ing, of His
+w:3~heard a-bout a man-sion He has
+|"C"A3/4G/4 G2 G|"C"E "G"D2 D/2D/2\
+w:Sav-ior came from glo-ry, How He
+w:clean-sing pow'r re-veal-ing, How He
+w:built for me in glo-ry, And I
+|"Em"G3/4G/4 G2 "D"A|"G"B3/4A/4 "Em"G2 G\
+w:gave His life on Cal-va-ry to
+w:made the lame to walk a-gain and
+w:heard a-bout the streets of gold be-
+|"A7"A3/4A/4 A2 B|"D"A3 G\
+w:save a wretch like me. I
+w:caused the blind to see. And
+w:yond the crys-tal sea, A
+|"G"B3/4B/4 B2 B|"C6"A "G"G G/2G/2\
+w:heard a-bout His groan-ing, of His
+w:then I cried, "Dear Je-sus, come and
+w:bout the an-gels sing-ing, and the
+|"C"A3/4G/4 G2 G|"C"E "G"D2 D\
+w:pre-cious blood's a-ton-ing, Then
+w:heal my bro-ken spir-it," And
+w:old re-demp-tion sto-ry, And
+|"Em"G G G "D"A|"G"B "B7"A "Em"G "G7"G\
+w:I re-pent-ed of my sins and
+w:some-how Je-sus came and brought to
+w:some sweet day I''ll sing up there the
+|"C6"A A "G"G "D"F|"G"G3||\
+w:won the vic-to-ry.
+w:me the vic-to-ry.
+w:song of vic-to-ry.
+|B
+w:O
+|"^Chorus"d3/4d/4 d2 e\
+w:vic-to-ry in
+|B G2 "G7"B|"C"A G2 G|"C"E "G"D2 D\
+w:Je-sus, my Sav-ior for-ev-er. He
+|"Em"G G2 "D"A|"G"B G2 B|"A7"B A A B\
+w:sought me and bought me with His re-deem-ing
+|"D"A3 B|"G"d3/4d/4 d2 e|B G2 "G7"B\
+w:blood. He loved me ere I knew Him, and
+|"C"A3/4G/4 G2 G|"C"E "G"D2 D\
+w:all my love  is due Him. He
+|G G2 B|d3/4d/4 d2 G\
+w:plunged me to vic-to-ry be-
+|B "C6"A "G"G "D"F|1,2 "G"G3 G:|3 "G"G3 z||
+w:neath the clean-sing flood. I flood.

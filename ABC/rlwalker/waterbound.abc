@@ -1,0 +1,28 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Waterbound
+C:Traditional
+M:4/4
+L:1/8
+K:D
+N:AAB (B is instrumental)
+V:1 Clef=Treble
+|:A"D""^PART A"F2 E2 (DE)DE|F2 E2 D4|"A"E2 (GB) E2 (GB)|(ED) B,2 A,4|"D"A,2 D2 D2 EE
+w:1~Wat-er Bound_ And I Can't Get home. Wa-ter Bound and I_ can't_ get home. Wa-ter Bound and I
+w:2~Chick-ens crow-in' In the old plowed field. Chick-ens_ crowin' in the old_ plowed field. Chick-ens crowin' in the
+w:3~Nick and Char-lie left_ to go home. Nick and_ Char-lie_ left to go home. Nick and Char-lie_
+w:4~The old man's_ mad, but I don't care. The old_ man's mad,_ but I don't care. The old man's mad but
+w:5~If~he don't give her up, we're gonna run~a-way. If~he don't_ give~her up, we're gon-na run~a-way. If~he don't give~her up, we're
+|F2 A2 "G"B4|"D"AB AF ("A7"AF) E2|"D"D4 D4:|
+w:can't get home. Way down in North Car-_o-lin-a.
+w:old plowed field. Way down in South Car-_o-lin-a.
+w:left~to go home. Be-_fore the Wa-_ter ri-ses.
+w:I don't care. I'm_ going to mar-ry his daugh-ter.
+w:gonna run~a-way. Down_in North Car-_o-lin-a.
+|:"G""^PART B"dA dd cA cd|BA F2 A4|"D"EFFA FBdA|BA F2 D4
+|"G"dA dd cA cd|dA dd cA cd|"D"BABA "A"AA FE|1"A"D4 D4:|2"D"D4 D4||
+|:"^PART A"F2 E2 D4|F2 E2 D4|E2 EE F2 E2|D2 B,2 B,4|A,2 B,2 D2 DD
+|F2 A2 B2 BB|A2 AA F2 E2|D4 D4:|
+|:d2 dd d2 A2|B2 B2 A4|F2 FF F2 A2|B2 B2 A4|d2 dd d2 A2
+|B2 B2 A4|B2 A2 F2 E2|1D4 D4:|2D4 "^Fine"D4||
