@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Softly The Night Is Sleeping
+Z: J. M Crament
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=70
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  F3/4 ^E/4 F/ (A3/4 G/4) F/ | (F =E/) E F/ | G3/4 A/4 B/ c A/ | (A3/ A)z/ | d3/4 c/4 B/ (A3/4 G/4) F/ | (B E/) (E3/4 D/4) G/ | F B/ G G/ | (A3/ A) A/ | (=c/ B/4) A/ (G3/4 F/4) G/ | (_B3/4 A/4) G/ (F D/) | d c/ (B/ f/) e/ | (d3/ c)z/ | d3/4 c/4 B/ c A/ | B3/ Az/ | d3/4 c/4 B/ c d/ | (^d3/ e3/) |"^Chorus" f3/4 f/4 e/ d c/ | e d/ (c B/) | A3/ A3/ | (e3/ e) d/ | c3/ B3/ | (A3/ A)z/ D/ | D3/z/ (A ^A/) | (B3/ e3/ | e3/) c3/ | (d3/ d)z/|]
+w: Soft- ly the night_ is sleep-_ ing, On Beth- le hem’s peace- ful hill_ Si- lent the shep-_ herds watch-_ ing,_ The gen- tle flocks are still;_ But hark!_ The won-_ drous mu-_ sic Falls_ from the op-_ ’ning sky_ Val- ley and cliff re- e cho Glo- ry to God on high!_ Glo- ry to God it rings a- gain,_ Peace on earth,_ good will to men,_ Good will, good_ will__ to men._
+

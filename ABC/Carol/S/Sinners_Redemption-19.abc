@@ -1,0 +1,31 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Sinner's Redemption
+Z: English Traditional from Cecil Sharp
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/2
+Q: 1/4=115
+V: P1 name="Violin"
+%%MIDI program 1 40
+V: P2 name="Upper Grand Staff 1"
+%%MIDI program 2 0
+V: P3 name="Upper Grand Staff 2"
+%%MIDI program 3 0
+V: P4 name="Lower Grand Staff 1"
+%%MIDI program 4 0
+V: P5 name="Lower Grand Staff 2"
+%%MIDI program 5 0
+K: Bb
+[V: P1] zz2 |z2z2z F | D D B2 A G | F G D3 A | B c d2 G F | G A B3 c | d d c2 (B3/ G/) | F A (D/=E/ F2) E | D C F3 G | A B G3|]
+w: All you that are un- to mirth in- clined, Con- si der well and do bear in mind What our great God for_ us hath done__ In send- ing His be- lov ed Son.
+[V: P2] zz2 | [G3B3] [(D(B] [CA] [A,F] | [B,)D)] (C D G [CA] [DB] | [Fd] [=EB] F G E) [(D(F] | [B,G] [CA] B c [Gd] [FA] | [DB] [FA] G3) [(C(F(A] | [B,2D2B2] [C2)F2)A2)] [(B,2(D2(G2] | [A,2D2F2] D/=E/ F2) (E | D C F2 D =E | F2 D3)|]
+[V: P3]  [(B(d] [Ac] [A)d)] |z2z2z2 |zz B,4 |zz B,3z |zz D2zz |zz (D2 C)z |z2z2z2 |z2 (D2 C) (B, | B,2 A,2 B,2 | A,2 B,3)|]
+[V: P4] zzz |z2z2z2 | G, D, G,4 | A, G, A, B, G, A, | G,4zz | z4z2 | [B,,,2B,,2] [F,,,2F,,2] [G,,,2G,,2] | [D,,2D,2] (B,, B, A,) G, | G,2 F,3 G, | [(F,,2(C,2(F,2] [G,,3)G,3)]|]
+[V: P5] zz2 |z (D, G,4) | G,,6 | (D,4 D,) D, | G,,3 A,, B,, D, | G, D, [(G,2(B,2] A,) F, | z4z2 | z4z2 | F, =E, D, C, B,,2 |z2z3|]
+

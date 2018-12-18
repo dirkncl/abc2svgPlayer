@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Saw You Never In The Twilight
+Z: Arranged by Burnap from Shultze
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: E
+[V: P1]  G3/ F/ | E3/ D/ | (E/ F/) (G/ A/) | G F | G3/ A/ | B3/ A/ | G E | F2 | G3/ F/ | E3/ D/ | (E/ F/) (G/ A/) | G F | G3/ A/ | B3/ A/ | (G/ F/) (E/ D/) | E2 | c3/ d/ | e3/ c/ | (B/ G/) (F/ E/) | G F | B3/ G/ | c3/ d/ | (e/ c/) (B/ G/) | F2 | G3/ F/ | E3/ D/ | (E/ F/) (G/ A/) | G F | G3/ A/ | B (c/ e/) | G F | E2|]
+w: Saw you nev- er, in_ the_ twi- light, when the sun had left the skies, Up in heav'n the clear_ stars_ shin- ing through the gloom, like sil-_ ver_ eyes? So of old the wise_ men,_ watch- ing, saw a lit- tle stran-_ ger_ star, And they knew the King_ was_ giv- en, and they fol- low'd_ it from far.
+

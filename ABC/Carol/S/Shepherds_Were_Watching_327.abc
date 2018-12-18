@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Shepherds Were Watching
+Z: E. W. S. Watson
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A | d c B | A F A | d c B | A2 A | B G B | A F F | E B c | A2"^Chorus" (F/E/) | D D (A/G/) | F F (d/c/) | B B d | A2 A | d c B | A F D | E E F | E2 (F/E/) | D D (A/G/) | F F (d/c/) | B B d | A2 A | d c B | A F (D/E/) | F F E | D2|]
+w: The shep- herds were watch- ing Their flocks in the night, When pearl- y wings scat- tered The dark- ness with light. O_ an- gels of_ glo- ry, Come,_ sing once a- gain, That won- der ful sto- ry, Good will un- to men. O_ an- gels of_ glo- ry, Come_ since once a- gain, That won- der ful sto- ry, Good_ will un- to men.
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Shepherds, In The Fields Abiding
+Z: French or Flemish Melody, Harmonized by C.W.
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  B (B/A/) | B d | d3/ c/ | B G | B (B/A/) | B d | d3/ c/ | B2 | B B | B (B/c/) | d3/ c/ | B G | B (B/A/) | B d | d3/ c/ | B2 | (d2 | e/d/c/B/ | c2 | d/c/B/A/ | B2 | c/B/A/G/ | A3/) A/ | D2 | G A | B c | B2 | A2 | (d2 | e/d/c/B/ | c2 | d/c/B/A/ | B2 | c/B/A/G/ | A3/) A/ | D2 | G A | B c | (B2 | A2) | G2|]
+w: Shep- herds_ in the field a- bid ing, Tell us,_ when the Se- raph bright Greet- ed you with_ won- drous tid- ing What you_ saw and heard that night. Glo-_______________ ri a in ex- cel sis De- o. Glo-_______________ ri a in ex- cel sis De-_ o.
+[V: P2]  G (G/F/) | G G | G G | G D | G (G/F/) | G (G/F/) | (E/F/) G | G2 | D E | D D | G G | G D | G E | D G | G F | G2 | (G2 | ^G E | E2 | D F | D2 | C D | D) ^C | D2 | D F | (G/F/) E | D2 | D2 | (G2 | ^G E | E2 | D F | D2 | C D | D) ^C | D2 | D F | G A | A G | G F | G2|]
+[V: P3]  D D | D (B,/C/) | D E | D (B,/C/) | D D | D G, | G, E | D2 | G, G, | F, (G,/B,/) | D E | D (B,/C/) | D C | (G,/A,/) (B,/C/) | D D | D2 | (B,2 | B, E/D/ | C/B,/A,/G,/ | A, D/C/ | B,/A,/G,/F,/ | G, G, | E,/F,/) G,/A,/ | F,2 | G, D/C/ | B,/A,/ G, | (G, F,/E,/) | F,2 | (B,2 | B, E/D/ | C/B,/A,/G,/ | A, D/C/ | B,/A,/G,/F,/ | G, G, | E,/F,/) G,/A,/ | F,2 | G, D/C/ | B,/D/ E | (D2 | D3/ C/) | B,2|]
+[V: P4]  G,, D, | B,,/A,,/ G,,/A,,/ | B,, C, | G,/A,/ B,/A,/ | G, D, | B,,/A,,/ B,, | C, E, | G,2 | G, E, | B,, G,, | B,, C, | G,/A,/ B,/A,/ | G, C, | B,,/A,,/ G,,/A,,/ | B,,/C,/ D, | G,2 | (G, =F, | E, ^G, | A,/=G,/F,/E,/ | F, D, | G,/F,/E,/D,/ | E, B,, | A,,) A,, | (D, C,) | B,,/C,/ B,,/A,,/ | G,, C, | D,2 | D,2 | (G, =F, | E, ^G, | A,/=G,/F,/E,/ | F, D, | G,/F,/E,/D,/ | E, B,, | A,,) A,, | (D, C,) | B,,/C,/ B,,/A,,/ | G,, C, | (D,2 | D,2) | G,,2|]
+

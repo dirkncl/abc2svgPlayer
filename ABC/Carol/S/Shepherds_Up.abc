@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Shepherds, Up!
+Z: Traditional Austrian
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/8
+Q: 1/4=40
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  (E/G/) G/ | (G/A/) B/ | (A/G/) A/ | G (F/4 E/4) | (D/E/) E/ | (F/G/) A/ | G3/ | Fz/ | E/ G/ G/ | (G/A/) B/ | (A/G/) A/ | G (F/4E/4) | (D/F/) F/ | (F/G/) A/ | G3/ | Fz/[|: F/ D/ F/ | G/ E/ G/ | A/ F/ c/ | Bz/ | c/ A/ c/ | B/ G/ B/ | A/ G/ F/ | E3/ :|]|] Z 
+w: Shep-_ herds, up,_ your watch_ to take! Your_ time_ of sleep_ is end- ing, For the Good Shep-_ herd is_ a- wake, His_ earth-_ ly flock_ at- tend ing. Haste to the man- ger, to Mary, so mild, Come and adore Him, the heav- en ly Child!__
+

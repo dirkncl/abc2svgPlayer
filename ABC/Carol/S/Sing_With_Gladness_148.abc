@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sing With Gladness!
+Z: Mr. G. B. Lissant
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B (c/ B/) (A/ G/) A | A (c/ B/) A G | G B A d | ^c (d/ c/) B2 | (d/ F/) (A/ ^G/) B A | (c/ E/) (G/ F/) A G | F E A G | F3/ E/ D2 | d F A ^G | B E c2 | c E F G | B2 A2 | G4|]
+w: Sing with_ glad-_ ness! sing the_ sto- ry! How the Son of Ma- ry_ blest Made_ the_ rich- es of_ His_ glo- ry In His Mer- cy man- i fest; Bring- ing heal- ing from on high To the sick and suff'- ring nigh.
+

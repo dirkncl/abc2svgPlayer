@@ -1,0 +1,37 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Husbandman and Servingman
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=85
+V: P1 name="Staff-1"
+%%MIDI program 1 57
+V: P2 name="Staff-2"
+%%MIDI program 2 58
+V: P3_1 name="Right Hand"
+V: P3_2
+%%MIDI program 3 0
+V: P4_1 name="Left Hand"
+V: P4_2
+%%MIDI program 4 0
+K: G
+[V: P1] z/ |z2 |z2 |z2 |z3/ G/ | B3/4 A/4 G/ F/ | G3/ G/ | A3/4 A/4 A/ A/ | B B/ A/ | G F | (E/F/G/) A/ | (B2 | B) (B/ c/) | d3/4 c/4 B/ A/ | G G | A/ G/ A/ B/ | B3/ A/ | (B3/4 c/4) B/ A/ | G F | Ez |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |zz/ B/ | B/ B/ B/ B/ | g3/ e/ | d/ d/ d/ d/ | d3/ B/ | (c/ d/) e/ c/ | B A | Gz |zz/|]
+w: Well met my bro- ther friend, all at this high- way rid- ing, So sim- ply all__ a- lone,_ I_ pray you tell to me what may your cal- ling be, Or are_ you a serv- ing man? I pray you tell to me what may your cal- ling be, Or are_ you a serv- ing man?
+[V: P2] z/ |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z G, | D,3/4 E,/4 D,/ C,/ | B,,3/ A,,/ | G,,3/4 A,,/4 B,,/ C,/ | D,3/ D,/ | E, E,/ E,/ | D, D,/ C,/ | (B,,2 | B,,)z/ A,,/ | G,,/ G,,/ G,,/ G,,/ | G,3/ E,/ | D,/ D,/ D,/ B,,/ | D,3/ B,,/ | C,/ C,/ C,/ A,,/ | B,, D, | G,,z |zz/ G,/ | G,/ G,/ G,/ G,/ | G,3/ A,/ | D,/ D,/ D,/ D,/ | D,3/ G,,/ | A,,/ B,,/ C,/ A,,/ | D, D, | G,,z |zz/|]
+w: O why my bro- ther dear, what makes you to en- quire Of a- ny such thing at my hand?_ But since you are so fain, then I will tell you plain, I am a down- right hus- band man. But since you are so fain, then I will tell you plain, I am a down- right hus- band man.
+% Extracting voice 1 from part P3
+[V: P3_1]  | B3/4A/4G/F/ | | A3/4A/4A/B/ | | B3/4A/4G/F/ | | | [(B,(D(B] B/) | | E/F/G/[E/A/] | | | | | | [GB] [G/)B/)] [F/A/] | | | | | | (d3/4e/4d/)c/ | | A3/[D/F/A/] | B/A/G/F/ | | d2 | d[E/d/][F/c/] | B3/4A/4G/F/ | G/F/E/[C/G/] | A3/4A/4A/[D/B/] | (A d | c/B/A/[E/G/] | | G2 | | | | | | | | ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | B,2 D2 | | A, E D | | B,2 D2 | | | x1  B, D A/ | | C3/ x0  | | | | | | (B,/C/ D x0  | | | | | | D G D | | (F3/4E/4F/) x0  | B, G B, | | D D/E/ | F/D/ x1  | G D | G3/ x0  | A,3/ x0  | D F D/) F/) D/ | E3/ x0  | | (D B,/C/ | | | | | | | | ||]
+% Extracting voice 1 from part P4
+[V: P4_1]  | | G,3/[B,,/G,/] | | | | G,2 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | B, (G,/A,/) | | | | [F,A,] [(G,/(B,/] [E,/)G,/)] | | [E,G,] [E,G,] | | ||]
+% Extracting voice 2 from part P4
+[V: P4_2]  | | E,3/4D,/4C,/ x0  | | | | B,, B,, | | | | | | | | | | | | | | | | | | | | | | | | | | | | | G,,2 | | | | D,2 x1  | | A,,/B,,/C,/A,,/ | | ||]
+

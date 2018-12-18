@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sanctorum Meritis
+Z: Sarum Melody
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+Q: 1/4=300
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  D2 E2 F2 G2 A (G2 A2) | c2 c2 d2 c2 B A2 | c2 B2 G2 A2 G A2 | D2 E2 F2 G2 A (G2 A2) | (G2 F) G2 A2 c2 B A2 | c2 B2 G2 A2 (G2 A) (E2 D2) | (A2 c) G2 (G2 F2 E D) (F G A2) G2 (F2 E2) D E2|]
+w: Some right- ly ce- le brate_ Thy ho- ly vir- gin fame: Some praise re- nowned and great Thine A- po sto lic name;_ And_ some would thee in- state A- mong the Pro- phet_ Choir:_ Christ's_ Mar- tyr___ doth__ our lays_ in- spire.
+[V: P2]  B,2 C2 C2 D2 F (E2 F2) | E2 F2 F2 G2 G E2 | F2 F2 G2 F2 E F2 | D2 C2 D2 E2 E (E2 F2) | D3 E2 F2 G2 G E2 | G2 G2 E2 E2 C3 (C2 D2) | F3 E2 (D4 A,2) (D E E2) E2 D2 B,2 A, B,2|]
+[V: P3]  G,2 G,2 A,2 B,2 C C4 | A,2 A,2 A,2 C2 D C2 | A,2 D2 C2 C2 C C2 | B,2 G,2 A,2 C2 C C4 | (C2 B,) C2 C2 C2 D C2 | C2 D2 C2 C2 C3 (C2 B,2) | C3 C2 (B,2 A,2 G, F,) (A, C C2) C2 (A,2 G,2) A, ^G,2|]
+[V: P4]  G,2 C,2 A,,2 G,,2 F,, (C,2 F,2) | A,2 F,2 D,2 E,2 G, A,2 | F,2 D,2 E,2 F,2 C, F,2 | G,2 E,2 D,2 C,2 A,, (C,2 F,,2) | (G,,2 D,) C,2 F,2 E,2 G, A,2 | E,2 G,2 C,2 A,,2 (E,2 F,) G,4 | (F,2 A,,) C,2 (G,,2 D,4) (D, C, A,,2) C,2 (D,2 E,2) F, E,2|]
+

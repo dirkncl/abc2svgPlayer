@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Shepherds, Arise! Be Not Afraid
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=336
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  G2 A3/ A/ | B3 (B/c/) | (d c/B/ A) G | A3 (B/c/) | d (c/B/) A G | A2 (G F) | G3 G | (A F) G A | B3/ A/ G B | (d B) (B/A/) G | A3z |z2z (G/A/) | B (B/A/) G G | A3 A | B B d B | (A/B/) (c/B/) A G | A2 (G F) | G4|]
+[V: P2]  (B, D) G F | G3 G | G2 D2 | F3 F | (G2 D) D | E2 D2 | D3 D | (F D) E F | D3 D | (G D) (D E) | F3z |z2z B, | D D B, D | F3 F | G G D G | E E A, E | E2 D2 | D4|]
+[V: P3]  (G, B,) D3/ D/ | D3 (D/C/) | B, (C/D/) C B, | D3 (D/C/) | (D2 D) C | (C B,) A,2 | B,3 B, | (D C) B, A, | (G,3/ A,/) B,z | B,2 (B, ^C) | D3z | z4 |z2z (A,/B,/) | C (C/B,/) A, D | D2 B,2 | (C3/ D/ E) (C/B,/) | (A,/B,/C/B,/ A,) D, | B,4|]
+[V: P4]  G,,2 D, D, | G,3 G, | G,3 G, | D,3 (D/C/) | (B, A,/G,/ F,) G, | C,2 D,2 | G,3 G, | D,2 D, D, | G,3 G, | G,2 G,,2 | D,3 D, | G, G, D, G, | G,3 G, | D,2 D,2 | G,2 G,2 | (C,/B,,/) (A,,/B,,/) C, E, | C,2 D,2 | G,,4|]
+

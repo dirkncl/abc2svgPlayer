@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Shepherd's Song
+Z: T. T. Noble
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G G/ G/ F/ B,/ | B3 | G G/ G/ F/ B,/ | (B3/ B/) B/ c/ | d3/4 d/4 d/ c c/4 c/4 | B/ B/4 B/ d d/4 d/4 | d/ c/ B/ f c/4 c/4 | B/ B/ c/ B B/4 B/4 | e3/4 e/4 e/ d d/4 d/4 | c3/4 c/4 c/ B B/4 B/4 | e3/4 e/4 e/ d d/4 d/4 | c3/4 c/4 c/ B B/4 B/4 | c3/4 c/4 c/ B B/4 B/4 | A3/4 A/4 A/ G =A/ | B B/ c d/ | e e/ f B/ | _d d/ c3/4 B/4 A/ | B3/ B3/|]
+w: Shep- herds five in a ring, Av- e Je- sus! We sing_ Of a ma- rve lous thing, Of a Babe crown- ed King. For a- loft in the height Of this same en- der night Choir- ing an- gels a- brayde Sing- ing “Be not a- fraid, For to yon be it known That He comes to His own, Bring- ing peace up- on earth And good will by this birth, On Christ- mas Day, On Christ- mas Day, On Christ- mas Day in the morn- ing.
+

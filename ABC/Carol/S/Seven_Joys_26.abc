@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Seven Joys of Mary
+Z: Tune Traditional
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=43
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D/ | G G/ G A/ | B A/ G G/ | A A/ F F/ | (G3/ G) D/ | G G/ G A/ | B A/ G G/ | A A/ (F/ E/) F/ | (G3/ G)"^Chorus" G/ | A A/ A A/ | A B/ (c/ B/) A/ | B B/ B A/ | (B c/ d3/ | d3/) (d c/) | B A/ G c/ | B A/ G G/ | A A/ (F/ E/) F/ | (G3/ G)|]
+w: The first good joy our Ma- ry had, It was the joy of one:_ To see the bless- ed Je- sus Christ When he was first_ her son._ When he was first her son, good man:_ And bless- ed may He be,___ Both_ Fa- ther, Son, and Ho- ly Ghost, To all e- ter_ ni ty._
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sleep, Holy Babe
+Z: F. W. Partridge
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  (c A) F3/4 G/4 | E3/ d/ c/ A/ | A2 B A3 | e e G | A2 B | c2 =d | e3 | c c B | A2 F | E2 E | E2 E | (A3 | A/) B/ c B | (A3 A2)|]
+w: Sleep,_ ho- ly Babe! u- pon Thy mo- ther's breast Great Lord of earth and sea and sky How sweet it is to see Thee lie In such_ a place of rest_
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: See! The Morning Star Is Dwelling
+Z: Rev. J. S. B. Hodges, D. D. 
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B B | (B/ c/) d G A | B G c B | (B/ A/) G F E | B2 B3/ c/ | A d (c/ B/) (A/ G/) | A D E F | G3/ A/ B ^c | d2 d3/ c/ | B A G c | B2 e e | e (d/ c/) d d | d (c/ B/) c d | B d G3/ A/ | F2"^Chorus" e e | e (d/ c/) d d | d (c/ B/) c d | B d A3/ B/ | G2|]
+w: See! the morn-_ ing star is dwel- ling On the Eas-_ tern moun- tain height; See! The Day all days_ ex-_ cel ling, Bursts u- pon our ach- ing sight; Sing we then in ca- rol free, Chris- tus Na- tus,_ Chris- tus Na- tus,_ Chris- tus Na- tus Ho- di e Chris- tus Na- tus,_ Chris- tus Na- tus,_ Chris- tus Na- tus Ho- di e.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Shepherd's Carol
+Z: William Billings
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=240
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G | D C C C | (G/ F/) E D D | G (A/ B/) (c/ B/) (A/ G/) | A3 A | B B (B/ A/) G | A A (A/ G/) F | G (F/ G/) (A/ G/) F | G2z d | d d (e/ d/) (c/ B/) | c c (d/ c/) (B/ A/) | B (A/ G/) A B | A2z d | B (A/ G/) F G | (A/ G/) (F/ E/) D (G/ A/) | B G (c/ B/) A | G3|]
+w: Me- thinks I see an heav'n-_ ly host Of an- gels_ on_ the_ wing Me- thinks I hear_ their cheer- ful notes_ So mer- ri_ ly_ they sing: Let all your fears_ be_ ba- nish'd hence,_ Glad_ ti- dings_ I pro- claim, For there's a_ Sa- viour born_ to-_ day, And_ Je- sus is_ his name.
+

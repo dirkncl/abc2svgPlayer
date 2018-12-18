@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Silent Night! Hallow'd Night
+Z: Trier Gesangbuch
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+Q: 1/4=300
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: E
+[V: P1]  B2 A2 G2z2 | G2 F2 E2z2 | E2 G2 (F2 B2) | B2 ^A2 B2z2 | B2 A2 G2z G | G2 F2 E2z2 | E2 G2 F2 B2 | B2 ^A2 B2z2 | (e2 =d2) c2z c | c2 B2 A2z2 | (G2 F2 G2) B2 | G2 F2 E2z2|]
+w: Si- lent night! hal- low'd night! Earth is hushed,_ Heav'n a- light! An- gels throng the star- lit air, Whisp- 'ring round the Child so fair: "Sleep,_ sleep, O Ba- by King! Sleep,"__ they soft- ly sing.
+[V: P2]  B,2 (C D) E2z2 | E2 (B, A,) G,2z2 | B,2 E2 (F2 E D) | C2 C2 D2z2 | B,2 (C D) E2z E | E2 (B, A,) G,2z2 | B,2 E2 F2 (E D) | C2 C2 D2z2 | (E2 F2) G2z A | F2 G2 A2z2 | E6 (D C) | B,2 B,2 G,2z2|]
+[V: P3]  G,2 A,2 B,2z2 | E,2 B,2 B,2z2 | G,2 B,2 (B,2 F,2) | F,2 F,2 F,2z2 | G,2 A,2 B,2z E, | E,2 B,2 B,2z2 | G,2 B,2 B,2 F,2 | F,2 F,2 F,2z2 | B,4 B,2z A, | A,2 B,2 C2z2 | (C4 G,2) F,2 | B,2 D,2 E,2z2|]
+[V: P4]  G,2 F,2 E,2z2 | C,2 D,2 E,2z2 | G,2 (F, E,) (D,2 B,,2) | F,2 F,2 B,,2z2 | G,2 F,2 E,2z C, | C,2 D,2 E,2z2 | G,2 (F, E,) D,2 B,,2 | F,2 F,2 B,,2z2 | (G,2 F,2) ^E,2z F, | F,2 F,2 F,2z2 | C,6 D,2 | E,2 B,,2 E,2z2|]
+

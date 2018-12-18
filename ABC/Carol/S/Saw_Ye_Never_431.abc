@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Saw You Never In The Twilight
+Z: Mozart
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A B G G | A B c A | B A G (B/G/) | F E Fz | A B G G | A B c A | B A G (B/G/) | F E Fz | (f/e/) (d/c/) c A | (B/A/) (B/c/) A c | (f/e/) (d/c/) c A | (B/A/) (B/c/) (A F) | A B G G | A B c A | B A G (B/G/) | F E Fz|]
+w: Saw you nev- er, in the twi- light, when the sun had_ left the skies, Up in heav'n the clear stars shin- ing through the gloom, like_ sil- ver eyes? So_ of_ old the wise_ men,_ watch- ing, saw_ a_ lit- tle stran-_ ger_ star,_ And they knew the King was giv- en, and they fol- low'd_ it from far.
+

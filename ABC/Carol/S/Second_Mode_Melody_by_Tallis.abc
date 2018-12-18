@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Second Mode Melody
+Z: Thomas Tallis (1515-1585)
+Z: Public domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Second Mode Melody, CMD"
+%%MIDI program 2 91
+K: G
+[V: P1]  [B,2E2] [B,E] [DF] | [DG] [B,E] [DF] F/F/ | [CE] [CE] [B,D] E | [EF] [DF] E2- | E E [EA] [GB] | [Gc] [EA] [GB] [GB] | [=FA] [FA] [EG] [CA] | [EB] [EB] [C2-A2-] | [CA] D [B,G] [DA] | [DB] [DG] [EA] [DA] | [B,G] [DG] [DF] [B,G] | [DA] A/C/ [B,2-G2-] | [B,G] [B,G] [DF] [EG] | [EA] [DF] [DG] [DG] | [DF] [CE] [M: 3/2]  [CE] [B,D] [C2E2] | [D2F2] [D2-F2-] [D3/4F3/4]zz/4|]
+[V: P2]  [E,2G,2] [E,G,] [D,A,] | [B,,G,] [E,G,] [B,,B,] [B,,A,] | [C,G,] [C,G,] [G,,G,] [C,G,] | [B,,B,] [B,,B,] [E,2-G,2-] | [E,G,] [G,B,] [A,C] [G,D] | [E,C] [A,C] [E,E] [E,D] | [=F,C] [F,C] [C,C] [F,A,] | [E,A,] [E,G,] [A,,2-A,2-] | [A,,A,] [B,,G,] [E,G,] [D,F,] | [G,,G,] [B,,G,] [C,C] [D,F,] | [E,G,] [B,,G,] [D,A,] [E,G,] | [D,G,] [D,F,] [G,,2-G,2-] | [G,,G,] [E,G,] [B,,B,] [E,B,] | [A,,C] [D,A,] [G,,B,] [G,,B,] | [B,,B,] [C,G,] [M: 3/2]  [C,G,] [G,,G,] [C,2G,2] | [C,2B,2] [E,,2-A,2-] [E,,3/4A,3/4]zz/4|]
+

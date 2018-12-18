@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: sinterklaasje_Kom_maar_binnen
+L: 1/4
+M: 4/4
+V: P1 name="piano"
+%%MIDI program 1 -1
+V: P2 name="piano-2"
+%%MIDI program 2 -1
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: C
+[V: P1]  d'/[B/4d/4]e'/4 d'/4c'/4[B/4d/4b/4]a/4 g/4g/4[B/4d/4g/4]g/4 g/[B/4d/4b/4]b/4 | [A/a/][A/c/d/] d/4d/4[A/c/d/] [d/b/][d/g/] [B3/4d3/4g3/4]b/4 | [d/a/][A/4c/4][d/4b/4] a/[A/4c/4][d/4b/4] [d/a/][A/c/d/b/] [d/a/][A/c/d/b/] | [d/a/][A/4c/4][d/4b/4] a/[A/c/d/a/] [d/a/][A/c/d/a/] d'/[A/c/] | d'/[B/4d/4]e'/4 d'/4c'/4[B/4d/4b/4]a/4 g/4g/4[B/4d/4g/4]g/4 g/[d/b/] | a/[A/c/d/^f/c'/] e/4e/4[A/c/f/] g/[B/g/] [B/g/]d/4d/4 | d/4d/4[A/4d/4]d/4 d/4d/4[A/4d/4]d/4 d/[B/d/b/] [d/g/][B/4d/4b/4][d/4b/4] | a/[A/d/c'/] e/[A/d/^f/] [d/g/][d/b/] [B/d/g/d'/]d/4d/4 | d/4d/4[A/4d/4]d/4 d/4d/4[A/4d/4]d/4 d/[B/d/b/] [d/g/][B/4d/4b/4][d/4b/4] | a/[A/d/c'/] e/[A/d/^f/] [d/g/][B/d/b/] [dg]|]
+[V: P2]  G D G D |z D G G | D/^F/ A,/F/ D/F/ A,/F/ | D/^F/ A,/F/ D/F/ D/F/ | G D G D | A, D G/G/ G | D/^F/ A,/F/ D/G/ D/G/ | D/^F/ A,/F/ D/G/z | D/^F/ A,/F/ D/G/ D/G/ | D/^F/ A,/F/ G G|]
+[V: P3]  z4|]
+

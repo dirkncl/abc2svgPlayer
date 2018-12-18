@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sing Of Maiden Mary
+Z: French Noel
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  A e/ e d/ | f3/ e3/ | e A/ B c/ | A3/zz/ | A e/ e d/ | f3/ e3/ | e A/ B c/ | A3/z c/ | B A/ c d/ | B3/ (c B/) | A B/ c d/ | e3/z c/ | B A/ B c/ | d3/ (c d/) | B c/ B E/ | A3|]
+w: Sing of Mai- den Ma- ry, And of Christ our Lord, High and sole be- got ten, Ma- ry's ho- ly Child. O sing of Mai- den Ma- ry_ Fair- er, bet- ter Eve; Glad praise and high thanks- giv ing,_ Thou, O God, re- ceive.
+

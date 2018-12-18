@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sing to the Lord a new melodious song
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=63
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: A
+[V: P1]  A B/ B/ c e | e/ d/ c/ B/ c3/ B/ | A G A3/ c/ | d/ c/ B/ A/ (G G) | A G/ G/ A c | c/ B/ A/ G/ (F3/ G/) | A G/ G/ A (A/B/) | c/ A/ G/ F/ G | [K: A]  [M: 6/8] z (A/4B/4) | c c/ A A/ | d c/ Bz/ | z4 |zz/z B/ | c c/ A A/ | d A/ G E/ | c B/ A A/ | (G/A/) B/ A3/|]
+[V: P2]  E E/ E/ E E | F/ F/ A/ G/ E C | (C/D/) E (E/D/) (F/E/) | D/ E/ F/ F/ (E E) | E E/ E/ E (E/^E/) | F/ D/ F/ ^E/ (F/=E/) D | (C/ F) ^E/ F (F/E/) | F/ F/ =E/ ^D/ E | [K: A]  [M: 6/8] z E/ | E E/ D E/ | D D/ Ez/ | z4 |zz/z E/ | E E/ F F/ | F F/ (G/F/) E/ | E E/ (C/D/) F/ | E E/ E3/|]
+[V: P3]  C G,/ G,/ A, C | C/ B,/ E/ D/ C (A,/G,/) | A, B, E, A, | F,/ A,/ D/ D/ (B, B,) | C (B,/ B,/) (E/D/) (C/B,/) | A,/ G,/ C/ B,/ (A, B,) | A, (C/ C/) C (C/B,/) | A,/ (B,/4C/4) B,/ B,/ B, | [K: A]  [M: 6/8] z (C/4B,/4) | A, G,/ F, F,/ | (F,/G,/) A,/ G,z/ |z3 |zz/z G,/ | A, A,/ (C/D/) E/ | F D/ (B,/A,/) B,/ | (C/D/) E/ A, D/ | B, G,/ C3/|]
+[V: P4]  A,, E,/ E,/ A, A,, | D,/ D,/ E,/ E,/ A, ^E, | F, (=E,/D,/) (C,/B,,/) A,, | B,,/ C,/ D,/ B,,/ (E, E,) | A, (E,/ D,/) (C,/B,,/) (A,,/G,,/) | A,,/ B,,/ C,/ C,/ (D, B,,) | F, (C,/ B,,/) (B,,/A,,/) (A,,/G,,/) | F,,/ (G,,/4A,,/4) B,,/ B,,/ E, | [K: A]  [M: 6/8]  E,3/ | A,, A,,/ D, C,/ | B,, B,,/ E, E,/ | A, G,/ F, E,/ | E, ^D,/ E, E,/ | A, G,/ F, F,/ | (B,,/C,/) D,/ (E,/F,/) G,/ | A, G,/ (F,3/4E,/4) D,/ | E, E,/ A,,3/|]
+

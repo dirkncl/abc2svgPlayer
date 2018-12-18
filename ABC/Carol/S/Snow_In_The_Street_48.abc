@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Snow In The Street
+Z: R. Vaughan Williams
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  D | F2 G A2 d | c2 A G2 F | B c A G2 F/ F/ | B c A G2 G | c c d _e2 d | (c B) G F3 | F B G F2 _E | F B G F2 F | c2 d _e2 d | (c B) c G2 G | F F G A2 d | [M: 9/4]  (c2 A G3 G2) F | [M: 6/4]  (G3 G2)|]
+w: From far a- way we come to you, The snow on the street and the wind on the door. To tell of great tid- ings strange_ and true. Min- strels and maids stand forth on the floor: From far a- way we come_ to you, To tell of great tid- ings, strange___ and true._
+

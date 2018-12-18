@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Saving Health, 87.87.887
+Z: Etliche Christliche Lyeder, 1524
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: none
+Q: 1/4=110
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Saving Health, 87.87.887"
+V: P2_2
+%%MIDI program 2 91
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  | [EB] B [EB] [F_d] | [Ec] B [CA] [FB] | [EG] E/F/ [EG] [E=A] | | [EB] B [EB] [F_d] | c B A [FB] | | [DB] c [DB] [FB] | [Ee] d [Ec] [Fd] | e/d/ c [DB] [FB] | [Ee] B [Ec] G/A/ | [GB] [FA] [=EG] E | [DF] A [DG] [CF] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x1  E/D/ x2  | x1  F/E/ x2  | x1  E x2  | | x1  E/D/ x2  | G/=E/ F/G/ A x1  | | x1  F/E/ x2  | x1  G/F/ x2  | E F/E/ x2  | x1  G/F/ x1  G | x3  E | x1  F/E/ x2  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | B,3/ [z/(F,] =A,/ [B,,B,] B,/_A,/ | | G, C [F,C] [D,B,] | | | | C/B,/ [F,=A,] [B,,B,] [B,D] | C E/D/ [A,C] B,/C/ | [=E,C] C/=B,/ [C,C] G,/=A,/ | [B,,B,] [F,,C] B,3/ [z/(A,,] A,/ ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | G, x2  D, | | =E,/C,/ D,/E,/ x2  | | | | C, x3  | C G, x1  E, | x1  F, x1  C, | x2  G,, x1  ||]
+

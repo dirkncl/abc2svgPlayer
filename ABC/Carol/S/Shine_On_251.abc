@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Shine On
+Z: C. S. Kauffman
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=55
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  D/4 E/4 | F/ D/ G/ =E/ | F3/ D/4 E/4 | F/ D/ G/ =E/ | F3/ D/4 E/4 | F/ G/ A/ B/ | B/ A A/4 G/4 | F/ G/ E/ F/ | D3/ D/4 E/4 | F/ D/ G/ =E/ | F3/ D/4 E/4 | F/ D/ G/ =E/ | F3/ D/4 E/4 | F/ G/ A/ B/ | B/ A A/4 G/4 | F/ G/ A/ c/ | B2 | [M: 4/4] "^Chorus" d d d d | d/4 c/4 B/ A/ B/ c2 | e e e e | e/4 d/4 c/ B/ c/ d2 | d d d d | d/4 c/4 B/ A/ B/ G2 | B/ B A/4 G/4 | F/ B/ d/ e/ | d c B2|]
+w: See the bright- ly shin- ing star, As its ra- diance beams a- far, Guide the feet of wea- ry pil- grims To the place where Je- sus lay. Like a bea- con from its height, Burn- ing brigh- tly in the night, As the wise men fol- lowed on- ward, Safe- ly guid- ed all the way. Shine on! shine on! Beau- ti ful star of light; Shine on! shine on! Cheer- ing the gloom- y night; Shine on! shine on! Send- ing thy rays a- far, Shine on thro' the dark- ness, Oh, thou fair- est star.
+[V: P2]  B,/4 C/4 | D/ B,/ ^C/ C/ | D3/ B,/4 C/4 | D/ B,/ ^C/ C/ | D3/ B,/4 C/4 | D/ D/ D/ D/ | E/ E E/4 E/4 | C/ C/ C/ C/ | B,3/ B,/4 C/4 | D/ B,/ ^C/ C/ | D3/ B,/4 C/4 | D/ B,/ ^C/ C/ | D3/ B,/4 C/4 | D/ D/ D/ D/ | E/ E E/4 E/4 | E/ E/ E/ E/ | D2 | [M: 4/4] z/ [D/F/]z/ [D/F/]z/ [D/F/]z/ [D/F/] | F Fz/ [E/F/A/]z/ [E/F/A/] |z/ [F/A/c/]z/ [F/A/c/]z/ [F/A/c/]z/ [F/A/c/] | [FA] F/[F/A/]z/ [F/B/]z/ [F/B/] |z/ [D/F/B/]z/ [D/F/B/]z/ [D/F/B/]z/ [D/F/B/] | [DF] [B,F] [B,/E/][=B,/F/] [CE] | ^C/ C C/4 C/4 | D/ F/ F/ G/ | F E D2|]
+[V: P3]  F,/4 F,/4 | B,/ F,/ =E,/ G,/ | F,3/ F,/4 F,/4 | B,/ F,/ =E,/ G,/ | F,3/ F,/4 F,/4 | B,/ B,/ F,/ F,/ | F,/ F, C/4 B,/4 | A,/ B,/ A,/ A,/ | F,3/ F,/4 F,/4 | B,/ F,/ =E,/ G,/ | F,3/ F,/4 F,/4 | B,/ F,/ =E,/ G,/ | F,3/ F,/4 F,/4 | B,/ B,/ F,/ F,/ | F,/ F, C/4 B,/4 | A,/ B,/ C/ A,/ | B,2 | [M: 4/4]  B, F, B, F, | B, F, F,/E,/D,/C,/ | F, C, F, C, | F,/E,/ D,/C,/ B,,/A,,/ G,,/F,,/ | B, F, B, F, | B, D, E,/D,/ C, | G,/ G, A,/4 B,/4 | B,/ D/ B,/ B,/ | B, A, B,2|]
+[V: P4]  B,,/4 B,,/4 | B,,/ B,,/ B,,/ B,,/ | B,,3/ B,,/4 B,,/4 | B,,/ B,,/ B,,/ B,,/ | B,,3/ B,,/4 B,,/4 | B,,/ B,,/ B,,/ B,,/ | B,,/ B,, F,/4 F,/4 | F,/ F,/ F,/ F,/ | B,,3/ B,,/4 B,,/4 | B,,/ B,,/ B,,/ B,,/ | B,,3/ B,,/4 B,,/4 | B,,/ B,,/ B,,/ B,,/ | B,,3/ B,,/4 B,,/4 | B,,/ B,,/ B,,/ B,,/ | C,/ C, F,/4 F,/4 | F,/ F,/ F,/ F,/ | [B,,2F,2] | [M: 4/4]  B,, F,, B,, F,, | B,, F,, F,,/E,,/D,,/C,,/ | F,, C,, F,, C,, | F,,/E,,/ D,,/C,,/ B,,,/A,,,/ G,,,/F,,,/ | B,, F,, B,, F,, | B,, D,, E,,/D,,/ C,, | =E,/ E, E,/4 E,/4 | F,/ F,/ F,/ _E,/ | F, F, [B,,2F,2]|]
+

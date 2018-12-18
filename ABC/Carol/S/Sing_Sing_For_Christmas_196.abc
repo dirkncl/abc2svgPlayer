@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sing, Sing For Christmas
+Z: Rev. J. S. B. Hodges, D. D.
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  c e3/4 d/4 | c/ Az/ | G3/4 F/4 E/ A/ | Bz/ B/ | c3/4 c/4 B/ A/ | G G/ A/ | B3/4 B/4 c/ ^d/ | ez/ E/ | d/ d/4 c/ B/ | cz | c3/4 B/4 A/ G/ | Az/ E/ | F3/4 G/4 A/ B/ | c/ e d/ | c3/4 c/4 d/ B/ | A3/z/ |"^Chorus" c e3/4 d/4 | c/ Az/ | G3/4 F/4 E/ A/ | Bz/ B/ | c3/4 c/4 c/ c/ | (e3/4 d/4) c/ A/ | F/ d/ c/ B/ | A2|]
+w: Sing, sing for Christ- mas! Wel- come hap- py day! For Christ is born our Sav- iour, To take our sins a- way. Sing, sing a joy- ful song, Loud and clear to- day; To praise our Lord and Sav- iour, Who in the man- ger lay. Sing, sing for Christ- mas, Wel- come hap- py day! For Christ is born our Sav-_ iour, To take our sins a- way.
+

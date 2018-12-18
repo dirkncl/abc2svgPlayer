@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Simple Carollers Are We
+Z: J. B. Boucher
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G/ F/ G/ A/ | B/ A/ G | E/ G/ F/ E/ | D C/z/ | G/ F/ G/ A/ | B/ c/ d | d/ A/ G/ F/ | E D/z/ | A/ G/ F/ E/ | D/ E/ D | G/ F/ G/ B/ | d D | G/ F/ G/ A/ | B/ d/ e | d/ c/ B/ A/ | G G|]
+w: Sim- ple Ca- rol lers are we, Breth- ren in com- mun ion; Je- sus Christ's Na- tiv i ty Is our bond of un- ion. Wine or was- sail heed we not, Pre- cious gifts or guer- don; Him we sing Who, with- out blot, Bore our sin's deep bur- den.
+

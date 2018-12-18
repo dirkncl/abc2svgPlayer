@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Snow Lies Thick
+Z: Geoffrey Shaw
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=95
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  E/ | G A/ G E/ | D E/ (=F/ E/) D/ | E G/ c d/ | (B/ A/) G/ A"^Chorus" G/ | (d/ e/) =f/ (e/ d/) c/ | (A/ B/) c/ d e/ | c d/ (A/ c/) B/ | G3/ E D/ | G A/ G E/ | D E/ (=F/ E/) D/ | G A/ G E/ | A B/ A B/ | c d/ (c/ B/) A/ | d e d"^Chorus" e/ | (=f/ e/) d/ (c/ B/) A/ | d3/ G3/|]
+w: The snow lies thick u- pon the earth_ To- night, when God is come_ to birth: O coll-_ au dan_ tes Do-_ mi num, Let's run to give_ Him greet- ing. His lodg- ing but a sta- ble, see!_ Where ox and ass His court- iers be, The Might- y Lord_ in pov- erty. Laid low for_ our sal-_ va tion!_
+

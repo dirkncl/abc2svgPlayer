@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Seven Joys Of Mary
+Z: Traditional English Carol
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=105
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  D/ | G G/ G A/ | B A/ G G/ | A A/ F F/ | (G3/ G) D/ | G G/ G A/ | B A/ G G/ | A A/ (F/E/) F/ | (G3/ G) G/ | A A/ A A/ | A B/ (c/B/) A/ | B B/ B A/ | (B c/ d) (d/4c/4) | B A/ G c/ | B A/ G G/ | A A/ (F/E/) F/ | G3/z|]
+w: The win- ter night was dark and still, The vil- lage lay a- sleep;_ In mea- dows un- der neath the hill The shep- herds watched_ their sheep:_ The shep- herds watched their sheep, good Lord,_ But an- gels watched o'er Thee,__ While_ Ma- ry held Thee to her heart, And they sang ju-_ bi lee.
+[V: P2]  D/ | D D/ E D/ | D F/ G G/ | E E/ D D/ | (D3/ D) D/ | D D/ E D/ | D F/ G G/ | E E/ D D/ | (D3/ D) E/ | D D/ D ^C/ | D D/ E F/ | G G/ G F/ | (G3/ F) D/ | D ^D/ E G/ | G F/ E E/ | E E/ D D/ | D3/z|]
+[V: P3]  D/ | B, B,/ B, A,/ | G, C/ B, B,/ | C C/ A, A,/ | (B,3/ B,) D/ | B, B,/ B, A,/ | G, C/ B, B,/ | C C/ A, A,/ | (B,3/ B,) B,/ | A, A,/ A, G,/ | F, G,/ G, D/ | D D/ D D/ | (D G,/ A,) A,/ | G, A,/ B, E/ | D C/ B, B,/ | C C/ A, A,/ | B,3/z|]
+[V: P4]  D,/ | G, G,/ E, F,/ | G, D,/ E, E,/ | C, C,/ D, D,/ | (G,3/ G,) D,/ | G, G,/ E, F,/ | G, D,/ E, E,/ | C, C,/ D, D,/ | (G,3/ G,) E,/ | F, F,/ F, E,/ | D, G,/ C, D,/ | G, G,/ G, D,/ | (G, E,/ D,) F,/ | G, F,/ E, C,/ | D, D,/ E, E,/ | C, C,/ D, D,/ | G,3/z|]
+

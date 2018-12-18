@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sing Out Your Gladsome Carols
+Z: C. Harold Lowden
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  d c3/4 B/4 A G | G2 F2 | D G3/4 G/4 D G | G2 F2 | D F3/4 F/4 B d | d2 A2 | =B d3/4 d/4 d ^c | d2 f2 | d c3/4 B/4 A G | G2 F2 | D G3/4 G/4 ^F A | (A2 G2) | B B3/4 B/4 c B | d2 B2 | G d c3/ B/ | B3z |"^Chorus" d2 c2 | B2 G2 | F G A B | B2 A2 | e2 d2 | c2 A2 | G A B A | G2 F2 | d2 c2 | =B2 G2 | c c d G | e2 =e2 | f d B e | c2 c2 | (B4 | B)zz2|]
+w: Sing out your glad- some car- ols, Set all the ech- oes ring- ing! Wel- come the joy- ous sea- son, Wel- come it now with sing- ing. Light in the midst of dark- ness, Com- ing from realms of day;_ Hail to the King of Glo- ry, 'Neath the star He lay! Wel- come! wel- come! Joy- ous Christ- mas sea- son! All thy glad- ness hath a bless- ed reas- on. Wel- come! wel- come! Joy- ous Christ- mas sea- son! Rich with bless- ings from a- bove!_
+[V: P2]  [DF] [DF] [DF] [DF] | D D D D | [B,D] [B,D] [B,D] [B,D] | [A,E] [A,E] [A,E] [A,E] | [B,D] D [DF] [DFB] | [D^FA] [DFA] [DF] [DF] | [=E^G] [EGB] [E=GA] [EGA] | [D^FA] A [=FAce] [FAce] | [DF] [DF] [DF] [DF] | D D D D | B, D D [DF] | D D D D | [EG] [EG] [CG] [^CG] | [DFB] [DFB] [DG] [DG] | [C=EG] [EB] [_E3/A3/] [D/F/] | [D3F3]z |z [DFB]z [DF] |z [DF]z [DF] | D [DF] [DF] [DF] |z [EF]z [EF] |z [EA]z [EA] |z [EA]z [EF] | E [EF] [EF] [EF] |z [B,D]z [B,D] |z [DFB]z [DF] |z [DG]z [DF] | [EG] [EG] [FG] F |z [EGc]z [GBc] | [FBd] [FB] [DG] [EGc] | [E2G2] [E2F2A2] | [(D4(F4] | [D)F)]zz2|]
+[V: P3]  F, F, F, F, | F, F, F, F, | F, F, F, F, | F, F, F, F, | F, B, B, B, | A, A, A, A, | =E, E, A, A, | D, D, C, F,, | F, F, F, F, | F, F, F, F, | F, B, A, C | C C B, B, | E, E, =E, E, | F, F, G, G, | C, C, F, F, | B,3z | B,,z F,,z | B,,z F,,z | B,,z F,,z | C,z F,,z | C,z F,,z | A,,z F,,z | C,z F,,z | B,,z F,,z | B,,z _A,,z | G,,z =B,,z | C,z G,,z | C,2 C,2 | F,,2 G,, C,, | E,,2 F,,2 | (B,,4 | B,,)zz2|]
+[V: P4]  B,, F,, B,, F,, | B,, F,, B,, F,, | B,, F,, B,, F,, | C, F,, C, F,, | B,, B,, B,, B,, | A,, A,, A,, A,, | =E,, E,, A,, A,, | D,, D,, C,, F,,, | B,, F,, B,, F,, | B,, F,, B,, F,, | B,, B,, D, D, | G, G, G, G, | E,, E,, =E,, E,, | F,, F,, G,, G,, | C,, C,, F,, F,, | B,,3z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4|]
+

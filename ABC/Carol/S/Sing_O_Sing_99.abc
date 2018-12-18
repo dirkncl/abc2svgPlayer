@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sing, O Sing This Blessed Morn
+Z: C. F. Roper
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F F/ d c/ | (c/B/) G/ F3/ | F F/ (A/G/) F/ | (^c/B/) A/ A3/ | F d/ d A/ | (^c/=B/) A/ A3/ | A B/ c F/ | (B/A/) G/ F3/ |"^Chorus" F A/ c F/ | (F/B/) c/ d3/ | e =B/ (d/c/) G/ | (A/B/) c/ B3/|]
+w: Sing, O sing, this bless-_ èd morn, Un- to us_ a Child_ is born, Un- to us a Son_ is given, God Him- self comes down_ from heaven. Sing, O sing, this bless-_ èd morn, Je- sus Christ_ to- day_ is born.
+

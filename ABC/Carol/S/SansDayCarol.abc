@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sans Day Song
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/2
+Q: 1/4=432
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  F3/ A/ | c2 c2 c3/ B/ | A2 F2 A2 | B2 G2 E2 | F4 (F A) | c2 c2 (c B) | A2 F2 A A | B2 G2 E2 | F4"^Refrain" (F A) | c2 c2 (d e) | f f c2 c2 | c2 c2 d e | f4 F A | c2 c2 c B | A2 F2 A2 | B2 G2 E2 | F4 G2 | G4 G2 | A4 F A | c2 c2 c B | A2 F2 A2 | B2 G2 E2 | F4|]
+w: Now the hol- ly bears a ber- ry as white as the milk, And_ Ma- ry bore_ Je- sus, Who was wrapt up in silk: And_ Ma- ry bore_ Je- sus Christ Our Sa- viour for to be, And the first tree of the green- wood, it was the hol- ly. Hol- ly! Hol- ly! And the first tree in the green- wood, it was the hol- ly!
+[V: P2]  C3/ F/ | G2 E2 F3/ G/ | C2 C2 (F E) | D2 D2 C2 | C4 (C F) | G2 E2 (F G) | C2 C2 F F | (F E) D2 C2 | C4 F2 | A2 A2 B2 | B B A2 A2 | G2 F2 A G | F4 F F | G2 E2 F G | C2 C2 (F E) | D2 D2 C2 | C4 E2 | E4 E2 | F4 C F | G2 E2 F G | C2 C2 F2 | (F E) D2 C2 | C4|]
+[V: P3]  A,3/ C/ | C2 G,2 C3/ C/ | C2 A,2 C2 | B,2 B,2 G,2 | A,4 (A, C) | C2 G,2 C2 | C2 A,2 A, A, | (D C) B,2 B,2 | A,4 (A, C) | F2 E2 D2 | C C C2 C2 | E2 F2 A, A, | A,4 A, C | C2 G,2 C C | C2 A,2 C2 | B,2 B,2 G,2 | A,4 C2 | C4 C2 | C4 A, C | C2 G,2 C C | C2 A,2 A,2 | (D C) B,2 B,2 | A,4|]
+[V: P4]  F,3/ F,/ | E,2 C,2 D,3/ E,/ | F,2 F,2 F,2 | B,,2 B,,2 C,2 | F,4 F,2 | E,2 C,2 (D, E,) | F,2 F,2 D, D, | B,,2 B,,2 C,2 | [F,,4F,4] F,2 | F,2 F,2 F,2 | F, F, F,2 (F, A,) | (C B,) (A, G,) (F, E,) | D,4 F, F, | E,2 C,2 D, E, | F,2 F,2 F,2 | B,,2 B,,2 C,2 | [F,,4F,4] C,2 | C,4 C,2 | F,4 F, F, | E,2 C,2 D, E, | F,2 F,2 D,2 | B,,2 B,,2 C,2 | [F,,4F,4]|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sleep, Holy Babe
+Z: Arthur F. M. Custance
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Db
+[V: P1]  A3/ (=G/A/) B/ | (A3/ A) A/ | B/ B/ (d/c/) B/ | (A3/ A) G/ | F F/ (F/=E/) F/ | A =G/ F F/ | A A/ (A/=G/) A/ | c B/ A A/ | d d/ (d/c/) B/ | (A3/ G) G/ | F D/ (G/F/) E/ | D3|]
+w: Sleep, ho-_ ly Babe!_ up- on Thy mo-_ ther's breast_ Great Lord of earth_ and sea and sky How sweet it is_ to see Thee lie In such a place_ of rest_ In such a place_ of rest
+

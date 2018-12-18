@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Shepherds, Rejoice, Lift Up Your Eyes
+Z: Traditional from Rev. Charles Hutchins
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  B2 F d | c2 e2 | (d c) (B A) | B3 d | c d e c | (d3/ e/ f) d | c f A G | F3 F | (F/E/) (D/E/) F B | d3/ c/ B c | (c/B/) (A/B/) c d | e3/ d/ c F | f3 f | e3 e | d3 d | c2 F2 | (G e) (d c) | B2 A2 | B4|]
+w: "Shep- herds, re- joice! lift up_ your_ eyes, And drive all fears a- way;__ And drive all fears a- way; News, from_ the_ re- gion of the skies! News, from_ the_ re- gion of the skies! News, from the re- gion of the skies! A Sav-_ iour_ born to- day.
+[V: P2]  F2 F F | F2 G2 | (F E) (D C) | D3 F | F F F F | (F3/ E/ D) F | F F F =E | F3 D | (D/C/) (B,/C/) D D | F3/ E/ D F | F F F F | G F F F | (F/E/D/E/F/G/) (_A/G/) | G3 (G/F/) | F3 F | F2 F2 | E2 (F G) | F3 E | D4|]
+[V: P3]  D2 B, B, | A,2 B,2 | (B, C) (D E) | D3 B, | A, B, C A, | (B,3/ A,/ B,) B, | C (A,/B,/) C B, | A,3 F, | F,3/ F,/ F, F, | F, A, B, A, | C C C B, | B, B, A, A, | B,3 B, | (G,/F,/E,/F,/G,/F,/) (G,/A,/) | B,3 B, | A,2 B,2 | (B, A,) (B, E) | D2 C2 | B,4|]
+[V: P4]  B,,2 D, B,, | F,2 E,2 | F,2 F,2 | B,,3 B,, | F, F, F, F, | (B,,3/ C,/ D,) B,, | A,, D, C, C, | F,,3 B,, | B,,3/ B,,/ B,, B,, | F, F, B,, F, | (A,/G,/) (F,/G,/) A, B, | E, B,, F, (F,/E,/) | (D,/C,/B,,/C,/D,/E,/) (F,/D,/) | E,3 C, | (D,/C,/B,,/C,/D,/C,/) (D,/E,/) | F,2 D,2 | (E, C,) (D, E,) | F,2 F,,2 | B,,4|]
+

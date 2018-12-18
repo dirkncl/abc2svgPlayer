@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Shall I Go Walke The Woods So Wild
+Z: Unknown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1] "^Verses 1 & 3" f2 f | f2 c | d2 c | A3 | (B3/ c/) d | e2 d | g2 f | e2 d | f2 f | f2 c | d2 c | A2 f | e2 d | (c3/ =B/) A | =B2 G | G3 |"^Verse 2" f2 f | f2 c | d2 c | A3 | (=B3/ c/) d | e2 d | (d g) f | e2 d | f2 f | f2 c | d2 c | A2 f | e2 d | (c3/ =B/) A | (=B3/ c/) (d/ c/) | (=B G2)|]
+w: Whom the Sire of heav'n be- got, When_ the morn- ing star was not: To whom no mo- ther there gave birth, But had no fa-_ ther here on earth, He as man to- day is seen Of_ thy sub- stance, Maid-_ en clean: And this glad tid- ing from a- far Is told the Wise-_ men by_ a_ star._
+

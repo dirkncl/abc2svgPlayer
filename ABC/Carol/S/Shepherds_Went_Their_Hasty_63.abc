@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Christmas Carol
+Z: John Francis Barnett
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 9/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D/ | G A/ B B/ (c/B/) A/ | (d3/ B) B/ e d/ | (c3/ c) c/ (c/B/) A/ | B3 B B/ | A F/ A3/ A3/ | D3/z d/ e d/ | (c3/ c) A/ (B/A/) G/ | (B3/ A) A/ B c/ | d B/ e c/ B A/ | (G3/ F) F/ B B/ | (B3/ G3/) e3/ | (=d3/ d) B/ A G/ | G3|]
+w: The shep- herds went their has-_ ty way,_ And found the low-_ ly sta-_ ble shed Where the Vir- gin Mo ther lay: And now they checked_ their ea-_ ger tread,_ For to the Babe, that at her bos- om clung,_ A Mo- ther's song_ the Vir-_ gin Mo ther sung.
+

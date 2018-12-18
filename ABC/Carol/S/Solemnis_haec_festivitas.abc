@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Solemnis Haec Festivitas
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: Eb
+[V: P1] z2 [B,E] | [C2E2G2] [CFA] | [D2F2B2] [EGB] | [EAc] [EGB] [CFA] | [D2F2B2] [EGB] | [E2G2c2] [FBd] | [G2B2e2] [DGB] | [C2E2G2] [CFA] | [D2F2B2] [B,EG] | [E2G2B2] [CFA] | [B,2D2F2] [B,EG] | [CEA] [B,EG] [B,DF] | [B,2E2G2] [DFB] | [B,2C2E2] [B,DF] | [B,EG] [B,E] [CEA] | [B,2E2G2] [B,DF] | E2z|]
+[V: P2] z2 [E,G,] | C,2 F, | B,,2 E, | A,, E, F, | B,,2 E, | C,2 B,, | E,2 G, | C,2 F, | C,2 E, | E,2 F, | B,,2 E, | A,, E, B,, | E,2 B,, | C,2 B,, |z G, A,, | E,2 B,, | [E,2G,2]z|]
+

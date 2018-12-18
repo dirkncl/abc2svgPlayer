@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Snow Lay Deep Upon The Ground
+Z: Traditional
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F2 | c c d B | (A/ G/) (A/ B/) c d | c B A G | A2z B | A G F E | F2 A2 | c A B d | c B B d | f2 (e d) | c2 =B2 | c4 | (c3/ B/) A A | B3/ A/ G G | A3 A | (A G) (B A) | (c B) (d c) | f d c B | A2 G2 | F2|]
+w: The snow lay deep up- on_ the_ ground, The stars a- bove shone bright, The stars a- bove shone bright When An- gels sang Christ Je- sus' Birth For us on_ Christ- mas night, When_ An- gels sang Christ Je- sus' Birth For us_ on_ Christ-_ mas_ night, For us on Christ- mas night.
+

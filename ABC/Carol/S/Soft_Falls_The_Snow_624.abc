@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Soft Falls The Snow
+Z: A. H. Brown
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=162
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  D/ | (E/ F/) E/ D A/ | G B/ A G/ | A3/ ^c3/ | (d3/ d) A/ | (G/ A/) B/ A d/ | c d/ d B/ | (A3/ A) A/ | (A3/ A/)z/ f/ | e d/ c d/ | A G/ F G/ | A3/ =B3/ | c F/ c c/ | F B/ A d/ | (d/ c/) B/ A f/ | e3/ =c3/ | (d3/ d) B/ | (A3/ A) A/ | (D3/ D/)z|]
+w: Soft falls_ the snow up- on the ground, So pure and white;_ O may_ our hearts as pure be found This Christ-_ mas night._ For Christ is born that we may be From sin set free, set free, For Christ is born that we_ may be From sin set free,_ from sin_ set free._
+

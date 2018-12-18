@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sleep, Holy Babe
+Z: Rev. J. B. Dykes
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=360
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  E4 E3 A | G6 e2 | e2 (d c) B3 A | G6 G2 | G3 G =A2 =B2 | d3 G G2 G2 | G3 e2 e2 (d c) | c3 B B2 B2 | B3 E _E2 E2 | (E6 E2) E2 | (E G) (B c) B3 D | (E4 E4)|]
+w: Sleep, ho- ly Babe! u- pon Thy_ mo- ther's breast Great Lord of earth and sea and sky How sweet it is to_ see Thee lie In such a place of rest_ In such_ a_ place of rest!_
+

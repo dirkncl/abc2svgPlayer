@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Saw You Never In The Twilight
+Z: B. Tours
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B G F E | B G G F | E F G G | B =A B2 | d B =A G | d B =A G | F G B B | d c B2 | c A G F | c A G F | E F A G | B E c2 | e c B A | c A G F | B E G F | G F E2|]
+w: Saw you nev- er, in the twi- light, when the sun had left the skies, Up in heav'n the clear stars shin- ing through the gloom, like sil- ver eyes? So of old the wise men, watch- ing, saw a lit- tle stran- ger star, And they knew the King was giv- en, and they fol- low'd it from far.
+

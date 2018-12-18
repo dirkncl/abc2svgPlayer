@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Shepherds Had An Angel
+Z: J. C. Bridge
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  F/ | F F/ (F/G/) A/ | (E E/) E F/ | G G/ (G/A/) B/ | (A3/ A) B/ | c B/ A d/ | c B/ A (B/4c/4) | d F/ ^G G/ | A3/ (G E/) | D F/ A d/ | (e d/) B G/ | (F/G/) A/ F E/ | (D3/ D)|]
+w: The shep- herds had_ an an-_ gel, The wise men had_ a star;_ But what have I, a lit- tle child, To_ guide me home from far, Where_ glad stars sing to- geth_ er, And sing-_ ing an- gels are?_
+

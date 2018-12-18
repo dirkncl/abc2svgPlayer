@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sarratt
+Z: G. C. E. Ryley
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=112
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A | A2 F | (B3/ A/) G | c2 d | c3 | c d A | B2 c | (A3/ G/) F | G3 | G A E | F2 F | (F3/ E/) D | G2 c | F2 G | (A3/ B/) c | A2 G | F2|]
+[V: P2]  F | F2 F | F2 F | F2 E | F3 | F ^F F | (G3/ =F/) E | (F3/ E/) D | E3 | D ^C C | D2 =C | =B,2 B, | C2 E | F2 C | F2 F | F2 E | F2|]
+[V: P3]  C | C2 A, | (D3/ C/) B, | A,2 G, | A,3 | A, A, D | D2 C | (C3/ B,/) A, | G,3 | D, E, A, | A,2 A, | (A,3/ G,/) F, | E,2 _B, | A,2 C | C2 C | C2 B, | A,2|]
+[V: P4]  F, | F,2 F, | F,2 F, | F,2 F, | F,3 | F, D, D, | G,2 C, | F,2 F, | C,3 | B,, A,, A,, | D,2 D, | G,,2 D, | C,2 C, | D,2 E, | F,2 A,, | C,2 C, | F,2|]
+

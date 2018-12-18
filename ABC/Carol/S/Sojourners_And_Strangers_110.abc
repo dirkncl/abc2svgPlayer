@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sojourners and Strangers
+Z: Rev. W. J. Irons, D.D.
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B B B (c/ d/) | e2 B2 | G G A (B/ c/) | (G2 F2) | G G G c | B2 B2 | d e c (B/ =A/) | G4 | G (F/ G/) A c | (c3/ B/) A2 | A A _d (c/ B/) | c4 | c c =B (c/ d/) | e2 A2 | G c F (G/ F/) | E4|]
+w: So- jour ners and_ stran- gers, Seek- ing our true_ home,_ Meet- ing with rough dan- gers, As we on- ward_ roam: Strength is_ of- ten fail-_ ing, On des- truc tion's_ brisk, Lord, Thy Power pre-_ vail ing Will not let us_ sink.
+

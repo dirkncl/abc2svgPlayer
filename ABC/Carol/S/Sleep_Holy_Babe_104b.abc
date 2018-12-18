@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sleep, Holy Babe!
+Z: O. Gibbons and Mr. H. S. Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 40
+V: P2 name="Staff-1"
+%%MIDI program 2 41
+V: P3 name="Staff-2"
+%%MIDI program 3 42
+V: P4 name="Staff-3"
+%%MIDI program 4 43
+K: Eb
+[V: P1]  B2 e A | G3 F | E B B A | (A2 G)z | c2 e e | d3 B | c3 d | B3 B | f3 e | (d e) (d c) | (B c) (B A) | G3 A | B2 G2 | E2 A2 | (A2 G)z | F2 G F | E3 G | G3/ G/ A G | d3 G | G3/ G/ A G | c d e e | e3/ e/ e/ d/ c | =A3 A | G3 G | B3 B | B2 A2 | G4 |z2 G2 | A3 A | A2 F2 | G4|]
+[V: P2]  G2 G F | (E D) (C D) | E E E F | (F2 E)z | G2 G G | G3 G | (G _G) (F E) | D3 B | _A3 G | (A B) (A G) | (F G) F2 | E3 F | G2 E2 | E2 F2 | (F2 E)z | E2 E D | E3 G | E3/ E/ E E | F3 F | D3/ D/ D D | G F E G | ^F3/ F/ F/ G/ G | G2 ^F2 | G3 G | G3 G | G2 F2 | D4 |z2 E2 | E3 E | E2 D2 | E4|]
+w: Sleep, ho- ly Babe!_ u-_ pon Thy mo- ther's breast_ Great Lord of earth and sea_ and_ sky How sweet to see_ Thee_ calm-_ ly lie In such a place of rest!_ Sleep, ho- ly Babe! Thine an- gels watch a- round All bend- ing low with fold- ed wings Be- fore Th' in- car nate King of kings In rev'- rent awe pro- found. In rev'- rent awe pro- found.
+[V: P3]  B,2 B, _C | B,2 A,2 | G, B, C D | (D2 E)z | E2 C C | B,3 B, | B,3 =A, | B,3 B, | D3 E | (F G) (F E) | (D E) D2 | E2 B,2 | B,3 =B, | C2 C2 | B,3z | =A,2 B, _A, | G,3 G, | G,3/ G,/ C G, | G,2 (A, G,) | =B,3/ B,/ C B, | C (C/ =B,/) C G, | =A,3/ A,/ A,/ B,/ E | (D E) (D C) | B,3 B, | E3 E | _D2 C2 | =B,4 |z2 C2 | C3 C | _C2 C2 | B,4|]
+[V: P4]  E,2 E, E, | E,3 E, | E, G, F, B,, | E,3 D, | C,2 C, C, | G,3 G, | E,2 F,2 | B,,3 B, | B,3 B, | B,3 B, | B,2 B,2 | (B, C) (B, A,) | G,3 G, | A,2 F,2 | (D,2 E,)z | C,2 C, C, | E,3 G, | C,3/ C,/ C, C, | =B,,2 (C, B,,) | F,3/ F,/ F, F, | E, D, C, C, | C,3/ C,/ C,/ B,,/ C, | D,2 D,2 | G,,3 G, | E,3 E, | =E,2 F,2 | G,4 | C,4 | A,,3 A,, | A,,2 A,,2 | E,4|]
+

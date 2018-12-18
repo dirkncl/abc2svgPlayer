@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Shepherds Watching O'er The Plain
+Z: Edwin Lemare
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  (e d) c | B2 G | (A G) F | E3 | A2 G | c2 c | B2z | (e d) =B | =B2 c | (c _B) G | (B2 A) | (B c) d | (e B) A | G3|]
+w: Shep-_ herds watch- ing o'er_ the plain, Tell us what ye heard, Whis-_ per of the glad_ re- frain_ That_ your bos-_ oms stirr'd.
+

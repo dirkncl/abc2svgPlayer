@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Softly The Night Is Sleeping
+Z: C. Simper
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  F F3/4 F/4 F F | B2 A F | E F A (G/ F/) | E3z/ | F F3/4 F/4 B d | c2 A F | E3/ A/ ^G (A/ B/) | A3 A | c3/ d/ e c | d2 A A | B3/ A/ G A | F3z | F F3/4 F/4 G A | B2 d2 | c c3/4 B/4 (A/ B/) (c/ d/) | e3z |"^Chorus" d d3/4 d/4 d3/ c/ | B d A2 | F A3/4 A/4 G F | E E E2 | F A3/4 A/4 d3/ d/ | e3/ d/ c2 | d c3/4 B/4 A3/ G/ | F E D2|]
+w: Soft- ly the night is sleep- ing, On Beth- l'hem’s peace- ful_ hill Si- lent the shep- herds watch- ing, The gen- tle flocks are_ still; But hark! The won- drous mu- sic Falls from the op- ’ning sky; Val- ley and cliff re- e cho "Glo- ry to God_ on_ high!" Glo- ry to God it rings a- gain! Peace on the earth, good will to men! Glo- ry to God! it rings a- gain! Peace on the earth, good will towards men!
+

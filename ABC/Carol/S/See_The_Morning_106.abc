@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: See! The Morning Star Is Dwelling
+Z: John E. Pinkham
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  Gz/ D/ E F | G B A G | c B A G | F E D2 | G3/ F/ E F | (G/ B/) c ^A B | B3/ B/ A d | ^c e dz | D (E/ F/) G A | B c (d ^d) | e =d c B | A A Az | G3/ F/ A G | c B e d | c B d c | B3/ A/ Gz|]
+w: See! the morn- ing star is dwel- ling On the Eas- tern moun- tain height; See! The Day all days_ ex- cel ling, Bursts up- on our ach- ing sight; Sing we_ then in ca- rol free,_ Christ- us Na- tus Ho- di e Christ- us Na- tus, Christ- us Na- tus, Christ- us Na- tus Ho- di e.
+

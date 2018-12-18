@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sing The Carol! Raise Your Voices!
+Z: H. S. Irons
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G3/4 A/4 | B3/ e/ A/ c/ | c B E/ E/ | E/ F/ (G/A/) (B/c/) | F2 G3/4 G/4 | B3/ e/ A/ c/ | c B B/ c/ | d/ G/ (c/B/) (=A3/4G/4) | G2 G/ G/ | _A3/ c/ f/ e/ | e d d/ d/ | e3/ B/ B/ A/ | F2 B3/4 B/4 | B3/ G/ A/ B/ | =B c F/ F/ | G/ B/ E F | E2|]
+w: Sing the car- ol! Raise your voi- ces! Je- sus our Em- man_ u_ el, Seen of an- gels, gone to glo- ry, Came from heaven, as I_ do_ tell; Je- sus Christ, our soul’s sal- va tion, Son of God, and Vir- gin born, Word made flesh, Yea, God In- car nate, Came from heaven on Christ- mas morn.
+

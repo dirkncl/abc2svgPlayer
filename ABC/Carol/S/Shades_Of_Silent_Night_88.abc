@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Shades Of Silent Night
+Z: Chas. H. Sunderland
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  c e A c | F A d c | B B c c | d (c/ B/) c2 | e ^d =d c | B A (G/ F/) E | d c B A | G (F/ E/) A2 | E E E E | A G A A | F B A G | G F E2 | e3/ e/ e e | e G A B | c (A/ =G/) F d | A3 B | A4|]
+w: Shades of si- lent night di- vid ing, Bursts the glo- ry from a-_ bove, Down the stream of bright- ness glid-_ ing, Comes the mes- sen ger of_ love. To the shep- herds low- ly tel- ling Of the Christ ex- pect ed long. While the sud- den an- them swel- ling Fills the_ glow- ing heav'n with song.
+

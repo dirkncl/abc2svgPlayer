@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Shades of Silent Night
+Z: Chas. H. Sunderland
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  c3/ B3/ | A3/ E3/ | F3/ A3/ | c3/ A3/ | d3/ B3/ | c3/ A3/ | B3/ =d3/ | e3 | c3/ B3/ | A3/ E3/ | F3/ A3/ | c3/ B3/ | e3/ e3/ | d3/ B3/ | A3/ G3/ | A3/zz/ | c3/ f3/ | f3/ =e3/ | f3/ c3/ | =e3/ d3/ | c3/ c3/ | B3/ A3/ | G3/ F3/ | (=E3/ _E3/) | c3/ A3/ | B3/ E3/ | c3/ A3/ | B3/ E3/ | c3/ e3/ | d3/ B3/ | A3/ B3/ | c3 | e3/ _g3/ | f3/ (d B/) | A3/ B3/ | (A3 | A3/)zz/|]
+w: Shades of si- lent night di- vid ing, Bursts the glo- ry from a- bove, Down the stream of bright- ness glid- ing, Comes the mes- sen ger of love. To the shep- herds low- ly tel- ling Of the Christ ex- pect ed long._ While the sud- den an- them swel- ling Fills the glow- ing heav'n with song. Fills the glow- ing_ heav'n with song._
+

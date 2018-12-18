@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: See Seraphic Throngs Descending
+Z: Samuel Wakely
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=96
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: E
+[V: P1]  E3/ F/ G E | G B (G/F/) E | G B e B | A G F2 | B F (G/A/) B | e B (G/F/) E | A3/ A/ (A/B/) c | (B/A/) (G/F/) E2 | B3/ B/ B B | c B e B | c3/ B/ A G | F E B2 | B3/ B/ B B | c B e B | c B B A | A G (G F) | B3/ B/ B e | d d e B | G c B A | G F E2|]
+w: See Ser- a phic throngs des- cend_ ing Swift to- ward the ne- ther earth. Hymns sub- lime_ their ways at- tend_ ing Hark! they sing_ the Sav-_ iour's_ birth, Round the globe let ev- 'ry crea- ture Now com- mem or ate this morn, When the Lord in hu- man na- ture, Was a help- less In- fant born._ When the Lord in hu- man na- ture, Was a help- less In- fant born.
+[V: P2]  E3/ F/ G E | G B (G/F/) E | E D E E | F E D2 | D B, E D | E F E E | C (F/E/) D C | D D | E2 | D (A/G/) (F/E/) D | E (B/A/) (G/F/) E | G F E E | F C D2 | D3/ E/ F A | G3/ F/ E G | A F E E | D E D2 | E E (B/A/) (G/A/) | F F E F | (G/F/) (E/D/) E E | E D B,2|]
+[V: P3]  E,3/ F,/ G, E, | G, B, (G,/F,/) E, | B, A, B, B, | B, B, B,2 | F, B, B, G, | G, B, B, B, | A, A, F, A, | F, (B,/A,/) G,2 | F, B, (D/C/) B, | B, D B, E | E B, B, B, | B, ^A, F,2 | F, B, (D/C/) B, | E3/ D/ B, E | E D B, C | A, B, B,2 | C3/ D/ E D | D C C B, | C B, (C/F/) (E/D/) | C (C/B,/) G,2|]
+[V: P4]  E,3/ F,/ G, E, | G, B, (G,/F,/) E, | E, F, G, G, | D, E, B,,2 | B,, D, E, G, | C, D, E, G, | F, (D,/C,/) B,, A,, | B,, B,, E,2 | B,,3/ D,/ F, A, | G,3/ F,/ E, G, | C, D, E, E, | D, C, B,,2 | B,, (A,/G,/) (F,/E,/) D, | E, (B,/A,/) (G,/F,/) E, | A,, (A,/B,/) G,3/ A,/ | F, (G,/E,/) B,,2 | G,3/ A,/ B, C | B,, (B,/A,/) (G,/F,/) (E,/D,/) | E, F, G, A, | B, B,, E,2|]
+

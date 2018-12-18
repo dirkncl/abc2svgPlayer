@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sing We Now Of Joy and Gladness
+Z: W. Gilbert
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A d/ d c/ | c B/ B A/ | F F/ E F/ | G3/ G3/ | G3 | A d/ d c/ | =B f/ f e/ | e d/4 d/4 c c/ | A3/ =B3/ | c3 | A A/ G F/ | c c/ c B/ | G3/ A3/ | c3/ (c B/) | A3 | A c/ d d/ | g f/ f e/ | f d/ c A/ | G3/ G3/ | F3|]
+w: Sing we now of joy and glad- ness, Christ our King come down to earth, Frees man- kind from pain and sad- ness, Hail th' In- car nate Sa- viour's birth. List, an- gel ic strains are stream- ing Through the O- rient_ skies, Look, ce- les tial light is beam- ing On the won- d'ring shep- herds' eyes.
+

@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sleep Holy Babe
+Z: John B. Dykes
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F2 F3/ B/ | A3 f | f (e/d/) c3/ B/ | A3 A | A3/ A/ =B ^c | e3/ A/ A A | A f f (e/d/) | d3/ c/ c c | c3/ F/ F F | F3 F | (F/A/) (c/d/) c3/ E/ | F4|]
+w: Sleep, ho- ly Babe! up- on Thy_ moth- er's breast, Great Lord of earth and sea and sky, How sweet it is to_ see Thee lie, In such a place of rest, In such_ a_ place of rest!
+

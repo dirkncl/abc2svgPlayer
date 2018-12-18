@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Shepherds On Fair Bethlehem's Plain
+Z: George Edgar Oliver
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  C | D3/ E/ F G | A d/ d/ c A | A3/ G/ G G | A G E C | D3/ E/ F G | A d c (c/=B/) | A/ E/ (A/c/) c =B | B3/ A/ A (=G/A/) | B f/ e c | A3/ e/ d (G/A/) | (c/B/) (e/d/) c G | B3/ B/ A A | B3/ B/ A A | d3/ d/ c F | (G/A/) B A F | G3/ G/ F|]
+w: The shep- herds on fair Beth- le hem’s plain, A- sleep be- neath the star- ry host, A- woke to learn how one shall reign Whose_ po- wer is_ from the Ho- ly Ghost; For_ An- gel songs the mes- sage bring, Of_ joy_ in_ heav’n and peace on earth, That men the song may ev- er sing, How Christ_ had sweet and low- ly birth.
+

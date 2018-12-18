@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sicilian Mariners 2
+Z: Sicilian melody, 1794
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Sicilian Mariners 2"
+V: P2_2
+%%MIDI program 2 91
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  [EB] [Ec] (B3/4A/4) (G/A/) | [EB] [Ec] [E3/4B3/4] [E/4A/4] (G/A/) | | [Fd] c [D2B2] | | | [E/e/] [E/d/] (c/B/) [E/e/] [E/c/] [E/B/] [F/A/] | [EG] [DF] E2|]
+% Extracting voice 2 from part P1
+[V: P1_2]  x2  E E | x3  E | | x1  (F/E/) x2  | | | x1  E x2  | x2  E2|]
+% Extracting voice 1 from part P2
+[V: P2_1]  [E,G,] [E,A,] (G,3/4F,/4) (E,/F,/) | [E,G,] [E,A,] [E,3/4G,3/4] [E,/4F,/4] (E,/F,/) | [E,G,] [D,B,] [C,=A,] B, | | [B,,3/4B,3/4] B,/4 [A,3/4B,3/4] [G,/4B,/4] [F,B,] [D,B,] | | [E,/C/] [E,/B,/] (A,/G,/) [E,/C/] [F,/A,/] G,/ [A,/C/] | B, [B,,A,] [E,2G,2]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  x2  E, E, | x3  E, | x3  (B,,/E,/) | | x0  B,/4 x3  | | x1  E, x1  G,/ x0  | B, x3 |]
+

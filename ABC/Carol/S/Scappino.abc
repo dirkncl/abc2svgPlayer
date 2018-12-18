@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Scappino
+Z: Traditional Italian
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: F
+[V: P1]  A A | B2 c G | A A G A | F2 E F | D2 D C | D E F G | A c B A | G4 | F3 G | A c =B d | c2 c C | E G ^F A | G Gz G | G E F G | A G F E | D2 C2 | c2 B A | G4 | F4|]
+w: To- ther day in mid- win- ter On the feast of Saint Ste- phen, Up- on my rounds I walk'd a- broad at e- ven; For weeks it had been blow- ing, For weeks it had been blow- ing From East- ern lands, and now full fast was snow- ing, Snow- ing, Yea, snow- ing.
+[V: P2]  F F | G2 G G | F F F E | D2 D C | B,2 B, G, | B, B, D E | F E D C | C4 | A,3 E | F E G G | E2 E C | C E D D | D Dz D | E C D E | F D C C | (C =B,) C2 | (F E) D C | C4 | A,4|]
+[V: P3]  C C | D2 C C | C C C C | A,2 A, A, | F,2 F, E, | F, G, A, C | C C F, F, | (F,2 E,2) | F,3 C | C C D =B, | C2 C A, | G, C A, ^F, | G, G,z =B, | C G, B, B, | C B, A, G, | G,2 G,2 | F,2 F, F, | (F,2 E,2) | F,4|]
+[V: P4]  F, F, | F,2 E, E, | F, F, C, C, | D,2 A,, A,, | B,,2 B,, C, | B,, G,, D, C, | F, A,, B,, F, | C,4 | F,,3 C, | F, A, G, G, | C,2 C, F, | C, C, D, D, | G,, G,,z G, | C, C, B,, G,, | F,, G,, A,, C, | G,,2 C,2 | A,,2 B,, F, | C,4 | F,,4|]
+

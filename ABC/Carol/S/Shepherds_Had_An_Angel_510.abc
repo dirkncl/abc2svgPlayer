@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Shepherds Had An Angel
+Z: F. L. Wiseman
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c/ | A G/ (A/B/) c/ | (d e/) d d/ | A F/ (G3/4F/4) G/ | (c3/ c) c/ | d A/ (A/G/) F/ | A =B/ A B/ | c/ (c/4A/) e c/ | A3/ c3/ | f c/ A3/4 (G/4F/4) | (c d) c c/ | f c/ (A/G/) A/ | (F3/ F)|]
+w: The shep- herds had_ an an-_ gel, The wise men had_ a star;_ But what have I,_ a lit- tle child, To guide me_ home from far, Where glad stars sing to-_ geth_ er, And sing- ing an-_ gels are?_
+

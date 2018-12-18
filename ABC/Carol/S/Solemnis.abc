@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Solemnis
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1] z2 [G,C] | [A,2C2E2] [A,DF] | [B,2D2G2] [CEG] | [CFA] [CEG] [A,DF] | [B,2D2G2] [CEG] | [C2E2A2] [DGB] | [E2G2c2] [B,EG] | [A,2C2E2] [A,DF] | [B,2D2G2] [G,CE] | [C2E2G2] [A,DF] | [G,2B,2D2] [G,CE] | [A,CF] [G,CE] [G,B,D] | [G,2C2E2] [B,DG] | [G,2A,2C2] [G,B,D] | [G,CE] [G,C] [A,CF] | [G,2C2E2] [G,B,D] | C2z|]
+[V: P2] z2 [C,E,] | A,,2 D, | G,,2 C, | F,, C, D, | G,,2 C, | A,,2 G,, | C,2 E, | A,,2 D, | A,,2 C, | C,2 D, | G,,2 C, | F,, C, G,, | C,2 G,, | A,,2 G,, |z E, F,, | C,2 G,, | [C,2E,2]z|]
+
