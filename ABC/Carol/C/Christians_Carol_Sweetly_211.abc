@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christians, Carol Sweetly
+Z: W. Spinney
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: All Rights Reserved
+L: 1/4
+M: 4/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A3/ F/ F A | (A3/ B/) A2 | A3/ F/ (F/G/) (A/B/) | (B2 A2) | d3/ d/ c F | c2 B2 | d B F ^G | A4 | A3/ A/ c B | A2 A2 | A3/ A/ c B | A4 | D3/ D/ E F | G2 B2 | d F A C | D4|]
+w: Christ- ians, ca- rol sweet-_ ly, Up to- day_ and_ sing!_ 'Tis the hap- piest birth day Of our Sav- iour King; Haste we then to greet Him, Hum- bly fal- ling down, While our hands en- twine Him, Dear- est Babe, a crown.
+
