@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Agnes - Dykes
+Z: J. B. Dykes, 1866
+Z: Public Domain
+Z: Version 3
+L: 1/4
+M: 3/4
+V: P1_1 name="ChrchOrg"
+V: P1_2
+%%MIDI program 1 52
+V: P2_1 name="ChrchOrg-2"
+V: P2_2
+%%MIDI program 2 52
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | | f2 [GB] | | G G G | | | | | | | | e2 [Fd] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | (F A) x1  | | G G G | | | | | | | | (E G) x1  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | C2 [A,C] | | | | | B,3 | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | C2 x1  | | | | | (G,2 F,) | | ||]
+

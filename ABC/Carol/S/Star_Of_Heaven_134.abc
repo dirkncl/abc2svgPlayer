@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Star Of Heaven, New Glory Beaming
+Z: Sir John Stainer
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=400
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D3 E F2 A2 | A2 G2 F2 A2 | d3 c B2 F2 | B2 A2 G4 | B3 B c2 d2 | f2 e2 d2 c2 | B2 ^A2 B2 =A2 | G2 F2 (F2 E2) | F3 E D2 F2 | A2 B2 A2 G2 | G3 F E2 G2 | c2 B2 A4 | A2 d2 d2 c2 | F2 B2 B2 A2 | G2 B2 A2 D2 | F2 E2 D4|]
+w: Star of Heaven, new glo- ry beam- ing, In the firm- a ment a- bove Sign from God, to man be- night ed, Tel- ling of im- mor tal love!_ Com- est Thou, in An- gel bright- ness, Is- suing from God's Pa- lace gates, Where the fes- tal throngs are meet- ing, Where for man the wel- come waits?
+

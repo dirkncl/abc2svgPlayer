@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Venantius
+Z: Rouen Church Melody, LM
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  F | A c B | (A G) A | F2 G | A2 c | (d c) B | (A B) c | (c B) A | G2 G | (B A) G | (F D) E | (F E3/) D/ | C2 G | (A F) B | (A G) [A,F] | E2 F | F2|]
+w: Why, im- pi ous He-_ rod, vain- ly fear That Christ_ the Sa-_ viour come-_ th here? He takes_ not earth-_ ly realms_ a- way, Who gives_ the crown_ that_ lasts for aye.
+[V: P2]  C | (F2 [D)F)] | [(C(F] [C2)E2)] | [A,2D2] [CE] | [C2F2] [FA] | [FB] [(E(G] [D)G)] | [D2F2] [EG] | [CF] [D2F2] | [B,2D2] [CE] | [(D2(F2] [B,D] | [A,)D)]z2 |z2z |z2 [(C(E] | [C)E)] D2 | [CF] Dz | (C2 [A,)C)] | [A,2C2]|]
+[V: P3]  A, | (C A,)z |z C, A,, |z2 C, |z2z | B,, C,z |z2 C, | A,, B,,z |z2 C, | B,,z2 |z [F,A,] [(G,(C] | [A,)C)] [G,3/C3/] [(G,/(=B,/] | [E,2)G,2)] C, |z F, G, |z B, F, | G,2 F,, | F,,2|]
+[V: P4]  F, | F,2 B,, | F,z2 | F,2z | F,2 F, |z2 G, | D,2z |z2 D, | G,2z |z D, G, | D,2 C, | F,, C,3/ G,,/ | C,2z | A,, D, G,, | A,, B,, D, | C,2z |z2|]
+

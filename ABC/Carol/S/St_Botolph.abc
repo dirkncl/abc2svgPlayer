@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Botolph
+Z: Public Domain
+Z: Version 1
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1] z2 C | [G,2C2E2] [F,C] | [G,CG] B, [CE] | [A,D] C [G,B,] | [G,C] F, [G,D] | [G,2C2E2] [G,CG] | [F,CA] G [A,F] | [G,2B,2G2] [G,CG] | [F,CFA]z [CFB] | [A,CEc] [G,B] [F,CFA] | [A,G] [F,CA] [A,F] | [G,CG] [A,E] [F,A,D] | C2 [B,E] | [A,D] C [F,B,D] | C2z|]
+[V: P2] z2 [C,E,] | C, B,, A,, | G,,2 [A,,C,] | [F,,2D,2] G,, | A,,2 B,, | C, D, E, |z2 D, |z2 E, |z E, D, |z3 | E,z D, | E, G,, G,, | [A,,2E,2] [G,,C,] | [F,,2D,2] G,, | [C,2E,2]z|]
+

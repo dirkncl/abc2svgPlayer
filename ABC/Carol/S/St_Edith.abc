@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Edith
+Z: Justin Knechtt,1799,  & Edward Husband,  1871
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: C
+[V: P1] z3 [G,C] | [G,C] [G,/B,/]C/ [B,D] [B,D] | [B,D] C2 [G,E] | [CE] [C/D/]E/ [CF] [A,D] | [G,3B,3] [G,C] | [G,C] [G,/B,/]C/ [CE] [CG] | [C2G2] [CF] [CE] | [A,D] [A,/E/]F/ [B,E] B,/D/ | C3 [CG] | [E3/c3/] [E/B/] [EA] E | [E2G2] [DF] [CE] | [CD] [C/c/]D/ [Ec] [D/B/][C/A/] | [G,3B,3G3] [CE] | [CE] [C/D/]E/ C [C/E/]G/ | [C2G2] [CF] [CE] | [A,D] [A,C] [G,B,] [G,/C/]D/ | [G,4C4]|]
+[V: P2] z3 [C,E,] | [C,E,] [C,/D,/]E,/ [C,F,] [C,F,] | [C,F,] [C,2E,2] [C,C] | [C,B,] [C,^A,] [F,,=A,] [F,,F,] | [G,,3D,3] [C,E,] | [C,E,] [C,/D,/]E,/ [C,G,] [C,^A,] | [E,2^A,2] [F,=A,] [C,G,] | [F,,F,] [F,,/E,/]D,/ [G,,G,] G,,/F,/ | [C,3E,3] [C,E,] | [A,,3/E,3/] [B,,/^G,/] [C,A,] [C,A,] | [D,2A,2] [D,A,] [D,G,] | [D,^F,] [E,G,] [D,F,] [D,F,] | [G,,3G,3] [C,G,] | [C,G,] [C,/F,/]G,/ [C,E,] [C,/G,/]^A,/ | [F,2^A,2] [F,=A,] [C,G,] | [F,,F,] [F,,E,] [G,,D,] [G,,/E,/]F,/ | [C,4E,4]|]
+

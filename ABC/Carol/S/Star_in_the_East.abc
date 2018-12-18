@@ -1,0 +1,31 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Star in the East
+Z: J. M. Lowrie, 1870
+Z: Music by William Augustine Ogden
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: 6/8
+Q: 1/4=95
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 16
+V: P2_1 name="Star in the East"
+V: P2_2
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  C/4 C/4 | C/ [C/E/] [E/G/] [Ec] [E/4c/4] [E/4c/4] | | [F/A/] [A/c/] [F/A/] [E/G/] [C/E/] C/ | [B,3/-D3/-] [B,D] C/4 C/4 | C/ [C/E/] [E/G/] [E/c/] [E/c/] [E/c/] | | | C3/- C [C/E/] | | | | [B,3/-G3/-] [B,G] (C/4 C/4 | C/ [C/E/] [E/G/] [Ec] [E/4c/4] [E/4c/4] | | | C3/- C"^Refrain"||!ff! | | | [F/A/] [A/c/] [F/A/] [E/G/] [C/E/] C/ | [B,3/-D3/-] [B,D] C/ | C/ [C/E/] [E/G/] [E/c/] [E/c/] [E/c/] | | | C3/- C|]
+w: Lo! the__ star in_ the_ East!_ o-_ ver__ Beth-_ le_ hem’s_ plain,_ It_ shines_ as_ a_ guide_ to_ the_ place___ Where the__ wear- y,_ worn_ trav-_ ’ler_ his__ hopes_ may_ at-_ tain,_ And_ wor-_ ship_ that_ In-_ fant_ of_ Days._ While___ forth_ from_ their_ trea-_ sures,_ frank-_ in_ cense_ and_ gold,_ And the___ cost-_ li_ est_ spic-_ es_ they_ bring.___ For in their__ dis- tant_ land_ it_ had_ long__ been_ fore-_ told,_ The_ birth_ of_ that_ glo-_ ri_ ous_ King._ Let___ the_ glad_ world_ re-_ joice!_ Let_ the_ an-_ gel_ ic_ bands_ Their_ an-_ thems_ tri-_ umph_ ant_ ly_ sing!_ To___ God_ be the_ glo-_ ry!_ Sound_ forth,__ all_ ye_ lands,_ The_ com-_ ing_ of_ Je-_ sus_ our_ King._____
+% Extracting voice 2 from part P1
+[V: P1_2]  C/4 C/4 | C/ | | C/ | C/4 C/4 | C/ | | | C3/- C | | | | C/4 C/4) | C/ | | |"^Refrain" C3/- C||!ff! | | | C/ | C/ | C/ | | | C3/- C|]
+w: Lo! the__ star in_ the_ East!_ o-_ ver__ Beth-_ le_ hem’s_ plain,_ It_ shines_ as_ a_ guide_ to_ the_ place___ Where the__ wear- y,_ worn_ trav-_ ’ler_ his__ hopes_ may_ at-_ tain,_ And_ wor-_ ship_ that_ In-_ fant_ of_ Days._ While___ forth_ from_ their_ trea-_ sures,_ frank-_ in_ cense_ and_ gold,_ And the___ cost-_ li_ est_ spic-_ es_ they_ bring.___ For in their__ dis- tant_ land_ it_ had_ long__ been_ fore-_ told,_ The_ birth_ of_ that_ glo-_ ri_ ous_ King._ Let___ the_ glad_ world_ re-_ joice!_ Let_ the_ an-_ gel_ ic_ bands_ Their_ an-_ thems_ tri-_ umph_ ant_ ly_ sing!_ To___ God_ be the_ glo-_ ry!_ Sound_ forth,__ all_ ye_ lands,_ The_ com-_ ing_ of_ Je-_ sus_ our_ King._____
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | | | | | | | ||| | [C,/G,/] [E,/G,/] G,/ [C,G,] [C,/4G,/4] [C,/4G,/4] | | | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | | | | | | | ||| | x1  G,/ x1  | | | | | | ||]
+

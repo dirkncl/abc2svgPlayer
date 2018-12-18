@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Stars Are Shining Bright And Clear
+Z: E. Bunnett
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E | F/ A/ c B | A/ F/ E E | F/ A/ d c | B2 (c/d/) | e/ c/ B A | A/ B/ c A | G/ c/ (B/G/) (=F/G/) | E2 E | E/ F/ _G/ A/ B/ c/ | d2 c | B3/4 B/4 c B | e2 A | f/ f/ e A | d/ d/ c B | e/ A/ c B | A2|]
+w: The stars are shin- ing bright and clear, The hills are white with snow: Our_ Christ- mas eve has come a- gain, Our hearts with joy_ o’er-_ flow; The Christ- mas car- ols, sweet and glad, Are sound- ing on the air; And Christ- mas wreaths, in glist’- ning show, Make bright the house of prayer.
+

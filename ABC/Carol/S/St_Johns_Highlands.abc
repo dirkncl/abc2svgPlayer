@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. John's Highlands, LM
+Z: Anonymous
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: none
+Q: 1/4=160
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="St. John’s Highlands, LM"
+%%MIDI program 2 91
+K: Db
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | [D2F2] F F | | [D2B2] E2 | | | | | | | | | D4)|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | x2  E E | | x2  D2 | | | | | | | | | D4|]
+[V: P2]  [(D,2(A,2] [D,A,] [D,A,] | [D,2A,2] [F,2A,2] | [E,2A,2] [E,2A,2] | [C,4A,4] | [D,2A,2] [C,=A,] [C,A,] | [B,,2B,2] [B,,2B,2] | [G,,2E,2] [=G,,2B,2] | [A,,4)A,4)] | [(D,2(A,2] [D,A,] [D,A,] | [D,2A,2] [F,2A,2] | [E,2A,2] [E,2A,2] | [C,4A,4] | [D,2A,2] [D,_C] [D,C] | [G,,2B,2] [G,,2B,2] | [A,,2A,2] [A,,2G,2] | [D,4)F,4)]|]
+

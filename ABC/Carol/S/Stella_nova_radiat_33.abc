@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Stella nova radiat
+Z: From the Mosburg Gradual, 1360
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c c d e | f e d c | c B A G | A2 A2 | G G G G | G E F G | B G B c | d c c A | B c F G | A2 A2 | G G G G | G E F G | B G B c | d d c A | B c F G | A2 A2|]
+w: Lo! a won- der star doth shine, Com- ple ta pro- phe ti a: Born is our Em- man u el, As 'twas fore- told by Gab- ri el, De Vir- gi ne Ma- ri a: Where- fore, mas- ters, one and all, I pray you sing a new Cho- ral, Cum ge- ne tri ce pi- a.
+

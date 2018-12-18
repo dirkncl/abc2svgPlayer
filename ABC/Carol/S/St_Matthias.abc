@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Matthias
+Z: W. H. Monk (1823-1889)
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=336
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A2 | G2 F2 d2 A2 | G3 A F2 A2 | G2 F2 G2 c2 | A2 =B2 c2 c2 | c2 B2 A2 A2 | A2 G2 F2 (G A) | B2 D2 E2 F2 | G3 G F2 F2 | G2 A2 B2 A2 | B2 c2 d2 d2 | c2 (A G) F2 B2 | A6 G2 | F6|]
+w: O quick- ly come, dread Judge of all, For, aw- ful though thine ad- vent be; All sha- dows from the truth will fall, And_ false- hood die, in sight of thee. O quick- ly come, for doubt and fear Like clouds dis-_ solve when thou art near.
+

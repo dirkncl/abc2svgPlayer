@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Steiner
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: F
+[V: P1]  [A,CF] [CA] [C/G/]C/ C | [CF] [CA] [C/G/]C/ C | [A,Cc] D/[G,/E/B/] [FA] [C/G/][F/A/] | [G,/B,/D/B/]E/ [A,/C/F/A/]B,/ [CEG] B, | [A,CEc] [G,B,Ec] [A,Dc] [D/B/]A/ | [G,DB] [G,DB] [G,CB] [C/E/A/]G/ | [C/F/A/][G,/B/] [A,/C/F/c/][B,/d/] [A,CFc] [C/G/B/][F/A/] | [DFG] [C/E/]F/ [A,2F2]|]
+[V: P2]  F, [A,,F,] [C,F,] [C,/E,/]B,,/ | [A,,F,] [F,,F,] [C,F,] [C,/E,/]B,,/ | A,, B,,/C,/ [D,F,] E,/F,/ | z4 |z2 _G, [D,F,] |z F, E, C, | F,z2 E,/F,/ | B,, C, F,2|]
+

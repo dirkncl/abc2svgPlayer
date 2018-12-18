@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sussex Carol, 88.88.88
+Z: English melody arr. by Ralph V. Williams, 1919
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: none
+Q: 1/4=150
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Sussex Carol, 88.88.88"
+V: P2_2
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | c2 A B2 c | A G F G2 E | F2 F G A B | A2 [EG] F2 [Ec] | | A G [CF] [E2G2] [CE] | [C2F2] [DF] G A [DB] | A2 [EG] F3 | [E3G3] G2 F | G A B c B [DA] | G6 | | [D2B2] [FA] G F [CG] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | F3- F3 | F2 C3- | C3 F3 | E3/ D/ x2  | | F2 x4  | x3  D2 x1  | C3/ D/ x1  | x3  D3- | D3 C2 x1  | E3 D3 | | x3  D2 x1  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | [C,3F,3] E,2 G, | F,6 | | [A,2C2] [F,C] B, A, [E,G,] | | | E,2 [C,C] [F,3A,3] | | [B,,3E,3] F,3 | C,3- C,3 | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | x3  B,,3 | A,,3 B,,2 D, | | x3  D,2 x1  | | | A,,3/ B,,/ x4  | | x3  A,,2 B,, | B,,3 | | ||]
+

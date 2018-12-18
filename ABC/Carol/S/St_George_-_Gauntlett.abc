@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St George - Gauntlett
+Z: Henry John Gauntlett (1805-1876)
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="St. George (Gauntlett)"
+%%MIDI program 2 19
+K: C
+[V: P1]  [CE] [CF] [CA] [CG] | [CF] [C3E3] | [Ge] [Gd] [Ec] [Gc] | [GB] [E3c3] | [EG] [EA] [D^F] [DG] | [GB] [G3/d3/] [G/d/] [Gc] | [CA] [CG] [CE] [CD] | [B,/E/]F/ [C3-E3-] | [CE]z3|]
+[V: P2]  [C,G,] [F,A,] F, [E,G,] | [D,G,] [C,3G,3] | C [G,B,] [A,C] [G,D] | [G,D] [C,3C3] | [E,B,] [C,C] [D,A,] [G,B,] | [G,D] [F,3/B,3/] [F,/B,/] [E,C] | [F,C] [E,G,] [C,G,] [G,,G,] | [G,,G,] [C,3-G,3-] | [C,G,]z3|]
+

@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Song 1 - Gibbons
+Z: Orlando Gibbons, 1623
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Song 1 (Gibbons)"
+%%MIDI program 2 91
+V: P3 name="Song 1 (Gibbons)-2"
+%%MIDI program 3 91
+K: C
+[V: P1]  G2 G G | [Ac] [Bd] [ce] [ce] | [cd] [Bd] c2- | c [ce] [ce] [c/f/]d/ | [Bg] G [Gc] [GB] | [GA] [^FA] G2- | G [^Ad] [Ad] [ce] | [cf] ^A =A [F/c/]G/ | [Ac] [Gc] [Ff] [Ge] | [G3d3] [Ad] | [GB] G [Gc] [A/d/]B/ | [ce] [cg] [cd] [Bd] | c3 c | [cf] [^Ag] [=A=a] [ca] | [Bd] [cg] [Ag] [A^f] | [B3g3] G | [Gc] [A/d/]B/ [ce] [Bd] | [A/f/]G/ [ce] [cd] [Bd] | c4|]
+[V: P2]  [C2E2] [CE] [B,D] | [A,E] G G A | D G/F/ [C2-E2-] | [CE] [CG] [CG] [A,F] | D B, E D | D D/C/ B,2- | B, G G [CG] | A G F A,/^A,/ | C C C/B,/ C | B,3 F/E/ | D B, C F | G G G3/ F/ | E3 C | [A,C] D/E/ F F/E/ | D C D D | D3 B, | C F G G | [A,/C/][B,/D/] [C/E/]F/ G G/F/ | E4|]
+[V: P3]  z4 |z G,/F,/ E, F, | G, G,z2 | z4 | G, G, C, G, | D, D, G,2- | G, G, G,z | F,3 F, | F, E, D, C, | G,3 D, | G,3/ F,/ E, D, | C,/D,/ E,/F,/ G, G, | C,3z |z G, F, F, | G, E, D, D, | G,3 G,/F,/ | E, D, C, G, |z2 G, G, | C,4|]
+

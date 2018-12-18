@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Venantius, LM
+Z: Rouen church melody
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal
+L: 1/4
+M: 3/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="St. Venantius, LM"
+V: P2_2
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | A c [FB] | | | | | A B [Ec] | c B [FA] | | B A [DG] | | | | | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | F2 x1  | | | | | D2 x1  | F2 x1  | | F2 x1  | | | | | | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | C A, [B,,D] | C2 [A,,C] | | | [B,,B,] [C,G,] G, | | | | D2 [G,B,] | A, F, [C,G,] | | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | F,2 x1  | F, C, x1  | | | x2  G, | | | | B,, D, x1  | D,2 x1  | | | | | ||]
+

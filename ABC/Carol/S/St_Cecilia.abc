@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Cecilia
+Z: Leighton George Hayne, 1863
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="St. Cecilia"
+%%MIDI program 2 19
+K: G
+[V: P1]  [Gd] [Gc] [DGB] [GB] | [FA] G3 | [^CB] [DA] [DF] [DF] | [^CE] D3 | [FA] [FA] [GB] [Gc] | [Fd] [G3B3] | [DG] [CE] G [GA] | [FA] G3|]
+[V: P2]  [G,B,] [E,C] G, [D,D] | [D,C] [E,3B,3] | [E,G,] [F,A,] [D,A,] [A,,A,] | [A,,G,] [D,3F,3] | [D,D] [CD] [B,D] [A,E] | [D,D] [G,3D3] | [B,,G,] [C,G,] [B,,D] [D,D] | [D,C] [G,,3B,3]|]
+

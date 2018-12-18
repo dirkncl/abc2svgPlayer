@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Ethelwald
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: G
+[V: P1] z3 [B,Gd] | [A,/C/E/c/]F/ [B,DGB] [CEGA] [D/F/B/]c/ | [D3G3B3] [DB] | [A,DA] [B,/D/]A,/ [B,DE] [A,^CE] | D3 D | [DE] [A,CF] [B,G] [G/B/]F/ | [A,EA] [EA] [^DB] [^G,EB] | [A,/E/c/]F/ [GB] [G/A/]A,/ [B,/F/A/]C/ | [B,3G3]z|]
+[V: P2] z3 G, | z4 | G,3 G, | F, G,/F,/ G,z | [D,3F,3] [D,F,] | [C,G,] A,, [E,G,] [E,/G,/]D,/ | C,/G,/ [C,/F,/]E,/ [B,,F,] E, | A,, [B,,/G,/]C,/ [D,G,] D, | G,,3z|]
+

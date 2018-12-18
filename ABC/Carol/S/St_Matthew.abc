@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Matthew
+Z: William Croft (1678-1727)
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 19
+K: Bb
+[V: P1]  [CF] D2 | [DF] [D2B2] | [Fd] [Ec] [DB] | [CA] [D2B2] | [Fd] [F2c2] | F [DG] [CF] | [C=E] [C2F2] | [Fc] [F2A2] | F [F2B2] | [Fd] [Gd] c | [D/B/]E/ [FB] A | [CF] [F2B2] | [Fd] [Ec] [DB] | [CA] [D2B2] | [CD] [B,2D2] | [DG] [DG] _G | [B,G] [EA] [DG] | [D_G] [D2=G2] | [_GA] [=G2B2] | A/G/ [D2F2] | [_D=E] =D2 | [EF] [DF] E | [FB] [E2G2] | [FG] [=Ec] F | [GB] [FB] A | F [FB] E | [Dd] [Gc] [FB] | [FA] [F2-B2-] | [FB]z2|]
+[V: P2]  F, B,2 | [D,A,] [G,2B,2] | [D,B,] [E,G,] F, | F, F,2 | B, C2 | [D,A,] B, A, | G, [F,2A,2] | [F,A,] [F,2C2] | [E,C] [D,2B,2] | B, [E,B,] C | G, [F,2C2] | [E,A,] [D,2B,2] | B, [E,G,] F, | F, F,2 | _G, =G,2 | G, [D,B,] A, | [E,G,] C [D,B,] | [D,A,] [G,2B,2] | [D,D] [G,D] [F,_D] | [F,/D/][G,/B,/] A,2 | G, [D,2F,2] | A, B,2 | [D,B,] [E,2B,2] | [D,=B,] C D, | [=E,C] [F,2C2] | [E,A,] [D,B,]z | F [E,E] [F,D] | C D2- | Dz2|]
+[V: P3]  A,, B,,2 |z3 |z3 | F,, B,,2 | B,, A,,2 |z B,, C, | C,z2 |z3 |z3 | B,,z2 |z3 |z3 | B,,z2 |z B,,2 | A,, G,,2 | B,,z2 |z C,z |z3 |z3 |z3 | A,,z2 | C, B,, C, |z3 |z C,z |z3 |z2 C, | B,,z2 | F,, B,,2- | B,,z2|]
+

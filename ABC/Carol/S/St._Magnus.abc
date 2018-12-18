@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Magnus
+Z: Attributed to Jeremiah Clark, 1707
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: G
+[V: P1]  [B,D] [B,G] [EA] [DF] | D [DG] [DA] [DB] | [DA] [DB] [DG] [DB] | [G^c] [F3d3] | [FA] [GB] [FA] [EG] | [DF] [CE] [EA] [DF] | D [G/d/]F/ [E/d/]c/ [DB] | [C/A/]C/ [B,3-G3-] | [B,G]z3|]
+[V: P2]  G, [E,G,] [C,C] [D,A,] | [C,/F,/]C,/ [B,,G,] [D,F,] [G,,G,] | [D,F,] [G,,G,] [G,B,] [G,/B,/][F,/A,/] | [E,G,] [D,3A,3] | [D,D] [G,D] [D,D] [E,B,] | [B,,/B,/]A,/ [C,G,] [A,,C] [D,A,] | [D,/F,/]C,/ [B,,G,] [B,,G,] [D,G,] | [D,F,] G,3- | G,z3|]
+

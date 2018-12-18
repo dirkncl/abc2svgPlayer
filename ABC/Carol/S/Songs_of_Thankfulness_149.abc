@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Songs of Thankfulness and Praise
+Z: G. B. Lissant
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=105
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c f/ e d/ | c B/ F3/ | G A/ B =B/ | c f/ (e d/) | c f/ e d/ | c B/ A3/ | A A/ (B/ c/) d/ | F E/ F3/ | (F/ G/) A/ B B/ | (A/ B/) c/ d3/ | d d/ d d/ | (^c/ d/) e/ f3/ | f B/ A c/ | e d/ G3/ | c c/ B A/ | (G/ A/) G/ | F3/|]
+w: Songs of thank- ful ness and praise, Je- sus, Lord, to Thee we raise,_ Man- i fest ed by the star To the sa-_ ges from a- far, Branch_ of ro- yal Da-_ vid's stem, In Thy birth at Beth-_ le hem. An- thems be to Thee ad- dressed God in man made man-_ i fest.
+

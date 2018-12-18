@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Kirchenlied auf die heilige Christnacht
+Z: Franz Xaver Gruber
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=70
+V: P1 name="Staff"
+%%MIDI program 1 24
+K: D
+[V: P1]  (A3/4 B/4) A/ Fz/ | A3/4 B/4 A/ Fz/ | (e3/4 ^d/4) e/ cz/ | (=d3/4 c/4) d/ Az/ | B B/ (d3/4 c/4) B/ | A3/4 B/4 A/ Fz/ | B B/ (d3/4 c/4) B/ | A3/4 B/4 A/ Fz/ | c3/4 c/4 c/ e3/4 d/4 c/ | (d3/ f)z/ | d3/4 A/4 F/ A3/4 G/4 E/ | (D/F/E/ D/4F/4B/4A/4F/4D/4) |"^Chorus" c3/4 c/4 c/ e3/4 d/4 c/ | (d3/ f)z/ | d3/4 A/4 (F/4B/4) A3/4 G/4 E/ | (D/4F/4B/4A/4F/4D/4 C/4E/4A/4G/4E/4C/4 | D/F/F/ F)z/|]
+w: Stil-_ le Nacht! Hei- li ge Nacht! Al-_ les schleft; ein-_ san wacht nur das trau-_ te hei- li ge Paar. Hol- der Knab'_ im lok- kig ten Haa: schla- fe in himm- li scher Ruh,_ schla- fe in himm- li scher Ruh,________ schla- fe in himm- li scher Ruh,_ schla- fe in_ himm- li scher Ruh._______________
+

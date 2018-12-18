@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Cross
+Z: John Bacchus Dykes, 1861
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=125
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: F
+[V: P1]  [D2F2] [DF] [EG] | [F3A3] [Fd] | [Fc] C [DB] E | [F4A4] | [F2A2] [EA] [DB] | [C2c2] F2 | [F2A2] [E2G2] | F3 [CA] | [C3A3] [DA] | [D2G2] [_D2A2] | [D2F2] [EG] D | [_D4E4] | D2 D D | A3 [DG] | [D2F2] [_D2E2] | D4|]
+[V: P2]  [D,2A,2] [D,A,] [C,C] | [F,3C3] [B,,B,] | [C,2A,2] C, G, | [F,4A,4] | [D,2F,2] [C,F,] [B,,F,] | [A,,F,] G, [D,A,] B, | [C,2C2] C, B, | [F,3A,3] [F,A,] | [F,3A,3] [F,A,] | [E,2B,2] [A,,2A,2] | [D,2A,2] [G,,2B,2] | [A,,4A,4] | D,2 D, D, | A,3 [A,,B,] | [A,,2A,2] [A,,2G,2] | [D,4F,4]|]
+

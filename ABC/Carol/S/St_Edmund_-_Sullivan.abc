@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Edmund
+Z: Arthur Seymour Sulllivan, 1872
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="St. Edmund"
+%%MIDI program 2 91
+K: G
+[V: P1]  [B,2G2] [CG] [DG] | [CG] [CF] [C2A2] | [C2D2] [CD] [CE] | [B,4D4] | [B,2D2] [B,B] [^CB] | [DB] [DA] [E2d2] | [D2A2] [DF] [^CE] | D4 | [C2A2] [CB] [CA] | [B,A] [B,G] [B,2D2] | [E2c2] [DB] [DA] | [DA] [DG] [B,2D2] | [D2B2] [Ee] [Ed] | [Ed] [Ec] [EB] A | [D2G2] [DA] [DF] | [D4G4]|]
+[V: P2]  [G,,2G,2] [A,,G,] [B,,G,] | [D,A,] [D,A,] [D,2F,2] | [F,2A,2] [D,F,] [D,F,] | G,4 | [G,,2G,2] [G,,D,] [G,,E,] | [F,,D,] [A,,F,] [B,,2^G,2] | [A,,2F,2] [A,,A,] [A,,G,] | [D,4F,4] | [D,2F,2] [D,E,] [D,F,] | [G,,D,] [G,,D,] [G,,2G,2] | [D,2F,2] [E,G,] [F,C] | [G,C] [G,B,] G,2 | [F,2G,2] [E,^G,] [E,G,] | A, [A,,A,] [B,,^G,] [C,A,] | [D,2B,2] [D,F,] [D,C] | [G,,4B,4]|]
+

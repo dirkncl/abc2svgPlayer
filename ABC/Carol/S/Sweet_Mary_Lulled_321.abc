@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sweet Mary Lulled Her Blessed Child
+Z: H. Ernest Nichol
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G/ | B G/ B G/ | F/ G/ A/ B B/ | c A/ (c/B/) A/ | e3/ B B/ | e3/ B G/ | F G/ =A B/ | d c/ B _A/ | G =A/ =B c/ | e d/ c B/ | =A G/ F G/ | (A3/ d3/) | (F3/ B3/) F/ | =A G/ F =E/ | F3/ Bz/ | B E/ (E/F/) G/ | (G3/ F)z/ | c F/ (F/G/) A/ | (B3/ B)z/ | B G/ (G/A/) B/ | (B3/ A) A/ | G c/ e d/ | (c3/ c)z/ | c B/ Az/ | A G/ Fz/ | (E3/ F3/ | E3/) C3/ | (E3/ E)|]
+w: Sweet Ma- ry lul- led her bless- ed Child In man- ger ly-_ ing low- ly;    Full ten- der was her gaze and mild, Her heart was pure and un- de filed And all her tho’ts were ho-_ ly._ She sang a song of slum- ber. "Sleep, my Heart’s_ De- sire!_ Lul- la by,_ I sing;_ Born in low-_ ly byre,_ Yet Sav- iour, Lord and King._ Lul- la by, lul- la by, lul-__ la by._
+

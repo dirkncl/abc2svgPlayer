@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Osmund
+Z: Herbert Stephen Irons
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=380
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A2 F2 | d2 c2 | c3 B | B2 A2 | A2 A2 | A2 G2 | F2 F2 | E4 | G2 G2 | ^F2 A2 | d3 c | B2 A2 | A2 A2 | G2 G2 | G2 F2 | A4 | A4 | c4 | c4 | B4 | B4 | B4 | B4 | A4 | G4 | G4 | F4|]
+w: An- gels from the realms of glo- ry, Wing your flight o'er all the earth; Ye who sang cre- a tion's sto- ry Now pro- claim Mes- si ah's birth. Come and wor- ship, Wor- ship Christ, the new- born King.
+[V: P2]  F2 F2 | F2 F2 | F2 E2 | F2 F2 | F2 _E2 | D2 D2 | D2 =B,2 | C4 | E2 _E2 | D2 D2 | D2 ^F2 | G2 G2 | D2 (E D) | ^C2 D2 | D3 E | ^C4 | =C4 | _E4 | D4 | D4 | D4 | D4 | C4 | F4 | F4 | E4 | F4|]
+[V: P3]  C2 A,2 | B,2 A,2 | G,2 C2 | C2 C2 | C2 C2 | B,2 B,2 | A,2 F,2 | G,4 | C2 (C B,) | A,2 ^F,2 | G,2 (A, C) | D2 D2 | G,2 (G, F,) | E,2 F,2 | F,2 D,2 | E,4 | F,4 | F,4 | F,4 | F,4 | G,4 | G,4 | G,4 | (A,2 B,2) | C4 | (C2 B,2) | A,4|]
+[V: P4]  F,2 F,2 | F,2 F,2 | C,2 C,2 | F,2 F,2 | F,2 F,2 | B,,2 B,,2 | D,2 D,2 | C,4 | C,2 C,2 | D,2 (D, C,) | B,,2 A,,2 | G,,2 G,,2 | G,,2 G,,2 | A,,2 (D, C,) | B,,2 B,,2 | A,,4 | F,,4 | A,,4 | B,,4 | B,,4 | G,,4 | G,4 | E,4 | F,4 | C,4 | C,4 | F,,4|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Martin Orgar
+Z: C. W. Pearce
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=416
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 19
+V: P3 name="Staff-2"
+%%MIDI program 3 0
+V: P4 name="Staff-3"
+%%MIDI program 4 0
+K: Eb
+[V: P1]  E F G2 B2 E2 | E2 F2 G2 B B | c2 d2 e2 G2 | G2 B2 F2 F2 | G3 G =A2 A2 | B2 B2 c2 c c | d2 d2 e2 c2 | c2 (d c) B2 B2 | c3 A F2 F2 | B3 G E2 E E | A2 B2 G2 G2 | G2 ^F2 G2 d2 | e3 c A2 A2 | d3 B G2 G G | c2 (A G) F2 E2 | E2 D2 E2|]
+w: Christ- ians, sing out with ex- ul ta tion, And praise your Be- ne fac tor’s Name! To- day the Au- thor of sal- va tion, The Fa- ther’s well be- lov èd_ came. Of un- de fil èd Vir- gin Mo- ther An In- fant, all Di- vine, was born, And God Him- self be- came your Bro- ther U- pon this_ hap- py Christ- mas morn.
+[V: P2]  (E E) E2 B,2 C2 | E2 D2 E2 E E | E2 F2 E2 G2 | E2 E2 D2 F2 | E3 E F2 F2 | F2 D2 G2 F F | F2 G2 G2 G2 | F2 E2 D2 E2 | E3 E E2 D2 | E3 E E2 E E | E2 D2 D2 C2 | D2 D2 D2 G2 | G3 G G2 F2 | F3 F F2 E E | E2 E2 D2 E2 C2 B,2 B,2|]
+[V: P3]  (G, A,) B,2 F,2 G,2 | G,2 B,2 B,2 B, B, | A,2 A,2 B,2 B,2 | C2 B,2 B,2 B,2 | B,3 B, C2 C2 | B,2 B,2 B,2 =A, A, | B,2 =B,2 C2 (C _B,) | (=A, G,) A,2 B,2 B,2 | A,3 C B,2 B,2 | B,3 B, C2 B, B, | C2 B,2 B,2 =A,2 | =A,2 A,2 =B,2 B,2 | C3 C C2 C2 | B,3 B, B,2 B, B, | F,2 (C B,) A,2 G,2 | F,2 F,2 G,2|]
+[V: P4]  E, E, E,2 D,2 C,2 | B,,2 B,,2 E,2 G, G, | A,2 F,2 G,2 E,2 | C,2 (G,, A,,) B,,2 D,2 | E,3 E, E,2 E,2 | D,2 G,2 E,2 F, F, | B,2 G,2 C2 E,2 | F,2 F,2 B,,2 G,2 | A,3 F, B,2 A,2 | G,3 E, A,2 G, G, | F,2 B,,2 E,2 =A,,2 | D,2 D,2 G,,2 G,2 | (C,2 D,) E, F,2 F,2 | (B,,2 C,) D, E,2 E, E, | A,,2 A,,2 B,,2 C,2 | A,,2 B,,2 E,2|]
+

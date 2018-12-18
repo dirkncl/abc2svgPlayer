@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Kirchenlied auf die heilige Christnacht
+Z: Franz Xaver Gruber
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=70
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 24
+K: D
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | | | |"^Chorus" | | [F3/4d3/4] [F/4A/4] (F/4B/4) [C3/4A3/4] [E/4G/4] [C/E/] | ||]
+w: Stil-___ le_ Nacht!_ Hei-_ li_ ge_ Nacht!_ Al-___ les_ schleft;_ ein-___ san_ wacht_ nur_ das_ trau-___ te_ hei-_ li_ ge_ Paar._ Hol-_ der_ Knab'___ im_ lok-_ kig_ ten_ Haa:_ schla-_ fe_ in_ himm-_ li_ scher_ Ruh,___ schla-_ fe_ in_ himm-_ li_ scher_ Ruh,__________ schla-_ fe_ in_ himm-_ li_ scher_ Ruh,___ schla-_ fe_ in_ himm-_ li_ scher__ Ruh._____________________
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | | | |"^Chorus" | | x1  D/ x1  | ||]
+w: Stil-___ le_ Nacht!_ Hei-_ li_ ge_ Nacht!_ Al-___ les_ schleft;_ ein-___ san_ wacht_ nur_ das_ trau-___ te_ hei-_ li_ ge_ Paar._ Hol-_ der_ Knab'___ im_ lok-_ kig_ ten_ Haa:_ schla-_ fe_ in_ himm-_ li_ scher_ Ruh,___ schla-_ fe_ in_ himm-_ li_ scher_ Ruh,__________ schla-_ fe_ in_ himm-_ li_ scher_ Ruh,___ schla-_ fe_ in_ himm-_ li_ scher__ Ruh._____________________
+

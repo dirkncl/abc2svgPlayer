@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Leonard
+Z: Henry Smart, 1813-1879
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=336
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F2 | F2 D2 G2 F2 | G2 A2 B2 c2 | d2 B2 A2 G2 | F6 c2 | A2 F2 B2 c2 | d2 B2 G2 c2 | F2 B2 B2 A2 | B6|]
+w: The race that long in dark- ness pined, Have seen a glor- ious Light; The peo- ple dwell in day, who dwelt In death's sur- round ing night.
+[V: P2]  D2 | D2 B,2 B,2 B,2 | E2 E2 D2 F2 | F2 G2 F2 =E2 | F6 F2 | F2 C2 F2 F2 | F2 F2 B,2 E2 | D2 D2 C2 C2 | D6|]
+[V: P3]  B,2 | B,2 F,2 E,2 F,2 | E,2 E,2 F,2 A,2 | B,2 D2 C2 B,2 | A,6 A,2 | C2 A,2 B,2 A,2 | B,2 F,2 G,2 (G, A,) | B,2 B,2 G,2 F,2 | F,6|]
+[V: P4]  B,,2 | B,,2 B,,2 E,2 D,2 | C,2 C,2 B,,2 F,2 | B,,2 B,,2 C,2 C,2 | F,6 F,2 | F,2 (F, E,) D,2 C,2 | B,,2 D,2 E,2 C,2 | D,2 G,2 E,2 F,2 | B,,6|]
+

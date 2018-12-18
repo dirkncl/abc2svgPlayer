@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Song 46
+L: 1/4
+M: 4/4
+Q: 1/4=112
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: F
+[V: P1]  [A,2C2F2] [CFA] [A,CF] | [G,3C3c3] [A,F] | [B,3/F3/B3/] [B,/F/B/] [_EGB] [CFA] | [C3E3G3] [B,DG] | [G,CE] [CF] [B,D] [A,C] | [A,DF] [CFA] [CFG] [E/G/]B,/ | [A,2F2]z2|]
+[V: P2]  F,2 F, F, | F, E,2 F, | D,3/ D,/ _E, F, | C,3 G,, | C, [A,,F,] [B,,F,] F, | D, A,, C, C, | F,2z2|]
+

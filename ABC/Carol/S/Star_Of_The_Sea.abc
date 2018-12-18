@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Star of the East
+Z: Amanda Kennedy
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A3/ ^G/ A | F2 A | B d B | A3 | A3/ ^G/ A | F2 A | B A F | G3 | A3/ ^G/ A | F2 A | B d B | A2 c | c B G | F A3/ F/ | E G3/ E/ | F3 | B B3/ B/ | B d B | A c A | A3 | G G3/ G/ | B A G | (F A) c | A3 | B B3/ B/ | B d B | A c A | A3 | G B A | A2 G | (F3 | F3)|]
+w: Star of the East, oh Beth- le hem's star, Guid- ing us on to heav- en a- far Sor- row and grief and lull'd by the light Thou hope of each mor- tal, in death's lone- ly night. Fear- less and tran- quil, we look up to Thee. Know- ing thou beam'st through e- ter_ ni ty. Help us to fol- low where Thou still dost guide. Pil- grims of earth so wise_
+

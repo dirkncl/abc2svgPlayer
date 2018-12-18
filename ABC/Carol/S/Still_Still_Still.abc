@@ -1,0 +1,40 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Still Still Still
+Z: Traditional Austrian Melody
+Z: Public Domain
+L: 1/4
+M: 2/4
+V: P1 name="Still, Still, Still"
+%%MIDI program 1 25
+V: P2 name="Staff"
+%%MIDI program 2 15
+V: P3 name="sequenced by Bill Egan"
+%%MIDI program 3 73
+V: P4 name="June 2000"
+%%MIDI program 4 1
+V: P5 name="Staff-2"
+%%MIDI program 5 97
+V: P6 name="Staff-3"
+%%MIDI program 6 97
+V: P7 name="Staff-4"
+%%MIDI program 7 0
+V: P8 name="Staff-5"
+%%MIDI program 8 0
+V: P9 name="Tempo Track"
+%%MIDI program 9 -1
+K: C
+[V: P1]  A d | ^F A | D D/^F/ | E E/G/ | ^C C/E/ | D2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | a d | [d^f] [FA] | D D/[D/^F/] | E E/[E/G/] | ^C c/E/ | D2|]
+[V: P2] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | A d | ^F A | D D/^F/ | E E/G/ | ^C C/E/ | D2 |z D | E E/^F/ | G E | ^F F/G/ | A ^F | E E/^F/ | G E | ^F F/G/ | A ^F | a d | ^f a | d d/^f/ | e e/g/ | ^c c/e/ | d2|]
+[V: P3] z2 |z2 |z2 |z2 |z2 |z2 | A d | ^F A | D D/^F/ | E E/G/ | ^C C/E/ | D2 |z D | E E/^F/ | G E | ^F F/G/ | A ^F | E E/^F/ | G E | ^F F/G/ | A ^F | [^Fa] [Fd] | [D^f] [FA] | D D/[D/^F/] | e e/[G/e/] | ^c c/e/ | [d2a2] | a d' | ^f a | d d/^f/ | e e/[E/g/] | ^c c/e/ | a2 |z D | E E/D/ | E E | D D/E/ | ^F D | e e/d/ | [eg] e | [d^f] d/e/ | ^f d | [^fa] [fd'] | d ^f | d d/d/ | e e/e/ | ^c c/e/ | [A2a2]|]
+[V: P4] z2 |z2 |z2 |z2 |z2 |z2 | ^F F | D ^F | D D/D/ | E E/E/ |z3/ E/ | D2 |z D | E E/D/ | E E | D D/E/ | ^F D | E E/D/ | E E | D D/E/ | ^F D | [^FA] [Fd] | [D^F] [FA] | D D/[D/^F/] | E E/[E/G/] |z3/ E/ | [A,2D2] | [^FA] [Fd] | [D^F] [FA] | D D/[D/^F/] | E E/[E/G/] | ^C C/E/ | D2 |z D | E E/[D/^F/] | [EG] E | [D^F] [D/F/][E/G/] | [^FA] [DF] | E E/[D/^F/] | [EG] E | [D^F] [D/F/][E/G/] | [^FA] [DF] | [^FA] [Fd] | [D^f] [FA] | D D/[D/^F/] | E E/[E/G/] | ^C c/E/ | ^F2|]
+[V: P5] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | [D,2^F,2] | ^F,2 | ^F,2 | [E,^C] C | E, A,/^C/ | [^F,2A,2] | ^F, [D,B,] | E, [^C,^C] | E, ^C | [D,^F,] D, | ^F,2 | [E,^C] C | E, ^C | [D,2^F,2] | ^F,2 | ^F,2 | [D,2^F,2] | ^F,2 | E, [^C,^C] | E, ^C/C/ | D,2|]
+[V: P6] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | A,,2 |z2 |z2 |z2 | A,,2 |z2 | E,,2 |z2 |z D,, | A,,2 |z2 |z2 |z2 | [D,,2A,,2] | A,,2 | [^F,,2A,,2] | D,,2 | E,,2 |z2 | A,,2|]
+[V: P7] z2 |z2 |z2 |z2 |z2 |z2 | ^F, D, | [D,2^F,2] | [D,2^F,2] | [E,^C] C | [E,A,] A,/^C/ | [D,2^F,2A,2] | ^F, B, | [E,^C] C | E, ^C | ^F,2 | [^F,2A,2] | [E,^C] C | E, ^C | ^F,2 | [D,2^F,2] | [^F,2A,2] | [D,2^F,2] | [D,2^F,2A,2] | [E,^C] C | [E,^C] C/[E,/C/] | [D,2^F,2A,2] | ^F,2 | ^F,2 | ^F,2 | E, ^C | [E,A,] A,/^C/ | [D,2^F,2] | ^F, B, | E, ^C | E, ^C | ^F,2 | ^F,2 | [^C,E,] [C,C] | E, ^C | ^F,2 | ^F,2 | ^F,2 | ^F,2 | [^F,2A,2] | [E,^C] C | ^C C/C/ | ^F,2|]
+[V: P8] z2 |z2 |z2 |z2 |z2 |z2 |z ^F,, | A,,2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | G,,2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | ^F,,2 | ^F,,2 | ^F,,2 |z2 |z2 | D,,2 |z2 |z2 |z2 | ^F,,2 | D,,2 | E,,2 |z2 | D,,2 | A,,2 | D,,2 | A,,2 |z2 |z2 |z2 | D,,2|]
+[V: P9] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |zz |zz |zz |zz |zz|]
+

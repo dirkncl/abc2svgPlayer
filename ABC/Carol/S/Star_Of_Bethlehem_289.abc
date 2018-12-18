@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Star of Bethlehem, Sweetly Shining
+Z: C. Simper
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=62
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A A/ G/ A/ B/ | A d/ c A/ | F F/ (F/E/) F/ | (G3/ G3/) | A A/ (G/A/) B/ | A d/ c A/ | G E/ (F/E/) D/ | (C3/ C3/) | (E/G/) B/ d B/ | (B/c/) B/ A3/ | A D/ (D/^F/) A/ | d c/ B3/ | c c/ (d/e/) f/ | c B/ A3/ | d ^F/ (G/A/) B/ | A G/ F3/|]
+w: Star of Beth- le hem, sweet- ly shin- ing, Let thy peace-_ ful light_ Lead us where_ the Christ is ly- ing, On this Christ-_ mas night._ Hail,_ sweet Je- sus, ev-_ er blest, Pearl of sweet-_ ness un- ex press'd. Hail, sweet Je-_ sus, ev- er blest, Pearl of sweet-_ ness un- ex press'd.
+

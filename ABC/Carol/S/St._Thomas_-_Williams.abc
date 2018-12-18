@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Thomas - Williams
+Z: Aaron Williams (1731-1776), 1770
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=108
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 19
+K: G
+[V: P1]  [B,D] [DG] [DG] [GB] | [F/A/][E/G/] [F3A3] | [G/B/]c/ [Gd] [G/c/]B/ [E/c/]F/ | [GB] [F3A3] | [Dd] [DB] [DG] [DA] | D [DG] [EB] [Fd] | [Gd] [Ge] [A/d/]c/ B | [FA] [D3-G3-] | [DG]z3|]
+[V: P2]  G, G, B, [G,D] | D D3 | [G,/D/]A,/ [B,D] [G,D] [A,C] | [G,D] D3 | [F,A,] G, G, F, | [F,A,] [G,B,] [E,G,] A, | [G,B,] C E D | C B,3- | B,z3|]
+[V: P3]  G,, B,, G,,z | D, D,3 | z4 |z D,3 |z2 B,, D, |z3 D, |z C, A,, D, | D, G,,3- | G,,z3|]
+

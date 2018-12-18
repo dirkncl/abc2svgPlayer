@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Stars All Bright Are Beaming
+Z: W. R. Holt
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  A A/ (A/ G/) F/ | E3/ C3/ | E E/ (A/ B/) c/ | B3 | B B/ B c/ | d3/ B3/ | B A/ G/ A/ F/ | E3 |"^Chorus" e c/ e c/ | e3/ c3/ | (c/ B/) c/ (e/ d/) c/ | B3 | c c/ (d/ c/) B/ | A3/ F3/ | E E/ (E/ F/) G/ | A3|]
+w: Stars all bright_ are beam- ing From the skies_ a- bove, Na- ture's face all gleam- ing, Shines with hea- ven's own love. Wake and sing, good Christ- ians, On_ this birth-_ day morn, Heaven and earth_ are tell- ing God for man_ is born.
+

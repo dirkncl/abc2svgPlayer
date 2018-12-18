@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Alphege
+Z: Henry John Gauntlett, 1852
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="St. Alphege"
+%%MIDI program 2 91
+K: G
+[V: P1]  [DG] [GB] [Ec] [Dd] | [CG] [C2F2] [B,G] | [DG] [DF] [DG] [Ac] | [GB] [F3A3] | G [GB] [Gc] [Fd] | [Gd] [Ge] F [Gd] | [DG] G [GA] [GB] | [FA] G3- | Gz3|]
+[V: P2]  [G,B,] [E,G,] [C,G,] [B,,G,] | [E,G,] [D,2A,2] [G,,G,] | [B,D] [A,C] [G,B,] [F,D] | [G,D] [D,3D3] | [G,B,] [G,D] [E,G,] [D,A,] | [G,B,] [C,C] A, [G,B,] | [B,,B,] [E,B,] [C,E] [D,D] | D,/C/ [G,3-B,3-] | [G,B,]z3|]
+

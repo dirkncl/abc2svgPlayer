@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Stars All Bright
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1]  [EGc] [E/G/c/][^D/^F/c/] B/[D/F/A/] | [E3/G3/] E/- E | G [E/G/][^F/c/] d/[F/e/] | [G3d3] | [Gd] [G/d/][G/-d/-] [G/d/][G/d/] | [D3/G3/f3/] [G/-d/-] [Gd] | [FGd] [E/G/c/][D/G/B/] [E/c/][^F/A/] | G3 | [EGcg] [G/c/e/][E/-G/-c/-g/-] [E/G/c/g/][G/c/e/] | [E3/G3/c3/g3/] [G/-c/-e/-] [Gce] | [G/c/e/]d/ [G/c/e/][E/G/c/g/] [D/f/][G/c/e/] | [G3B3d3] | [G^Ae] [G/A/e/][F/=A/f/] e/[F/^G/d/] | [E3/G3/c3/] [^D/-A/-] [DA] | [EG] G/[F/G/] A/[D/B/] | [E3c3]|]
+[V: P2]  C, C,/C,/- C,/C,/ | C,3/ [C,/-C/-] [C,C] | [C,C] [C,/C/][D,/A,/] B,/[D,/C/] | [G,3B,3] | [G,B,] [G,/B,/][G,/-B,/-] [G,/B,/][G,/C/] | G,3/ [G,/-B,/-] [G,B,] | B,, C,/D,/ C,/[D,/C/] | [G,3/C3/] B,/- B, |z Cz/ C/ |z3/ C/- C | C/B,/ Cz/ C/ | G,3 | C, C,/C,/- C,/C,/ | C,3/ [^F,/-C/-] [F,C] | [G,C] [G,/C/][G,/B,/] C/G,/ | [C,3C3]|]
+

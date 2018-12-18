@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Leonard
+Z: Henry Hiles, 1867
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="St. Leonard (Hiles)"
+%%MIDI program 2 91
+V: P3 name="St. Leonard (Hiles)-2"
+%%MIDI program 3 91
+K: F
+[V: P1]  [CF] [DG] [FB] [FA] | [FG] [E3/G3/] F/ F | F [FG] [FG] [FG] | [FG] [E3G3] | [EG] [FA] [_Ec] [DB] | [_EA] [D3/A3/] [D/G/] [DG] | [DF] [CF] [CF] [CF] | [CE] [C3F3] | C [B,D] [CE] [CF] | [DF] [FG] [EG] [FA] | [FA] [GA] [FA] [F=B] | [F=B] [E3c3] | [Ec] [Fc] [A_e] [Ad] | [_GA] [Gc] [=GB] [_GA] | G [CF] [DF] [CF] | [CE] [A,3-F3-] | [A,F]z3|]
+[V: P2]  [F,A,] [F,B,] [F,D] [F,C] | [F,=B,] [F,3/_B,3/] [F,/A,/] [F,A,] | [D,A,] D G, D | G, G,3 | C [F,C] [F,A,] [F,B,] | [F,C] B,3/ B,/ B, | _A, G, =A, B, | B, [F,3A,3] | F, F, G, F, | [D,A,] D C [F,C] | [F,C] [E,_D] [=D,=D] [G,D] | D C G, A, | B, [F,A,] [F,C] [_G,C] | [D,D] [G,A,] B, C | D A, _A, G, | G, F,3- | F,z3|]
+[V: P3]  z4 | z4 |z B,, B,, =B,, | =B,, C,3 | C,z3 |z B,,3/ B,,/ B,, | =B,, C, C, C, | C, F,,3 | A,, B,, B,, A,, |z B,, C,z | z4 | G,, C,3 | C,z3 |z2 G,, A,, | B,, C, =B,, C, | C, [F,,3-C,3-] | [F,,C,]z3|]
+

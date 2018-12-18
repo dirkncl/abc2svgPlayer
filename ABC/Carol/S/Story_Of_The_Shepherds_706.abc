@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Story_Of_The_Shepherds_706
+Z: J. Barnby
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A | A A G A | A3/ B/ A A | G F G ^G | A3 A | A A F G | A3/ B/ A d | c F G B | A3 A/ | [K: D]  d3/ d/ c A | d3/ d/ c A | d c B c | A3 A | d3/ d/ c A | d3/ d/ c B | e d B c | A3 A | B e A A | G3/ A/ F F | G G A A | B3 d | c3/ B/ A d | c3/ B/ A B | G F F E | A3 d | c3/ B/ A d | c B A B | A (G/ F/) E3/ E/ | D4|]
+w: It was the ve- ry noon of night: The stars a- bove the fold, More sure than clock of chim- ing bell, the hour of mid- night told: When from the heavens there came a voice, and forms were seen to shine, Still bright’- ning as the mu- sic rose with light and love di- vine. With love di- vine the song be- gan; there shone a light se- rene: O, who hath heard what I have heard, or seen what I have seen? O, who hath heard what I have heard, or seen what_ I have seen?
+

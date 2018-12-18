@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Star Lullaby
+Z: Polish Folk Song
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G (G/F/) G | A A G | F F (G/A/) | (c B2) | G (G/F/) G | A A G | F (B3/ A/) | (A G2) | B B e/d/ | c (c/B/) (c/B/) | A A c | (c B2) | G (G/F/) G | A A G | F B3/ A/ | (A G2)|]
+

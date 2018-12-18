@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St John
+Z: Parish Choir, 1851
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=115
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="St. John (Parish)"
+%%MIDI program 2 91
+K: C
+[V: P1]  C [CE] [CE] | [DG] [DG] [C-c-] | [C2c2] [Cc] | [DB] [EA] [DG] | [D^F] [D2-G2-] | [DG] [EG] [FA] | [FB] [Gc] [FA] | [E3G3] | [CG] [CF] [CE] | [CD] [B,D] C- | C2 [G,C] | [A,C] [B,D] [CE] | C [CE] [CF] | [DG] [EG] [FA] | [FB] [Gc] [Ec] | [F2d2] [D-B-] | [DB] [E2-c2-] | [E2c2]z|]
+[V: P2]  [C,E,] [C,G,] [C,G,] | [B,,G,] [B,,G,] [A,,-E,-] | [A,,2E,2] [A,,E,] | [B,,G,] [C,C] [D,B,] | [D,A,] [G,,2-B,2-] | [G,,B,] [C,C] [F,C] | [D,D] [E,C] [F,C] | [C,3C3] | [C,E,] [A,,F,] [C,G,] | [F,,A,] [G,,/G,/]F,/ [C,-E,-] | [C,2E,2] [C,E,] | [A,,E,] [G,,G,] [C,G,] | [E,G,] [C,G,] [A,,A,] | [G,,B,] [C,C] [F,C] | [D,D] [E,C] [A,C] | [F,2A,2] G,- | G, [C,2-G,2-] | [C,2G,2]z|]
+

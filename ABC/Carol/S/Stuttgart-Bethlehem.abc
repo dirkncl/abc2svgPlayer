@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Stuttgart
+Z: "Psalmodia Sacra," 1715
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  D D G G | A A B G | d d e c | A d B2 | B B A B | G A G F | G E D G | G F G2|]
+w: Beth- le hem, of nob- lest cit- ies None can once with thee com- pare: Thou a- lone the Lord from heav- en Didst for us In- car nate bear.
+[V: P2]  D D B, D | E D D D | F G G G | G F G2 | D G F F | E E D D | D C B, B, | E D D2|]
+[V: P3]  B, A, G, G, | G, F, G, B, | A, D C E | D D D2 | G, D D B, | B, A, A, A, | G, G, G, G, | A, A, B,2|]
+[V: P4]  G, F, E, B,, | C, D, G,, G, | D, B,, C, A,, | D, D, G,2 | G,, B,, D, ^D, | E, ^C, D, D, | B,, C, G,, E, | C, D, G,,2|]
+

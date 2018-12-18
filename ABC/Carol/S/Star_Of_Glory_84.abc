@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Star of Glory, Brightly Streaming
+Z: J. Garnett
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1] "^Recitative" A,/ Cz/ E/ A |z E/ D/ C B,/ A,/ | ^Dz A3/ F/ | E/ ^D/z B,/4 C/4 ^D/ E/ F/ | G/ E/z E/ E/ ^D/ E/ | B,zz2 |"^Chorus" e3/ d/ c A | F (B/ A/) G E | A3/ G/ B3/ A/ | c (d/ c/) Bz | (e/ d/) (c/ B/) A A | (G/ F/) (B/ A/) G E | (G/ F/) (G/ A/) B c | (B/ A/) (G/ F/) Ez | (B/ A/) (G/ A/) B e | (^d/ c/) (B/ A/) G E | d3/ B/ c3/ A/ | (G/ A/) (B/ c/) Bz | d3/ c/ (c/ B/) A | (G/ F/) (B/ A/) G E | c3/ A/ d3/ ^d/ | e G Az|]
+w: And lo! The Star, Which they saw in the East, Went be- fore them, Till it came and stood o- ver Where the young Child was. Star of glo- ry! Bright- ly_ stream- ing, Wel- come, oh! Thou bless- ed_ star! Star_ that_ erst se- rene_ ly_ beam- ing, Led_ the_ wise men from_ a-_ far. Thou_ their_ wand- ’ring foot-_ steps_ led- dest, Star of Glo- ry, pla-_ net_ mild! Till thy heav-_ ’nly light_ thou_ shed- dest O’er the ho- ly, bless- ed Child.
+

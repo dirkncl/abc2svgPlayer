@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sweet Child Divine
+Z: Arthur H. Brown
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=131
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c/ | (A/ B/) c/ G c/ | (A/ B/) c/ G A/ | (F/ E/) F/ (G/ A/) F/ | E3/ D G/ | (E/ F/) G/ A c/ | (B/ c/) d/ G G/ | (c/ d/) B/ (A/ B/) G/ | (^F E/) D G/ | (G/ ^F/) E/ (D/ E/) D/ | D3/ D G/ | c c/ (c/ B/) A/ | (G A/ G) d/ | e d/ (c/ B/) c/ | d c/ (B/ A/) G/ | c c/ c c/ | c E/ (F/ G/) A/ | G c/ d3/ | (c3/ c/)z|]
+w: Sweet Child_ Di- vine, of low-_ ly grace, Thy Mo-_ ther guard_ is keep- ing; And An-_ gels pass with rev’-_ rent pace Where Thou_ art calm-_ ly sleep-_ ing, Where Thou_ art calm-_ ly sleep- ing, O Life di- vine_ ly shown!__ O love made known_ for all to own!_ Sweet Babe we haste to bring All praise_ and ser- vice ho- ly._
+

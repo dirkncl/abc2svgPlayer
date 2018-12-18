@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Petersburg
+Z: Attr. to Dimitri Stepanovich Bortniansky, 1825
+Z: Public domain
+L: 1/4
+M: 3/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="St. Petersburg"
+V: P2_2
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | A c [FA] [E2G2] [CE] | G F [CE] | | | | | | A c [FA] | | G F [CE] | | [F2B2] G | | | | | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | F2 x4  | D2 x1  | | | | | | F2 x1  | | D2 x1  | | x2  F | | | | | | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | G, [C,C] | | | | C A, [F,C] [C,2C2] [C,G,] | | | G, C [C,C] | | | | C A, [F,C] | | | | | | | | | C G, [F,A,] | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | C,2 C x1  | | | | F,2 x4  | | | C,2 x1  | | | | F,2 x1  | | | | | | | | | C,2 x1  | ||]
+

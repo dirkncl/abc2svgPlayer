@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Thomas
+Z: J. F. Wade, Cantus Diversi, 1751
+Z: Public Domain
+L: 1/4
+M: 4/2
+Q: 1/4=200
+V: P1_1 name="St.Thomas"
+V: P1_2
+%%MIDI program 1 52
+V: P2_1 name="Tempo Track"
+V: P2_2
+%%MIDI program 2 52
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  [G,2C2] [B,2D2] [C2E2] C2 | | [C2A2] [C2G2] F2 [C2E2] | [C2D2] [B,2D2] C4 | | | A2 B- B [C2c2] [D2B2] | A2 A- A [B,4G4] | [C2G2] [D2G2] [C2E2] C2 | [B,2D2] [C2E2] F2 [C2E2] | G2 E A2 (G | [C2E2] [B,2D2] C4|]
+% Extracting voice 2 from part P1
+[V: P1_2]  x6  C2 | | x4  (C B,) x2  | x4  C4 | | | E3 D x4  | D3 C x4  | x6  C2 | x4  (C B,) x2  | C3 E- B, (A, B,) C2 F) | x4  C4|]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | F,2 [E,2G,2] (A, F,) [C,2G,2] | G,3 F, [C,4E,4] | [C,2G,2] [D,2F,2] E,2 [C,2E,2] | F,2 [E,2G,2] [D,2G,2] [C,2G,2] | [A,,2C2] [^G,,2B,2] [A,,2A,2] =G,2 | | | | [E,2G,2] [C,2G,2] F,2 [E,G,] [F,A,] | G,3 F, [C,4E,4]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | F,2 x2  D,2 x2  | G,,2 G,,- G,, x4  | x4  E,2 x2  | F,2 x6  | x6  (B,, C,) | | | | x4  F,2 x2  | G,2 G,,- G,, x4 |]
+

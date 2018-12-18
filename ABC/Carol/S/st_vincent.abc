@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Vincent
+Z: J. Uglow
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 3/4
+V: P1 name="Staff 1"
+%%MIDI program 1 0
+V: P2 name="St. Vincent, LM"
+%%MIDI program 2 91
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: E
+[V: P1]  [GB] [GB] [=G^A] | [GB] [E2G2] | E [EF] D/[C/A/] | [B,/G/][D/F/] [DF] E | E [GB] [FA] | [EG] [Ge] [Fd] | [Ec] [D/B/]E/ G/F/ | [E/^A/]c/ [Ec] [DB] | [DB] [D2F2] | [=FG] [GB] [^FA] | [DF] [EG] B | [E/A/][C/F/] [B,E] D | [B,D] [B,E] [DF] | [EG] [EA] B | [Ec] [E/B/]E/ G | [DF] [DF] E- | E3|]
+[V: P2]  [E,B,] [E,B,] C | [E,B,] [E,2B,2] | [G,,B,] [B,,3/B,3/] D,/ | [B,,/E,/]A,/ [E,A,] G, | [E,G,] [E,B,] D | [E,E] [C,G,] [D,=C] | [E,C] [F,/D/]C/ E/D/ | [F,/C/]^A,/ [B,,A,] B, | [B,,B,] B, A, | [G,/B,/]C/ [F,2C2] | B, [E,B,] [G,,=D] | [A,,/C/]A,/ [B,,G,] F, | [B,,F,] [E,G,] A, | [=D,B,] [C,A,] [B,,G,] | [^A,,=G,] [B,,^G,] B, | [B,,A,] [E,,A,] [E,,-G,-] | [E,,3G,3]|]
+[V: P3] z3|]
+

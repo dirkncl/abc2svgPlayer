@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Thomas
+Z: Aaron Williams, 1770
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  D | G G B (A/G/) | A3 (B/c/) | d (c/B/) c B | A3 d | B G A D | G B d d | e (d/c/) B A | G3|]
+[V: P2]  B, | D D G (F/E/) | F3 G | G G (E/F/) G | F3 D | D D D D | D E F G | G A G F | D3|]
+[V: P3]  G, | G, B, D D | D3 D | D D C D | D3 A, | G, G, F, A, | B, G, A, B, | C E D C | B,3|]
+[V: P4]  G,, | B,, G,, G, D, | D,3 (G,/A,/) | B, G, A, G, | D,3 F, | G, B,, D, F, | G, E, D, G, | C, A,, D, D, | G,,3|]
+

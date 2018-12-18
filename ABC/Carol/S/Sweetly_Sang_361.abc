@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sweetly Sang The Angels
+Z: W. T. Crossley
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B3/ c3/ | B d/ (B/ A/) G/ | A c/ (c/ B/) A/ | (G3/ D)z/ | B3/ c3/ | B d/ (B/ A/) G/ | (A3/ f) d/ | (^c/ A/) e/ d3/ | z4 | z4 | c e/ (d/ G/) A/ | (B c/) d3/ | d d/ (d/ c/) B/ | c3/zz/ | c c/ (c/ B/) A/ | (G A/) B3/ | (A3/ A/ ^G/) A/ | B3/ e3/ | (d3 | d3) | [M: 4/4] "^Chorus" d3/ B/ G A | A2 B2 | B G B ^c | d4 | e3/ d/ d c | B2 G2 | A3/ ^G/ A B | G4|]
+w: Sweet- ly sang the An-_ gels in the clear_ calm night,_ On their white wings rest-_ ing in_ the heaven-_ ’ly light; Sent by God_ the Fa-_ ther, who our love_ has sought, Un- to men_ and child-_ ren tid-__ ings glad they brought._ Child- ren, blend your voi- ces, In sweet con- cord sing, Hail the Lord’s An- oint ed, Christ the child- ren’s King.
+

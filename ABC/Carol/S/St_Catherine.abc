@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St Catherine
+Z: Henry Frederick Hemy, 1865
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=125
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="St. Catherine"
+%%MIDI program 2 91
+K: G
+[V: P1]  [DB] [DA] [DG] | [DG] F [DG] | [EA] E [DF] | [D3G3] | [EG] [DF] [CE] | [B,2D2] [DG] | [^CG] F [CG] | [D3A3] | [DB] [DA] [DG] | [DG] [CF] [B,G] | [EA] E [CF] | [D3G3] | [EG] [DF] [CE] | [B,2D2] [DB] | [^CA] B [=CA] | [B,3G3] | [Gc] [Gc] [Gc] | [G2B2] [GB] | [F2A2] [FA] | [G3B3] | [B,B] [CA] [DG] | [C2E2] [B,G] | [D2A2] [CA] | [B,3-G3-] | [B,G]z2|]
+[V: P2]  [G,D] [G,C] [G,B,] | [G,B,] [A,C] [G,B,] | [C,2A,2] [D,C] | [G,,3B,3] | [C,G,] [C,G,] [E,G,] | G,2 [G,,B,] | [A,,2E,2] [A,,A,] | [D,3F,3] | [G,D] [G,C] [G,B,] | [D,B,] A, [E,G,] | [C,2C2] [D,A,] | [G,,3B,3] | [C,G,] [C,G,] [E,G,] | G,2 [G,,G,] | [A,,2G,2] [D,F,] | G,3 | [C,E] [C,E] [C,E] | [G,2D2] [G,D] | [D,2D2] [D,D] | [G,3D3] | [G,,G,] [A,,F,] [B,,G,] | [C,2G,2] [E,G,] | [D,2G,2] [D,F,] | [G,,3-G,3-] | [G,,G,]z2|]
+

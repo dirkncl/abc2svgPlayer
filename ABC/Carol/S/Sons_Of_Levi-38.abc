@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sons of Levi
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=85
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G3/ D/ (E/F/) G | c B A G | c B A G | (A/B/) (c/e/) d (c/d/) | e d c B3/4 A/4 | G E (F/G/) A | d3/ A/ B (G/F/) | E E (D/E/) F3/4 D/4 | G3/ D/ (E/F/) G | c B A G | c B A G | (A/B/) (c/e/) d(3 (B/c/)d/ | e d c B3/4 A/4 | G E (F/G/) A | d3/ A/ B G/ F/ | E D (D/E/) F3/4 D/4 | G3/ D/ (E/F/) G | c B A G | c B A G | (A/B/) (c/e/) d(3 (B/c/)d/ | e d c B3/4 A/4 | G E (F/G/) A | d3/ A/ B G/ F/ | E D D|]
+w: Come all you knights,_ you knights of hon- our, For the wars have just_ be-_ gun, That_ you may shine in your ar- mour bright_ All in the New Je-_ ru sa lem._ And we are the true_ born sons of Le- vi, Ve- ry few with us_ com-_ pare, For_ we are the root and the branch of Da-_ vid, By the bright and the glor- ious star._ And we are the true_ born sons of Le- vi, Ve- ry few with us_ com-_ pare, For_ we are the root and the branch of Da-_ vid, By the bright and the glor- ious star.
+

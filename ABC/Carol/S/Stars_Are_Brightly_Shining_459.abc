@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Stars Are Brightly Shining
+Z: H. A. Farnsworth
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E/ | E c/ B c/ | A3/ E E/ | F d/ A B/ | (c3/ c) c/ | e d/ c B/ | A3/ c c/ | (c/ B/) G/ (B/ A/) F/ | (E3/ E)"^Chorus" E/ | E d/ c B/ | A3/ E E/ | F e/ d c/ | (B3/ B) c/ | d f/ e d/ | c e/ A d/ | (c/ =D/) E/ _B c/ | (A3/ A)|]
+w: The stars are bright- ly shin- ing, A- bove a peace- ful plain,_ While shep- herds watch and lis- ten, To hear_ a glad_ re- frain._ The an- gels sing the mess- age, "Good- will on earth we bring,_ The Prince of Peace we her- ald now, Your Sav-_ iour and your King."_
+

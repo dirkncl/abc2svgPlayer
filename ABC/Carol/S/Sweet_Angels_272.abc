@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sweet Angels, Ever Bright And Fair
+Z: C. Simper
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E/ | A A/ (B/ A/) B/ | c e/ (e/ d/) c/ | B F/ B A/ | (G3/ G) E/ | A A/ (B/ A/) B/ | c e/ (e/ d/) c/ | B F/ A G/ | (A3/ A) c/ | d G/ G d/ | c A/ A c/ | B A/ G A/ | (B3/ B) (c/4 d/4) | e e/ (e/ d/) c/ | d d/ (d/ c/) B/ | c A/ G F/ | (E3/ E)z/ |"^Chorus" B3/4 c/4 B/ A3/4 F/4 E/ | B3/4 c/4 B/ A3/ | c3/4 d/4 e/ f/ e/ c/ | B3/4 c/4 =d/ e3/ | B3/4 c/4 B/ A3/4 F/4 E/ | B3/4 c/4 B/ A3/ | A3/4 d/4 f/ e/ B3/8z/4 A/ | B/ F/ G/ A|]
+w: Sweet An- gels, ev-_ er bright and fair,_ Why in the mid- night skies_ Sang ye such strains_ all free from care,_ While earth was heav- ing sighs?_ Why thro’ the dark, o’er Bethl- ’hem’s hills, Shed ye your ra- diant light,_ As_ glo- ry stream’d_ in heav- ’nly rills,_ While shep- herds watched by night?_ Ca- rol ling, ca- rol ling, tid- ings to bring, Sing- ing of Je- sus, the Sav- iour and King! Car- ol ling, ca- rol ling, tid- ings to bring, Sing- ing of Je- sus, the Sav- iour and King.
+

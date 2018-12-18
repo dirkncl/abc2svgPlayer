@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sweetly Sang The Angels
+Z: T. F. Dunhill
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=240
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G3/ G/ F G | E2 D2 | B B A B | G4 | G G F G | E2 D2 | B B A B | G4 | d B c e | d2 A2 | B B A G | A4 | E3/ F/ G A | F2 G2 | A F F E | D4 |"^Chorus" G G F G | E2 D2 | B B A B | G4 | e e d e | c2 A2 | E3/ F/ B A | G4|]
+w: Sweet- ly sang the An- gels in the clear calm night, On their white wings rest- ing in the heaven- ’ly light; Sent by God the Fa- ther, who our love has sought, Un- to men and child- ren tid- ings glad they brought. Child- ren, blend your voi- ces, In sweet con- cord sing, Hail the Lord’s An- oint ed, Christ the child- ren’s King.
+

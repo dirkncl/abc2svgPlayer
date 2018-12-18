@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. George's, Windsor
+Z: George J. Elvey
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  B3/ B/ d B | G A B2 | B3/ B/ d B | G A B2 | B3/ B/ c c | A3/ A/ B2 | B ^c d G | F E D2 | F3/ F/ A F | G A B2 | B3/ B/ d B | c d e2 | e3/ e/ c A | d3/ d/ B2 | c e d G | B A G2|]
+[V: P2]  D3/ D/ D D | E F G2 | D3/ D/ D D | E E ^D2 | E3/ E/ E E | D D D2 | D E D E | D ^C D2 | D3/ D/ D D | D C B,2 | D3/ D/ G G | G =F E2 | E ^G A E | D F G2 | G G G G | G F G2|]
+[V: P3]  G,3/ G,/ A, B, | B, D D2 | G,3/ G,/ A, G, | B, A, F,2 | G,3/ G,/ A, A, | F, F, G,2 | G, G, A, B, | A,3/ G,/ F,2 | A,3/ A,/ F, A, | G,3/ F,/ G,2 | G,3/ G,/ B, D | C3/ B,/ C2 | B, E E C | A, D D2 | C C D B, | D3/ C/ B,2|]
+[V: P4]  G,3/ G,/ F, G, | E, D, G,2 | G,3/ G,/ F, G, | E, C, B,,2 | E,3/ E,/ A,, A,, | D, D, G,,2 | G, E, F, G, | A, A,, D,2 | D,3/ D,/ D, C, | B,, A,, G,,2 | G,,3/ G,,/ G, =F, | E, D, C,2 | ^G, E, A,3/ A,/ | F, D, G,2 | E, C, B,, E, | D, D, G,,2|]
+

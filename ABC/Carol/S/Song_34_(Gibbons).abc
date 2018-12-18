@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Song 34 (Gibbons), LM
+Z: Orlando Gibbons, 1623
+Z: Public domain
+L: 1/4
+M: none
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Song 34 (Gibbons), LM"
+V: P2_2
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  [(C2(F2] [CF] F | | [F3)c3)] (F [FA] [FB] | [G2c2] G c2 [zD2] =B | [E3)c3)] [(F(A] [FB] c | [B2d2] [Ac] B2 [FA] | | [E2G2] [DF] A [zG2)] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  x3  F | | x3  F x2  | x2  G F x2  | x5  G/A/ | x3  A G x1  | | x3  F2 x2  E ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | C B, [D,A,] C2 [zC,2] G, ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | C,2 x1  A,, x2  ||]
+

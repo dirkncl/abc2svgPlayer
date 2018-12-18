@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. George
+Z: George J. Elvey, 1858
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  A3/ A/ c A | F G A2 | A3/ A/ c A | F G A2 | A3/ A/ B B | G3/ G/ A2 | A =B c F | E D C2 | E3/ E/ G E | F G A2 | A3/ A/ c A | B c d2 | d3/ d/ B G | c3/ c/ A2 | B d c F | A G F2|]
+[V: P2]  C3/ C/ C C | D E F2 | C3/ C/ C C | D D ^C2 | D3/ D/ D D | C3/ C/ C2 | C D C D | C =B, C2 | C3/ C/ C C | C B, A,2 | C3/ C/ F F | F _E D2 | ^F3/ D/ D D | E3/ C/ C2 | F F F F | F E C2|]
+[V: P3]  F,3/ F,/ G, A, | A, C C2 | F,3/ F,/ G, F, | A, G, E,2 | F,3/ F,/ G, G, | E,3/ E,/ F,2 | F, F, G, A, | G, G, E,2 | G,3/ G,/ E, G, | F, (D,/E,/) F,2 | F,3/ F,/ A, C | B, (G,/A,/) B,2 | A,3/ A,/ G, B, | G,3/ G,/ F,2 | F, B, C A, | C C A,2|]
+[V: P4]  F,3/ F,/ E, F, | D, C, F,2 | F,3/ F,/ E, F, | D, B,, A,,2 | D,3/ D,/ G,, G,, | C,3/ C,/ F,,2 | F, D, E, F, | G, G,, C,2 | C,3/ C,/ C, B,, | A,, G,, F,,2 | F,,3/ F,,/ F, _E, | D, C, B,,2 | D,3/ ^F,/ G, G, | C,3/ E,/ F,2 | D, B,, A,, D, | C, C, F,2|]
+
