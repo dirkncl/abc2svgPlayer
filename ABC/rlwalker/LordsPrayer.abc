@@ -1,0 +1,73 @@
+
+
+X:1
+T:The Lord's Prayer
+C:Richard Allison
+L:1/2
+F:http://msg.wins.uva.nl/~walstra/ABCArchive/Allison/prayer.abc	 2002-02-11 06:20:05 UT
+K:C treble
+V:1 clef=treble name=Voice
+%
+A2cA|cdf2|e2d2||
+w:Our Fa-ther which in hea-ven art,
+%
+d2ed|d^cd2||
+w:Lord hal-lowed be thy name.
+%
+d2ff|cfed|cdA2||
+w:Thy king-dome come, thy will be done in earth,
+%
+d2cd|effe|f2||
+w:even as the same in hea-ven is.
+%
+d2d^c|dA_B>B|AGA2||
+w:Give us O Lord our day-lie bread this day,
+%
+A2AG|cded|ffed|eed2||
+w:As we for-give our det-ters, so for-give our debts we praye.
+%
+A2A_B|A>AFG|AAGF|FEF2||
+w:In-to temp-ta-tion lead us not, from e-vill make us free.
+%
+F2AA|cAcd|e2c2|Add^c|Hd2 |]
+w:For king-dome power and glo-rie thine, Both now and e-ver bee.
+%
+%
+V:2 clef=frenchtab name=Lute
+%
+[,df,c]>.a[ccd,,c1][,df,c]|[acd,a][aabc][c,da/].,,a :,a ,,c|
+[ccfe],,e// .,,c ,,e/ :a[,efec1]{a}||
+%
+[,aa,c/].,c.[,da1][,ca,b][,da,c/].a|
+[cc,e].,a ,c .a[,efec1]{a}||
+[cd,,c2][ca,,c/].,c[cd,,c],,,,e|
+%
+[cd,a/].d[fdaa1][ffd,a][cd,,c]|
+[cc,,,c][,df,,d/].a[cdda1]{d}||
+[cd,,c2][cdda1],,,,c/ :e|
+%
+[ff,,a/]:,,a[hd,f,d1][fh,,a/],f// .,d ,f/ .d|
+[cdda1]{d}||
+[,abc].d[ca,a][ac,,e]|
+%
+[a,a,c1]:,e/ .,,d[aa,c1],,,,,a/ :a|
+[,ea,c1][aabc/].,c[,efec1]{a}||
+[,df,c2][,dda1][da,c]|
+%
+[cd,e/].,c[df,c1].[ffd/],,,,a[df,c1]|
+[cdf],,,,c/ .,,f[caee1][,dff/].,a|
+[ca,e1],,e/ .a[,efec1]{a}||
+%
+[,df,c2][,df,c1][,df,,d]|
+[,dda][,,def][,aac][,,bc/]:,c|
+[,dda1][,df,c][,cd,e/],,,f[,,def1]|
+%
+[,,dca/].,,,a ,,,c .,,b[,,def1]{d}||
+[,ddef2][,da,c1][,d,ac/].,d|
+[,cdca].,,a ,,,a .,a[a,,,e].,,d[,dd,c].,,c|
+%
+[acd,a2][acd,a1][c,da]|
+,d/ .a[cd,,c1][cc,e/].,a ,c .a|
+H[cef,c2]{a} |]
+
+

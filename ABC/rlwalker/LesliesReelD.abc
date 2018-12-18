@@ -1,0 +1,14 @@
+%Scale the output
+%%scale 1.30
+%%format dulcimer.fmt
+X:1
+T:Leslie's Reel
+C:From the "Athole Collection," 1884
+M:C|    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|:A|"D"d2 fd "A"ecAc|"G"BcdB "D"AFDF|"G"G2 BG "D"AFDF
+|"A"GECE "D"D2 D:|g|"D"f2 df "A"ecAc|"G"BceB "D"AFDg
+|"D"f2 df "A"ecAc|"G"Bgec "D"d2 dg|"G"BcdB "D"AFDF
+|"G"GBGB "D"FAFA|"G"GE "A"CE "D"D2 D||

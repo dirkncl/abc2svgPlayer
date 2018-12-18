@@ -1,0 +1,15 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:I'm So Lonesome I Could Cry
+C:Hank Williams
+M:3/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:G%(D, C)
+|B2|G B2|G B2|B D2
+w:1~Hear that lone-some whip-oor-will
+w:2~I've ne-ver seen a night so
+w:3~Did~you ev-er see a  rob-in
+w:4~The si-lence of a fall-ing

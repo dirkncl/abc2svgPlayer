@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:La Grande Gigue Simple
+C:trad.
+M:3/2
+L:1/8
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+|: A,DDE FDED EGFD |A,DDE FDDB AGFD | A,DDE FDED EGFD |A,DDE FDDB AGFD :|
+dfed ceAc eAce | dfed cAdB BAFA |dfed ceAc eAce |defg afdB ~A2FA |
+dfed ceAc eAce | dfed cAdB BAFA |dfed ceAc eAce |d2fd gdfd cdec |
+d2fd gdfd cdec |defg afdf gecA |defg afdf gecA |defg afdB AGFD || %%

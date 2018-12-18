@@ -1,0 +1,34 @@
+%Scale the output
+%%scale 1.200
+%%format bracinho.fmt
+%%format dulcimer.fmt
+%%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 120pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+X:1
+T:Love Me Tender (Aura Lee)
+C:Traditional (for Aura Lee)
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+|"G"D G F G|"Am"A E A2|"D"G F E F|"G"G4|
+w:1~Love me ten-der, love me sweet. Ne-ver let me go.
+w:2~Love me ten-der, love me long. Take me to your heart.
+|"G"D G F G|"Am"A E A2|"D"G F E F|"G"G4||
+w:You have made my life com-plete, and I love you so.
+w:For it's there that I be-long, and we'll ne-ver part.
+|"G"B B B B|"Em"B B "G7"B2|"C"B A G A|"G"B4
+w:Love me ten-der, love me true, all my dreams ful-filled.
+w:Love me ten-der, love me dear, tell me you are mine.
+|"G"B B c B|"A"A E A2|"D7"G F E F|"G"G4||
+w:For my dar-ling I love you, and I al-ways will.
+w:I'll be yours through all the years, till the end of time.
+
+

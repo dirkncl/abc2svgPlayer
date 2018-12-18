@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.00
+%%format dulcimer.fmt
+X: 1
+T:Last Date
+C:Floyd Cramer; 1968, 1988
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|"D"z b "D7"a/2f/2- (3f/2e/2d/2|"G"g B2 z|"D"z b "D7"a/2f/2- (3f/2e/2d/2\
+|"G"g B2 z|"D"z b "D7"a/2f/2- (3f/2e/2d/2|"G"g B2 (3z/2d/2e/2\
+|"D"f- (3f/2e/2f/2 "A7"g- (3g/2f/2g/2|"D7"a- (3a/2^g/2a/2 "G"b- (3b/2a/2=g/2\
+|"D"f- (3f/2d/2f/2 "A7"e- (3e/2c/2e/2|1 "D"d- (3d/2A/2d/2 "A7"c2 :|2 "D"d3 "D7"d|
+|"G"d'2 "A7"c' b|"D"a f2 "D7"d|"G"d'2 "A7"c' b|"D"a2-"D7"a d3/2d/2\
+|"G"b- (3b/2b/2b/2 "A7"c'- (3c'/2b/2c'/2|"D"d' "F#m"a "Bm"f3/2 d/2\
+|"Em7"g/2f/2- (3f/2e/2d/2 g/2f/2- (3f/2e/2d/2|"A7"e- "Em"(3e/2d/2B/2 "A7"c2\
+|"D"z b "D7"a/2f/2- (3f/2e/2d/2|"G"g B2 z|"D"z b "D7"a/2f/2- (3f/2e/2d/2\
+|"G"g b2 z|"D"z b "D7"a/2f/2- (3f/2e/2d/2|"G"g b2 (3z/2d/2e/2\
+|"D"f- (3f/2e/2f/2 "A7"g- (3g/2f/2g/2|"D7"a- (3a/2^g/2a/2 "G"b- (3b/2a/2=g/2\
+|"D"f- (3f/2d/2f/2 "A7"e- (3e/2c/2e/2|"D"d "G"b "F#m"a "Em"g|"D"f2 +fermata+d z||

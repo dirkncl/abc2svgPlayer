@@ -1,0 +1,11 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%barsperstaff 6
+X:1
+T:Love of God
+C:P.M. Lehman
+M:6/8    %(3/4, 4/4, 6/8)
+L:8    %(1/8, 1/4)
+V:1 clef=treble
+K:C    %(D, C)

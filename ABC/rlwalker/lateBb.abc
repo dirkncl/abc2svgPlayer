@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Chipmunk Song, The
+T:Christmas, Don't Be Late
+C:Ross Bagdasarian
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%V:1 treble clef
+K:Bb    %(D, C)
+%Intro
+|[F2_B2d2] [_Bdf]|_B2d2g2] [dfb]|z [F,_B,D]|[F,A,C] [F,A,D] [F,A,E]|
+%Tune
+|:"Bb"D2 F|G2 B|"F7"A2 E|G3
+w:Christ-mas, Christ-mas time is near,
+|"F7"A2 E G2 "Cm7"B|"Bb"A2 G|G3|"Cm7"E2 G
+w:Time for toys and time for cheer. We've been
+|"F7"A2 c|"Cm7"B2 G|"F7"A3|"Cm7"B2 G|"F7"A2 c
+w:good, but we can't last. Hur-ry, Christ-mas,
+|"Bb"B2 G|G3|D2 F|G2 B|A2 F
+w:hur-ry fast. Want a plane that loops the
+|"Bb"G3|F2 G|"Bb7"B2 d|"Eb"d2 c|c3
+w:loop; Me, I want a hu-la hoop.
+|"Eb""^Tag ->"d2 c|"Ebm"e2 d|"Bb"c2 B|"C7"d2 A|"F7"G2 A
+w:We can hard-ly stand the wait, Please, Christ-mas
+|F2 c|1 "Bb"B3|"F7"z3:|2 "Bb"B3-|B3||
+w:don't be late. late.
+

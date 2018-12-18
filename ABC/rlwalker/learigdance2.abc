@@ -1,0 +1,73 @@
+
+X: 0
+T: Lea Rig
+T: 8x32S
+R: strathspey
+Z: John Chambers <jc@trillian.mit.edu>
+K: A
+
+X: 1
+P: The Lea Rig
+R: air
+Z: John Chambers <jc@trillian.mit.edu>
+M: C|
+L: 1/8
+K: A
+[| cB | "A"c2E2 "E"E2F2 | "F#m"A3B A2c2 | "Bm"B3c dcBA | "D"c2F2 "E7"F2cB \
+| "A"c2E2 "E"E2F2 | "F#m"A3B A2ag | "D"f3e "E7"fgae | "A"c2"D"A2 "A"A2 |]
+[| e2 \
+| "D"fe"E"fg "A"a2c2 | "D"dcde f2A2 | "Bm"B3c dcBA | "D"c2F2 "E7"F2cB \
+| "A"c2E2 "E"E2F2 | "F#m"A3B A2ag | "D"f3e "E7"fgae | "A"c2"D"A2 "A"A2 |]
+
+X: 2
+P: The Hills of Lorne
+C: C.Hunter
+R: air
+B: James Hunter #17, BSFC III-13 & IV-3
+N:
+N: Hunter attributes this tune to "Charlie Hunter of Oban, a radio operator
+N: on the MacBrayne steamers which ply the west-coast routes."
+Z: John Chambers <jc@trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+[| FE \
+| "D"D2FG "(A)"A2d2 | "Bm"f3e "D"d2A2 | "G"B3d "D"A2F2 | "Em"E2GF "A7"E2FE \
+| "D"D2FG "(A)"A2d2 | "Bm"f3e "D"d2A2 | "G"B2gB "A7"A2c2 | "D"d6 |]
+[| ag \
+| "D"f2ed "G"B2cd | "D"A3F "(A7)"A2ag | "D"f2ed "Bm"A2df | "Em"e4- "A7"e2fe \
+| "Bm"d2ef "D"A2dc | "G"B2d2 "Em"g2ag | "D"f2ed "A7"A2c2 | "D"d6 |]
+
+X: 3
+P: The Singing Bird
+R: air
+Z: John Chambers <jc@trillian.mit.edu>
+M: 4/4
+L: 1/8
+K: G
+[| DGE \
+| "G"D3E "Em"G2AB | "Am"c3B "D"A2GA | "G"BAGE D2D2 | D4- "D7"DFGE \
+| "G"D3E "Em"G2AB | "Am"c3B "D"A2GA | "G"BAGE "D7"D2D2 | "G"G6 |]
+[| Bc \
+| "Bm"d3B "Em"e3d | "Am"c2c2 "D7"c2c2 | "G"B2G2 "Am"c2B2 | "D7"B2A3 FGE \
+| "G"D3E "Em"G2AB | "Am"c3B "D"A2GA | "G"BAGE "D7"D2D2 | "G"G6 |]
+
+X: 4
+P: Jockey's Ta'en the Pairtin Kiss
+R: air
+Z: John Chambers <jc@trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+[| A2 \
+| "D"D3E "Bm"F2F2 | "Em"F2ED "A7"E4 | "D"D3E F2ED | F2A2 d3e \
+| "Bm"f3e d2cB | "Em"ABAF "A7"E4 | "Bm"d2cB "G"ABdF | "A7"F2E2 "D"D2 |]
+[| A2 \
+| "D"d3e "Bm"f2f2 | "Em"f2ed "A7"e4 |  "D"d3f "Em"e2fd | "A7"c2B2 A4 \
+| "D"fedB ABdF | "Em"GFED "A7"E4 | "Bm"d2cB "G"ABdF | "A7"F2E2 "D"D2 |]
+
+X: 5
+W: Arranged by John Chambers <jc@trillian.mit.edu>
+K: C
+
+

@@ -1,0 +1,47 @@
+%Scale the output
+%%scale 0.91
+%%format dulcimer.fmt
+X:1
+T:Little Green Valley (Down in)
+C:Carson J. Robison
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+P:Moderato
+K:G    %(D, C)
+|"^Voice"G G G/2A/2 B|A A A/2B/2 c|B d d2|z c B A|G/2 G G/2-G/2 A/2 B
+w:1~It's not  hard to see just what's wrong with me all the time, * * * When I tell__ ya
+w:2~All night long in my deams I see a spot far a-way, * * * Nes-tled in_ the hills
+|A/2 A A/2-A/2 B/2 c|B4-|B4|B B B/2 ^c/2 d|^c c c/2 d/2 e
+w:I'm home-sick, lone-some an' sad;_ There's a deep re-gret I can ne-ver get
+w:in a land_ that I love;_ Storm-y weath-er may come but wheth-er the
+|d B B B-|B4| A A A/2B/2 d|E E E/2F/2 G|B A ^G A-|A2 z2||
+w:off of my mind;_ Cause I went t' roamin' left the on-ly home I ev-er had;_
+w:sky's blue or grey;_ I keep dream-in' of sun-light stream-in' from Heav-en a-bove;_
+|"G""^Chorus"B B/2A/2 G/2A/2 B|"C"c c/2G/2 E/2G/2 c|"G"B2 G2|
+w:I hear a mock-in' bird, down in the Lit-tle Green Val-ley,
+w:I see a can-dle light, Down in the Lit-tle Green Val-ley,
+|z B B B|"D7"B/2 A A/2A B|c B B ^A
+w:I know he's sing-in' out_ his heart to wel-come
+w:Where morn-ing glor-y vines_ are twi-ning 'round the
+|"G"B G F E|D G =A ^A|B B/2A/2 G/2A/2 B|"C"c c/2G/2 E/2G/2 c
+w:me;____ Some-one waits bye the_ gar-den gate Down in the Lit-tle Green
+w:door;____ Oh how I wish I was there a-gain, Down in the Lit-tle Green
+|"G"B2 G2|z B B "Gdim"B|"D7"B A A B|c/2 B B/2-B A
+w:Val-ley; When I get home a-gain how hap-py I_ will
+w:Val-ley; For then my home-sick heart would trou-ble me_ no 
+|"G"G4-|"G7"G G A B|"C"c c B c|"D7"d d c d|"G"c2 B2-
+w:be._ Down by a lit-tle bab-bling brook, once  more I'll wan-der,
+w:more;_ There's on-ly one thing ev-er gives me con-so-la-tion,
+|B G A ^A|B B ^A B|c B B _B|"D7"A4-
+w:_And in a sha-dy nook, I'll dream the hours a-way,
+w:_And that's a dream that I'll be go-in' back some day, 
+|A c c c|"G"B B/2A/2 G/2A/2 B
+w:_That's where I'll leave all my cares be-hind
+w:_And ev-ry night down up-on my knees
+|"C"c c/2G/2 E/2G/2 c|"G"B2 G2|z B B "Gdim"B|"D7"B/2 A A/2-A B
+w:Go where I know I'll find sun-shine, Back to that Lit-tle Old_ Green
+w:I pray the Lord to please take me, Back to that Lit-tle Old_ Green
+|c/2 B B/2-B A|1 "G"G2- "Gdim"G2|"D7"F2 "D+"^A2:|2 "G"G4-|G2 g z||
+w:Val-ley far_ a-way._ * * * *
+w:Val-ley far_ a- * * * * way.__

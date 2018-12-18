@@ -1,0 +1,17 @@
+%%scale 1.28
+%%format dulcimer.fmt
+X:1
+T:Liberty
+M:4/4
+L:1/8
+K:D
+V:1 name="advanced"
+|:"D"[f2A2] [A2F2] [f2A2] [A2F2]| fgfe d2 ef| "G"[g2B2] [B2G2] [g2B2] [B2G2]| "A7"gagf efge\
+|"D"[f2A2] [A2F2] [f2A2] [A2F2]| fgfe d2 ef| "G"gfed "A"cABc|1 "D"dBAF D2 d2 :|2 "D"dBAF D2 FG|\
+|:"D"A2 AB AGFE| DFAd f2 d2| A2 AB AFED|"A"A,2 C2 E2 G2\
+|"D"A2 AB AGFE| DFAd fdef| "G"gfed "A"cABc|1 "D"dBAF D2 FG:|2 "D"dBAF [F4D4]||
+V:2 name="simple"
+|:f2 A2 f2 A2|f2 fe d2 f2|g2 B2 g2 B2|g2 gf e2 ge|f2 A2 f2 A2\
+|f2 fe d2 ef|g2 e2 c2 A2|1 d2 A2 D2 e2:|2 d2 A2 D2 AB|\
+|:A2 AB A2 F2|D2 A2 f2  d2|A2 AB A2 ED|A,2 C2 E2 G2\
+|A2 AB A2 F2|D2 A2 d2 f2|g2 e2 c2 A2|1 d2 AF D2 AB:|2 d2 AF D4||

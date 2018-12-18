@@ -1,0 +1,21 @@
+%%scale 1.25
+%%stretchlast 0
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+%%format dulcimer.fmt
+X: 1
+T: Levan Polkka
+T: Savitaipaleen Polkka
+T: Finnish Polka
+M: 2/4
+L: 1/8
+R: polka
+%%score (V1)
+V:1 clef=treble name="Melody"
+K: Bmin
+|:B>c Bc|dB Bd|cA Ac|d/c/B/A/ BF
+|B>c Bc|dB B2|ef/e/ dc|BA B2:|
+|:f2 df|ec cd|ef/e/ dc|Bc dB
+|f2 df|ec cd|ef/e/ dc|BA B2:||

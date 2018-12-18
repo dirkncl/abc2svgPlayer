@@ -1,0 +1,22 @@
+%%scale 1.000
+%%format dulcimer.fmt
+X: 1
+T: Lover's Waltz, The
+C: \2511992 Molly Mason & Jay Ungar
+R: waltz
+M: 3/4
+L: 1/8
+%%continueall 1
+%%partsbox 1
+K: D
+P:A
+Adf
+|| "D"a3 afd | "G"B3 AGF |  "D"A6-    |     A3 Adf 
+|     a3 afd | "G"B3 AGF | "Em"A6-    | "A7"A3 ABd |
+| "Em"e3 def | "G"ed3 BA |  "D"A6-    |     A3 ABd 
+| "G"e3 def  | "Em"ed3    BA | "A"a4-    ab  |    a4  dc |]
+P:B
+| "D"d4  dc   | "Em"d4    dc | "D/F#"d3d dc  | "G"d2 g3f 
+| "D"d4  dc   | "Bm"d4    BA | "Em"B4- BA/B/ |"A7"A4 dc |
+| "G"B3 cd2   |  "A"c2 d2 e2 | "Bm"f3  gfe   |    d4 dc 
+| "G"B2 c2 d2 | "A7"e2 d3  c | "D (G)"d6-    | "D"d3 |]

@@ -1,0 +1,20 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Lucy Farr's Barndance
+C:Traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+P:A
+|:"G"vG2 G2|"G"G/2A/2B/2G/2 "C"E "G"D|"G"B2 B2|"G"B/2c/2d/2B/2 "D"A2|"G"uB/2c/2d/2B/2 G G
+|"G"G/2A/2B/2G/2 "C"E "G"D|"G"D/2E/2G/2A/2 (B/2d/2)d/2B/2|"D"uA G "G"G2:|
+P:B
+|:"G"vB/2c/2d/2B/2 G2|"G"(G/2A/2)B/2G/2 "C"E "G"D
+|"G"D/2E/2G/2A/2 (B/2d/2)d/2B/2|"D"uB A A G/2A/2|"G"B/2c/2d/2B/2 G (G/2F/2)|"G"G/2A/2B/2G/2 "C"E "G"D
+|"G"D/2E/2G/2A/2 (B/2d/2)d/2B/2|"D"uA G "G"G2:||

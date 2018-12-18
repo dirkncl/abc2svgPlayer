@@ -1,0 +1,20 @@
+
+
+X:6
+T:Looney Tunes
+R:square
+F:http://trillian.mit.edu/~jc/music/abc/Contra/RJ/square/LooneyTunes_1.abc	 2003-10-27 20:45:06 UT
+Z: Transcribed to abc by Mary Lou Knack
+M:C|
+I:Looney Tunes	S-C	D	square
+K:D
+% C: S-C
+% P: A
+A2| "D"ddc2 B2A2| F6 A2| ddc2 B2=c2| "A"^c8| \
+       c2A2 B2A2| c2A2 B2A2| A2_B2 =B2c2| "D"d2f2 d2 :|
+%%textfont Times-Roman 12.0
+%%text 			to B part of "Chinese Breakdown".
+%%textfont Times-Roman 9.0
+%%text 11/19/98		Formerly R-101
+
+

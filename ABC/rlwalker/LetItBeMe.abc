@@ -1,0 +1,31 @@
+%Scale the output
+%%scale 1.173
+%%format dulcimer.fmt
+X: 1
+T:Let It Be Me (Je T'appartiens)
+C:Music: Gilbert Becaud, Lyrics: Pierre DeLanoe, English: Mann Curtis
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|:"D"z F F3/2 F/2|"A7"A3/2 G/2 F "A#dim"E|"Bm"z D E3/2 F/2|"F#m"F3/2 E/2 D C
+w:1~I bless the day I found you.  I want  to stay a-round you.
+w:2~If, for each bit of glad-ness, Some-one must taste of sad-ness,
+|"G"z B, D3/2 E/2|"D"D A,3|"Em7"z D D "A7"C|"D"D2- "Em7"D- "A7"D|"D"z F F3/2 F/2
+w:And so I beg you, let it be me. __Don't take this
+w:I'll bear the sor-row, let it be me. __No mat-ter
+|"A7"A3/2 G/2 F "A#dim"E|"Bm"z D E3/2 F/2|"F#m"F3/2 E/2 D C|"G"z B, D3/2 E/2|"D"D A,3
+w:heav-en from one,  If you must cling to some-one, Now and for-ev-er,
+w:what the price is, I'll make the sac-ri-fi-ces, Through each to-mor-row,
+|"Em7"z D D "A7"C|"D"D4|"G"z B B3/2 B/2|"F#m"A F3|"G"z B c3/2 B/2
+w:let it be me. Each time  we meet, love, I find  com-
+w:let it be me. To you I'm pray-ing, Hear what I'm
+|"D"A F3|"Em7"z G A3/2 B/2|"D"A D3|"G"z D E F|"F#"F4
+w:plete love, With-out your sweet love, what would life be?
+w:say-ing, Please let your heart beat for me, just me.
+|"D"z F F3/2 F/2|"A7"A3/2 G/2 F "A#dim"E|"Bm"z D E3/2 F/2|"F#m"F3/2 E/2 D C
+w:So nev-er leave me lone-ly, Tell me you'll love me on-ly,
+w:And nev-er leave me lone-ly, Tell me you'll love me on-ly,
+|"G"z B, D3/2 E/2|"D"D A,3|"Em7"z D D "A7"C|1 "D"D2- "Em7"D- "A7"D:|2 "D"+fermata+D3 :||
+w:And that you'll al-ways let it be me.__|
+w:And that you'll al-ways let it be * * * me.

@@ -1,0 +1,27 @@
+%%scale 1.158
+%%stretchlast 0
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+%%format dulcimer.fmt
+X:1
+T:Little Liza Jane
+C:Traditional
+M:4/4
+L:1/4
+%%score (V1 V2)
+V:1 clef=treble name="Melody-DAD"
+K:D
+|"D"F D/2D/2 E D|F D E D|F A/2A/2 A "G"B|"D"A A/2A/2 A A
+w:2 0 0 1 0 2 0 1 0 2 4 4 4 5 4 4 4 4 4
+w:I've got-ta gal in Bal-ti-more,_ Lil' Li-__za Jane____
+|F D E D|F D E D|"A"F F/2F/2 F "A7"E|"D"D D/2D/2 D D||
+w:2 0 1 0 2 0 1 0 2 2 2 2 1 0 0 0 0 0
+w:She's the gal that I a-dore,_ Lil' Li-__za Jane____
+|"D"d d/2d/2 d A|"G"B B/2B/2 "D"A A/2A/2|F A/2A/2 A F|A A/2A/2 A A
+w:7 7 7 7 4 5 5 5 4 4 4 2 4 4 4 2 4 4 4 4 4
+w:Oh,___ Lil' Li-__za,__ Lil Li-__za Jane____
+|"D"d d/2d/2 d A|"G"B B/2B/2 "D"A A/2A/2|"A"F F/2F/2 F "A7"E|"D"D D/2D/2 D D||
+w:7 7 7 7 4 5 5 5 4 4 4 2 2 2 2 1 0 0 0 0 0
+w:Oh,___ Lil' Li-__za,__ Lil' Li-__za Jane.____

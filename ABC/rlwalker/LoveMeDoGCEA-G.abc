@@ -1,0 +1,177 @@
+%Scale the output
+%%scale 1.060
+%%format bracinho.fmt
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 105pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+% Defines the chords to be used:
+%%beginps
+/gcshow-b /gcshow load bind def
+/brac{/BRDEF exch def /BRNAM exch def
+    dup BRNAM eq {
+    BRDEF currentpoint exch 7 add exch 9 add bracinho
+    }if}!
+% (Diagram definitions by Chuck Boody)
+/gcshow-bracinho{
+    (A) (- 2 1 0 0) brac
+    (Amaj) (- 2 1 0 0) brac
+    (A6) (- 2 1 2 0) brac
+    (A7) (- 0 1 0 0) brac
+    (A9) (- 0 1 0 2) brac
+    (Amaj7) (- 1 1 0 0) brac
+    (Am) (- 2 0 0 0) brac
+    (Am6) (- 2 0 2 0) brac
+    (Am7) (- 0 0 0 0) brac
+    (Am9) (- 2 0 0 2) brac
+    (Asus2) (- 2 4 5 2) brac
+    (Asus4) (- 2 2 0 0) brac
+    (A+) (- 2 1 1 0) brac
+    (Aaug) (- 2 1 1 0) brac
+    (Adim) (- 2 3 2 3) brac
+    (A\201) (- 3 2 1 1) brac
+    (B\202) (- 3 2 1 1) brac
+    (A\201maj) (- 3 2 1 1) brac
+    (B\202maj) (- 3 2 1 1) brac
+    (A\2016) (- 3 2 1 1) brac
+    (B\2026) (- 3 2 1 1) brac
+    (A\2017) (- 1 2 1 1) brac
+    (B\2027) (- 1 2 1 1) brac
+    (A\2019) (- 1 2 1 3) brac
+    (B\2029) (- 1 2 1 3) brac
+    (A\201maj7) (- 3 2 1 0) brac
+    (B\202maj7) (- 3 2 1 0) brac
+    (A\201m) (- 3 1 1 1) brac
+    (B\202m) (- 3 1 1 1) brac
+    (A\201m6) (- 3 1 3 1) brac
+    (B\202m6) (- 3 1 3 1) brac
+    (A\201m7) (- 1 1 1 1) brac
+    (B\202m7) (- 1 1 1 1) brac
+    (A\201m9) (- 3 1 1 3) brac
+    (B\202m9) (- 3 1 1 3) brac
+    (A\201sus2) (- 3 0 1 1) brac
+    (B\202sus2) (- 3 0 1 1) brac
+    (A\201sus4) (- 3 3 1 1) brac
+    (B\202sus4) (- 3 3 1 1) brac
+    (A\201+) (- 2 1 1 0) brac
+    (B\202+) (- 2 1 1 0) brac
+    (A\201aug) (- 2 1 1 0) brac
+    (B\202aug) (- 2 1 1 0) brac
+    (A\201dim) (- 0 1 0 1) brac
+    (B\202dim) (- 0 1 0 1) brac
+    (B) (- 4 3 2 2) brac
+    (Bmaj) (- 4 3 2 2) brac
+    (B6) (- 1 3 2 2) brac
+    (B7) (- 2 3 2 2) brac
+    (B9) (- 2 3 2 4) brac
+    (Bmaj7) (- 4 3 2 1) brac
+    (Bm) (- 4 2 2 2) brac
+    (Bm6) (- 1 2 2 2) brac
+    (Bm7) (- 2 2 2 2) brac
+    (Bm9) (- 4 2 2 4) brac
+    (Bsus2) (- 4 1 2 2) brac
+    (Bsus4) (- 4 4 2 2) brac
+    (Baug) (- 3 2 2 1) brac
+    (Bdim) (- 1 2 1 2) brac
+    (C) (- 0 0 0 3) brac
+    (C6) (- 0 0 0 0) brac
+    (C7) (- 0 0 0 1) brac
+    (C9) (- 0 2 0 1) brac
+    (Cmaj7) (- 0 0 0 2) brac
+    (Cm) (- 0 3 3 3) brac
+    (Cm6) (- 1 2 2 2) brac
+    (Cm7) (- 3 3 3 3) brac
+    (Cm9) (- 5 3 3 5) brac
+    (Csus2) (- 0 2 3 3) brac
+    (Csus4) (- 0 0 1 3) brac
+    (Caug) (- 1 0 0 3) brac
+    (Cdim) (- 2 3 2 3) brac
+    (D) (- 2 2 2 0) brac
+    (D6) (- 1 1 1 1) brac
+    (D7) (- 2 2 2 3) brac
+    (D9) (- 2 4 2 3) brac
+    (Dmaj7) (- 2 2 2 4) brac
+    (Dm) (- 2 2 1 0) brac
+    (Dm6) (- 2 2 1 2) brac
+    (Dm7) (- 2 2 1 3) brac
+    (Dm9) (- 2 4 1 5) brac
+    (Dsus2) (- 2 2 0 0) brac
+    (Dsus4) (- 0 2 3 0) brac
+    (Daug) (- 3 2 2 1) brac
+    (Ddim) (- 1 2 1 2) brac
+    (E) (- 4 4 4 2) brac
+    (E6) (- 1 1 0 2) brac
+    (E7) (- 1 2 0 2) brac
+    (E9) (- 1 2 2 2) brac
+    (Emaj7) (- 1 3 0 2) brac
+    (Em) (- 0 4 3 2) brac
+    (Em6) (- 4 4 3 4) brac
+    (Em7) (- 0 2 0 2) brac
+    (Em9) (- 0 4 2 2) brac
+    (Esus2) (- 4 4 2 2) brac
+    (Esus4) (- 2 4 5 2) brac
+    (Eaug) (- 1 0 0 3) brac
+    (Edim) (- 0 1 0 1) brac
+    (F) (- 2 0 1 0) brac
+    (F6) (- 2 2 1 3) brac
+    (F7) (- 2 3 1 0) brac
+    (F9) (- 2 3 3 3) brac
+    (Fmaj7) (- 2 4 1 3) brac
+    (Fm) (- 1 0 1 3) brac
+    (Fm6) (- 1 2 1 3) brac
+    (Fm7) (- 1 3 1 3) brac
+    (Fm9) (- 0 5 4 3) brac
+    (Fsus2) (- 0 0 1 3) brac
+    (Fsus4) (- 3 0 1 1) brac
+    (Faug) (- 2 1 1 0) brac
+    (Fdim) (- 1 2 1 2) brac
+    (G) (- 0 2 3 2) brac
+    (G6) (- 0 2 0 2) brac
+    (G7) (- 0 2 1 2) brac
+    (G9) (- 2 2 1 2) brac
+    (Gmaj7) (- 0 2 2 2) brac
+    (Gm) (- 0 2 3 1) brac
+    (Gm6) (- 0 2 0 1) brac
+    (Gm7) (- 0 2 1 1) brac
+    (Gm9) (- 2 2 3 1) brac
+    (Gsus2) (- 0 2 3 0) brac
+    (Gsus4) (- 0 2 3 3) brac
+    (Gaug) (- 0 3 3 2) brac
+    (Gdim) (- 0 1 0 1) brac
+   gcshow-b}!
+% Replaces gchords with diagrams:
+/gcshow{gcshow-bracinho}!
+%%endps
+X:1
+T:Love Me Do
+C:John Lennon and Paul McCartney
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+P:Suggested strum:  D D U D U D U
+K:G    %(D, C)
+P:Intro
+|"G"z2 "C"z2|"G"z2 "C"z2|"G"z2 "C"z2|"G"z4|
+P:A
+|:"G"D2 D F|"C"G z z F|"G"D2 D F|"C"G z z F|"G"D2 D F
+w:Love, love me do. You know I love you. I'll al-ways be
+|"C"G z z D|E2 D C|E4|"^N.C."z2 G G|"G"_B G3|"C"z d c2|1 "G"_B G G2|"C"z4:|
+w:true, so please___ love me do._ Whoa_ love me do.
+|2 "G"_B G G2|z4||
+w:love me do._
+P:B
+|:"D""^Chords only on repeat"A2 A G|^F2 z2|"C"g2 f d|"G"c/2_B/2 G z2
+w:Some-one to love. Some-bod-y new__
+|"D"A2 A G|^F2 z2|"C"g2 f d|"G"G z z2|D2 D F|"C"G z z D
+w:Some-one to love. Some-one like you. Love, Love me do. You
+|"G"D2 D F|"D"G z z F|"G"D2 D F|"C"G z z D|E2 D C|E4
+w:know I love you. I'll Al-ways be true. So please___
+|"^N.C."z2 G G|"G"_B G3|1 "C"z d c2|"G"_B G G2|z2 "^D.C."z2:|2 "C"z d c2|"G"_B G G2-|G4||
+w:love me do._ Whoa_ love me do. Whoa_ love me do._
+W:D.C. means go back to the beginning and play again.

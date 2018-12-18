@@ -1,0 +1,16 @@
+%%scale 1.00
+%%format dulcimer.fmt
+X: 1
+T:Limbo Rock
+O:U.S.A
+M:2/4
+L:1/8
+Q:1/4=180
+K:G
+%%MIDI program 27
+P:A
+GG |:B2 d2|zddB |d4- |d2 GG|
+B2 A2 |zddB |  [1 B4-|B2 GG :|  [2 B4-|B4 |
+P:B
+e<e c2|e2ce |ce3 |d<dd2 |g2dd |BA3 |
+A<GB2|A2Ad |dB3 |c<AG2 |E2G2-|G2z2|

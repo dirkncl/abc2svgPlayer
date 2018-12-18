@@ -1,0 +1,22 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:
+C:
+M:    %(3/4, 4/4, 6/8)
+L:    %(1/8, 1/4)
+V:1 clef=treble
+K:    %(D, C)
+
+If you don't want a repeat bracket on voice 2, add:
+
+V:2
+%%repbra 0
+
+after K:.
+
+Otherwise, if you want a normal repeat bracket, remove the bar between
+the staves by:
+
+%%score 1 2

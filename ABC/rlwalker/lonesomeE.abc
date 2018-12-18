@@ -1,0 +1,22 @@
+%Scale the output
+%%scale 0.9
+%%format dulcimer.fmt
+X: 1
+T:I'm So Lonesome I Could Cry
+C:Hank Williams
+M:3/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:E%(D, C)
+|"E"G2-G/2 E/2|G2-G/2 E/2|G2-G/2 E/2|B,2 E|G2-G/2 E/2|G2-G/2 E/2|B,3-|"E7"B,2 G
+w:1~Hear_ that lone-_some whip-_poor-will, He sounds_ too blue_ to fly._ The
+w:2~ev-_ er see_ a rob-_ in weep, When leaves_ be-gan_ to die?_ That
+|"A"A2 A|A2 A|"E"B2 G|B,2 G/2A/2|B2 G|"B7"F2 G/2F/2|"E"E3-|E2 E
+w:mid-night train is  whin-ing low I'm so lone-some I could_ cry._ I've
+w:means he's lost the will to live I'm so lone-some I could_ cry._ The
+|G2-G/2E/2|G2-G/2E/2|G2-G/2E/2|B,2 E|G2-G/2E/2|G2-G/2E/2|B,3-|"E7"B,2 G|"A"A2 A
+w:nev-_er seen_ a night_ so long When time_ goes crawl-_ing by._ The moon just
+w:si-_lence of_ a fall-_ing star Lights up_ a pur-_ple sky,_ And as I
+|A2 A|"E"B2 G|B,2 G/2A/2|B2 G|"B7"F2 G/2F/2|1 "E"E3-|E2 E/2E/2|2 "E"E3-|E2 z||
+w:went be-hind a  cloud To_ hide it's face and_ cry._ Did you
+w:won-der where you are I'm so lone-some I could_ * * * *cry.

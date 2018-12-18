@@ -1,0 +1,47 @@
+%Scale the output
+%%scale 1.015
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 10pt %between systems
+%%sysstaffsep 10pt %between staves of a system
+X:1
+T:Life's Railway to Heaven
+N:Respectfully dedicated to the Railroad Men.
+C:Music: Charlie D Tillman 1890; Lyrics: M E Abbey
+M:4/4
+L:1/8
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+P:A VERSES
+|DE|"D"F4-FD EF|ED-D4 DD|"G"D4-DE DB,
+w:1~Life is like,_ a moun-tain rail-road,_ With an en-_gin-eer that's
+w:2~You will roll_ up grades of tri-al,_ You will cross_ the bridge of
+w:3~You will of-_ten find ob-struc-tions;_ Look for storms_ of wind and
+w:4~As you roll_ a-cross the tres-tle;_ Span-ning Jor-_dan's swell-ing
+|"D"A,4 z2 A,A,|D4-DA, DE|FF-F4 DD|"Em7"E4-EE FF
+w:brave; We must make_ the run suc-cess-ful,_ From the cra-_dle to the
+w:strife; See that Christ_ is your con-duc-tor,_ On this light-_ning train of
+w:rain; On a fill,_ or curve or tres-tle,_ They will al-_most ditch your
+w:tide; You be-hold_ the Un-ion De-pot,_ In-to which_ your train will
+|"A7"E4 z2 DE|"D"F4- FD EF|ED-D4 DD|"G"D4-DE DB,
+w:grave; Watch the curves,_ the hills, the tun-nels,_ Nev-er fal-_ter, nev-er
+w:life; Al-ways mind-_ful of ob-struc-tion,_ Do your du-_ty, nev-er
+w:train; Put your trust_ a-lone in Je-sus;_ Nev-er fal-_ter, nev-er
+w:glide; There you'll meet_ the Su-perin-tend-ent;_ God the Fath-_er, God, the
+|"D"A,4 z2 A,A,|D4-DA, DE|FF-F4 DE|F4-FD "A7"EE|"D"D4 z2||
+w:quail, Keep your hand_ up-on the throt-tle,_ And your eye_ up-on the rail.
+w:fail, Keep your hand_ up-on the throt-tle,_ And your eye_ up-on the rail.
+w:fail; Keep your hand_ up-on the throt-tle,_ And you eye_ up-on the rail.
+w:son; With the heart-_y, joy-ous greet-ing,_ "Wea-ry pil-_grim, wel-come home!"
+P:B CHORUS
+|EF|"G"G2 G4 DE|"D"F2 F4 FG|A4-AF ED|"A"E4 z2 FG
+w:Bles-sed Sav-iour, Thou wilt guide us, Till we reach_ that bliss-ful shore; Where the
+|"D"A4-AF ED|"G"B,2 D4 "^TAG"DE|"D"F4-FD "A"EE|"D"D4-D||
+w:an-_gels wait to join us, In thy praise_ for-ev-er-more._

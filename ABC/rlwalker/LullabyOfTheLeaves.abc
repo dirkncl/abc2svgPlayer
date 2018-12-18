@@ -1,0 +1,129 @@
+X:1
+T: Lullaby of the Leaves
+C: Words by Joe Young
+C: Music by Bernice Petkere
+C:Copyright 1932, Irving Berlin, Inc.
+C:Renewed 1960, Warlock Corp.
+C:Arrangement 1989 Warlock Corp.
+C: Re-derranged 2007 Lee Nixon
+M:none
+L:1/8
+Q:290
+V:1 program 1 2 volume 94
+V:2 program 1 32 pan 128 volume 114
+V:3 program 1 16416 pan -128 volume 104
+K:Cm
+[V:1] z12 |z12
+|
+[V:2] z11 B,,, |C,,3 G,,3 _G,,3 _B,,,3
+|
+[V:3] ^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |^D,3 ^F,, z ^F,, ^D,3 ^F,, z
+^F,,|
+%
+[V:1]z12 | z3 [G,2_E2G2] [_G,4D4_G4]z3
+|
+[V:2] _A,,,3 _E,,3 D,,3 G,,,3 |C,,3 G,,3 _G,,3 _B,,,3
+|
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,,|^D,3 ^F,, z ^F,, ^D,3 ^F,, z
+^F,,|
+%
+[V:1] z3 [_E,2 C2 _E2] [D,4 =B,4 D4] z3 |
+[V:2] _A,,,3 _E,,3 D,,3 G,,,3 |
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1]|: [_E,2 G,2 C2] z [F,2^G,2D2]z [_E2 F,2=B,2] [F,2_=B,2F2] z_A,-|
+[V:2]|: C,,3 G,,,3 C,,3 D,,3 |
+[V:3]|: ^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1] [ _A,2- D2-_G2] [_A,2 D2 =G2] z G,-[G,3-D3-F3- =B3-_e3]
+[G,3D3F3=B3d3] |
+[V:2]^F,,3 G,,3 ^F,,3 =F,,,3
+|
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,,
+|
+%
+[V:1] [_B2D2G2c2]z [_B,2=E2G2d2] z [_B2D2G2c2]z [_B2_D2G2]z|
+[V:2]C,,3 G,,,3 C,,3 D,,3 |
+[V:3] ^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1] [_A,2=B,2F2_ B2] _A2 z [_D,3_G,3=B, 3_E3] E F3 |
+[V:2] C,,3 =B,,,3 _B,,,3 _G,,,3 |
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1][D,2C2F2G2] [D,CFG] [D,2C2F2G2][ D,3C3F3G3] [D,CFG][D,3C3F3G3] |
+[V:2] G,,,3 D,,3 G,,,3 _G,,,3 |
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1][_D,=B, _EG]z G {G_A}G2 F _E2 C2 z =B,|
+[V:2] F,,,3 z9 |
+[V:3] z12 |
+%
+[V:1] C2 G,_G,2 F,_E,2 C,z2C|G,_G,F, _E,2C,4 z3:|
+[V:2] z12 |z9 G,,,3 :|
+[V:3] z3^F,,z5^F,, z2 |z3^F,,z5^F, ,z2 :|
+%
+[V:1] [F,2_A,2C2] _D =D2 [C,3_D,3=A,3_ E3] =EF2 [_E,3=A,3C3_ G3]|
+[V:2] F,,,3 C,,3 F,,,3 C,,3 |
+[V:3] ^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1] =G _A3 [C3_G3_B3_e3] [=B3F3=A3=d3] |
+[V:2]F,,,3 G,,,3 _A,,,3 _B,,,3 |
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1][=A,2=E2G2C2] z4 [=A,2D2G2] z4|
+[V:2]z12 |
+[V:3]z3^F,,z5^ F,,z2 |
+%
+[V:1] [C,2^F,2_B,2_ E2] [=B,,=F,=A,= D] z2 [_E,3=G,3C3] z4|
+[V:2]z12 |
+[V:3]z3^F,,z5^ F,,z2 |
+%
+[V:1][F,2_A, 2C2] _D =D2 [C,3_D,3=A,3_ E3] =EF2 [_E,3=A,3C3_ G3]|
+[V:2] F,,,3 C,,3 F,,,3 C,,3 |
+[V:3}[V:3]^D, 3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1] =G _A3 [C3_G3_B3_e3] [=B3F3=A3=d3] |
+[V:2]F,,,3 G,,,3 _A,,,3 _B,,,3 |
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1] [=A,2=E2G2c2] z4 [C2^F2^A2^d2] z4|[C2^F2^A2^ d2] [=B2=F2=A2=d2]
+z1 [=A,3E3=G3c3] z4|
+[V:2]z12 |x12
+|
+[V:3]z3^F,,z5^ F,,z2 |z3^F,,z5^F, ,z2
+|
+%
+[V:1]| [_E,2 G,2 C2] z [F,2^G,2D2]z [_E2 F,2=B,2] [F,2_=B,2F2] z_A,-|
+[V:2]| C,,3 G,,,3 C,,3 D,,3 |
+[V:3]| ^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1] [ _A,2- D2-_G2] [_A,2 D2 =G2] z G,-[G,3-D3-F3- =B3-_e3]
+[G,3D3F3=B3d3] |
+[V:2]^F,,3 G,,3 ^F,,3 =F,,,3
+|
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,,
+|
+%
+[V:1] [_B2D2G2c2]z [_B,2=E2G2d2] z [_B2D2G2c2]z [_B2_D2G2]z|
+[V:2]C,,3 G,,,3 C,,3 D,,3 |
+[V:3] ^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1] [_A,2=B,2F2_ B2] _A2 z [_D,3_G,3=B, 3_E3] E F3 |
+[V:2] C,,3 =B,,,3 _B,,,3 _G,,,3 |
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1][D,2C2F2G2] [D,CFG] [D,2C2F2G2][ D,3C3F3G3] [D,CFG][D,3C3F3G3] |
+[V:2] G,,,3 D,,3 G,,,3 _G,,,3 |
+[V:3]^D,3 ^F,, z ^F,, ^D,3 ^F,, z ^F,, |
+%
+[V:1][_D,=B, _EG]z G {G_A}G2 F _E2 C2 z =B,|
+[V:2] F,,,3 z9 |
+[V:3] z12 |
+%
+[V:1] C2 G,_G,2 F,_E,2 C,z2C|G,_G,F, _E,2C,4 z3|
+[V:2] z12 |z9 G,,,3 |
+[V:3] z3^F,,z5^F,, z2 |z3^F,,z5^F, ,z2 |
+%
+[V:1] C2 G,_G,2 F,_E,2 C,z2C|_B,,2G, ,2_B,,2 [=A,12_E,12= G,12=D12= E12]|
+[V:2] z12|z12|z12|
+[V:3] z12|z12|z12|

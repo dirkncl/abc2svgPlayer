@@ -1,0 +1,15 @@
+%%scale 1.2
+%%format dulcimer.fmt
+X:1
+T:Lady Mary (Sad Song)
+C:Edited by RS
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|D|:"D"F F F|"G"G F G| "D"A3-|A2 D/2E/2
+|F F F/2G/2|"A7"F F E|1 "D"D3-|D3:|2 "D"D3-2|D2 A
+|"G"B B B|d c B|"D"A3-|A3|"G"B G B|d c B
+|"D"A A F|"A7"E2 D/2E/2|"D"F F F|"G"G F G
+|"D"A3-|A2 D/2E/2|F F F/2G/2|"A7"F F F|"D"D3-|D2||
+

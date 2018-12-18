@@ -1,0 +1,30 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Lord Inchiquin
+C:Turough O'Carolan
+L:1/8
+M:3/4
+N:Tom plays it AAB using 2nd ending only
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+|!upbow!A2|:"D"!downbow!d2 de fe|"G"d2 !4!ed cB|"D"A2 F2 A2|f4 !downbow!e2
+|"G"!upbow!d2 !4!ed cB|"D"A2 G2 F2|"Em"G2 BA GF|"A"E4 (ag)
+|"D"f3 e d2|"G"d2 c2 B2|"D"A2 F2 A2|!upbow!f4 e2
+|"G"d2 !4!ed cB|("D"!downbow!A d3) F2|"A"E4 D2|"D"D4 A2::
+|"A"!downbow!AB cd e2| e2 d2 e2|"D"f2 (de) fd|"A"e4 !upbow!d2
+|"D"de fg a2|"D"a2 "G"b2 g2|"D"f3 d f2|"A"e4 !downbow!d2
+|("D"de) fg a2|a2 "G"b2 g2|"D"f3 g e2|"Bm"d4 f2
+|"Em"gf e2 e2|"Em"e2 f2 d2|"A"c3 d B2|A4 !downbow!a!upbow!g
+|"D"f3 e d2|"G"d2 c2 B2|"D"A2 F2 A2|"G"g4 fe
+|"Bm"d2 !4!(ed) cB|("D"!downbow!A d3) F2|"A"E4 D2|1 "D"D4 A2:|2 "D"D4||
+
+measure 18 | e2 d2 f2| on internet
