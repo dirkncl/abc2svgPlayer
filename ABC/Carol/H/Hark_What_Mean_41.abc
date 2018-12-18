@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Holy Voices
+Z: Cornish Tune
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B e B G | (F3/4G/4) (A3/4B/4) A G | c d e (G/A/) | (B3/4A/4G/) F/ E2 | (F3/4G/4) A (G3/4A/4) B | (F3/4G/4) A (G3/4F/4) E | (G3/4A/4) B (F3/4G/4) A | (G3/4A/4) (B/e/) (c B) |"^Chorus" F (F/4E/4F/4G/4) E E | G (G/4F/4G/4B/4) G G | e/ B/ c/ B/ (c/4B/4) (c/4d/4) e/ B/ | (c/4B/4) (c/4d/4) e/ f/ e/ d/ e | B/ A/ A/ G/ G/ F/ F/ E/ | c/ B/ c/ B/ (A/4G/4) (F/4E/4) (E/D/) | (e/4B/4) (c/4d/4) e/ G/ (B/A/) (G/F/) | E4|]
+w: Hark! what mean those ho-_ ly_ voi- ces, Sweet- ly sound- ing_ from__ the skies? Lo!_ the an-_ gel host_ re- joi_ ces Heaven-_ ly Al-_ le lu_ ias_ rise._ Hark! what___ mean those ho- ly___ voi- ces, Hark! what mean those ho-_ ly_ voi- ces, Sweet-_ ly_ sound- ing from the skies? Lo! the an- gel host re- joi ces, Heaven- ly Al- le lu_ ias_ rise._ Heaven-_ ly_ Al- le lu_ ias_ rise.
+

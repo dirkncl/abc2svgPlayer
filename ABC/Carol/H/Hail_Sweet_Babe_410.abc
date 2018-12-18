@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hail, Sweet Babe, So Pure And Holy
+Z: E. Pettman
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=124
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A2 G B2 A | c2 c =B2 _B | A2 A B2 D | (E F) ^F (G2 ^G) | A2 G B2 A | (d e) d d2 ^c | d2 A c2 B | A2 G c3 | (F G) F B2 A | (G D) E F3|]
+w: Hail, Sweet Babe, so pure and ho- ly! Hail, fair Son of Ma-_ ry’s blest!_ Ro- yal In- fant in_ a man- ger, Thou art gen- tly laid to rest Thou_ art gen- tly laid_ to rest.
+

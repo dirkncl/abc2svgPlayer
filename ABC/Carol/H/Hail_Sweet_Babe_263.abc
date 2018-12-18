@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hail, Sweet Babe, So Pure And Holy
+Z: George Edgar Oliver
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=65
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  d B/ F F/ | (G3/4A/4) G/ G F/ | (F3/4G/4) A/ (B3/4A/4) B/ | (G/d/) c/ c3/ | d A/ (B3/4A/4) G/ | c G/ (A3/4G/4) F/ | (F/G/) ^G/ (A/=e/) d/ | (c/G/) A/ F3/ | (A3/4G/4) F/ (A3/4G/4) F/ | (F/B/) c/ ^c d/ | (A3/4G/4) F/ (A3/4G/4) F/ | (G/D/) G/ F3/ | G G/ G G/ | (G/f/) e/ d c/ | (B3/4A/4) G/ F d/ | (c/F/) c/ B3/|]
+w: Hail, Sweet Babe, so pure_ and ho- ly! Hail,_ fair Son_ of Ma-_ ry’s blest! Ro- yal In-_ fant in a man-_ ger, Thou_ art gen-_ tly laid_ to rest. Filled_ with awe_ and ten-_ der rap- ture, Tears_ of joy_ Thy mo-_ ther weeps, Through the night Thy fos-_ ter fa- ther By_ Thee faith- ful vi-_ gil keeps.
+

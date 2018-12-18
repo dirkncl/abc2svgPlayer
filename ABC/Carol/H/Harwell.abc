@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Harwell
+Z: Lowell Mason, 1840
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=110
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Harwell, by Lowell Mason"
+%%MIDI program 2 91
+K: G
+[V: P1]  [B,3/4D3/4][B,/4D/4] [D3/G3/] D/ | [D/G/][G/B/] [FA] [FA] | [F3/4d3/4][F/4d/4] [G3/d3/] [D/G/] | [D/B/][F/A/] G2 | [B,3/4D3/4][B,/4D/4] [D3/G3/] D/ | [D/G/][G/B/] [FA] [FA] | [F3/4d3/4][F/4d/4] [G3/d3/] [D/G/] | [D/B/][F/A/] G2 | [A3/4c3/4][G/4B/4] [F/A/][G/B/] [A/c/][B/d/] | [Ac] [FA] [B3/4d3/4][A/4c/4] | [G/B/][A/c/] [B/d/][c/e/] [Bd] | [GB] [B,3/4D3/4][B,/4D/4] [D-G-] | [D/G/]D/ [D/G/][G/B/] [FA] | [FA] [F3/4d3/4][F/4d/4] [G-d-] | [G/d/][D/G/] [D/B/][F/A/] [B,-G-] | [B,3G3]|]
+[V: P2]  G,3/4G,/4 [G,3/B,3/] [G,/B,/] | [B,/D/][G,/D/] [D,D] [D,D] | [D,3/4A,3/4][D,/4A,/4] [G,3/B,3/] [B,,/D/] | [D,/D/][D,/C/] [G,,2G,2B,2] | G,3/4G,/4 [G,3/B,3/] [G,/B,/] | [B,/D/][G,/D/] [D,D] [D,D] | [D,3/4A,3/4][D,/4A,/4] [G,3/B,3/] [B,,/D/] | [D,/D/][D,/C/] [G,,2G,2B,2] | [D,3/4D3/4][D,/4D/4] [D,/D/][D,/D/] [D,/D/][D,/D/] | [D,D] [D,D] G,3/4G,/4 | G,/G,/ G,/G,/ G,- | G, G,3/4G,/4 [G,-B,-] | [G,/B,/][G,/B,/] [B,/D/][G,/D/] [D,D] | [D,D] [D,3/4A,3/4][D,/4A,/4] [G,-B,-] | [G,/B,/][B,,/D/] [D,/D/][D,/C/] [G,,-G,-] | [G,,3G,3]|]
+

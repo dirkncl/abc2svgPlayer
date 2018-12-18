@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Holy Voices
+Z: Adam Geibel
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  c c c3/ B/ | (A/G/) (A/B/) d c | f c c3/ A/ | (B/c/) (B/A/) (A G) | c c c3/ B/ | (A/G/) (A/B/) d c | =B B c3/ c/ | (e/d/) (c/=B/) c2 | _B B B3/ A/ | (B/d/) (c/B/) B A | A A f3/ d/ | A =B c2 | F3/ C/ (F/G/) (A/_B/) | c ^c d f | f d c3/ B/ | A G F2|]
+w: Hark! what mean those ho-_ ly_ voi- ces, Sweet- ly sound- ing thro'_ the_ skies?_ Lo! th'an- ge lic host_ re-_ joi ces Heav'n- ly al- le lu_ ias_ rise. Lis- ten to the wond-_ rous_ sto- ry Which they chant in hymns of joy 'Glo- ry in_ the_ high- est, glo- ry, Glo- ry be to God on high!"
+[V: P2]  A A A3/ G/ | F F F F | A A A3/ F/ | (G/A/) (G/F/) (F E) | A A A3/ G/ | F F F F | F F E3/ E/ | (G/F/) (E/D/) E2 | G G G3/ ^F/ | (G/B/) (A/G/) G F | F G A3/ A/ | F F E2 | F3/ C/ (F/G/) (A/_B/) | c G F F | F F F3/ G/ | F E F2|]
+[V: P3]  C C C3/ C/ | (C/B,/) (C/D/) B, A, | C C C3/ C/ | C C C2 | C C C3/ C/ | (C/B,/) (C/D/) B, A, | G, D C3/ C/ | G, G, G,2 | C C C3/ C/ | C C C C | C ^C D3/ D/ | D D C2 | F,3/ C,/ (F,/G,/) (A,/_B,/) | C E D D | D B, C3/ D/ | C B, A,2|]
+[V: P4]  F, F, F,3/ F,/ | F, F, F, F, | F, F, F,3/ F,/ | E, F, C,2 | F, F, F,3/ F,/ | F, F, F, F, | G, G, A,3/ A,/ | G, G,, C,2 | C, C, C,3/ C,/ | C, C, F, F, | F, E, D,3/ F,/ | G, G, C,2 | F,3/ C,/ (F,/G,/) (A,/_B,/) | C A, B, B, | B, B, A,3/ A,/ | C C, F,2|]
+

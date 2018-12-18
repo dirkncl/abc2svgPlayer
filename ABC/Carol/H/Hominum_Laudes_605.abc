@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hominum Laudes
+Z: Martin Shaw
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  (d3 | d) c B | c2 | B3 | (d3 | d) A F | B3 | A3 | D2 D | (E F) G | A2 A | (G F) E | A2 A | (G F) E | A2 G | (G F) A | d2 d | (=c B) A | (B =c) d | B2"^Chorus" G | F/ E/ D A | G/ F/ E =c | B G =c | B G B/ B/ | d3|]
+w: Christ,_ hath Christ's Moth- er Bourne,_ our dear Bro- ther, In the stalls_ of Beth- le hem._ Then leave we all_ Je- ru sa lem,_ To kiss the King_ of Beth-_ le hem! Cui vo- ci bus gau- den ti bus Di- ca mus: can- ta mus: Glo- ri am!
+

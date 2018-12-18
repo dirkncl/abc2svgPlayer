@@ -1,0 +1,33 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Hampshire Mummers' Christmas Carol
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2_1 name="Right Hand"
+V: P2_2
+%%MIDI program 2 0
+V: P3_1 name="Left Hand"
+V: P3_2
+%%MIDI program 3 0
+K: C
+[V: P1] z | z4 |z2z C/ E/ | G G F A | G (E/D/) C E | D (D/E/) F E/ D/ | E3 C/ E/ | G/ G/ G/ A/ F/ F/ D/ E/ | (F/E/) F/ A/ G (C/E/) | G (A/F/) E D | C3|]
+w: There is six good days all in the_ week, All for a_ la- bour ing man, But the sev- enth is the Sab- bath of our Lord_ Je- sus Christ, The_ Fa- ther_ and the Son.
+% Extracting voice 1 from part P2
+[V: P2_1]  | [EG] A/F/ [CE] D3/4C/4 | | G [B,A] | [CG] E/D/ [CE] | [CD] D/E/ [CF] E/D/ | | [(B,(E(G] G/)A/ [A,EF] D/E/ | F/E/ F/A/ [DG] C/E/ | G A/F/ [CE] [B,D] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | x1  E x1  | | C3 G F x1  | x1  B, C x1  | x1  C x1  B, | | x1  A, E x1  | D D x1  G, | C2 x2  ||]
+% Extracting voice 1 from part P3
+[V: P3_1]  | E, F, G, G,,/F,/ | | [C,2E,2] D, F, | [C,E,] G,/F,/ [C,E,] [C,G,] | [F,A,] A, [D,A,] G, | | D,/E,/ F,/G,/ | [D,A,] A,/F,/ [B,,/G,/] | [E,,E,] [F,,F,] G,3/ F,/ ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | G,, | | x2  C,2 | x1  G,, x2  | x1  F,/E,/ x1  | | E,/D,/ C, D, D, | x1  C, x0 F,/ E,/D,/ | x2  G,,2 ||]
+

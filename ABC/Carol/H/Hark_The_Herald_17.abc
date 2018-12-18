@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! The Herald Angels Sing
+Z: Mendelssohn
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D G G3/ F/ | G B (B A) | d d d3/ c/ | B A B2 | D G G3/ F/ | G B (B A) | d A A3/ F/ | F E D2 | d d d G | c B (B A) | d d d G | c B A2 | e e e d | c B c2 | A (B/c/) d3/ G/ | G A B2 | e3/ e/ e d | c B c2 | A (B/c/) d3/ G/ | G A G2|]
+w: Hark! The her- ald an- gels sing,_ "Glo- ry to the new- born King; Peace on earth, and mer- cy mild,_ God and sin- ners re- con ciled!" Joy- ful, all ye na- tions, rise._ Join the tri- umph of the skies. With an- gel ic hosts pro- claim, "Christ is_ born in Beth- le hem!" Hark! the her- ald an- gels sing, "Glo- ry_ to the new- born King."
+

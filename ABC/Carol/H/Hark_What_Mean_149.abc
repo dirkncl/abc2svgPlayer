@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Holy Voices
+Z: Composer Unknown
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=95
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  (F/B/) c/ (d/A/) B/ | (c/B/) G/ F D/ | G G/ G G/ | (c/d/) c/ (c F/) | (F/B/) c/ (d/A/) B/ | (c/B/) G/ F D/ | A G/ (F/B/) c/ | d c/ B3/ |"^Chorus" B B/ B B/ | (A/B/) A/ A G/ | (G/A/) G/ d c/ | (G/A/) B/ c3/ | (F/B/) c/ (d/A/) B/ | (c/B/) G/ F D/ | G _G/ (F/B/) c/ | d c/ B3/|]
+w: Hark!_ what mean_ those ho-_ ly voi- ces, Sweet- ly sound- ing from_ the skies?_ Lo!_ the an-_ gel host_ re- joi ces Heaven- ly Al-_ le lu ias rise. Lis- ten to the won-_ drous sto- ry Which_ they chant in hymns_ of joy "Glo-_ ry in_ the high-_ est glo- ry! Glo- ry be_ to God most high!"
+[V: P2]  D D/ D D/ | E E/ D B,/ | E E/ F F/ | =E E/ (_E E/) | D D/ D D/ | E E/ D B,/ | ^C C/ D =E/ | F _E/ D3/ | G G/ G ^F/ | ^F F/ D D/ | D D/ =E E/ | =E E/ _E3/ | D D/ D D/ | E E/ D B,/ | ^C C/ D =E/ | F _E/ D3/|]
+[V: P3]  F, F,/ ^F, F,/ | G, A,/ B, G,/ | B, B,/ =B, B,/ | _B, B,/ (A, A,/) | F, F,/ ^F, F,/ | G, A,/ B, F,/ | B, B,/ B, B,/ | (B,/G,/) A,/ F,3/ | D D/ C C/ | C C/ C B,/ | B, B,/ _B, B,/ | B, B,/ A,3/ | F, F,/ ^F, F,/ | G, A,/ B, F,/ | B, B,/ B, B,/ | (B,/G,/) A,/ F,3/|]
+[V: P4]  B,, B,,/ B,, B,,/ | B,, B,,/ B,, B,,/ | E, E,/ D, D,/ | C, C,/ (F, F,/) | B,, B,,/ B,, B,,/ | B,, B,,/ B,, B,,/ | =E, E,/ F, G,/ | F, F,/ B,,3/ | G, F,/ _F, E,/ | D, D,/ G, G,/ | F, F,/ C, C,/ | C, C,/ F,3/ | B,, B,,/ B,, B,,/ | B,, B,,/ B,, B,,/ | =E, E,/ F, G,/ | F, F,,/ B,,3/|]
+

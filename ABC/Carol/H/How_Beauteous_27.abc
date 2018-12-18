@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: How Beauteous Are Their Feet
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=23
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  c/ | A/ (A/4c/4) B/ G/ | (A/4G/4A/4B/4 c/) B/ | (A/4B/4) c/ d/ B/ | G3/ c/ | d/ B/ c/ A/ | B/ A/ G/ (c/4B/4) | A/ (B/4A/4) G/ (A/4G/4) | F/ (G/4F/4) E/ G/ | (A/4G/4) (A/4B/4) c/ B/ | (A/4B/4c/4d/4 c/) c/ | d/ (c/4B/4) A/ G/ | F3/|]
+w: How beau- teous_ are their feet____ Who stand_ on Zi- on's hill, Who bring sal- va tion on their tongues, Who_ bring sal-_ va tion_ on their_ tongues, And words_ of_ peace re- veal,____ And words of_ peace re- veal.
+[V: P2]  E/ | F/ F/ G/ E/ | F3/ G/ | F/ F/ D/ D/ | E3/ F/ | F/ C/ C/ F/ | G/ F/ E/ E/ | (F/4E/4) D/ (E/4D/4) ^C/ | (D/4=C/4) =B,/ C/ E/ | F/ F/ F/ F/ | F3/ F/ | F/ F/ F/ E/ | C3/|]
+[V: P3]  G,/ | D/ C/ D/ (C/4B,/4) | (A,3/4G,/4) A,/ C/ | (C/4B,/4) A,/ B,/ G,/ | C3/ A,/ | B,/ B,/ A,/ C/ | C/ C/ C/z/ | z4 |zz/ C/ | (F,/4E,/4) (F,/4G,/4) A,/ D/ | (C3/4B,/4) A,/ A,/ | B,/ (C/4D/4) (C/4A,/4) B,/ | A,3/|]
+[V: P4]  C,/ | D,/ A,,/ B,,/ C,/ | F,3/ E,/ | F,/ F,/ B,,/ B,,/ | C,3/ C,/ | C,/ G,/ A,/ F,/ | E,/ F,/ C,/z/ | z4 |zz/ C,/ | F,/ F,/ F,/ B,,/ | F,3/ F,/ | B,,/ B,,/ C,/ C,/ | F,3/|]
+

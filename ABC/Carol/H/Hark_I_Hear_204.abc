@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! I Hear, Sweet And Clear
+Z: Myles B. Foster
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  cz/z/4 c/4"^Intro" c2 | c3/ c/4 c2 | c c c c | d2 d2 | e4 | e3/ e/4 e2 | e3/ d/4 c2 | c3/ c/4 c (e/d/) | c2 B2 | (c2 c)z |"^Carol" [K: F]  [M: 6/8]  F G/ A B/ | c d/ (B/A/) G/ | F D/ F D/ | (F/G/) A/ (A G/) | F G/ A B/ | c d/ (B/A/) G/ | A E/ (F/G/) A/ | G F/ Fz/ | c d/ (c/B/) A/ | f c/ (A/G/) F/ | A3/ G3/ | F2z|]
+w: Hark, I hear, sweet and clear, Voi- ces sing of Christ the King! In the night still and bright, Hark! The word of_ praise is heard._ Hark! The Christ- mas bells are ring-_ ing Thro’ the mid- night, loud_ and clear;_ Hark! the hap- py voi- ces sing-_ ing Once a- gain_ is Christ- mas near! Hap- py Christ-_ mas, Thou art ev-_ er wel- come here!
+

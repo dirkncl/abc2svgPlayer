@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Holy Voices?
+Z: "Angel Choir" by John H. Gower, 1895
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  G (F/E/) D (E/F/) | G A (B/c/) d | d3/ e/ d B | c B A2 | G (F/E/) D (E/F/) | G A (B/c/) d | d3/ e/ d c | B A G2|]
+w: Hark! what_ mean those_ ho- ly voi-_ ces, Sweet- ly sound- ing from the skies? Lo! the_ an- gel_ host re- joi_ ces Heaven- ly Al- le lu ias rise.
+[V: P2]  G (F/E/) D (E/F/) | G A (B/c/) d | G3/ G/ G G | F G F2 | G (F/E/) D (E/F/) | G A (B/c/) d | G3/ G/ G G | G F D2|]
+[V: P3]  G, (F,/E,/) D, (E,/F,/) | G, A, (B,/C/) D | D3/ C/ D D | D D D2 | G, (F,/E,/) D, (E,/F,/) | G, A, (B,/C/) D | D3/ C/ D E | D C A,2|]
+[V: P4]  G, (F,/E,/) D, (E,/F,/) | G, A, (B,/C/) D | B,3/ C/ B, G, | A, G, D,2 | G, (F,/E,/) D, (E,/F,/) | G, A, (B,/C/) D | B,3/ C/ B, A, | D, D, G,,2|]
+

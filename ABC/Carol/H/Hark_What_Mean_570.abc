@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Holy Voices
+Z: C. W. Pearce, Mus. D.
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=260
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  F2 A2 | d2 A2 | (F E) (F G) | A2 D2 | B2 (c d) | d2 A2 | (A ^G) (F G) | A4 | F2 A A | d2 D2 | E2 (F G) | A2 ^A2 | (B c) (d e) | A2 d2 | (F2 E3/) D/ | D4|]
+w: Hark! what mean those ho-_ ly_ voi- ces, Sweet- ly_ sound- ing in_ the_ skies? Lo! the an- ge lic host re-_ joi ces Loud-_ est_ Al- le lu_ ias rise.
+

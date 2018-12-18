@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Thrilling Voices
+Z: H. J. Gauntlett
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=260
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F C F G | A F A B | c2 f2 | A3 A | c2 G2 | F4 | G B A G | F A G F | G2 c2 | c3 d/ | =B2 B2 | c4 | B d c B | A c B A | A c B A | B A G2 | g3 f | e2 f2 | f2 e2 | f2 c2 | c3 B/ | A2 d2 | G2 G2 | F4 |"^Verse 2 Only" d2 F | d2 d | (d e) =B | (d c) G | c2 F | c2 F | (c d) A | (B2 F) | (B A) D | d2 c | (c B) G | (B A) D | d2 f | (_e d) c | (B c) A | G3 | A2 B | (B A) d | (d ^c) =e | =e2 d | A2 B | (B A) d | (d ^c) =e | d3 | (d =e) d | (d c) =e | (f g) f | f2 =e | =e2 d | d2 c | (c B) A | G2|]
+w: Hark! what mean those thril- ling voi- ces, Strange- ly sound- ing in the skies; There th'an- gel ic host re- joi ces, There those Al- le lu ias rise; Lo! they sing a won- drous sto- ry, Tel- ling of the Sav- iour nigh! Glo- ry in the high- est, Glo- ry; Glo- ry be to God on high. Peace on earth, good will_ from Hea-_ ven Reach- ing far as man_ is found;_ Man_ re- deemed and sin_ for- giv_ en; Hear the gold-_ en harps_ re- sound. Christ is born_ the Great_ A- noin ted, Heaven and earth_ glad wel-_ come sing, Hail!_ Lord Christ_ the God_ ap- point ed As our Pro- phet, Priest,_ and King.
+

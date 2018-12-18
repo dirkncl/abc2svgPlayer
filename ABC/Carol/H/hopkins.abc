@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hopkins, LM
+Z: E. G. Monk
+Z: Public domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Hopkins, LM"
+V: P2_2
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1] !mf! | [F2A2] c2 | c2 B [EA] | G3 [zE2] | | d3 [zG2] | c3 [zF2] | f2 =B2 | | c e d c | | A c =B A | G3 [(F(c] | | f c [FB] [_EA] | ||]
+% Extracting voice 2 from part P1
+[V: P1_2] !mf! | x2  A G | F3 x1  | D2 x2  A | | A ^F x2  B | G E x2  A | F A G F | | A2 A2 | | G2 F2 | F2 E) x1  | | F2 x2  | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | [F,2C2] C2 | | | | D2 B, D | C2 A, C | | | | | | | | C A, [D,B,] [C,C] | D G, A, B, ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | x2  F, E, | | | | ^F, D, G,2 | E, C, F,2 | | | | | | | | _E,2 x2  | B,,2 C,2 ||]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Have Your Not Heard
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=84
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  B2 B F | G3 B | e e d c | d3 F | (F/E/D/E/ F) G | F2 B2 | c B A G | F2z A | B c d A | B d c B | (G/A/) B e d | c3 B | (G F) (D B) | (G F) B2 | B B A c | B4|]
+w: Have your not heard, not heard our Sa- viour's love, That He____ was born To save our souls a- bove; There- fore   let us   To Heaven_ our voic- es raise And sing_ to_ God_ in sol- emn hymns of praise.
+[V: P2]  D2 D F | B,2 (E F) | C G F F | F3 D | (B,3/ C/) D E | F2 (F =E) | F F F =E | C2z F | F F F F | F F F F | G (G/F/) (G/A/) B | A3z | z4 |z2 (D E) | D D C F | F4|]
+[V: P3]  B,2 F, B, | B,2 (B, F,) | G, C A, A, | B,3 F, | (D, F, B,2) | B,2 D2 | C D C B, | A,2z C | D A, B, C | B, B, A, B, | E D E F | F3 D | (E D) (B, D) | (E D) B,2 | (F,/B,/) (D/F/) F E | D4|]
+[V: P4]  B,,2 B,, D, | E,2 (E, D,) | C, C, F, F, | B,,3 F, | B,,3 E, | D,2 G,2 | A, B, C C, | F,2z F, | B, F, B,, F, | D, B,, F, D, | E, G, C B, | F,3 B, | B,2 B,,2 | B,2 G,2 | F, F, F, F, | B,,4|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! A Burst Of Heavenly Music
+Z: F. Schilling
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B B/ (=A/B/) c/ | B e/ c G/ | B G/ (F/G/) A/ | G c/ B3/ | B B/ (=A/B/) c/ | B e/ B G/ | (B/c/) d/ e G/ | (F/G/) F/ E3/ | F d/ d d/ | d c/ d d/ | f e/ d c/ | B G/ F3/ | F d/ d d/ | d c/ d c/ | f e/ d c/ | (B/d/) c/ B3/ | B B/ (=A/B/) c/ | B e/ B G/ | B G/ (F/G/) A/ | G c/ B3/ | B B/ (=A/B/) c/ | B e/ B G/ | B e/ g e/ | (d/c/) d/ e3/|]
+w: Hark! A burst_ of heav’n- ly mu- sic From a band_ of ser- aphs bright; Sud- den ly_ to earth des- cend ing, In_ the calm and si-_ lent night: To the shep- herds of Ju- de a, Watch- ing in the earl- iest dawn, So they bear the joy- ful tid- ings, "Je- sus, Prince of Peace_ is born. "Sweet and clear_ those an- gel voi- ces, Ech- oing thro’_ the win- ter’s sky As they chant_ the heav’n- ly mu- sic, "Glo- ry be to God_ on high."
+

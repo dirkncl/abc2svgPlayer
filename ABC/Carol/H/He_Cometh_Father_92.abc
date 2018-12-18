@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: He Cometh, Father, As He Came From Old
+Z: Mr. G. B. Lissant
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=105
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B | (d F) G | c2 B | B/ A/ G A | B2 B | B A2 | e2 d | c3/ E/ F/ G/ | A2 A | (B A) B | (d ^c) B | A/ B/ ^c e | d2 ^c | (^c B) A | A3/ G/ F/ E/ | (D F) E | D3 | d (c/ B/) (A/ G/) | F2 E | c/ B/ (A/ G/) (F/ E/) | (E ^D) F | Bz/ B/ A/ G/ | (G3/ e) d | (c E) F | G2|]
+w: He com-_ eth, Fa- ther, as He came of old, 'Neath earth- ly veil con- cealed from mor- tal sight, Thought now_ we hear_ no an- gel harps of gold, Nor see_ the glo- ry of the heaven-_ ly Light: Look Thou_ in_ love, as on that won-_ drous_ birth_ On this, His good will gift_ of peace_ to earth.
+

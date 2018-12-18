@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! The Joyful Christmas Greeting
+Z: F. T. Southwick
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 9/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  (B/c/) B/ | (A3/ A) d/ (A/B/) A/ | G3/ d3/ (d/c/) B/ | (A3/ A) G/ (F/A/) c/ | (e3/ d3/) (B/c/) B/ | (A3/ A) d/ (A/B/) A/ | G3/ d3/ (d/e/) d/ | (c3/ c) E/ (F/G/) E/ | (A3/ A3/) (G/A/) B/ | (d3/ d) A/ (A/B/) c/ | (d3/ d) (d/c/) B/ | (A3/ A) E/ (F/G/) E/ | (A3/ A3/) (G/A/) B/ | (d3/ d) A/ (A/B/) c/ | d3/ d (d/B/) d/ | (c3/ c) c/ B A/ | (G3/ G3/)|]
+w: Hark!_ the joy-_ ful Christ-_ mas greet- ing Which_ the mer-_ ry Church_ bells ring._ As_ they tell_ the wond’-_ rous sto- ry And_ pro- claim_ the Heav’n-_ ly King_ For_ in Da-_ vid’s roy-_ al city,_ Un-_ to us_ a child_ is born,_ And_ to us_ a Son_ is giv- en, On_ this hap-_ py Christ- mas morn._
+

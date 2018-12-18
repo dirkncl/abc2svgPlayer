@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Her_kommer
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+V: P3 name="Staff-3"
+%%MIDI program 3 73
+V: P4 name="Staff-4"
+%%MIDI program 4 19
+V: P5 name="Tempo Track"
+%%MIDI program 5 -1
+K: C
+[V: P1]  [F^G] F [^D=G] [^A,D] | C ^G, [F,D] ^A, | [^A,3^D3]z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z3 ^D/F/ | [^DG] G [D^G] [FG] | [^D3/G3/] F/ D D/G/ | [D^A] [^DA] [Dc] c | [D3/^A3/] ^G/ [^D=G] [A,/G/]F/ | [C^D] D [C^G] G | F F [G3/^A3/] G/ | [F^G] F [^D=G] [^A,D] | C ^G, [F,D] ^A, | [^A,3^D3] D/F/ | G G ^G G | G3/ F/ ^D D/G/ | ^A A c c | G3/ ^G/ =G G/F/ | ^D D ^G G | F F [G3/^A3/] G/ | ^G F =G ^D | C2 D2 | ^D4|]
+[V: P2]  z4 | z4 |z3 ^d/f/ | [^dg] [dg] [d^g] [fg] | [^d3/g3/] f/ d d/g/ | [d^a] [^da] [dc'] c' | [d3/^a3/] ^g/ [^d=g] [A/g/]f/ | [c^d] d [c^g] g | [df] f [d^a] [^dg] | [f^g] f [^d=g] [^Ad] | c ^G [Fd] ^A | [^A3^d3]z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z3 ^d/f/ | [g^a] [ga] [^gc'] [gc'] | [g3/^a3/] [f/^g/] [^d=g] d/g/ | [g^a] [ga] [^gc'] [gc'] | [g3/^a3/] [^g/c'/] [=ga] g/f/ | [^dc'] [dc'] [^gc'] [gc'] | [fd'] [f/^a/]^g/ [=g3/a3/] [g/a/] | [^gc'] [fc'] [=gb] [^dc'] | [c2^g2] [d2g2] | [^A4^d4g4]|]
+[V: P3]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | ^A/^d/ A/d/ c/d/ c/d/ | ^A/d/ A/^G/ =G G/A/ | ^d/^A/ d/A/ d/c/ d/c/ | ^d/^A/ d/=d/ ^d/A/ B | c/G/ c/G/ ^d/c/ d/c/ | d/^A/ d/A/ A3/ ^d/ | f/c/ f/^d/ =d/G/ c/G/ | c/^G/ F/G/ d/G/ F/G/ | G/^A/ G/A/ G2|]
+[V: P4]  [F,C] [D,^A,] [^D,A,] G, | [^G,,^D,] F, [^A,,2F,2] | [^D,,3G,3] [D,/G,/]^G,/ | [^D,2^A,2] [C,C] [=D,A,] | [^D,^A,]z/ ^G,/ [D,=G,] [C,D,] | [^A,,F,] [G,,A,] [^G,,^G,] A,,/=G,/ | [^A,,F,] A, [^D,A,] D,/=D,/ | [C,G,] [F,2^G,2]z | ^A,3/ ^G,/ [=G,A,] [G,A,] | [F,C] [D,^A,] [^D,A,] G, | [^G,,^D,] F, [^A,,2F,2] | [^D,,3G,3] [D,/G,/]^G,/ | [^D,2^A,2] [C,C] [=D,A,] | [^D,3/^A,3/] ^G,/ [D,=G,] [C,D,] | [^A,,F,] [G,,A,] [^G,,^G,] A,,/=G,/ | [^A,,F,] A, [^D,A,] D,/=D,/ | [C,2G,2] [F,2^G,2] | ^A,3/ ^G,/ [=G,A,]z/ [G,/A,/] | [F,C] [D,^A,] [^D,A,] G, | [^G,,^D,] F, [^A,,2F,2] | [^D,,3G,3] [D,/G,/]^G,/ | ^D, D, ^G,, G,, | ^A,,3/ A,,/ [^D,,^D,]z | [G,,G,] [G,,G,] [^G,,^G,] [G,,G,] | [G,,3/G,3/] [F,,/F,/] [^D,,^D,] =D, | C, C, F,, F, | [^A,,^A,] [^G,,^G,] [=G,,3/=G,3/] C,/ | F,, ^G,,/C,/ B,, C, | ^G,,2 ^A,,2 | [^D,,4G,4]|]
+[V: P5]  z4|]
+

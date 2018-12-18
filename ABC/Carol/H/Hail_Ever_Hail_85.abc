@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hail, Ever Hail, Thou Glorious Morn
+Z: Mr. Arthur Henry Brown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  c/ | B c/ A d/ | B c/ A B/ | (A/ G/) F/ E3/ A/ | (B3/ B)z/ | c/ d/ e/ B c/ | d A/ c c/ | B A/ G F/ | e"^Chorus" c/ B E/ | (G3/ A) F/ | (E3/ E/)z/"^Trembles Only." E/ | (E/ F/) G/ (A/ B/) c/ | d e/ c c/ | c B/ d F/ | (A3/ G) G/ | A A/ (c/ B/) A/ | G B/ e"^Chorus" d/ | c c/ c c/ | d F/ c B/ | (A B/) (c d/) | e3/ (B c/) | (A3/ A/)z/|]
+w: Hail, e- ver hail, thou glo- rious morn, The bright-_ est since the Fall:_ Mor- tals re- joice! the Sa- viour's born, O crown Him Lord of all, O crown Him Lord_ of all._ He comes,_ He comes,_ our world to bless To ran- som ev- ery thrall_ From doom of end-_ less wretch- ed ness, O crown Him Lord of all; O crown Him crown_ Him_ Lord of_ all._
+

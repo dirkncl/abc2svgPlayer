@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! The Merry Christmas Bells
+Z: M. A. Hofland
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=150
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c A c A | A G F2 | G (A/B/) G B | B2 A2 | c A d B | A G F2 | G (A/B/) E G | G2 F2 | G c G c | A d f2 | e (d/c/) d =B | d2 c2 | c A c A | A G F2 | G (A/B/) E G | G2 F2|]
+w: Hark! the mer- ry Christ- mas bells, Thro' the_ glad air peal- ing! May they wa- ken in our breast Ev- 'ry_ grate- ful feel- ing. Of the Sa- viour's won- drous love, Their sweet_ tones are tell- ing Wel come, Lord, to our glad hearts, Make our_ homes Thy dwell- ing.
+

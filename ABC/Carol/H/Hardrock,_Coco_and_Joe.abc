@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hardrock, Coco and Joe
+Z: MIDI Sequenced by Bill Egan
+L: 1/4
+M: 3/4
+Q: 1/4=150
+V: P1 name="Hardrock, Coco and Joe"
+%%MIDI program 1 82
+V: P2 name="Staff"
+%%MIDI program 2 95
+V: P3 name="Staff-2"
+%%MIDI program 3 104
+V: P4 name="Staff-3"
+%%MIDI program 4 -1
+V: P5 name="Staff-4"
+%%MIDI program 5 75
+K: C
+[V: P1] z3 |z3 |z3 |z3 | A3/ ^A/ =A | F C F | A3/ ^A/ =A | F3 | ^A A =A | G C G | A F D | C3 | A3/ ^A/ =A | F C F | A3/ ^A/ =A | D2 ^A | A C A | G C G | F3 |z2 c | d d d | ^A c d | c c c | A3 | d d d | ^A c d | c A F | G3 | A3/ ^A/ =A | F C F | A3/ ^A/ =A | D2 ^A | A C A | G C G | F c A | f3|]
+[V: P2] z2 ^A | A C A | G C G | F3 | C3/ D/ C | A, C A, | C3/ D/ C | A,3 | D D C | ^A, C A, | A,2 ^A, | A,3 | C3/ D/ C | A, C A, | C3/ D/ C | ^A,2 [^CF] | F C F | [^A,E] C [A,E] | [A,3C3] | [C^DA] [=DF^A] [^D=Ac] | [D3^A3] | D3 | C3 | [C3F3] | [D3^A3] | D3 | C2 ^A, | [^A,3E3] | C3/ D/ C | A, C A, | C3/ D/ C | ^A,2 [^CF] | F C F | [^A,E] C [A,E] | A, A F | A3|]
+[V: P3] z2 [^D^A] | [FA] C [FA] | [^A,G] C [A,G] | [A,3F3] |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | A3/ ^A/ =A | F C F | A3/ ^A/ =A | D2 ^A | A C A | G C G | F c A | f3|]
+[V: P4] z3 |z3 |z3 |z3 | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,/C,/][A,,/C,/] E,,/E,,/ E,,/E,,/ | [A,,C,] E,,/E,,/ E,, | [A,,C,] E,, E,, | [A,,C,] E,,/E,,/ E,, | [A,,C,] E,, E,, | [A,,C,] E,,/E,,/ E,, | [A,,C,] E,, E,, | [A,,C,] E,,/E,,/ E,, | [A,,C,] E,, E,, | [A,,C,] E,,/E,,/ E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] E,, E,, | [A,,C,] [E,,/A,,/][E,,/A,,/] [G,^A,]|]
+[V: P5] z3 |z3 |z3 |z3 | F,, C,z | C,, C,z | F,, C,z | C,, C, C, | G,, C,z | C,, C,z | [F,,2C,2] D, | F, C, F,, | F,, C,z | C,, C,z | F,, C,z | ^A,, F, G,, | C,3 | C,,3 | F,, C, F,- | F,3 | ^A,, F,2 | ^A,, F,2 | F,, C,2 | F,, C, F, | ^A,, F,2 | ^A,, F,2 | F,,2 G,, | C, G,, C,, | F,, C,z | C,, C,z | F,, C,z | ^A,, F, G,, | C,3 | C,,3 | F,, C, F,- | F,3|]
+

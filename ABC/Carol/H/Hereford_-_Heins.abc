@@ -1,0 +1,25 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hereford (Heins), irr.
+Z: Francis D. Heins (1878-1949)
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/2
+Q: 1/4=180
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="Hereford (Heins)"
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  (C C | | | | | F6) (C2 | | | [F2=B2] c d [E2c2] [D2B2] | | | | | G6) [(E2(A2] | | F E [D2F2] | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  C C | | | | | F6 C2 | | | x2  F2 x4  | | | | | G6 x2  | | C2 x2  | | ||]
+[V: P2]  [(C,(C] [C,C] | [F,2A,2] [F,A,] [F,A,] [D,A,] [D,A,] [D,2A,2] | [A,,4C4] [C,2)C2)] [(D,(A,] [D,A,] | [B,,2B,2] [G,,D] [G,,D] | [C,2C2] [C,2B,2] | [F,6)A,6)] [(C,2(C2] | [F,2A,2] [F,A,] [F,A,] [D,A,] [D,A,] [D,2A,2] | [A,,4A,4] [C,2A,2] [C,2A,2] | [D,2A,2] [=B,,2A,2] [E,2A,2] [E,2^G,2] | [A,,6)A,6)] [(A,,(A,] [A,,A,] | [C,2G,2] [C,B,] [C,B,] [C,2B,2] [C,A,] [C,G,] | [F,2D2] [F,4C4] [A,,2C2] | [B,,2D2] [C,2_E2] [D,2D2] [D,C] [D,C] | [G,6)B,6)] [(^C,2(A,2] | [D,2A,2] [B,,B,] [B,,B,] | [F,2A,2] [D,2A,2] | [A,,4A,4] [C,2A,2] [D,A,] [D,A,] | [B,,2G,2] [G,,G,] [G,,G,] [C,3B,3] [F,A,] | [F,6)A,6)]|]
+

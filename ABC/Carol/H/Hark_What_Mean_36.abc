@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Holy Voices?
+Z: Geo. B. Arnold
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  (c A) f | e2 d | (c G) B | B2 A | (G A) =B | (c d) e | A2 =B | c3 | A2 c | f2 d | (c A) F | E D2 | F2 B | (A d) c | (B A) G | F3|]
+w: Hark!_ what mean those ho-_ ly voi- ces, Sweet-_ ly sound-_ ing from the skies? Lo! the an- gel host_ re- joi ces Heaven- ly Al-_ le lu_ ias rise.
+

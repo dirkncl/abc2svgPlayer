@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark, A Thrilling Voice is Sounding
+Z: From "Neues geistreiches Gesangbuch"
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  C D E D | E F G G | c d e d | c =B c2 | e e d d | c (d/ c/) =B G | E F G A | E D C2|]
+w: Hark, a thril- ling voice is sound- ing! "Christ is nigh!" we hear it say; "Cast a- way the works of_ dark- ness, O ye child- ren of the day!"
+

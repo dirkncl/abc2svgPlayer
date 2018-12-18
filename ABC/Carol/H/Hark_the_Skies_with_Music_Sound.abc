@@ -1,0 +1,31 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! the Skies
+Z: Joseph Proud (1745-1826)
+Z: Music: Anonymous
+Z: Public Domain, Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org
+L: 1/4
+M: 6/8
+Q: 1/4=115
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Staff-1"
+V: P2_2
+%%MIDI program 2 91
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  [GB] [G/B/] [G/-B/] [G/A/] G/ | | G [F/A/] [GB] [G/e/] | | | | G [G/e/] [Gd] G/ | [GB] [F/A/] G3/|]
+w: Hark!_ the_ skies___ with_ mu-___ sic_ sound,_ Heav’n- ly_ glo-_ ry__ beams_ a-_ round;_ Christ_ is_ born!___ the an-___ gels_ sing_ Glo- ry_ to_ the__ new-_ born_ King._
+% Extracting voice 2 from part P1
+[V: P1_2]  x2  G/ | | G x2  | | | | G x1  G/ | x1  G3/|]
+w: Hark!_ the_ skies___ with_ mu-___ sic_ sound,_ Heav’n- ly_ glo-_ ry__ beams_ a-_ round;_ Christ_ is_ born!___ the an-___ gels_ sing_ Glo- ry_ to_ the__ new-_ born_ King._
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | A, [A,,/A,/] [D,3/A,3/] | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | A, | | | ||]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! All Around The Welkin Rings
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  E | G F E G | A G G G | (c/B/) A G G | G2z E | E E E E | G G G G | c B A E | (F2 E) A | G (F/E/) D D | C2z"^Chorus" E | A B/ c/ B E | B c/ d/ c c | d d/ e/ f e/ d/ | c d/ d/ e e/ e/ | (e ^G) A A/ A/ | (G F) Ez | A (B/c/) d e | d2 c|]
+w: Hark! all a- round the wel- kin rings, Bright Se-_ raphs hail the morn, That ush- ers in the King of Kings, This day of Vir- gin born,_ This day of_ Vir- gin born. Ye peo- ple on earth, your voic- es now raise, To Christ your Re- deem er, in ca- rols of praise, Al- le lu_ jah! Al- le lu_ jah! no- el,_ no- el, no- el.
+[V: P2]  C | C B, C C | F F E G | (A/G/) F E D | E2z C | (B,/C/) D C C | (D/E/) F E E | E E E C | (D2 C) C | C C C B, | C2z C | C E/ E/ E E | E E/ E/ E A | A A/ G/ F G/ F/ | E F/ F/ E E/ E/ | E2 E F/ F/ | (C C/B,/) Cz | C (D/E/) F G | F2 E|]
+[V: P3]  G, | G, G, G, C | C B, C C | C C C B, | C2z G, | (^G,/A,/) B, A, A, | (B,/C/) D C C | E (E/D/) C A, | (B,2 C) C | C (A,/C/) G, (G,/F,/) | E,2z A, | A, ^G,/ A,/ G, G, | ^G, A,/ B,/ A, E | D D/ ^C/ D =C/ A,/ | C B,/ B,/ C E/ E/ | (E D) C C/ C/ | (C G,) G,z | A, G, G, G, | G,2 G,|]
+[V: P4]  C, | E, D, C, E, | F, G, C, E, | F, F, G, G, | C,2z C, | E, E, A, A, | G, G, C, C | A, ^G, A, A, | (G,2 A,) F, | E, F, G, G,, | C,2z A, | A, E,/ E,/ E, E, | E, E,/ E,/ A, A, | F, F,/ E,/ D, E,/ F,/ | G, G,/ G,/ C, E,/ E,/ | E,2 A, F,/ F,/ | (E, D,) C,z | F, (F,/E,/) D, C, | G,,2 C,|]
+

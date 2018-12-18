@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Heri Mundus Exultavit
+Z: W. Macfarren
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  F3/ F/ F F | G G G G | A3/ A/ A A | B B B A | d2 e2 | f3 f | e2 d2 | c4 | d3/ d/ d d | c B A A | B3/ B/ B B | A G F G | A2 B2 | c3 f | A2 G2 | F4|]
+[V: P2]  C3/ C/ D D | D F E C | F3/ F/ F F | G G G F | F2 G2 | F3 A | G2 F2 | E4 | F3/ F/ G G | G F E F | G3/ G/ G G | E ^C D E | F2 F2 | F3 F | F2 E2 | F4|]
+[V: P3]  A,3/ A,/ A, A, | G, G, G, C | C3/ C/ D D | D D C C | D2 C2 | C3 C | C2 =B,2 | C4 | B,3/ B,/ B, B, | C D E D | D3/ D/ ^C D | E A, A, =C | C2 C2 | C3 =B, | C2 _B,2 | A,4|]
+[V: P4]  F,3/ F,/ D, D, | B,, =B,, C, E, | F,3/ F,/ D, D, | G, F, E, F, | B,2 B,2 | A,3 D, | G,2 G,2 | C,4 | B,3/ A,/ G, F, | E, D, ^C, D, | G,3/ F,/ E, D, | ^C, A,, D, =C, | F,2 G,2 | A,3 D, | C,2 C,2 | F,,4|]
+

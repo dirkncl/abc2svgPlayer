@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! Hear Ye Not The Angel Song?
+Z: Traditional
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=504
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c | A2 G F2 D | F2 G A2 c | d2 d (f e) d | c2 B A2 A | G2 A F2 A/ A/ | B2 c A2 A | G2 A F2 A | d2 c =B2 G | c2 c (=B c) d | c2 A G2 G | c2 c (e d) c | B2 d c2 c | f2 e d2 c | f2 e d2 c | F2 G A2 c | (B A) G F2|]
+w: Hark! Hear ye not the An- gel song The hills of Beth-_ le hem a- mong? To you this day the In- car nate Word, To you, the Ev- er last ing Lord To you on earth,_ this hap- py morn, To you the Prince_ of Peace is born; Whilst heav’n re- ech os yet a- gain, Peace, peace on earth, good- will_ to men.
+

@@ -1,0 +1,39 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! The Herald-Host Is Singing
+Z: E. Humperdinck
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Melody Line"
+V: P1_2
+%%MIDI program 1 19
+V: P2_1 name="Right Hand"
+V: P2_2
+%%MIDI program 2 0
+V: P3 name="Left-Hand"
+%%MIDI program 3 0
+V: P4 name="Right-Hand 2"
+%%MIDI program 4 0
+V: P5 name="Left-Hand 2"
+%%MIDI program 5 0
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | (g/f/) (c/A/) [C3/E3/A3/] [E/G/] | | | | [M: 2/4]  (g/ f/) [(F/(B/(d/] [D/)F/)B/)] | [M: 4/4]  [(C2(F2(A2] G) c | | | | ||]
+w: Hark! the her- ald host is sing- ing Through the si- lent ho- ly night,_ Ti- dings of great joy they're bring- ing From yon star- ry a- zure height,_ And each heart is filled with glad- ness, At the mes- sage which they bring:_ "Christ is born; for- get all sad- ness, Trust in Him, your Sa- viour King!_ And be- hold the stars bright glow- ing, Shed o'er earth their ra- diant light,_ While from An- gels' lips are flow- ing An- thems through the Ho- ly Night._ Bright each win- dow now is glow- ing Light- ed by the Christ- mas tree;_ And each cheek with joy is glow- ing, And each_ heart is filled with glee._ Soft the mes- sen gers from Hea- ven Wing their flight from home to home;_ Bear- ing bless- ings God hath gi- ven Un- to all on earth that roam._ Wel- come, wel- come, Christ- mas eve- ning, Bring- ing peace and love to earth."_ Show your gra- ti tude be- liev ing, Christ- ians, in your_ Sav- iour's birth!_ "Wel-__ come,__ wel-__ come,__ Christ-__ mas__ eve-_ ning, Bring-__ ing__ peace_ and_ love__ to_____ earth.'_____ Show__ your_ gra-_ ti_ tude,__ be-_ liev_ ing_ Christ-_ ians__ In_ your_______ Sa-___ viour's__ birth.
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | A c F A x2  | | | | [M: 2/4]  A d x1  | [M: 4/4]  x2  C2 E2 | | | | ||]
+w: Hark! the her- ald host is sing- ing Through the si- lent ho- ly night,_ Ti- dings of great joy they're bring- ing From yon star- ry a- zure height,_ And each heart is filled with glad- ness, At the mes- sage which they bring:_ "Christ is born; for- get all sad- ness, Trust in Him, your Sa- viour King!_ And be- hold the stars bright glow- ing, Shed o'er earth their ra- diant light,_ While from An- gels' lips are flow- ing An- thems through the Ho- ly Night._ Bright each win- dow now is glow- ing Light- ed by the Christ- mas tree;_ And each cheek with joy is glow- ing, And each_ heart is filled with glee._ Soft the mes- sen gers from Hea- ven Wing their flight from home to home;_ Bear- ing bless- ings God hath gi- ven Un- to all on earth that roam._ Wel- come, wel- come, Christ- mas eve- ning, Bring- ing peace and love to earth."_ Show your gra- ti tude be- liev ing, Christ- ians, in your_ Sav- iour's birth!_ "Wel-__ come,__ wel-__ come,__ Christ-__ mas__ eve-_ ning, Bring-__ ing__ peace_ and_ love__ to_____ earth.'_____ Show__ your_ gra-_ ti_ tude,__ be-_ liev_ ing_ Christ-_ ians__ In_ your_______ Sa-___ viour's__ birth.
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | | | | | | | | | | | | | | | | | [c/_e/][c/e/] [(e3/(g3/] [d/f/] | [c/_e/][c/e/] [e3/g3/] [d/f/] | | [_A/c/] _E/[A/c/]_e/ [Fd] [GB] | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | [M: 2/4]  | [M: 4/4]  | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | | | | | | | | | | | | | | | | | x0 G/ x0 g/ _A2 x0  | x0 G/ x0 g/) _A2 x0  | | x1  D2 x1  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | [M: 2/4]  | [M: 4/4]  | | | | ||]
+[V: P3]  [A3/c3/] [B/d/] | [Ac] [GB] [A3/c3/] [B/d/] | [Ac] [GB] [A3/c3/] [B/d/] | [Ac] [DFB] [CFA] [B,CG] | [A,CF] [B,DF] C (D/ E/) | [CF] C2z |z [CE]z [F,D] |z [CE]z [C,B,] |z [C,A,]z [A,,G,] |z [=B,,,G,,]z (C, | C,)zz [D,A,] |z [E,A,]z F, |z [E,A,]z (C, | C,) G, A, =B, |z [G,C]z [G,C] |z [F,C]z/ B,/A,/G,/ |z/ D,/F,/A,/z G, |z F, C,2 | (C, C,/)z/z2 | z4 | z4 | z4 |z [_E,_A,C] F, G, |z [_E,_A,C] [(F,,(A,] [G,,)B,)] |z [_E,_A,C]z [A,C] |z [_E,G,C]z [F,_A,C=D] |z [G,C_E] C,/F,/_A,/=B,/ |z [G,C_E] C,/F,/_A,/=B,/ |z [G,C_E]z/ _B,,/_E,/G,/ | _A,/_E,/C,/_A,,/z/ B,,/E,/B,,/ |z/ _E, E,/z/ B,,/E,/G,/ | _A,/_E,/C,/_A,,/z/ E, E,/ |z [_E,_A,]z A,, |z/ _A,,/F,/=A,,/z/ B,,/F,/C,/ |z/ _D,/F,/D,/z/ D,/F,/D,/ |z/ C, C, C, (C,/ | [F,,)E,)] [F,,/E,/]z/ [=A3/c3/] [B/d/] | [Ac] [GB] [A3/c3/] [B/d/] | [Ac] [GB] [A3/c3/] [B/d/] | [FAc] F/B/ [CFA] D/E/ | [A,CF] D/G/ C/F/ D/D/ | F/ C C C/=B,/D/ |z/ G,/C/E/z/(3 F,/ _B,/ D |z/(3 C,/ F,/ Cz/(3 C,/ G,/ B, |z/(3 C,/ F,/ A,z/(3 A,,/ E,/ G, |z/(3 A,,/D,/z/(3 G,,/D,/z/(3 F,,/A,,/ C,/(3C,,/C,/ | [(F,,(C,] [F,,/)C,/)]z/z/(3 C,/E,/ G, |z/(3 C,/F,/ A,z/(3 C,/E,/ B, |z/(3 C,/F,/ A,/(3F,/C,/z/(3 C,/G,/ B, |z/(3 C,/F,/ A,z/(3 C,/E,/ G, |z/(3 C,/F,/ A,/(3F,/C,/z/(3 D,/^F,/ A, |z/(3 D,/G,/ B,z/(3 A,,/E,/ G, |z/(3 A,,/D,/ F,(3 =B,,/D,/G,/(3 _B,,/E,/G,/ |(3 A,,/C,/F,/(3 B,,/D,/F,/(3 C,/C,,/C,/(3 C,,/C,/C,,/ | (F,, F,,/)z/z/(3 G,/B,/ E |z/(3 A,/ C/ Ez/(3 B,/ C/ E |z/(3 A,/C/ F/(3C/A,/z/(3 E,/B,/ C |z/(3 F,/A,/ Cz/(3 E,/G,/ C |z/(3 C,/F,/ C/(3A,/F,/z/(3 ^F,/A,/ D |z/(3 G,/B,/ D/(3B,/G,/z/(3 ^G,/=B,/ E |z/(3 A,/C/ E/(3C/A,/z/(3 C,/E,/z/(3 C,/E,/ | [M: 2/4]  B,/A,/ F,/D,/ | [M: 4/4] z/(3 F,,/A,,/ C,/(3F,/A,/ B,2 | [A3/c3/] [B/d/] [Ac] [GB] | [A3/c3/] [B/d/] [Ac] [GB] | [Ac] [GB] [Ac] [Bd] | F,,,/F,,/C,/F,/ C/F/A/c/ | [F4A4c4]|]
+[V: P4] z2 | z4 | z4 | z4 | z4 | z4 |z2z/ F/_B/e/ |z/ A/c/F/z/ C/E/B/ |z/ F/A/C/z/ A,/^C/G/ |z/ A,/D/G/z/ C _B,/ |z/ A,/C/F/z/ D/F/=B/ |z/ C/E/A/z/ D/F/=B/ |z/ C/E/A/z/ C/A/d/ |z/ E/G/c/z/ E/G/F/ |z/ E/G/c/z/ _B/A/G/ |z/ F/A/c/ D E | F2 D/F/E/G/ | G/F/C/D/z/ C B,/ |zz/ F2 B/ | [FAc] [DFB] [CFA] [B,CG] | [(A,(C(F] [B,)D)F)] [A,C] [G,B,] | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z/ [F_A_d] [_E/_G/]z/ [_DFB] [E/G/] | [_DF] [B,2D2] [(=B,(F] | [C)F)] [=B,=D] [(_B,(F] [C)=E)] | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z2z/ D/E/G/ | G/E/F/C/z/ A,/^C/E/ |z/ A,/D/F/z/ C _B,/ | z4 | z4 | z4 | z4 | z4 | z4 | z4 | [CF] [DF]z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | [M: 2/4] z2 | [M: 4/4]  z4 | z4 | z4 | z4 | z4 | z4|]
+[V: P5]  (F2 | F2) (F2 | F2) (F2 | F)zz2 |z2 A, [G,B,] | F, [E,G,] [D,A,] [G,=B,] | (C, C,/)z/ _C,2 | A,,2 G,,2 | F,,2 E,,2 | D,,z C,,2 | F,, F,2 D, | A,,2 F,, D,, | A,,2 F,, ^F,, | G,,4 | (C, C,/)z/ _B,,2 | A,,2 G,, C, | D,,2 =B,, _B,, | A,,3/ B,,/ C, C,, | (F,, F,,/)z/z2 | z4 | z4 | [F,2_A,2] [_D,2F,2B,2] | _A,,2 A,,2 | _A,,2 F,, G,, | _A,,2 F,2 | C,2 F,,2 | C,,2 F,,2 | C,2 F,,2 | (_C, C,/)z/ (_E,,2 | E,,2) (_E,,2 | C, _A,,) (_E,,2 | E,,2) F,, G,, | _A,,3/ _G,,/ F,, _E,, | _D,,2 D,,2 | _D,,4 | C,,4 | [(F,,(C,] [F,,/)C,/)]z/ (F2 | F2) (F2 | F2) F2 |z Dz B, |z B, A, G, | [F,A,] [E,G,] [D,F,] G, | (C, C,/)z/ _B,,2 | A,,2 G,,2 | F,,2 E,,2 | D,, =B,,, C,,2 |z2 F,,2 | F,,2 F,,2 | F,,2 F,,2 | F,,2 B,,2 | (A,, A,,/)z/ D,,2 | G,,2 ^C,,2 | D,,2z _B,, | A,, B,, C, C,, |z2 [F,,2C,2] | [F,,2C,2] [F,,2C,2] | [F,,2C,2] [G,,2C,2] | [(A,,2(C,2] [B,,2)C,2)] | (A,, A,,/)z/ D,,2 | G,,2 E,,2 | A,,2 _B,, G,, | [M: 2/4]  D,, G,,, | [M: 4/4]  C,,2 [A,,2C,2] | F4 | F4 | F4 | z4 | z4|]
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Holy Manna
+Z: William Moore, 1825
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="Holy Manna"
+V: P2_2
+%%MIDI program 2 -1
+K: Ab
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | | [Ec] c/A/ [G2)B2)] | | | ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | | x1  A x2  | | | ||]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  | [E,G,] G,/A,/ [A,,A,] | | | | [E,G,] G,/A,/ [A,,A,] [A,,A,] [A,,A,] [A,,E,] [A,,E,] | | | | | | | [E,G,] G,/A,/ [A,,A,] | ||]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  | x1  E, A, x1  | | | | x1  E, A, x5  | | | | | | | x1  E, A, x1  | ||]|] Z 
+

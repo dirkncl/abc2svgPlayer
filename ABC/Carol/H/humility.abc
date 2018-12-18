@@ -1,0 +1,35 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Humility, LM
+Z: John Goss, 1871
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=117
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="Unnamed-001"
+V: P2_2
+%%MIDI program 2 -1
+V: P3_1 name="Humility"
+V: P3_2
+%%MIDI program 3 -1
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | ||| | | | | | E3/ D/ D2 | ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | ||| | | | | | D ^C/- ^C/ | ||]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  (G3/ A/ [CG] [DF] | E- E/ D/ D2 | G A c B | B3/ A/ [F2)A2)] | (G- G/ A/ [CG] [DF] | E- E/ D/ D2 | ||]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  B,2 x2  | B, C/- C/ B, C | D2 G2 | G2 x2  | D B,/- B,/ x2  | G, A, B, A, | ||]|] Z 
+% Extracting voice 1 from part P3
+[V: P3_1]  G,3 [B,,D,] | E, F, G, A, | | D ^C D- D) | G,3 [B,,D,] | E, F, [F,A,] | G,4- | G, F, [G,,2)G,2)]|| | | | [A,,C] B, [D,2)A,2)] | | [G,,B,] A,/G,/ F,2 | ||]|] Z 
+% Extracting voice 2 from part P3
+[V: P3_2]  (G,,2 A,, x1  | C,2 G,,2 | | D,3 =C, | (B,, G,, A,, x1  | C,2 G, x1  | E,2 D, C, | D,2 x2 || | | | x1  B,,/C,/ x2  | | x1  A,, D, =C, | ||]|] Z 
+

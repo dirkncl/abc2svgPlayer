@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Holy Voices?
+Z: "Wilmot" By Carl M. von Weber
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  B (d3/4c/4) B F | B (d3/4c/4) B F | G B F d | (d/c/) (B/A/) B2 | e G F B | (d/c/) (B/A/) B F | G B F d | c A d2|]
+w: Hark! what_ mean those ho- ly_ voi- ces, Sweet- ly sound- ing from_ the_ skies? Lo! the an- gel host_ re-_ joi ces Heaven- ly Al- le lu ias rise.
+[V: P2]  D (F3/4E/4) D D | D (F3/4E/4) D D | E E D F | (F/E/) (D/C/) D2 | G E F D | (F/E/) (D/C/) D D | E E D F | E E D2|]
+[V: P3]  F, F, F, B, | F, F, F, B, | B, B, B, B, | F, F, F,2 | B, B, B, F, | F, F, F, B, | B, B, B, B, | A, C B,2|]
+[V: P4]  B,, B,, B,, B,, | B,, B,, B,, B,, | E, G, B, B,, | F, F, B,,2 | B,, E, D, B,, | F, F, B,, B,, | E, G, B, B,, | F, F, B,,2|]
+

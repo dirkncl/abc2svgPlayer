@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hyfrydol
+Z: Rowland Hugh Prichard, 1855
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  F2 G | (F G) A | B2 A | (G F) G | c2 B | A2 A | (G F) G | F3 | F2 G | (F G) A | B2 A | (G F) G | c2 B | A2 A | (G F) G | F3|]
+w: Come, thou long-_ ex pect ed Je-_ sus, Born to set thy peo-_ ple free; From our fears_ and sins re- lease_ us, Let us find our rest_ in thee.
+[V: P2]  C2 E | F2 F | G2 F | (E D) E | F2 E | F2 F | D2 E | C3 | C2 E | F2 F | G2 F | (E D) E | F2 E | F2 F | D2 E | C3|]
+[V: P3]  A,2 C | (A, B,) C | (D C) C | (C A,) C | C2 C | C2 C | (B, A,) C | A,3 | A,2 C | (A, B,) C | (D C) C | (C A,) C | C2 C | C2 C | (B, A,) C | A,3|]
+[V: P4]  F,,2 C, | F,2 F, | (F, E,) F, | (C, D,) C, | A,,2 G,, | F,,2 A,, | (B,, D,) C, | F,3 | F,,2 C, | F,2 F, | (F, E,) F, | (C, D,) C, | A,,2 G,, | F,,2 A,, | (B,, D,) C, | F,3|]
+

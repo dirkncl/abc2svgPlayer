@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Holy Night, Peaceful Night
+Z: H. A. L. Peabody
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=70
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  (G3/4A/4) G/ (G A/) | (B3/4A/4) G/ (A B/) | (G3/4A/4) G/ (G A/) | (B/e/) d/ A3/ | B B/ B/ B/ B/ | A A/ (A B/) | G G/ G/ B/ d/ | e d/ (c A/) | (G/c/) B/ B A/ | (G3/ G3/) | (E/ G/) A/ B A/ | (G3/ G3/)|]
+w: Ho-_ ly night!_ peace-_ ful night!_ All_ is dark,_ save_ the light Yon- der, where they sweet vi- gil keep_ O'er the Babe, who, in si- lent sleep;_ Rests_ in heav'n- ly peace,_ Rests_ in heav'n- ly peace._
+[V: P2]  D D/ C3/ | D D/ (E D/) | ^C C/ =C3/ | D D/ D3/ | [^DG] [D/F/] [D/=F/] [D/F/] [D/E/] | ^C C/ [(=C(_E] [C/)D/)] | D D/ D/ =F/ G/ | E E/ (E E/) | G G/ B, B,/ | (B,3/ B,3/) | B, _E/ D C/ | (C A,/ B,3/)|]
+[V: P3]  B, B,/ G,3/ | (G,3/4A,/4) B,/ (C F,/) | _B, B,/ (A, G,/) | (B,/E/) B,/ F,3/ | B, A,/ A,/ A,/ ^G,/ | G, G,/ (G, F,/) | B, B,/ B,/ G,/ G,/ | ^G, G,/ (A, A,/) | (B,/E/) D/ F, F,/ | G,3/ =F,3/ | (G,/E,/) F,/ G, F,/ | (E,/ _E, D,3/)|]
+[V: P4]  G, =F,/ (E, _E,/) | D, D,/ (D, D,/) | E, E,/ _E,3/ | D, D,/ D,3/ | B,, B,,/ E,/ E,/ E,/ | E, A,,/ (D, D,/) | G, F,/ =F,/ D,/ B,,/ | B,, E,/ (A,, C,/) | D, D,/ D, D,/ | E,3/ D,3/ | (C,/C,/) C,/ D, D,/ | (G,,3/ G,,3/)|]
+

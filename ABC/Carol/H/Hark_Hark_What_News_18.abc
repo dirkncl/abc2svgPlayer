@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! Hark! What News The Angels Bring
+Z: English Traditional From Richard R. Chope
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  c2 | c d e e | d2 c2 | B3 B | e d c B | A B c B | A2 B2 | c4 | B2 B B | c2 e2 | d3 ^c | d3 d | e d e c | A3 B | c3 c | B3 d | c2|]
+w: Hark, Hark! what news the An- gels bring Glad tid- ings of a new- born King, The New- born King, Born of a Maid- en un- de filed, Meet Mo- ther of the Heaven- ly Child, The Heaven- ly Child..
+[V: P2]  G2 | G G G G | F2 E2 | D3 G | G F E D | E G E G | (F E) (D F) | E4 | D2 G G | E2 E2 | F2 E2 | F3 G | G G G A | A3 F | E3 F | (D E) F2 | E2|]
+[V: P3]  E2 | E D C G, | A,2 (G,3/ A,/) | B,3 D | B, G, G, B, | E D C E | C2 (B, G,) | G,4 | G,2 D D | C2 C2 | A,2 A,2 | A,3 B, | C F E E | F2 D2 | C3 A, | G,3 (A,/B,/) | C2|]
+[V: P4]  C,2 | C B, C E, | F,2 C,2 | G,3 G, | G, G,, C, G, | C B, A, E, | F,2 G,2 | C,4 | G,2 G, G, | C2 A,2 | (F, G,) A,2 | D,3 G, | C B, C A, | F,3 G, | A,3 F, | G,2 G,,2 | C,2|]
+

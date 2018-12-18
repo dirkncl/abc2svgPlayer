@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Holy Child
+Z: James S. Tyler
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=96
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E | (E E/) F/ E c | (c c/) B/ A2 | (A A) (A G/ A/) | B3 c/ d/ | e c/ B/ A (A/ G/) | F A (d c/ B/) | c2 B2 | A2z (E/ E/) | E3/ F/ E c | (c c/) B/ A2 | (A A) A (G/ A/) | B3 c/ d/ | e c/ B/ | A (A/ G/) | F/ F/ A d (c/ B/) | c2 B2 | A3|]
+w: There came_ a lit- tle Child_ to earth Long_ a-__ go; And the an- gels of God pro-_ claimed His birth,__ High and low. Out_ in the night, so calm_ and still, Their_ song was_ heard; For they knew that the Child on_ Beth- le hem’s hill Was_ Christ the Lord.
+

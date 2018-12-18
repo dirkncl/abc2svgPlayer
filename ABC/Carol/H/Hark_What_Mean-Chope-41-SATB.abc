@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Holy Voices?
+Z: Richard R. Shope
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=80
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  B e B G | (F3/4G/4) (A3/4B/4) A G | c d e (G/A/) | (B3/4A/4G/) F/ E2 | (F3/4G/4) A (G3/4A/4) B | (F3/4G/4) A (G3/4F/4) E | (G3/4A/4) B (F3/4G/4) A | (G3/4A/4) (B/e/) (c B) |"^Chorus" F (F/4E/4F/4G/4) E E | G (G/4F/4G/4B/4) G G | e/ B/ c/ B/ (c/4B/4) (c/4d/4) e/ B/ | (c/4B/4) (c/4d/4) e/ f/ e/ d/ e | B/ A/ A/ G/ G/ F/ F/ E/ | c/ B/ c/ B/ (A/4G/4) (F/4E/4) (E/D/) | (e/4B/4) (c/4d/4) e/ G/ (B/A/) (G/F/) | E4|]
+w: Hark! what mean those ho-_ ly_ voi- ces, Sweet- ly sound- ing_ from__ the skies? Lo!_ the an-_ gel host_ re- joi_ ces Heaven-_ ly Al-_ le lu_ ias_ rise._ Hark! what___ mean those ho- ly___ voi- ces, Hark! what mean those ho-_ ly_ voi- ces, Sweet-_ ly_ sound- ing from the skies? Lo! the an- gel host re- joi ces, Heaven- ly Al- le lu_ ias_ rise._ Heaven-_ ly_ Al- le lu_ ias_ rise.
+[V: P2]  G (E3/4F/4) G E | (D3/4E/4) (F3/4D/4) E E | E F G (E/G/) | (G3/4F/4E/) D/ E2 | (D3/4E/4) F (E3/4F/4) G | (F3/4E/4) D (E3/4D/4) E | B, (B,3/4C/4) D (C/B,/) | E E E2 | D D E E | E (E/4D/4E/4G/4) E E | G/ G/ A/ G/ (A/4G/4) (A/4F/4) G/ G/ | (A/4G/4) (A/4G/4) G/ A/ G/ F/ G | B,/ (C/4D/4) E/ E/ B,/ =B,/ C/ C/ | E/ E/ C/ _D/ C/ C/ B, | E/ A/ G/ E/ (G/F/) (E/D/) | E4|]
+[V: P3]  B, (G,3/4A,/4) B, B, | B, B, B, B, | C B, B, C | (C B,/) A,/ G,2 | B, B, (B,3/4A,/4) G, | B, B, (B,3/4A,/4) G, | (E,3/4F,/4) G, (F,3/4D,/4) (E,/F,/) | (E,3/4F,/4) G, (A, G,) | B, B, B, (B,/4C/4B,/4A,/4) | (G,/A,/) B, B, B, | E2 E2 | E,/ E,/ E,/ A,/ B,/ B,/ E, | G,/ A,/ B,/ B,/ G,/ G,/ G,/ G,/ | A,/ E,/ E,/ =E,/ (F,/4G,/4) (A,/4G,/4) (G,/F,/) | G,/ A,/ B,/ C/ C (B,/A,/) | G,4|]
+[V: P4]  E, E, E, E, | B,, B,, E, E, | A, A, G, C, | A,, B,, E,2 | B,, B,, E, E, | (D,3/4E,/4) F, E, E, | E, (G,,3/4A,,/4) B,, (C,/D,/) | E, E, E,2 | A, A, G, (G,/4A,/4G,/4F,/4) | E, E, E, E, | z4 | z4 | G,/ F,/ E,/ E,/ E,/ D,/ C,/ C,/ | A,,/ G,,/ A,,/ A,,/ A,,/ (A,,/4A,,/4) B,, | G,/ F,/ E,/ C,/ A,, B,, | E,4|]
+

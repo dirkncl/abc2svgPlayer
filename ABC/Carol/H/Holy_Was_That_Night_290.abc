@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Holy Was That Night So Fair
+Z: Alfred Hollins
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  C F F E | E A B2 | c c d c | A B (G/F/ E) | C F F E | E c B2 | e B A G | F2 E2 | B G F E | E d c2 | c ^A =G F | F e d2 | d c B A | f c (d B) | A E F B | B2 A2|]
+w: Ho- ly was that night so fair, When to list’- ning shep- herds near,__ An- gels chant- ed loud and clear, "Glo- ry in the high- est." Hush’d the night, and calm the air. As the se- raph choirs re- peat God’s own sal- u ta tion sweet,_ "Peace on earth from Heav- en."
+

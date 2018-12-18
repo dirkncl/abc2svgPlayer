@@ -1,0 +1,35 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Holly and the Ivy
+Z: English Traditional
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="voice"
+%%MIDI program 1 66
+V: P2 name="right hand"
+%%MIDI program 2 24
+V: P3 name="left hand"
+%%MIDI program 3 24
+V: P4 name="soprano"
+%%MIDI program 4 111
+V: P5 name="alto"
+%%MIDI program 5 60
+V: P6 name="tenor"
+%%MIDI program 6 67
+V: P7 name="bass"
+%%MIDI program 7 58
+K: G
+[V: P1]  G G/G/ G | e d B- | B/G/ G/G/ G | e d2 | d/c/ B/A/ G | B/B/ E/E/ D | G/A/ B/c/ B | A/A/ G2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | z4 [K: G]  | G G/G/ G | e d B- | B/G/ G/G/ G | e d2 | d/c/ B/A/ G | B/B/ E/E/ D | G/A/ B/c/ B | A/A/ G2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3|]
+[V: P2] z G2 | e d B |z G2 | e [F2d2] | [E/d/]c/ [D/B/]A/ [EG] | [DB] E D | [B,/G/][C/A/] [D/B/]c/ [EB] | [FA] G F |z3 |z3 |z3 |z3 |z3 |z3 |z3 | z4 [K: G]  |z G2 | e d B |z G2 | e [F2d2] | [E/d/]c/ [D/B/]A/ [EG] | [DB] E D | [B,/G/][C/A/] [D/B/]c/ [EB] | [FA] G F |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3|]
+[V: P3] z G,2 | A, B,2 |z E C | A, D2 | A, B, C | B, [A,/C/][G,/B,/] [F,A,] | E, D, C, | D, [E,G,] D, |z3 |z3 |z3 |z3 |z3 |z3 |z3 | z4 [K: G]  |z G,2 | A, B,2 |z E C | A, D2 | A, B, C | B, [A,/C/][G,/B,/] [F,A,] | E, D, C, | D, [E,G,] D, |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3|]
+[V: P4] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z/ G/ G/G/ G | e d B | G/G/ G/G/ G | e d2 | d/c/ B/A/ G | B E/E/ D | G/A/ B/c/ B | A G2 [K: G]  |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z/ G/ G/G/ G | e d B | G/G/ G/G/ G | e d2 | d/c/ B/A/ G | B E/E/ D | G/A/ B/c/ B | A G2|]
+[V: P5] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | E D/D/ G | E G2 | G/G/ G/G/ G | E F2 | E/F/ G/F/ G/F/ | E/D/ C/C/ D | B,/C/ D/E/ D | C B,2 [K: G]  |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | E D/D/ G | E G2 | G/G/ G/G/ G | E F2 | E/F/ G/F/ G/F/ | E/D/ C/C/ D | B,/C/ D/E/ D | C B,2|]
+[V: P6] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | C B,/C/ D | C D2 | E/E/ D/C/ B, | C A,2 | A, B,/C/ D | B, G,/G,/ G, | G,/G,/ G,/F,/ E, | F, G,2 [K: G]  |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | C B,/C/ D | C D2 | E/E/ D/C/ B, | C A,2 | A, B,/C/ D | B, G,/G,/ G, | G,/G,/ G,/F,/ E, | F, G,2|]
+[V: P7] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | C, G,/A,/ B, | A, B, G, | C/C/ B,/A,/ G, | A, D,2 | A,, G,,/A,,/ B,, | G,, C,/C,/ B,, | E,/E,/ D,/D,/ C, | D, G,,2 [K: G]  |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | C, G,/A,/ B, | A, B, G, | C/C/ B,/A,/ G, | A, D,2 | A,, G,,/A,,/ B,, | G,, C,/C,/ B,, | E,/E,/ D,/D,/ C, | D, G,,2|]
+

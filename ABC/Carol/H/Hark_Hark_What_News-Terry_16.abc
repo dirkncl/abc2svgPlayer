@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! Hark! What News The Angels Bring
+Z: English Traditional Based On Davies Gilbert
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=105
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  G2 | B B G d | c2 B2 | A3 B | d c B(3 (A/B/c/) | (B A G F/G/4A/4 | G3/ A/ B) A | G4||:z2 A2 | A A B2 | (G A/B/) c B | A3 B | c B c d | (B3 c | A3) A | G4 :|||] Z 
+w: Hark, Hark! what news the An- gels bring Glad tid- ings of a__ new________ born King, Who is the Sa- viour__ of man- kind, In whom we may sal- va__ tion find.
+[V: P2]  D2 | D D B, D | E2 D2 | D3 D | D F G E | (G F G D | B, E D) D | B,4||:z2 F2 | F F (F G) | (E F/G/) G G | F3 G | G F G D | (D2 E C | D3) D | B,4 :|||] Z 
+[V: P3]  B,2 | G, F, G, G, | G,2 G,2 | F,3 G, | A, A, B, C | (D D D A,/G,/4F,/4 | G, G, G,) F, | G,4||:z2 D2 | D D D2 | (E/D/C/B,/) G, (G,/B,/) | D3 D | C D C A, | G,3 A, | G, E, F,2 | G,4 :|||] Z 
+[V: P4]  G,2 | G, D, E, B,, | C,2 G,,2 | D,3 G, | F, D, G, A, | (G, D, B,, D, | E, C, D,) D, | G,4||:z2 D,2 | D (D/C/) (B, G,) | (C/B,/A,/G,/) (E,/F,/) G, | D,3 G, | E, D, E, F, | (G, F, E, A,, | D,3) D, | G,,4 :|||] Z 
+

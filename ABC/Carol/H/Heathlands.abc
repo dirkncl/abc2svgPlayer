@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Heathlands
+Z: Henry Thomas Smart (1813-1879)
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Heathlands, 77.77.77"
+%%MIDI program 2 91
+K: Eb
+[V: P1]  [EB] [Ge] [Fd] [G/B/]F/ | [Ec] [Ec] [E2B2] | [EA] F [EG] [EA] | [EB] [F/A/][E/G/] [D2F2] | [FB] [DB] G [FB] | [Ee] [Fd] [F2c2] | [Ff] [Fc] [Fd] [G/c/]B/ | [Gc] [F=A] [F2B2] | [GB] [DB] [Ec] [Ec] | [Ad] [G/d/]F/ [E2e2] | [Ec] [EB] [EA] [EG] | [EF] [DF] E2- | E2z2|]
+[V: P2]  [G,B,] [E,B,] B, [G,/E/]D/ | [A,C] [C,A,] [E,2G,2] | [C,C] [D,B,] [E,B,] [C,A,] | [G,,G,] [A,,C] [B,,2F,2] | [D,F,] [B,,B,] [E,B,] [D,F,] | [C,/G,/]=A,/ [D,/B,/]E,/ [F,2A,2] | [=A,C] [F,A,] B, [G,/E/]D/ | [E,E] [F,C] [B,,2D2] | [G,D] [G,B,] G, [A,/C/][G,/B,/] | [F,A,] [B,,/B,/]A,/ [C,2G,2] | [A,,A,] [G,,B,] [C,E,] [B,,/E,/]G,/ | [A,,C] [B,,/B,/]A,/ [E,2-G,2-] | [E,2G,2]z2|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark, What Mean Those Holy Voices
+Z: Geo. B. Arnold
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  (c. A) f | e2 d | (c G) B | B2 A | (G A) =B | (c d) e | A2 =B | c3 | A2 c | f2 d | (c A) F | E D2 | F2 B | (A d) c | (B A) G | F3|]
+w: Hark!_ what mean those ho-_ ly voi- ces, Sweet-_ ly sound-_ ing from the skies? Lo! the an- gel host_ re- joi ces Heaven- ly Al-_ le lu_ ias rise.
+[V: P2]  F3 | F2 B | (A C) G | G2 F | (=B, C) D | (E F) G | G3/ (F/E/D/) | E3 | F3/ (G/F/E/) | D F2 | C3 | C B,2 | (C/_E/ D) C | F2 F | (G F) E | F3|]
+[V: P3]  (A, C) (B,/A,/) | B,3/ (C/D/E/) | (F/F,/) C2 | C3 | G,3 | G,2 (G,/C/) | C2 G, | G,3 | C2 A, | B,3 | A, F,2 | F,3/ (E,/F,/G,/) | F,2 C | (C B,) (F/E/) | (D C3/) B,/ | A,3|]
+[V: P4]  F,3 | F,3 | F,3/ (E,/D,/C,/) | F,3 | F,2 F, | (E, D,) C, | F,2 G, | C,3/ (B,,/A,,/G,,/) | F,, F,2 | B,,3/ (C,/D,/E,/) | F,3 | B,,3 | A,, B,, (A,,/G,,/) | (F,, B,,) A,, | B,, C,2 | F,3|]
+

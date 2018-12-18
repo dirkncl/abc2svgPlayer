@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! The Music Of The Cherubs
+Z: R.R.C. / Mr. H. S. Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G3/ A/ B G | d3/ c/ c B | A G B A | G F G2 | A3/ A/ A A | B3/ B/ B A | B ^c d e | d2 ^c2 | d4 | B3/ c/ d c | c B c c | A3/ B/ c B | B A B2 | G3 G | A3 A | B3 c | d3 B | e3 d | d3 c | B2 A2 | G4|]
+w: Hark! the mu- sic of the Che- rubs, Burst- ing sud- den from the sky, Hark! the mu- sic of the Che- rubs, Burst- ing sud- den from the sky; And a band of flam- ing ser- aphs Tel- ling won- ders from on High, And a Band of flam- ing Ser- aphs Tel- ling won- ders from on High.
+

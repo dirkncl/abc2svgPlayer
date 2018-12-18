@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hills Of The North
+Z: Oakley / Shaw
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  C E/ F/ G G c2 | B G/ E/ F G C2 | e d/ c/ B =A d2 | d G/ =A/ B A G3 D | E F G B | c3/ B/ G F | G B e B | G3 F | E4|]
+w: Hills of the north, re- joice; riv- er and moun- tain spring, hark to the ad- vent voice; val- ley and low- land, sing; though ab- sent long, your Lord is nigh; he judg- ment brings and vic- to ry.
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! A Herald Voice Is Calling
+Z: W. H. Monk
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=264
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: E
+[V: P1]  E2 G2 B2 B2 | A2 c2 c2 B2 | G2 ^A2 B2 B2 | c2 c2 B4 | B2 A2 G2 B2 | A2 G2 F2 E2 | F2 G2 A2 G2 | F2 F2 E4|]
+w: Hark! a her- ald voice is cal- ling: 'Christ is nigh,' it seems to say; 'Cast a- way the dreams of dark- ness, O ye child- ren of the day!'
+[V: P2]  B,2 B,2 B,2 D2 | E2 E2 E2 E2 | E2 E2 D2 F2 | G2 (F E) D4 | D2 (E F) E2 F2 | E2 E2 D2 E2 | C2 ^E2 F2 =E2 | E2 D2 E4|]
+[V: P3]  G,2 B,2 F,2 F,2 | E,2 A,2 A,2 G,2 | B,2 E,2 F,2 B,2 | B,2 =A,2 B,4 | D2 (C B,) B,2 B,2 | C2 B,2 (B, A,) G,2 | A,2 B,2 C2 B,2 | C2 (B, A,) G,4|]
+[V: P4]  E,2 E,2 D,2 B,,2 | C,2 (A,, B,,) (C, D,) E,2 | E,2 C,2 B,,2 D,2 | E,2 F,2 B,,4 | B,,2 (C, D,) E,2 D,2 | C,2 E,2 B,,2 C,2 | A,,2 G,,2 F,,2 G,,2 | A,,2 B,,2 E,4|]
+

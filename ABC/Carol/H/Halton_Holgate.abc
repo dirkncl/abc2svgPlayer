@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Halton Holgate, 87.87
+Z: William Boyce (1711-1779)
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+Q: 1/4=113
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Halton Holgate, 87.87"
+V: P2_2
+%%MIDI program 2 91
+K: D
+% Extracting voice 1 from part P1
+[V: P1_1]  [A,F] D [CA] D | E/F/ [CG] [CG] [DF] | [DB] [DA] c [Fd] | | G/F/ E/D/ [A,A] [Ec] | B/c/ [Ed] [Ed] [Ec] | [Dd] [DB] G [DF] | G/F/ E [A,2D2]|]
+% Extracting voice 2 from part P1
+[V: P1_2]  x1  D x1  D | E x3  | x2  A/G/ x1  | | A, A, x2  | F x3  | x2  D/C/ x1  | D E/D/ x2 |]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | G, [F,A,] [E,A,] [D,A,] | | [D,A,] G,/F,/ [C,E,] [A,,A,] | [D,A,] [E,^G,] A, A, | [F,A,] G, [E,A,] [D,A,] | B,/A,/ [A,,G,] [D,2F,2]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | G, x3  | | x1  D, x2  | x2  A, A,/=G,/ | x1  G, x2  | G,, x3 |]
+

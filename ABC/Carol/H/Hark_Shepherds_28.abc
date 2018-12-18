@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark, Shepherds, How The Angels Sing
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=189
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  G3/ c d/ | e c/ (d/c/) B/ | (c3/ c)z/ | z4 |z e/ d c/ | B3/ A3/ | (G3/ G) G/ | c c/ c B/ | A3/ A/ A/ (B/4c/4) | d d/ d c/ | (c3/ c) d/ | e d/ (c/B/) A/ | (G/A/) F/ (E/F/) G/ | A d/ B A/ | c3/"^Symphony" d'3/ | e' d'/ (c'/b/) a/ | (g/a/) f/ (e/f/) g/ | a d'/ c' b/ | c'3|]
+[V: P2]  E3/ G G/ | G G/ A G/ | (G3/ G)z/ | z4 |z ^F/ G G/ | G3/ ^F3/ | (G3/ G) G/ | E3/ G3/ | (F3/ F) A/ | A3/ A3/ | (G3/ G) G/ | G G/ E F/ | (G/ A/) F/ (E/ F/) G/ | F A/ G G/ | G3/ [G3/B3/] | [Gc] [G/d/] [Ee] [F/A/] | [Gc] [G/B/] [CG] [C/c/] | [Cc] [A/f/] [Ge] [G/d/] | [G3e3]|]
+[V: P3]  C3/ E D/ | C C/ F D/ | (E3/ E)z/ | z4 |z C/ D E/ | D3/ (D C/) | (B,3/ B,) B,/ | C3/ C3/ | (C3/ C) C/ | F3/ F3/ | (D3/ D) B,/ | C D/ A, C/ | C B,/ C C/ | C F/ E D/ | E3/z3/ | z4 | z4 | z4 | G,3|]
+[V: P4]  C,3/ C B,/ | C E,/ F, G,/ | (C,3/ C,) C,/ | E, F,/ (G,/A,/) B,/ | C A,/ B, C/ | D3/ D,3/ | (G,3/ G,) G,/ | C,3/ E,3/ | (F,3/ F,) E,/ | D,3/ F,3/ | (G,3/ G,) G,/ | C B,/ (A,/G,/) F,/ | E, D,/ (C,/D,/) E,/ | F, D,/ G, G,,/ | C,3/ G,3/ | C B,/ (A,/G,/) F,/ | E, D,/ (C,/D,/) E,/ | F, D,/ G, G,/ | C,3|]
+

@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hursley
+Z: Katholisches Gesangbuch, 1774
+Z: Public domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Hursley"
+%%MIDI program 2 19
+K: F
+[V: P1]  [CF] [CF] [CF] | [CF] E [CF] | [EG] A [EG] | F3 | [FA] [FA] [FA] | [FA] [EG] [FA] | [Fc] [EB] [FA] | [E3G3] | [EG] G [_GA] | [GB] D [EG] | [F2A2] [FB] | [E3c3] | [Fd] [Fd] [Fd] | [Fc] E [FA] | [FB] A [EG] | F3- | Fz2|]
+[V: P2]  [F,A,] [F,A,] [F,A,] | [F,A,] G, [F,A,] | [C,B,] C [C,B,] | [F,3A,3] | [F,C] [F,C] [F,C] | [F,2C2] [F,C] | [A,C] G, [F,C] | [C,3C3] | C [B,D] [A,C] | [G,2B,2] [C,C] | [F,2C2] [D,F,] | [C,3G,3] | [B,,B,] [B,,B,] [B,,B,] | [C,2G,2] [D,F,] | [B,,D] [C,C] [C,B,] | [F,3-A,3-] | [F,A,]z2|]
+

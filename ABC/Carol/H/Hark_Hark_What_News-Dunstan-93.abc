@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! Hark! What News The Angels Bring
+Z: Cornwall Traditional From Ralph Dunstan (93)
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=252
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  F2 | A G (A/B/) c | B2 A2 | G3 G | c B A G | A G F E | [M: 3/2]  (F/G/F/G/ A2) G2 | [M: 2/2]  F4||: G2 (G/A/) B | [M: 3/2]  A2 F2 B A | [M: 2/2]  G3z |z2z G | B c B G | (A3 B | G3) G | F4 :|||] Z 
+w: Hark, Hark! what news_ the An- gels bring Glad tid- ings of a new born King, a new-____ born King. Who is_ the Sa- viour of man- kind, In whom we may sal- va__ tion find.
+[V: P2]  C2 | F E F F | (D E) F2 | E3 E | A G F E | F (E/D/) C B, | (A,3/ B,/ C D) E2 | [M: 2/2]  F4||: E2 E E | [M: 3/2]  F2 F2 F F | [M: 2/2]  D3z |z2z E | D C D E | (F4 | F2) E2 | F4 :|||] Z 
+[V: P3]  A,2 | C C (C/B,/) A, | B,2 C2 | C3z |z2z G, | F, G, A, G, | [M: 3/2]  F,4 (C B,) | [M: 2/2]  A,4||: C2 C C | [M: 3/2]  (C F,) A,2 D D | [M: 2/2]  B,3z | z4 |z2z C | C C D D | (C D C) B, | A,4 :|||] Z 
+[V: P4]  F,2 | F, C, (F,/G,/) A, | G,2 F,2 | C,3z |z2z C, | F, C, A,, C, | [M: 3/2]  (D,2 C,2) C,2 | [M: 2/2]  [F,,4F,4]||: C,2 C, C, | [M: 3/2]  F,2 D,2 B,, D, | [M: 2/2]  [G,,3G,3] C, | F, E, F, C, | B,, A,, B,, C, | F, E, D, B,, | C,3 C, | [F,,4F,4] :|||] Z 
+

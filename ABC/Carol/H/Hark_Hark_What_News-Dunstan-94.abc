@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! Hark! What News The Angels Bring!
+Z: English Traditional From Ralph Dunstan (94)
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=320
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  E2 G3/ A/ | B3 B | (c e) (d c) | (c2 B2) | z4 | c2 B G | (E3/ F/ E/F/G/A/) | B2 B2 | B2 G E | B3 A | G2 F2 | E4 | G2 G G | A3 G | (F2 E) G | B3 B | e3 e | d3 B | c2 c2 | B3z |z2z B | c3/ d/ e f | e2 d2 | c3 c | B3 G | A2 F2 | G2 E2 | F4 | B2 B B | c3 A | G2 F2 | E4|]
+w: Hark, hark, what news the An-_ gels_ bring!_ Glad tid- ings, glad_____ tid- ings, Glad tid- ings of a New- born King, Who is the Sa- viour of_ man- kind, In Whom we may sal- va tion find, In Whom we may sal- va tion find; Who is the Sa- viour of man- kind, In Whom we may sal- va tion find.
+[V: P2]  E2 E3/ F/ | (G A B) G | (A c) (B A) | (A2 G2) | z4 | z4 | (E3/ F/ E/F/G/A/) | B2 B2 | E2 E E | (G F E) F | E2 D2 | E4 | E2 E E | E3 E | (D2 E) E | D3 D | E3 G | F3 F | G2 (F E) | D3z |z2z E | E3/ F/ G A | G2 (G F) | E3 E | E3 E | C2 D2 | B,2 E2 | D4 | E2 G E | (E G/F/ E) F | E2 D2 | E4|]
+[V: P3]  G,2 B,3/ B,/ | E3 E | E2 E2 | E4 | C2 B, G, | z4 | (E,3/ F,/ E,/F,/G,/A,/) | B,2 B,2 | G,2 B, G, | B,3 C | B,2 A,2 | G,4 | B,2 B, B, | C3 B, | (A,2 G,) E, | F,3 B, | B,3 B, | B,3 B, | B,2 =A,2 | B,3z |z2z B, | A,3/ A,/ B, C | C2 =B,2 | C3 A, | B,3 B, | A,2 B,2 | G,2 G,2 | B,4 | B,2 E B, | (A, B, C) C | B,2 A,2 | G,4|]
+[V: P4]  E,2 E,3/ E,/ | (E, F, G,) E, | A,2 A,2 | E,4 | C2 B, G, | z4 | (E,3/ F,/ E,/F,/G,/A,/) | B,2 B,2 | E,2 E, E, | (E, F, G,) A, | B,2 B,,2 | E,4 | E,2 E, E, | A,,3 E, | (B,,2 C,) C, | B,,3 (B,/A,/) | (G, F, G,) E, | (B, B,, C,) D, | E,2 F,2 | B,,3 E, | E,3/ F,/ G, (E, | A,2 G, F, | G,2) G,,2 | C,3 A, | (G,3/ F,/ G,) E, | F,2 B,,2 | E,2 C,2 | B,,4 | G,2 E, G, | (A, G, A,) F, | B,2 B,,2 | E,4|]
+

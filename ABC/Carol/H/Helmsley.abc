@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Helmsley
+Z: Public  domain
+L: 1/4
+M: 2/2
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 19
+K: G
+[V: P1]  [D2G2] [DB] d | [B,G] [DF] [CE] D | [C3/E3/] [D/F/] [EG] [D/F/][C/E/] | [A,3/D3/] C/ [G,2B,2] | [A,3D3] [D-G-] | [DG] [EA] F [GB] | [Bd] [Ac] [GB] [G-B-] | [GB] [F-A-] [FA] [D-G-] | [DG] [DB] d [B,G] | [DF] [CE] D [C-E-] | [C/E/][D/F/] [EG] [D/F/][C/E/] [A,-D-] | [A,/D/]C/ [G,-B,-] [G,B,] [B,-D-] | [B,2D2] D [D-G-] | [DG] [EA] F [GB] | [Bd] [Ac] [GB] [G-B-] | [GB] [F-A-] [FA] [F-A-] | [F/A/][G/B/] [FA] [GB] [Ec] | F [G-B-] [GB] [D-G-] | [D/G/]A/ [EG] [Ec] [GB] | [FA] [E-G-] [EG] [E-B-] | [E/B/]c/ B [Dd] [Fc] | [GB] [GA] F [D-G-] | [DG] D A/B/ D- | D [G-c-] [Gc] [G-B-] | [GB] [F-A-] [FA] G- | G2 G3/4zz/4|]
+[V: P2]  [G,2B,2] [G,B,] [F,A,] | [E,G,] B, G,/A,/ B, | G,3 G, | F,2 G,2 | F, [E,G,] G, G, |z C- C B,- | B, E- E D- | D3 [G,-B,-] | [G,B,] [G,B,] [F,A,] [E,G,] | B, G,/A,/ B, G,- | G,2 G, F,- | F, G,- G, F, | [E,G,] F,- F, G,- | G, C- C B,- | B, E- E D- | D3 D- | D2 D C- | C D- D [G,-B,-] | [G,/B,/][F,/A,/] [E,B,] C D- | D [E,-B,-] [E,B,] [E,-G,-] | [E,/G,/]A,/ G, G, A, | B,/C/ D- D [B,-D-] | [B,D] [A,C] [G,B,] [F,-A,-] | [F,A,] [E,G,] A, B, | C D C [G,-B,-] | [G,2B,2] [G,3/4B,3/4]zz/4|]
+[V: P3]  z4 |z B,, C, G,, | C,3 C, | D,2 G,,2 | D,z [C,D,] B,,- | B,, A,,- A,, G,,- | G,, C,- C, D,- | D,2 D,3/4zz/4 | z4 | B,, C, G,, C,- | C,2 C, D,- | D, G,,- G,, D, |z D, C, B,,- | B,, A,,- A,, G,,- | G,, C,- C, D,- | D,3 D,- | D,2 B,, A,,- | A,, G,,- G,,z |z2 A,, B,,/C,/ | D,zz2 |z2 B,, A,, | G,, D,- D,z | z4 |z3 D,- | D, D,- D, G,,- | G,,2 G,,3/4zz/4|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Happy Christmas Morning
+Z: C. Simper
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F | G F B c | d3/ c/ B F | A F c d | e3/ d/ c c | (d/c/) (d/e/) d c | (B/A/) (B/c/) A F | D (A/G/) F =E | F2 F"^Chorus" (F/G/) | A (A/B/) c (c/d/) | _e3/ d/ c (d/c/) | B3/ A/ B (c/B/) | A3/ G/ A F | (B/A/) (B/c/) d B | (c/=B/) (c/d/) e c | A3/ B/ c d | B2 B|]
+w: Be mer- ry, Christ- ian men, and sing It is the Birth- day of our King! With car-_ ols_ sweet His Ad-_ vent_ greet This hap- py_ Christ- mas morn- ing. Be_ mer- ry,_ Christ- ian_ men, and sing, It_ is the Birth- day_ of our King! With ca-_ rols_ sweet His Ad-_ vent_ greet This hap- py Christ- mas morn- ing.
+

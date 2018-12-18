@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Mean Those Holy Voices
+Z: John B. Dykes
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  B3/ G/ | c e d c | B G E E | F G B c | B2 B3/ G/ | c e d c | B B B e | e G B F | E2|]
+w: Hark! what mean those ho- ly voi- ces, Sweet- ly sound- ing from the skies? Lo! the an- gel host re- joi ces Heaven- ly Al- le lu ias rise.
+[V: P2]  E3/ E/ | E E E E | E E C E | D E D E | D2 E3/ E/ | E G ^F F | E E E E | E E D D | E2|]
+[V: P3]  G,3/ B,/ | A, C B, A, | G, B, C B, | A, B, B, =A, | B,2 G,3/ B,/ | C B, =A, A, | B, _B, G, A, | G, B, (F,/G,/) A, | G,2|]
+[V: P4]  E,3/ E,/ | E, E, E, E, | E, G, A, G, | F, E, F, F, | B,,2 E,3/ E,/ | C, C, D, D, | G, F, E, C, | B,, B,, B,, B,, | E,2|]
+

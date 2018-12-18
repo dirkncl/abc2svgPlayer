@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: How Blest Were They On Bethlehem's Plain
+Z: Arranged by Mr. Herbert Stephen Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  B2 A3/ A/ | B3 e | d B (G A) | B3 d | c3 B | A2 G2 | F3 F | B B A B | c A B c | d d c d | e c d e | f3 (e/ d/) | e3 c | d2 e2 | (d c) (B A) | B4|]
+w: How blest were they on Beth- le hem's_ plain, Be- neath the mid- night sky, Who heard the an- gel's joy- ful strain, Who heard the an- gel's joy- ful strain, And felt that_ heaven was nigh, That heaven_ was_ nigh.
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hail! Hail! Hail!
+Z: Pemberton Pierce, 1884
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  c c c3/ G/ | A/ A/ B/ B/ c2 | G ^F/ G/ e3/ f/ | (e/d/) (A/B/) c G | A A/ A/ G3/ c/ | (e/d/) (d/c/) e d/ G/ | c3/ c/ d3/ d/ | (e/d/) (c/B/) A f | e3/ d/ c (B/c/) | e d c2 |"^Chorus" c c c3/ c/ | (d/c/) (B/A/) A G | c c c3/ d/ | (e/d/) (c/e/) e d | c3/ c/ d3/ d/ | (e/d/) (c/B/) A2 | f3/ f/ e c | e d c2|]
+w: Hail! hail! hail! this hap- py joy- ous morn! Mor- tals, dis- pel all gloom_ and_ sad- ness, This is the day for joy_ and_ glad- ness, For Christ, the Prince of Peace,_ is_ born In Beth- le hem this_ joy- ful morn. Shout a- loud the won-_ drous_ sto- ry, Glo- ry in the high-_ est,_ glo- ry; Christ, our Sav- iour, Priest,_ and_ King Come e- ter nal life to bring.
+[V: P2]  E F E3/ E/ | F/ F/ F/ F/ E2 | E ^D/ E/ G3/ A/ | (G/F/) F E E | F F/ F/ E3/ E/ | ^F F G G/ G/ | G3/ G/ G3/ G/ | (c/B/) (A/G/) F A | G3/ F/ E (D/E/) | G F E2 | F F F3/ F/ | F F F E | E F E3/ G/ | G G G G | G3/ G/ G3/ G/ | (c/B/) (A/G/) F2 | A3/ A/ G E | G F E2|]
+[V: P3]  G, A, G,3/ C/ | C/ C/ G,/ G,/ G,2 | C C/ C/ C3/ C/ | B, (C/D/) C C | C C/ C/ C3/ C/ | C C C B,/ B,/ | C3/ C/ B,3/ B,/ | C C C C | C3/ G,/ G, G, | B, B, C2 | A, A, A,3/ A,/ | A, C C C | G, A, G,3/ B,/ | (C/B,/) C C B, | C3/ C/ B,3/ B,/ | C C C2 | C3/ C/ C C | B, B, C2|]
+[V: P4]  C, F, C,3/ C,/ | F,/ F,/ G,/ G,/ C,2 | C, C,/ C,/ C,3/ C,/ | G, G, C, C, | F, F,/ F,/ C,3/ C,/ | D, D, G, G,/ G,/ | E,3/ E,/ G,3/ G,/ | C, C, F, F, | G,3/ G,/ G, G, | G, G, C,2 | F, F, F,3/ F,/ | F, F, C, C, | C, F, C,3/ G,/ | (C/G,/) (E,/C,/) G, G, | E,3/ E,/ G,3/ G,/ | C, C, F,2 | F,3/ F,/ G, G, | G, G, C,2|]
+

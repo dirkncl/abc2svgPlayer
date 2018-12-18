@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: How Blest With More Than Woman's Bliss
+Z: Arranged by Mr. Herbert Stephen Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c/ | (e/ d/) c/ B B/ A A/ G G/ | c c/ f e/ | (d3/ d) d/ | e e/ d G/ | c B/ (A3/4 B/4) c/ | d d/ B B/ | (c3/ c) G/ | (B3/4 A/4) G/ c d/ | e d/ c c/ | c B/ A A/ | (A3/ A) c/ | e e/ e d/ | (e3/ e) G/ | c c/ (c3/4 d/4) B/ | (c3/ c) G/ | c c/ (B/ c/) d/ | (e3/4 d/4) e/ c e/ | d d/ c B/ | (c3/ c)|]
+w: How blest_ with more than wo- man's bliss was she the es- poused Maid,_ And Vir- gin Mo- ther when she saw_ up- on her bo- som laid_ Her new-_ born Babe, and gaz'd on Him with meek a- dor ing eye,_ with meek a- dor ing eye,_ with meek a- dor_ ing eye,_ Be- neath the Ho-_ ly Spi-_ rit's Light, the power of God Most High!_
+

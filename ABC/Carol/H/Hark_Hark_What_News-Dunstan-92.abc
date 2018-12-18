@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! Hark! What News The Angels Bring
+Z: English Traditional From Ralph Dunstan (92)
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Melody"
+%%MIDI program 1 19
+V: P2 name="Counter-Tenor"
+%%MIDI program 2 57
+V: P3 name="Bass"
+%%MIDI program 3 58
+K: G
+[V: P1] z2 G2 | B B G d | c2 B2 | A3 B | d c B(3 (A/B/c/) | B A G (F/G/4A/4) | (G3/ A/ B) A | G4||:z2 A2 | A A B2 | (G A/B/) c B | A3z |z2z A | c B c d | c3 c | A3 A | G4 :|||] Z 
+w: Hark, Hark! what news the An- gels bring Glad tid- ings of, glad__ tid- ings of a__ new__ born King, Who is the Sa- viour__ of man- kind, In whom we may sal- va, sal va tion find.
+[V: P2] z2 D2 | D D B, D | E2 D2 | D3z |z2z D | D D B, D | (D3/ E/ D) D | D4||:z2 D2 | D D D2 | E2 E D | D3z | z4 |z2z D | G F G E | D3 D | D4 :|||] Z 
+[V: P3] z2 G,2 | G, F, G, B,, | C,2 G,2 | D,3z |z2z D, | G, F, G, D, | (B,,3/ C,/ D,) D, | G,,4||:z2 D,2 | D, D, G,2 | E,2 C, G, | D,3 D, | G, F, G, D, | E,3 F, | G,3 E, | F,3 F, | G,,4 :|||] Z 
+

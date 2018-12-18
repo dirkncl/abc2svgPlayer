@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! How The Bells
+Z: Rev. J. B. Powell
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1] "^Briskly" D E/ F/ G A | B c d2 | d c/ B/ A B | G A F2 | D E/ F/ G3/ A/ | B (c/ d/) e2 | d/ c/ B/ A/ G (c/B/) | A A G2|]
+w: Hark! how the bells at mid- night hour, Tell- ing their tale from tower to tower, Bring- ing glad tid- ings to the_ morn, Mer- ri ly are ring- ing,_ "Christ is born."
+

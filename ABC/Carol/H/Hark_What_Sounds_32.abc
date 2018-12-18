@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hark! What Sounds Are Sweetly Stealing
+Z: Anonymous
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D3/ D/ G B | d (e/d/) d B | B (c/B/) B/ A/ E | D (B/A/) G2 | G B (e/d/) (c/A/) | G3/ B/ (e/d/) A | B (A/G/) E (G/A/) | D (B/A/) G2|]
+w: Hark! what sounds are sweet- ly_ steal- ing, Soft thro’_ Beth- le hem’s mid- night_ air? Loud- er yet,_ and_ loud- er peel-_ ing, An- gel_ ac- cents_ sure are_ there.
+
