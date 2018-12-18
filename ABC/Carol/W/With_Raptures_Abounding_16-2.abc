@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: With Raptures Abounding and Music Resounding
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  (B/c/) | d d c | B B A | G (G/A/) B | A A c | d B d | c A c | B A G | F2 A | B d B | G A B | (c/d/) (e/d/) (c/B/) | A B c | (d/e/) f d | e e (d/c/) | (B/c/) d c | B2 c | (d/c/) B c | d c F | (B/c/) (d/c/) (B/c/) | B A c | (d/e/) f d | e e (d/c/) | (B/c/) d c | B2|]
+w: With_ rap- tures a- bound ing, And mu- sic_ re- sound ing And An- gels sur- round ing, Glad hom- age to pay, Let ev- er y na- tion, With loud_ ac-_ clam_ a tion Pro- claim_ the sal- va tion That's_ wrought_ on this day: Let ev-_ er y na- tion, With loud_ ac-_ clam_ a tion Pro- claim_ the sal- va tion That's_ wrought_ on this day.
+[V: P2]  (D/C/) | (B,/C/) (D/E/) (F/E/) | D G F | (G/F/) (E/F/) (D/E/) | F C F | F G G | (A/G/) (F/G/) (F/=E/) | (D/F/) F =E | C2 F | (F/E/) (D/E/) (F/^F/) | (G/=F/) (E/F/) (E/D/) | E G G | C F E | F F F | E E (F/G/) | F3/ D/ E | D F2 | F F G | D F (F/E/) | D D E | (F/=E/) (F/G/) (F/_E/) | D (G/A/) =B | (c/_B/) (A/G/) (F/G/) | F F E | D2|]
+[V: P3]  F, | F B, A, | (G,/A,/) (B,/C/) (D/C/) | B, C B, | (C/B,/) (A,/B,/) (G,/A,/) | B, D B, | C C F, | (F/D/) (C/B,/) (C/B,/) | A,2 C | F, B, B, | B, C B, | G, C C | C F, A, | (B,/C/) (D/C/) (B,/A,/) | (G,/F,/) (G,/A,/) B, | (D/C/) B, A, | B,2 F, | (B,/C/) (D/C/) (B,/C/) | B, A, C | (D/C/) B, C | D C C | (F/E/) D (G/F/) | E (C/A,/) B, | (D/C/) (B,/G,/) A, | F,2|]
+[V: P4]  B,, | B,, B,, F, | G, G, D, | E, C, G, | F, F, F, | (B,/A,/) (G,/A,/) (G,/F,/) | =E, F, A,, | B,, C, C, | (F,/=E,/F,/G,/) (F,/_E,/) | (D,/C,/) (B,,/C,/) D, | E, C, G, | (E,/D,/) (C,/D,/) (E,/=E,/) | (F,/_E,/) (D,/E,/) (D,/C,/) | B,, A,, B,, | C, C, (D,/E,/) | F, F,, F, | B,, (D/C/) (B,/A,/) | B, B, E, | F, F, A, | (B,/A,/) G, C, | F, F, A, | B, (=B,/A,/) G, | C C, (D,/E,/) | F,3/ F,/ F,, | B,,2|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: What Tidings Bringest Thou?
+Z: John Dunstable
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1] "^Burden" G | G2 G | (A/ B/) c d | (B c) A | G2 G | G A2 | G2 F | E D2 | C2"^Verse" c | c2 A | G2 F | (E G) F | E2 G | G A2 | G2 F | E E D | C2 C | G2 G | (B c2) | B c A | G2 G | C2 C | G2 F | (E F) D | C2 G | G2 B | (A/ B/ c) d | (B3/ G/) A | G2 G | D2 D | C2 G | (G A) F | E2 G | G A2 | G2 F | (E F) D | C2"^Refrain" G | G2 G | (A/ B/) c d | (B c) A | G2 G | G A2 | G2 F | E D2 | C2|]
+w: What tid- ings bring-_ est thou, mess-_ en ger, Of Christ His birth this jol- ly day? A Babe is born of high_ na- ture The Prince of Peace that ev- er shall be. Of heav'n and earth_ He hath the cure, His lord- ship is e- ter_ ni ty. Such won- drous tid-__ ings ye_ may hear, That man is made now heav-_ en's peer, Whom sin had made but fiend-_ es prey. What tid- ings bring-_ est thou, mess-_ en ger, Of Christ His birth this jol- ly day?
+

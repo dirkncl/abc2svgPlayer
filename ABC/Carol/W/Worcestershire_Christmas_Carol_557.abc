@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Worcestershire Christmas Carol
+Z: W. H. Havergal
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=160
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  E2 | c2 B3/ G/ | A2 E2 | c2 B3/ G/ | A2 c2 | d2 c3/ c/ | B2 A A | e2 |z2 E2 | c2 e3/ G/ | A2 G2 | F2 d B | G2 E2 | (e c) A B | E2 c3/ B/ | A2|]
+w: How grand and how bright That won- der ful night, When an- gels to Beth- le hem came! They burst forth like fires, They struck their gold lyres, And ming-_ led their song with the flame.
+

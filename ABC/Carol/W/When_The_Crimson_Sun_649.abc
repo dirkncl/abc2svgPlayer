@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: When The Crimson Sun Had Set
+Z: Rev. S. S. Greatheed
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A A A c | c3/ B/ A2 | A G A c | A3/ G/ F2 | A A A c | c3/ B/ A2 | A G A c | A3/ G/ F2 | c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/ C/ C2 | F G A B | A2 G2 | c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/ C/ C2 | F G A B | (A2 G2) | F4|]
+w: When the crim- son sun had set Low be- hind the win- try sea, On the bright And cold mid- night Burst a sound of heaven- ly glee: Glo- . . . . . . . . . . . . . . . ri a in ex- cel sis De- o. Glo- . . . . . . . . . . . . . . . ri a in ex- cel sis De-_ o!
+

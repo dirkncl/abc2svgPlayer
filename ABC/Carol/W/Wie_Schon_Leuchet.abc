@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wie Schon Leuchet
+Z: Philipp Nicolai, 1599
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=160
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 19
+K: C
+[V: P1]  [G,2C2] [G,2G2] | [G,2E2] [A,2C2] | [D2G2] [EA] [DA] | [B,4G4] | [CG] [CA] [DB] [Ec] | [DB] [D2A2] [D-A-] | [DA] [B,3-G3-] | [B,G] [CG] [C2A2] | [C2G2] [A,F] [G,E] | [G,2D2] [G,2-C2-] | [G,2C2] [G,2C2] | [G,2G2] [G,2E2] | [A,2C2] [D2G2] | [EA] [DA] [B,2-G2-] | [B,2G2] [CG] [CA] | [DB] [Ec] [DB] [D-A-] | [DA] [D2A2] [B,-G-] | [B,3G3] [CG] | [C2A2] [C2G2] | [A,F] [G,E] [G,2D2] | [G,4C4] | [B,2G2] [C2E2] | [D2G2] [C2E2] | [G,E] [CE] [CD] [B,D] | [G,E] [CE] [CD] [B,D] | [CE] [CE] [B,2D2] | C4 | [C2c2] [C2G2] | [C2A2] [B,2G2] | [CF] [CE] [CD] B, | [G,4C4]|]
+[V: P2]  [C,2E,2] [B,,2D,2] | [C,2E,2] [A,,2E,2] | [B,,2G,2] [C,G,] [D,^F,] | G,4 | [C,E,] [A,,E,] G, [C,G,] | G, [D,2G,2] [D,-^F,-] | [D,^F,] G,3- | G, [C,E,] F,2 | G,2 C, C, | C, B,, E,2- | E,2 [C,2E,2] | [B,,2D,2] [C,2E,2] | [A,,2E,2] [B,,2G,2] | [C,G,] [D,^F,] G,2- | G,2 [C,E,] [A,,E,] | G, [C,G,] G, [D,-G,-] | [D,G,] [D,2^F,2] G,- | G,3 [C,E,] | F,2 G,2 | C, C, C, B,, | E,4 | [E,2G,2] [C,2G,2] | [B,,2G,2] [C,2G,2] | C, G, G, D, | C, G, G, G, | [C,G,] G, G,2 | E,4 | [A,,2E,2] G,2 | F,2 D,2 | [A,,A,] [C,G,] G,2 | E,4|]
+[V: P3]  z4 | z4 | z4 | G,,4 |z2 G,,z | G,,z3 |z G,,3- | G,,z F,,2 | E,,2 F,, C,, | G,,2 C,,2- | C,,2z2 | z4 | z4 |z2 G,,2- | G,,2z2 | G,,z G,,z |z3 G,,- | G,,3z | F,,2 E,,2 | F,, C,, G,,2 | C,,4 | z4 | z4 |z C,, G,, G,, |z C,, G,, G,, |z E,, G,,2 | C,,4 |z2 E,,2 | F,,2 G,,2 |z2 G,,2 | C,,4|]
+

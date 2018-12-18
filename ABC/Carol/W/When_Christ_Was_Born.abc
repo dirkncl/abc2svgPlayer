@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: When Christ Was Born
+Z: Unknown
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=96
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+V: P3 name="Staff-3"
+%%MIDI program 3 19
+V: P4 name="Staff-4"
+%%MIDI program 4 19
+K: C
+[V: P1] z3 c | g e c d/e/ [K: C]  | f e/d/ e e [K: C]  | d3/ d/ e g [K: C]  | a g/^f/ g2 [K: C]  | d d/e/ f f [K: C]  | c3/ d/ e2 [K: C]  | g3/ a/ g f/e/ [K: C]  | d3/ c/ cz [K: C]  | G3/ G/ G G [K: C]  | A c c2 [K: C]  | d3/ e/ f f [K: C]  | e d e2 [K: C]  | g3/ g/ c/d/ e/f/ [K: C]  | g f/e/ d2 [K: C]  | e3/ f/ g c [K: C]  | e d cz|]
+[V: P2] z3 G | G B c A [K: C]  | d B c c [K: C]  | G3/ G/ c B [K: C]  | c A B2 [K: C]  | B ^A/A/ d d [K: C]  | A ^G c2 [K: C]  | c3/ c/ c B/c/ [K: C]  | c B cz [K: C]  | G3/ G/ G G [K: C]  | A c c2 [K: C]  | B3/ B/ c c [K: C]  | c B c2 [K: C]  | d c/B/ c/G/ c [K: C]  | G/c/ d/c/ B2 [K: C]  | G/c/ B/A/ G c [K: C]  | c B cz|]
+[V: P3] z3 E | D G E A [K: C]  | A G G G [K: C]  | G3/ G/ G G [K: C]  | E D D2 [K: C]  | G G/G/ A A [K: C]  | F F G2 [K: C]  | G3/ F/ G G [K: C]  | G F Ez [K: C]  | G,3/ G,/ G, G, [K: C]  | A, C C2 [K: C]  | G3/ G/ A A [K: C]  | G G G2 [K: C]  | B/A/ G/F/ E/D/ C/D/ [K: C]  | E A/G/ G2 [K: C]  | G3/ F/ E ^F [K: C]  | G F Ez|]
+[V: P4] z3 C | B, G, A, F, [K: C]  | D, G, C, C [K: C]  | B,3/ B,/ C E [K: C]  | A, D G,2 [K: C]  | G, G,/G,/ D,3/ E,/ [K: C]  | F, F, C2 [K: C]  | E3/ F/ E D/C/ [K: C]  | G,3/ G,/ [C,C]z [K: C]  | G,3/ G,/ G, G, [K: C]  | A, C C2 [K: C]  | G,3/ G,/ F, F, [K: C]  | C G, C2 [K: C]  | G/F/ E/D/ C/B,/ A, [K: C]  | E, F, G,2 [K: C]  | C,3/ D,/ E, A, [K: C]  | G, G, C,z|]
+

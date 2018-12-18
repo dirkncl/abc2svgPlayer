@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: What You Gonna Call Yo Pretty Little Baby?
+Z: African-American Spiritual
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  G/ B/ B/ G/ B3/ G/ | B/ c/ d/ c/ B G | G/ B/ B/ G/ B3/ G/ | B/ B/ B/ B/ G F | G/ B/ B/ G/ B3/ G/ | B/ c/ d/ c/ B G | c2 e c | B/ B (G/ G2) | G B B G | B c/ c/ B G | c2 e c | B/ B (G/ G2)|]
+w: What you gon- na call yo' pret- ty lit- tle ba- by, What you gon- na call yo' pret- ty lit- tle ba- by, What you gon- na call yo' pret- ty lit- tle ba- by? Born, born in Beth- le hem._ Some say one thing, I'll say Im- man uel, Born, born in Beth- le hem._
+

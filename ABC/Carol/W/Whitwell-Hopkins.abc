@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Whitwell
+Z: J. Hopkins
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=360
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  E2 | G2 c2 B3 B | c2 A2 G2 E2 | A2 c2 B2 B2 | A6 A2 | d3 c B2 G2 | c3 B A2 A2 | d2 c2 c2 B2 | c6|]
+[V: P2]  C2 | C2 E2 D2 (G F) | E2 F2 E2 C2 | E2 E2 F2 (E D) | C6 E2 | F3 E D2 D2 | E3 D C2 F2 | F2 E2 D2 F2 | E6|]
+[V: P3]  G,2 | G,2 G,2 G,3 D | C2 C2 C2 G,2 | A,2 A,2 A,2 ^G,2 | A,6 (C B,) | A,2 A,2 B,3 A, | G,2 G,2 A,2 A,2 | G,2 G,2 A,2 G,2 | G,6|]
+[V: P4]  C,2 | E,2 C,2 G,3 G, | A,2 F,2 C,2 C,2 | C,2 A,,2 D,2 E,2 | A,,6 (A, G,) | F,2 D,2 G,3 F, | E,2 C,2 F,2 D,2 | B,,2 C,2 F,,2 G,,2 | C,6|]
+

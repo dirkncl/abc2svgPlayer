@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: When Jesus Christ Was Twelve Years Old
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=43
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  d/ | d B/ A F/ | c c/ c e/ | d B/ A F/ | (G/A/) B/ (A3/ | A3/)z d/ | d B/ A F/ | c c/ c e/ | d B/ A F/ | G3/ G"^Chorus" d/ | d B/ A F/ | c c/ c e/ | d B/ A F/ | (G/A/) B/ (A3/ | A3/)z d/ | d B/ A F/ | c c/ c e/ | d B/ A F/ | G3/ G|]
+w: When Je- sus Christ was twelve years old, As Ho- ly Scrip- ture plain-_ ly told,_ He then dis- pu ted brave and bold A- mongst the learn- ed doc- tors. Then, praise the Lord, both high and low, Cause he his wond- rous works_ doth shew,_ That we at last to Heav'n may go, Where Christ in glo- ry reign- eth.
+[V: P2]  D/ | D G/ F D/ | C E/ G A/ | A G/ E D/ | D D/ (D E/ | F E/ D) G/ | F G/ E D/ | C E/ C A/ | A G/ E D/ | B,/C/D/ E F/ | G G/ F D/ | C E/ G A/ | A G/ E D/ | D D/ (D E/ | F E/ D) G/ | F G/ E D/ | C E/ C A/ | A G/ E D/ | D3/ D|]
+[V: P3]  B,/ | B, B,/ D A,/ | G, C/ E C/ | A, B,/ C A,/ | G, G,/ (F, G,/ | A, G,/ F,) B,/ | A, G,/ C A,/ | G, C/ E C/ | A, B,/ C A,/ | G,/A,/B,/ C A,/ | G, D/ D A,/ | G, C/ E C/ | A, B,/ C A,/ | G, G,/ (F, G,/ | A, G,/ F,) B,/ | A, G,/ C A,/ | G, C/ E C/ | A, B,/ C D/ | B,3/ B,|]
+[V: P4]  G,/ | G, G,/ D, D,/ | E, C,/ C A,/ | F, G,/ C, D,/ | B,, G,,/ (D,3/ | D, E,/ F,) G,/ | D, E,/ C, D,/ | E, C,/ A,, A,/ | F, G,/ A, D,/ | G,3/ C, D,/ | B,, G,,/ D, D,/ | E, C,/ C A,/ | F, G,/ C, D,/ | B,, G,,/ (D,3/ | D, E,/ F,) G,/ | D, E,/ C, D,/ | E, C,/ A,, A,/ | F, G,/ A, D,/ | G,3/ G,|]
+

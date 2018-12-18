@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: With Psalms And Hymns And Holy Songs
+Z: Mr. Herbert Stephen Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  E | E (F/ ^F/) G e | e (d/ c/) B A | G3/ A/ B (c/ d/) | c E G G | B (A/ G/) G ^F | c (B/ A/) A ^G | A e d G | c B E E | F (G/ A/) A F | d (c/ d/) B G | e3/ d/ c A | G3 F | E3|]
+w: With psalms and_ hymns and ho- ly_ songs, Lift up your hearts un-_ to the Lord, To His great_ Name all power be-_ longs, Through Him the Fa- ther is a- dored. Lord, as we_ wor- ship, make us_ see God man- i fest on earth in Thee!
+

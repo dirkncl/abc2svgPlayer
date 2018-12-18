@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: While Shepherds, Old
+Z: Traditional English
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=112
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  F2 A G | F G A B | c3 c | F G A F | G3||:z |z2z A | c c c A | G G G F | (c4 | c3) c | A A Az |z2z c | f c f c | d2 e2 | f3 e | d c B A | c3 c | (d e f) F | A2 G2 | F3 :|||] Z 
+[V: P2]  C2 C C | D E F (E/D/) | C3 F | F C F F | E3||:z |z2z F | E E E F | C C C C | (E2 E/G/A/B/ | c B A) G | F F Fz |z2z E | F E F A | d2 G2 | (A G F) F | F F E F | E3z |z2z F | F F E E | C3 :|||] Z 
+[V: P3]  A,2 C G, | A, (C/B,/) A, G, | C3 C | A, C C =B, | C3||:z | z4 |z2z A, | C C C A, | G, G, G, F, | (C4 | C3) C | A, A, A, C | C C C F | D2 C2 | C3 C | B, C C C | B,3 A, | (B,/A,/G,/B,/) (A,/G,/) (A,/B,/) | C2 (C B,) | A,3 :|||] Z 
+[V: P4]  F,2 F, E, | D, C, F, G, | A,3 A, | F, E, D, D, | C,3||: C, | F, F, F, D, | C, C, C, F, | E, E, E, F, | C, C, C, F, | A, G, F, E, | F,3z |z2z (C/B,/) | A, C A, F, | (B, G,) (C C,) | (F, G, A,) A, | B, A, G, F, | C,3 F, | (B,, C, D,) D, | C,2 C,2 | [F,,3F,3] :|||] Z 
+

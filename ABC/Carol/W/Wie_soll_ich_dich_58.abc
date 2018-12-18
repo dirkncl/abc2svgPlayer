@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wie soll ich dich
+Z: Johann Cruger, 1653
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  E2 | G A B B | A2 G A | G E F F E2 E2 | G A B B | A2 G A | G E F F | E2 B2 | c d e d | c2 B G | c B A G | F2 G2 | E F G B | A2 G B | A G F F | E2|]
+w: O Lord, how shall I meet Thee, How wel- come Thee a- right? Thy peo- ple long to greet Thee, My Hope, my heart's De- light! O kin- dle, Lord, most ho- ly, Thy lamp with- in my breast To do in spir- it low- ly All that may please Thee best.
+

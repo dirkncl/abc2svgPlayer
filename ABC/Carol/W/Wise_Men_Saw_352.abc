@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Wise Men Saw A Light Afar
+Z: H. J. Gauntlett
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A | F E F d | c3/ c/ A A | G A B A | G2 A A | F E F d | c3/ c/ A A | c F B A | G2 F c | d =B c A | f3/ f/ e A | A d ^c d | e2 A2 | f2 f d | c3/ A/ A G | A2 c2 | d =B c A | G2 F|]
+w: The Wise Men saw a light a- far Shine out on Christ- mas morn- ing, And taught by faith they hail'd the star Of Christ on Christ- mas morn- ing. Then jour- ney'd they, those Prin- ces three, On Christ- mas in the morn- ing, To Da- vid's town his Lord to see, The Babe in Glo- ry's morn- ing!
+

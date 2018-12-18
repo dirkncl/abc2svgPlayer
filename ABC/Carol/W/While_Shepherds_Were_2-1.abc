@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: While Shepherds Were Feeding Their Flocks
+Z: "King Street"
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=66
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  D/ | G G/ A/ | B B/ e/ | (d/c/) B/ A/ | B3/ B/ | A d/ ^c/ | d d/ A/ | (B/A/4G/4) F/ E/ | D3/ d/ | B (e/4d/4) (c/4B/4) | c c/ B/ | A (d/4c/4) (B/4A/4) | B3/ B/ | (B/A/) A/ c/ | (c/B/) B/ d/ | (e/ d/) c/ B/ | (B A/) d/ | (G3/4F/4) G/ A/ | (B3/4A/4) B/ e/ | (d/c/) B/ A/ | G2|]
+w: While Shep- herds were feed- ing their flocks_ in the field, The birth of our Sav- iour to them__ was re- vealed; And An- gels_ as-_ semb ling in clouds did_ ap-_ pear While Shep-_ herds lay tremb-_ ling and smit-_ ten with fear,_ While Shep-_ herds lay tremb-_ ling and smit-_ ten with fear.
+[V: P2]  D/ | D D/ D/ | (B,/D/) G/ G/ | G G/ F/ | D3/ G/ | F F/ E/ | F F/ D/ | D D/ ^C/ | A,3/ D/ | (D/G/) G/ D/ | E C/ D/ | D D/ D/ | D3/ G/ | (G/F/) F/ A/ | (A/G/) G/ F/ | E E/ G/ | (G F/) F/ | D D/ D/ | D G/ G/ | G G/ F/ | D2|]
+[V: P3]  D,/ | B, G,/ F,/ | D D/ C/ | (B,/A,/) D/ C/ | B,3/ D/ | D A,/ A,/ | A, A,/ A,/ | (G,/A,/4B,/4) A,/ G,/ | F,3/ B,/ | G, (C/4B,/4) (A,/4G,/4) | A, A,/ G,/ | F, (B,/4A,/4) (G,/4F,/4) | G,3/ D/ | D D/ D/ | (A,/B,/) B,/ B,/ | (C/B,/) A,/ G,/ | D3/ A,/ | B, G,/ F,/ | D D/ C/ | (B,/A,/) D/ C/ | B,2|]
+[V: P4]  D,/ | G,, B,,/ D,/ | G, G,,/ C,/ | D, D,/ D,/ | G,,3/ G,/ | D, D,/ A,,/ | D, D,/ F,/ | (G,/F,/4G,/4) A,/ A,,/ | D,3/ D,/ | G, G,/ G,/ | C, C,/ G,/ | D, D,/ D,/ | G,,3/ G,/ | D, D,/ D,/ | E, E,/ D,/ | C, C,/ G,/ | D,3/ D,/ | G, B,,/ D,/ | G,, (G,,/4A,,/4) (B,,/4C,/4) | D, D,/ D,/ | G,,2|]
+

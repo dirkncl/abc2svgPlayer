@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: When Christ Was Born Of Pure Marie
+Z: Mr. Herbert Stephen Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d/ | d B/ A B/ | G A/ D D/ | G A/ B d/ | c B/ A d/ | d B/ A B/ | G A/ D3/ | G G/ B c/ | d G/ e3/ | E E/ A G/ | F F/ G|]
+w: When Christ was born of pure Ma- rie, In Beth- le hem, that fair cit- ie, Tho An- gels sang with mirth and glee, In ex- cel sis Glo- ri a, In Ex- cel sis Glo- ri a.
+

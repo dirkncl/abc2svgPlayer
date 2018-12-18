@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: While Shepherds Were Feeding Their Flocks
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=80
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  G | B B d | (d/c/) B e | (d/c/) B A | B2 (d/c/) | B B G | c (c/B/) (A/G/) | F F E | D2 G | (G/F/) F A | A G B | B (A/B/) c | (c B) G | (B/G/) (c/A/) (F/A/) | G G A | (B/G/) (c/A/) (F/A/) | G G A | (B/G/) (c/A/) (F/A/) | G2|]
+w: While Shep- herds were feed-_ ing their flocks_ in the field, The_ birth of our Sav- iour_ to_ them was re- vealed; And An-_ gels as- semb ling in clouds did_ ap- pear_ While Shep-_ herds_ lay_ tremb- ling, While Shep-_ herds_ lay_ tremb- ling and smit-_ ten_ with_ fear.
+[V: P2]  D | G G D | F G G | G G F | D2 F | G D B, | E E E | D D ^C | D2 D | D D D | D D D | D D F | (F G) G | D E F | D D F | D E F | (E/D/) D (F/E/) | (G/F/) E (D/C/) | D2|]
+[V: P3]  B, | D D (C/B,/) | A, G, C | (B,/A,/) D C | B,2 A, | (B,/D/) (G/F/) (E/D/) | (C/B,/) A, E, | (F,/G,/) A, G, | F,2 B, | B, A, C | (C/B,/) B, G, | G, (F,/G,/) (A,/D/) | D2 B, | D C A, | (C/B,/) B, (D/C/) | B, A, D | (C/B,/) B, (D/C/) | D (C/B,/) A, | B,2|]
+[V: P4]  G,, | G, G, G,, | D, E, C, | D, D, D, | G,,2 D, | G, G, G, | A, (A,,/B,,/) (C,/^C,/) | D, A, A,, | D,2 G,, | D, D, D, | G, G, (G,,/B,,/) | D, D, D, | G,2 G,, | G, C, D, | G, G, D, | G, C, D, | G, G,, (D,/F,/) | G, C, D, | G,,2|]
+

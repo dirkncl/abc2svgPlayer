@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wohlauf, Thut Nicht Verzagen
+Z: B. Helder, 1585-1635
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=276
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  G2 | B3 B A2 G2 | c4 B2 d2 | e3 d c2 A2 | B6 G2 | B3 B A2 G2 | c4 B2 d2 | e3 d c2 A2 | B6 d2 | d2 c2 B2 A2 | (B2 A G) A2 F2 | G2 A2 B2 ^c2 | d6 A2 | B2 A2 G2 F2 | (E2 D C) D2 D2 | E2 G2 G2 F2 | G6|]
+[V: P2]  D2 | G2 G2 F2 E2 | G4 G2 G2 | G2 G2 E2 F2 | G6 D2 | G2 G2 F2 E2 | G4 G2 G2 | G2 G2 E2 F2 | G6 G2 | F2 G2 G2 (E F) | (G2 F E) F2 D2 | D2 F2 G2 G2 | F6 F2 | G2 F2 E2 D2 | (C2 B, A,) B,2 D2 | D2 (B, C) D2 D2 | D6|]
+[V: P3]  B,2 | D3 D D2 B,2 | E4 D2 B,2 | C2 B,2 C2 D2 | D6 B,2 | D3 D D2 B,2 | E4 D2 B,2 | C2 B,2 C2 D2 | D6 B,2 | A,2 E2 D2 C2 | D4 D2 A,2 | G,2 D2 D2 G,2 | A,6 D2 | D2 D2 B,2 B,2 | G,4 G,2 G,2 | G,2 G,2 A,2 A,2 | B,6|]
+[V: P4]  G,2 | G,2 G,2 D,2 E,2 | C,4 G,2 G,2 | C2 G,2 A,2 D,2 | G,6 G,2 | G,2 G,2 D,2 E,2 | C,4 G,2 G,2 | C2 G,2 A,2 D,2 | G,6 G,2 | D,2 (E, F,) G,2 A,2 | G,4 D,2 C,2 | B,,2 D,2 G,2 E,2 | D,6 D,2 | G,2 D,2 E,2 B,,2 | C,4 G,,2 B,,2 | C,2 E,2 D,2 D,2 | G,,6|]
+

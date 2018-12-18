@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: When Righteous Joseph Wedded Was
+Z: English Traditional from Gilbert
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=105
+V: P1 name="Staff"
+%%MIDI program 1 56
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  A | c e c3/ B/ | [M: 3/2]  A G A2 c2 | [M: 4/4]  A F A G | F2 A | c e c3/ B/ | [M: 3/2]  A G A2 c2 | [M: 4/4]  A F A G | F2 =E | F3/ G/ A c | [M: 3/2]  B A G2z G | [M: 4/4]  A (G/ F/) e e | c2z A | c e c3/ B/ | [M: 3/2]  A G B2 c2 | [M: 4/4]  (A3/4 G/4) (F3/4 G/4) A G | F2z"^Chorus" =E | F3/ G/ A c | [M: 3/2]  B A G2z G | [M: 4/4]  A (G/ F/) e e | c2z A | c e c3/ B/ | [M: 3/2]  A G B2 c3/ B/ | [M: 4/4]  (A3/4 G/4) (F3/4 G/4) A G | F3|]
+w: When right- eous Jo- seph wed- ded was To Is- rael's He- brew maid, The An- gel Ga- briel came from Heav'n, And to the Vir- gin said: 'Hail, bles- sed Ma- ry, full of grace, The Lord re-_ main on thee, Thou shalt con- ceive and bear a Son, Our Sa-_ viour_ for to be. Then sing you all, both great and small, Now well, now_ well, now well, We may re- joice to hear the voice Of the An-_ gel_ Ga- bri el.
+[V: P2]  E | E E E E | [M: 3/2]  C E F2 E2 | [M: 4/4]  F F F E | C2 E | E E E E | [M: 3/2]  C E F2 E2 | [M: 4/4]  F F F E | C2 C | C3/ C/ C G | [M: 3/2]  F E =D2 E2 | F (=E/ F/) _E G | A2z E | E E E E | [M: 3/2]  C E F2 E2 | [M: 4/4]  (F3/4 E/4) (F3/4 D/4) E E | C2z C | C C C G | [M: 3/2]  F E =D2 E2 | [M: 4/4]  F (=E/ F/) _E G | A2z E | E E E E | [M: 3/2]  C E F2 =E G | [M: 4/4]  (F3/4 =E/4) (F3/4 E/4) F3/ E/ | C3|]
+[V: P3]  C | A, B, A,3/ G,/ | [M: 3/2]  A, B, F,2 E,2 | [M: 4/4]  F, A, (D/ C/) B, | A,2 C | A, B, A,3/ G,/ | [M: 3/2]  A, B, F,2 E,2 | [M: 4/4]  F, A, (D/ C/) B, | A,2 G, | A,3/ G,/ F, G, | [M: 3/2]  B, E, (G, D,) (G, C) | [M: 4/4]  C (B,/ C/) B, B, | C2z C | A, B, A,3/ G,/ | [M: 3/2]  A, B, F,2 (G, C) | [M: 4/4]  C (C3/4 D/4) C B, | A,2z G, | A,3/ G,/ F, G, | [M: 3/2]  B, E, (G, D,) (G, C) | [M: 4/4]  C (B,/ C/) B, B, | C2z C | A, B, A,3/ G,/ | [M: 3/2]  A, B, (B,/A,/G,/F,/) G, C | [M: 4/4]  (C3/4 B,/4) (C3/4 B,/4) C C | =A,3|]
+[V: P4]  A, | A, G, A, E, | [M: 3/2]  F, E, D,2 C,2 | [M: 4/4]  F, F, D, E, | F,2 A, | A, G, A, E, | [M: 3/2]  F, E, D,2 C,2 | [M: 4/4]  F, F, D, E, | F,2 C, | F,3/ E,/ F, E, | [M: 3/2]  =D, C, =B,,2 C,2 | [M: 4/4]  F, (G,/ A,/) G, E, | A,2z A, | A, G, A, E, | [M: 3/2]  F, E, D,2 C,2 | [M: 4/4]  (F,3/4 C,/4) (A,,3/4 B,,/4) (C,/ D,/) E, | F,2z C, | F,3/ E,/ F, E, | [M: 3/2]  ^D, C, =B,,2 C,2 | [M: 4/4]  F, (G,/ A,/) G, E, | A,2z A, | A, G, A, E, | [M: 3/2]  F, E, D,2 C, =E, | (F,3/4 G,/4) (A,3/4 G,/4) F,/ A,,/ C, | F,3|]
+

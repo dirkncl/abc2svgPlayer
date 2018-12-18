@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wilson
+Z: From Felix Mendelssohn
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  G2 e | d2 c | B3/ d/ (c/A/) | G E2 | G2 A | c B B | d c A | G3 | G2 e | d2 c | B3/ d/ (c/A/) | G E2 | G2 c | d c A | G (A/B/) d | (c3 | c)|]
+[V: P2]  E2 E | F2 F | F3/ d/ F | E C2 | G2 F | E D D | ^F c F | G3 | E2 E | F2 F | F3/ d/ F | E C2 | G2 G | F c F | D (E/F/) F | (E3 | E)|]
+[V: P3]  C2 G, | A,2 A, | D3/ B,/ (A,/C/) | C G,2 | C2 C | G,2 G, | A,2 C | B,3 | C2 G, | A,2 A, | D3/ B,/ (A,/C/) | C G,2 | C2 ^A, | A,2 C | B, (C/D/) B, | (G,3 | G,)|]
+[V: P4]  C,2 C, | C,2 C, | C,3/ B,/ C, | C, C,2 | E,2 F, | G,2 G, | D,2 D, | G,,3 | C,2 C, | C,2 C, | C,3/ B,/ C, | C, C,2 | E,2 E, | F,2 F, | G, (C/D/) G,, | (C,3 | C,)|]
+

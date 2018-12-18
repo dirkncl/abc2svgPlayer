@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: While Shepherds Watched
+Z: From Davies Gilbert, 1822, alt.
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  A | (e d) c | B2 c | (B A) ^G | A2 c | (B A) B | c2 d | e2 e | (B c) d | e2 B | (c B) A | ^G2 c | (e d) c | (B A) ^G | A2|]
+w: While Shep-_ herds watch'd their flocks_ by night, All seat-_ ed on the ground, The An-_ gel of the Lord_ came down, And glo-_ ry shone_ a- round.
+[V: P2]  E | E2 E | E2 E | F E2 | E2 (E/F/) | (G F) (D/G/) | E2 A | ^G2 =G | (G3/ ^F/) G | E G2 | (E G) E | E2 (E/^F/) | ^G2 A | F E2 | E2|]
+[V: P3]  C | (C B,) A, | (A, G,) (G,/E/) | (D C) B, | C2 (C/D/) | (E C) B, | (A, B,) A, | B,2 C | (D C) B, | C2 D | (C D) C | B,2 A, | B,2 A, | D B,2 | ^C2|]
+[V: P4]  A, | (A, ^G,) A, | E,2 C, | D, E,2 | A,,2 A, | (E, F,) G, | (A, G,) F, | E,2 C, | (G, A,) G, | C,2 G, | (A, G,) A, | E,2 A, | E,2 F, | D, E,2 | A,,2|]
+

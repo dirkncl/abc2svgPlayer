@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: What Child Is This?
+Z: Traditional English Tune of Greensleeves
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  E/ | G A/ (B3/4 c/4) B/ | A F/ (D3/4 E/4) F/ | G E/ (E3/4 ^D/4) E/ | F3/ B, E/ | G A/ (B3/4 c/4) B/ | A F/ (D3/4 E/4) F/ | (G3/4 F/4) E/ (^D3/4 ^C/4) D/ | E3/ E3/ |"^Chorus" d3/ (d3/4 c/4) B/ | A F/ (D3/4 E/4) F/ | G E/ (E3/4 ^D/4) E/ | F ^D/ B,3/ | d3/ (d3/4 c/4) B/ | A F/ (D3/4 E/4) F/ | (G3/4 F/4) E/ (^D3/4 ^C/4) D/ | E3/ E|]
+w: What Child is this_ who, laid to rest_ On Ma- ry's lap_ is sleep- ing? Whom An- gels greet_ with an- thems sweet,_ While shep-_ herds watch_ are keep- ing? This, this_ is Christ the King,_ Whom shep- herds guard_ and An- gels sing; Haste, haste,_ to bring Him laud,_ The Babe,_ the Son_ of Ma- ry.
+

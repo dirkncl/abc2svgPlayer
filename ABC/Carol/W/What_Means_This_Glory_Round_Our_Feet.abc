@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: What Means This Glory Round Our Feet
+Z: James Russell Lowell (1819-1891)
+Z: Music by Gaetano Donizetti (1797-1848) 
+Z: Public Domain, Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 6/8
+Q: 1/4=105
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="Staff 2"
+%%MIDI program 2 91
+K: E
+% Extracting voice 1 from part P1
+[V: P1_1] "^Moderato" | | | E [D/F/] [(E/(G/][F/)A/)] [G/B/] | | | [EG] [D/F/] [EG] E/ | | | | | | | | [EG] [D/F/] [EG] E/ | ||]
+w: “What___ means_ this_ glo-_ ry_ round_ our_ feet,”_ The_ Ma- gi_ mused,___ “more__ bright_ than_ morn!”_ And_ voic-_ es_ chant-_ ed_ clear_ and_ sweet,_ “To-_ day_ the_ Prince_ of_ Peace_ is_ born!”_ “What___ means_ this_ star,”_ the_ shep-___ herds_ said,_ “That_ bright-_ ens_ through___ the_ rock-_ y_ glen?”_ And___ an-_ gels_ an-_ swering_ o-_ ver_ head,_ Sang_ “Peace_ on_ earth,_ good_ will_ to_ men!”_
+% Extracting voice 2 from part P1
+[V: P1_2] "^Moderato" | | | E | | | E/ | | | | | | | | E/ | ||]
+w: “What___ means_ this_ glo-_ ry_ round_ our_ feet,”_ The_ Ma- gi_ mused,___ “more__ bright_ than_ morn!”_ And_ voic-_ es_ chant-_ ed_ clear_ and_ sweet,_ “To-_ day_ the_ Prince_ of_ Peace_ is_ born!”_ “What___ means_ this_ star,”_ the_ shep-___ herds_ said,_ “That_ bright-_ ens_ through___ the_ rock-_ y_ glen?”_ And___ an-_ gels_ an-_ swering_ o-_ ver_ head,_ Sang_ “Peace_ on_ earth,_ good_ will_ to_ men!”_
+[V: P2]  [(E,/4(B,/4] [E,/4)B,/4)] | [E,B,] [E,/B,/] [E,B,] [E,/B,/] | [E,B,] [E,/B,/] [E,B,] [E,/A,/] | [E,G,] [E,/A,/] [E,B,] [E,/B,/] | [B,,B,] [B,,/B,/] [B,,B,] [D,/B,/] | [E,B,] [E,/B,/] [E,B,] [E,/B,/] | [E,B,] [E,/B,/] [E,B,] [G,/B,/] | [B,,B,] [B,,/A,/] [B,,F,] [B,,/A,/] | [E,G,] [E,/A,/] [E,G,] [B,,/B,/] | [B,,B,] [B,,/B,/] [B,,B,] [B,,/B,/] | [B,,B,] [B,,/B,/] [E,B,] [E,/B,/] | [E,B,] [E,/B,/] [E,B,] [E,/B,/] | [B,,B,] [B,,/B,/] [B,,B,] [E,/B,/] | [E,B,] [E,/B,/] [E,B,] [E,/B,/] | [E,B,] [E,/B,/] [E,B,] [E,/G,/] | [B,,B,] [B,,/A,/] [B,,F,] [B,,/A,/] | [E,G,] [E,/A,/] [E,G,]|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: While Humble Shepherds Watched Their Flocks
+Z: G. W. Fink
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F | B B A G | F3/ G/ F F | G c B A | B3 F | B B A G | F3/ G/ F d | c B A G | F3 F | A F B G | c F d B | e d c B | (B2 A) F | B B A G | F3/ G/ F F | G c B A | B3z|]
+w: While hum- ble shep- herds watched their flocks On Beth- lehem's plain by night, An an- gel sent from heaven ap- peared, And filled the plains with light. “Fear not,” he said, for sud- den dread Had seized their troub- led mind:_ “Glad tid- ings of great joy I bring To you and all man- kind.
+

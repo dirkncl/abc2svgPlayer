@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: What Notes Shall Suit The Song Divine
+Z: J. Waring / Mr. Herbert S. Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F | B B d B | (d/ c/) (B/ A/) B3/ F/ | G3/ B/ e3/ d/ | c B A c | B A G3/ F/ | F3 F | c3/ B/ A F | B c d c | d3/ c/ B G | c3/ B/ A F | F B d3/ c/ | d e f3/ e/ | d c B A | (B/ A/) (B/ c/) d e | d c B A | B3|]
+w: What notes shall suit the Song_ Di-_ vine, That o'er the fields of Pa- les tine, The won- dering Shep- herd hears? When, 'mid the gloom of win- try night, When, 'mid the gloom of win- try night, A sud- den burst of Heaven- ly light, A sud- den burst of Heaven-_ ly_ light O'er the still scene ap- pears!
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Whilst_Bethlehems_Shepherds_604
+Z: P. Tschaikowsky
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  E | A E B E | c3/ d/ c B | A3/ G/ A c | B3 E | A E B E | c3/ d/ e c | B3/ A/ G F | E3 E | F E G E | F E A B | c A e c | B3 c | d3/ d/ c B | c3/ B/ A F | E3/ E/ F E | A3|]
+w: Whilst Bethle- hem’s shep- herds kept their flocks All through the star- lit night, An an- gel from the heavens drew near And sud- den was their fright; "Fear not," he cried, "be not a- fraid, Good news I come to bring To you and all man- kind is born A Sav- iour and a King."
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: When Righteous Joseph
+Z: English Traditional From The English Carol Book
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=95
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  A | c e c3/ B/ | [M: 3/2]  A G B2 c2 | [M: 4/4]  A F A G | F3 A | c e c3/ B/ | [M: 3/2]  A G B2 c2 | [M: 4/4]  A F A G | F3 E | F3/ G/ A c | B A G G | A (G/F/) e e | c3 A | c e c3/ B/ | [M: 3/2]  A G B2 c2 | [M: 4/4]  (A3/4G/4) (F3/4G/4) A G | F3 E | F3/ G/ A c | B A G G | A (G/F/) e e | c3 A | c e c3/ B/ | [M: 3/2]  A G B2 c3/ B/ | [M: 4/4]  (A3/4G/4) (F3/4G/4) A G | F3|]
+w: When right- eous Jo- seph wed- ded was To Is- rael's He- brew maid, The An- gel Gab- riel came from Heav'n, And to the Vir- gin said: "Hail, bless- ed Ma- ry, full of grace, The Lord re-_ main in thee; Thou shalt con- ceive and bear a Son, Our Sa-_ viour_ for to be": Then sing you all, both great and small, Now well, now_ well, now well; We may re- joice to hear the voice Of the An-_ gel_ Gab- ri el.
+[V: P2]  E | A B A G | [M: 3/2]  F E F2 A2 | [M: 4/4]  E D C E | C3 F | A B A G | [M: 3/2]  F E F2 A2 | [M: 4/4]  F C E E | C3 C | C3/ E/ E E | D C =E E | F C F G | A3 E | A B A G | [M: 3/2]  F E =D2 E2 | [M: 4/4]  F D F E | C3 C | C3/ E/ E E | D C =E E | F C F G | A3 E | A B A G | [M: 3/2]  F E =D2 E3/ E/ | [M: 4/4]  C D F =E | F3|]
+[V: P3]  C | E E E E | [M: 3/2]  C C =D2 E2 | [M: 4/4]  C A, F, G, | A,3 C | F E E E | [M: 3/2]  C C =D2 E2 | [M: 4/4]  D A, C B, | A,3 C | A,3/ B,/ C A, | F, F, G, C | C C D/C/ B, | A,3 C | E E E E | [M: 3/2]  C C F,2 A,2 | [M: 4/4]  A, A, D B, | A,3 C | A,3/ B,/ C A, | F, F, G, C | C C D/C/ B, | A,3 C | E E E E | [M: 3/2]  C C F,2 A,3/ G,/ | [M: 4/4]  F, A, C G, | A,3|]
+[V: P4]  A, | A, G, A, E, | [M: 3/2]  F, C B,2 A,2 | [M: 4/4]  A, D, F, E, | F,3 F, | F, G, A, E, | [M: 3/2]  F, C B,2 A,2 | [M: 4/4]  D, F, C, E, | F,3 A, | F,3/ E,/ A, A,, | B,, F, C, C, | F, A, B,, E, | A,,3 A, | A, G, A, E, | [M: 3/2]  F, C, B,,2 A,,2 | [M: 4/4]  D, F, D, E, | F,3 A, | F,3/ E,/ A, A,, | B,, F, C, C, | F, A, B,, E, | A,,3 A, | A, G, A, E, | [M: 3/2]  F, C, B,,2 A,,3/ E,/ | [M: 4/4]  F, D, C, C, | F,3|]
+

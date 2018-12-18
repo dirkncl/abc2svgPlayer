@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sydney
+Z: J. Hopkins
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=340
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: A
+[V: P1]  E2 | A3 A c2 d2 | e2 B2 c2 A2 | G3 G A2 c2 | B2 F2 G2 B2 | d3 d c2 A2 | e3 e d2 c2 | A2 A2 B2 c2 | B3 B A2|]
+w: What star is this, with beams so bright, More beau- teous than the noon- day light? It shines to he- rald forth the King, And Gen- tiles to His cra- dle bring.
+[V: P2]  C2 | E3 E A2 A2 | A2 G2 A2 E2 | E3 E E2 E2 | E2 ^D2 E2 E2 | D2 F2 ^E2 F2 | (=E2 A) G F2 E2 | E2 ^D2 E2 E2 | E3 D C2|]
+[V: P3]  A,2 | C3 C A,3 B, | (C D) E2 E2 A,2 | B,3 B, A,3 G, | F,2 B,2 B,2 G,2 | (F,2 B,) A, G,2 A,2 | (A,2 C) B, A,2 A,2 | C2 (B, A,) G,2 A,2 | A,2 G,2 A,2|]
+[V: P4]  A,,2 | A,3 G, F,2 F,2 | E,2 E,2 A,2 C,2 | E,3 ^D, C,2 A,,2 | B,,2 B,,2 E,2 E,2 | B,,3 B,, C,2 F,2 | C,3 C, D,2 E,2 | F,2 F,2 E,2 C,2 | E,2 E,2 A,,2|]
+

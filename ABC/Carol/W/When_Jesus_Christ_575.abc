@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: When Jesus Christ Was Yet A Child
+Z: P. Tschaikowsky
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=100
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  e e/ d/ | G3/ A/ | B B | Ez/ B/ | e d | G3/ A/ | B B | E2 |z/ E/ E/ F/ | G3/ F/ | E D | E2 |z/ E/ E/ F/ | G3/ F/ | E D | Ez/ B/ | e d | G3/ A/ | B B | (E G/) B/ | e d | G3/ A/ | B B | E2 |z/ E/ E/ F/ | G3/ F/ | E D | E2 |z/ E/ E/ F/ | G3/ F/ | E D | E2 |z/ G/ G/ A/ | B e/z/ |z/ (e/g/) f/ | (e B/)z/ |z/ G/ A/ A/ | B e | g f | e3/z/ |z/ E/ E/ F/ | G3/ F/ | E D | E2 |z/ E/ E/ F/ |!tenuto! Gz/ F/ | E D | E3/z/ | F F/ F/ | G3/ G/ | A3/ A/ | B3/ B/ | d c | B E | G F | E3/ E/ | F3/ F/ | G3/ G/ | A3/ A/ | B3/ B/ | d c | (B2 | B/)z/z |z E | G F | (E2 | E/)z/z|]
+w: When Je- sus Christ was yet a child, He had a gar- den small and wild, Where- in He cher- ished ro- ses fair, And wove them in- to gar- lands there. Now once, as sum- mer time drew nigh,_ There came a troop of child- ren by, And see- ing ro- ses on the tree, With shouts they pluck'd them mer- ri ly. “Do you bind ro- ses in_ your hair?”_ They cried, in scorn, to Je- sus there. The Boy said hum- bly: “Take, I pray, All but the na- ked thorns a- way.” Then of the thorns they made a crown, And with rough fin- gers press'd it down, Till on his fore- head fair and young, Red drops of blood,_ like ro- ses sprung._
+[V: P2]  G G/ A/ | D3/ E/ | E ^D | B,z/ E/ | G A | (D E/) E/ | E ^D | B,2 |z/ B,/ B,/ D/ | D3/ D/ | B, B, | B,2 |z/ B,/ B,/ D/ | D3/ D/ | B, B, | B,z/ E/ | A/G/ F | D3/ E/ | E/^C/ ^D/F/ | (B, E/) E/ | c A | D3/ E/ | E/^C/ ^D/F/ | B,2 |z/ B,/ B,/ D/ | D3/ D/ | B, B, | B,2 |z/ B,/ B,/ D/ | D3/ D/ | B, B, | B,2 |z/ B,/ B,/ A,/ | D E/z/ |z/ G/^D/ D/ | (E E/)z/ |z/ B,/ A,/ A,/ | D E | E ^D | E3/z/ |z/ B,/ B,/ A,/ | D3/ D/ | B, B, | B,2 |z/ B,/ B,/ D/ |!tenuto! Dz/ D/ | B, B, | B,3/z/ | D F/ F/ | E3/ E/ | F3/ F/ | G3/ D/ | B A | E ^C | E ^D | B,3/ B,/ | D3/ F/ | E3/ E/ | F3/ F/ | G3/ D/ | B A | (E2 | E/)z/z |z E | ^D D | (B,2 | B,/)z/z|]
+[V: P3]  B, B,/ A,/ | B,3/ F,/ | G, F, | G,z/ G,/ | B, D/C/ | B,3/ F,/ | G, F, | G,2 |z/ G,/ G,/ A,/ | B,3/ A,/ | G, G, | G,2 |z/ G,/ G,/ A,/ | B,3/ A,/ | G, G, | G,z/ G,/ | A, A, | D/C/B,/ B,/ | G,/E,/ F,/A,/ | G,3/ G,/ | (G,/G/) F | D/C/B,/ A,/ | G,/E,/ F,/A,/ | G,2 |z/ G,/ G,/ A,/ | B,3/ A,/ | G, G, | G,2 |z/ G,/ G,/ A,/ | B,3/ A,/ | G, G, | G,2 | E E/ D/ | G,3/ A,/ | B, B, | B,3/ B,/ | E D | G,3/ A,/ | B,3/ B,/ | B,3/z/ |z/ G,/ G,/ A,/ | B,3/ A,/ | G, G, | G,2 |z/ G,/ G,/ A,/ |!tenuto! B,z/ A,/ | G, G, | G,3/z/ | A, D/ D/ | E3/ E/ | C3/ C/ | D3/ G/ | =F E/^F/ | G G,/A,/ | ^A, B,/=A,/ | G,3/ G,/ | A,3/ D/ | E3/ E/ | C3/ C/ | D3/ G/ | =F E/^F/ | (G2 | G/)z/z |z G, | A, A, | (G,2 | G,/)z/z|]
+[V: P4]  E, E,/ F,/ | G,3/ C,/ | B,, B,, | E,z/ E,/ | E, F, | G,/F,/E,/ C,/ | B,, B,, | E,2 |z/ E,/ E,/ D,/ | G,,3/ D,/ | E, G, | E,2 |z/ E,/ E,/ D,/ | G,,3/ D,/ | E, G, | E,z/ E,/ | C, D,/C,/ | B,,/A,,/G,,/ C,/ | B,, B,, | E,/D,/ C,/B,,/ | A,, D,/C,/ | B,,/A,,/G,,/ C,/ | B,, B,, | E,2 |z/ E,/ E,/ D,/ | G,,3/ D,/ | E, G, | E,2 |z/ E,/ E,/ D,/ | G,,3/ D,/ | E, G, | E,2 |z/ E,/ E,/ F,/ | G, C,/z/ |z/ [B,,/B,/][B,,/B,/] B,,/ | [E,3/G,3/]z/ |z/ E,/ F,/ F,/ | G, C, | B,, B,, | [E,3/G,3/]z/ |z/ E,/ E,/ D,/ | G,,3/ D,/ | E, G, | E,2 |z/ E,/ E,/ D,/ |!tenuto! G,,z/ D,/ | E, G, | E,3/z/ | D, D/ D/ | C3/ C/ | A,3/ A,/ | G,3/ G,/ | ^G, A, | B, B,, | B,, B,, | E,3/ E,/ | D,3/ D/ | C3/ C/ | A,3/ A,/ | G,3/ G,/ | ^G, A, | B,3/ B,,/ | B,, B,, | B,,3/ B,,/ | B,,3/ B,,/ | [(E,,2(E,2] | [E,,/)E,/)]z/z|]
+

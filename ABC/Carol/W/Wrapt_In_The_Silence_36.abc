@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wrapt In The Silence Of The Night
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=122
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F3/ D F/ | B d/ (c/B/) A/ | B3/ c3/ | d B/ (G/A/) B/ | c3/ c3/ | (B/A/) G/ F =E/ | (F3/ F) F/ | B B/ (B/c/) d/ | e e/ e c/ | d B/ A B/ | c3/ c3/ | d c/ B A/ | B A/ G F/ | (G/A/) B/ c d/ | c3/ A3/ | B B/ c c/ | d3/ e3/ | d c/ B A/ | B3|]
+[V: P2]  D3/ D C/ | D F/ E C/ | D3/ F3/ | F F/ G =E/ | F3/ F3/ | D D/ C C/ | (C3/ C) E/ | D3/ F3/ | G3/ F3/ | (F3/ F) G/ | A3/ F3/ | F F/ D D/ | (D/E/) F/ (G/A/) B/ | G F/ E D/ | F3/ C3/ | F F/ F F/ | F3/ G3/ | (B/A/) G/ F E/ | D3|]
+[V: P3]  F,3/ B, C/ | B, B,/ G, F,/ | F,3/ A,3/ | B, B,/ B, B,/ | A,3/ F,3/ | F, G,/ A, B,/ | A,3/ A,3/ | B,3/ B,3/ | (E C/) A,3/ | B,3/ D3/ | C3/ C3/ | F A,/ (B,/C/) D/ | G, A,/ B, B,/ | B, B,/ A, B,/ | A,3/ (F E/) | (D/C/) B,/ (A,/G,/) A,/ | B,3/ B,3/ | F E/ D C/ | B,3|]
+[V: P4]  B,,3/ B, A,/ | G, D,/ E, F,/ | B,,3/ F,3/ | B, D,/ G, G,/ | F,3/ A,,3/ | B,, B,,/ C, C,/ | F,3/ F,3/ | G,3/ D,3/ | C,3/ F,3/ | B,3/ B,,3/ | F,3/ A,3/ | B, A,/ G, F,/ | G, F,/ E, D,/ | E, D,/ C, B,,/ | F,3/ F,3/ | F, D,/ F, F,/ | B,3/ E,3/ | F, F,/ F, F,/ | B,,3|]
+

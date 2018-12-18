@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Woodlands, 10.10.10.10
+Z: Walter Greatorex, 1916
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Woodlands, 10.10.10.10"
+V: P2_2
+%%MIDI program 2 91
+K: D
+% Extracting voice 1 from part P1
+[V: P1_1] z A A A | | [DB] F/G/ [DA] [CE] | | D2 D2 | D E [DF] [FB] | | [CF] F F F | B3 [FB] | | | | | E3 D ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  x1  A A A | | x1  D x2  | | D2 D2 | D B,/C/ x2  | | x1  F F F | B, ^D E x1  | | | | | E3 D ||]
+% Extracting voice 1 from part P2
+[V: P2_1] z A, A, A, | D3 [F,D] | | A,3 [C,A,] | A, G, [A,,F,] [G,B,] | | B, D C B, | [F,^A,] F, F, F, | B,2 B,2 | | | | [F,D] B, [E,G,] [D,A,] | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  x1  A, A, A, | D3 x1  | | D, E, D, x1  | B,,2 x2  | | E,2 G,2 | x1  F, F, F, | B, B,, C, ^D, | | | | x1  G,/F,/ x2  | ||]
+

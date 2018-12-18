@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Woodstock (Dutton), CM
+Z: Deodatus Dutton, Jr., 1829
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Woodstock (Dutton), CM"
+V: P2_2
+%%MIDI program 2 91
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | [G/c/] [G/d/] e/d/ c/B/ | B A [FA] | | | d/4c/4 B/4A/4 [DG] [DF] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | x1  G D | D2 x1  | | | G/ E/ x2  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | G, F, [D,D] | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | D,2 x1  | | | ||]
+

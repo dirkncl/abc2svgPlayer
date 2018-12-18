@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Whence Comes This Rush
+Z: Traditional French
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  G F/G/ A A | B B A2 | G F/G/ A G | F =E D2 | G F/G/ A A | B B A2 | d d/c/ d c | B A G2|]
+w: Whence comes this rush of wings a- far, Fol- low ing straight the No- el star? Birds from the woods in won- drous flight, Beth- le hem seek this ho- ly night.
+

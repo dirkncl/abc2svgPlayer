@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wo Gott Zum Haus
+Z: J. Klug, 1533
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  E2 B B G F G =A Bz/ B/ G B A B G F Ez/ B/ c c G B A A Gz/ e/ d c B c (A/G/) F E4|]
+

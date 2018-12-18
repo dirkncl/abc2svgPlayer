@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: What Child Is This
+Z: J. T. Field
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G/ | B A/ G G/ | B A/ G G/ | (F/G/) A/ (A/B/) c/ | c3/ F G/ | B A/ G G/ | B =A/ G G/ | (G/^F/) G/ =A A/ | d3/ Dz/ | Gz/ G G/ | (=A/G/) A/ B B/ | B B/ B B/ | (c/B/) c/ d3/ | ez/ e e/ | e d/ c c/ | B G/ A G/ | F3/ E|]
+w: What Child is this who, laid to rest On Ma-_ ry's lap_ is sleep- ing? Whom An- gels greet with an- thems sweet, While shep-_ herds watch are keep- ing? This, this is Christ_ the King, Whom shep- herds guard and An-_ gels sing; Haste, haste, to bring Him laud, The Babe, the Son of Ma- ry.
+

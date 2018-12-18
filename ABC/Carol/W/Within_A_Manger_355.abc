@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Within A Manger
+Z: Alfred Redhead
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  E/ | A e/ (d/ c/) B/ | c A/ B E/ | A A/ (A/ G/) F/ | (E3/ E/)z/ E/ | A e/ (d/ =c/) B/ | c A/ B E/ | (A/ B/) c/ B E/ | (A3/ A/)z/ A/ | G G/ (G/ A/) B/ | c c/ B B/ | c c/ (e/ d/) c/ | (c3/ c/)z/ c/ | (c/ B/) A/ B B/ | (B/ A/) G/ A A/ | (A/ B/) c/ B A/ | (A3/ G) G/ c c/ c G/ | G F/ E E/ | (F/ G/) A/ G E/ | E D/ Cz/|]
+w: With- in a man-_ ger bare He lay, Who made both heav'n_ and earth,_ While an- gels to_ the shep- herds told Of Je-_ sus' won- drous birth._ And now E- pi_ pha ny is here, U- pon that sta-_ ble floor_ Three East-_ ern kings are kneel-_ ing low To wor-_ ship and a- dore._ Dear Sav- iour, show Thy- self to me. On this_ Thy glad E- pi pha ny.
+

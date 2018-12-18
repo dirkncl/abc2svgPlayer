@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: When God At First Created Man
+Z: English Traditional From Richard R. Terry
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  c/ | e d/ c A/ | d c/ B A/ | G F/ c c/ | F3/z c/ | e d/ c A/ | d c/ B A/ | G F/ c c/ | F3/z G/ | A G/ A c/ | B A/ G E/ | A A/ e B/ | c3/ f3/ | e d/ c A/ | d c/ B A/ | G F/ c c/ | F3/z"^Chorus" G/ | A G/ A c/ | B A/ G E/ | A A/ e B/ | c3/ f3/ | e d/ c A/ | d c/ B A/ | G F/ c c/ | (F3/ F)|]
+w: When God at first cre- a ted man His im- age for to be, And how He made him by His power In Scrip- ture we may see; And how he fram'd his help mate Eve, The Scrip- ture doth us tell; Being free from sin, God plac'd them both In Pa- ra dise to dwell. Let men there- fore then praise the Lord, Re- joice, and cease to mourn, Be- cause our Sa- viour Je- sus Christ This bles- sed day was born._
+[V: P2]  E/ | E G/ A E/ | G A/ G F/ | =E F/ F E/ | F3/z E/ | E G/ A E/ | G A/ G F/ | =E F/ F E/ | F3/z =E/ | F G/ F G/ | F =D/ E E/ | E F/ A G/ | A3/ F3/ | B A/ G F/ | E E/ E E/ | E C/ (C/=D/) =E/ | F3/z =E/ | F =E/ F G/ | F =D/ E E/ | E F/ A G/ | A3/ F3/ | B A/ G F/ | (F/G/) A/ G F/ | =E F/ (F/=D/) E/ | (C3/ C)|]
+[V: P3]  A,/ | B, E/ E E/ | D E/ E C/ | B, C/ B, B,/ | A,3/z A,/ | B, E/ E E/ | D E/ E C/ | B, C/ B, B,/ | A,3/z C/ | C C/ C G,/ | B, B,/ B, B,/ | C C/ C E/ | E3/ C3/ | E A,/ C C/ | B, A,/ G, A,/ | B, A,/ A, G,/ | A,3/z C/ | C B,/ C G,/ | B, B,/ B, B,/ | C C/ (C/D/) E/ | E3/ C3/ | C A,/ C C/ | D E/ E C/ | (C/B,/) A,/ (A,/F,/) G,/ | (A,3/ A,)|]
+[V: P4]  A,/ | G, E,/ A, C,/ | B,, A,,/ E, F,/ | G, A,/ G, C,/ | F,3/z A,/ | G, E,/ A, C,/ | B,, A,,/ E, F,/ | G, A,/ G, C,/ | F,3/z C,/ | F, =E,/ F, _E,/ | =D, B,,/ E, G,/ | A, F,/ E, E,/ | A,,3/ A,3/ | G, F,/ E, F,/ | G, A,/ E, C,/ | E, F,/ C, C,/ | F,3/z C,/ | F, G,/ F, _E,/ | =D, B,,/ E, G,/ | A, F,/ E, E,/ | A,,3/ A,3/ | G, F,/ E, F,/ | B,, C,/ E, F,/ | C, D,/ C, C,/ | (F,3/ F,)|]
+

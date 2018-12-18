@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Why Ring These Merry Bells Today
+Z: Adam Geibel
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  (E/G/) | B B (B/=A/) (B/e/) | B3/ G/ B G | F (F/G/) A (A/B/) | (d/c/) (B/A/) G (E/G/) | B B (B/=A/) (B/e/) | B3/ G/ B G | F3/ F/ (D/F/) (B/d/) | f3/ =A/ B B | B3/ B/ c d | e e e f | e2 d2 | e3"^Chorus" B | Bz Bz | Bz B e | d3/ d/ c d | e G B c | Bz Bz | B e e f | e2 d2 | ezz B | Bz Bz | Bz B e | d3/ d/ c3/ d/ | e G B c | Bz Bz | B e e f | e2 d2 | e d e d | e d e d | ezz2 | e3 e | [e3g3]|]
+w: Why_ ring these mer-_ ry_ bells to- day? Why pour they_ forth their_ joy-_ ous_ lay? It_ is the day_ our_ Christ was born. The bright and hap-_ py_ Christ- mas morn. And thus they bear the glad- some strain, O'er hill and plain. Then ring, ring, ring, ring, Then ring, ye me- rry Christ- mas bells, Then ring, ring ring, ye me- rry Christ- mas bells, Then ring, ring, ring, ring, Then ring, ye mer- ry Christ- mas bells, Then ring, ring, ring, ye me- rry Christ- mas bells, Ye mer- ry bells, ye mer- ry bells, Christ- mas bells._
+[V: P2]  E | G G (G/^F/) G | G3/ E/ G E | D (D/E/) F (F/G/) | (B/A/) (G/F/) E E | G G (G/^F/) G | G3/ E/ G E | D3/ D/ (D/F/) F | F3/ E/ D F | F3/ F/ F B | B G A A | G2 F2 | G3 G | Az Az | Gz G G | A3/ A/ A A | G E G G | Az Az | G G A A | G2 F2 | Gzz G | Az Az | Gz G G | F3/ F/ A3/ A/ | G E G G | Az Az | G G A A | G2 F2 | G F G F | G F G F | Gzz2 | A3 A | G3|]
+[V: P3]  (G,/B,/) | E E E E | E3/ B,/ E B, | B, B, B, B, | B, B, B, (G,/B,/) | E E E E | E3/ B,/ E B, | B,3/ B,/ B, (D/B,/) | =A,3/ C/ B, D | D3/ D/ E F | E _D C C | B,2 B,2 | B,3 E | Fz Fz | Ez E B, | B,3/ B,/ B, B, | B, B, E E | Fz Fz | E E E C | B,2 B,2 | B,zz E | Fz Fz | Ez E B, | B,3/ B,/ B,3/ B,/ | B, B, E E | Fz Fz | E E E C | B,2 B,2 | B, B, B, B, | B, B, B, B, | B,zz2 | C3 C | B,3|]
+[V: P4]  E, | E, E, E, E, | E,3/ E,/ E, E, | B,, B,, B,, B,, | B,, B,, E, E, | E, E, E, E, | E,3/ E,/ E, E, | F,3/ F,/ F, F, | F,3/ F,/ B,, B, | B,3/ B,/ =A, _A, | G, E, A, F, | B,2 B,,2 | E,3 E, | E, C, E, C, | E, C, E, E, | F,3/ F,/ B,, B,, | E, E, E, E, | D, B,, D, B,, | E, _D C A, | B,2 B,,2 | E, B, G, E, | D, B,, D, B,, | E, B,, E, E, | F,3/ F,/ B,,3/ B,,/ | E, E, E, E, | D, B,, D, B,, | E, _D C A, | B,2 B,,2 | E, B,, E, B,, | E, B,, E, B,, | E,zz2 | A,3 A, | E,3|]
+

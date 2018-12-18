@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: When Jesus Christ Was Twelve Years Old
+Z: English Traditional from Richard R. Terry
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=105
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  d/ | d B/ A F/ | c c/ c e/ | [M: 9/8]  d B/ A F/ (G/A/) B/ | (B3/ B3/)z d/ | [M: 6/8]  d B/ A F/ | c c/ c e/ | d B/ A F/ | G/ Gz"^Chorus" d/ | d B/ A F/ | c c/ c e/ | [M: 9/8]  d B/ A F/ (G/A/) B/ | (A3/ A3/)z d/ | [M: 6/8]  d B/ A F/ | c c/ c e/ | d B/ A F/ | G/ G2|]
+w: When Je- sus Christ was twelve years old, As Ho- ly Scrip- ture plain-_ ly told,_ He then dis- pu ted brave and bold A- mongst the learn- ed doc- tors. Then, praise the Lord, both high and low, Cause he his wond- rous works_ doth shew,_ That we at last to Heav'n may go, Where Christ in glo- ry reign- eth.
+[V: P2]  G/ | A G/ (F/E/) D/ | C D/ E ^F/ | [M: 9/8]  G G/ E D/ D D/ | (D G/ F/G/E/ D) D/ | [M: 9/8]  (D/E/) F/ E D/ | C D/ E ^F/ | (A/G/) F/ E D/ | (D C/) D/z/ G/ | G G/ E D/ | (C/D/) E/ =F G/ | [M: 9/8]  (B/A/) G/ E D/ B, ^C/ | (D G/ F/G/E/ D) A/ | [M: 6/8]  G G/ E F/ | G =F/ E ^F/ | G G/ E D/ | D/ D2|]
+[V: P3]  B,/ | A, D/ D A,/ | G, =F,/ G, A,/ | [M: 9/8]  (B,/G,/) D/ C A,/ (B,/A,/) G,/ | (F, B,/ A, G,/ F,/G,/) A,/ | [M: 6/8]  B, D/ (C/B,/) A,/ | G, =F,/ G, C/ | D D/ (E/D/) A,/ | (B, A,/) B,/z/ B,/ | (B,/C/) D/ (C/B,/) A,/ | G, G,/ (A,/B,/) C/ | [M: 9/8]  B, D/ (C/B,/) A,/ G, G,/ | (F, B,/ A, G,/ F,/G,/) A,/ | [M: 6/8]  B, D/ C D/ | E D/ C C/ | D D/ (C/B,/) A,/ | B,/ B,2|]
+[V: P4]  G,/ | F, G,/ D, D,/ | E, D,/ C, C,/ | [M: 9/8]  B,, B,,/ C, D,/ G, G,,/ | (D,3/ D,3/ D,/)E,/ F,/ | [M: 6/8]  G, B,,/ C, D,/ | E, D,/ (C,/B,,/) A,,/ | B,, D,/ C, D,/ | G,3/ G,/z/ G,/ | G, G,/ G, D,/ | E, C,/ =F, E,/ | [M: 9/8]  G, G,/ A, D,/ E, E,/ | (D,3/ D,3/ D,/)E,/ F,/ | [M: 6/8]  G, G,/ G, D,/ | C, C,/ (C/B,/) A,/ | (B,/A,/) G,/ C, D,/ | G,/ G,2|]
+

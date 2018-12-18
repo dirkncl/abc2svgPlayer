@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Winchester Old
+Z: From Este's Psalter, 1592
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Winchester Old, CM"
+%%MIDI program 2 19
+K: C
+[V: P1]  [G,C] [C3/E3/] [C/E/] [B,D] | [A,C] [A,F] [CF] [CE] | [B,D] [CE] [DG] [DG] | [D^F] [B,3G3] | [CE] [C3/A3/] [C/G/] [CF] | [CE] [B,D] [A,C] [^G,B,] | [G,E] [B,D] [A,C] [A,C] | [G,B,] [G,3-C3-] | [G,C]z3|]
+[V: P2]  [C,E,] [C,3/G,3/] [C,/G,/] [G,,G,] | [A,,E,] [F,,F,] [F,,A,] [C,G,] | [G,,G,] [C,G,] [B,,G,] [D,A,] | [D,A,] [G,,3G,3] | [C,G,] F,3/ [C,/E,/] [A,,F,] | [C,G,] [G,,G,] [A,,E,] [E,,E,] | [C,E,] [G,,G,] [A,,E,] [F,,F,] | [G,,D,] [C,3-E,3-] | [C,E,]z3|]
+

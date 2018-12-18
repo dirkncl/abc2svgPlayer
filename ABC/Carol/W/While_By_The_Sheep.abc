@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: While By The Sheep
+Z: German Melody
+Z: Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: C
+[V: P1]  c B/A/ | G3/ G/ | A B | c2 | c B/A/ | G3/ G/ | A B | c3/ c/ | B3/ B/ | A2 | B3/ B/ A2 | c d | e2 | c d | e2 | e d/c/ | B A | B ^G | A2 | e d/c/ | B A | B ^G | A2|]
+w: While by the sheep we watch by night, Glad tid- ings brought an an- gel bright. How great our joy! Great our joy! Joy, joy, joy! Joy, joy, joy! Praise we the Lord in heaven on high! Praise we the Lord in heaven on high!
+

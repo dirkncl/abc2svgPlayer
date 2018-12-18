@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wo, Jesu, Is Me
+Z: Melody from Maintz, 1661
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=135
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d | c B A | G2 B | A G F | E2 e | d c B | A2 d | c B A | G2 B | B2 B | G2 A | F3/ E/ F | E2 E | F2 G | A2 F | E3/ D/ E | D2 d | c B A | G2 B | A G F | E2 e | d c B | A2 d | c B A | G2|]
+w: Wo, Je- su, is me Thy cra- dle to see; Thou ten- der Child, say, Why liest thou on hay? Sleep, dar- ling; close thine eyes in re- pose; And make us rest in Pa- ra dise blest. Wo, Je- su, is me Thy cra- dle to see; Thou ten- der Child, say, Why liest thou on hay?
+

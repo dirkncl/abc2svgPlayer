@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: What Joyful News To Us Are Told
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=104
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F | B3 c | d3 e | (d c) (B A) | B3 B | c (d/c/) A G | F3 D | _E3/ F/ G A | B3 F | (B/A/) (B/c/) B c | d (d/c/) Bz | B/d/B/d/ B/c/d/B/ | c/c/4c/4 c/c/ c (B/c/) | d c d c | d3 (c/B/) | c c c c | c3 F | G F G A | (B/A/) (B/c/) d e | d c B A | B3|]
+w: What joy- ful news to us_ are_ told A Sa- viour_ pro- mis'd long A Sa- viour pro- mis'd long! The glor-_ ious_ Child let us be-_ hold               To_ Him ad- dress our song To_ Him ad- dress our song The glor- ious Child let us_ be-_ hold, To Him ad- dress our song.
+[V: P2]  F | (D2 F2 | F) F B G | (F E) F2 | F2 (D =E) | F F F =E | (F/=E/ D C) B, | B,3/ D/ E E | D3 F | F (D/E/) F E | F (F/E/) D (F/E/) | D D F/E/F/G/ | A/A/4A/4 A/A/ A D/E/ | F E D (E/F/) | F3 (D/=E/) | F (D/=E/) F (A/G/) | F3 F | E D E E | D F F G | B G F (F/E/) | D3|]
+[V: P3] z |z F, B, A, | B,3 B, | (B, C) (D E) | D2 (B, C) | F D C B, | A,3 B, | B, (C/B,/) G, F, | F,3z |z F, D, F, | (B,/A,/) (B,/C/) D (D/C/) | B,zz2 |z2z F | D E F E | (D2 B,) C | A, G, A, B, | A,3 B, | B, (B,/_A,/) G, F, | G, (G,/=A,/) (B,/A,/) (B,/C/) | D E D C | B,3|]
+[V: P4]  F, | (B,,2 D,) F, | B,3 E, | F,2 F,,2 | B,,3 G, | A, B, C C, | (D,3/ =E,/) F, (B,/_A,/) | G,3/ F,/ (E,/D,/) C, | B,,3 F, | D, F, (B,/A,/) (B,/C/) | B,3/ B,/ B, (D/C/) | B, F, (D,/C,/) B,, | F,/C,/A,,/C,/ F,, F, | B,2 B, (G,/A,/) | B, A, B, (A,/G,/) | F,3 C, | F, (D,/E,/) F, (E,/D,/) | E,3 C, | G, F, B, E, | F, F, F,, F,, | B,,3|]
+

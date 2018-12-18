@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: While In Peaceful Slumbers Lying
+Z: H. T. Tiltman
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E F/ F E/ | G F/ F E/ | (F/G/) F/ (F/d/) c/ | B F/ (F E/) | E F/ F E/ | (E/G/) F/ F E/ | (E/F/) G/ (A/d/) c/ | B B/ A3/|]
+w: While in peace- ful slum- bers ly- ing, See_ Thy Mo-_ ther o’er Thee bend,_ Deep- est awe and love_ un- dy ing In_ her gen-_ tle fea- tures blend.
+

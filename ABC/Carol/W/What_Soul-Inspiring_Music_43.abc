@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: What Soul-Inspiring Music
+Z: Old Bearnaise Carol
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G G A/ F/ | G G/z/ B | A c B/ A/ | Gz D | G G A/ F/ | G G/z/ B | A c B/ A/ | Gz B/ c/ | d d e/ c/ | d d e/ c/ | d d c/ B/ | Az F/ G/ | A A B/ G/ | A A B/ G/ | F A G/ E/ | Dz F/ G/ | A3/ A/ B/ c/ | (B/A/) G d | c (c/B/) A | G2|]
+w: What soul- in spir ing mu- sic Thrills thro' the mid- night air? What sounds of heav'n- ly sweet- ness Dis- pel all doubt and care? Ev'- ry star and con- stel la tion Sheds a ra- diance dou- bly bright; See the Plei- ades and O- ri on Glit- ter keen- ly in the height! Spark- ling fires, like twink- ling blos-_ soms, Stud Night's robe_ with light.
+

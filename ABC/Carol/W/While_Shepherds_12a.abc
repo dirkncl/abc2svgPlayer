@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: While Shepherds In The Fields Did Dwell
+Z: James Tucker, 1827
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=264
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  (B B) B e | (G3/ F/ G) B | E2 (A G) | [M: 3/2]  F2 B2 (c/B/) (A/G/) | [M: 4/4]  (F3/ G/ A) B | G3 e | [M: 3/2]  e e/ e/ d c B A | [M: 4/4]  (G3/ F/ E) F | G e d c | (B c B/c/) d | (e B) (B G) | (A F) (F D) | E4|]
+w: While_ Shep- herds in__ the field did_ dwell, A- wait_ ing_ for__ the morn,  An- gels ap- pear'd to them and said:__ "Your Sav- iour Christ is born,___ Your Sav-_ iour_ Christ_ is_ born."
+[V: P2]  (G G) F E | D3 D | C2 (F E) | [M: 3/2]  D2 D2 E E | [M: 4/4]  (B,2 E) D | E3 G | [M: 3/2]  G B/ B/ A G F E | [M: 4/4]  (D3/ C/ B,) D | E G F E | (D E D/E/) F | E2 (E D) | C2 B,2 | B,4|]
+[V: P3]  (B, B,) B, G, | B,3 B, | (G, C) B,2 | [M: 3/2]  B,2 F,2 A, C | [M: 4/4]  E/D/C/B,/ A,/F,/ B, | B,3 B, | [M: 3/2]  E G/ G/ F E D C | [M: 4/4]  B,3/ (A,/ G,) B, | B, B, B, =A, | (B, F,) B,2 | B,2 G,2 | (E, A,) A,2 | G,4|]
+[V: P4]  (E, E,) D, C, | B,,3 G,, | C,2 (D, E,) | [M: 3/2]  B,,2 B,,2 A,, A,, | [M: 4/4]  B,,3 B,, | E,3z | [M: 3/2]  z4 | [M: 4/4] z2z F, | E, C, F, F, | B,,2 (B, _A,) | G,2 E,2 | A,,2 B,,2 | E,4|]
+

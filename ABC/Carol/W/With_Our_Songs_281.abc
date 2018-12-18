@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: With Our Songs We Greet Thee
+Z: H. Ernest Nichol
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  (E/A/) c/ c B/ | A3/ G3/ | (F3/ B/A/) F/ | E3 | (E/A/) c/ c B/ | e3/ A3/ | (G3/ B/A/) F/ | E3 | A A/ G G/ | F F/ (F/G/A/) | B B/ (B/c/) d/ | e c/ A3/ | F F/ (F/G/) A/ | c c/ c3/ | (d3/ G3/ | c3/) B3/ | (A3 | A3/ E3/) | (F3 | F3/) G3/ | (A3 | A3)|]
+w: With_ our songs we greet Thee, Ho-__ ly Child; With_ our prayers en- treat Thee, Ho-__ ly Child; From Thy love- ly dwel- ling place,__ Bring us life,_ and truth, and grace, Show to us_ the Fa- ther’s face, Ho-__ ly Child;__ Ho-_ ly Child,_
+

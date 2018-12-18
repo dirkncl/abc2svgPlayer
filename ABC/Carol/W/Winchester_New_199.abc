@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Winchester New
+Z: Adapted by William H. Havergal
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F | B F G G | F E D D | E D C F | F =E F F | B c d B | e d c d | B G F B | B A B|]
+w: On Jor- dan’s bank, the Bap- tist’s cry An- nounc es that the Lord is nigh; A- wake and hearken, for he brings Glad tid- ings from the King of kings!_
+

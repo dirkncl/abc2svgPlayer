@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: What Do They Say, These Bells To Me?
+Z: C. Simper
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  (D/E/) F/ G/ F B | d3/ c/ B2 | G G/ G/ F B | c3/ =B/ c2 | (d/c/) B/ A/ G3/ G/ | (e/d/) (c/B/) A2 | B c3/4 G/4 B A | B3z |"^Chorus" (d/c/) d/ e/ f d | d3/ c/ c2 | (B/A/) B/ c/ d B | B3/ A/ A2 | A G3/4 A/4 B F | c (B3/4c/4) d2 | f B3/4 e/4 d c | B3z|]
+w: What_ do they say, these bells to me, Ring- ing a- way so mer- ri ly, Waft-_ ing their notes of ho-_ ly_ glee? Je- sus the Christ is born! What_ do they say, these bells to me, Ring-_ ing a- way so mer- ri ly, Waft- ing their notes of ho- ly_ glee? Je- sus the Christ is born!
+

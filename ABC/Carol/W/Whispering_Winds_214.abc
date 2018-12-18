@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Whispering Winds Softly Sighing
+Z: W. A. Post
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=95
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  C/ F/ G/ A/ c/ d/ | d3/ A3/ | c3/ G3/ | A3/ F3/ | C/ F/ G/ A/ c/ d/ | d3/ A3/ | c3/ =B3/ | (A3/ A)z/ | [G/B/] [F/A/] [E/G/] [^D/^F/] [E/G/] [B/=d/] | [A3/c3/] [F3/A3/] | [G3/B3/] [E3/G3/] | [^G3/d3/] [A3/c3/] | [A/f/] [c/e/] [B/d/] [A/c/] [G/B/] [F/A/] | [D3/G3/] [B,3/D3/] | [C3/E3/] [E3/c3/] | (F3/ F)z/ |"^Chorus." C3/ Dz/ | E3/ Fz/ | A3/ e d/ | c3/ Az/ | c3/ B3/ | A3/ G3/ | F A/ G D/ | (G3/ G)z/ | C3/ D3/ | E3/ F3/ | A3/ c3/ | (B3/ B)z/ | e3/ d B/ | d3/ c C/ | A3/ G3/ | (F3/ F)z/|]
+w: Whis- per ing winds soft- ly sigh- ing, day- light dy- ing, Stars thro' the low- bend ing heav- ens slow- ly creep,_ Flut-_ ter_ ing_ wings_ of_ the_ an-_ gels_ swift_ des-_ cend_ ing,_ Beau-_ ti_ ful_ cho-_ rals_ a-_ wak_ ing_ earth_ from_ sleep._ Hail Him! hail Him! Je- sus the ho- ly, Hal- le lu jah, sing un- to His name;_ Now and ev- er more the same,_ Hail Him with glad- ness, His pow'r pro- claim._
+[V: P2]  [A,C] [A,/C/] [CF] [D/F/A/] | [D3/F3/A3/] [A,3/C3/F3/] | [C3/E3/G3/] [C3/E3/] | [C3/F3/] [A,3/C3/] | [A,C] [A,/C/] [CF] [D/F/A/] | [D3/F3/A3/] [D3/F3/] | [E3/A3/] [D3/^G3/] | [(C3/(E3/] [C)E)]z/ | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | A,/A,/A,/ [A,C]z/ | [A,/C/][A,/C/][A,/C/] [A,C]z/ | F/F/F/ [F^G] [F/G/] | [F/A/][F/A/][F/A/] [FA]z/ | [E3/G3/] [D3/E3/] | [C3/E3/] [B,3/E3/] | A, C/ =B, B,/ | C/E/D/ Cz/ | z4 | z4 | z4 | z4 | [F3/^G3/=B3/] [FGB]z/ | [F3/A3/] [FA]z/ | [C3/E3/] [C3/E3/] | [(A,3/(C3/] [A,)C)]z/|]
+[V: P3]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | (A,3/ A,)z/ | z4 | z4 | z4 | z4 | z4 | z4 | z4 | E,/G,/F,/ E,z/ | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4|]
+[V: P4]  (F,, C,/ F, C,/) | (F,, C,/ F, C,/) | (C,, C,/ E, C,/) | (F,, C,/ F, C,/) | (F,, C,/ F, C,/) | (F,, C,/ F, C,/) | (E,, E,/ ^G, E,/) | A,/E,/C,/ A,,z/ | (C,, C,/ B, C,/) | (F,, C,/ F, C,/) | (C,, C,/ B, C,/) | (F,, C,/ F, C,/) | (F,, C,/ F, C,/) | (B,, D,/ G, D,/) | (C, E,/ B, E,/) | F,/C,/A,,/ F,,z/ | [F,,/C,/F,/][F,,/C,/F,/][F,,/C,/F,/] [F,,C,F,]z/ | [F,,/C,/F,/][F,,/C,/F,/][F,,/C,/F,/] [F,,C,F,]z/ | [F,/C/][F,/C/][F,/C/] [F,3/=B,3/] | [F,/C/][F,/C/][F,/C/] [F,C]z/ | C,,/E,/E,/ E,3/ | C,,/E,/E,/ E,3/ | [F,,C,] [F,,/F,/] [G,,F,] [G,,/F,/] | (B,,3/ B,,)z/ | F,,/[C,/F,/A,/][C,/F,/A,/] [C,3/F,3/A,3/] | F,,/[C,/F,/A,/][C,/F,/A,/] [C,3/F,3/A,3/] | F,,/[F,/A,/_E/][F,/A,/E/] [F,3/A,3/E3/] | B,,/[F,/D/F/][F,/D/F/] [F,B,D]z/ | =B,,/F,/^G,/ =B,z/ | C,/F,/A,/ Cz/ | C,/E,/G,/ B, E,/ | F,/C,/A,,/ F,,z/|]
+
