@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christ Ist Erstanden
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: D
+[V: P1]  [D2F2B2] [CFA] [B,EB] | [A,Ad] [B,/G/e/]C/ [B,2D2F2B2] | [DGB] [DA] [DFB] [B,EG] | [B,DF] [B,DG] [A,DE] C | [A,EA] [DA] [B,E] D | [B,/D/G/]E/ [A,=CFA] [D2G2B2] | [EGB] [A,DA] [DB] [B,EG] | [B,DF] [DG] [=C2E2] [K: D]  | [M: 2/4]  [B,D] [B,E] [K: D]  | [M: 4/4]  [A,DF] C [B,2E2] | [D2B2] [A,DA] [B,EG] | [DFA] [EAc] [EB] G | [D2A2d2] [DGB] [B,/d/]=C/ | [DGB] [A,FA] [B,2D2B2] | [DGB] F/A/ [B,EG] [D/E/]B,/ | [A,EF] [B,DA] [B,2E2]|]
+[V: P2]  B,, D, F, G, | F, E,z2 | G, F, D, E, | B,, G,, A,,2 | C, [D,F,] [E,G,] [B,,F,] |z2 G,2 | E, F, G, E, | B,, [B,,G,] [=C,2G,2] [K: D]  | [M: 2/4]  G, [E,G,] [K: D]  | [M: 4/4]  D,2 [E,2G,2] | [G,,G,] G, F, E, | D, A,, E,2 | F,2 G,2 | B,,/=C,/ D, G,,2 | G, D, E, A,, | D, B,, [E,2G,2]|]
+

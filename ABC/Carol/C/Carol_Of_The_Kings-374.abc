@@ -1,0 +1,40 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Carol of the Three Kings
+Z: N. A. Rimski-Korsakov from "Nuit de Noel"
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Violin 1"
+%%MIDI program 1 40
+V: P2 name="Violin 2"
+%%MIDI program 2 40
+V: P3 name="Viola 1"
+%%MIDI program 3 41
+V: P4 name="Viola 2"
+%%MIDI program 4 41
+V: P5 name="Piano Upper 1"
+%%MIDI program 5 0
+V: P6 name="Piano Upper 2"
+%%MIDI program 6 0
+V: P7 name="Piano Lower 1"
+%%MIDI program 7 0
+V: P8 name="Piano Lower 2"
+%%MIDI program 8 0
+K: C
+[V: P1]  A/ e/ e/ d/ e | B/ d/ c/ B/ A |z d/ c/ B/ A/ |z d/ c/ B/ A/ | A/ e/ e/ (d/4B/4) e | e/ g/ f/ e/ d | (d/4B/4) c/ G3/ c/ | (B/4^G/4) A/ E3/ A/ | A/ e/ e/ (d/4f/4) (e/d/4c/4) | B/ d/ (c/4d/4) c/ A | (B/4^G/4) A/ E3/ (A/4c/4) | (B/4^G/4) A/ E3/ A/ | A/ e/ e/ d/ e | B/ d/ (c/4e/4) B/ A | E3/4 ^F/4 (^G/4A/4B/4c/4 d/4B/4) c/ | E3/4 ^F/4 (^G/4A/4B/4c/4 d/4B/4) c/ | A/ e/ e/ d/ e | B/ d/ c B | A B A | (B2 c/B/) | (A3 | A/)z/zz|]
+w: Guid- ed by a star Came three Kings a- far, Ho- ly Ev- en!, Ho- ly ev- en! Found the Heav’n born_ child By His moth- er Mild, Al-_ le lu ia! Al-_ le lu ia Art thou then a_ Queen__ State- ly thus_ be seen? Ho-_ ly Ev- en!,_ Ho-_ ly ev- en! King- es daugh- ter free, Sure- ly thou_ must be, Al- le lu_____ ia! Al- le lu_____ ia! Nay, good sirs, no Queen, Poor my folk and mean. Al- le lu__ ia!_
+[V: P2]  A/ e/ e/ d/ e | B/ d/ c/ B/ A | B/ A/ E3/ A/ | B/ A/ E3/ A/ | A/ A/ A/ A/ A | _B/ B/ A/ G/ F | (d/4B/4) c/ G3/ c/ | (B/4^G/4) A/ E3/ A/ | A/ A/ A/ B/ (c/B/4A/4) | A/ A/ A/ ^G/ A | (B/4^G/4) A/ E3/ (A/4c/4) | (B/4^G/4) A/ E3/ A/ | (A/4B/4) (c/4d/4) e/ (d/4B/4) c | B/ d/ A/ ^G/ A | E3/4 ^F/4 (^G/4A/4B/4c/4 d/4B/4) c/ | E3/4 ^F/4 (^G/4A/4B/4c/4 d/4B/4) c/ | A/ A/ A/ A/ A | A/ A/ A ^G | A ^G A | (A2 ^G) | (E3 | E/)z/zz|]
+[V: P3]  A/ A/ A/ B/ A | A/ A/ A/ ^G/ A | B/ A/ E3/ A/ | B/ A/ E3/ A/ | C/ C/ C/ F/ C | C/ E/ F/ ^C/ D |z G G |z E E | E/ E/ E/ (D/4F/4) (E/D/4C/4) | D/ F/ E/ E/ A | F/ F/ E3/ E/ | F/ F/ E3/ E/ | (e/4d/4) (c/4B/4) A/ B/ A | (D/4E/4) (F/4G/4) A/ E/ A | (B/4^G/4) A/ E3/ A/ | B/ A/ E3/ A/ | E/ E/ E/ F/ E | F/ F/ E E | A D C | (D2 E) | (C3 | C/)z/zz|]
+[V: P4]  A/ A/ A/ B/ A | F/ F/ E/ D/ C |z E (D/C/) |z E (D/C/) | C/ C/ C/ F/ C | C/ E/ F/ ^C/ D | F/ E/ D (F/E/) | D/ C/ B, (F/E/) | A,/ A,/ A,/ B,/ (C/B,/4C/4) | D/ F/ E/ E/ A | D/ D/ D3/ C/ | D/ D/ D3/ C/ | A/ A/ A/ B/ A | D/ D/ E/ E/ A | (E2 ^G/) A/ | (E2 ^G/) A/ | C/ C/ C/ D/ C | D/ B,/ (C/D/) E | A D C | (D2 E) | (A,3 | A,/)z/zz|]
+[V: P5]  z4 | (B/d/) [(E/(A/(c/][D/)^G/)B/)] [CA] |z (^G/A/d/c/ | B/A/) (^G/A/d/c/) | (a/8b/8c'/8d'/8e'/) (e'/(3 d'/4b/4d'/4) e' | (c'/8d'/8e'/8f'/8g'/) f'/(3 (e'/4f'/4e'/4 d') | (d'/4b/4c'/4a/4) (g/4a/4b/4c'/4 d'/4b/4c'/) | (b/4^g/4a/) (e/4^f/4^g/4a/4 b/4c'/4b/) | (A A/B/[c/e/]A/) | [(D/(B/][F/d/] [E/A/c/][D/)^G/)B/)] [CA] | (B/A/) (E3/4^F/4 ^G/A/4c/4) | (B/A/) (E3/4^F/4 ^G/A/) | z4 | [F/A/B/]z/ [E/A/c/][D/E/^G/B/] [C/E/A/]z/ | e/4e/4e/4^f/4 ^g/4a/4b/4c'/4 d'/4b/4c'/ |z. ^g/4.a/4.b/4.c'/4 d'/4b/4c'/ | (A/e/) (e/d/) e | [F/B/][F/d/] [Ec] [DB] | [C/A/]z/ [(D(B] [C)A)] | (B2 c/B/ | A/)z/zz |zzz|]
+[V: P6]  a/4e'/4[a/e'/] [a/e'/][b/d'/] [ae'] | [FA]z2 |z E2 |z E2 | a/a/ a/a/ a |z/ _b/ a/g/ f | f/e/ (f3/ e/) | d/c/ (d3/ c/) | z4 | Az2 | F E2 | F E2 | [a/8e'/8]b/8c'/8d'/8e'/ [a/e'/][b/d'/] [ae'] | z4 | e e e/e/ | [.e/4.b/4].e/4.e/4.^f/4 e e/e/ | E3/ [F/A/] [EA] | z4 | z4 | D2 [DE] | A/(A/8B/8c/8d/8. e/)(a/8b/8c'/8d'/8. e'/)[.e/.e'/] | [.a/.c'/.e'/.a'/]z/zz|]
+[V: P7]  z4 | (D,/B,,/) (C,/4D,/4E,/)z | (^G,/A,/D/C/B,/A,/) | (^G,/A,/C/B,/A,/G,/) |z A/A/ A | [E/_B/c/][E/B/c/] [F/A/c/][^C/G/B/] [DFA] | G2 (B,/4D/4C/) | E2 (G,/A,/) | E,/z/zz |zz A,, | (^G,/A,/) (D,/C,/B,,/A,,/) | (^G,/A,/) (D,/C,/B,,/A,,/) | z4 |z E,/E,,/ A,,/z/ | (D3/4C/4 B,/4A,/4^G,/) G,/4B,/4A,/ | (D3/4C/4 B,/4A,/4^G,/) G,/4B,/4A,/ | [C,,3/C,3/] [D,,/D,/] [C,,C,] | A,2 ^G, |z (^G, A,) | (A,2 ^G,) | z4 | z4|]
+[V: P8]  A,,/[A,/E/] [A,/E/][B,/D/] [A,E] | z4 | F, E,2 | F, E,2 | [C,/A,/E/]z/zz | z4 | (G,/A,/ B,/G,/4A,/4) (G,/C/) | (E,/^F,/ ^G,/E,/4F,/4) (E,/A,/) |z [A,/E/]z/ [A,/E/]z/ | (F,/B,,/ E, A,,) | D,zz | D,zz | [(A,/8(E/8]D/8C/8B,/8[A,/)E/)] [A,/E/][B,/D/] [A,E] | D,/z/zz | E,2 E,/A,/ | E,2 E,/A,/ | z4 | D,/B,,/(C,/D,/) E, | [F,/A,/]z/ E,2 | E,3 | [A,,/A,/]z/zz/ [E,/E/] | [A,,/A,/]z/zz|]
+

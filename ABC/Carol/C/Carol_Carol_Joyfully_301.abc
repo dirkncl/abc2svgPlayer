@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carol! Carol Joyfully!
+Z: C. Simper
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G G/ F F/ | G A/ B3/ | c c/ A c/ | (B3/ B3/) | G G/ F F/ | G A/ B3/ | =A B/ c d/ | (B3/ B3/) | d c/ B c/ | d c/ B3/ | B e/ B G/ | B G/ F3/ | G G/ G c/ | B =A/ d3/ | c B/ (=A/B/) c/ | [M: 3/8]  G ^F/ | [M: 6/8]  (G3/ B3/) |"^Chorus" B G/ (G/B/) e/ | d3/ c3/ | B B/ A G/ | (F3/ F3/) | (F/G/) F/ E F/ | G A/ B3/ | (G/A/) G/ F G/ | A B/ c3/ | (c/d/) e/ B A/ | (G3/ G3/) | (F/ G/) A/ (G3/ | G3/) F3/ | (E3/ E3/)|]
+w: Car- ol, car- ol joy- ful ly! Christ the Lord is born!_ With your sweet- est min- strel sy, Greet His Birth- day morn._ Ro- yal In- fant fair and sweet, Ti- ny hands and dim- pled feet: 'Tis the king of pow'r con- fest, Lies on maid-_ en mo- ther's breast. _ Ca- rol! Ca-_ rol! Car- ol, Car- ol! joy- ful ly!_ Sweet-_ est songs of An- gel throngs, Sweet-_ est praise our voi- ces raise, In-_ fant Lord, to Thee!_ In-_ fant Lord,_ to Thee!_
+

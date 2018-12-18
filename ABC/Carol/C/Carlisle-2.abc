@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carlisle
+Z: Charles Lockart, 1745-1815
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  E | B E (G/F/) (E/D/) | E3 E | A (B/c/) B (E/A/) | (G F2) F | G (F/E/) A (G/F/) | B (A/G/) c d | e (E/A/) G F | E3|]
+[V: P2]  E | B, C C B, | B,3 E | E E E E | (E D2) D | (E/D/) C (F/E/) D | (G/F/) E E F | E (E/F/) E D | E3|]
+[V: P3]  G, | F, G, (B,/A,/) (G,/F,/) | G,3 G, | A, (G,/A,/) B, C | B,3 B, | B, A, C B, | B, (E/_D/) C B, | B, (G,/C/) B, (B,/A,/) | G,3|]
+[V: P4]  E, | D, C, A,, B,, | E,3 (E,/_D,/) | C, (B,,/A,,/) G,, A,, | B,,3 B,, | E, (A,/G,/) F, (B,/A,/) | G, (C/B,/) A, A, | G, (C,/A,,/) B,, B,, | E,3|]
+

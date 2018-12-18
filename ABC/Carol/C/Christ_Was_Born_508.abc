@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christ Was Born On Christmas Day
+Z: C. L. Williams
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A3/ G/ F A | B3/ B/ B2 | B B c B | ^A3/ B/ A2 | B c d e | f3/ e/ d A | B A d c | f3/ B/ e g | (f2 e2) | d4|]
+w: Christ was born on Christ- mas Day Wreathe the hol- ly, twine the bay; Christ- us na- tus ho- di e; The Babe, The Son, the Ho- ly One of Ma-_ ry.
+

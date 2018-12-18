@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Capetown
+Z: Friedrich Filitz, 1847
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=108
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Capetown"
+%%MIDI program 2 19
+K: D
+[V: P1]  [DA] [DF] [DB] [DA] | [DG] [CG] [D2F2] | [Fd] [Ec] [Dd] [DA] | [B,/G/]C/ [DF] [DE] C | [DA] [Fd] [Ec] [FB] | [EA] ^G/D/ [DA] C | [DF] [DF] [DE] [CE] | D4|]
+[V: P2]  [D,F,] [D,A,] G, [F,A,] | [E,B,] [A,,A,] [D,2A,2] | [D,A,] [A,,A,] [B,,F,] F, | [E,G,] [D,A,] [A,,2A,2] | [F,A,] [D,A,] A, [D,D] | [E,C] [E,B,] [A,,2A,2] | [D,A,] [B,,B,] [G,,B,] [A,,A,] | [D,4F,4]|]
+

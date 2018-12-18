@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christe Redemptor Omnium
+Z: Latin Hymn, 6th Century
+Z: Public Domain
+Z: Copyright © 2002 by Douglas D. Anderson
+L: 1/4
+M: none
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D/ E/ (F/ A/) (A/ G/) (F/ E/) G/ (F/ E/ D/) E | (D/ F/) A/ (A/ B/) B/ (B/ A/) (A/ d/) (c/ B/ A/) B | (B/ d/) A/ (A/ G/) F/ (E/ D/) E/ (E/ F/) F | D/ E/ (F/ A/) (A/ G/) (F/ E/) G/ (F/ E/ D/) E|]
+w: Chri- ste Re-_ demp_ tor_ Om- ni__ um Ex_ Pa- tre_ Pa- tris_ U-_ ni__ ce So-_ lus an-_ te prin-_ ci pi_ um Na- tus in-_ ef_ fa_ bi li__ ter
+

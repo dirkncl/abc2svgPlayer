@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christ Was Born On Christmas Day
+Z: Tune adapted from Piae Cantiones
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1] "^Verse 1" c A/ F A/ | c d/ c3/ | c A/ F A/ | c d/ c3/ | B B/ B c/ | B A/ G A/ | c A/ F B/ | A G/ G A/ | F3/ F3/ |"^Verse 2" c A/ F A/ | c d/ c3/ | c A/ F A/ | c d/ c3/ | B B/ B c/ | B A/ G A/ | c A/ F B/ | A G/ G A/ | F3/ F3/ |"^Verse 3" c A/ F A/ | c d/ c3/ | c A/ F A/ | c d/ c3/ | B B/ B c/ | B A/ G A/ | c A/ F B/ | A G/ G A/ | F3/ F3/ |"^Verse 4" c A/ F A/ | c d/ c3/ | c A/ F A/ | c d/ c3/ | B B/ B c/ | B A/ G A/ | c A/ F B/ | A G/ G A/ | F3/ F3/ |"^Verse 5" F G/ A B/ | A G/ A G/ | F E/ F3/ | c3/ A3/ | c3/ A3/ | F G/ A B/ | A G/ A3/ | F G/ A B/ | c B/ A B/ | G G/ F3/ |"^Verse 6" c c/ d e/ | f e/ d c/ | f e/ d c/ | c B/ c3/ | F G/ A B/ | c B/ A B/ | G G/ F3/"^Verse 7" c/ | c A/ F A/ | c d/ c A/ | c d/ c F/ | F G/ A B/ | c B/ A B/ | G G/ F3/ |"^Verse 8" c c/ d e/ | f e/ d c/ | f e/ d c/ | c B/ c3/ | F G/ A B/ | c B/ A B/ | G G/ F3/|]
+w: Christ was born on Christ- mas Day Wreathe the hol- ly, twine the bay; Chris- tus na- tus ho- di e; The Babe, The Son, the Ho- ly One of Ma- ry. He is born to set us free, He is born our Lord to be, Ex Ma- ri a Vir- gi ne, The God, the Lord, by all a- dor’d for- ev er. Let the bright red ber- ries glow, Ev’- ry where in good- ly show, Christ- us na- tus ho- di e; The Babe, the Son, the Ho- ly One of Ma- ry. Christ- ian men, re- joice and sing, ‘Tis the birth- day of a King Ex Ma- ri a Vir- gi ne; The God, the Lord, by all a- dor’d for- ev er. Night of sad- ness: Morn of glad- ness ev- er more Ev- er, ev- er: Af- ter ma- ny trou- bles sore, Morn of glad- ness ev- er more and ev- er more. Mid- night scarce- ly pass'd and o- ver, Draw- ing to this ho- ly morn, Ve- ry ear- ly, ve- ry ear- ly Christ was born. Sing out with bliss, His Name is this: Em- man u el: As was fore- told in days of old By Ga- bri el. Mid- night scarce- ly pass'd and o- ver, Draw- ing to this ho- ly morn, Ve- ry ear- ly, ve- ry ear- ly Christ was born.
+

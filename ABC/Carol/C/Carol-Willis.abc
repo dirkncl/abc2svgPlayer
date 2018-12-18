@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carol
+Z: Richard S. Willis
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F/ | d c/ (c/B/) G/ | F G/ F F/ | (G/A/) B/ (B/c/) d/ | (c3/ c) F/ | d A/ (c/B/) G/ | F G/ F F/ | G G/ (A/G/) F/ | (B3/ B) d/ | d D/ (D/=E/) ^F/ | G A/ B d/ | (c/B/) A/ (G/A/) G/ | (F3/ F) F/ | d A/ (c/B/) G/ | F G/ F F/ | G G/ (A/G/) F/ | (B3/ B)|]
+[V: P2]  D/ | D D/ E E/ | D E/ D D/ | E E/ =E E/ | (F3/ F) F/ | D D/ E E/ | D E/ D F/ | E E/ E E/ | (D3/ D) D/ | D D/ (D/=E/) D/ | D D/ D D/ | F F/ =E E/ | (F3/ F) E/ | D D/ E E/ | D E/ D F/ | E E/ E E/ | (D3/ D)|]
+[V: P3]  F,/ | F, ^F,/ G, A,/ | B, F,/ F, B,/ | B, B,/ B, B,/ | (A,3/ A,) F,/ | F, ^F,/ G, A,/ | B, F,/ F, B,/ | B, C/ (C/B,/) A,/ | (B,3/ B,) D,/ | D, ^F,/ (F,/G,/) A,/ | G, ^F,/ G, G,/ | (A,/D/) C/ (B,/C/) B,/ | (A,3/ A,) A,/ | B, ^F,/ G, A,/ | B, F,/ F, B,/ | B, C/ (C/B,/) A,/ | (B,3/ B,)|]
+[V: P4]  B,,/ | B,, B,,/ B,, B,,/ | B,, A,,/ B,, B,,/ | (E,/F,/) G,/ G, C,/ | (F,3/ F,) F,/ | B,, B,,/ B,, B,,/ | B,, A,,/ B,, D,/ | E, C,/ F, F,/ | (B,,3/ B,,) D,/ | D, D,/ D, C,/ | B,, D,/ G, B,,/ | C, C,/ C, C,/ | (F,3/ F,) F,/ | B,, B,,/ B,, B,,/ | B,, A,,/ B,, D,/ | E, C,/ F, F,/ | (B,,3/ B,,)|]
+

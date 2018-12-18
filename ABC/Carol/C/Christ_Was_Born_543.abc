@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christ Was Born On Christmas Night
+Z: T. Tertius Noble
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=432
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F2 G | B2 A | G2 F | G3 | c2 c | (A3/ G/) F | (G2 A) | G3 | F2 G | B2 A | B2 c | A3 | d2 d | (B3/ A/) G | (E2 F) | G3 |"^Chorus" c2 c | A2 A | G2 A | G3 | F2 G | B2 A | (G2 F) | G3 | d2 d | B2 G | A2 B | A3 | G2 A | c2 A | (G F G) | F3|]
+w: Christ was born on Christ- mas night, Sing the Car-_ ol gai-_ ly; King of Love and Lord of Light Praise Him, Praise_ Him dai-_ ly. Wel- come Christ- mas! Wel- come Yule! Mis- tle toe and hol-_ ly! Be ye me- rry, gen- tles all, Mirth need not be fol-__ ly.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carol Sweetly Carol
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: G
+[V: P1]  [DB] [D/B/][E/c/] [D/B/][C/A/] | [B,3/G3/] [B,/-D/-] [B,/D/][B,/D/G/] | [DF] [B,/D/G/][D/-A/-] [D/A/][D/B/] | [B,Dd] c/[D/-A/-] [DA] | [DB] [D/B/][E/c/] [D/B/][C/A/] | [B,3/G3/] [B,/-D/-] [B,/D/][D/B/] | [DA] [F/d/][E/^c/] [F/d/][G/e/] | [F3/d3/] [F/-d/-] [Fd] | [Fd] [D/F/A/][D/F/A/] [=F/^G/][D/F/A/] | [D3/G3/B3/] [B,/-G/-] [B,/G/][G/B/] | [Fd] [D/F/A/][D/F/A/] [=F/^G/][D/^F/A/] | [D3/G3/B3/] [D/-G/-B/-] [D/G/B/][B,/D/] | [DB] [D/B/][D/A/] B/[D/c/] | [B,3/=F3/d3/] [C/-E/-c/-] [C/E/c/][C/E/A/] | [B,/D/G/]F/ [B,/D/G/][D/-B/-] [D/B/][C/A/] | [B,3/G3/] [B,/-G/-] [B,G] | [Fd] [F/A/][F/A/] [=F/^G/][F/A/] | [G3/B3/] G/- G | [Fd] [F/A/][F/A/] [=F/^G/][F/A/] | [G3/B3/] [G/-B/-] [GB] | [DB] [D/B/][D/A/] B/[D/c/] | [B,3/=F3/d3/] [C/-E/-c/-] [C/E/c/][C/E/A/] | [B,/D/G/]F/ [B,/D/G/][D/-B/-] [D/B/][C/A/] | [B,3/G3/] [B,/-G/-] [B,G]|]
+[V: P2]  [G,,G,] [G,,/G,/][G,,/-G,/-] [G,,/G,/][G,,/G,/] | [G,,3/G,3/] [G,,/-G,/-] [G,,/G,/]G,,/ | [D,A,] D,/[D,/-F,/-] [D,/F,/]G,/ | D, A,/[D,/-F,/-] [D,F,] | [G,,G,] [G,,/G,/][G,,/-G,/-] [G,,/G,/][G,,/G,/] | [G,,3/G,3/] [G,,/-G,/-] [G,,/G,/][^G,,/=F,/] | [A,,G,] [A,,/A,/][A,,/-A,/-] [A,,/A,/][A,,/A,/] | [D,3/A,3/] [D,/-A,/-] [D,A,] | [D,A,] D,/D,/- D,/D,/ | G,3/ G,/- G,/G,/ | [D,A,] D,/D,/- D,/D,/ | G,3/ G,/- G,/G,,/ | G, G,/[D,/F,/] G,/[D,/A,/] | G,,3/ C,/- C,/C,/ | D,/A,/ D,/[D,/-G,/-] [D,/G,/][D,/F,/] | [G,,3/G,3/] [G,,/-G,/-] [G,,G,] |z3 |z3 |z3 |z3 | G, G,/[D,/F,/] G,/[D,/A,/] | G,,3/ C,/- C,/C,/ | D,/A,/ D,/[D,/-G,/-] [D,/G,/][D,/F,/] | [G,,3/G,3/] [G,,/-G,/-] [G,,G,]|]
+

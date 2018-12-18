@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Calm On The Listening Ear Of Night
+Z: Devonshire, Arr. by Mr. H. S. Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c2 e c | A G c d | e3 d | c B A c | d4 | B2 G G | c3 d | e2 (d3/ c/) | B3 d | e c A B | c3 G | [M: 3/4]  c2 d | (e A) B | (c f/ e/) (d/ c/) | (c B) (c3/4 d/4) | (e/ d/ c) G | (A f) e | d3 | [M: 4/4]  d | c c c d | e2 (d3/4 c/) | B3 G | c B c d | e4 | (c G) (A B) | (c B c d) | e d c2 | B4 | c4|]
+w: Calm on the listen- ing ear of night Come heaven's me- lo dious strains, Where wild Ju- de a stretch- es_ far Her sil- ver man- tled plains. Ce- les tial choirs_ from courts__ a-_ bove_ Shed_ sac-__ red glor-_ ies there, And an- gels, with their spark- ling_ lyres, Make mu- sic on the air. Glo-_ ry,_ Glo-___ ry to God on High!
+

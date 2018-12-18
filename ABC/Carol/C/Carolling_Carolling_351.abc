@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carolling, Carolling All Thro' The Night
+Z: C. Simper
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  d3/4 c/4 B/ F3/4 G/4 F/ | d3/4 c/4 B/ F3/ | F3/4 G/4 A/ B3/4 c/4 d/ | (c3/ c3/) | e3/4 d/4 c/ G3/4 _A/4 G/ | e3/4 d/4 c/ G3/ | c/ c/ B/ A/ A/ G/ | (F3/ F3/) |"^Chorus" F B/ (A/B/) c/ | B3/ F3/ | (F/G/) A/ B3/4 c/4 d/ | (c3/ c3/) | d c/ (=B/d/) f/ | (e d/) c3/ | d B/ d B/ | (d3/ d3/) | (e/d/) c/ (F/B/) A/ | (B3/ B3/)|]
+w: Car- ol ling, car- ol ling, all thro' the night, Mu- sic God's love did in- spire;_ An- gels from Glo- ry are wing- ing their flight, Bright- rob'd and gold- en that choir!_ Hark, the her-_ ald an- gels In_ the hea- ven ly choir,_ Christ- mas glo-_ ry chant-_ ing, Strik- ing harp and lyre!_ Strik-_ ing harp_ and lyre!_
+

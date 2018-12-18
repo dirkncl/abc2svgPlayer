@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Canzone D'l Zampognari
+Z: Neapolitan Traditional
+Z: Copyright © 2000 by NoteWorthy ArtWare, Inc.
+Z: All Rights Reserved
+L: 1/4
+M: 6/8
+V: P1 name="Staff"
+%%MIDI program 1 111
+V: P2 name="Staff-1"
+%%MIDI program 2 109
+V: P3 name="Staff-2"
+%%MIDI program 3 109
+V: P4 name="Staff-3"
+%%MIDI program 4 105
+V: P5 name="Tempo Track"
+%%MIDI program 5 -1
+K: F
+[V: P1]  c/ c B/ A | G/ F- F/ F | G/ A B/c3/4B/4 | A/ G- G3/ | A/ G A/ G | A/B/c/ d c/ | B/ A B/ A | G/ F- F/A/B/ | c/B3/4A/4 B/G/A/ | B/A3/4G/4 A/A/B/ | c/B3/4A/4 B/G/A/ | B/ A- A3/ | G/ A B/c3/4B/4 | A/ G- G3/ | A/ G A/ G | A/B/c/ d c/ | B/ A B/ A | G/ F- F3/ | c/ c B/ A | G/ F- F/ F | G/ A B/c3/4B/4 | A/ G- G3/ | A/ G A/ G | A/B/c/ d c/ | B/ A B/ A | G/ F- F/A/B/ | c/B3/4A/4 B/G/A/ | B/A3/4G/4 A/A/B/ | c/B3/4A/4 B/G/A/ | B/ A- A3/ | G/ A B/c3/4B/4 | A/ G- G3/ | A/ G A/ G | A/B/c/ d c/ | B/ A B/ A | G/ F- F3/|]
+[V: P2] z/ [C-F-] [C3/F3/] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] |z/ [C-F-] [C3/F3/] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3] | [C3F3]|]
+[V: P3] z/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 |z/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3 | F,/ F,- F,3/ | F,3|]
+[V: P4]  A/ A G/ F | E/ F- F/ F | E/ F G/A3/4G/4 | F/ E- E3/ | F/ E F/ E | F/G/A/ B A/ | G/ F G/ F | E/ F- F/F/G/ | A/G3/4F/4 G/E/F/ | G/F3/4E/4 F/F/G/ | A/G3/4F/4 G/E/F/ | G/ F- F3/ | E/ F G/A3/4G/4 | F/ E- E3/ | F/ E F/ E | F/G/A/ B A/ | G/ F G/ F | E/ [F-A-c-] [F3/A3/c3/] | A/ A G/ F | E/ F- F/ F | E/ F G/A3/4G/4 | F/ E- E3/ | F/ E F/ E | F/G/A/ B A/ | G/ F G/ F | E/ F- F/F/G/ | A/G3/4F/4 G/E/F/ | G/F3/4E/4 F/F/G/ | A/G3/4F/4 G/E/F/ | G/ F- F3/ | E/ F G/A3/4G/4 | F/ E- E3/ | F/ E F/ E | F/G/A/ B A/ | G/ F G/ F | E/ [F-A-c-] [F3/A3/c3/]|]
+[V: P5] z3|]
+

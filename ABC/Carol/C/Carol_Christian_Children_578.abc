@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carol, Christian Children
+Z: Alfred Moffat
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  d3/ d/ c B | A2 F2 | A (e/d/) c B | A4 | d3/ d/ c B | A2 F2 | A F F E | D4 | F3/ F/ F F | A2 A2 | ^A A B d | c4 | d3/ d/ c B | A2 F2 | A F F E | D4|]
+w: Car- ol, Christ- ian child- ren Let your_ voi- ces ring, Is not this the birth- day Of our Heaven- ly King? Hal- le lu jah! Jes- us un- to us is born Now the daw- ning sweet- ly Breaks on Christ- mas morn.
+

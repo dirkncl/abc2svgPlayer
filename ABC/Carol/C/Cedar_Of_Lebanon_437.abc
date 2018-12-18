@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Cedar Of Lebanon
+Z: Old Melody
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d/ | d d (e/ d/) | B B G | c B A | Gz (G/ B/) | d d (e/ d/) | B B G | c B A | Gz B | A A c | B G G | g f e | d2 G/ G/ | c e c | d d G | c B A | G2"^Chorus" B | A A c | B G G | g f e | d2 G | c e c | d d G | c B A | G2|]
+w: The Ce- dar of_ Leb- a non, plant of re- nown, Hath_ bowed to the_ hys- sop His wide spread- ing crown, The Son of the high- est, an in- fant is laid, On the breast of His moth- er, that low- li est maid. All glo- ry to God in the high- est we sing. And peace up- on earth thro’ the new- ly born King.
+

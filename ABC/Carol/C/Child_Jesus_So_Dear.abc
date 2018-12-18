@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Child Jesus So Dear
+Z: From 1623
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | B3/ G/ B | D2 D | B3/ G/ B | D2 B | d3/ c/ A | (D F) A | d3/ B/ (G/B/) | D2 D | D2 D | F2 E/ D/ | C3/ G/ B | d2z | d2 B | e c B | (A D) d | (B D) d | (A D) B | G2|]
+w: Child Je- sus so dear, Thy man- ger is bare, O Je- sus so dear,_ so hard and so_ bare. Ah, take Thy ease and Thy cry- ing now cease, Sleep and grant us e- ter_ nal peace,_ e- ter_ nal peace!
+

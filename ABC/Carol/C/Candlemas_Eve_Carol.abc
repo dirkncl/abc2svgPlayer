@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Candlemas Eve Carol
+Z: Robert Herick (1591-1674)
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G/ | B G/ B G/ | (F3/4E/4) F/ C D/ | E F/ G c/ | B3 B/ | e c/ d B/ | c A/ B G/ | B G/ F E/ | F3 G/ |"^Refrain" B G/ B G/ | (F3/4E/4) F/ C D/ | E F/ G c/ | B3 B/ | e c/ (A/G/) F/ | B G/ (E/F/) G/ | B G/ (B/G/) F/ | E3|]
+w: Down with the rose- ma ry_ and bays, Down with the mis- tle toe; In- stead of hol- ly, now up- raise The green- er box, for show. Thus times and sea- sons oft_ do shift; each thing his turn doth hold; New thoughts and things_ now do suc- ceed,_ as form- er things_ grow old.
+

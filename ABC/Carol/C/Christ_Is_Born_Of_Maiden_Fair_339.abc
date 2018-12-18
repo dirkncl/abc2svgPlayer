@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christ Is Born Of Maiden Fair
+Z: H. J. Gauntlett, Mus. D.
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D3/ D/ F A | B3 B | A2 F E | F3/ F/ A E | F2 F3/ F/ | E D E E | F2 A (B/A/) | d d (e2 | e3/) d/ dz|]
+w: Christ is born of maid- en fair; Hark the her- alds in the air, Thus a- dor ing des- cant there, "In ex-_ cel sis glo-_ ri a."
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: It Came Upon The Midnight Clear
+Z: R. S. Willis
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F/ | d c/ (c/ B/) G/ | F G/ F F/ | (G/ A/) B/ (B/ c/) d/ | (c3/ c) F/ | d A/ (c/ B/) G/ | F G/ F F/ | G G/ (A/ G/) F/ | (B3/ B) d/ | d D/ (D/ =E/) ^F/ | G A/ B d/ | (c/ B/) A/ (G/ A/) G/ | (F3/ F) F/ | d A/ (c/ B/) G/ | F G/ F F/ | G G/ (A/ G/) F/ | (B3/ B)|]
+w: It came up- on_ the mid- night clear, That glo-_ rious song_ of old,_ From an- gels bend-_ ing near the earth, To touch their harps_ of gold;_ "Peace on the earth,_ good will to men, From heaven’s_ all grac-_ ious King."_ The world in sol-_ emn still- ness lay, To hear the an-_ gels sing._
+

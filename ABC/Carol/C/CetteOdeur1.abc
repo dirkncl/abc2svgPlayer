@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: CetteOdeur1
+Z: nekonata; frua 18a jc.
+Z: laý NOBC
+L: 1/4
+M: 3/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+V: P2 name="Staff-1"
+%%MIDI program 2 -1
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: D
+[V: P1]  [DF] [DF] [CE] | D2 [EA] | [A3/d3/] G/ A | [GB] [DF] [DG] | [DA] [B,D] [CE] | [D2F2] [CA] | [DF] E/D/ C | D3 | [F3/4d3/4]E/4 [F/d/]G/ [Ac] | [GB] D/E/ [F/A/]G/ | [Ad] B/A/ ^G | A2 A | F F E | D2 E | F2 G | A3 | [DF] [DF] [CE] | D2 [EA] | [A3/d3/] G/ A | [GB] [DF] [DG] | [DA] [B,D] [CE] | [D2F2] [CA] | [DF] E/D/ C | D3|]
+[V: P2]  [D,3/4A,3/4]E,/4 [F,/A,/][G,/B,/] [A,C] | B,2 [A,/C/]G,/ | [F,D] A,/E,/ [F,D] | [G,D] B, [A,/B,/]G,/ | [F,A,] G, [F,/G,/]E,/ | [D,3/A,3/] E,/ [F,A,] | [D,A,] [A,,3/A,3/] G,/ | [D,3F,3] | [D,3/4A,3/4]C,/4 [D,/A,/]E,/ [F,A,] | [G,2D2] [D,/D/]E/ | [D,F] [E,3/E3/] D/ | [A,,3/C3/] B,/ [A,,C] | D D A, | F,2 A, | D3/ C/ B, | A,3 | [D,3/4A,3/4]E,/4 [F,/A,/][G,/B,/] [A,C] | B,2 [A,/C/]G,/ | [F,D] A,/E,/ [F,D] | [G,D] B, [A,/B,/]G,/ | [F,A,] G, [F,/G,/]E,/ | [D,3/A,3/] E,/ [F,A,] | [D,A,] [A,,3/A,3/] G,/ | [D,3F,3]|]
+[V: P3] z3|]
+

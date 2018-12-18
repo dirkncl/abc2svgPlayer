@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Childing Of A Maiden Bright
+Z: Melody From XI or XII Century
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  E G E D G A B2 | B d B A G A B2 | B B A B G F E2 | E G E D (E G) (F G) G2 | G(3 (A B A) (G F) (E D) (F G) F E2|]
+w: Child- ing of a maid- en bright Life to- day hath brought to light; And hath put that prince of might With his flock of fiends_ to_ flight: Chris- tus__ na-_ tus_ ho-_ di e.
+

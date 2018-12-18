@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carol, Sweetly Carol
+Z: Edward Bunnett
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=60
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G/ G/ A/ B/ | A E/ E/ | F/ A/ d/ c/ | B2 | B/ A/ B/ ^c/ | d A/ B/ | A/ F/ F/ E/ | D2 | D/ G/ F/ G/ | F E/ E/ | E/ A/ G/ A/ | F D | G/ A/ B/ c/ | d c/ e/ | d/ B/ A/ B/ | G2 |"^Chorus" G/ G/ A/ B/ | A/ E/ E/ E/ | (F/A/) d/ c/ | B2 | B/ B/ A/ G/ | e c/ B/ | A/ c/ B/ A/ | G2|]
+w: Ca- rol, sweet- ly ca- rol, a Sa- vior born to- day; bear the joy- ful tid- ings, O, bear them far a- way: ca- rol, sweet- ly ca- rol, till earth's re- mot est bound shall hear the migh- ty cho- rus, and e- cho back the sound. Ca- rol, sweet- ly ca- rol, ca- rol sweet-_ ly to- day; bear the joy- ful tid- ings, O, bear them far a- way.
+

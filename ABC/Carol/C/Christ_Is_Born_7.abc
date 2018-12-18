@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christ Is Born!
+Z: Geoffrey Shaw, 1913
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  A B | c2 G A | B2 F G | A F E F | D2 A B | c2 B ^c | ^d2 ^c d | e f =d ^c | B2 (e/ f/) e | d B c d | B2 (A/ B/) B | [M: 3/2]  G E F3 G | [M: 4/4]  E4|]
+w: Christ is born! Christ is born! Ring the news on Christ- mas morn; Ma- ry's Son! Ma- ry's Son! Come and laud him, ev- ery one: "Glo-_ ry be to God on high," Joy-_ ful An- gels make re- ply.
+

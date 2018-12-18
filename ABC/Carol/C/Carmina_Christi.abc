@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carmina Christi
+Z: U. C. Burnap
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  E | E E E E | E E E E | E d c B | A3 E | E E E E | E E E E | F d F G | A3 C | c B A G | F3/ =E/ F G | A A (B/A/) B | c3 E | E c B A | A3/ G/ B E | E d G B | A3|]
+w: O sing a song of Beth- le hem, Of shep- herds wat- ching there, And of the news that came to them From an- gels in the air: The light that shone on Beth- le hem Fills all the world_ to- day; Of Je- sus’ birth and peace on earth The an- gels sing al- way.
+[V: P2]  C | C C C C | D D D E | E F E D | C3 C | C C C C | D D D D | D F D D | C3 C | C C =D =E | F3/ C/ C C | C C F F | =E3 D | C C C C | D3/ D/ D D | D F E D | C3|]
+[V: P3]  E, | E, C B, A, | B,3/ G,/ B, G, | G, G, F, G, | A,3 E, | E, C B, A, | A,3/ G,/ B, G, | G, G, A, B, | A,3 C | A, G, C C | C3/ B,/ A, C | C A, A, G, | G,3 G, | A, E, E, E, | E,3/ E,/ E, G, | G, G, B, G, | A,3|]
+[V: P4]  A,, | A,, A,, A,, A,, | B,, B,, B,, E, | E, E, E, E, | A,,3 A,, | A,, A,, A,, A,, | B,, B,, B,, E, | E, E, E, E, | A,,3 C, | C, C, C B, | A,3/ G,/ F, =E, | F, F, D, D, | C,3 B,, | A,, A,, A,, A,, | B,,3/ B,,/ B,, E, | E, E, E, E, | A,,3|]
+

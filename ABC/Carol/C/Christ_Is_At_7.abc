@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christ Is At Thy Portals
+Z: From "Air de la Gavote"
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  A3/ G/ (F/G/) (A/B/) | c2 c2 | (d/e/) f e d | c4 | A3/ G/ (F/G/) (A/B/) | c2 c2 | (d/e/) f e d | c4 | B A G A | (F3/ G/ A) F | B A G c | F4 | B A G A | (F3/ G/ A) F | B A G c | F4 | B A G A | (F3/ G/ A) F | B A G c | F4 | B A G A | (F3/ G/ A) F | B A G c | F4|]
+w: "Christ is at_ thy_ por- tals: Beth-_ lem, rea- dy make! Soon, to save_ all_ mor- tals, Christ-_ mas dawn shall break. Beth- lem, deck the man-__ ger, Group the shep- herd band; Call the king- ly stran-__ ger Out of Per- sian land. Christ is near thy bor-__ der, Christ, of hea- ven King." Thus, and in due or-__ der, Hosts An- gel ick sing.
+[V: P2]  F3/ E/ (F/G/) E | F2 F2 | F F G G | E4 | F3/ E/ (F/G/) E | F2 F2 | F F G G | E4 | F F (D/E/) F | (F3/ E/ F) F | F F E E | D4 | D F G F | (D3/ E/ F) D | G F (E/D/) (C/B,/) | A,4 | F F (D/E/) F | (F3/ E/ F) F | F F E E | D4 | D F G F | (D3/ E/ F) D | G F (E/D/) (C/B,/) | A,4|]
+[V: P3]  C3/ B,/ C B, | A,2 A,2 | B, A, C G, | G,4 | C3/ B,/ C B, | A,2 A,2 | B, A, C G, | G,4 | D D B, C | (C3/ B,/ C) A, | D C C C | A,4 | F, F, C C | (D3/ B,/ C) B, | D C (C/B,/) (A,/G,/) | F,4 | D D B, C | (C3/ B,/ C) A, | D C C C | A,4 | F, F, C C | (D3/ B,/ C) B, | D C (C/B,/) (A,/G,/) | F,4|]
+[V: P4]  F,3/ G,/ A, G, | F,2 F,2 | B, A, C G, | C,4 | F,3/ G,/ A, G, | F,2 F,2 | B, A, C G, | C,4 | D, D, G, F, | (A,3/ G,/ F,) F, | B,, F, C, A,, | D,4 | D, D, E, F, | (B,3/ G,/ F,) B,, | G,, (A,,/B,,/) C, C, | F,4 | D, D, G, F, | (A,3/ G,/ F,) F, | B,, F, C, A,, | D,4 | D, D, E, F, | (B,3/ G,/ F,) B,, | G,, (A,,/B,,/) C, C, | F,4|]
+

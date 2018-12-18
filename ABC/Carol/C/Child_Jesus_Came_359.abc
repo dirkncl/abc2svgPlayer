@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Child Jesus Came To Earth This Day
+Z: Niels W. Gade
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c | d c A B | A3/ G/ F G | c d B A | G2 F c | d c A B | A3/ G/ G c | e d c3/ =B/ | =B2 A c | f3/ f/ c d | B (c/B/) A c | A c F B | A3/ G/ F"^Chorus" d3/4 d/4 | (c3/ B/) A f3/4 f/4 | (e3/ d/) c d | (B2 G2) | F3|]
+w: Child Je- sus came to earth this day, To save us sin- ners dy- ing; And crad- led in the straw and hay, The Ho- ly One is ly- ing. The stars shone down the Child to_ greet, The low- ing ox- en kiss His feet, Hal- le lu_ jah! Hal- le lu_ jah! Child Je-_ sus.
+

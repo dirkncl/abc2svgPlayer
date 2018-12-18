@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christ! For Thee, With Sorrow Laden
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  F3/ E/ G F | A G F E | D3/ E/ (F/ A/) d | G F E2 | F3/ E/ G F | B A G F | E (F/ ^G/) A (c/ B/) | A ^G A2 | G3/ F/ A3/ G/ | B A G F | A3/ G/ B A | =c B A G | B3/ ^A/ B c | d B e d | (d/c/) (B/A/) (A/d/) (A/F/) | G E D2|]
+w: Christ! for Thee, with sor- row la- den, Born of anx-_ ious lov- ing care, Jo- seph chaste and Ma- ry mai- den, Back to_ Si- on's_ mount re- pair. On with ea- ger foot- steps pac- ing, Wear- i ness and per- il fac- ing, They Thy boy- ish foot- steps trac- ing, To_ the_ Tem-_ ple,_ find Thee there.
+

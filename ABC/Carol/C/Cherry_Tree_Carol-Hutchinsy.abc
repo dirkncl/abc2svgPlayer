@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Cherry Tree Carol
+Z: English Traditional
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G | G3/ F/ E/G/ | (F/E/) D B | c B (A/c/) | Bz B | A A (G/B/) | (A/F/) D (G/B/) | A (G/F/) E/ F/ | G2|]
+w:  Jo- seph was an old_ man, An old man was_ he; He mar- ried sweet_ Ma-_ ry, The_ Queen of_ Ga- li lee.
+

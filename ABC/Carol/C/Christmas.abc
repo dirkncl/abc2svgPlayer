@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas
+Z: Harmonia Sacra, 1812, arranged fm G. F. Handel
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Christmas"
+V: P2_2
+%%MIDI program 2 91
+K: D
+% Extracting voice 1 from part P1
+[V: P1_1]  | [DA] [Fd] c [GB] | [DA] D3/4E/4 [DF] F3/4G/4 | [DA] [DA] A [E/G/][D/F/] | [DF] [C)E)]z/ (c/d/ | e [FA] [EG] [^CG] | [DG] F/E/ [DF] d/c/ | | B A)z [(E(e] | [FA] d [DF] [CE] | D3)|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x2  E/F/ x1  | x1  C/4 x1  D | x2  D/F/ x1  | x2  A | A/G/ x3  | x1  D x1  F | | D2 x2  | x1  D3/4E/4 x2  | D3|]
+% Extracting voice 1 from part P2
+[V: P2_1]  A, | [F,A,] [D,A,] B,/C/ | [F,D] A, [D,A,] A, | |z/ E | [C,E] D/=C/ [E,B,] [A,,A,] | [D,A,] A,/G,/ [D,A,] D, | D, D/C/ [D,B,] [D,A,] | G, F,z (B,3/4C/4 | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  (D,3/4E,/4 | x2  A, G, | x1  F,3/4E,/4 x1  D,3/4E,/4 | | A,2) x0  (A,,/B,,/ | x1  D, x2  | x1  D, x1  | D, x2  | D,2 x1  G, | ||]
+

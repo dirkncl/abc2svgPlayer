@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carol, Sweetly Carol
+Z: T. E. Perkins
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  c c/ (d/c/) B/ | A3/ E A/ | G A/ B c/ | (e d/ B3/) | c c/ (d/c/) B/ | A3/ E c/ | B e/ (=d/e/) f/ | (e3/ e)z/ | e B/ (B/=A/) B/ | c3/ A c/ | e B/ (B/=A/) B/ | (c3/ c) E/ | c c/ (B/c/) d/ | e3/ d B/ | (A/G/) A/ c B/ | (A3/ A)z/"^Chorus" | e B/ (B/=A/) B/ | c3/ A3/ | e B/ B/ =A/ B/ | (c3/ c3/) | c c/ (B/c/) d/ | e3/ d B/ | (A/G/) A/ c B/ | (A3/ A)z/|]
+w: Ca- rol, sweet-_ ly ca- rol, a Sa- vior born to- day;__ bear the joy-_ ful tid- ings, O, bear them far_ a- way:_ ca- rol, sweet-_ ly ca- rol, till earth's re- mot_ est bound_ shall hear the migh-_ ty cho- rus, and e-_ cho back the sound._ Ca- rol, sweet-_ ly ca- rol, ca- rol sweet- ly to- day;_ bear the joy-_ ful tid- ings, O, bear_ them far a- way._
+

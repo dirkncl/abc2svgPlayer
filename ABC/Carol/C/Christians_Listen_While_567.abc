@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christians, Listen, While We Sing
+Z: John Martin
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: All Rights Reserved
+L: 1/4
+M: 6/8
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A A/ c A/ | (B3/4c/4) d/ c3/ | C C/ (D/E/) F/ | B3/ A3/ | A A/ c A/ | (=B/c/) d/ c3/ | c e/ (e/d/) c/ | d3/ c3/ | f c/ (c/B/) A/ | G3/ F3/|]
+w: Christ- ians, list- en, while_ we sing, (Dark, be- fore_ the dawn- ing) Prais- es to our Heav'n-_ ly King, On this Christ-_ mas morn- ing, On this Christ-_ mas morn- ing.
+

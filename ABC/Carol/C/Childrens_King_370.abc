@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Children's King
+Z: Old Melody
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/2
+Q: 1/4=360
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1] "^Chorus" G2 | G2 c2 B2 A2 | G2 (B A) G2 G2 | G2 (F E) D2 C2 | E4 D2 G2 | G2 e2 d2 ^c2 | d2 A2 B2 c2 | c2 (B A) G2 (A B) | d4 c2 |"^Verse" G2 | ^F2 (G A) G2 E2 | A2 (G F) E2 G2 | A2 G2 F2 E2 | D4 G2 G2 | ^F2 (G A) G2 E2 | A2 (G F) E2 G2 | A2 B2 c2 E2 | ^F4 G2|]
+w: The child- ren's King, the child- ren's_ King, O come let_ us a- dore Him; Our Ca- rols bring, His pra- ises sing, All kneel- ing_ low be-_ fore Him. No cour- tiers_ greet His birth a-_ wait, Though He is King of Glo- ry, But through the_ sky the an- gels_ fly To tell the wond- rous sto- ry.
+

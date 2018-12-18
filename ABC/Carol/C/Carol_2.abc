@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carol
+Z: Richard Storrs Willis, 1850
+Z: Public Domain
+L: 1/4
+M: 6/8
+V: P1_1 name="ChrchOrg"
+V: P1_2
+%%MIDI program 1 52
+V: P2_1 name="ChrchOrg-2"
+V: P2_2
+%%MIDI program 2 52
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | [Ee] [E/d/] (d/c/) [F/A/] | | (A/B/) [F/c/] (c/d/) [F/e/] | | [Ee] [E/B/] (d/c/) [F/A/] | [EG] [F/A/] [EG] G/ | [FA] [F/A/] (B/A/) [F/G/] | | [Ee] (E/^F/) [E/^G/] | | (d/c/) [G/B/] (A/B/) [F/A/] | G3/ G [F/G/] | [Ee] [E/B/] (d/c/) [F/A/] | [EG] [F/A/] [EG] G/ | [FA] [F/A/] (B/A/) [F/G/] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x1  F x0  | | F x0  ^F x0  | | x1  F x0  | x2  G/ | x1  F x0  | | x1  E/ E x0  | | G x0  ^F x0  | G3/- G x0  | x1  F x0  | x2  G/ | x1  F x0  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | [C,G,] ^G, [C,A,] [C,/B,/] | | C [A,/C/] [A,C] [D,/C/] | | | | [F,C] [D,/D/] (D/C/) [G,/B,/] | [C,3/-C3/-] [C,C] E,/ | E, [E,/^G,/] (G,/A,/) [D,/B,/] | [C,A,] [E,/^G,/] A, [C,/A,/] | (B,/E/) [D,/D/] (C/D/) [D,/C/] | | | | [F,C] [D,/D/] (D/C/) [G,/B,/] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | x1  C,/ x1  | | (F,/G,/) x2  | | | | x1  G, x0  | x2  E,/ | E, x0  E, x0  | x1  A, x0  | D, x0  D, x0  | | | | x1  G, x0  ||]
+

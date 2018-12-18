@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carazzena
+Z: Traditional Italian
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: G
+[V: P1]  G A | B B B B | B2 A A | A2 G A | B c B A | A2 B c | d B e d | c2 B2 | d d G2 | G A B c | d G A2 | G4|]
+w: Je- su, born to save the lost, At the cost Of thy life, re- ject ed, cross'd, Look up- on us, make us low- ly, Pure as thou, Pure as thou art, strong and ho- ly.
+[V: P2]  G G | G G G G | G2 F E | D2 G G | G G G E | F2 G F | D G B B | A2 G2 | G =F E2 | E F G F | D G (G F) | G4|]
+[V: P3]  B, C | D D D D | D2 D D | A,2 B, C | D E D ^C | D2 D C | B, D G G | E2 E2 | A, B, C2 | B, D D C | B, B, D2 | B,4|]
+[V: P4]  G, G, | G, G, G,, A,, | (B,, C,) D, E, | F,2 G, G, | G, G, G,, A,, | E,2 G, A, | B, G, E, G, | A,2 E,2 | D, D, C,2 | E, D, G, A, | B, E, D,2 | G,4|]
+

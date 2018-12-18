@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carol, Carol, Christians
+Z: M. Lindsay
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D F F A | A2 d2 | f d c e | d4 | d d c B | B2 A F | E E F ^G | A3 E | E A A c | c2 B B | B c d e | c4 | e e d c | f2 d c | c B F ^G | A4 |"^Chorus" D F F A | A2 d2 | f d c e | d4 | d d c B | B2 A F | F E B A | D4|]
+w: Car- ol, car- ol, Christ- ians, Car- ol joy- ful ly, Car- ol for the com- ing Of Christ's na- tiv i ty; And pray a glad- some Christ- mas For all good Christ- ian men, Car- ol, car- ol, Christ- ians, Till Christ- mas comes a- gain; Ca- rol, car- ol, Christ- ians Car- ol joy- ful ly; Car- ol for the com- ing: Of Christ's na- tiv i ty.
+

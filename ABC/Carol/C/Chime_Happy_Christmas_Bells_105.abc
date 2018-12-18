@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Chime, Happy Christmas Bells, Once More
+Z: Grundtvig / Balle
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: E
+[V: P1]  G | G2 G | E2 G | (B3/ c/) B | G2 G | A2 F | G2 (E/ F/) | (G3/ A/) G | F2 F | (F G) A | G2 G | (F G) A | G2 B | e2 G | (F3/ G/) A | E2 (D/ F/) | E2|]
+w: Chime, hap- py Christ- mas bells,_ once more, The heav'n- ly Guest is_ at_ the door, The bless-_ ed words the shep-_ herds thrill, The joy- ous tid-_ ings, "Peace, good_ will."
+

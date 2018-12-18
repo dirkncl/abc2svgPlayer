@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Children Here On Earth Who Dwell
+Z: Henry Knight
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F F/ F F/ | B c/ d3/ | d B/ (e/d/) c/ | B3/ A3/ | d c/ B =B/ | c B/ A3/ | f d/ (c/F/) B/ | G3/ F3/ | d c/ B G/ | e d/ c3/ | f e/ d B/ | (B/c/) A/ B3/|]
+w: Chil- dren here on earth who dwell, Lis- ten to_ the sto- ry, How the Lord, who loves you well, Left His throne_ of glo- ry, Com- ing down an In- fant poor, Souls to save for ev-_ er more.
+

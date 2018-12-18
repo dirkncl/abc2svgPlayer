@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Child Divine
+Z: J. F. Bridge, Jus. Doc
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  E E/ ^D E/ | F G/ F E/ | G F/ E E/ | (F/G/4) A/ B3/ | c E/ ^D E/ | F G/ F E/ | B A/ A G/ | G F/ E3/ | E E/ E F/ | =G A/ B G/ | =G G/ G B/ | =c d/ e3/ | =c c/ B B/ | B B/ B G/ | =c c/ B B/ | B B/ B3/ | c E/ ^D E/ | F G/ F E/ | G F/ E E/ | (F3/4G/4) A/ B3/ | c G/ (A3/4B/4) c/ | d A/ (B3/4^c/4) d/ | (e3/4d/4) c/ (B/F/) G/ | A3/ A3/ | A3|]
+w: List! A- far! What an- gel voi- ces Fall up- on the win-_ ter night! Earth a- mid the sound re- joic es; Broods of E- vil speed their flight. List- for aye sweet words of glad- ness Through the ge- ne ra tions roll, Calm- ing ev- 'ry mour- ner's sad- ness: "Christ is born- to save thy soul." Child Di- vine what Pow'rs are round Thee! Health to man Thy Pres-_ ence brings: Age by age_ have my- riads found_ Thee Lord_ of Lords_ and King of Kings.
+

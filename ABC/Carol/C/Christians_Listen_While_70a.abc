@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christian, Listen, While We Sing
+Z: Archdeacon Groome
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F3/ B/ A B | c c d2 | d3/ f/ B c | (A G) F2 | F3/ F/ G G | A c B2 | d f B c | A2 B2|]
+w: Christ- ians, list- en, while we sing, (Dark, be- fore the dawn-_ ing) Prais- es to our Heav'n- ly King, On this Christ- mas morn- ing,
+

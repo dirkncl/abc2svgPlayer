@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Caddo, CM
+Z: William Batchelder Bradbury (1816-1868)
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=125
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Caddo"
+V: P2_2
+%%MIDI program 2 91
+K: Ab
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | [C2A2] A/G/ | | B A [DF] | | | | | B/c/ d [Ec] | | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | x2  E | | D2 x1  | | | | | E2 x1  | | | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | G,3/ A,/ [E,G,] | | | | | | | | G,/A,/ B, [E,A,] | | | A, E, E, ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | E,2 x1  | | | | | | | | E,2 x1  | | | E,2 ||]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christians, Awake
+Z: J. Wainwright
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  C2 C D | E3 F | G E F G | A4 | G2 A B | c d e d | c2 B2 | c4 | c2 e G | A3 G | A B c d | B4 | B2 c B | A ^G A B | c2 B2 | A4 | A2 G F | E2 C2 | F E D =C | G3 G | A2 B2 | c d e d | c2 B2 | c4|]
+w: Christ- ians, a- wake, sal- ute the hap- py morn Where- on the Sav- ior of the world was born. Rise to a- dore the mys- ter y of love Which hosts of an- gels chan- ted from a- bove, With them the joy- ful tid- ings first be- gun Of God In- car nate and the Vir- gin's Son.
+

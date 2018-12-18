@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christ Was Born In Bethlehem
+Z: American Traditional
+Z: Copyright © 2006 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: G
+[V: P1]  B G B c | d3/ d/ d2 | A G A c | (B/4A/4 G) G/ G2 | (B/4A/4 G) G/ A B | c3/ c/ c c | A3/ c/ B A | G2 (G B) | d3/ d/ e g | d3 B | d3/ d/ e g | d3z/ | (B/4A/4 G) G/ B c | d3/ d/ d d | A3/ c/ B A | G2|]
+w: Christ was born in Beth- le hem, Christ was born in Beth-__ le hem, Christ__ was born in Beth- le hem, And in the man- ger laid, And_ in the man- ger laid, And in the man- ger laid, Christ__ was born in Beth- le hem, And in the man- ger laid.
+

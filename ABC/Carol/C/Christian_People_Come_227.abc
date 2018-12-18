@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christian People, Come And Listen
+Z: James C. Macy
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  c d/ c A/ | E F/ E3/ | c ^B/ c e/ | e3/ Bz/ | d c/ d B/ | F G/ F3/ | G A/ B B/ | c3/ (e e/) | d d/ (d/e/) d/ | d c/ c3/ | B B/ (B/c/) B/ | B A/ Az/ | A A/ c c/ | e F/ d d/ | c A/ c B/ | B3/ Az/ |z E/ F G/ | (c3/ c)z/ | (e3/ e3/) | (A3/ A/)z/z/|]
+w: Christ- ian peo- ple, come and sing, Hope and joy re- ceiv ing! Tell of Him who is our King, Still His words are liv- ing!_ Proud or hum-_ ble, rich or poor, Christ- mas o-_ pens wide your door. From each heart its bless- ings pour, The joy of joys is giv- ing! O Christ- mas Bells,_ Ring_ On!_
+

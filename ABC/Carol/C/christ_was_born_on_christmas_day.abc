@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: christ was born on christmas day
+L: 1/4
+M: 4/4
+V: P1 name="A"
+%%MIDI program 1 10
+V: P2 name="B"
+%%MIDI program 2 10
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: C
+[V: P1]  [Fc] [F/A/]F/- F/[F/A/] [Fc] | [F/d/][F/-c/-] [Fc] [Fc] [F/A/]F/- | F/[F/A/] [Fc] [F/d/][F/-c/-] [Fc] | [D^A] [D/A/][F/-A/-] [F/A/][E/c/] [F/A/]G/ | [F/A/][E/-G/-] [E/G/][F/A/] [Gc] [F/A/]F/- | F/[F/^A/] [F=A] [F/G/][E/G/] D/[C/A/] | [C3/F3/] [C/-F/-] [CF] [Fc] | [F/A/]F/- F/[F/A/] [Fc] [F/d/][F/-c/-] | [Fc] [Fc] [F/A/]F/- F/[F/A/] | [Fc] [F/d/][F/-c/-] [Fc] [D^A] | [D/^A/][F/-A/-] [F/A/][E/c/] [F/A/]G/ [F/=A/][E/-G/-] | [E/G/][F/A/] [Gc] [F/A/]F/- F/[F/^A/] | [FA] [F/G/][E/G/] D/[C/A/] [C-F-] | [C/F/][C/-F/-] [CF] [Fc] [F/A/]F/- | F/[F/A/] [Fc] [F/d/][F/-c/-] [Fc] | [Fc] [F/A/]F/- F/[F/A/] [Fc] | [F/d/][F/-c/-] [Fc] [D^A] [D/A/][F/-A/-] | [F/^A/][E/c/] [F/A/]G/ [F/=A/][E/-G/-] [E/G/][F/A/] | [Gc] [F/A/]F/- F/[F/^A/] [F=A] | [F/G/][E/G/] D/[C/A/] [C3/F3/] [C/-F/-] | [CF]z3|]
+[V: P2]  [F,A,] [F,/C/][F,/-A,/-] [F,/A,/][F,/C/] [F,A,] | [F,/^A,/][F,/-=A,/-] [F,A,] [F,A,] [F,/C/][F,/-A,/-] | [F,/A,/][F,/C/] [F,A,] [F,/^A,/][F,/-=A,/-] [F,A,] | [G,^A,] [G,/A,/][D,/-A,/-] [D,/A,/][C,/G,/] [D,/A,/][E,/G,/] | [F,/C/][C,/-C/-] [C,/C/][F,/C/] [E,C] [F,/C/][F,/A,/] | E,/[D,/^A,/] [F,C] [C,/C/][C,/-C/-] [C,/C/][C,/C/] | [F,3/A,3/] [F,/-A,/-] [F,A,] [F,A,] | [F,/C/][F,/-A,/-] [F,/A,/][F,/C/] [F,A,] [F,/^A,/][F,/-=A,/-] | [F,A,] [F,A,] [F,/C/][F,/-A,/-] [F,/A,/][F,/C/] | [F,A,] [F,/^A,/][F,/-=A,/-] [F,A,] [G,^A,] | [G,/^A,/][D,/-A,/-] [D,/A,/][C,/G,/] [D,/A,/][E,/G,/] [F,/C/][C,/-C/-] | [C,/C/][F,/C/] [E,C] [F,/C/][F,/A,/] E,/[D,/^A,/] | [F,C] [C,/C/][C,/-C/-] [C,/C/][C,/C/] [F,-A,-] | [F,/A,/][F,/-A,/-] [F,A,] [F,A,] [F,/C/][F,/-A,/-] | [F,/A,/][F,/C/] [F,A,] [F,/^A,/][F,/-=A,/-] [F,A,] | [F,A,] [F,/C/][F,/-A,/-] [F,/A,/][F,/C/] [F,A,] | [F,/^A,/][F,/-=A,/-] [F,A,] [G,^A,] [G,/A,/][D,/-A,/-] | [D,/^A,/][C,/G,/] [D,/A,/][E,/G,/] [F,/C/][C,/-C/-] [C,/C/][F,/C/] | [E,C] [F,/C/][F,/A,/] E,/[D,/^A,/] [F,C] | [C,/C/][C,/-C/-] [C,/C/][C,/C/] [F,3/A,3/] [F,/-A,/-] | [F,A,]z3|]
+[V: P3]  z4 | z4 | z4 | z4 |z3/z/z2 | z4 |z3z | z4 | z4 | z4 | z4 |z/z/z3 | z4 |z2z2 | z4 | z4 | z4 |z3z/z/|]
+

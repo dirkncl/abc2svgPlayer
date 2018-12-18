@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Calm On The Listening Ear Of Night
+Z: Edward J. Hopkins
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B | B (G/A/) B e | e (d/c/) B B | B (A/G/) F A | G3 B | B (G/A/) B e | e (c/B/) =A F | d (B/A/) G A | B3 B | B (F/G/) A c | c (B/A/) G G | A A B _d | c3 e | e (d/c/) B B | c (B/A/) G G | G (F/E/) E D | E3|]
+w: Calm on the_ listen- ing ear of_ night Come heaven's me-_ lo dious strains, Where wild Ju-_ de a stretch- es_ forth Her sil- ver_ man- tled plains. Ce- les tial_ choirs from courts a-_ bove Shed sac- red glor- ies there, And a- ngels,_ with their spark- ling_ lyres, Make mu- sic_ on the air.
+

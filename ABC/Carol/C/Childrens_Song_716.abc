@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Children's Song
+Z: H. F. R. Walton
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D | F2 F (F E) D | G2 G (F2 F) | D3 E3 | (D3 D2) F/ F/ | A A A (A G) F | B2 B (A2 A2) | A3 B3 | (A3 A2) (A/ A/) | A B c (d d) d | c2 B A2 =G | F3 G3 | (E3 E2) D/ E/ | F E F (A A) A | d c B (A G) F | G3 E3 | (D3 D2)|]
+w: There came a lit-_ tle Child to earth_ Long a- go;_ And the an- gels of God_ pro- claimed His birth,_ High and low.-_ _ Out in the night,_ so calm and still, Their song was heard;_ For they knew that the Child_ on Beth- le hem’s hill_ Was Christ the Lord._
+

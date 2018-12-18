@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christe, wahres Seelenlicht
+Z: "Neus geistreiches Gesangbuck," 1704
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: D
+[V: P1]  D D F F | B B ^A2 | B F G F | E E D2 | D D F F | B B ^A2 | B F G F | E E D2 | A A B B | ^G G A2 | F F B A | ^G G F2 | F F G G | E E F2 | d c B c | B ^A B2|]
+[V: P2]  B, B, C C | D E F2 | D D E D | D C A,2 | B, B, C C | D E F2 | D D E D | D C A,2 | D E D F | E E E2 | D D F F | F ^E C2 | D D B, E | D C D2 | F F F E | D (C/E/) ^D2|]
+[V: P3]  F, F, F, A, | B, B, C2 | B, B, B, A, | B, (A,/G,/) F,2 | F, F, F, A, | B, B, C2 | B, B, B, A, | B, (A,/G,/) F,2 | F, E, F, B, | B, D C2 | A, B, D C | D (C/B,/) ^A,2 | B, A, G, B, | A, A, A,2 | B, ^A, B, G, | F, F, F,2|]
+[V: P4]  B,, B,, A,, A,, | G,, G,, F,,2 | B,, B,, E,, F,, | G,, A,, D,2 | B,, B,, A,, A,, | G,, G,, F,,2 | B,, B,, E,, F,, | G,, A,, D,2 | D, C, B,, D, | E, E, A,,2 | D, B,, ^G,, A,, | B,, C, F,,2 | B,, D, E, G,, | A,, A,, D,2 | B,, F, D, E, | F, F,, B,,2|]
+
