@@ -1,0 +1,26 @@
+%%scale 1.41
+%%format dulcimer.fmt
+X:1
+T:Pig Ankle Rag
+C:traditional
+M:4/4
+L:1/8
+K:D
+%%continueall 1
+%%partsbox 1
+P:A
+|:af
+|"A7"gecA- A2 af|gecA- AABA
+|"D"dABA dABA|dBAF- F2 af
+|"A7"gecA- A2 af|gecA- AABA
+|"D"dABA dABA|dBAF- F2 A2
+|"G"BABc "E"dcde|"D"fefb- "B"bafA
+|"E"fefa- "A"af e2|"D"d6:|
+P:B
+|:cB
+|"A7"ABcA BcAB|cABc- cB A2
+|"D"ABdA BdAB|dABd- dB A2
+|"A7"ABcA BcAB|cABc- cB A2
+|"D"D2  dA BdAB|dABd- dB A2
+|"G"BABc "E"dcde|"D"fefb- "B"bafA
+|"E"fefa- "A"af e2|"D"d6:||

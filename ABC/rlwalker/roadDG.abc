@@ -1,0 +1,49 @@
+%Scale the output
+%%scale 1.010
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Road to the Isles
+C:Traditional
+L:1/8
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+P:Key of D
+|A,3/2D/2|"D"F4 "D7"A3/2F/2E3/2F/2|"G"D3/2E/2D3/2C/2 B,2 D3/2C/2
+w:A_ far croon- in is_ pull-in' me a- way As take
+w:It's by Shiel wat-_er the track is to the west, By_
+w:The blue is-lands_ are_ pull-in' me a-way Their_
+|"Bm"B,3/2G,/2B,3/2C/2 "D"D3/2E/2F/2A3/2|"A"E6 "A7"A,3/2D/2
+w:I_ wi' my cro-mak to the road. The far
+w:Ail-lort and by Mor-ar to the sea. The cool
+w:laugh-ter puts the leap up-on the lame. The blue
+|"D"F4 "D7"A3/2F/2E3/2F/2|"G"D3/2E/2D3/2C/2 B,2 G2
+w:cool-ins_ are_ put-tin' love on me, As
+w:cress-es_ I am think-in' of for pluck and
+w:is-lands_ from the Sker-ries to the Lewis wi'
+|"D"F/2A3/2F3/2D/2 "A"A,3/2C/2 E/2C3/2|"D"D2-"G"D2-"D"D2
+w:step I wi' the sun-light for my load.__
+w:brack-en for a wink on Mo-ther knee.__
+w:hea-ther ho-ney taste up-on each name.__
+|F3/2G/2|"D"A3/2A,/2 A,3/2A,/2 "D7"F3/2A,/2 A,3/2A,/2| "G"D3/2E/2D3/2C/2 B,2 D3/2C/2
+w:Sure, by Tum-mel and Loch Ran-noch and Loch-a-ber I will go, By_
+|"Bm"B,3/2G,/2B,3/2C/2 "D"D3/2E/2F/2A3/2|"A"E6 "A7"F3/2G/2
+w:hea-ther tracks wi' hea-ven in their wiles. If its
+|"D"A3/2A,/2 A,3/2A,/2 "D7"F3/2A,/2 A,3/2A,/2|"G"D3/2E/2D3/2C/2 B,2G2
+w:think-in' in your in-ner heart the brag-garts in my step, You've
+|"D"F/2A3/2F3/2D/2 "A"A,3/2C/2E/2C3/2| "D"D2-"G"D2-"D"D2||
+w:ne-ver smelt the tan-gle of the Isles.__
+K:G
+P:Key of G
+|D3/2G/2|"G"B4 "G7"d3/2B/2A3/2B/2|"C"G3/2A/2G3/2F/2 E2 G3/2F/2
+|"Em"E3/2C/2E3/2F/2 "G"G3/2A/2B/2d3/2|"D"A6 "D7"D3/2G/2
+|"G"B4 "G7"d3/2B/2A3/2B/2|"C"G3/2A/2G3/2F/2 E2 c2
+|"G"B/2d3/2B3/2G/2 "D"D3/2F/2 A/2F3/2|"G"G2-"C"G2-"G"G2
+|B3/2c/2|"G"d3/2D/2 D3/2D/2 "G7"B3/2D/2 D3/2D/2| "C"G3/2A/2G3/2F/2 E2 G3/2F/2
+|"Em"E3/2C/2E3/2F/2 "G"G3/2A/2B/2d3/2|"D"A6 "D7"B3/2c/2
+|"G"d3/2D/2 D3/2D/2 "G7"B3/2D/2 D3/2D/2|"C"G3/2A/2G3/2F/2 E2c2
+|"G"B/2d3/2B3/2G/2 "D"D3/2F/2A/2F3/2| "G"G2-"C"G2-"G"G2||

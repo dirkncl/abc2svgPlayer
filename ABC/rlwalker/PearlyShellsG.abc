@@ -1,0 +1,19 @@
+%Scale the output
+%%scale 0.99
+%%format dulcimer.fmt
+X:1
+T:Pearly Shells
+C:(somebody give me a name)
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+K:G    %(D, C)
+|B, D|+segno+"G"G4-|G2 A B|D D3-|D z "G7"G/2G/2F/2F/2|"C"E4-
+w:Pear-ly shells_ from the o-cean_ shin-ing in the sun
+|E2 F/2F/2G/2G/2|"D"A4-|A z B, D|"G"G G3-|G2 A B|"C"c c/2B/2 c c
+w:_cov-er-ing the shore;_ When I see them_ my heart tells me that I love
+|c2 G A|"G"B3 B|"D7"c A "^To Coda"F D||"G"G4|z G A G|"D"F =F ^F =F
+w:you, more than all the lit-tle pear-ly shells. For ev-'ry grain of sand up
+|F =F ^F E|"G"E D D ^C|D G A G|"D"F =F ^F3/2 E/2|F =F ^F3/2 =F/2|"C"E E F G
+w:on the beach I've got a kiss for you, and I got more left o-ver for each star that twin-kiles in the
+|"D"A2 "^D.S. al Coda"B, D||"G"+coda+G4-|G2 G A|B3 B|"D7"c A F B|"G"G4-|G3 z||
+w:blue. Pear-ly shells_ more than all the lit-tle pear-ly shells._

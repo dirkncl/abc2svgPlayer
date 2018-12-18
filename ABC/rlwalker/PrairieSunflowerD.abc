@@ -1,0 +1,16 @@
+%Scale the output
+%%scale 1.2
+%%format dulcimer.fmt
+X:1
+T:Prairie Sunflower
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+%%continueall 1
+%%partsbox 1
+|:"D"f f/2f/2 f e|d d/2d/2 d c|d c B A|B A G F
+|"A"e e/2e/2 e  d|c c c B|A B A G|"D"F4:|
+|:"D"D F A d|D F A d|"G"G B d g|G B d g
+|"A"A c e a|A c e a|"D"f f/2f/2 f "A"e|"D"d4:||
+

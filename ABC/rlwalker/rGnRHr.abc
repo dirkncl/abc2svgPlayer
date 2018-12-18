@@ -1,0 +1,173 @@
+X:1
+T:Rat GnRH receptor
+C:God
+N:GenBank/EMBL/DDBJ accession number: X68980
+H:"Molecular cloning and characterisation of the  rat  pituitary
+gonadotrophin-releasing hormone (GnRH) receptor."
+K.A. Eidne,  R.E. Sellar,  G. Couper,  L. Anderson,  P.L. Taylor.
+Molecular and Cellular Endocrinology	90, 5-9 (1992)
+M:3/4
+L:1/4
+K:C
+P:3' Untranslated Region
+A | A G A | G A C | E C G | A C E | C E E | G A A | G C C | C G E | C C E | E G G |
+ A G A | A A E \
+P:N-terminus
+||[AC,] E G | [GC,] C E | [AA,] A C |\
+[AA,] A E | [GC,] C G | [EA,] C E | [CC,] E [EG,] | [GA,] A [GC,] |
+[CA,] A G | [GA,] A [CF,] | [CA,] A A | [AA,] A E | [CE,] [A/-A,/][A/C,/][C/-D,/][C/F,/] |
+[EC,] G C | [EA,] C A | [GC,] C C | [AC,] E [CG,] | [AA,] A C |
+[AA,] A C | [AA,] G C | [AC,] E [CG,] | C C C | [CC,] E [GG,] |
+[AA,] C [AC,] | [CA,] A G | [GC,] G C | [AA,] [AC,] [G/-F,/][G/E,/] |
+[CC,] E [CG,] | C C G | [AA,] C [EC,] | [CC,] E [AG,] |
+[AA,] C [CC,] | [EC,] E [AG,] | [EA,] C E | [GC,] G A |
+[AA,] [AC,] [G/-F,/][G/E,/] | [AC,] E [CG,] | [CA,] [GE,] [AF,] |
+[GC,] E [GG,] | [AA,] C [GC,]\
+P:TM I
+|| [GC,] E [GG,] | [AA,] C [EC,] |
+[ED,] E [CC,] | [ED,] E [CC,] | [CC,] E [EG,] | [ED,] E [CC,] |
+[CC,] E [AG,] | [CC,] E [CG,] | [EA,] C E | [AA,] C [EC,] |
+[GC,] C C | [ED,] E [CC,] | [AA,] A E | [GC,] C C | [EA,] C E |
+[ED,] E [CC,] | [EC,] E [GG,] | [GC,] E [AG,] \
+P:IL 1
+|| [AA,] [AC,] [G/-F,/][G/E,/] |
+[CC,] E [GG,] | [CA,] A G | [AA,] [GE,] [GF,] | [ED,] [GC,] [GA,] |
+[AA,] C [CC,] | [CA,] A G | [AA,] [AC,] [G/-F,/][G/E,/] |
+[AA,] [GE,] [GF,] | [AA,] [AC,] [G/-F,/][G/E,/] | [AA,] [AC,] [A/-F,/][A/E,/] |
+[GC,] G A | [AA,] [AC,] [A/-F,/][A/E,/] | [AA,] [AC,] [G/-F,/][G/E,/] |
+[CC,] E [CG,] | [EA,] C A | [AA,] [GE,] [GF,] | [AC,] E G |[AA,] [AC,] [G/-F,/][G/E,/] |
+P:TM II
+|| [GC,] E [GG,] | [CC,] E [EG,] |
+[EC,] E [AG,] | [AA,] [AC,] [G/-F,/][G/E,/] | [CE,] [A/-A,/][A/C,/][E/-D,/][E/F,/] |
+[EC,] E [GG,] | [AA,] C [CC,] | [EC,] E [AG,] | [GC,] C C |
+[AA,] A C | [CC,] E [CG,] | [CC,] E [EG,] | [GA,] A [GC,] |
+[AA,] C [EC,] | [CC,] E [AG,] | [AC,] E [CG,] | [GC,] E [CG,] |
+[AC,] E G | C C G | [CC,] E [GG,] |\
+P:EL I
+|| [GA,] A [EF,] | [GC,] G G |
+[AC,] E G | [ED,] [GC,] [GA,] | [AA,] A C | [AC,] E [CG,] |
+[AA,] C [EC,] | [GC,] E [EG,] | [CA,] A G | [ED,] [GC,] [GA,] |
+[ED,] [AC,] [EA,] | [GC,] C E | [GC,] G A | [GA,] A [GC,] |
+[ED,] E [CC,] | [CC,] E [EG,] | [EC,] G C | [AA,] [AC,] [A/-F,/][A/E,/] ||
+P:TM III
+[GC,] E [EG,] | [CC,] E [CG,] | [AA,] G C | [ED,] [AC,] [EA,] |
+[CC,] E [GG,] | [AA,] [AC,] [G/-F,/][G/E,/] | [CC,] E [CG,] |
+[ED,] E [CC,] | [EA,] C E | [AC,] E G | [ED,] [AC,] [EA,] |
+[GC,] C C | C C A | [GC,] C C | [ED,] E [CC,] | [AC,] E G |
+[AC,] E G | [GC,] E [GG,] | [GC,] E [GG,] | [AC,] E [EG,] ||
+P:IL II
+[AA,] G C | [CC,] E [GG,] | [GA,] A [EF,] | [CA,] [GE,] [CF,] |
+[EA,] C C | [CC,] E [GG,] | [GC,] C C | [GC,] E [CG,] |
+[AA,] C [EC,] | [CA,] A G | C C C | [EC,] E [AG,] | [GC,] C E |
+[GC,] E [CG,] | [CA,] A A | [AA,] G C | [AA,] [AC,] [G/-F,/][G/E,/] |
+[AA,] G C | [AA,] [AC,] [G/-F,/][G/E,/] | [CC,] E [EG,] |
+[GA,] A [AC,] | [CA,] [GE,] [GF,] | [EA,] C E | [AC,] E G |
+[AA,] C [CC,] | [AA,] G C | [CC,] E [GG,] | [GC,] C C |
+[ED,] [GC,] [GA,] \
+P:TM IV
+|| [AC,] E [EG,] | [CC,] E [CG,] | [AA,] G C |
+[AC,] E [EG,] | [GC,] E [CG,] | [ED,] E [EC,] | [GC,] C G |
+[GC,] G A | C C A | [CA,] A G | [EC,] E [AG,] | [ED,] [AC,] [EA,] |
+[AC,] E [CG,] | [ED,] E [CC,] | [AA,] [GE,] [GF,] | [AC,] E G |
+[AC,] E [CG,] | [ED,] [AC,] [CA,] | [CC,] E [AG,]\
+P:EL II
+|| [GC,] E [CG,] |
+[GA,] A [CF,] | [GC,] G C | [EA,] C E | [GC,] G G | C C A |
+[GC,] C A | [GC,] E [EG,] | [ED,] E [CC,] | [EA,] C G |
+[CA,] A A | [EC,] G E | [GC,] E [GG,] | [AA,] C [CC,] |
+[CE,] [A/-A,/][A/C,/][C/-D,/][C/F,/] | [EC,] G C | [AA,] G C |
+[ED,] E [EC,] | C C G | [CA,] A A | [ED,] [GC,] [GA,] |
+[ED,] [GC,] [GA,] | [CE,] [A/-A,/][A/C,/][E/-D,/][E/F,/] |
+[GA,] A [AC,] | [GC,] C C | [ED,] E [CC,] | [ED,] [AC,] [CA,] |
+[AA,] A C \
+P:TM V
+|| [ED,] E [EC,] | [ED,] E [CC,] | [AA,] C [CC,] |
+[ED,] E [CC,] | [AA,] G C | [EC,] G C | [CC,] E [GG,] |
+[ED,] E [CC,] | [AC,] E [CG,] | [AC,] E [CG,] | C C E |
+[CC,] E [EG,] | [CC,] E [CG,] | [AC,] E [CG,] | [AC,] E G |
+[CC,] E [AG,] | [AC,] E [CG,] | [EC,] G C | [AA,] A E |
+[GC,] C C \
+P:IL III
+|| [AA,] [AC,] [A/-F,/][A/E,/] | [AC,] E [CG,] |
+[AC,] E [CG,] | [ED,] E [CC,] | [GC,] C C | [CC,] E [CG,] |
+[AA,] C [AC,] | [CA,] [GE,] [AF,] | [GC,] E [CG,] | [CC,] E [EG,] |
+[CE,] [A/-A,/][A/C,/][E/-D,/][E/F,/] | [CA,] A G | [GA,] A [CF,] |
+C C A | [CA,] [GE,] [CF,] | [AA,] [AC,] [A/-F,/][A/E,/] |
+[CC,] E [AG,] | [CA,] A G | [CC,] E [GG,] | [AA,] A E |
+[CA,] A A | [EA,] C C | [AA,] [AC,] [G/-F,/][G/E,/] | [AA,] A E |
+[AA,] A E | [AC,] E [CG,] | C C A | [AA,] [GE,] [AF,] |
+[GC,] C A | [CA,] [GE,] [GF,] | [CC,] E [GG,] | [AA,] [GE,] [AF,] |
+[AA,] C [EC,] | [CC,] E [AG,] | [AA,] [AC,] [G/-F,/][G/E,/] |
+[AC,] E G | [AA,] C [AC,] | [GC,] E [GG,] | [GC,] C A |
+[ED,] E [EC,] | [GC,] G C | [AA,] C [CC,] | [EA,] C C |
+[ED,] E [EC,] | [GC,] E [CG,] | [AC,] E [CG,] | [EC,] G C |
+[ED,] [GC,] [GA,] | [AA,] C [EC,] \
+P:TM VI
+|| C C C | [ED,] [AC,] [CA,] |
+[ED,] [AC,] [CA,] | [GC,] E [CG,] | [CC,] E [AG,] | [GC,] G A |
+[AC,] E [CG,] | [ED,] [GC,] [GA,] | [ED,] [AC,] [CA,] |
+[ED,] [GC,] [GA,] | [ED,] E [EC,] | [GA,] A [EF,] | C C G |
+[GA,] A [AC,] | [AC,] E G | [EC,] E [AG,] | [AA,] A C |
+[AA,] [GE,] [GF,] | [GC,] E [GG,] \
+P:EL III
+|| [EA,] C A | [GA,] A [GC,] |\
+C C A | [GC,] E [CG,] | [AA,] A E | [CE,] [A/-A,/][A/C,/][C/-D,/][C/F,/] |
+[ED,] E [CC,] | [ED,] E [CC,] | [ED,] E [EC,] | [CC,] E [CG,] ||
+P:TM VII
+[ED,] E [EC,] | [GC,] G E | [ED,] E [EC,] | [CC,] E [AG,] |
+[AA,] A C | C C G | [EC,] G C | [ED,] E [CC,] | [GA,] A [CF,] |
+C C A | [CC,] E [EG,] | [AC,] E [AG,] | [ED,] [AC,] [EA,] |
+[GC,] G G | [ED,] [AC,] [EA,] | [ED,] E [CC,] | [EA,] C E |
+P:5' Untranslated Region
+E E G | G G A | G A C | E A C | C C A | A G C | A C E | E G E |
+G C E | G A A | A C C | C A E | A E A | C G G | G A E | A A C |
+E E A | E G E | C A C | C G G | E E G | A G A | A E A | A G C |
+E C A | A A G | C E E | G C A | A C A | E A C | C E A | E G E |
+G C A | A G C | A A G | G C A | G G G | E E E | G G G | C E C |
+A G G | E E A | G C A | G C C | E E G | E C C | A E A | E A C |
+A G A | G E E | E G E | E G E | E A G | C G C | E E C | G G A |
+A G A | C C E | E C C | A A A | A E A | A C E | G A A | A E C |
+E G E | C C E | E A A | E C A | E A A | G C E | E C E | A A A |
+C E A | G C C | E C A | G C C | E E G | E C E | C A E | G E E |
+E E A | E E G | C A E | C C C | A E E | E G G | G A E | E C E |
+E E A | C E E | C C E | C C E | E A C | A E A | A E A | A E G |
+E A E | A G A | E A C | E E E | A A A | E G A | C E A | C A E |
+C C E | A A G | G E A | A A A | A G E | A C C | A A A | A A G |
+E A A | G A C | C G G | G A A | A G C | C C A | A C A | E A E |
+E C A | C A A | C A E | C A G | C E E | A G E | E E G | G G G |
+A G E | E G G | E E E | E E E | E E E | C E C | A A A | G G G |
+G G C | E G A | G C A | E C E | A E A | A C A | C C C | C A E |
+C C C | A A C | A C C | E A G | A G C | C C A | C A G | A G A |
+G C A | G A A | E C G | C E G | C C C | A E A | G A E | C A E |
+C A G | C A A | A A C | C A G | A E G | C E G | C E C | C A A |
+G A C | C E A | A A G | C C C | A G A | G A C | A G A | A G G |
+A E C | C C E | G E C | C A G | A G G | E E A | G C A | G G A |
+A A E | A C E | G G C | E G A | C A C | E A E | C C C | A G C |
+C E A | A G G | C A C | A G A | G A E | A E E | A C G | C E C |
+C C E | C A C | E G C | C C A | E A G | G E C | A G C | A G C |
+A G E | A G C | A G C | E G A | E G E | E A E | C E A | E C C |
+C A G | C C E | A G A | G C A | C A G | A C A | G A A | G A G |
+A A E | C A C | E G E | C C A | E G G | G E C | A A A | E E E |
+E A A | C E G | C A A | E G A | C E G | A A A | G A C | E E A |
+A E E | E E C | E A E | E E E | A C E | E E A | A A A | G C C |
+E E E | C E G | A E E | C E E | A E E | C A G | C A A | C A A |
+A E C | C A C | C A G | C C C | A C C | A G G | A E E | A E E |
+E A C | A E G | A E A | C A A | A E E | A A E | C C C | A E E |
+E A C | A E G | C E A | C A E | E G C | G A C | A C A | E C C |
+C E A | C A E | A G E | G G G | G G E | A E E | E A A | A A G |
+G G A | E A G | G E E | E E E | E E E | C A E | G G G | C E G |
+E E A | G A A | E A E | E E C | A C A | G A C | E A E | A C A |
+A C A | E G E | G G G | G E E | E A E | G E C | A A C | E G A |
+C E G | C C A | E G A | A E A | G E G | E E E | E A A | E A E |
+A A E | E C A | G A A | A A E | G C C | E A E | A A E | A A E |
+E A E | C E E | G C A | A G C | A E A | A E A | E A C | A A E |
+C C A | C E E | E A A | C A A | E A E | G G E | G G A | A C G |
+E E E | G E C | E A E | C E E | A E C | E E G | C C G | A G E |
+C A E | G C C | C C A | C A G | A E A | A A E | G A G | G A A |
+A G E | C A A | E A A | A A C | A G E | A A G | C A A | A E A |
+E A E | A A A | C A C | C A A | G A G | G G G | C E E | E G A |
+E G E | A E E | A A A | G G A | G C E | C A A | G G C | A G G |
+A A G | C C A | E A C | A A E | E E C | C C C | E A E | A E A |
+G A C | C A A | C A G | C A C | A G A | A E A | E E A | G G G |
+A G G | A G A | A E A | A E A | A A A | C E G | E A C | A E G |
+E G A | A A A | A A A | A A z ||

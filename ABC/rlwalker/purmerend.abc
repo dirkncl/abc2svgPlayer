@@ -1,0 +1,43 @@
+%Scale the output
+%%scale 1.150
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 20pt %between systems
+%%sysstaffsep 20pt %between staves of a system
+     %!HARMONY ABC @
+     %Harmony/Melody File to ABC Vers 3.0.5 April 1998-December 2010
+     %Written by Guillion Bros. on a Chris Walshaw format
+     %Please e-mail us your comments and bugs reports : didier@myriad-online.com
+     %Zaterdag 4 Februari 2012 15:53:36
+X:1     %Music
+T:Henriks Mazurka     %Tune name
+C: Henrik Holm, 1983     %Tune composer
+%N:     %Tune infos
+Q:1/4=120     %Tempo
+V:1     %
+     %!STAVE 0 '' @
+     %!INSTR '...' 0 0 @
+M:3/4     %Meter
+L:1/8     %
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:C % =C =D =E =F =G =A =B
+P:A
+"C"c3/2e/ .g.g .g.g |g/^f/a/f/ ge cc |"Bb"_B2 d B2 d |"C"c2 G4 |
+"C"c3/2e/ .g.g .g.g |g/^f/a/f/ ge cc |"Bb"_B2 d B2 d |c2 "^fine"c4 :|
+P:B
+"C"e3/2e/ c2 G2 |e3/2e/ c2 G2 |(3"G"fgf (3efe (3ded|"C"c c2|
+"C"e3/2e/ c2 G2 |e3/2e/ c2 G2 |"G"(3fgf (3efe (3ded |"C"c2 (c2 "E7"B2) |
+P:C
+"Am"A2 A3/2B/ c3/2e/ |a2 ae c2 |"D"d2 d3/2^f/ ab |"E"^g2 ^fg e2 |
+"Am"a2 a3/2e/ c3/2e/ |"D"A2 Ac "Dm"Bc |
+M:2/4     %Meter
+L:1/16     %
+"C"A4 "^da capo al fine"A4 |
+     %End of file

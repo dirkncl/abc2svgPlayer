@@ -1,0 +1,52 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Puff The Magic Dragon
+C:Peter Yarrow and Leonard Lipton
+M:C|    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+P:A Verses
+|:"G" G z/2 G/2 G G|"Bm"F2 D z|"C"E3/2 G/2-G G|"G"D2 z D
+w:1~Puff, the mag-ic drag-on Lived by_ the sea, And
+w:2~ge-ther they would tra-vel~on~a boat~with bil-_lowed sail._
+w:3~drag-on lives for-ev-er~but not~so lit-_tle boys;_
+w:4~head was bent in sor-row; green~scales fell_ like rain._
+|"C"C/2 C D/2-D C|"G"B,/2 D G/2-"Em"G G/2G/2|"A"G E F/2 G A/2-|"D"A3 z
+w:fro-licked in_ the Au-tumn mist_ in a land called Ho-nah-lee._
+w:Jack-ie kept_ a look-out perched_ on_ Puff's gi-gan-tic tail._
+w:Paint-ed wings_ and gi-ant rings_ make_ way for oth-er toys._
+w:Puff no long-_er went to play_ a-_long the cher-ry lane. With
+|"G"G/2 G G/2-G/2 G F/2-|"Bm"F/2 D3/2-D2|"C"E E G G|"G"D z z D
+w:Lit-tle Jack-_ie Pa-_per_ loved that ras-cal, Puff. And
+w:No-ble kings_ and prin-_ces would bow  when e'er they came._
+w:One grey night_ it hap-_pened, Jackie Pa-per came no more, And
+w:out his life-_long friend,___ Puff could not be brave, So
+|"C"C/2 C D/2-D C|"G"B,/2 D G/2-"Em"G z/2 G/2|"A7"E/2 G F/2-"D"F A|"G"G z "D7"F z
+w:brought him string_ and seal-ing wax_ and oth-er fan-_cy stuff. Oh,
+w:Pir-ate ships_ would low'r their flag,_ when Puff roared out_ his name. Oh,
+w:Puff that might-_y drag-_on,_ He ceased his fear-_less roar. Oh,
+w:Puff that might-_y drag-_on,_ sadly slipped in-to_ his cave. Oh,
+P:B Chorus
+|"G"G z G/2 G G|"Bm"F2 D z|"C"E3/2 G/2-"C"G G|"G"D2 z D
+w:Puff, the mag-ic drag-on lived by_ the sea, and
+|"C"C/2 C D/2-D C|"G"B,/2 D G/2-"Em"G G/2G/2|"A"G E F/2 G A/2-|"D"A3 z
+w:frol-icked in_ the Au-umn mist_ in a land called Ho-nah-lee._
+|"G"G z/2 G/2 G G|"Bm"F2 D z|"C"E3/2 G/2-G G|D2 z D
+w:Puff, the mag-ic drag-on lived by_ the sea, and
+|"C"C/2 C D/2-D C|"G"B,/2 D G/2-"Em"G G/2G/2
+w:frol-icked in_ the Au-tumn mist_ in a
+|1,2,3 "A7"E G "D7"F A|"G"G2 "D7"z z/2 A/2:|4 "A7"E2 G2|"D"F2 A2|"G"G4-G2 z2||
+w:land called Ho-nah-lee. To- land called Ho-Nah-Lee._

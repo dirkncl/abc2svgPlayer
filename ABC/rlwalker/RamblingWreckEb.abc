@@ -1,0 +1,39 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Rambling Wreck From Georgia Tech
+C:Frank Roman
+M:6/8    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Eb    %(D, C)
+|GF
+w:Oh,_
+|:"Eb"E2 E E2 "Bb7"F|"Eb"G2 G GFE|"Bb7"FGF E2 D|"Eb"E3-E2 F|GGG GG"Bb7"A
+w:if I had a daugh-ter, sir,_ I'd dress her in white and gold._ And take_ her on_ the
+w:wish I had a barr'l of rum and of sug-ar three thou-sand pounds,_ A col-_lege bell_ to
+w:Ramb-ling Wreck from Geor-gia Tech and a heck of an en-gin-eer,_ A heck of a heck of a
+|"Eb"B-BB B-B"Ebm"B|"Bb"BFF "F7"F2 F|"Bb"F3-"F7"F-"Bb"F B|"Ab"cBA cBA|"Ebdim"c e2-edc
+w:camp-_us, sir,_ to cheer _the brave and bold,__ But if_ I had_ a son, sir,_ I_
+w:put it in, and_ a clap-per to stir it 'round,__ I'd drink_ to ev-_'ry fel-low,_ who_
+w:heck of a heck of a  heck of an en-gin-eer,__ like all_ good jol-_ly fel-lows_ I_
+|"Eb"BAG BAG|"Bb7"B2 z G2 F|"Eb"E2 E E2 "Bb7"F|"Eb"G2 G GFE|"Bb7"FGF E2 D
+w:tell_ you what_ he'd do. He would yell "to heck with Geor-gia" like_ his dad-_dy used to
+w:comes_ from far_ and near, I'm a Ramb-ling Wreck from Geor-gia Tech and a heck of an en-gin-
+w:drink_ my whis-_key clear. I'm a Ramb-ling Wreck from Geor-gia Tech and a heck of an en-gin-
+|1,2 "Eb"E3 z GF:|3 "Eb"E3-Ezz||
+w:do. I_ 
+w:eer. I'm a
+w:| eer._
+

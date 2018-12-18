@@ -1,0 +1,136 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Richmond is a Hard Road to Travel
+T:(melody like Jordan Is A Hard Road To Travel)
+M:2/4
+L:1/8
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+| AA| d3/2 d/2 dd| c2 AA| d3/2 d/2 dd| c2 AA| dd dd| dB ed| cA z2| AA
+| d3/2 d/2 dd| c2 A2| BB BB| A2 FF| GG GG| EE AA| FD z2| z2 A2| d3/2 d/2 dd
+| c2 A2| d3/2 d/2 dd| c2 AA| dd dd| dB ed| cA z2| z2 A2| d3/2 d/2 dd
+| c2 AA| B3/2 B/2 BB| A2 F2| GG GG| E2 AA| FD z2| z2 z A| D D2 E| F2 A2
+|(G F) GB| A2 z A| DC DE| F2 AF| GE z2| z2 z A| D D2 E| F2 A2|G-F GB
+| d3 d| cA AA| A2 AB| AF EF| D2 z2||
+
+Richmond is a Hard Road to Travel
+(words, anonymous; tune Daniel Decatur Emmett)
+
+Would you like to hear my song? I'm afraid it's rather long
+Of the famous "On to Richmond" double trouble,
+Of the half-a-dozen trips and half-a-dozen slips
+And the very latest bursting of the bubble.
+'Tis pretty hard to sing and like a round, round ring
+'Tis a dreadful knotty puzzle to unravel;
+Though all the papers swore, when we touched Virginia's shore
+That Richmond was a hard road to travel.
+     Then pull off your coat and roll up your sleeve,
+     Richmond is a hard road to travel,
+     Then pull off your coat and roll up your sleeve,
+     Richmond is a hard road to travel, I believe.
+
+First, McDowell, bold and gay, set forth the shortest way,
+By Manassas in the pleasant summer weather,
+But unfortunately ran on a Stonewall, foolish man,
+And had a "rocky journey" altogether;
+And he found it rather hard to ride o'er Beauregard,
+And Johnston proved a deuce of a bother,
+And'twas clear beyond a doubt that he didn't like the route,
+And a second time would have to try another.
+     Then pull off your coat and roll up your sleeve,
+     For Manassas is a hard road to travel;
+     Manassas gave us fits, and Bull Run made us grieve,
+     For Richmond is a hard road to travel, I believe!
+
+Next came the Wooly-Horse,* with an overwhelming force,
+To march down to Richmond by the Valley,
+But he couldn't find the road, and his "onward movement" showed
+His campaigning was a mere shilly-shally.
+Then Commissary Banks, with his motley foreign ranks,
+Kicking up a great noise, fuss, and flurry,
+Lost the whole of his supplies, and with tears in his eyes,
+From the Stonewall ran away in a hurry.
+     Then pull off your coat and roll up your sleeve,
+     For the Valley is a hard road to travel;
+     The Valley wouldn't do and we all had to leave,
+     For Richmond is a hard road to travel, I believe!
+
+Then the great Galena came, with her portholes all aflame,
+And the Monitor that famous naval wonder,
+But the guns at Drury's Bluff gave them speedily enough,
+The loudest sort of reg'lar Rebel thunder.
+The Galena was astonished and the Monitor admonished,
+Our patent shot and shell were mocked at,
+While the dreadful Naugatuck, by the hardest kind of luck,
+Was knocked into an ugly cocked hat.
+     Then pull off your coat and roll up your sleeve,
+     For James River is a hard road to travel;
+     The gun-boats gave it up in terror and despair,
+     For Richmond is a hard road to travel, I declare!
+
+Then McClellan followed soon, both with spade and balloon
+To try the Peninsular approaches,
+But one and all agreed that his best rate of speed
+Was no faster than the slowest of  "slow coaches. "
+Instead of easy ground, at Williamsburg he found
+A Longstreet indeed, and nothing shorter,
+And it put him in the dumps, that spades wasn't trumps,
+And the Hills he couldn't level "as he orter."
+     Then pull off your coat and roll up your sleeve
+     For Longstreet is a hard road to travel -
+     Lay down the shovel, and throw away the spade
+     For Richmond is a hard road to travel, I'm afraid!
+
+Then said Lincoln unto Pope,  "You can make the trip, I hope
+I will save the Universal Yankee nation,
+To make sure of no defeat, I'll leave no lines of retreat,
+And issue a famous proclamation."
+But that same dreaded Jackson, this fellow laid his whacks
+And made him, by compulsion, a seceder,**
+And Pope took rapid flight from Manassas' second fight,
+'Twas his very last appearance as a leader.
+     Then pull off your coat and roll up your sleeve,
+     For Stonewall is a hard road to travel;
+     Pope did his very best, but was evidently sold,
+     For Richmond is a hard road to travel, I am told!
+
+Last of all the brave Burnside, with his pontoon bridges, tried
+A road no one had thought of before him,
+With two hundred thousand men for the Rebel slaughter pen
+And the blessed Union flag waving o'er him;
+But he met a fire like hell, of canister and shell,
+That mowed his men down with great slaughter,
+'Twas a shocking sight to view, that second Waterloo,
+And the river ran with more blood than water.
+     Then pull off your coat and roll up your sleeve,
+     Rappahannock is a hard road to travel;
+     Burnside got in a trap, which caused him for to grieve
+     For Richmond is a hard road to travel, I believe!
+
+We are very much perplexed to know who is the next
+To command the new Richmond expedition,
+For the Capital must blaze, and that in ninety days,
+And Jeff and his men be sent to perdition.
+We'll take the cursed town, and then we'll burn it down,
+And plunder and hang up each cursed Rebel;
+Yet the contraband was right when he told us they would fight
+"Oh, yes, massa, they fight like the devil!"
+     Then pull off your coat and roll up your sleeve,
+     For Richmond is a hard road to travel;
+     Then pull off your coat and roll up your sleeve,
+     For Richmond is a hard road to travel, I believe!
+
+*General Fremont
+**The Battle of Cedar Run
+From Songs of the Civil War, Silber
+tune: Jordan is a Hard Road to Travel
+RG

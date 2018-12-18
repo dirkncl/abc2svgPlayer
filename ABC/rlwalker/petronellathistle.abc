@@ -1,0 +1,26 @@
+%%scale 1.35
+X:1
+T:Petronella
+C:Traditional Scottish
+M:4/4
+L:1/8
+K:D
+|:"^Part A"dA
+|"D"F2AF "A7" E2AE
+|"D"D2 D4 FA
+|"D"d2cd "G" e2d2
+|"A"cd Bc A2 dA
+|"D"F2AF "A7" E2AE
+|"D"D2 D4 FA
+|"D"d2cd "A7" e2c2
+|"D"d2 d2 ed:|
+|:"^Part B"dA
+|"D"F2fd A2af
+|"Em"g2gf edcB
+|"A7"A2ec A2ge
+|"D"f2 f4 fd
+|Ad AF D2 af
+|"Em"g2 gf ed cB
+|"A7"A2 ec Ag ec
+|"D"d2 d4:||
+

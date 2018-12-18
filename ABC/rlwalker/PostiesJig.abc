@@ -1,0 +1,56 @@
+X: 0
+T: Posties' Jig
+T: 4x32J4
+R: jig
+O: Ormskirk 5
+K: D
+
+X: 1
+P: the Cardiff Caledonians
+C: Rob Gordon
+R: jig
+B: Ormskirk 5
+Z: 1997 by John Chambers <jc@trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: D
+ A \
+|: "D"{ABc}dz2 D3 | "A7"EFE "D"D3 | "Em"E2E e2d | "A7"cBA gfe \
+ | "D"dz2 D3 | "A7"EFE "D"D2F | "G"G2B "D"A2d | "A7"cBc "D"d2z :|
+|| "A7"e3 A3 | ABc "D"d3 | "G"B2g "D"A2F | "Em"GEE "A7"E2A \
+ | "A7"e3 A3 | ABc "D"d2F | "G"G2B "D"A2d | "A7"cBc "D"dcd ||
+|| "A7"e3 A3 | "D"dfe d3 | "G"B2g "D"A2F | "Em"GEE "A7"E2A \
+ | "D"dz2 D3 | "A7"EFE "D"D2F | "G"G2B "D"A2d | "A7"cBc "D"d2z |]
+
+X: 2
+P: Hundred Pipers
+R: jig, march
+O: trad Scotland
+B:
+D:
+Z: John Chambers <jc@trillian.mit.edu>
+N: (*) G chords give even more "bagpipey" version.
+M: 6/8
+L: 1/8
+K: G
+|: GA \
+| "G"B2D D>ED | "C"E2G G2e | "G"d2B "Em"B>AG | "Am"B2A "D7"A>GA \
+| "G"B2D D>ED | "C"E2G G2e | "G"d2B "D7"A>GA | "G"G3- G :|
+|: Bc \
+| "G"d2d dBd | "C"e2g gfe | "G"d2B "Em"B>AG | "Am"B2A "D7"ABc \
+| "G"d2d dBd | "C"e2g gfe | "G"d2B "D7"A>GA | "G"G3- G :|
+
+X: 3
+P: the Stool of Repentance
+N: The title refers to the "dunking chair" that was used to punish
+N: people in some parts of the British Isles and New England.
+R: Jig
+Z: John Chambers <jc@trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: A
+|: {efg}"A"a2e c2e | agf edc | "Bm"aff f2e | "D"fag "E7"f2e \
+| "A"a2e c2e | agf edc | "D"d2e f2e | "E7"f<ac "A"B2A :|
+|: "A"cAA eAA | cAc edc | "Bm"dBB fBB | dBd "E7"fed \
+| "A"cAA eAA | cAc edc | "D"d2e f2e | "E7"f<ac "A"B2A :|
+

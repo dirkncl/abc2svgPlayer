@@ -1,0 +1,25 @@
+%Scale the output
+%%scale 0.98
+%%format dulcimer.fmt
+X:1
+T:Pass Me Not, O Gentle Savior
+C:Tune: William H Doane, 1870; Lyrics: Frances J Crosby, 1868; Genesis 18:3
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|"D""^Verses"F3/2 E/2 "G"D3/4C/4 D3/4B,/4|"D"A,2 D2|"A"E3/2 E/2 D E|"D"F4\
+w:1~Pass me not, O gen-tle Sav-ior, Hear my hum-ble cry;
+w:2~Let me at a throne of mer-cy. Find a sweet re-lief;
+w:3~Trust-ing on-ly in Thy mer-it, Would I seek Thy face;
+w:4~Thou the spring of all my com-fort, More  than life to me,
+|"D"F3/2 E/2 "G"D3/4C/4 D3/4B,/4|"D"A,2 D2|"A"E3/2 D/2 F E|"D"D4||\
+w:While on oth-ers Thou are call-ing, Do not pass me by.
+w:Kneel-ing there in deep con-tri-tion, Help my un-be-lief.
+w:Heal my wound-ed, bro-ken spir-it, Save me by Thy grace.
+w:Whom have I on earth be-side Thee, Whom in Heav'n but Thee.
+|"D""^Chorus"A2 F2|("G"E3/2 D/2) B,2|"D"A, D F D|"G"E2-"A"E2\
+w:Sav-ior, Sav-_ior, Hear my hum-ble cry,
+|"D"F3/2 E/2 "G"D3/4C/4 D3/4B,/4|"D"A,2 D2|"A"E3/2 D/2 F E|"D"D4||
+w:While on oth-ers Thou are call-ing, Do not pass me by.
+

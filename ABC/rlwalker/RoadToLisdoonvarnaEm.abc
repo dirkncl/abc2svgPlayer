@@ -1,0 +1,34 @@
+%Scale the output
+%%scale 1.10
+%%format dulcimer.fmt
+X:1
+T:Road to Lisdoonvarna
+T:(Jig)
+C:Traditional (E Dorian)
+M:6/8
+L:1/8
+Q:1/2=55
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:E dorian
+P:A
+|D
+|:"Em"E2 B B2 A
+|B2 c d2 A
+|"D"F2 G ABA
+|D2 E FED
+|"Em"E2 B B2 A
+|B2 c d2 d
+|"D"cdc B2 A
+|1 "Em"B2 E E2 D:|2 "Em"B2 E E3||
+P:B
+|:"Em"e2 f gfe
+|"Bm"d2 B Bcd
+|"A"c2 A ABc
+|"Bm"d2 B B2 B
+|"Em"e2 f gfe
+|"Bm"d2 B Bcd
+|"A"cdc B2 A
+|1 "Em"B2 E E2 E:|2 "Em"B2 E E2||

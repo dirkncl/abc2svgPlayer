@@ -1,0 +1,50 @@
+%Scale the output
+%%scale 1.100
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Raglan Road
+C:Poem: Patrick Kavanagh; Music: Dawning of the Day, The
+M:C    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+|:(D/2E/2)
+w:1~On_
+w:2~On_
+w:3~I_
+w:4~On a
+|"D"F3 F|F3 E/2F/2|"D7"A3 A|"G"B3 (A/2F/2)|"D"D3 (F/2E/2)
+w:Rag-lan Road on an au-tumn day I_ saw her_
+w:Graf-ton Street in No-vem-ber we tripped_ light-ly a-
+w:gave her gifts__ of the mind, I_ gave her_ 
+w:qui-et street where_ old ghosts meet, I_ see her_ 
+|"G"D3 D|"D"D4-|D2 z A|"Bm"B3 A|"G"B3 d|"D"F3 E
+w:first and knew,_ that her dark hair would weave a
+w:long the ledge_ of a~deep ra-vine where can be
+w:se-cret signs_ That's known to the~art-ists who have 
+w:walk-ing now,_ A-way from me so hur-ried-
+|D3 (F/2G/2)|A3 F|d3 F|"A"E4-|E2 z A|"Bm"B3 A|"G"B3 d
+w:snare that_ I might one day rue._ I saw the dan-ger,
+w:seen the_ worth of pas-sion play,_ The Queen of hearts still
+w:known the true gods of sound and stone,_ And her~words and tint with-
+w:ly my_ rea-son must al-low,_ That I had loved not
+|"D"F3 E|D3 A|A3 G/2F/2|d3 F|"A7"E4-|E2 z (D/2E/2)|"D"F3 F
+w:and I passed a-long the en-chan-ted way,_ And I said, let
+w:mak-ing tarts and I not_ mak-ing hay;_ Oh, I loved too
+w:out_ stint, I gave her_ poems to say,_ With her own name
+w:as I should A crea-ture_ made of clay;_ When the an-gel
+|F3 E/2F/2|"D7"A3 A|"G"B3 A/2F/2|"D"D3 (F/2E/2)|"G"D3 D|"D"D4-|D2 z:|
+w:grief be a fal-len leaf at the dawn-ing_ of the day._
+w:much and by such and such is_ hap-pi-ness thrown a-way._
+w:there and her own dark hair Likle_ clouds o-ver fields of May._
+w:woos the_ clay he'll lose His_ wings at the dawn of day._

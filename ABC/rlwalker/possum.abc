@@ -1,0 +1,11 @@
+%%scale 1.24
+%%format dulcimer.fmt
+X:1
+T:Possum Up A Gum Stump #130
+M:4/4
+L:1/4
+K:D
+|:"^A"F/2E/2||"D"D D/2E/2 F F|"G"G G B B|"D"A A/2B/2 A F|"A"E2 z2
+|"D"D D/2E/2 F F|"G"G G B B|"D"A d "A"c/2d/2 e|1 "D"d2 z:|2 "D"d2 z||
+|:"^B"e||"D"f f e f|"G"g2 z e|"D"f f/2g/2 f/2e/2 d|"A".e z .a z
+|"D"d A/2A/2 F D|"G"G G B z|"D"A d "A"c/2d/2 e|1 "D"d2 z:|2 "D"d2 z||

@@ -1,0 +1,41 @@
+X:1
+T:Road to Lisdoonvarna
+T:(Jig)
+C:Traditional (E Dorian)
+M:6/8
+L:1/8
+Q:1/2=55
+K:D
+|:"Em""@Part A"E2 B-B2 A
+|B2-B d3
+|"D"F2 A (ABA)
+|(D2 E) FED
+|"Em"E2 B-(B2 A)
+|(B2 c) d3
+|("A"cdc) ("Fm"B2 A)
+|1 "Em"B2 E (E2 D):|2 "Em"B2 E E3||
+|:("Em""@Part B"e2 f) g(fe)
+|("Bm"d2 B) (Bcd)
+|("A"c2 A) (ABc)
+|("Bm"d2 B) B3
+|("Em"e2 f) g(fe)
+|("Bm"d2 B) (Bcd)
+|("A"cdc) ("Fm"B2 A)
+|"Em"B2 E E3||
+
+X:2
+T:Road to Lisdoonvarna
+T:(Reel)
+C:Traditional (D Mixolydian)
+M:4/4
+L:1/8
+Q:1/2=60
+K:G
+|:"Dm""Part A"DAAG ABcA
+|"C"GE E2 cEGE
+|(3"Dm"DDD AG ABcA
+|1"C"BcAG "D"FD D2:|2"C"BcAG "D"FDDA||
+|"D""Part B"defd "Am""cAAc
+|"G"BGGB "Am"cAAA
+|"D"defd "Am"cAAc
+|1"G"BGAG "D"FDDA:|2"G"BGAG "D"FD D2||

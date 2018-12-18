@@ -1,0 +1,27 @@
+%Boil Them Cabbage Down
+%%scale 1.10
+%%format dulcimer.fmt
+X:1
+T:Bile Them Cabbage Down
+C:Traditional Folk Tune
+L:1/8
+M:2/4
+K:D
+V:1 clef=treble name="Melody"
+|"D"FF FF|"G"G2 G2|"D"FF FF|"A"E4
+|"D"FF FF|"G"GG GG|"D"FF "A"EE|"D"D4||
+V:2 clef=treble name="Harmony"
+|AA AA|BB BB|AA AA|G4
+|AA AA|BB BB|AA GG|F4||
+
+X:2
+T:Fly Around My Pretty Little Miss - #110
+C:Traditional
+M:4/4
+L:1/4
+K:D
+V:1 clef=treble name="Melody"
+N:Play CabbageX3; PrettyX2; CabbageX2; PrettyX2; CabbageX1
+N:(First Cabbage by beginners)
+|:"D"F A A A/2A/2|"G"B G G G/2G/2|"D"A A/2B/2 A F|"A"E E/2E/2 E E
+|"D"F A A/2A/2 A|"G"G B B/2B/2 B|"A"A A F E|"D"D D/2D/2 D D:||

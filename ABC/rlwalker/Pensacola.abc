@@ -1,0 +1,153 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Pensacola
+C:Parke Hunter
+M:2/4    %(3/4, 4/4, 6/8)
+L:1/16    %(1/8, 1/4)
+Q:1/4=96 (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:C    %(D, C)
+Bc d2 eB dB| \
+AG D2 EB, DB,| \
+A,G, D,A, CD E2| \
+[=F2C2A,2] [^F2C2A,2] x2 [d2A2F2]|
+B,C D2 EB, DB,| \
+A,G, D,G, B,D GB| \
+AG [E2C2] [G2E2C2] C,C| \
+EC ED2B, [D2D,2]|
+B,C D2 EB, DB,| \
+A,G, D,G, B,D GB| \
+AG [E2^C2A,2] [E2^C2A,2] F^C| \
+[E2A,2] [A2F2D2] AA AD|
+B,=C D2 EB, DB,| \
+A,G, D,G, B,D GB| \
+AG [E2C2] [G2E2C2] GC| \
+EC ED2B, [D2D,2]|
+Bc d2 eB dB| \
+AG D2 EB, DB,| \
+A,G, D,A, CD [A2C2]| \
+[B2D2] [G4D4B,4] G,2|
+F,2 E,2 [EB,][EB,] F,B,| \
+FB, G,2 [GB,][GB,] A,B,| \
+AB, B,2 [BB,][BB,] B,B,| \
+B^A B2 [G2B,2G,2] E2|
+[G2B,2G,2] [F=A,]B,2B, C2| \
+B,2 ^D,A, B,F G2| \
+F2 [E2B,2G,2] EF G2| \
+E2 FB2B c2|
+[B2F2^D2] E,2 [EB,][EB,] F,B,| \
+FB, G,2 [GB,][GB,] A,B,| \
+AB, B,2 [BB,][BB,] B,B,| \
+B^A B2 [G2B,2G,2] E2|
+[G2B,2G,2] [F2=D2=A,2] FA A,F| \
+BF [A2D2] D-[FD] B,D-| \
+[GD]D [F2A,2] ^CE G,^C| \
+E^C [D4F,4] G,2|
+F,2 E,2 [EB,][EB,] F,B,| \
+FB, G,2 [GB,][GB,] A,B,| \
+AB, B,2 [BB,][BB,] B,B,| \
+B^A B2 [G2B,2G,2] E2|
+[G2B,2G,2] [F=A,]B,2B, =C2| \
+B,2 ^D,A, B,F G2| \
+F2 [E2B,2G,2] EF G2| \
+E2 FB2B c2|
+[B2F2^D2] E,2 [EB,][EB,] F,B,| \
+FB, G,2 [GB,][GB,] A,B,| \
+AB, B,2 [BB,][BB,] B,B,| \
+B^A B2 [G2B,2G,2] E2|
+[G2B,2G,2] [F2=D2=A,2] FA A,F| \
+BF [A2D2] D-[FD] B,D-| \
+[GD]D [F2A,2] ^CE G,^C| \
+E^C [D2F,2] DD D2|
+B,=C D2 EB, DB,| \
+A,G, D,G, B,D GB| \
+AG [E2C2] [G2E2C2] C,C| \
+EC ED2B, [D2D,2]|
+B,C D2 EB, DB,| \
+A,G, D,G, B,D GB| \
+AG [E2^C2A,2] [E2^C2A,2] F^C| \
+[E2A,2] [A2F2D2] AA AD|
+B,=C D2 EB, DB,| \
+A,G, D,G, B,D GB| \
+AG [E2C2] [G2E2C2] GC| \
+EC ED2B, [D2D,2]|
+Bc d2 eB dB| \
+AG D2 EB, DB,| \
+A,G, D,A, CD [A2C2]| \
+[B2D2] [G2B,2] B,D G2|
+G,2 
+K:C % 0 sharps
+[G2B,2] G^F- [G-^F]G| \
+^G2 A=G =FE DC| \
+B,A, G,2 [F2^G,2] [F2A,2]| \
+[F2^G,2] [F4=G,4] [G2F2-B,2-G,2-D,2-]|
+[F2B,2G,2D,2] C,2 [E2C2] E,2| \
+[E2C2] G,2 A,G, A,G,| \
+E,2 D,2 D2 F,2| \
+D2 A,2 B,A, B,A,|
+D,2 G,2 [G2F2B,2] A,2| \
+[G2F2B,2] B,2 ED ED| \
+B,G, CE2G- [A-G]A| \
+[^F2^D2] [G2E2] GA GE|
+CG, C,2 [E2C2] E,2| \
+[E2C2] G,2 A,G, A,G,| \
+E,2 =D,2 [G2D2B,2] G,2| \
+[G2D2B,2] B,2 ED ED|
+B,D [CA,]^F2C E2| \
+[D2C2A,2] D,^F,2D, E,2| \
+^D,2 =D,A, CD E2| \
+[^F2C2] [G2D2B,2] GG G2|
+[G2B,2G,2] C,2 [E2C2] E,2| \
+[E2C2] G,2 A,G, A,G,| \
+E,2 D,2 D2 =F,2| \
+D2 A,2 B,A, B,A,|
+D,2 G,2 [G2F2B,2] A,2| \
+[G2F2B,2] B,2 ED ED| \
+B,G, CE2G- [A-G]A| \
+[^F2^D2] [G2E2] GA GE|
+CG, C,2 [E2C2] E,2| \
+[E2C2] G,2 A,G, A,G,| \
+E,2 =D,2 [G2D2B,2] G,2| \
+[G2D2B,2] B,2 ED ED|
+B,D [CA,]^F2C E2| \
+[D2C2A,2] D,^F,2D, E,2| \
+^D,2 =D,A, CD E2| \
+[^F2C2] [G2D2B,2] GG G2|
+[G2B,2G,2] G2 ^F2 =F2| \
+DD A,B,2F E2| \
+D2 A,B,2F E2| \
+D2 G,2 CE G2|
+CA, B,G2B, G2| \
+^G2 [A2F2B,2] AF AF| \
+B,2 C,C2C D2| \
+[^D2C2] [E2C2] EC F=D|
+^F^D =G2 ^F2 =F2| \
+=DD A,B,2F E2| \
+D2 A,B,2F E2| \
+D2 G,2 CE G2|
+G,^G, A,2 AE AE| \
+^CE =G2 DF A,D| \
+FD EG, B,D F,B,| \
+DB, =C2 GG GG|
+GG G2 ^F2 =F2| \
+DD A,B,2F E2| \
+D2 A,B,2F E2| \
+D2 G,2 CE G2|
+CA, B,G2B, G2| \
+^G2 [A2F2B,2] AF AF| \
+B,2 C,C2C D2| \
+[^D2C2] [E2C2] EC F=D|
+^F^D =G2 ^F2 =F2| \
+=DD A,B,2F E2| \
+D2 A,B,2F E2| \
+D2 G,2 CE G2|
+G,^G, A,2 AE AE| \
+^CE =G2 DF A,D| \
+FD EG, B,D F,B,| \
+DB, =C4 [c2-G2-E2-]|
+[c2G2E2] 

@@ -1,0 +1,66 @@
+%Scale the output
+%%scale 0.999
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Puff The Magic Dragon
+C:Peter Yarrow and Leonard Lipton
+N:
+N:Peter Yarrow, one of the writers of this song, is the Peter of Peter, Paul
+N:and Mary, the group that delighted millions with their special blend of 
+N:voices interpreting songs in the contemporary folk-song style.  "Puff" is not
+N:just an amusing song for children; it is also a song about growing up and
+N:about the loss of childhood's beautiful innocence.  No wonder it soared to
+N:the top of the popular music charts in 1963.  The story of little Jackie 
+N:Paper, frolicking with the friendly dragon Puff, remains a favorite today.
+M:2/2
+L:1/4
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:C
+P:A Verses (with a lilt)
+|:"C"c z/2 c/2 c c|"Em"B2 G z|"F"A2 c c|"C"G3 G
+w:1~Puff, the mag-ic drag-on, lived by the sea And
+w:2~geth-er they would trav-el~on~a boat~with bil-lowed sail;_
+w:3~drag-on lives for-ev-er~but not~so lit-tle boys;_
+w:4~head was bent in sor-row; green~scales fell like rain._
+|"F"F F G F|"C"E G "Am"c c/2c/2|"D7"c A B/2 c3/2|"G7"d3 z
+w:frol-icked in the au-tumn mist in a land called Ho-nah-Lee.
+w:Jack-ie kept a look-out perched on_ Puff's gi-gan-tic tail,
+w:Paint-ed wings and gi-ant rings make_ way for oth-er toys.
+w:Puff no long-er went to play a-_long the cher-ry lane.~With
+|"C"c c c c|"Em"B G2 z|"F"A A c c|"C"G3 G
+w:Lit-tle Jack-ie Pa-per loved that ras-cal Puff And
+w:No-ble kings and prin-ces~would bow when-e'er the came;_
+w:One grey night it hap-pened,~Jackie Pa-per came no more, And
+w:out his life-long friend,_ Puff could not be brave, So
+|"F"F F G F|"C"E G "Am"c3/2 c/2|"D7"A/2 c3/2 "G7"B d|"C"c z "G7"B2|
+w:brought him strings and seal-ing was and oth-er fan-cy stuff. Oh!
+w:Pi-rate ships would low'r their flag when Puff roared out his name. Oh!
+w:Puff that might-y drag-_on He ceased his fear-less roar. Oh!
+w:Puff that might-y drag-_on sadly slipped in-to his cave. Oh!
+P:B Chorus
+|"C"c z/2 c/2 c c|"Em"B2 G z|"F"A2 c c|"C"G3 G
+w:Puff, the mag-ic drag-on, lived by the sea And
+|"F"F F G F|"C"E G "Am"c c/2c/2|"D7"c A B/2 c3/2|"G7"d3 z
+w:frol-icked in the au-tumn mist in a land called Ho-nah-Lee.
+|"C"c z/2 c/2 c c|"Em"B2 G z|"F"A2 c c|"C"G3 G
+w:Puff, the mag-ic drag-on, lived by the sea And
+|"F"F F G F|"C"E G "Am"c c/2c/2
+w:frol-icked in the au-tumn mist in a
+|1,2,3 "D7"A c "G7"B d|"C"c3 c/2:|4  "D7"A2 c2|"G7"B2 d2|"C"c4-|c z z2||
+w:land called Ho-nah-Lee. 2~To- land called Ho-nah-Lee._
+w:* * * * * 3~A
+w:* * * * * 4~His
+
+
+
+
