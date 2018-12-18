@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Teach Us By His Example
+Z: Cornish Melody
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F F/ C/ | A F | f (e/ d/) | c3/ A/ | F G | A (B/ G/) | F E | F2 | F F/ C/ | A F | f (e/ d/) | c3/ A/ | F G | A (B/ G/) | F E | F2 | (c/ A/) F/ A/ | c3/ c/ | (d/ f/) (e/ d/) | c2 | c A/ F/ | B3/ A/ | (A/ G/) (F/ E/) | F2 | (c/ A/) F/ A/ | c3/ c/ | (d/ f/) (e/ d/) | c2 | c A/ F/ | B3/ A/ | (A/ G/) (F/ E/) | F2|]
+w: Teach us by his ex- am ple,_ Lord, For whom we ho- nour_ Thee to- day, And grant his wit- ness of Thy_ Word Thy Church en- light en_ ev- er may; And,_ as be- loved, O Christ,_ he_ was, And there- fore lean- ed on_ Thy_ Breast; So_ let us al- so in_ Thy_ grace, And on Thy sac- red Bo-_ som_ rest!
+

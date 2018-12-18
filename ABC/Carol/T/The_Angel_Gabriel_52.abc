@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Angel Gabriel From God
+Z: Traditional (Devonshire)
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G | B d B3/ A/ | G F A2 | B2 G E | G3/ F/ E G | B d B3/ A/ | G F A2 | B2 G E | G3/ F/ E =D | E3/ F/ G B | A G F F | G (F/E/) d d | B2z/ G/ | B d B3/ A/ | G F A2 | B2 (G/ F/) (E/ F/) | G3/ F/ E D |"^Chorus" E3/ F/ G B | A G F F | G (F/E/) d d | B2z G | B d B3/ A/ | G F A2 | B2 (G/ F/) (E/ F/) | G3/ F/ E2|]
+w: The An- gel Ga- bri el from God Was sent to Ga- li lee, Un- to a Vir- gin fair and free, Whose name was called Ma- ry. And when the An- gel thi- ther came, He fell down_ on his knee, And look- ing in the Vir- gin's face, He said,_ "All_ hail, Ma- ry." Then, sing we all, both great and small, No- well, No-_ well, No- well; We may re- joice to hear the voice Of An-_ gel_ Ga- bri el.
+

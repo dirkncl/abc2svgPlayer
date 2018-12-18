@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Angel Gabriel
+Z: Richard R. Terry
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=150
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  E | A3/ B/ A G | E D C D | E3/ D/ E G | A3 B | c3/ B/ A G | E D C D | E3/ D/ E G | A3 B | c3/ d/ c B | A G c A | G3/ A/ G E | D3 E | A3/ B/ A G | E D C D | E3/ D/ E G | A3"^Chorus" B | c3/ d/ c B | A G E G | A3/ G/ E G | A3 B | c3/ d/ e d | c B A G | A3/ G/ A c | c3|]
+w: The An- gel Ga- bri el from God Was sent to Ga- li lee, Un- to a Vir- gin fair and free, Whose name was called Ma- ry. And when the An- gel thi- ther came, He fell down on his knee, And look- ing in the Vir- gin's face, He said, "All hail, Ma- ry." Then, sing we all, both great and small, No- el, No- el, No- el; We may re- joice to hear the voice Of An- gel Ga- bri el.
+[V: P2]  E | C3/ D/ C D | C B, C B, | C3/ B,/ C B, | C3 E | E3/ D/ C D | C B, C B, | C3/ B,/ C B, | C3 D | E3/ F/ E G | F D C F | E3/ E/ D C | A,3 C | C3/ D/ C D | C B, C B, | C3/ B,/ C B, | C3 D | E3/ E/ E G | F D C D | F3/ D/ C D | F3 F | E3/ G/ G G | E E C E | F3/ D/ F F | E3|]
+[V: P3]  E, | E,3/ F,/ E, G, | G, G, E, F, | E,3/ F,/ E, D, | E,3 ^G, | A,3/ F,/ E, G, | G, G, E, F, | E,3/ F,/ E, D, | E,3 G, | G,3/ G,/ G, G, | C B, A, C | C3/ C/ D G, | F,3 G, | A,3/ F,/ E, G, | G, G, E, F, | E,3/ F,/ E, D, | E,3 G, | G,3/ G,/ G, G, | C B, A, B, | C3/ B,/ A, A, | C3 G, | G,3/ B,/ C B, | A, G, F, C | C3/ B,/ C A, | G,3|]
+[V: P4]  E, | A,,3/ A,,/ A,, B,, | C, G,, A,, A,, | A,,3/ A,,/ A,, A,, | A,,3 E, | A,,3/ A,,/ A,, B,, | C, G,, A,, A,, | A,,3/ A,,/ A,, A,, | A,,3 G,, | C,3/ B,,/ C, E, | F, G, A, F, | C,3/ A,,/ B,, C, | D,3 C, | A,,3/ A,,/ A,, B,, | C, G,, A,, A,, | A,,3/ A,,/ A,, A,, | A,,3 G,, | C,3/ C,/ C, E, | F, G, A, G, | F,3/ G,/ A, G, | F,3 D, | C,3/ G,/ C G, | A, E, F, C, | F,3/ G,/ F, F,, | C,3|]
+

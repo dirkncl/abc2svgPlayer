@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Angels' Chorus
+Z: Ira B. Wilson
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=95
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F F G3/4 D/4 F3/4 B/4 | A3z | G3/ G/ G G | F3z | F F G3/4 D/4 F3/4 B/4 | A3z | A3/ G/ B =E | F3z | G G G3/4 ^F/4 G3/4 A/4 | G3z | F F F3/4 =E/4 F3/4 G/4 | F3z | B3/4 A/4 B3/4 c/4 _d c3/4 B/4 | =d f G e | d3/4 F/4 =E3/4 F/4 d c | B3z |"^Chorus" e e e3/4 G/4 d3/4 c/4 | B2 F2 | G A B3/4 A/4 B3/4 c/4 | d3z | d d e3/4 d/4 G3/4 d/4 | d2 c2 | c F e3/4 d/4 d3/4 c/4 | B3z|]
+w: An- gels chant the heav- 'nly song, "Peace on earth, good- will," Hear the ech- o loud and long On the mid- night still; "Glo- ry, glo- ry," hear them say Christ the Lord is born to- day, "Glo- ry be to God in the high- est, glo- ry! Peace on earth, good- will to men." Un- to us is born a Sa- viour, Un- to us is born a King; "Peace on earth," O chant the cho- rus, Let the world with glad- ness sing.
+[V: P2]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | [A,E] [A,E] [A,E] [A,E] | [A,3E3]z | [B,D] [B,D] [B,D] [B,D] | [B,3D3]z | D D =Ez | [FB] [FB] [B,E] [EG] | F3/4 D/4 ^C3/4 D/4 F E | D3z | F F F3/4 E/4 F3/4 E/4 | D2 D2 | E F G3/4 ^F/4 G3/4 G/4 | ^F3z | F F G3/4 F/4 F3/4 F/4 | =E2 E2 | _E E G3/4 F/4 F3/4 E/4 | D3z|]
+[V: P3]  B,, [B,D] D, [B,D] | C,(3 E/E/E/ E E | F, E F, E | B,, [B,D] [B,D]z | B,, [B,D] D, [B,D] | C,(3 C/C/C/ C C | C, C C, C | F, C _Ez | C, F, F,, F, | C, F, F,, F, | B,, F, F,, F, | B,, F, B, _A, | G, B, _G,z | F, D, E, C, | F, B, F, F, | F, (F,/ D,/) B,,z | A, A, A, A, | B, B, B, B, | B, B, B,3/4 B,/4 B,3/4 G,/4 | A,3z | =B, B, B, B, | C C B, B, | A, A, A,3/4 A,/4 A,3/4 A,/4 | B,3z|]
+[V: P4]  B,,, F, D,, F, | C,, [(3F,/A,/][F,/(3A,/][F,/A,/] [F,A,] [F,A,] | F,, [F,A,] F,, [F,A,] | B,,, F, F,z | B,,, F, D,, F, | C,, [(3F,/A,/][F,/(3A,/][F,/A,/] [F,A,] [F,A,] | C,, [F,A,] C,, [G,B,] | F,, [F,A,] [F,A,C]z | z4 | z4 | z4 |z2 B,, _A,, | G,, G, _G,,z | F,, D,, E,, C,, | F,, F, F,, F,, | z4 | F, F, F, F, | B,, B,, B,, B,, | E, E, E,3/4 E,/4 E,3/4 E,/4 | D,3z | G, G, G, G, | C, C, C, C, | F, F, F,3/4 F,/4 F,3/4 F,/4 | B,,3z|]
+

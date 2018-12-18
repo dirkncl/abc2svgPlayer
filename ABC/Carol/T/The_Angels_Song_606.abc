@@ -1,0 +1,37 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Angel's Song
+Z: Charles Vincent
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+V: P1_1 name="Staff-1"
+V: P1_2
+%%MIDI program 1 19
+V: P2_1 name="Right Hand"
+V: P2_2
+%%MIDI program 2 0
+V: P3_1 name="Left Hand"
+V: P3_2
+%%MIDI program 3 0
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1] "^Verse 1" | | | | | | | | | | | | | | | | | | | | |"^Verse 2" | | | | | | | | | | | | | | |"^Refrain" (B3/4c/4) [G/d/] [(=F/(d/] [G/)e/)] [A/=f/] | | ||]
+w: Last night as I lay sleep- ing, When all my prayers were said,_ With my guar- dian An- gel keep- ing His watch a- bove my head._ I heard His sweet voice ca- rol ing, Full soft- ly on my ear,_ A song for Chris- tian boys to sing, For Chris- tian men to hear_ Thy bo- dy be_ at rest,_ dear boy,_ Thy soul be free_ from sin;_ I’ll shield thee from_ the world’s_ an- noy,_ And breath_ pure words_ with- in.__ The ho- ly Christ- mas tide is nigh, The sea- son of Christ’s birth._ Glo-_ ry_ be___ to__ God_ on_ high,_ And_ peace___ to_ men_ on_ earth."___
+% Extracting voice 2 from part P1
+[V: P1_2] "^Verse 1" | | | | | | | | | | | | | | | | | | | | |"^Verse 2" | | | | | | | | | | | | | | |"^Refrain" G x2  | | ||]
+w: Last night as I lay sleep- ing, When all my prayers were said,_ With my guar- dian An- gel keep- ing His watch a- bove my head._ I heard His sweet voice ca- rol ing, Full soft- ly on my ear,_ A song for Chris- tian boys to sing, For Chris- tian men to hear_ Thy bo- dy be_ at rest,_ dear boy,_ Thy soul be free_ from sin;_ I’ll shield thee from_ the world’s_ an- noy,_ And breath_ pure words_ with- in.__ The ho- ly Christ- mas tide is nigh, The sea- son of Christ’s birth._ Glo-_ ry_ be___ to__ God_ on_ high,_ And_ peace___ to_ men_ on_ earth."___
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | | | | | | | | | | |z/ (F/E/ G F/ | | | | | | | | | | | | | | | | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | | | | | | | | | | | x0  C C3/ | | | | | | | | | | | | | | | | | | | ||]
+% Extracting voice 1 from part P3
+[V: P3_1]  | | | | | | [E,/^C/] ^C3/ | | | | | | | | | | | | [z/D,,3/] E/ D/ C B,/ | [z/D,,3/)] A,/ G,/ B, A,/ | | | | | [E,/^C/] =C3/ | | [E,/^C/] =C3/ | | | [F,/A,/D/] D ^C/ | ^C ^A,/ B, =A,/ | G, B,/ [A,,3/E,3/^C3/] | | | | | | | ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | | | | | | G,, x0  _E, D,/ | | | | | | | | | | | | x1  D,,3/ | x1  D,,3/ | | | | | G,, x0  _E, D,/ | | G,, x0  _E, D,/ | | | B,, x0  E,3/ G,3/ | D,3/ F,3/ D,3/ F,3/ | E,3/ x1  | | | | | | | ||]
+

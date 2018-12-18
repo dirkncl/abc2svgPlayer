@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Tallis' Third Mode Melody
+Z: Thomas Tallis (1505-1585)
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=160
+V: P1 name="Bowed-93"
+%%MIDI program 1 89
+V: P2 name="Bowed-93-2"
+%%MIDI program 2 89
+V: P3 name="Bowed-93-3"
+%%MIDI program 3 89
+K: C
+[V: P1]  E2 [E2G2] | [E2G2] [E2-G2-] | [E4G4] | [E2G2] [C2A2] | [D2A2] [B,2-B2-] | [B,4B4] | [E2B2] [E2-B2-] | [E4B4] | [^D2B2] [E2B2] | [E2c2] [E2-B2-] | [E4B4] | E2 [E2B2] | [E2B2] [E2-B2-] | [E4B4] | [E2G2] [E2A2] | [D2A2] [B,2-B2-] | [B,4B4] | [E2B2] [E2-B2-] | [E4B4] | [E2B2] [E2c2] | [C2A2] [E2-B2-] | [E4B4] | [E2B2] [E2B2] | G c [F2d2] | [E4e4] | [G2d2] [E2c2] | [E2c2] [E2-B2-] | [E4B4] | [E2G2] [E2-A2-] | [E4A4] | E2 [E2F2] | [D2F2] [C2-E2-] | [C4E4] | [C2A2] [C2-c2-] | [Cc] B [C2A2] | [C4G4] | [C2E2] [C2-A2-] | [CA] G [C2F2] | [C4E4] | [C2G2] [C2F2] | D2 [C2E2] | [C2E2] [B,2-E2-] | [B,4E4]|]
+[V: P2]  [E,2G,2] [E,2B,2] | [E,2B,2] [E,2-B,2-] | [E,4B,4] | [G,2B,2] [F,2A,2] | [F,2A,2] [E,2-^G,2-] | [E,4^G,4] | [E,2^G,2] [E,2-G,2-] | [E,4^G,4] | ^F,2 [E,2^G,2] | A,2 [E,2-^G,2-] | [E,4^G,4] | [E,2G,2] [E,2G,2] | [E,2G,2] [E,2-G,2-] | [E,4G,4] | [G,2B,2] [F,2A,2] | [F,2A,2] [E,2-^G,2-] | [E,4^G,4] | [E,2^G,2] [E,2-G,2-] | [E,4^G,4] | [E,2^G,2] A,2 | A,2 [E,2-^G,2-] | [E,4^G,4] | [E,2G,2] [E,2-G,2-] | [E,G,] A, [D,2B,2] | C4 | B,2 A,2 | A,2 [E,2-G,2-] | [E,4G,4] | [E,2B,2] C2- | C4 | A,2 [D,2A,2] | [D,2A,2] A,2- | A,4 | E,2 A,2- | A, G, F,2 | E,4 | G,2 C2- | C B, A,2 | G,4 | E,2 A,2 | A,2 A,2 | E, ^F, [E,2-^G,2-] | [E,4^G,4]|]
+[V: P3]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | B,,2z2 | A,,2z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z2 A,,2 | A,,2z2 | z4 | z4 | z4 | C,4 | G,,2 A,,2 | A,,2z2 | z4 |z2 A,,2- | A,,4 | C,2z2 |z2 A,,2- | A,,4 | A,,2 A,,2- | A,,2 A,,2 | C,4 | C,2 A,,2 | F,,4 | C,4 | C,2 F,,2 | F,,2 A,,2 | A,,2z2 | z4|]
+

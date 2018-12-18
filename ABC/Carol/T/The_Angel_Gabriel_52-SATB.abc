@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Angel Gabriel
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  G | B d B3/ A/ | G F A2 | B2 G E | G3/ F/ E G | B d B3/ A/ | G F A2 | B2 G E | G3/ F/ E =D | E3/ F/ G B | A G F F | G (F/E/) d d | B2z G | B d B3/ A/ | G F A2 | B2 (G/F/) (E/F/) | G3/ F/ E D |"^Chorus" E3/ F/ G B | A G F F | G (F/E/) d d | B2z G | B d B3/ A/ | G F A2 | B2 (G/F/) (E/F/) | G3/ F/ E2|]
+w: The An- gel Ga- bri el from God Was sent to Ga- li lee, Un- to a Vir- gin fair and free, Whose name was called Ma- ry. And when the An- gel thi- ther came, He fell down_ on his knee, And look- ing in the Vir- gin's face, He said,_ "All_ hail, Ma- ry." Then, sing we all, both great and small, No- well, No-_ well, No- well; We may re- joice to hear the voice Of An-_ gel_ Ga- bri el.
+[V: P2]  E | G A G3/ F/ | E ^D E2 | E2 E E | E3/ ^D/ E E | G A G3/ F/ | E ^D E2 | E2 E E | E3/ ^D/ E B, | C3/ D/ D G | E (B,/^C/) D D | (B,/^C/) (D/E/) D A | G2z D | G A G3/ F/ | E ^D E2 | ^D2 E E | E ^D E B, | C3/ D/ D G | E (B,/^C/) D D | (B,/^C/) (D/E/) D A | G2z D | G A G3/ F/ | E ^D E2 | ^D2 E E | E ^D E2|]
+[V: P3]  B, | B, A, B,3/ C/ | B, B, E,2 | B,2 B, C | B,3/ A,/ G, B, | B, A, B,3/ C/ | B, B, E,2 | B,2 B, C | B,3/ A,/ G, G, | G,3/ A,/ G, D | C G, A, A, | G, (A,/B,/) A, A, | D2z B, | D A, B,3/ C/ | B, B, A,2 | F,2 (G,/A,/) (B,/C/) | B, A, G, G, | G,3/ A,/ G, D | C G, A, A, | G, (A,/B,/) A, D | D2z B, | D D D3/ C/ | B, B, A,2 | F,2 (G,/A,/) (B,/C/) | B, A, G,2|]
+[V: P4]  E, | E, F, G,3/ A,/ | B, B,, C,2 | G,,2 G,, A,, | B,,3/ B,,/ E, E, | E, F, G,3/ A,/ | B, B,, C,2 | G,,2 G,, A,, | B,,3/ B,,/ E, G, | C,3/ C,/ B,, G,, | (C,/D,/) E, D, D, | E, (F,/G,/) G, F, | G,2z G, | G, F, G,3/ A,/ | B, B,, C,2 | B,,2 (E,/F,/) (G,/A,/) | B, B,, E, G, | C,3/ C,/ B,, G,, | (C,/D,/) E, D, D, | E, (F,/G,/) G, F, | G,2z G, | G, F, G,3/ A,/ | B, B,, C,2 | B,,2 (E,/F,/) (G,/A,/) | B, B,, E,2|]
+

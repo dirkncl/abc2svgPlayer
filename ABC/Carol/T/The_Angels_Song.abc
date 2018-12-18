@@ -1,0 +1,33 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Angel’s Song
+Z: Robert Lowry (1826-1899)
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 12/8
+Q: 1/4=125
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="The Angel’s Song"
+V: P2_2
+%%MIDI program 2 91
+K: Ab
+% Extracting voice 1 from part P1
+[V: P1_1] "^With energy" (E/F/) [C/G/] | | | [E3/c3/] [E3/e3/] [Ee] [E/c/] (c/B/) [D/A/] | [E3-B3-] [E3/B3/] (_E/F/) [D/G/] | | | | E3- E3/||"^Refrain" (E/G/) [E/B/] | [E3/d3/] [E3d3] (d/c/) [E/B/] | | | [E3-B3-] [E3/B3/] (E/F/) [D/G/] | | | ||]
+w: 1. Roll-_ ing__ down-_ ward,_ through___ the_ mid-_ night,_ Comes___ a_ glor-_ ious_ burst_ of_ heav’n-_ ly__ song;___ ’Tis_ a__ cho-_ rus_ full___ of_ sweet-_ ness—_ And___ the_ sin-_ gers_ are_ an_ an-___ gel_ throng.___ “Glo-_ ry!__ glo-_ ry_ in_ the__ high-_ est!_ On___ the_ earth_ good-_ will_ and_ peace_ to_ men!”___ Down_ the__ ag-_ es_ send___ the_ e-_ cho;_ Let___ the_ glad_ earth_ shout___ a-_ gain!___
+% Extracting voice 2 from part P1
+[V: P1_2] "^With energy" C x0  | | | x4  =D x0  | x4  D x0  | | | | E3- E3/||"^Refrain" E x0  | x4  E x0  | | | x4  D x0  | | | ||]
+w: 1. Roll-_ ing__ down-_ ward,_ through___ the_ mid-_ night,_ Comes___ a_ glor-_ ious_ burst_ of_ heav’n-_ ly__ song;___ ’Tis_ a__ cho-_ rus_ full___ of_ sweet-_ ness—_ And___ the_ sin-_ gers_ are_ an_ an-___ gel_ throng.___ “Glo-_ ry!__ glo-_ ry_ in_ the__ high-_ est!_ On___ the_ earth_ good-_ will_ and_ peace_ to_ men!”___ Down_ the__ ag-_ es_ send___ the_ e-_ cho;_ Let___ the_ glad_ earth_ shout___ a-_ gain!___
+% Extracting voice 1 from part P2
+[V: P2_1]  | | [A,,3/C3/] [A,,3C3] A, [E,/G,/] | A,3/ [A,3/C3/] [A,C] A,/ [F,A,] [F,/B,/] | [E,3-G,3-] [E,3/G,3/] (G,/A,/) [E,/B,/] | | | ||| (G,/B,/) [E,/G,/] | [E,B,] [E,/B,/] [E,B,] [E,/B,/] [E,B,] [E,/B,/] (B,/A,/) [E,/G,/] | A,3/ A,3 A, A,/ | | [E,3-G,3-] [E,3/G,3/] (G,/A,/) [E,/B,/] | [A,,A,] [A,,/A,/] [A,,A,] [A,,/A,/] [A,,A,] [A,,/A,/] A, A,/ | | ||]
+w: _ _ _ _ _ _ _ _  ___  _ _  _ ___ ___ _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ___ _ __ “Glo-_ ry!_ glo-_ ry!_ glo-_ ry!”_ _ __    ____ _ _ _ _ _ _ ___ _ __ ag-_ es,_ down_ the_ ag-_ es___________________________
+% Extracting voice 2 from part P2
+[V: P2_2]  | | x4  (A,,/C,/) x0  | A,3/ x2  A,/ x1  | x4  E, x0  | | | ||| E, x0  | x4  E, x0  | A,3/ A,3 A, A,/ | | x4  E, x0  | x4  A, A,/ | | ||]
+w: _ _ _ _ _ _ _ _  ___  _ _  _ ___ ___ _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ___ _ __ “Glo-_ ry!_ glo-_ ry!_ glo-_ ry!”_ _ __    ____ _ _ _ _ _ _ ___ _ __ ag-_ es,_ down_ the_ ag-_ es___________________________
+

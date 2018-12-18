@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Tallis' Canon
+Z: Thomas Tallis, circa 1567
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Unnamed-000"
+%%MIDI program 1 16
+V: P2 name="Tallis' Canon"
+%%MIDI program 2 91
+K: G
+[V: P1]  [DG] [DG] [DF] [B,G] | [DG] [EA] [DA] [DB] | G [Gc] [Fc] [GB] | [DB] [EA] [DA] [DG] | [Gd] [Ec] [FA] [GB] | [GB] [EA] [DA] [DG] | [B,D] [CE] [CF] [B,G] | [DB] [CA] [A,A] [B,-G-] | [B,3G3]z|]
+[V: P2]  [G,B,] [D,A,] [D,A,] [E,G,] | [B,,G,] [C,G,] [D,F,] [G,,G,] | [B,,G,] [A,,A,] [A,,A,] [G,,B,] | G, [G,C] [F,C] [G,B,] | [B,,B,] [C,A,] [D,A,] [G,,G,] | [G,D] [A,C] [F,A,] [G,B,] | [G,,B,] [C,A,] [A,,A,] [E,G,] | [B,,D,] [C,E,] [D,F,] [G,,-G,-] | [G,,3G,3]z|]
+

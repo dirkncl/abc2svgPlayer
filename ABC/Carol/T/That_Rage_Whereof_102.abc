@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: That Rage Whereof The Psalm Doth Say
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c | =B c A G | F G A c | (B/ A/) (A/ G/) F f | f d c d | ^c d A B | F G A B | (A/ ^G/) (A/ =G/) F d | d =c d d | d (c/ B/) A3/ A/ | (G/ B/) (A/ G/) F F | F (G/ A/) B c | d e ^c e | f (e/ d/) c c | d (c/ B/) A A | c (B/ A/) (G/ A/) (F/ B/) | G3/ F/ F2|]
+w: That rage where- of the Psalm doth say, "Why are_ the_ Gen- tiles grown so mad?" Ap- peared in part up- on that day, When He-_ rod_ slain the In- fants had; Yet as it_ saith they stormed_ in_ vain; Tho' ma- ny_ In- no cents they slew, For Christ they_ pur- posed to have_ slain, Who all their_ coun-_ sels_ o- ver threw.
+

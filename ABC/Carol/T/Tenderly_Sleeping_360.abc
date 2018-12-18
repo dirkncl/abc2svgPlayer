@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Tenderly Sleeping
+Z: G. S. W.
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=60
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  c3/4d/4c/ c/B/A/ | B/A/F/ Fz/ | E/A/B/ c/B/A/ | (B3/ B/)z/z/ | e3/4 d/4 c/ c/ B/ A/ | B/ A/ F/ Fz/ | E/ A/ B/ c B/ | (A3/ A/)z/z/ | B3/4c/4B/ B/G/e/ | =d/c/d/ ez/ | B3/4c/4B/ =d/c/d/ | (e3/ e/)z/z/ | e3/4 d/4 c/ c/ B/ A/ | B/ A/ F/ Fz/z/ | E/ A/ B/ c B/ | (A3/ A/)z/z/|]
+w: Ten- der ly sleep- ing, so tran- quil and sweet; Je- sus the lov- ing and mild._ Bright was the day- beam that cir- cled His head, Guard- ing the Ho- ly Child._ Quick- ly the wise men from far dis- tant lands Hast- ed their hom- age to pay,_ Bear- ing their gifts and their trea- sures of gold, Crown- ing His na- tal Day._
+
