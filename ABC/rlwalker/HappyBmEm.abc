@@ -1,0 +1,22 @@
+%%scale 1.1
+%%format dulcimer.fmt
+%%continueall
+X: 1
+T:Happy Birthday
+T:Good Morning To You ((c)1893, (c)1896)
+C:Good Morning To You - Public Domain
+M:3/4
+L:1/4
+%%staves[1 2]
+K:D
+V:1 clef=treble name="Key of Dm"
+|F/2F/2|"Bm"G F B|"F#m"A2 F/2F/2|G F c|"Bm"B2 F/2F/2
+w:Hap-py Birth-day to you. Hap-py Birth-day to you. Hap-py
+w:Good_ Morn-ing to you. Good_ Morn-ing to you. Good_
+|f d B|"Em"A G2-|G2 e/2e/2|"Bm"d B "F#m"c|"Bm"B2|
+w:Birth-day to (person name)._ Hap-py Birth-day to you.
+w:Morn-ing Dear Child-ren._ Good_ Morn-ing to you.
+V:2 clef=treble name="Key of Gm"
+K:G
+|B/2B/2|"Em"c B e|"Bm"d2 B/2B/2|c B f|"Em"e2 B/2B/2
+|b g e|"Am"d c2-|c2 a/2a/2|"Em"g e "Bm"f|"Em"e2|

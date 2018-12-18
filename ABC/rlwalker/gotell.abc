@@ -1,0 +1,22 @@
+%%scale 1.122
+X:1
+T:Go Tell Aunt Rhodie
+C:Traditional
+M:2/4
+L:1/8
+K:D
+V:1 clef=treble
+|"D"F2 "^MELODY"FE|D2 D2|"A"E2 EG|("D"FE) D2
+w:Go tell Aunt Rho-die, go tell Aunt Rho_die,
+w:The~one she's been sav-ing, the~one she's been sav_ing,
+w:She~died in the mill-pond, she~died in the mill_pond,
+w:She~left~nine lit-tle gos-lins, she~left~nine lit-tle gos_lins,
+|A2 AG|F2 DD|"A"EG FE|"D"D4||
+w:Go tell Aunt Rho-die, The old grey goose is dead.
+w:The~one she's been sav-ing, To make a fea-ther bed.
+w:She~died in the mill-pond, A-stand-ing on her head.
+w:She~left~nine lit-tle gos-lins, To scratch for their own bread.
+V:2 clef=treble
+|"D"A2 "^HARMONY"AG|FG F2|"A"G2 GB|("D"AG) F2
+|D2 DE|F2 AA|"A"GB AG|"D"F4||
+

@@ -1,0 +1,34 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Gypsy Weaver (8 x 32S 3C (Denise Peet))
+C:Liz Donaldson
+C:arr. T. Traub 2-17-2004
+R:Strathspey
+M:4/4
+L:1/8
+K:Em
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+P:A
+|:GF
+| "Em"E2 E2 e3 c | "Em"B>A GA "B"B2 GF
+| "Em"E2 E2 e3 c | "Em (Am)"B>A GA "B"F2 GF
+| "Em"E2 E2 "Am"e3 c | "Em"B>A GA B2 EF
+| "Em"G3 A "D"F3 G | "Em"E6 ||
+P:B
+|EF
+| "B"^D3 F B3 A | "Em"G>F EF G2 GA
+| "D"F3 A d3 c | "G"B6 AG
+| "D"F2 F2 "B"B3 A | "Em"G>F EF G2 EF
+| "Em" G3 A "D"F3 G |1 "C"E3 F "B"^D2 :|2 "Em" E6 ||

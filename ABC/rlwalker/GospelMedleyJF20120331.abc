@@ -1,0 +1,45 @@
+%%scale 0.89
+%%format dulcimer.fmt
+X:1
+T:Gospel Medley - 03/31/2012
+M:4/4
+L:1/4
+P:Play AA B CC DD EE FF BB AA
+K:D
+%%continueall 1
+%%partsbox 1
+P:A Give Me That Old Time Religion
+|A,/2A,/2 B,|"D"D2 D3/2D/2|B, A, D/2D/2 D|"A7"E2 E3/2F/2
+|E D D/2D/2 E|"D"F2 F3/2F/2|"G"E D2 B,|"D"A, D "A7"E C|"D"D2||
+P:B Do Lord
+|"D"A, A,2 B,|"G"D D2 E|"D"F F F E|"D7"D4\
+|"G"B, B,2 C|D D2 B,|D D D B,|"D"A,4\
+|"D"A, A,2 B,|"G"D D2 E|"F#7"F F F E|"Bm"D2 D E\
+|"D"F3 D|"A7"F E2 D|"D"D4||
+P:C Somebody Touched Me
+|"D"A, A,2 B,|D2 D2|F F2 E
+|(F E) D2|"G"E D2 B,|D2 D2
+|E D2 B,|"D"(D B,) A,2| A, A,2 B,
+|D2 D2|F F2 E|(F E) D D
+|F/2F/2 F2-F2 D|"A"E2 F E|"D"D4||
+P:D I'll Fly Away
+|"D"F "^VERSES"D A, D|F/2E/2F/2G/2 "D7"F2|"G"D3 B,/2B,/2|"D"A,4
+|F D A, D|F/2E/2F/2G/2 "Bm"F2|"D"F3 "A7"E/2E/2|"D"D4
+|"^CHORUS"A3 F/2A/2|A F "D7"E D|"G"D3 B,/2B,/2|"D"A,4
+|"^TAG"A, "G"B, "D"D D/2E/2|F/2E/2F/2G/2 "Bm"F2|"D"F3 "A7"E/2E/2|"D"D4||
+P:E Down By The Riverside
+|:"D"+segno+F A, B, D|D/2 D F/2-F2|z F F3/2 ^E/2|F/2 =E D/2-D2
+|"A7"z E E3/2 ^D/2|"A7"E/2 =D C/2-C2|"D"z F F3/2 ^E/2|F/2 =E D/2-D F
+|F A, B, D|D/2 D F/2-F2|"D"z F F3/2 ^E/2|F/2 =E D/2-D2
+|"A7"F E2 G|F2 E2|"D"D4-|1 +fine+D3 A:||2 "D7"D D E F||
+|"G"G G G G/2G/2-|"G7"G3 G|"D"F F F F/2D/2-|D4
+|"A7"F E2 E|"A7"D2 E2|"D"F4-|"D7"F D E F
+|"G"G G G G/2G/2-|"G7"G4|"D"F F F F/2D/2-|"Bm"D4
+|"E7"E E2 F|^G E F G|"A7"A4-|A2 +D.S.+A|
+P:F I Saw The Light
+|A,|:"D"A, A,2 B,|D2 D D|A, A,2 B,|D4|"G"E D2 B,
+|D2 D2|E D2 B,|"D"A,4|A, A,2 B,|D2 D B,|
+|A, A, A, B,|D4|A3 B|(A2 F/2 E3/2)|"A7"F F2 E|"D"D4||
+|F F2 E|(F E D2)|F F2 E|(F E D2)|"G"E D3
+|D2 D2|E D3|"D"(D B, A,2)|A, A,2 B,|D2 D D
+|F F2 E|(F E D2)|A2 B2|(A2 F/2 D3/2)|"A7"F F2 E|"D"D3||

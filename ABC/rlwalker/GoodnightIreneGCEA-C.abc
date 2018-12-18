@@ -1,0 +1,37 @@
+%Scale the output
+%%scale 1.100
+%%format bracinho.fmt
+%%format dulcimer.fmt
+%%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 120pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+X:1
+T:Goodnight Irene
+C:Ledbetter & Lomax
+M:3/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Cmaj%(D, C)
+|"C"C3|D2 C|"G7"B,2 A,|G,3|D3|E2 D|"C"C3-|C2 E
+w:I-rene, good-night,__ I-rene, good-night;_ good-
+|"C7"E2 E|D2 C|"F"D2 C|A,2 A,|"G7"G,2 D|E2 D|"C"C3-
+w:night, I-rene, good-night, I-rene, I'll see you in my dreams.
+|C "^Fine"z G,|"C"C C C|D C G,|"G7"B, D2-|D2 D|G G G|D2 E/2D/2
+w:* 1~Last Sat-ur-day night I got mar-ried,_ *me and my wife set-tled
+w:* 2 Some-times I live in the coun-try,_ *some-times I live in the
+w:* 3~Stop ram-blin', * * stop your gam-bllin',_ stop stay-ing out late at_
+|"C"C3-|C2 G|"C7"G E E|D C C|"F"A, C2-
+w:down._ Now me and my wife_ are part-ed,
+w:town._ * Some-times I have a great no-tion
+w:night._ Go home to your wife and your fam-'ly.
+|C z A,/2 A,/2A,/2|"G7"G,3/2 D/2 D/2D/2|E/2E3/2 D|"C"C3-C z "^D.C. al Fine last time"z|
+w:*I'm gon-na take an-oth-er walk_ down town._
+w:* * to* jump in-to the riv-er and  drown._
+w:* * sit_ down _by the fire-_side bright._
+

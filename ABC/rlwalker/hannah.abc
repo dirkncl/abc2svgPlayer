@@ -1,0 +1,18 @@
+X:1
+T:Miss Hannah's Jig
+C:William Marshall
+M:6/8
+L:1/8
+Q:1/2=80
+K:G
+P:Play AABC
+P:Part A
+|:D|"G"G2 G B/2c/2dB|"G"GAG B/2c/2dB|"Am"A2 a abg|"D"f3 d2 f
+|"G"g2 g bag|"D"f/2g/2 af agf|"Am"eag "D"fef|"G"g3 g2:||
+P:Part B
+|g|"G"bag "D"agf|"Em"gfe "D"def|"C"gfg "Am"efg|"D"a3 A2 g
+|"G"bag "D"agf|"Em"gfe "D"def|"C"gfe "D"def|"G"g3 G2 g||
+P:Part C
+|"G"bag "D"agf|"Em"gfe "D"def|"Em"gfg "Am"efg|"D"a3 A2 g
+|"G"g/2a/2bg bag|"D"f/2g/2af agf|"Am"eag "D"fef|"G"g3 G||
+

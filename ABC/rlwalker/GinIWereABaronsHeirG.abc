@@ -1,0 +1,58 @@
+%Scale the output
+%%scale 1.100
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Gin I Were A Baron's Heir
+T:"Lassie, would ye lo'e me"
+C:1944
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+|D
+|G3/2 A/2 B e|d B B G|A3/2 G/2 D G|B A A D
+|G3/2 A/2 B e|d B B G|E/2 G3/2 B3/2 A/2|A2 G d||
+|d B B e|d B B G|A3/2 G/2 D G|B A A D
+|G3/2 A/2 B e|d B B G|E/2 G3/2 B3/2 A/2|A2 G||
+
+     G     Em   Bm        G7
+ Oh, gin I were a baron's heir,
+     C       G         A7        D7
+ And could I braid wi' gems your hair,
+     G    Em         Bm     G7
+ And make ye braw as ye are fair,
+ C       G      D7   G
+ Lassie, wad ye lo'e me?
+     Bm      Em      Bm      G7
+ And could I tak' ye tae the toon,
+     C       G           A7   G7
+ And shaw ye braw sights many an ane,
+     G       Em      Bm     G7
+ And busk ye fine in silken goon,
+ C       G        D7   G
+ Lassie, would ye lo'e me?
+ 
+ Or should ye be content to prove,
+ In lowly life unfading love.
+ A heart that nought on earth could move,
+ Lassie, would ye lo'e me?
+ And ere the lav'rock wing the skie,
+ Say, would ye tae the forest hie,
+ And work wi' me sae merrily,
+ Lassie, would ye lo'e me?
+ 
+ And when the braw moon glistens o'er,
+ Our wee bit bield and heathery muir,
+ Will ye no greet for ye're sae puir,
+ Lassie, for I lo'e ye?
+ For I ha'e naught tae offer ye,
+ Nae gowd frae mine, nae pearl frae sea,
+ Nor am I come o' high degree,
+ Lassie, but I love ye!

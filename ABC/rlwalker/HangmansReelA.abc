@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Hangman's Reel
+Z: posted by Andrew Kuntz 12/99
+L:1/8
+M:2/4
+N:AEAE Tuning
+N:Notated as it would be fingered if played in standard tuning, not as it actually sounds
+N:The second time through the last part may be played an octave lower.
+Z:Andrew Kuntz
+Q:72 (beats per measure)
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:A
+V:1 clef=treble
+|(D/2|A/2)D/2A/2(A/2 B/2)A/2B|c/2B/2c/2(A/2 B/2)A/2B|AA B/2A/2B/2B/2
+|c/2B/2c/2c/2 B>B|AA BB c/2B/2c/2A/2 B(A/2B/2|c)B/2c/2A/2 B/2A/2B|(D/2A)(D/2 A):|
+|:(A/2|e/2)(A/2c/2)(A/2|e/2)(A/2c/)(A/2|B/2)A/2B/2B/2 c/2B/2A|ec ec|B/2A/2B/2(B/2 A:|
+(A|:B>)(A B)(A|A/2)B/2c/2A/2 B/2A/2E|(A/2B)(A/2 B/2)A/2B|e/2f/2e/2(d/2 c/2B/2)A:|
+|:c/2B/2c dd|cc/2c/2 d/2c/2d|cc d/2c/2d|c/2B/2c/2A/2 BB
+|c/2B/2c d/2c/2d c/2B/2c d/2c/2d|c/2B/2c B/2A/2B|D/2AD/2 A2:|

@@ -1,0 +1,593 @@
+%% Round Big Scratch Band ceilidh, 27 April 2002
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0.40cm
+
+
+X:28
+T:Jenny Lind
+M:2/2
+L:1/8
+K:D
+P:A
+"D"F2A2 "G"G2B2|"D"A2f2 fef2|"A7"G2e2 ede2|"D"F2d2 dcd2|\
+"D"F2A2 "G"G2B2|"D"A2f2 fef2|"Em"g2e2 "A7"egfe|"D"d2f2 d4:|
+P:B
+K:G
+"C"g2f2 egfe|"G"d2B2 BAB2|"D7"c2A2 ABA2|"G"B2G2 GAG2|\
+"C"g2f2 egfe|"G"d2B2 BAB2|"D7"c2A2 AcBA|"G"G2B2 G4:|
+
+X:20
+T:Grandfather's Polka
+L:1/8
+M:2/2
+K:D
+P:A
+"D"F2A2 "G"B2c2|"D"dcde f2a2|"Em"g2f2 e2d2|"A7"c2B2 A2G2|\
+"D"F2A2 "G"B2c2|"D"dcde f2a2|"Em"g2f2 "A7"e2Bc|"D"d2f2 d4:|
+P:B
+|:"A"e2AA e2AA|g2f2 e2AA|g2f2 e2d2|"A7"c2B2 A2G2|\
+"D"F2A2 "G"B2c2|"D"dcde f2a2|"Em"g2f2 "A7"e2Bc|"D"d2f2 d4:|
+
+%%text
+%%text
+%%text
+%%text
+%%text
+
+X:8
+T:Kitty McGee
+M:6/8
+L:1/8
+K:D
+P:A
+A|"D"d2d AFA|"D"d3 "A7"efg|"D"f2d "E7"e2d|"A"cec "A7"ABc|"D"d2d AFA|"D"d3 "A7"efg|"D"f2d "A7"e2c|"D"ddd d2:|
+P:B
+|:A|"D"d2f agf|"Em"e2f "A7"g3|"D"f2d "E7"e2d|"A"cAA "A7"A3|"D"aaa "G"g2f|"Em"e2f "A7"g3|"D"f2d "A7"e2c|"D"ddd d2:|
+
+X:9
+T:Major Mackies Jig
+M:6/8
+L:1/8
+K:D
+P:A
+d|"D"ABc dcd|"G6"B2e e2d|"A7"c2a a^ga|"D"f2d d2d|"D"ABc dcd|"G6"B2e e2d|"A7"c2a gfe|"D"d3-d2:|
+P:B
+|:e|"D"f2f def|"Em"g3 g2f|"A7"e2e cde|"D"f3 f2e|"Bm"ddd def|"Em"g2B e2d|"A7"c2a gfe|"D"d3-d2:|
+
+%%newpage
+
+X:21
+T:Double Lead Through
+L:1/8
+M:2/2
+K:G
+P:A
+"G"g2d2 "D"c2A2|"G"G2G2 GABG|"C"E2E2 "D7"F2D2|"G"G8:|
+P:B
+|:"D"A3d ^c2d2|A3d ^c2d2|1"D"A3d "A"e2A2|"D"f8:|2"A7"A2g2 f2e2|"D7"d2=c2 B2A2||
+P:C
+|:"G"G2G2 GABG|"D"A2A2 ABcA|"G"Bcd2 "C"cde2|"D"e2d2 d2ef|
+"Em"g2g2 "C"gfe2|"G"d2d2 dcB2|"C"ABc2 "G"Bcd2|1"C"egfe "D7"dcBA:|2"D7"e2f2 "G"g4|]
+
+X:22
+T:Winster Galop
+L:1/8
+M:2/2
+K:G
+P:A
+"G"G2BB G2B2|"G"G2B2 d4|"D"A2cc B2A2|"G"G2B2 d4|
+"C"c2e2 f2e2|"G"d2B2 d4|"D7"A3c B2A2|"G"G4 G4:| 
+P:B
+|:"G"g2f2 e2d2|g2f2 e2d2|"G"g2ff "C"e2d2|"D"c2B2 A4|
+"D"f2e2 d4|f2e2 d4|"D7"d4 A3c|"G"B2G2 G4:|
+
+%%newpage
+
+X:7
+T:Uttoxeter Swing
+M:2/2
+L:1/8
+K:Em
+P:A
+"Em"E2 EF G2 GB|"D"A2 AG FE D2|"Em"E2 EF G2 GB|"D"AG FG A4|
+"Em"E2 EF G2 GB|"D"A2 AG FE D2|"Em"EB2E "Cmaj7"B2 AG|"D"F2 FG "Em"E4:|
+P:B
+|:"G"B2 BA BA G2|"D"zA AG AG F2|"Em"G2 GF GF E2|"D"FF2G A4|
+"G"B2 BA BA G2|"D"zA AG AG F2|"Em"EB2E "Cmaj7"B2 AG|"D"F2 FG "Em"E4:|
+T:Harmony 1 (Swing Uttoxeter)
+P:A
+"Em"B2 BA G2 GE|"D"F2 FG AB c2|"Em"B2 BA G2 GE|"D"FG FE D4|
+"Em"B2 BA G2 GE|"D"F2 FG AB c2|"Em"BE2B "Cmaj7"E2 FG|"D"A2 AG "Em"E4:|
+P:B
+|:"G"G2 GA GA G2|"D"zF FG FG F2|"Em"E2 EF EF E2|"D"DD2E F4|
+"G"G2 GA GA G2|"D"zF FG FG F2|"Em"BE2B "Cmaj7"E2 FG|"D"A2 AG "Em"E4:|
+T:Harmony 2
+P:A
+"Em"e2 ed B2 ed-|"D"dA de fe d/2e/2f|"Em"e2 ed B2 ed-|dB BA B4|
+"Em"e2 ed B2 ed-|"D"dA de f2 z2|"Em"gf e/2f/2g "Cmaj7"fe d/2e/2f|"D"ef ed "Em"e4:|
+P:B
+|:"G"G2 GA Bc d2-|"D"de d^c de f2|"Em"e2 ef gf eg|"D"ag fe dc BA|
+"G"G2 GA Bc d2-|"D"de d^c de f2|"Em"gB2g "Cmaj7"c2 gg|"D"fg fd "Em"e4:|
+
+%%newpage
+
+X: 12
+T:Black Nag
+M:6/8
+L:1/8
+K:F
+A,| "Dm"D2D "C"E2E | "Bb"F2F "Am"GFG| "Dm"AGF "Am"EDE| "Dm"D3-D2 :|
+|:D |"Am"ECA, ECA,| ECA, ECA,|"Dm"AFD AFD|AFD AFD|
+"Am"ECA, ECA,|ECA, EFG|"Dm"AGF "Am"EDE|"Dm"D3-D2 :|
+
+
+X: 13
+T:Black Nag (harmony part)
+M:6/8
+L:1/8
+K:F
+A|F2A c2c|d2d e2e|f2f g2g|fge d2 :|
+|:d |A2c A2c|A2c c2e|d2f d2f|d2f d2d|
+A2c A2c|A2c c2e|f2f g2g|fge d2 :|
+
+X:14
+T:Black Nag (up an octave)
+M:6/8
+L:1/8
+K:F
+A| "Dm"d2d "C"e2e | "Bb"f2f "Am"gfg| "Dm"agf "Am"ede| "Dm"d3-d2 :|
+|:d |"Am"ecA ecA| ecA ecA|"Dm"afd afd|afd afd|
+"Am"ecA ecA|ecA efg|"Dm"agf "Am"ede|"Dm"d3-d2 :|
+
+%%newpage
+
+X:18
+T:Galopede
+L:1/8
+M:2/2
+K:G
+P:A
+dc|"G"B2Bc "D"A2AB|"G"G2G2 G2AB|"C"cBcd "Am"edcB|"D"A2A2 A2dc|
+"G"B2Bc "D"A2AB|"Em"G2G2 G2"G"AB|"Am"cBAG "D"FGAF|"G"G2G2 G2:|
+P:B
+dc|"G"B2gf "C"e2ed|"Am7"dcBc "D"A2dc|"Em"B2gf "C"edcB|"D"A2A2 A2dc|
+"Em"B2gf "C"e2ed|"Am7"dcBc "D"A2dc|"G"BdcB "D"AcBA|"G"G2G2 G2||
+P:C
+Bc|"G"d2d2 d2g2|d2d2 d2g2|"G"d2d2 "C"edcB|"D"A2A2 A2Bc|
+"G"d2d2 d2g2|d2d2 d2g2|"C"edcB "D"dcBA|"G"G2G2 G2|]
+
+X:19
+T:Girl with the Blue Dress On
+L:1/8
+M:2/2
+K:G
+P:A
+Bc|"G"d2Bd "D"c2Ac|"G"B2G2 GFGB|"D"A2F2 FEFG|"D"A2G2 "G"G2Bc|
+"G"d2Bd "D"c2Ac|"G"B2G2 GFGB|"D"A2F2 FEFG|"G"A2G2 G2:|
+P:B
+|:"G"G2Bd g3f|"C"f2e2 e2z2|"D"D2FA f3e|"G"e2d2 d2z2|
+"Em7"G2Bd "D"g3f|"C"f2"G/b"e2 "Am7"e3g|"D"f2a2 "D7"e2f2|g6:|
+
+%%newpage
+
+X:26
+T:Donkey Riding
+M:2/2
+L:1/4
+K:G
+P:A
+"G"G>A BB|"C"c "D"A "G"B2|"D"BA AG/A/|"D"BA A2|
+"G"G>A BB|"C"c "D"A "G"B2|"D"BA dd|"G"G2G2:|
+P:B
+"C"e2 "G"d>d|"D"cd "G"B2|"D"BA AG/A/|"D"BA A2|
+"C"e2 "G"d>d|"D7"cd "G"B2|"D"BA dd|"G"G2G2:|
+
+X: 25
+T:Over The Hills & Far Away
+M:4/4
+L:1/8
+S:as played by John Adams
+O:England
+A:Everywhere
+K:G
+P:A
+"G"GABA GABA | "G"G2"C"E2E2"D"D2 | "G"GABA GABG | "C"c2 A2 "D"A3 A |
+"G"GABA GABA | "C"G2E2 c2E2 | "D"E2 DC D2GA |1 "G/D"B2A2"D"A3 D:|2"D"B2G2G2Bc||
+P:B
+"G"d2dc B2 BA | "C"G2 E2 E2 "D"D2 | "G"d2dc B2AG | "D7"c2A2A2 Bc |
+"G"d2 dc B2 BA|"C"G2E2 c2E2|"D"E2 DC D2GA |1"G/D"B2A2"D"A2 Bc :|2 "D"B2 G2 G4|]
+
+%%newpage
+
+X:701
+T:Foxhunter's Jig
+M:9/8
+L:1/8
+R:SlipJig
+K:D
+"D"FGF F2D "G"G2E|"D"FGF F2D "A7"E2D| "D"FGF F2D "G"G2B|"D"AFD D2F "A7"E2D:|
+"Bm"B3 BAG FGA|"Em"B2E E2F G2B| "D"ABc dcB "A7"ABc|"D"d2D DEF "A7"E2D:|
+"D"fgf f2d "G"g2e|"D"fgf f2d "A7"e2d| "D"fgf f2d "G"g2b|"D"afd d2f "A7"e2d:|
+"Em"gfe d=cB "D"AGA|"Em"B2E E2F G2B| "D"AB^c dcB "A7"ABc|"D"d2D DEF "A7"E2D:|
+
+X: 9
+T:Sir Roger de Coverley
+% Nottingham Music Database
+S:Trad
+M:9/8
+K:G
+P:A
+"G"G2G "C"G2e "G"dBG|"Am"A2A "C"ABG "D7"FED|\
+"G"G2G "C"G2e "D7"def| "G"g2G "A7"GAG "D7"FED:|
+P:B
+"G"dBd "C"ece "G"dBG|"C"A2A "A7"ABG "D7"FED|\
+"G"dBd "C"ece "D"def| "G"g2G GAG "D7"FED:|
+
+%%newpage
+
+X:25
+T:Jimmy Allen
+B:Join The Band
+M:C|
+L:1/4
+K:G
+P:A
+G/A/|"G"BG GA|"G"B2 GA/B/|"D"cA AB|"D"c2 BA|
+"G"Gg "C"ge|"G"d2 BB/c/|"G"dd "D"cA|"G"G3:|
+P:B
+B/A/|"G"Gg g>f|"G"ed cB|"D"Aa a>f|"D"fd ef|
+"G"g>a "C"ge|"G"d2 BB/c/|"G"dd "D"cA|"G"G3:|
+
+X:26
+T:My Love She's But A Lassie
+B:Join The Band
+M:C|
+L:1/4
+K:D
+P:A
+d/c/|"D"dD FA|"D"dD Dd/c/|"D"dD FA|"A"eE Ed/c/|
+"D"dD FA|"G"Bg fe|"A"d/c/B/A/ Bc|"D"dD D:|
+P:B
+f/g/|"D"a>f "A"g>e|"D"fd df/g/|"D"a>f "G"ga|
+"A"be ef/g/|"D"a>f "A"g>e|"D"f>d "G"e>c|"A"d/c/B/A/ Bc|"D"dD D:|
+
+%%newpage
+
+X:261
+T:La Bourrée à Huit
+B:Massif Central Tune Book no.2
+M:3/8
+L:1/8
+K:G
+P:A
+"G"d2^c|d2A/B/|"D"cBA|"G"BGG|d2^c|d2A/B/|"D"cBA|1"G"G3:|2"G"G2||
+P:B
+D|"G"GFG|D2G|"D"F/G/Ad|"G"BGG|GFG|D2G|"D"F/G/AF|1"G"G2:|2"G"G3|]
+
+X:262
+T:Tiennet
+B:Massif Central Tune Book no.2
+C:Patrick Bouffard
+M:3/8
+L:1/8
+K:Gm
+P:A
+"Gm"BA/B/c|BA/B/c/A/|dcB|"Dm"A/B/A/G/F|"Gm"BA/B/c|BA/B/c/A/|dcB|"Dm"A3:|
+P:B
+"Gm"BA/B/c|GF/G/A|"Dm"DFG|"Gm"BAG|BA/B/c|GF/G/A|"Dm"DF/G/A/F/|"Gm"G3:|
+
+%%newpage
+
+X: 75
+T:Dingle Regatta
+M:6/8
+K:G
+P:A
+"G"d^cd e2d|"G"BAB d2B|"D"A2A AGA|"G"B2A G2d|
+"G"d^cd e2d|BAB d2B|"D"A2A ABA|"G"G3 -G3:|
+P:B
+"D"d3 def|"G"g3 gfg|"D"a2a aga|"G"b2a g2e|
+"D"d3 def| "D"g3 gfg|"D"a2g f2e|"D"def "G"g3:|
+P:C
+"G"g3 d3|"G"BdB G3|"D"FGA DEF|"G"G2B def|
+"G"g3 d3|"G"BdB G3|"D"FGA DEF|"G"G3 -G3:|
+
+
+X: 307
+T:Sweets of May
+M:6/8
+K:G
+P:A
+d2c|"G"B2G "D7"AFD|"G"GAG "D7"Gdc|"G"B2G GAB|"C"c3 "D7"d2c|
+"G"B2G "D7"AFD|"G"GAG "D7"Gdc|"G"B2G "D7"AFD|"G"G3:|
+P:B
+F2G|"Am"ABA A2G|"Em"E2F G3|"Am"ABA c2d|"Dm"e2d "E7"c2B|
+"Am"ABA A2G|"Em"E2F G3|"Am"A2A "G"BAG|"Am"A3:|
+P:C
+B2c|"D"d3 ded|"D"D3 D2B|"Am"c3 cdc|"D7"D3 DEF|
+"G"G2D "D7/a"G2A| "G/b"B2G "C"B2c|"D7"d2d cBA|"G"G3 -G2:|
+
+%%newpage
+
+X:310
+T:Uncle Reuben
+M:2/4
+L:1/8
+K:G
+P:A
+d|"G"gg ed|gg G2|gg ed|"D7"A4|"G"gg ed|"C"gg ed|"A7"B>B BA|"G"G3:|
+P:B
+d|"G"ed BA|B>B BA|B>B BA|B>B "D7"Bd|"G"ed BA|B>B BA|"D7"B>B BA|"G"G3:|
+
+X:311
+T:Old Joe Clark
+M:2/4
+L:1/8
+K:A
+P:A
+"A"ef gf|ed cA|ef gf|"E"e3 e|"A"ef gf|ed cA|Ac "G"BB|"A"A4:|
+P:B
+"A"A2 A2|ed c2|AA cA|"E"B4|"A"A2 A2|ed c2|Ac "G"BB|"A"A4:|
+
+X:312
+T:Eliza Jane
+M:2/4
+L:1/8
+K:D
+P:A
+A|"D"FF "A"ED|"D"FA A2|"G"B "D"A2F|"A"A3 A|"D"FF "A"ED|"D"FA A2|"A"FF2E|1D3:|2D4||
+P:B
+"D"d3A|"G"B2"D"A2|BA2F|"A"A3d|"D"d3A|"G"B2"D"A2|F/F/"A"F FE|1"D"D4:|2"D"D3|]
+
+%%newpage
+
+X: 43
+T:On The Road To Boston
+% Nottingham Music Database
+S:via PR
+M:2/2
+L:1/2
+K:D
+A/2| "D"f f/2e/4f/4| "G"g/2f/2 e/2d/2| "A7"c/2d/2 e/2f/2| "D"d/2A/2 F/2A/2|
+"D"f f/2e/4f/4| "G"g/2f/2 e/2d/2| "A7"c/2d/2 e/2f/2| "D"d-d/2:|
+|:f/4g/4|"D"a a/2g/4a/4| "G"b/2a/2 g/2f/2| "A7"g g/2f/4g/4| "D"a/2g/2 f/2e/2|
+"D(Bm)"f f/2e/4f/4| "G(Em)"g/2f/2 e/2d/2| "A7"c/2d/2 e/2f/2| "D"d-d/2:|
+
+X: 42
+T:Goodbye Girls I'm Going To Boston
+S:via PR
+M:2/2
+L:1/2
+K:D
+A/|"D"D/F/ A3/4A/4|"G"B/>B/ G/E/| "A7"E/F/ G/G/| "D"A/>A/ F/D/|
+"D"D/F/ A3/4A/4| "G"B/>B/ G/E/| "A7"A/A/ G/E/| "D"D3/ :|
+|:A/ | "D"d/d/4d/4 d/e/| d A/B/| "C"=c/c/4c/4 c/d/| =c A|
+"D"d/d/4d/4 d/e/| "D"d A3/4B/4| "C"=c/A/ G/E/| "D"D3/ :|
+
+X: 60
+T:All The Way To Galway
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+P:A
+"D"A3/2B/2 AG|"D"FA d2|"Em"EF GF|"A7"EF G^G|\
+"D"A3/2B/2 AG|"D"FA d2| "A7"cA GE|"D"D2 D2:|
+P:B
+"D"d3/2e/2 fd|"A"cA A2|"G"BG G/2A/2B/2G/2|"D"BA "A7"A2|\
+"D"d3/2e/2 fd| "A"ca a3/2a/2|"G"ba "A7"ge|"D"d2 d2:|
+
+%%newpage
+
+X:14
+T:Waterloo
+Z:Dave Holland dave@biff.org.uk from sheet music from Andrew Swaine
+M:2/2
+L:1/8
+K:G
+P:A
+"G"B,2GE D2BA|G2G2 G2FG|"C"A2A2 "D"GFEF|"G"GABG "D"D2DC|
+"G"B,2GE "D/F"D2BA|"Em7"G2G2 G2"(D)"FG|"C"A2A2 "D"GFEF|"G"G2z2 z4:|
+P:B
+K:D
+"D"A2AF d2dB|A2AF D4|"A"CDEF GFEC|"D"DEFG "A"BAFG|
+"D"A2AF d2dB|A2AF D4|"A"CDEF GFEC|1"D"D2E2 F2G2:|2"D"D2=c2 B2c2||
+P:C
+K:G
+"G"d2dd dGBd|"C"e2"G"d2 "D"c2"G"B2|"D"A2A2 ADBA|"G"GFGA "D"BABc|
+"G"d2dd dGBd|"C"e2"G"d2 "D"c2"G"B2|"D"A2A2 ADBA|"G"GF"D"GA "G"G4:|
+
+%%newpage
+
+X:12
+T:Phillibelula all the way
+M:2/2
+L:1/8
+K:D
+P:A
+f>e|"D"d>cd>B A2G>F|"Em"E>EF>G "A"A2B>c|"D"d>BA>B d>de>c|"D"d6:|
+P:B
+d>e|"D"f2f2 "Bm"f2g>f|"Em"g>fe2 "A"e4|"Bm"d2d2 "E7"d2e>d|"A"c>BA2 "A7"A2B>c|
+"D"(3ded (3cBA "G"B>cd2|"D"(3ded (3cBA "G"B>c"D"d>f|"Em"e2(3efg "A7"a2(3ABc|"D"d6|]
+
+X:13
+T:Paddy McGinty's Goat
+M:2/2
+L:1/8
+K:G
+P:A
+d>c|"G"B2B>A G2G>A|"G"B>AB>cd2d>B|"Am"c>dc>B A>AA>B|"Am"c>Bc>d "D7"e2d>c|
+"G"B2B>A G2G>A|"G"B>AB>cd2d>B|"Am"c>cB>c "D"A>Ad>c|"G"(3BGG "C"G>G "G"G2||
+P:B
+B>d|"G"g2g>g d2d>d|"G"g2g>g d2d>e|"D"f>gf>e d>^cd>e|"A7"f>gf>e "D"d2d2|
+"C"e>eg>e "G"d>dg>d|"D7"c>Bc>d "G"B3B|"Am"c>cB>c "D7"A>Ad>c|"G"(3BGG "C"G>G "G"G2|]
+
+X:14
+T:Hestleyside Ride
+M:2/2
+L:1/8
+K:A
+P:A
+A>B|"A"c2e>c "E7"B>AB>c|"A"A>Bc>de2f>g|"D"a>ga>f "A"e>cB>A|"Bm"f2B2 "E7"B2A>B|
+"A"c2e>c "E7"B>AB>c|"F#m"A>Bc>d "C#m"e2f>g|"D"a>ga>f "E7"e>cA>B|"A"c2A2A2||
+P:B
+c>e|"D"f>ef>g a>ga>f|"A"e>cA>c e2c>e|"D"f>ef>g a>ga>f|"Bm"e>cA>c "E7"B2A>B|
+"A"c2e>c "E7"B>AB>c|"F#m"A>Bc>d "C#m"e2f>g|"D"a>ga>f "E"e>cA>B|"A"c2A2A2|]
+
+%%newpage
+
+X:28
+T:Nellie The Elephant
+M:6/8
+L:1/8
+K:G
+P:A
+"G"Bcd BAG|"G"B2B d2d|"C"e2e gfe|"G"d3 B3|\
+"D7"c2c AAA|"G"ddd B3|1"D/A"f3 "A"e3|"D"d3 "D7"cBA:|2"C"e3 "D"F3|"G"G3-G2G||
+P:B
+"C"Gce g2e|"G"g3 d3|"C"e3 d2c|"G"B3-B2B|\
+"A"A2B ^cBA|"D"d2e ffg|"A"a2g f2e|"D7"d3 cBA|
+"G"Bcd BAG|"G"B2B d2d|"C"e2e gfe|"G"d3 B3|\
+"D7"c2c AAA|"G"ddd B3|"C"e3 "D"F3|"G"G3-G2G|]
+
+X:2
+T:Pop Goes The Weasel
+M:6/8
+L:1/8
+Z:Dave Holland <dave@biff.org.uk>
+K:D
+P:A
+"D"D2F "A"E2G|"D"FAF D3|"D"D2F "A"E2G|"D"F3 D3|\
+"D"D2F "A"E2G|"D"FAF D3|"G"Bz2 "A"E2G|"D"F3 D3:|
+P:B
+"Bm"d2c B2d|"A"cec A3|"G"d2c B2d|"F#m"c3 A3|\
+"Em"G2F G2A|"D"B2c "Bm"d3|"G"Bz2 "A"E2G|"D"F3 D3:|
+
+X:27
+T:The Teddy Bears' Picnic
+M:6/8
+L:1/8
+K:Em
+B,|"Em"E2G "B"FGF|"Em"E2G "B"F2G|"Em"EFG "B"F2G|"Em"E3-E2D|\
+"G"G2B "D"ABA|"G"G2B "D"A2B|"G"GAB "D"A2B|"G"G3-G2d|
+"C"e2d e2d|"D"ABd B2A|"G"A2G A2G|"C"EFG E2D|\
+"C"E2G "G"D2G|"C"EFG "G"D2B|"D"A3-A3|"G"G3-G2:|
+
+%%newpage
+
+X: 9
+T:Caerdroea
+% Nottingham Music Database
+P:AAB
+S:JP/AF 85
+M:3/4
+L:1/4
+K:D
+P:A
+d|"D"AA/2B/2A/2G/2|"D"FAD|"Em"GG/2A/2G/2F/2|"A7"E2d|"D"AA/2B/2A/2G/2|"D"FAD|\
+"G"GF"A7"E|"D"D2:|
+P:B
+D|"Bm"F3/2E/2F/2G/2|"F#m"A3/2A/2A|"Bm"F3/2E/2F/2G/2|"F#m"A2A|"Bm"d3/2c/2d/2e/2\
+|"A"c3/2B/2A|"D"dd/2f/2"A"e/2g/2|
+"D"f2"A/c+"e|"Bm"d3/2c/2B/2d/2|"F#m"c3/2B/2A|"Bm"dF"E7"^G|"A7"A2d|\
+"D"AA/2B/2A/2G/2|"D"FAD|"G"GF"A7"E|"D"D2|]
+
+X: 15
+T:Ffarwel Ir Marian
+% Nottingham Music Database
+P:AAB
+S:JP/AF 85
+M:3/4
+L:1/4
+K:Dm
+P:A
+A|"Dm"A/2d/2A/2=B/2^c/2d/2|"A"eA2|"Gm"f/2g/2f/2e/2d/2e/2|"A7"^cA2|\
+"Dm"A/2d/2A/2G/2A/2F/2|"Gm"B/2d/2B/2A/2B/2G/2|"Dm/a"F/2A/2F"A7"E|"Dm"D2:|
+P:B
+D|"F"Ac3/2A/2|"C"G"F"A2|"F"Ac3/2d/2|"Am"eA2|"Dm"fg3/2f/2|"Am"fed|"E7"c/2e/2c=B\
+|"Am"A2"A7"A|"Dm"A/2d/2A/2=B/2^c/2d/2|
+"A"eA2|"Gm"f/2g/2f/2e/2d/2e/2|"A7"^cA2|"Dm"A/2d/2A/2G/2A/2F/2|\
+"Gm"B/2d/2B/2A/2B/2G/2|"Dm/a"F/2A/2F"A7"E|"Dm"D2|]
+
+X: 6
+T:Blodau'r Drain
+% Nottingham Music Database
+P:AAB
+S:TDA II
+M:3/4
+L:1/4
+K:Am
+P:A
+E|"Am"A2B|"Am/c"cBA|"Dm"ed/2c/2B/2A/2|"E7"B2E|"Am"AA/2c/2"Dm/a"B/2d/2|"Am"cBA|\
+"E7"^GG/2B/2"Am/e"A/2c/2|"E7"B2:|
+P:B
+B|"Am"c2c|"G/b"d2d|"C"ee"F/c"f|"C"e2"G/b"d|"Am"c/2B/2c/2d/2c|"G7/b"d/2c/2d/2e/2 d|
+"C"e/2f/2e/2f/2e/2f/2|"G7"g3/2f/2e/2d/2|"C"c/2B/2c/2d/2e/2c/2| "G"d/2c/2d/2e/2f/2d/2|"Am"eea|
+"E7"^gg/2a/2b/2g/2|"Am"aec |"Dm"fed|"E7"cd/2c/2B/2c/2|"Am"A2|]
+
+%%newpage
+
+X:1
+T:Athole Highlanders
+M:6/8
+L:1/8
+K:A
+P:A
+"A"e3 ecA|ecA Bcd|e3 ecA|"E"Bcd cBA|"A"e3 ecA|ecA Bcd|"A"eae "D"fed|"E7"edB "A"A3:|
+P:B
+|:"A"Ace Ace|"D"Adf Adf|"A"Ace Ace|"E"Bcd c2B|"A"Ace Ace|"D"Adf Adf|"A"eae "D"fed|"E7"cdB "A"A3:|
+P:C
+|:"A"aee edc|aee edc|aee edc|"D"Bcd "E"cBA|"A"aee edc|aee edc|"A"aee "D"fed|"E7"cdB "A"A3:|
+P:D
+|:"A"cAc cAc|"D"dBd dBd|"A"cAc cAc|"G"B=GB BGB|"A"cAc cAc|"D"dcd "E"Bcd|"A"eae "D"fed|"E7"cdB "A"A3:|
+T:Harmony 1
+P:A
+"A"c3 cAE|cAE GAB|c3 cAE|"E"GAB AGE|"A"c3 cAE|cAE GAB|"A"cBc "D"dcB|"E7"ABG "A"A3:|
+P:B
+|:"A"EAc EAc|"D"FAd FAd|"A"EAc EAc|"E"GAB A2G|"A"EAc EAc|"D"FAd FAd|"A"cBc "D"dcB|"E7"ABG "A"A3:|
+P:C
+|:"A"c2c cde|c2c cde|c2c cde|"D"f2e "E"d2B|"A"ccc cde|ccc cde|"A"cBc "D"dcB|"E7"ABG "A"A3:|
+P:D
+|:"A"AEA AEA|"D"BFB BFB|"A"AEA AEA|"G"=GDG GDG|"A"AEA AEA|"D"BAB ^GAB|"A"cBc "D"dcB|"E7"ABG "A"A3:|
+T:Harmony 2
+P:A
+A6-|A6-|A6-|A3 cde|A6-|A6-|A6-|1A3 cde:|2A3 z3||
+P:B
+|:A2A-A2E|F2F-F2D|E2E-E2A|G2A BAG|A2A-A2E|F2F-F2D|E3 A3|GAB A3:|
+P:C
+|:a2a-a2a|g2g-g2g|fga g2f|e3-e2c|d2e fed|c2d edc|B2c dcB|A6:|
+P:D
+|:"A"A2B cBA|"D"B2c dcB|"A"c2d edc|"G"d2e fed|"A"c2d edc|"D"B2c dcB|"A"c3 "D"d3|"E7"BAG "A"A3:|
+
+%%newpage
+
+X:28
+T:Ka-foo-zalum
+B:Join The Band
+M:C
+L:1/8
+K:G
+P:A
+"G"d2 d>c B>c d2|"D"A>B c>B A>B c2|\
+"G"d>e d>c B>c d>g|"G"G>A G>G "D"A2 "G"G2:|
+P:B
+"G"B>G D>G B>G B2|"D"c>A F>A c>A c2|\
+"G"B>G D>G B>G B2|"G"G>A B>G "D"A2 "G"G2:|
+
+X:27
+T:There's Nae Luck About The House
+B:Join The Band
+M:C
+L:1/8
+K:G
+P:A
+d/|"G"g>e d>B "C"c>d e>f|"G"g>e d>B "D"A2 A>d|\
+"G"g>e d>B "C"c>d e>g|"G"d>c "D"B>A "G"G2 G3/2:|
+P:B
+A/|"G"B>B B>G "C"c>c c>A|"G"B>B B>G "D"A2 A>d|\
+"G"B2 B>G "C"c>d e>g|"G"d>c "D"B>A "G"G2 G3/2:|

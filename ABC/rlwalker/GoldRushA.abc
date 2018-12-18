@@ -1,0 +1,23 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Gold Rush	
+C:Byron Berline
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+R:Reel
+Q:60 (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:A    %(D, C)
+"A"ABce fcef|ac ef2 cef|af ecBAFA| E2EF E2 EF|!
+ABce fcef|[ca][fc][ec]c [Be][Ae][Be][ce] | [ac][fc][ec]c "E"[Be][Ae][FA]
+[EA]|[1"A"{F}[A2A2][AA][AA][A2A2]z2:|!
+[2"A"[A2e2][Ae][Ae][A2e2]c'b||:"A"a2f2e2  AB|"D"cBAF"A"E2EE|EFAB cABA|{B}
+[c2e2] [ce][ce] [c2e2] c'b|!
+a2f2e2 AB|"D"cBAF "A"E2EE|EFAB "E"cAFE|[1"A"{F}[A2A2][AA][AA][A2A2] c'b:|!
+|[2"A"{F}[A2A2][AA][AA][A4A4]|]
+

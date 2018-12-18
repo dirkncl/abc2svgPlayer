@@ -1,0 +1,30 @@
+%%scale 0.97
+%%format dulcimer.fmt
+X:1
+T:God Bless America
+C:Irving Berlin (1939)
+M:4/4
+L:1/4
+K:Cmaj
+%%continueall 1
+%%partsbox 1
+|"C"C4| B,2 "G#dim"A,2|"G7"B,3/2 A,/2 G,2-|G,4|D4|
+w:God bless     A-     mer- i-   ca, *  Land
+C2 D2|"C"E4-|"C7"E2 D E|"F"F2 A,2-|A,2 F2|
+w:that I     love,   *     Stand be-  side her,*  and
+"C"E2 G,2-|G,2 C D|"Am"E2 D C|
+w:guide *  her,   Through the   night, with the
+"G7"D2 C B,|"C"C4-|
+w:Light, from a-bove.
+C2 B,3/2 C/2|"G7"D2 G,2-| G,2 C3/2 D/2|
+w:*    From the     moun-  tains, *  to   the
+"C"E2 G,2-| G,2 D3/2 E/2|"G7"F2 B,2-| B,2 E3/2 F/2|
+w:prai-ries, *  to   the     o- ceans, *  white with
+"C"G4-| G4|"F"A4|"C"G2 "G7"F2|"C"E D "Am7"C2-|
+w:foam. *     God   bless  A-    mer-   i-     ca,
+C2 "Dm7"F2|"C"E4|"G7"D4|"C7"G4-| G4|"F"A4|
+w:*       my    home   sweet  home. *     God
+"C"G2 "G7"F2|"C"E D "Am7"C2-|C2 "Dm7"F2|
+w:bless  A-    mer-   i-     ca, *       my
+"C"E4|"G7"D4|"C"C4-| C2 z2|
+w:home   sweet home. *

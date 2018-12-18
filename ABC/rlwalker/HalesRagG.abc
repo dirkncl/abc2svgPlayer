@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.20
+%%format dulcimer.fmt
+X:1
+T:Hale's Rag
+C:Traditional
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+K:Gmaj%(D, C)
+P:A Tune
+|B,
+|"G"D E D E|D E/2 D B,/2 G,|"C"G, A, G, A,|G, A,/2 G, A,/2 G,
+|"G"D E D E|D E/2 D B,/2 G,|"D"F F/2 F E/2 D|A3 B,
+|"G"D E D E|D E/2 D B,/2 G,|"C"G, A, G, A,|G, A,/2 G, A,/2 G,
+|"G"D E D E|D E/2 D B,/2 G,|"D"A, C B, A,|"G"G,3 D
+|G G/2 G E/2 D|E D/2 B, A,/2 G,|B, B,/2 B, G,/2 A,
+|G,3 D|G G/2 G E/2 D|E D/2 B, A,/2 G,|"D"F F/2 F E/2 D|A3 D
+|"G"G E D E|D E/2 D B,/2 G,|B, B,/2 B, G,/2 A,|G, G F =F|"C"E E G E
+|"G"D/2E/2 D/2 B, A,/2 G,|"D"A, C B, A,|"G"G,3|]

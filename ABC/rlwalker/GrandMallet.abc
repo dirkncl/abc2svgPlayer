@@ -1,0 +1,15 @@
+%%scale 1.2
+%%format dulcimer.fmt
+X:1
+T:Two Step de Grand Mallet
+C:Canray Fontenot
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|:"D"A3 F|D3 A|B A E F|"A"G E E F
+|G3 E|E3 A|B A F E|  "D"D4:|
+|:"D"A F D E|F3 A|B A E F|"A"G E E F
+|G3 E|E3 A|B A F E|"D"D4:||
+
+|

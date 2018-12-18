@@ -1,0 +1,38 @@
+%Scale the output
+%%scale 1.15
+%%format dulcimer.fmt
+X:1
+T:Gospel Medley - Jam 'n Folks
+M:4/4
+L:1/4
+K:D
+|"^Give Me That Old Time Religion"A,/2A,/2 B,|"D"D2 D3/2D/2|B, A, D/2D/2 D|"A7"E2 E3/2F/2\
+|E D D/2D/2 E|"D"F2 F3/2F/2|"G"E D2 B,|"D"A, D "A7"E C|"D"D2||\
+M:2/4
+L:1/8
+|"^Uncloudy Day"A,B,|"D"D3/2D/2 DB,|D2 FE|"G"D2 B,2|"D"A,2 A,B,|D3/2D/2 DB,\
+|D2 FA|"A7"A4-|A2 A,B,|"D"D3/2D/2 DB,|D2 FE|"G"D2 B,2|"D"A,4|A4-\
+|A3 B|AFDE|"D"F2 "A7"EE|"D"D4||"D"A4-|A3 B|A2 FE|D2"G"E2|"D"F4\
+|A4-|A3 B|A2 FE|"E"D2 FF|"A7"E4-|E2 A,B,|"D"D3/2D/2 DB,|D2 FE\
+|"G"D2 B,2|"D"A,4|A4-|A3 B|A2 F2|D2 E2|F2 "A7"EE|"D"D4-|D2||\
+M:4/4
+L:1/4
+|"D""^Leaning on the Everlasting Arms"f f f3/4e/4 d|"G""^Verses"e e e3/4d/4 B|"D"A A e3/4c/4 d/2e/2\
+|f f "A"e2|"D"f f f3/4e/4 d|"G"e e e3/4d/2 B\
+|"D"A A d3/4c/4 d/2e/2|"A"f e "D"d2||"^CHORUS"f2 d2\
+|"G"d2 B2|"D"A d3/4c/4 d d|f f "A"e2|"D"f2 d2\
+|"G"d2 B2|"D"A A e3/4c/4 d/2e/2|"A"f e "D"d2||\
+|"^Will the Circle Be Unbroken"A, B,|"D"D2 D2-|D2 F E|D2 F2-|F2 F E|"G"D3 E\
+|D2 B,2|"D"A,4-|A,2 A, B,|D2 D2-|D2 F A|A2 F2-\
+|F2 "^TAG"D E|F2 F2|E2 ("A"F E)|"D"D4-|D2||\
+|"D""^I'll Fly Away"F "^VERSES"D A, D|F/2E/2F/2G/2 "D7"F2|"G"D3 B,/2B,/2|"D"A,4\
+|F D A, D|F/2E/2F/2G/2 F2|F3 "A7"E/2E/2|"D"D4\
+|"^CHORUS"A3 F/2A/2|A F "D7"E D|"G"D3 B,/2B,/2|"D"A,4\
+|"^TAG"A, B, D D/2E/2|F/2E/2F/2G/2 F2|F3 "A7"E/2E/2|"D"D4||\
+|"A7""^When the Saints Go Marching In"F E|"D"D2 D2|"D7"F2 A2|"G"A G3-|G2 "G#dim"B B\
+|"D"A2 F2|"E7"D2 F2|"A7"E4-|E2 F E|"D"D2 D2|"D7"F2 A2|"G"A G3-\
+|G2 "G#dim"B B|"D"A2 F2|"A7"E2 E2|"D"D2-"G"D2-|"D"D D F "A7"G\
+|"D"A4-|A D F "A7"G "D"A4-|A D F "A7"G\
+|"D"A2 F2|"E7"D2 F2|"A7"E4-|E F F E|"D"D3 D\
+|"D7"F2 A A|"G"A !fermata!G3-|G2 "G#dim""^TAG"B B|"D"A2 F2|"E7"D2 "A7"E2\
+|"D"D2- "G/D"D2-|"D"D z:||

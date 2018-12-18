@@ -1,0 +1,72 @@
+B:Whatever I Wish To Call This Book
+
+% From the index page:
+% This special collection of Old Favorite Melodies, Patriotic Songs, and College Songs,
+% together with some of the newer songs of unusual excellence, we mail, prepaid
+% for 10c a copy.  Special rates for quantity lots.
+
+% This was a little stapled soft-cover booklet of tunes published by this piano manufacturer
+% in 1919.  Under U.S. copyright law, all of the material in this booklet is now in the
+% public domain.
+
+% The booklet actually contained 102 songs, plus a blank page for "your state song."
+% The booklet doesn't specify which of the 102 songs is not one of the "best."
+
+% Transcribed by John Atchley, guitarnut.com
+% This isn't by any means a rare booklet, but most existing copies are in pretty
+% bad shape as they were printed on very poor quality paper.  I scanned all of the
+% pages at very high resolution and will be archiving the images to CD, along with
+% some other books I am transcribing.  If you really need the original source for
+% one of these songs let me know and I can e-mail you the scanned image (the full-
+% resolution images are about 3.8mb each, though).
+
+% Assign global decoration shortcuts
+U:H=!fermata!
+U:L=!accent!
+U:l=!crescendo(!
+U:k=!crescendo)!
+U:q=!diminuendo(!
+U:p=!diminuendo)!
+U:S=!segno!
+U:s=!D.S.!
+U:O=!coda!
+U:o=!D.C.!
+U:Z=!fine!
+U:r=!breath!
+
+X:1
+T:Good-Night, Ladies
+S:Source "The One Hundred and One Best Songs" - The Cable Company - 1919 - Chicago, Illinois
+M:4/4
+L:1/4
+Q:1/4=110
+K:Bb
+% Four-part piano arrangement for standard notation.
+%%staves [(1 2) (3 4)]
+%%vocalfont Times-Roman 12
+V:1 clef=treble
+!f!"@{Sostenuto."d2 B2 | F/4 B3/4-B2 z | d2 B2 | c/4 c3/4-c2 z | d2 B2 | e/4 e3/4-e2 z/ e/ | d > d
+w:1.~Good-night, la-dies!* Good-night, la-dies!* Good-night, la-dies!* We're going to
+w:2.~Fare-well, la-dies!* Fare-well, la-dies!* Fare-well, la-dies!* We're going to
+w:3.~Sweet dreams, la-dies!* Sweet dreams, la-dies!* Sweet dreams, la-dies!* We're going to
+V:2 clef=treble
+!f!"@{Sostenuto."F2 D2 | D/4 D3/4-D2 z | F2 F2 | F/4 F3/4-F2 z | F2 _A2 | G/4 G3/4-G2 z/ G/ | F > F
+V:3 clef=bass
+%%MIDI transpose -24 
+%%jsastem=dn
+!f!"@{Sostenuto."b2 f2 | f/4 f3/4-f2 z | b2 b2 | a/4 a3/4-a2 z | b2 b2 | b/4 b3/4-b2 z/ b/ | b > b
+V:4 clef=bass 
+%%MIDI transpose -24 
+%%jsastem=dn
+!f!"@{Sostenuto."B2 B2 | B/4 B3/4-B2 z | B2 d2 | f/4 f3/4-f2 z | B2 d2 | e/4 e3/4-e2 z/ e/ | f > f
+V:1
+c > c | B3 z |: "@{Allegro."d3/4 c/4 B/ c/ d/ d/ d |1 c/ c/ c d/ f/ f :|2 "^Ritard molto."c3/4 c/4 d/ c/ "^@^Repeat pp."B2 |]
+w:
+w:leave you now. Mer-ri-ly we roll a-long, roll a-long, roll a-long, O'er the dark blue sea.
+w:
+V:2
+E > E | D3 z |: "@{Allegro."F3/4 F/4 F/ F/ F/ F/ F |1 F/ F/ F F/ F/ F :|2 "^Ritard molto."E3/4 E/4 F/ E/ "^{Repeat pp."D2 |]
+V:3
+a > f | f3 z |: "@{Allegro."b3/4 e'/4 d'/ c'/ b/ b/ b |1 a/ a/ a b/ d'/ d' :|2 "^Ritard molto."a3/4 a/4 a/ f/ "^{Repeat pp."f2 |]
+V:4
+f > f | B3 z |: "@{Allegro."B3/4 B/4 B/ B/ B/ B/ B |1 f/ f/ f B/ B/ B :|2 "^Ritard molto."f3/4 f/4 f/ f/ "^{Repeat pp."B2 |]

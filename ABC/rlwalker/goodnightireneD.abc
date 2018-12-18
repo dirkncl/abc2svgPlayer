@@ -1,0 +1,27 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:Goodnight, Irene
+C:Huddie Ledbetter and John Lomax
+M:3/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|"^Intro"f|f2 f|e2 d|e2 d|B2 B|A2 e|f2 e|d A B|d f e|\
+|:"D""^Chorus"d3|"Bdim"e2 d|"A7"c2 B|A3|e3|f2 e|"D"d3-|d2 d/2f/2\
+w:I-rene  good-ni-_ght. I-rene  good-night_ Good_
+|"D7"f2 f|e2 d|"G"e2 d|B2 B|"A7"A2 e|f2 e|"D""^Fine verse 3"d2- "G"d-|"D"d2||\
+w:night I-rene, good-night I-rene, I'll see you in  my dreams.___
+|d|"D""^Verses"d d d|"Bdim"e d B|"A7"c e2-|e2 a|a a a|e2 f/2 e/2|"D"d3-|d2 a\
+w:1~Last Sa-tur-day night I got mar-ried_ | Me and my wife set-tled down,_ Now
+w:2~|Some-times I live in the coun-try,_ | Some-times I live in the town_  |
+w:3~Stop ram-blin',__ Stop your gam-blin'_ Stop stay-in out late * at night_ Go
+|"D7"a f f|e2 d|"G"B d2-|d z/2 B/2 B/2 B/2|"A7"A3/2 e/2 e/2 e/2\
+w:me and my wife are part-ed_ I'm gon-na take a-no-ther
+w:Some-times I have~a great no-tion_ * To * jump in-to the
+w:home to your wife~and your fam-'ly_ * Sit * down * by the
+|f2 e|"D"d3-|"A7"d z2:|
+w:stroll down town._ |
+w:river and drown._ |
+w:fire-side bright._ |

@@ -1,0 +1,33 @@
+%Scale the output
+%%scale 1.03
+%%format dulcimer.fmt
+X:1
+T:Great Speckled Bird (The)
+C:
+M:2/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|F A\
+w:1~What a
+w:2~The_
+w:3~I am
+w:4~When He
+|"D"A  F/2D/2|F G/2F/2|"G"E/2  B,3/2-|B, B\
+w:beau-ti-ful thought I am think-ing,_ Con-
+w:great speck-led bird sits in splen-dor,_ All~sur-
+w:glad that I come to your meet-ing,_ I'm
+w:comes, if He comes, I will greet Him_ On~a
+|"A7"A G/2F/2|E D/2E/2|"D"F2-|F A|A F/2D/2|F G/2F/2\
+w:cern-ing the great speck-led bird,_ Re-mem-ber his name is re-
+w:rounded and de-spised by the mob._ The great speck-led bird is the
+w:proud that my name~is of a bird,_ For~I want to be one nev-er
+w:cloud that is floating in the Word._ I~will rise up,  my Sav-ior, to
+|"G"E/2B,3/2-|B, B/2B/2|"A7"A G/2F/2|E F/2E/2|"D"D2-|D||
+w:cord-ed_ In the great Book of God's  Ho-ly Word._
+w:Bi-ble,_ Re-pre-sent-ing the great Church of God._
+w:fear-ing,_ In the arms of my Sav-ior's true Word._
+w:greet Him,_ On the wings of a great speck-led bird._
+
+
+

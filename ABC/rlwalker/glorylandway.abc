@@ -1,0 +1,26 @@
+%Scale the output
+%%scale 1.05
+%%format dulcimer.fmt
+X:1
+T:Glory Land Way (The)
+C:J.S. Torbett
+M:4/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+%V:1 treble clef
+K:D%(D, C)
+|"D""^Verses"F A2 B A2 F2|"G"EDDB, "D"A,4|D D2 D FE D2|"A"E6 z2
+w:I'm in the way, the bright and shin-ing way, I'm in the glo-ry-land way;
+w:List to the call, the gos-pel call to-day, Get in the glo-ry-land way;
+w:On-ward I go, re-joic-ing in His love, I'm in the glo-ry-land way;
+w:
+|"D"F A2 B A2 F2|"G"EDDB, "D"A,2 D2|F F2 D FF E2|"D"D6 z2||
+w:Tell-ing the wold that Je-sus saves to-day, Yes, I'm in the glo-ry-land way.
+w:Wan-d'rers come home, Oh has-ten to o-bey, And get in the glo-ry-land way.
+w:Soon I shall see him in that home a-bove Oh, I'm in the glo-ry-land way.
+w:
+|"G""^Refrain"D D2 E DD B,2|"D"D6 (3FED|F A2 B AF D2|"A"E6 z2
+w:I'm in the glo-ry-land way, ___I'm in the glo-ry-land way;
+w:
+|"D"F A2 B AFDD|"G"E D2 "D"B, B,A, D2|F F2 D "A"FF E2|"D"+fermata+D6 z2||
+w:Heav-en is near-er and the way grow-eth clear-er, For I'm in the glo-ry-land way.
+w:

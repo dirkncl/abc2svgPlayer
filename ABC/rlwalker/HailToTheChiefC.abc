@@ -1,0 +1,18 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:Hail to the Chief
+C:James Sanderson (1760-1841
+R:march
+Z:2009 John Chambers <jc:trillian.mit.edu>
+M:4/4
+L:1/8
+K:C
+[| "C"G2 "F"(A>B) "C"c2 "G7"(B>A) | "C"(G>A) (GE) "G7"D2 "C"C2 \
+| "C"G2 (c>d) e2 "G7"(d>c) | "G7"(d>c) de d4 |
+| "C"G2 "F"(A>B) "C"c2 "G7"(B>A) | "C"(G>A) (GE) "G7"D2 "C"C2 \
+| "C"G2 (c>B) "F"(Ac) "C"GE | "C"G2 (c>d) c4 ||
+|| "C"e2 (e>e) e2 "F"(f>e) | "G7"(d>c) (de) (dB) G2 \
+| "C"e2 (e>e) "F"(fe) "C"dc | "G7"(dG) G2 G4 |
+| "C"c2 (c>B) "F"A2 cA | "C"(Gc) cd e2 c2 \
+| "F"A2 cA "C"(G>A) GE | "C"G2 (c>d) c4 |]

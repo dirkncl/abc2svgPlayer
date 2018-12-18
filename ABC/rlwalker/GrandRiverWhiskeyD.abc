@@ -1,0 +1,14 @@
+%%scale 1.2
+%%format dulcimer.fmt
+X:1
+T:Grand River Whiskey
+C:(researching)
+M:4/4
+L:1/8
+%%continueall 1
+%%partsbox 1
+K:D
+|:"D"A, B,3 D2 DE|F2 F2 ED B,2|A, B,3 D2 DE|FE D2 "G"B,4
+|"D"A, B,3 D2 DE|F2 F2 ED B,2|A,2 B,2 A,2 B,2|D4 D4:|
+|:"D"defg a2 a2-|a2 a2 fe d2|"G"b4 b3 a|b2 a2 fe d2
+|"D"defg a2 a2-|a2 a2 fe d2|f2 f2 ed B2|"A7"dAFE "D"D4:||
