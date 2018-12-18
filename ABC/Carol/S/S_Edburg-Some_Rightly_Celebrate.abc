@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: S Edburg
+Z: Arthur H. Brown
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  D | E2 D (D G) B | (d3 d2) d | d2 d d2 d | (d3 d)z D | _E2 D (D F) A | (c3 c2) e | d2 G (G B) A | (A3 A)z c | (B A) G F2 E | (^D3 D2) D | E2 ^G (^c ^d) e | (^d3 d)z [M: 2/2]  B | A2 G2 F2 E2 | c4 A4 | B6|]
+w: Some right- ly ce-_ le brate_ Thy ho- ly vir- gin fame:_ Some praise re- nowned_ and great_ Thine A- po sto_ lic name;_ And some_ would thee in- state_ A- mong the Pro-_ phet Choir:_ Christ's Mar- tyr doth our lays in- spire.
+[V: P2]  D | E2 D (D G) B, | (D3 D2) G | F2 G (A G) F | (G3 G)z D | _E2 D (D F) A, | (C3 C2) (E/F/) | (G D) (E/D/) ^C2 C | (D3 D)z F | F2 E C2 A, | (B,3 B, C) B, | B,2 E F2 F | (F3 F)z [M: 2/2]  B | A2 G2 F2 E2 | (E2 F G) (G2 F2) | G6|]
+[V: P3]  D, | E,2 D, (D, G,) B, | (D3 D2) B, | A,2 B, (C B,) A, | (B,3 B,)z D, | _E,2 D, (D, F,) A, | (C3 C2) C | D2 B, (A, G,) E, | (F,3 F,)z A, | B,2 B, A,2 E, | (F,2 ^G, A,2) (B,/A,/) | ^G,2 ^C C2 ^A, | (B,3 B,)z [M: 2/2]  B, | A,2 G,2 F,2 E,2 | (A,2 E2) D4 | D6|]
+[V: P4]  D, | E,2 D, (D, G,) B, | (D3 D2) D, | D,2 D, D,2 D, | (G,3 G,)z D, | _E,2 D, (D, F,) A, | (C3 C2) A, | B,2 E, A,,2 A,, | (D,3 D,)z D, | ^D,2 E, A,,2 C, | (B,,3 B,,2) (^G,/F,/) | E,2 ^C, ^A,,2 F,, | (B,,3 B,,)z [M: 2/2]  B, | A,2 G,2 F,2 E,2 | A,,4 D,4 | G,,6|]
+

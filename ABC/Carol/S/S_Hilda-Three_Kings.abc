@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: S. Hilda
+Z: Arthur H. Brown
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+Q: 1/4=440
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: A
+[V: P1]  A4 A4 F2 E4 | A4 A4 B4 | A4 A4 F2 E4 | A4 A4 B2 B2 E4 | B2 | c2 d2 e2 A2 | B2 c2 d2 | G2 | A2 B2 c2 F2 | F2 G2 A2 | B2 | c2 d2 e2 A2 | B2 c2 d2 | G2 | A2 B2 c2 F2 | F2 G2 A2|]
+w: Three kings were led by God's own Hand, With guid- ing star from East- ern land, To Je- sus through Jer- u sa lem, Un- to the stall in Beth- le hem. God, to that In- fant bring us too, That we may be His ser- vants true.
+[V: P2]  E4 E4 D2 C4 | C4 C4 E4 | E4 E4 ^D2 E4 | E4 E4 E2 ^D2 E4 | G2 | A2 G2 A3 G | F3 E D2 | D2 | C2 F2 ^E2 (F =E) | D2 D2 C2 | G2 | A2 G2 A3 G | F3 E D2 | D2 | C2 F2 ^E2 (F =E) | D2 D2 C2|]
+[V: P3]  C4 C4 A,2 A,4 | A,4 A,4 G,4 | A,4 A,4 B,2 G,4 | A,4 A,4 (F, G,) A,2 G,4 | E2 | E2 D2 C2 C2 | (F, G,) ^A,2 B,2 | B,2 | A,2 F,2 G,2 (F, ^A,) | B,2 B,2 A,2 | E2 | E2 D2 C2 C2 | (F, G,) ^A,2 B,2 | B,2 | A,2 F,2 G,2 (F, ^A,) | B,2 B,2 A,2|]
+[V: P4]  A,,4 A,,4 D,2 A,4 | F,4 F,4 E,4 | C,4 C,4 B,,2 E,4 | C,4 C,4 B,,2 B,,2 E,4 | E,2 | A,2 B,2 C2 (F, E,) | D,2 C,2 B,,2 | E,2 | F,2 D,2 C,2 (D, C,) | B,,2 E,2 A,,2 | E,2 | A,2 B,2 C2 (F, E,) | D,2 C,2 B,,2 | E,2 | F,2 D,2 C,2 (D, C,) | B,,2 E,2 A,,2|]
+

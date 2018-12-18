@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Saione
+Z: Traditional Italian
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: F
+[V: P1]  A | d d d | c c c | B B B | A A A | c c c | B B A | G G A | F F A | A G A | F F F | F E F | D2 D|]
+w: It was a young Mo- ther In alb with ap- pa rels, Was sing- ing of Ca- rols, One af- ter a- no ther. It was a young Mo- ther, It was a young Mo- ther.
+[V: P2]  A | F A F | E E E | D F D | C C F | E E E | D (D/ E/) F | F E E | D C C | F E (F/ E/) | D D D | D D ^C | D2 D|]
+[V: P3]  A, | A, A, A, | C A, A, | F, F, F, | A, F, F, | G, G, G, | (G,/ A,/) (B,/ C/) D | D C C | B, A, (F,/ G,/) | (A,/ B,/) C C | B, A, A, | A, A, A, | A,2 A,|]
+[V: P4]  A, | D, F, D, | A, A, A,, | B,, D, B,, | F, F, D, | C, (C,/ D,/) (E,/ F,/) | G, G, D, | B,, C, A,, | B,, F,, F, | F, C, A,, | (B,,/ C,/) D, (D,/ E,/) | (F,/ G,/) A, A,, | D,2 D,|]
+

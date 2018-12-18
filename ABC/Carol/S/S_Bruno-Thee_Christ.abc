@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: S Bruno
+Z: Arthur H. Brown
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+Q: 1/4=300
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: A
+[V: P1]  c2 | A2 F2 E2 A2 | F2 E2 E2 C2 | E2 (F G) A2 (B c) | d2 c2 B2 c2 | A2 F2 E2 A2 | F2 E2 E2 A2 | B3 B c2 (^d e) | A2 F2 E2 E2 | F2 E2 d2 c2 | B2 A2 G2 E2 | F2 E2 d3 c | G2 A2 B2 c2 | e2 c2 ^A2 B2 | d2 c2 B2 F2 | G2 A2 e3 d | c2 B2 A2|]
+w: Thee, Christ, we laud and mag- ni fy, The Fa- ther's_ Son om-_ ni po tent, To Whom the bless- ed ones on high Raise end- less prai- ses_ ju- bi lant. Sweet in- fant bands Thy glor- ies sing With- in that Ci- ty fair and bright, Slaugh- tered by He- rod, im- pious King, In thought to do Thee foul des- pite.
+[V: P2]  E2 | C2 D2 C2 E2 | D2 B,2 C2 A,2 | E2 D2 C2 (D E) | D2 E2 E2 E2 | E2 D2 B,2 E2 | (D C) B,2 C2 (C F) | E3 E E2 (F E) | F2 ^D2 E2 B,2 | B,2 E2 D2 E2 | E3 ^D E2 (B, C) | D2 E2 E3 E | E2 (C ^D) E2 E2 | E2 =G2 F2 F2 | F3 E D2 D2 | (E D) C2 E3 F | E3 D C2|]
+[V: P3]  A,2 | E,2 (F, G,) A,2 A,2 | A,2 G,2 A,2 E,2 | A,2 (D B,) A,2 (F, E,) | (F, G,) A,2 G,2 A,2 | A,2 A,2 G,2 A,2 | A,3 G, A,2 C2 | B,3 D C2 B,2 | C2 (B, A,) G,2 G,2 | G,2 A,2 (F, G,) A,2 | B,2 (C A,) B,2 G,2 | A,2 A,2 B,3 A, | B,2 A,2 G,2 A,2 | B,2 E2 C2 B,2 | B,2 ^A,2 B,2 B,2 | B,2 A,2 A,3 A, | A,2 G,2 A,2|]
+[V: P4]  A,,2 | A,,2 A,,2 A,,2 C,2 | D,2 E,2 A,2 A,,2 | C,2 B,,2 (F, E,) (D, C,) | B,,2 (C, D,) E,2 A,,2 | C,2 D,2 E,2 C,2 | D,2 E,2 A,2 F,2 | G,3 G, A,3 G, | F,2 B,,2 E,2 E,2 | D,2 C,2 B,,2 (A,, A,) | G,2 F,2 E,2 E,2 | D,2 C,2 G,,3 A,, | E,2 F,2 E,2 A,2 | =G,2 E,2 F,2 (D, E,) | F,2 F,2 B,2 B,,2 | E,2 F,2 C,3 D, | E,2 E,2 A,,2|]
+

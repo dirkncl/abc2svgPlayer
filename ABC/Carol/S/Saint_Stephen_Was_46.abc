@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Saint Stephen Was An Holy Man
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/2
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  (G3/ ^F/) | G2 (d3/ e/) | d3 c | (B c) (d c/B/) | c2z (B3/4c/4) | d2 d2 | (c B) A2 | G2 (G3/ ^F/) | G2 (d3/ e/) | d3 c | (B c) (d c/B/) | c2z (B3/4c/4) | d2 d2 | (c B) A2 | G2 ^F2 | (G3/ A/) (B c) | d3 B | c2 B2 | A2z A | B2 A2 | B2 c2 | d2z A | (B c) (d e) | d3 c | (B c) (d c/B/) | c2z (B3/4c/4) | d2 d2 | (c B) A2 | G2"^Chorus" ^F2 | (G3/ A/) (B c) | d3 B | c2 B2 | A2z A | B2 A2 | B2 c2 | d2z A | (B c) (d e) | d3 c | (B c) (d c/B/) | c2z (B3/4c/4) | d2 d2 | (c B) A2 | G2|]
+w: Saint_ Ste- phen_ was an ho-_ ly__ man, En-_ dued with heaven-_ ly might, And_ ma- ny_ won- ders did_ he__ work Be-_ fore the peo-_ ple's sight. And by_ the_ bles- sed Spirit of God, Which did his heart in- flame, He spa-_ red_ not in ev-_ 'ry__ place To_ preach Christ Je-_ sus' name. O man,_ do_ ne- ver faint nor fear When God the truth shall try, But mark_ how_ Ste- phen for_ Christ's__ sake Was_ wil- ling for_ to die.
+[V: P2]  D2 | D2 G2 | F2 F2 | D2 D2 | F2 F2 | F2 F2 | G2 F2 | D2 D2 | D2 G2 | F2 F2 | D2 D2 | F2 F2 | F2 F2 | G2 F2 | D2 D2 | D2 G2 | ^F2 G2 | (G ^F) (G3/ =F/) | E2 ^F2 | G3 ^F | G2 G2 | ^F2z F | G2 G2 | F2 F2 | D2 =E2 | F2 (F E) | (D E) F2 | G2 F2 | D2 D2 | D2 G2 | ^F2 G2 | (G ^F) (G3/ =F/) | E2 ^F2 | G3 ^F | G2 G2 | ^F2z F | G2 G2 | F2 F2 | D2 =E2 | F2 (F E) | D E F2 | G2 F2 | D2|]
+[V: P3]  A,2 | B,2 B,2 | B,2 A,2 | B,2 B,2 | A,2 (B, A,/4) | B,2 (B, A,) | G,2 (C A,) | B,2 A,2 | B,2 B,2 | B,2 A,2 | B,2 B,2 | A,2 (B, A,/4) | B,2 (B, A,) | G,2 (C A,) | B,2 A,2 | B,2 G,2 | A,2 (B, D) | C2 D2 | ^C2 D2 | D2 C2 | (D B,) (A, G,) | A,2z D | B,2 B,2 | B,2 A,2 | B,2 B,2 | A,2 B,2 | B,2 (B, A,) | (G, E) (C A,) | B,2 A,2 | B,2 G,2 | A,2 (B, D) | C2 D2 | ^C2 D2 | D2 C2 | (D B,) (A, G,) | A,2z D | B,2 B,2 | B,2 A,2 | B,2 B,2 | A,2 B,2 | B,2 (B, A,) | (G, E) (C A,) | =B,2|]
+[V: P4]  D,2 | G,2 (G, E,) | B,,2 F,2 | G,3 G, | F,2 (D, F,/4) | B,2 D,2 | E,2 F,2 | G,2 D,2 | G,2 (G, E,) | B,,2 F,2 | G,3 G, | F,2 (D, F,/4) | B,2 D,2 | E,2 F,2 | G,2 D,2 | G,2 E,2 | D,2 G,2 | A,2 G,2 | A,2 D,2 | G,2 A,2 | G,2 E,2 | D,2z D, | G,2 E,2 | B,,2 F,2 | G,2 G,2 | (F, E,) (D, C,) | (B,, C,) | D,2 | E,2 F,2 | G,2 D,2 | G,2 E,2 | D,2 G,2 | A,2 G,2 | A,2 D,2 | G,2 A,2 | G,2 E,2 | D,2z D, | G,2 E,2 | B,,2 F,2 | G,2 C,2 | (F, E,) (D, C,) | (B,, C,) D,2 | E,2 F,2 | G,2|]
+
