@@ -1,0 +1,26 @@
+X:1
+T:Only Time
+C: Enya
+G: New Age
+Z:Oleandra Fields of Silverlode & Grodak
+M:4/4
+L:1/8
+Q:1/4=50
+K:Eb
+E,B, EB, G,B, zB,|E,B, EB, GB, zB,|E,B, EB, GB, zB,|
+E,B, EB, G,B, zB,|EB, EB, EB, zD|DE EG, EG, zD|DE EE, CE, zD|
+E,E EB, G,B, zB,|EB, EB, EB, zD|EG, EG, EG, zD|EE, EE, CE, zD|
+E,E EB, G,B, zB|E,B E,B, G,B, zB,|CE FG EG, zG,|CE FE CE, zE,|
+FF, B,F, FF, zG|E,G CG E,G zG,|CE FG BG, zG,|FG FE CE, zE,|
+FF, FF, DF zG|FF, B,F, B,F, zF|EB, EB, EB, zD|EG, EG, EG, zD|
+EE, EE, CE, zD|G,E EB, GB, zB,|EB, EB, EB, zD|EG, EG, EG, zD|
+EE, EE, CE, zD|G,E EB, GB zB|E,B EB GB zB|CE FG CE zG|
+CE FE CE zE|FF, B,F, FF, zF,|GG, CG, E,G zG,|CE FG BG, zG,|
+FG FE FG zE|FF, FF, DF zG|FF, B,F, B,F, zF|EB, EG FG BG|
+EG, EG FG cG|EE, EG FG BG|G,E E,G FG FE|EB, EG FG BG|
+EG, EG FG cG|EE, EG FG BG|E,E EG FG FE|EE, EG FG BG|
+E,E E,G FG FE|E,B, E,G FG FE|_D2 _D_G =B,_G _B,2-|B,B, _D_G, _D_G AF|
+E_G _D3_D _G,_G|_D_G _G_G E_G _D2-|_D_D _G,_G, _D_G AF|E_G F2 EB, E,B,|=G,B, E,B, E,B, E,B,|G,B, E,B, EB, E=G|FG BG EG, EG|FG cG EE, EG|
+FG BG E,E E,G|FG FE EB, EG|FG BG EG, EG|FG cG EE, EG|
+FG BG E,E E,G|FG FE EE, EG|FG BG E,E E,G|FG FE EE, EG|
+FG BG E,E E,G|FG FE E,B EG|FG FE E,B, E,G|FG FE E,z E2-|E4- E

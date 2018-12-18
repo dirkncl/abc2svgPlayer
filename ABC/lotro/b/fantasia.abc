@@ -1,0 +1,37 @@
+X:1
+T:Fantasia in D Minor
+Z:Hoho, Windfola server 
+M:4/2
+L:1/8
+Q:120
+K:C
+D,/2d7/2 A,/2A7/2 F,/2F/2ED2 z2 D/2d/2^c | D/2d3/2 F,/2F3/2 G,/2G3/2 A,/2A3/2 D,/2D3/2 F2 A2 d2 | f2 A,G,A,2 B,2 C2 G,/2e/2d C/2f/2edc |
+d2 _B,/2G/2A,_B,/2g3/2 A,G,A2 D,/2f/2e D/2g/2fed | e2 C/2A/2B,C/2a3/2 A,2 _B2 gfe2d2 | A,/2^c3/2 ^cde2 D,/2d/2f A,/2c/2e a2 e2 D,/2d/2f |
+A,/2^c/2e ef ^C,/2e/2g D,/2d/2f A,/2^c/2e3 z4 | D,/2d7/2 A,/2A7/2 F,/2F/2ED2 z2 D/2d/2^c | D/2d3/2 F,/2F3/2 G,/2G3/2 A,/2A3/2 D,/2D3/2 F,2 A,2 D2 |
+F2 AGF,/2A3/2 B2 c2 E,/2G/2D,E,/2c3/2 D,C, | D,2 G,/2_B/2A G,/2c/2_BAG A2 F,/2D/2E, F,/2d3/2 E,D, | E,2 A,/2c/2=B A,/2d/2c=BA ^G,/2=B3/2 e^d=G/2e/2=Bc=B |
+^F,/2A3/2 Bc =F/2B3/2 A2 E,/2^G/2EFE C,/2A/2EB,/2B/2E | A,/2c/2EFE D,/2B/2EC,/2c/2E B,/2d/2EFE A,/2c/2EF,/2d/2E | E,/2e/2^G,A,/2E/2B, E,/2e/2A,B,/2E/2C E,/2e/2^G,A,/2E/2B, E,DCB, |
+C/2a3/2 B,A, ^G,/2e3/2 E,2 A,/2c/2B A2 B,A, ^G,/2e3/2 | A,/2d/2cC,/2B/2A D,/2c/2BE,/2A/2^G C,/2A/2cBA F,/2d/2cBc | C,/2A/2cBA A,/2c/2BE,/2A/2^G C,/2A/2cBA e2 ^G,2 |
+A,/2d/2cD,/2B/2A E,/2E3/2 E,/2^G3/2 A,/2A/2^cea g^fga | ^f/2D,/2^F,A,D CB,CD B,/2GBdg =fefg | e/2C,/2E,G,C _B,A,_B,C f/2A,3/2 G,F, c/2E,3/2 C,2 |
+F,/2A/2GF2 A,G,F,2 g/2_B,3/2 A,G, d/2^F,3/2 D,2 | G,/2_B/2AG2 A,G, ^F,/2d3/2 G,/2c/2_B_B,/2A/2G C,/2_B/2AD,/2G/2^F | G,/2G3/2 _B2 d2 g2 _b2 DCD2 E2 |
+F2 F,/2a/2g F/2_b/2agfg2 G/2=B,/2A, g/2B,3/2 ^C2 | D2 D,/2f/2e D/2g/2fed ^C/2e3/2 ag C/2a/2efe | B,/2d3/2 ef _B,/2e3/2 d2 A,/2^c3/2 ^cd e2 D,/2d/2f |
+A,/2^c/2e a2 e2 D,/2d/2f A,/2^c/2e ef ^C,/2e/2g D,/2d/2f | A,/2^c/2e A,/2d/2c _B,/2d3/2 G,/2e3/2 c/2A,/2^C,E,A, G,^F,G,A, | ^F,/2D/2^FAd cBcd B/2G,/2B,D,G, =F,E,F,G, |
+E,/2C/2EGc _BA_Bc F,/2FAcf _ed_ef | D,/2_B/2d_B,/2f/2_b F,/2a/2gD,/2a/2b _E,/2g/2^f^C,/2g/2a D,/2=f/2eB,/2f/2g | C,/2_e/2dA,/2_e/2f _B,/2d/2^c^G,/2d/2=e ^c/2A,/2A,G,A, d/2F,/2A,e/2E,/2A, |
+f/2D,/2D^CD e/2G,/2Df/2F,/2D g/2E,/2D^CD D,/2f/2e_B,/2f/2g | A,/2a/2e^cA A,/2a/2fdA A,/2a3/2 A2 zg^C/2f/2e | D/2g/2fF,/2e/2d G,/2f/2eA,/2d/2^c F,/2d/2fed _B,/2g/2fef |
+F,/2d/2fed D,/2f/2eA,/2d/2^c F,/2d/2fed a2 ^C2 | D/2g/2fG,/2e/2d A,/2A3/2 A,/2^c3/2 D,/2DEFG A,/2A/2 D/2d/2^c | D/2d3/2 F,/2F3/2 G,/2G3/2 A,/2A3/2 D,/2D7 |
+C,/2C/2^F/2A/2_e6 C,/2C/2^F/2A/2_e6 C,/2C/2^F/2A/2_e6 | C,/2C/2^F/2A/2_e14 z8 | ^F,/2d7/2 ^f4 a4 _e4 d4 c4 | G,/2_B7/2 A4 G8 z8 |
+B,/2^G/2d/2f13/2 B,/2^G/2d/2f13/2 B,/2^G/2d/2f13/2 | B,/2^G/2d/2f29/2 z8 | ^G,/2e7/2 ^g4 b4 f4 e4 d4 | A,/2c7/2 B4 A8 z8 |
+^c/2A/2E/2A,/2G,/2A,/2G,/2^F,G,7 ^c/2A/2E/2A,/2G,/2A,/2G,/2^F,G,7 ^c/2A/2E/2A,/2G,/2A,/2G,/2^F,G,7 | ^F,/2A,/2D/2d/2c/2d/2c/2Bc7 ^F,/2A,/2D/2d/2c/2d/2c/2Bc7 ^F,/2A,/2D/2d/2c/2d/2c/2Bc7 | B/2G/2D/2G,/2F,/2G,/2F,/2E,F,7 B/2G/2D/2G,/2F,/2G,/2F,/2E,F,7 B/2G/2D/2G,/2F,/2G,/2F,/2E,F,7 | E,/2G,/2C/2c/2_B/2c/2_B/2A_B7 E,/2G,/2C/2c/2_B/2c/2_B/2A_B7 E,/2G,/2C/2c/2_B/2c/2_B/2A_B7 |
+F,/2A,/2C/2A13/2 z8 B4 E,/2c7/2 ^c4 | D,/2d7/2 e4 f4 ^f4 g4 ^g4 | ^D,/2a7/2 A4 E,/2A/2c7 E,/2^G/2B7 | A,/2A23/2 |
+D,/2d7/2 A,/2A7/2 F,/2F/2ED2 z2 D/2d/2^c | D/2d3/2 F,/2F3/2 G,/2G3/2 A,/2A3/2 D,/2D3/2 F2 A2 d2 | f2 A,G,A,2 B,2 C2 G,/2e/2d C/2f/2edc |
+d2 _B,/2G/2A,_B,/2g3/2 A,G,A2 D,/2f/2e D/2g/2fed | e2 C/2A/2B,C/2a3/2 A,2 _B2 gfe2d2 | A,/2^c3/2 ^cde2 D,/2d/2f A,/2c/2e a2 e2 D,/2d/2f |
+A,/2^c/2e ef ^C,/2e/2g D,/2d/2f A,/2^c/2e3 z4 | D,/2d7/2 A,/2A7/2 F,/2F/2ED2 z2 D/2d/2^c | D/2d3/2 F,/2F3/2 G,/2G3/2 A,/2A3/2 D,/2D3/2 F,2 A,2 D2 |
+F2 AGF,/2A3/2 B2 c2 E,/2G/2D,E,/2c3/2 D,C, | D,2 G,/2_B/2A G,/2c/2_BAG A2 F,/2D/2E, F,/2d3/2 E,D, | E,2 A,/2c/2=B A,/2d/2c=BA ^G,/2=B3/2 e^d=G/2e/2=Bc=B |
+^F,/2A3/2 Bc =F/2B3/2 A2 E,/2^G/2EFE C,/2A/2EB,/2B/2E | A,/2c/2EFE D,/2B/2EC,/2c/2E B,/2d/2EFE A,/2c/2EF,/2d/2E | E,/2e/2^G,A,/2E/2B, E,/2e/2A,B,/2E/2C E,/2e/2^G,A,/2E/2B, E,DCB, |
+C/2a3/2 B,A, ^G,/2e3/2 E,2 A,/2c/2B A2 B,A, ^G,/2e3/2 | A,/2d/2cC,/2B/2A D,/2c/2BE,/2A/2^G C,/2A/2cBA F,/2d/2cBc | C,/2A/2cBA A,/2c/2BE,/2A/2^G C,/2A/2cBA e2 ^G,2 |
+A,/2d/2cD,/2B/2A E,/2E3/2 E,/2^G3/2 A,/2A/2^cea g^fga | ^f/2D,/2^F,A,D CB,CD B,/2GBdg =fefg | e/2C,/2E,G,C _B,A,_B,C f/2A,3/2 G,F, c/2E,3/2 C,2 |
+F,/2A/2GF2 A,G,F,2 g/2_B,3/2 A,G, d/2^F,3/2 D,2 | G,/2_B/2AG2 A,G, ^F,/2d3/2 G,/2c/2_B_B,/2A/2G C,/2_B/2AD,/2G/2^F | G,/2G3/2 _B2 d2 g2 _b2 DCD2 E2 |
+F2 F,/2a/2g F/2_b/2agfg2 G/2=B,/2A, g/2B,3/2 ^C2 | D2 D,/2f/2e D/2g/2fed ^C/2e3/2 ag C/2a/2efe | B,/2d3/2 ef _B,/2e3/2 d2 A,/2^c3/2 ^cd e2 D,/2d/2f |
+A,/2^c/2e a2 e2 D,/2d/2f A,/2^c/2e ef ^C,/2e/2g D,/2d/2f | A,/2^c/2e A,/2d/2c _B,/2d3/2 G,/2e3/2 c/2A,/2^C,E,A, G,^F,G,A, | ^F,/2D/2^FAd cBcd B/2G,/2B,D,G, =F,E,F,G, |
+E,/2C/2EGc _BA_Bc F,/2FAcf _ed_ef | D,/2_B/2d_B,/2f/2_b F,/2a/2gD,/2a/2b _E,/2g/2^f^C,/2g/2a D,/2=f/2eB,/2f/2g | C,/2_e/2dA,/2_e/2f _B,/2d/2^c^G,/2d/2=e ^c/2A,/2A,G,A, d/2F,/2A,e/2E,/2A, |
+f/2D,/2D^CD e/2G,/2Df/2F,/2D g/2E,/2D^CD D,/2f/2e_B,/2f/2g | A,/2a/2e^cA A,/2a/2fdA A,/2a3/2 A2 zg^C/2f/2e | D/2g/2fF,/2e/2d G,/2f/2eA,/2d/2^c F,/2d/2fed _B,/2g/2fef |
+F,/2d/2fed D,/2f/2eA,/2d/2^c F,/2d/2fed a2 ^C2 | D/2g/2fG,/2e/2d A,/2A3/2 A,/2^c3/2 D,/2DEFG A,/2A/2 D/2d/2^c | D/2d3/2 F,/2F3/2 G,/2G3/2 A,/2A3/2 D,/2D7 |

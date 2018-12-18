@@ -1,0 +1,98 @@
+X:1
+T:Strangelove, Depeche Mode (lute solo) [v.1 by Cranberry]
+N:"Strangelove" by Depeche Mode from the album "Music for the Masses", 1987.
+N:LotRO adaptation by Cranberry of the Mighty Mighty Bree Tones, Landroval server.
+M:4/4
+L:1/8
+Q:1/4=120
+K:G % 1 sharps
+[E,-E,-E,-][E/2-E,/2E,/2E,/2]E/2 G[EE,E,] A2 GE| 
+[E,-E,-][E/2-E,/2E,/2]E/2 G[EE,E,] A[AE,E,] GE| 
+[C,-C,-][E/2-C,/2C,/2]E/2 G[EC,C,] A2 GE| 
+A,-[E/2-A,/2]E/2 G[EA,] d[dG,-] [B/2-G,/2]B/2[GD,]|
+[E,-E,-][E/2-E,/2E,/2]E/2 G[EE,E,] A2 GE| 
+[E,-E,-][E/2-E,/2E,/2]E/2 G[EE,E,] A[AE,E,] GE| 
+[C,-C,-][E/2-C,/2C,/2]E/2 G[EC,C,] A2 GE| 
+[A,-A,-][E/2-A,/2A,/2]E/2 G[EA,A,] dE E[B-G-E-]|
+[B2-G2-E2-E,2] [B-G-E-][BGEE,] xE [EE,-][B-G-E-E,]| 
+[B2-G2-E2-E,2] [B-G-E-][BGEE,] x2 [EE,-][d-G-E-E,]| 
+[dGEC,-][c-G-E-C,] [cGE][B-G-E-C,] [BGE]E- [EC,-][EC,]| 
+[dFDD,-][c-F-D-D,] [cFD][B-F-D-D,] [BFD]E [EB,-][B-G-E-B,]|
+[B2-G2-E2-E,2] [B-G-E-][BGEE,] x2 [EE,-][B-G-E-E,]| 
+[B2-G2-E2-E,2] [B-G-E-][BGEE,] xE [EE,-][EE,]| 
+[dGEC,-][dGEC,] [c-G-E-][cGEC,] [B2G2E2] [E2C,2]| 
+[GDD,-][A-F-D-D,] [AFD][B-F-D-D,] [BFD]E [EB,-][EB,]|
+[GEB,E,-][GEB,E,] [FB,][FB,E,] [E2B,2] [B,E,-][B,E,]| 
+[GEB,E,-][F-B,-E,] [FB,][E3B,3E,3] [B,E,-][A-E-C-E,]| 
+[AECC,-][AECC,] [GEC][GECC,] [FC][D-C-] [D2C2C,2]| 
+[AFDD,-][G-D-D,] [GD][F-D-D,] [FD]B- [BB,-][AB,]|
+[B2-G2-E2-E,2] [B-G-E-][BGEE,] E2 [B2G2E2E,2]| 
+[A2-F2-D2-D,2] [A-F-D-][AFDD,] [D2-A,2-F,2-] [D2A,2F,2D,2]| 
+[E2-B,2-G,2-E,2] [E-B,-G,-][E-B,-G,-E,] [E2-B,2-G,2-] [E2B,2G,2E,2]| 
+[d-G-D-C,-][dGDC,] [cGE][dD,] [B-F-D-][BFDD,-] [GD,][EB,]|
+[B-G-E-E,][B-G-E-B,] [B-G-E-D,][BGEE,-] [E-EE,-][FE-E,] [GE-][BE-]| 
+[E3/2-E3/2C3/2-A,3/2-][F/2-E/2-C/2-A,/2] [F/2-E/2-C/2-][G/2-F/2E/2-C/2-][GE-CD,] [F2E2-D2] [E-DD,-][E-B,D,]| 
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][AE-]| 
+[d3/2B3/2E3/2-E3/2-A,3/2-][c/2-A/2-E/2-E/2-A,/2] [c/2-A/2-E/2-E/2-][d/2-c/2B/2-A/2E/2-E/2-][dBE-ED,] [B-F-E-D-][BFE-DD,-] [GE-D,][E-EB,]|
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][AE-]| 
+[E2-A,2] [E-EC][E-ECD,] [BE-D][AE-] [E-ED,-][B-G-E-E-D,]| 
+[B2G2E2-E2E,2] [E-E][E-EE,] [F2E2-] [GE-E,-][E-E-C-E,]| 
+[E2-E2C2A,2] [E-EC][E-ED,] [F2E2-D2] [GE-D,-][E-D-B,-D,]|
+[E2-D2B,2G,2] [E-D][F-E-B,-G,] [FE-B,][FE-] [GE-B,G,-][E-C-G,]| 
+M:2/4
+L:1/8
+[E2-C2C,2] [E-DD,][E-DD,]| 
+M:4/4
+L:1/8
+[E-DE,-E,-][E/2-E/2-D/2-E,/2E,/2][E/2-E/2D/2] [GE-D][E-EE,E,] [A2E2-] [GE-][E-E]| 
+[E-E,-E,-][E/2-E/2-E,/2E,/2][E/2-E/2] [GE-][E-EE,E,] [AE-][AE-E,E,] [GE-][E-E]|
+[E-C,-C,-][E/2-E/2-C,/2C,/2][E/2-E/2] [GE-][E-EC,C,] [A2E2-] [GE-][E-E]| 
+[E-A,-A,-][E/2-E/2-A,/2A,/2][E/2-E/2] [GE-][E-EA,A,] [dE-][E-E] [E-E][B-G-E-E-]| 
+[B2-G2-E2-E2-E,2] [B-G-E-E-][BGE-EE,] E-[E-E] [E-EE,-][B-G-E-E-E,]| 
+[B2-G2-E2-E2-E,2] [B-G-E-E-][BGE-EE,] E-[E-E] [E-EE,-][E-EE,]|
+[d2G2E2-E2C,2] [cGE-E][B-G-E-E-C,] [BGE-E][E-E] [E-EC,-][d-A-F-E-C,]| 
+[dAFE-D,-][dE-D,] [cE-][B-F-E-D-D,] [BFE-D][E-E] [E-EB,-][B-G-E-E-B,]| 
+[B2-G2-E2-E2-E,2] [B-G-E-E-][BGE-EE,] E2- [E-EE,-][B-G-E-E-E,]| 
+[B2-G2-E2-E2-E,2] [B-G-E-E-][BGE-EE,] E-[E-E] [E-EE,-][E-EE,]|
+[d2G2E2-E2C,2] [cGE-E][B-G-E-E-C,] [BGE-E][E-E-] [E-EC,-][G-E-E-C,]| 
+[GE-ED,-][A-F-E-D,] [AFE-][B-F-E-D,] [BFE-][E-E] [E-EB,-][G-E-E-B,-B,]| 
+[GE-EB,E,-][GE-E,] [FE-][E-E-B,-E,] [E-EB,][E-B,] [E-B,E,-][E-B,E,]| 
+[G2E2-E2B,2E,2] [FE-][E-E-B,-E,] [E-EB,][E-B,] [E-B,E,-][E-B,E,]|
+[AE-ECC,-][AE-ECC,] [GE-][F-E-E-C-C,] [FE-EC][E-D] [E-DC,-][E-DC,]| 
+[AFE-DD,-][AFE-DD,] [GE-][F-E-D-D,] [FE-D][B-F-E-D-] [BFE-DB,-][AE-B,]| 
+[B2-G2-E2-E2-E,2] [B-G-E-E-][BGE-EE,] [E2-E2] [B2G2E2-E2E,2]| 
+[A2-F2-E2-D2-D,2] [A-F-E-D-][AFE-DD,] [E2-D2-A,2-F,2-] [E2-D2A,2F,2D,2]|
+[E2-E2-B,2-G,2-E,2] [E-E-B,-G,-][E-E-B,-G,-E,] [E2-E2-B,2-G,2-] [E2-E2B,2G,2E,2]| 
+[d-G-E-E-C,-][dGE-EC,] [cGE-E][dE-D,] [B-F-E-D-][BFE-DD,-] [GE-D,][E-ED,]| 
+[E2-E2E,2] E-[E-B,E,] [E-D][E-D] [E-DE,-][E-EE,]| 
+[E2-E,2] E-[E-B,E,] [E-D][E-D] [E-DE,-][E-E-C-E,]|
+[E2-E2C2C,2] E-[G-E-E-C,] [G2E2-E2] [E2-C,2]| 
+[E-A,-][E-EA,] [GE-][E-EA,] [d/2-E/2-][d/2E/2-][dE-] [BE-G,-][GE-G,]| 
+[E2-E2E,2] E-[E-B,E,] [E-D][E-D] [E-DE,-][E-EE,]| 
+[E2-E,2] E-[E-B,E,] [E-D][E-D] [E-DE,-][E-E-C-E,]|
+[E2-E2C2C,2] E-[G-E-E-C,] [G2E2-E2] [E2-C,2]| 
+[E-A,-][E-EA,] [GE-][E-EA,] [d/2-E/2-][d/2E/2-][dE-] [BE-G,-][GE-G,]| 
+[B-G-E-E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][BE-]| 
+[E3/2-E3/2C3/2-A,3/2-][F/2-E/2-C/2-A,/2] [F/2-E/2-C/2-][G/2-F/2E/2-C/2-][GE-CD,] [F2E2-D2] [E-DD,-][E-B,D,]|
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][AE-]| 
+[d3/2B3/2E3/2-E3/2-A,3/2-][c/2-A/2-E/2-E/2-A,/2] [c/2-A/2-E/2-E/2-][d/2-c/2B/2-A/2E/2-E/2-][dBE-ED,] [B-F-E-D-][BFE-DD,-] [GE-D,][E-EB,]| 
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][cE-]| 
+[E2-A,2] [E-EC][E-ECD,] [BE-D][AE-] [E-ED,-][BE-D,]|
+[B-G-E-E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][BE-]| 
+[E3/2-E3/2C3/2-A,3/2-][F/2-E/2-C/2-A,/2] [F/2-E/2-C/2-][G/2-F/2E/2-C/2-][GE-CD,] [F2E2-D2] [E-DD,-][E-B,D,]| 
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][AE-]| 
+[d3/2B3/2E3/2-E3/2-A,3/2-][c/2-A/2-E/2-E/2-A,/2] [c/2-A/2-E/2-E/2-][d/2-c/2B/2-A/2E/2-E/2-][dBE-ED,] [B-F-E-D-][BFE-DD,-] [GE-D,][E-EB,]|
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][cE-]| 
+[E2-A,2] [E-EC][E-ECD,] [BE-D][AE-] [E-ED,-][BE-D,]| 
+[B-G-E-E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][BE-]| 
+[E3/2-E3/2C3/2-A,3/2-][F/2-E/2-C/2-A,/2] [F/2-E/2-C/2-][G/2-F/2E/2-C/2-][GE-CD,] [F2E2-D2] [E-DD,-][E-B,D,]|
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][AE-]| 
+[d3/2B3/2E3/2-E3/2-A,3/2-][c/2-A/2-E/2-E/2-A,/2] [c/2-A/2-E/2-E/2-][d/2-c/2B/2-A/2E/2-E/2-][dBE-ED,] [B-F-E-D-][BFE-DD,-] [GE-D,][E-EB,]| 
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][cE-]| 
+[E2-A,2] [E-EC][E-ECD,] [BE-D][AE-] [E-ED,-][BE-D,]|
+[B-G-E-E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][BE-]| 
+[E3/2-E3/2C3/2-A,3/2-][F/2-E/2-C/2-A,/2] [F/2-E/2-C/2-][G/2-F/2E/2-C/2-][GE-CD,] [F2E2-D2] [E-DD,-][E-B,D,]| 
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][AE-]| 
+[d3/2B3/2E3/2-E3/2-A,3/2-][c/2-A/2-E/2-E/2-A,/2] [c/2-A/2-E/2-E/2-][d/2-c/2B/2-A/2E/2-E/2-][dBE-ED,] [B-F-E-D-][BFE-DD,-] [GE-D,][E-EB,]|
+[E-E,][B-G-E-E-B,] [B-G-E-E-D,][BGEEE,-] [E-EE,-][FE-E,] [GE-][cE-]| 
+[E2-A,2] [E-EC][E-ECD,] [BE-D][AE-] [E-ED,-][B-E-D,]|[B2E2]

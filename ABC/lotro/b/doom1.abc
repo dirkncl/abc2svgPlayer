@@ -1,0 +1,28 @@
+X:1
+T:Doom1 E3M8 : Dis[X-command]
+z: X-command
+M:4/4
+L:1/8
+Q:1/4=248
+K:Eb
+z3z/2D,/2 z/2F,/2z/2D,F,D,/2-|D,/2F,D,/2 z/2F,/2z/2D,F,D,F,A,/2-|A,/2zG,3/2z/2D,F,D,/2 z/2F,/2z/2D,/2-|D,/2F,D,F,D,/2 z/2F,/2z/2D,F,A,/2-|
+A,/2zG,3/2z/2D,F,D,F,D,/2|z/2F,/2z/2D,F,D,F,D,/2 z/2F,/2z/2A,/2-|A,/2zG,3/2z/2D,/2 z/2F,/2z/2D,F,D,/2-|D,/2F,D,/2 z/2F,/2z/2D,F,D,F,A,/2-|
+A,z/2G,3/2z/2D,F,D,/2 z/2F,/2z/2D,/2-|D,/2F,D,F,D,/2 z/2F,/2z/2D,F,A,/2-|A,/2zG,3/2z/2D,F,D,F,D,/2|z/2F,/2z/2D,F,D,F,D,/2 z/2F,/2z/2A,/2-|
+A,/2zG,3/2z/2D,/2 z/2F,/2z/2D,F,D,/2-|D,/2F,D,/2 z/2F,/2z/2D,F,D,F,A,/2-|A,/2zG,3/2z/2D,F,D,/2 z/2F,/2z/2D,/2-|D,/2F,D,F,D,/2 z/2F,/2z/2D,F,A,/2-|
+A,z/2G,zG,B,G,B,G,/2|z/2B,/2z/2G,B,G,B,G,/2 z/2B,/2z/2_D,/2-|_D,/2zC,3/2z/2G,/2 z/2B,/2z/2G,B,G,/2-|G,/2B,G,/2 z/2B,/2z/2G,B,G,B,_D,/2-|
+_D,/2zC,3/2z/2G,B,G,/2 z/2B,/2z/2G,/2-|G,/2B,G,B,G,/2 z/2B,/2z/2G,B,_D,/2-|_D,/2zC,3/2z/2G,B,G,B,G,/2|z/2B,/2z/2G,B,G,B,G,/2 z/2B,/2z/2C,/2-|
+C,z/2=D,3/2z/2D,/2 z/2F,/2z/2D,F,D,/2-|D,/2F,D,/2 z/2F,/2z/2D,F,D,F,A,/2-|A,/2zG,3/2z/2D,F,D,/2 z/2F,/2z/2D,/2-|D,/2F,D,F,D,/2 z/2F,/2z/2D,F,A,/2-|
+A,/2zG,3/2z/2D,F,D,F,D,/2|z/2F,/2z/2D,F,D,F,D,/2 z/2F,/2z/2A,/2-|A,/2zG,3/2z/2D,/2 z/2F,/2z/2D,F,D,/2-|D,/2F,D,/2 z/2F,/2z/2D,F,D,F,A,/2-|
+A,z/2G,zC,E,C,/2 z/2E,/2z/2C,/2-|C,z/2D,3/2z/2D,/2 z/2F,/2z/2D,F,D,/2-|D,z/2C,3/2z/2C,E,C,E,C,/2-|C,z/2D,3/2z/2D,F,D,/2 z/2F,/2z/2D,/2-|
+D,z/2C,3/2z/2C,/2 z/2E,/2z/2C,E,C,/2-|C,z/2D,3/2z/2D,F,D,F,D,/2-|D,z/2G,3/2z/2_G,F,=E,/2 z/2_E,/2z/2D,/2-|D,z/2=A,3/2z/2_A,/2 z/2=G,/2z/2_G,F,=E,/2-|
+=E,z/2D,6-D,/2-|D,8-|D,8-|D,3/2zD,/2z/2F,/2 z/2D,F,D,F,/2-|
+F,/2D,/2z/2F,/2 z/2D,F,D,F,A,z/2|z/2=G,3/2 z/2D,F,D,/2z/2F,/2 z/2D,F,/2-|F,/2D,F,D,/2z/2F,/2 z/2D,F,A,z/2|z/2G,3/2 z/2D,F,D,F,D,/2z/2F,/2|
+z/2D,F,D,F,D,/2z/2F,/2 z/2A,z/2|z/2G,3/2 z/2D,/2z/2F,/2 z/2D,F,D,F,/2-|F,/2D,/2z/2F,/2 z/2D,F,D,F,A,3/2|z/2G,3/2 z/2D,F,D,/2z/2F,/2 z/2D,F,/2-|
+F,/2D,F,D,/2z/2F,/2 z/2D,F,A,z/2|z/2G,3/2 z/2D,F,D,F,D,/2z/2F,/2|z/2D,F,D,F,D,/2z/2F,/2 z/2A,z/2|z/2G,3/2 z/2D,/2z/2F,/2 z/2D,F,D,F,/2-|
+F,/2D,/2z/2F,/2 z/2D,F,D,F,A,z/2|z/2G,3/2 z/2D,F,D,/2z/2F,/2 z/2D,F,/2-|F,/2D,F,D,/2z/2F,/2 z/2D,F,A,3/2|z/2G,zG,B,G,B,G,/2z/2B,/2|
+z/2G,B,G,B,G,/2z/2B,/2 z/2_D,z/2|z/2C,3/2 z/2G,/2z/2B,/2 z/2G,B,G,B,/2-|B,/2G,/2z/2B,/2 z/2G,B,G,B,_D,z/2|z/2C,3/2 z/2G,B,G,/2z/2B,/2 z/2G,B,/2-|
+B,/2G,B,G,/2z/2B,/2 z/2G,B,_D,z/2|z/2C,3/2 z/2G,B,G,B,G,/2z/2B,/2|z/2G,B,G,B,G,/2z/2B,/2 z/2C,3/2|z/2=D,3/2 z/2D,/2z/2F,/2 z/2D,F,D,F,/2-|
+F,/2D,/2z/2F,/2 z/2D,F,D,F,A,z/2|z/2G,3/2 z/2D,F,D,/2z/2F,/2 z/2D,F,/2-|F,/2D,F,D,/2z/2F,/2 z/2D,F,A,z/2|z/2G,3/2 z/2D,F,D,F,D,/2z/2F,/2|
+z/2D,F,D,F,D,/2z/2F,/2 z/2A,z/2|z/2G,3/2 z/2D,/2z/2F,/2 z/2D,F,D,F,/2-|F,/2D,/2z/2F,/2 z/2D,F,D,F,A,3/2|z/2G,zC,_E,C,/2z/2E,/2 z/2C,3/2|
+z/2D,3/2 z/2D,/2z/2F,/2 z/2D,F,D,3/2|z/2C,3/2 z/2C,E,C,E,C,3/2|z/2D,3/2 z/2D,F,D,/2z/2F,/2 z/2D,3/2|z/2C,3/2 z/2C,/2z/2E,/2 z/2C,E,C,3/2|
+z/2D,3/2 z/2D,F,D,F,D,3/2|z/2G,3/2 z/2_G,F,=E,/2z/2_E,/2 z/2D,3/2|z/2=A,3/2 z/2_A,/2z/2=G,/2 z/2_G,F,2=E,/2-|=E,3/2

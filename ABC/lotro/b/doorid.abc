@@ -1,0 +1,166 @@
+X:1
+T:Riders of the Storm
+C:The Doors
+N:Asphyx of Brandywine
+G:Classic Rock
+I:Lute, Harp, Theorbo
+Q:1/4=250
+M:1/4
+L:1/8
+K:C
+E, B, G, B, E, A, ^C, A, |
+E, B, G, B, E, A, ^C, A, |
+E, B, G, B, E, A, ^C, A, |
+E, B, G, B, E, A, E^C, AA, BeE, B|
+E, BB, G, B, E, A, ^C, A, E, |
+E, B, G, B, E, GA, A^C, ^FG EA, FGE, |
+GE, B, ^FG, DB, E, _EA, E^C, A, =E, |
+E, B, G, B, E, A, ^C, A, E, |
+E, B, G, B, E, |
+G, deB, ^cE, d BA, cAC, B GAA, FGE, |
+E, GE^FB, DEG, ^CB, DB, E, C A, A, B, G, C, A, F, A, G, E, E, B, |
+E, B, G, B, G, B, E, A, ^C, D, A, ^F, A, E, G, B, E, |
+E, G, B, B, G, B, E, A, ^F, D, ^C, A, A, |
+B, E, E, G, B, G, B, E, A, ^F, D, A, ^C, E, A, |
+E, B, G, E, B, G, B, E, A, ^F, D, ^C, A, A, |
+E, B, E, EG, B, EG, G DB, E, E A, ^C, D, ^F, A, A, E, |
+B, E, E, G, E B, G, B, E, A, ^F, ^C, D, A, E, A, |
+E, EG, E, B, B, EG, G B, D EE, A, D, ^C, ^F, A, A, |
+G, B, E, E, E B, G, B, E, E A, D ^C, B, EG, A, =C, E, A, AA, |
+A C, A, A, E, A A, AA, G A^F, A, D, B, A, A, D, B, F, A, A, G, B, CA, E, |
+A, A G, A, E, C A, A, A, ^F, A, D F, A, A, DA, DA, E, |
+B, EE, E, G, EB, G, G B, D EE, A, D, ^F, ^C, E, G, A, A, |
+B, E, G, E, E B, G, B, E, A, ^C, EA, E |
+D, G, B, E, AD, A AD, ^F, D, A, D, GAD, D, AD, D, D, F, C, GA, |
+C, G, GC, E, C, GC, E C, G, E, EC, C, C, C, |
+E, B, F, EG, B, E, G, G, B, GA, ^CB, D EE, A, E, C, A, CA, E, B, D |
+E, E B, E, G, B, D A, B, ^CE, A, E, A, C, E A, CDE, B, G, E |
+E, G, B, EB, E, G, G, GB, ^CB, A, E, E A, E, C, A, CA, B, D |
+E, E E, B, DB, G, B, A, ^CE, A, EE, C, A, E A, CDE, E, G, EB, |
+G, E, EB, B, E, EG, GG, B, A, B, ^C E, E E, A, C, A, C DB, A, E, |
+E, E E, B, DB, G, B, A, ^CE, E, A, C, CA, E, A, EA, B, =C, E, A, A |
+A, C, E, A, A AA, GA, D, ^F, A, AB, D, A, F, B, A, A, |
+A, E, G, CA A, E, CG, A, A, A, ^F, A, D A, DF, A, A, A, E, G, E, B, E |
+E, G, B, E EB, G, GB, D E, E A, D, ^F, A, ^C, E, G, F, A, |
+B, E, A, G, E, E B, G, B, E, A, ^C, A, E |
+D, E, B, AG, AD, D, ^F, A, AD, D, G D, AD, D, A D, C, F, D, A, G |
+C, C, E, G, G G C, C, E, A, C, E C, C, G, EE, C, C, C, E, G, B, E |
+E, G, B, E B, E, G, G, B, GB, A, ^CD E, E A, E, C, A, C A, B, DE, |
+E, E B, E, B, G, D B, A, ^CB E, A, E, C, A, C A, E, E, G, B, |
+E, G, B, B, E, G, G, B, B, A, ^CE, A, E, C, A, C A, B, DE, |
+E, B, E, G, B, DB, A, ^C E, A, E, C, A, C A, E, E, G, B, |
+E, G, B, B, E, G, G, B, B, A, ^CE, A, E, C, A, C A, B, D |
+E, B, E, G, B, D B, E, E A, D^C, B, G, A, A, =C, E, G, |
+A, C, E, A, A, A, A, A, D, ^F, B, A, D, F, B, A, A, A, E, G, C |
+A, E, G, C A, A, A, ^F, A, D A, F, A, DA, A, E, =F, E, G, B, |
+E, G, B, B, G, B, E, A, ^C, D, ^F, A, A, |
+E, E, G, B, B, G, B, E, A, ^C, A, |
+D, E, G, B, D, D, D, ^F, A, D, D, D, D, D, D, F, A, C, |
+C, C, C, E, G, C, C, G, C, E, C, G, C, E, C, C, C, E, G, B, |
+E, G, B, B, E, G, G, B, B, A, ^CE, A, E, C, A, C A, B, DE, |
+E, B, E, G, B, D B, A, ^CE, A, E, C, A, C A, E, E, G, B, |
+G, B, B, E, G, G, B, B, A, ^CE, A, E, A, CC, A, E, B, DE, |
+B, E, G, B, DB, A, ^C E, A, E, C, A, CE A, E, DE, G, B, E |
+E, G, B, E B, E, EG, G, B, G B, A, ^CG E, E A, E, C, A, C A, B, DE, |
+E, E B, E, B, G, B, DB, A, ^CE, A, E, C, A, CE A, E, DE, G, B, E |
+E, G, B, EB, E, EG, G, B, G B, A, ^C E, E A, E, C, A, C A, E, A, B, DE, |
+E, E B, E, G, B, D B, E, B, E, E A, D ^C, B, A, G, B, B, =C, E, G, A, AA, |
+A, A, C, E, AA, A, A A, G A, D, ^F, B, A A, D, F, B, A, A, A, E, G, C |
+A, E, G, CA A, A, A, ^F, A, ^CD A, F, A, DA, A, E, |
+E, EG, B, E, B, EG, G B, D E, E A, ^C, ^F, A, D, E, A, |
+E, G, B, A, E, E B, G, B, E, A, ^C, A, E |
+D, E, G, B, AD, A D, AD, ^F, A, D, GD, A D, D, A D, C, D, F, A, G |
+C, C, E, G, G C, GC, G, C, E, E C, G, C, E, E C, C, C, E, G, B, E |
+E, G, B, EB, E, EG, G, B, G B, A, ^C E, E A, E, C, A, C A, B, DE, |
+E, E B, E, G, B, D B, A, ^CE, A, E, BC, A, C A, E, E, |
+E, B, G, D EB, DB, E, A, DE ^C, A, |
+E, E B, G, B, E, A, ^C, DEA, DB, E, D|
+E, DB, EG, B, ^FGE, A, E ^C, A, E, |
+E, E B, G, B, E, A, DE^C, D B, A, DB, E, D|
+E, DB, B, G, _EB, EB, _E _E =E, A, ^C, A, |
+E, B, B, G, B, D B, EB, B, D E, B, EA, B, DB, E^C, B, DA, E |
+E, EAE B, DG G, B, B, E E, A, ^C, A, |
+E, B, E B, G, B, E, A, E, A, ^C, B, EA, B, A, E, E |
+E, EB, B, G, ^G, B, A, E, A, ^C, A, |
+E, A, B, G, B, E, A, G, A, ^C, G, ^F, A, E, F, E, G, |
+E, G, B, ^F, G, B, D, E, A, _E, E, _E, ^C, _E, _E, A, =E, |
+E, E, B, G, B, E, A, ^C, B, DA, EGE, |
+E, B, E G, DEB, B, DDE, A, E ^C, A, |
+E, E B, G, B, E, D^F A, DA ^C, A, DF |
+E, EG B, G, B, E, A, ^C, D^F A, EG E, |
+E, EG B, G, B, E, A, ^C, _B, =B, A, _B, =B, _B, B, E, |
+E, _B, =B, B, =B, _B, G, G, A, =B, E, E, A, ^C, A, E, |
+E, B, G, _B, =B, B, _B, E, =B, A, _B, =B, ^C, _B, A, =B, E, A, |
+E, A, B, B, G, G, A, E, B, E, E, A, A, ^C, E, G, E, A, E, E, |
+E, E, B, G, B, E, A, ^C, B, D A, CE, B, D |
+E, B, DB, B, ^CG, B, D B, B, CB, DE, B, D A, C, B, C B, DA, B, CE, B, D|
+E, B, DB, B, ^C G, G, B, B, E, A, C, G, B, B, CA, |
+E, B, DB, B, ^CG, B, D B, B, CB, D E, B, DA, C, B, C B, DA, CE, B, D|
+E, B, DB, B, ^C G, G, B, B, E, A, C, A, GBGBE, |
+E, GBB, GBG, G^c B, GBE, GB GBA, GBC, Gc A, GdE, GB |
+GBB, GBG, G^c B, GBGB E, GBA, GBC, Gc A, Gd GBE, |
+E, A, GdGBB, GBG, G^c B, GBGB E, GBA, GBC, GBc A, GdcE, G |
+E, G dB, G^cG, d B, GcGdE, GcA, dC, Gc A, GBgbE, |
+E, B, a^fG, g eB, fdE, e ^cA, dbcC, aA, bgE, a |
+^fgB, eG, f dB, e^cE, d BA, cAC, B GA, AF E, G |
+EB, ^FDG, E ^CB, DB, E, C A, A, B, G, C, A, A, F, |
+E, E, G, B, B, G, B, E, A, D, ^F, A, ^C, E, A, |
+G, B, E, E, D, ^F, A, |
+B, E, G, E, D, ^F, A, |
+E, G, B, E, |
+E, |
+E, G, B, B, E, G, G, B, B, A, ^C, E, A, E, C, A, C, A, B, D, |
+E, B, E, G, B, D, B, A, ^C, E, A, E, C, A, C, A, E, |
+E, G, B, B, E, G, G, B, B, A, ^C, E, A, E, C, A, C, A, B, D, |
+E, B, E, G, B, D, B, A, ^C, E, A, E, C, A, C, A, E, |
+E, G, B, B, E, G, G, B, B, A, ^C, E, A, E, C, A, C, A, B, D, |
+E, B, E, G, B, D, B, A, ^C, E, A, E, C, A, C, A, E, |
+E, G, B, B, E, G, G, B, B, A, ^C, E, A, E, C, A, C, E, A, B, D, |
+E, B, E, G, B, D, B, A, ^C, E, A, E, C, A, C, A, E, |
+E, G, B, EB, E, EG, G, B, GB, A, ^C, G E, E A, E, C, A, C, A, E, B, D, E, |
+E, E B, E, G, B, D, B, A, ^C, E, A, E, C, A, C, A, E, E, G, B, E |
+E, G, B, EB, E, EG, G, B, G B, A, ^C, G E, E A, E, C, A, C, A, B, D, E, |
+E, E B, E, G, D, B, A, ^C, E, A, E, C, A, C, A, E, B, =C, E, A, AA, |
+A, A, C, E, A, AA, A A, G A, D, ^F, B, A A, D, F, B, A, A, A, E, G, C |
+A, E, G, CA A, A, A, ^F, A, ^CD A, F, A, DA, A, E, E, G, B, E |
+B, E, E G, G, B, GE, B, A, ^CD E, E A, E, C, A, C A, B, DE, |
+E, E B, E, G, B, DB, A, ^CE, A, E, C, A, CE A, E, EE, G, B, AD, |
+D, D, A D, AD, ^F, A, D, GD, A D, D, A D, D, F, A, |
+C, GC, C, E, G, GC, G C, G, C, E, E C, G, C, E, E C, C, C, E, G, B, E |
+E, G, B, EB, E, EG, G, B, G B, E, A, ^C E, E A, E, C, A, C A, B, DE, |
+E, E B, E, G, B, D B, A, ^C E, A, E, C, A, C A, E, E, |
+E, B, G, D EB, DB, E, A, DE ^C, A, |
+E, E B, G, B, E, A, ^C, DEA, DB, E, D |
+E, DB, EG, B, ^FGE, A, E ^C, A, E, |
+E, E B, G, B, E, A, DE^C, D B, A, DB, E, D |
+E, DB, B, G, _EB, EB, _E _E =E, A, ^C, A, |
+E, B, B, G, B, D B, EB, B, D E, B, EA, B, DB, E^C, B, DA, E |
+E, EAE B, DG G, B, B, E E, A, ^C, A, |
+E, B, E B, G, B, E, A, E, A, ^C, B, EA, B, A, E, E |
+E, EB, B, G, ^G, B, A, E, A, ^C, A, |
+E, A, B, G, B, E, A, G, A, ^C, G, ^F, A, E, F, E, G, |
+E, G, B, ^F, G, B, D, E, A, _E, E, _E, ^C, _E, _E, A, =E, |
+E, E, B, G, B, E, A, ^C, B, DA, EGE, |
+E, B, E G, DEB, B, DDE, A, E ^C, A, |
+E, E B, G, B, E, D^F A, DA ^C, A, DF |
+E, EG B, G, B, E, A, ^C, D^F A, EG E, |
+E, EG B, G, B, E, A, ^C, _B, =B, A, _B, =B, _B, B, E, |
+E, _B, =B, B, =B, _B, G, G, A, =B, E, E, A, ^C, A, E, |
+E, B, G, _B, =B, B, _B, E, =B, A, _B, =B, ^C, _B, A, =B, E, A, |
+E, A, B, B, G, G, A, E, B, E, E, A, A, ^C, E, G, E, A, E, E, |
+E, E, B, G, B, E, A, ^C, B, D A, CE, B, D|
+E, B, DB, B, ^CG, B, D B, B, CB, DE, B, D A, C, B, C B, DA, B, CE, B, D|
+E, B, DB, B, ^C G, G, B, B, E, A, C, G, B, B, CA, |
+E, B, DB, B, ^CG, B, D B, B, CB, D E, B, DA, C, B, C B, DA, CE, B, D |
+E, B, DB, B, ^C G, G, B, B, E, A, C, A, GBGBE, |
+E, GBB, GBG, G^c B, GBE, GB GBA, GBC, Gc A, GdE, GB |
+GBB, GBG, G^c B, GBGB E, GBA, GBC, Gc A, Gd GBE, |
+E, A, GdGBB, GBG, G^c B, GBGB E, GBA, GBC, GBc A, GdcE, G |
+E, G dB, G^cG, d B, GcGdE, GcA, dC, Gc A, GBgbE, |
+E, B, a^fG, g eB, fdE, e ^cA, dbcC, aA, bgE, a |
+^fgB, eG, f dB, e^cE, d BA, cAC, B GA, AF E, G |
+EB, ^FDG, E ^CB, DB, E, C A, A, B, G, C, A, A, F, |
+E, E, G, B, B, G, B, E, A, D, ^F, A, ^C, E, A, |
+G, B, E, E, D, ^F, A, |
+B, E, G, E, D, ^F, A, |
+E, G, B, E, |

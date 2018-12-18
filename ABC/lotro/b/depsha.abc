@@ -1,0 +1,43 @@
+X:1     
+T:Shake the Disease, Depeche Mode (Solo Lute) [Aevric, Landroval]
+C:     % Adapted by Aevric/Aevred of the Shire Conservation Committee (Landroval server)
+N:    % Shake the Disease from Catching Up With Depeche Mode, 1985
+Q:1/4=115     %Tempo
+V:1     %
+M:4/4     %Meter
+L:1/8     %
+K:C
+z8 |[f4D,]D, D,D, [D,a4] D, D,D, |[D,f4] D, D,D, [^g4D,]D, D,D, |[^C,f4] C, C,C, [^g4C,]C, C,C, |[_B,f8] B, B,B, B,B, B,B, |D,D, [aD,][D,a] [D,_b2] D, [a2D,]D, |D, [A2D,a2] D,[D,aA] [ADaD,][_bD/_BD,]d/ [D,A2D/a2] d/[DD,] |
+D,D, [D,a][D,a] [D,_b2] D, [a2D,]D, |D, [D,a2A2] D,[D,Aa] [D,DaA][D/dD,_B_b] [f2a2D/A2] d/[DD,] |[a2D,]D, [D,aDd] [C,c2gC2] [C,g][gC,] [ddgC,][cF,c'f-] |[zf2] F, [gGF,] [fF2_B,] [gB,][B,f] [c'gB,c][a-C,A] |
+[D,c'ca] [A2D,af3] [D,a][aD,] [D,_b2D][D/D,]d/ [D,D/a2] d/[D,D] |D, [D,a2A2] D,[AaD,] [D,DAa][D,_bD/_B]d/ [A2D,a2D/]d/[D,Df] |[D,a2] D, [DD,a2d] [C2C,c2] [gC,][C,g] [C,gdd][c'cf-F,] |[zf2] F, [gGF,] [_B,fF2] [B,g][fB,] [c'gB,c][Aa-C,] |
+[c'D,ca] [af3A2D,] [D,a][D,a] [D,D_b2] [D/D,]d/ [D/a2D,]d/[DD,] |D, [A2a2D,] D,[D,aA] [D,DAa][D/D,_B_b]d/ [a2D/fD,A2] d/[DgD,] |[F3aF,] [F,_b2] F,[F,a] [G,2a4F,]F, [F,C2] F, |[C,E] [E2C,] C,[C,C] [C,_B,2] C, [C,c'G,2] [C,c'] |
+[F,c'F3] [F,f] [F,f] [F,f2] [F,G,2] [c'F,] [F,C2c'][F,c'] |[C,c'E] [_bC,E2] [C,a] [C,Cb3] [C,B,2] C, [C,G,2g][C,g-] |[F,3g_B,] [B,f2] B, [B,G,f10922/4096-] [B,A,2] B, f5461/4096- [B,F,2] [B,f-] |
+[_B,Ff2] [B,F] [B,Fd] [B,dF4] [B,f][B,g] [B,f][B,a-F,-] |[a_B,F,3] [fB,] [B,f6] [B,G,] [A,2B,]B, [B,F,2] B, |[F_B,][FB,] [B,F] [B,F4] [B,d] [dB,2] a[za-] |[a3D,f][eD,] [D,d][D,Ad] [D,d2] [D,A2] [D,a][^g-D,f] |
+[F,^g4] [cF,] [F,^G][_eF,] [GgF,c4] [F,e2_b] [F,c'][F,b-] |[^c^C,_b] [C,^g2=c] [C,G][C,fF] [C,Gg] [C,F2_b] [=c'C,][BC,b-] |[_B,_b3] [B,^G] [B,=G][^GfB,] [B,=Gf] [fB,^G2] [fB,][f-B,] |[ffD,][D,ee] [D,dd][D,Ac'] [D,d2d4] [A2D,] [D,f][D,f] |
+[F,f][F,cg] [^GF,^g] [F,_e=g2] [F,c4^G] [e2fF,] [fF,][F,e] |[^C,f^c][C,=cg] [C,^g^G] [FC,_b2] [C,Gf4] [gF2C,] [C,g][C,B=g] |[^g_B2_B,] [=g2B,] [B,B2] [f2B,] [B2B,^g4-] B, [B,B2] B, |[_B,_B2^g4] B, [B,B2] B, [B,B2] B, [B,B2] B, |
+[D,cf] [c2fD,] [fD,][C,f] [C,2e2] [F,f][F,f-] |[zf] G, [G,g][G,g] [G,g2] [zG,2] a_b |[D,cfa8-] [D,fc2] [D,f][C,f] [C,2e2] [F,f][F,f-] |[zfa2] G, [G,f][G,f] [G,a2] [zG,2] [z2f2-] |[D,cff8-] [D,fc2] [D,f][C,f] [C,2e2] [F,f][F,f-] |
+[zff2] G, [G,g][G,g] [G,g2] [zG,2] a_b |[D,cfa8-] [D,fc2] [D,f][C,f] [C,2e2] [F,f][F,f-] |[zfa2] G, [G,f][G,f] [G,a2] [zG,2] [z2f2-] |[_B,d4d4f8-] B, B,B, [B,c2c'2] B, [B,d2-] B, |
+[_B,d8d4f2] B, B,B, B,B, B,B, |[C,d4d4] C, C,C, [C,c2c'2] C, [C,d2-] C, |[C,d8d4] C, C,C, C,C, C,C, |D,D, [D,a][D,a] [D,D_b2] [D/D,]d/ [D/D,a2] d/[D,D] |D, [D,A2a2] D,[D,Aa] [D,DAa][D/D,_B_b]d/ [D/D,A2a2] d/[D,D] |
+D,D, [D,a][D,a] [D,D_b2] [D/D,]d/ [D/D,a2] d/[D,D] |z G, G,G, G, [zG,2] df |[D,a2] D, [D,Dda] [C,gC2c2] [C,g] [C,g2] [C,dd][F,cc'f-] |[zf2] F, [F,Gg] [_B,fF2] [B,g][B,f] [B,cgc'][C,Aa] |[D,cc'f8-] [D,A2a] [D,a][D,a] [D,D_b2] [D/D,]d/ [D/D,a2] d/[D,D] |
+[D,f8-] [D,A2a2] D,[D,Aa] [D,DAa][D/D,_B_b]d/ [D/D,A2a2] d/[D,D] |[D,f2] D, [D,Dd] [C,aC2c2] [C,g][C,f] [C,dd][F,cc'a-] |[za] [F,a] [F,Gg] [_B,aF2f2] [B,g][B,f] [B,cdc'][C,Aga] |[D,cc'f8-] [D,A2a] [D,a][D,a] [D,D_b2] [D/D,]d/ [D/D,a2] d/[D,D] |
+[D,f6] [D,A2a2] D,[D,Aa] [D,DAa][D/D,_B_b]d/ [fA2a2D/D,]d/[D,Dg] |[F,aF3] [F,_b2] F,[F,a] [F,G,2a4-] F, [F,C2] F, |[C,Ea8] [C,E2] C,[C,C] [C,_B,2] C, [C,G,2] [C,c'] |[F,c'F3] [F,f] [F,f] [F,f2] [F,G,2] [F,c'] [F,c'C2] [F,c'-] |
+[C,Ec'] [C,_bE2] [C,a] [C,Cb3] [C,B,2] C, [C,gG,2] [C,g-] |[_B,F,3g] [B,f2] B, [B,G,f10922/4096-] [B,A,2] B, f5461/4096- [B,F,2] [B,f-] |[_B,Ff3] [B,F] [B,F] [B,dF4] [B,f][B,g] [B,f][B,a-F,-] |
+[_B,aF,3] [B,f] [B,f6-] [B,G,] [B,A,2] B, [B,F,2] B, |[_B,Ff4] [B,F] [B,F] [B,F4] [B,d] [dB,2] a[za-] |[D,fa3] [D,e] [D,d][D,Adf] [D,d2e2] [D,A2] [D,a][D,f^g-] |[F,^g4] [F,c] [F,^G][F,_e] [F,Gg=g2c4] [F,_be2] [F,c'][F,b-^c-] |
+[^C,^c_b^c3] [C,=c^g2] [C,G][C,Ff_b] [C,Ggg2] [C,bF2] [C,=c'f][C,B=c'-b-] |[_B,c'_b] [B,^Gc'] [B,=Gb2] [B,^Gf] [B,=Gfg] [B,f^G2b2] [B,f][B,f-] |[D,ff] [D,ee] [D,dd][D,Ac'f] [D,d2e2d4] [D,A2] [D,fa][D,f^g-] |
+[F,f^g] [F,cg] [F,^G^g] [F,_eg=g] [F,G=g2c4] [F,fe2] [F,fc'][F,e^c-] |[^C,^cf^c3] [C,=cg] [C,^G^g] [C,F_b_b2] [C,Ggf2] [C,gF2] [C,gf2] [C,B=g] |[_B,^g_B2] [B,=g2] [B,B2] [B,f2] [B,B2^g4-] B, [B,B2] B, |
+[_B,_B2^g4] B, [B,B2] B, [B,B2] B, [B,B2] B, |[D,cf] [D,fc2] [D,f][C,f] [C,2e2] [F,f][F,f-] |[zf] G, [G,g][G,g] [G,g2] [zG,2] a_b |[D,cfa8-] [D,fc2] [D,f][C,f] [C,2e2] [F,f][F,f-] |[zfa2] G, [G,f][G,f] [G,a2] [zG,2] [z2f2-] |
+[D,cff8-] [D,fc2] [D,f][C,f] [C,2e2] [F,f][F,f-] |[zff2] G, [G,g][G,g] [G,g2] [zG,2] a_b |[D,cfa8-] [D,cf] [D,f][C,f] [C,2e2] [F,f][F,f-] |[zfa2] G, [G,f][G,f] [G,a2] [zG,2] [z2f2-] |[_B,d4d4f8-] B, B,B, [B,c2c'2] B, [B,d2-] B, |
+[_B,d8d4f2] B, B,B, B,B, B,B, |[C,d4d4] C, C,C, [C,c2c'2] C, [C,d2-] C, |[C,c8d8d4] C, C,C, C,C, C,C, |[D,ff][D,ee] [D,Ddd] [C,C2c2c'2] C, [C,dd] [C,dd][F,cc'ff-] |[zf] [F,gg] [F,Gg] [_B,aaF2f2] [B,g2g2] B, [B,cc'f2f2] [C,Aa] |
+[cc'D,-] [D,Adda] [D,gag] [D,af2f2] [D,D_b2] [D/D,]d/ [D/D,a2] d/[D,D] |[D,D,4] [D,A2a2] D,[D,Aa] [D,DAa][D/D,_B_b]d/ [D/D,A2a2] d/[D,D] |[D,ff][D,ee] [D,dd] [C,c2c'2] C, [C,dd] [C,d][F,c'ff-] |
+[zf] [F,gg] [F,g] [_B,aaf2] [B,g2g2] B, [B,c'f2f2] [C,a] |[cc'D,-] [D,dad] [D,gag] [D,af2f2] [D,D_b2] [D/D,]d/ [D/D,a2] d/[D,D] |[D,D,8] [D,A2a2] D,[D,Aa] [D,DAa][D/D,_B_b]d/ [D/D,Aa]d/[D/D,] z/ |
+[f4D,8] a4 |[f4F,8] ^g4 |[f4^C,8] ^g4 |[z4_B,8f8] dd a[za-] |[D,fa3] [D,e] [D,d][D,Adf] [D,d2e2] [D,A2] [D,a][D,f^g-] |[F,^g] [F,c] [F,^G][F,_eg] [F,Gg=g2c4] [F,_be2] [F,c'][F,b-^c-] |[^C,^c_b^c3] [C,=c^g2] [C,G][C,Ff_b] [C,Ggg2] [C,bF2] [C,=c'f][C,B=c'-b-] |
+[_B,c'_b] [B,^Gc'] [B,=Gb2] [B,^Gf] [B,=Gfg] [B,f^G2b2] [B,f][B,f-] |[D,ff] [D,ee] [D,dd][D,Ac'f] [D,d2e2d4] [D,A2] [D,fa][D,f^g-] |[F,f^g] [F,cg] [F,^G^g] [F,_eg=g] [F,G=g2c4] [F,fe2] [F,fc'][F,e^c-] |
+[^C,^cf^c3] [C,=cg] [C,^G^g] [C,F_b_b2] [C,Ggf] [C,gF2] [C,gf2] [C,B=g] |[_B,^g_B2] [B,G=g2] [B,=GB2] [B,^Gf2] [B,=GdB2g4-] [B,d^G2] [B,aB2] [B,a-] |[D,fa3^g4] [D,e] [D,d][D,Adf] [D,d2e2] [D,A2] [D,a][D,f^g-] |
+[F,^g] [F,c] [F,^G][F,_eg] [F,Gg=g2c4] [F,_be2] [F,c'][F,b-^c-] |[^C,^c_b^c3] [C,=c^g2] [C,G][C,Ff_b] [C,Ggg2] [C,bF2] [C,=c'f][C,B=c'-b-] |[_B,c'_b] [B,^Gc'] [B,=Gb2] [B,^Gf] [B,=Gfg] [B,f^G2b2] [B,f][B,f-] |
+[D,ff] [D,ee] [D,dd][D,Ac'f] [D,d2e2d4] [D,A2] [D,fa][D,f^g-] |[F,f^g] [F,cg] [F,^G^g] [F,_eg=g] [F,G=g2c4] [F,fe2] [F,fc'][F,e^c-] |[^C,^cf^c3] [C,=cg] [C,^G^g] [C,F_b_b2] [C,Ggf] [C,gF2] [C,gf2] [C,B=g] |
+[_B,^g_B2] [B,G=g2] [B,=GB2] [B,^Gf2] [B,=GB2g4-] [B,^G2] [B,B2] B, |[f^g] e d[Af] [ze2d4] [zA2] a[f^g-] |[z^g3] c ^G[_eg] [G=g2c4] [ze2] c'[z^c-] |[^c^c3] =c ^G[F_b] [Gg2g4] [zF2] f[Bc'-] |
+[zc'] [^Gc'] [=G_b2] ^G [=Ggf] [^G2b2] [zf-] |[ff3] e d[Af] [ze2d4a] [zA2] a[f^g-] |[zf4^g3] c ^G[_eg] [G=g2c4g4] [ze2] c'[z^c-] |[^cf4^c3] =c ^G[F_b] [Gg2fg4] [zF2] fB |[z_B2f8] ^G [=GB2] ^G [=GdB2] [d^G2] [aB2] [za-] |
+[D,fa3] [D,e] [D,d][D,Ad] [D,d2] [D,A2] [D,a][D,f^g-] |[F,^g4] [F,c] [F,^G][F,_e] [F,Ggc4] [F,_be2] [F,c'][F,b-] |[^C,^c_b] [C,=c^g2] [C,G][C,Ff] [C,Gg] [C,_bF2] [C,=c'][C,Bb-] |[_B,_b3] [B,^G] [B,=G][B,^Gf] [B,=Gf] [B,f^G2] [B,f][B,f-] |
+[D,ff] [D,ee] [D,dd][D,Ac'] [D,d2d4a4] [D,A2] [D,f][D,f] |[F,f][F,cg] [F,^G^g] [F,_e=g2] [F,^Gc4^g4] [F,fe2] [F,f][F,e] |[^C,^cf][C,=cg] [C,^G^g] [C,F_b2] [C,Gf4g] [C,gF2] [C,g][C,B=g] |[_B,^g_B2f] [B,G=g2] [B,=GB2] [B,^Gf2] [B,=GB2g4] [B,^G] [B,B2] B, |
+[_B,_B2^g8] B, [B,B2] B, [B,B2] B, [B,B2] B, |[D,d][D,d] [D,d][D,d] [C,2c2] [D,d][D,/d] z/ |]
+     %End of file
