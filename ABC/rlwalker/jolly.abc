@@ -1,0 +1,31 @@
+%Scale the output
+%%scale .94
+%%format dulcimer.fmt
+X:1
+T:Jolly Old Saint Nicholas
+C:Traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|"D"F F F F|"A7"E E E2|"Bm"D D D D|"F#m"F4\
+w:1.~Jol-ly old Saint Ni-cho-las, lean your ear this way,
+w:2.~When the clock is stri-king twelve and I'm fast a-sleep,
+w:3.~John-ny wants a pair of skates, Sus-ie wants a sled,
+|"G"B, B, B, B,|"D"A, D D2|"E7"E D E F|"A7"E4\
+w:Don't you tell a sin-gle soul, what I'm goin' to say.
+w:Down the chim-ney broad and black, with your pack you'll creep.
+w:Nel-lie wants a pic-ture book, yel-low, blue and red.
+|"D"F F F F|"A7"E E E2|"Bm"D D D D|"F#m"F4\
+w:Christ-mas Eve is com-ing soon, now you dear old man,
+w:All the stock-ings you will find hang-ing in a row,
+w:Now I'll think I'll leave to you what to give the rest,
+|"G"B, B, B, B,|"D"A, D D2|"Em"E D "A7"E F|"D"D4||
+w:Whis-per what you'll bring to me; tell me if you can.
+w:Mine will be the short-est one, you'll be sure to know.
+w:Chose for me, dear San-ta Claus, you will know the best.
+V:2 clef=treble
+|A A A A|G G G2|F F F F|A4\
+|D D D D|D F F2|G F G A|G4\
+|A A A A|G G G2|F F F F|A4\
+|D D D D|D F F2|G F G A|F4||

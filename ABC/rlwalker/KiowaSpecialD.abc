@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.15
+%%format dulcimer.fmt
+X:1
+T:Kiowa Special
+C:Traditional
+M:C    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+P:Play AABBAA with ritard last time
+K:D    %(D, C)
+P:A
+|:"D"D/2E/2 F/2G/2 A A|"G"B/2A/2 G/2B/2 "D"A A|d A A/2B/2 A/2G/2|"A7"F E E2
+|"D"D/2E/2 F/2G/2 A A|"G"B/2A/2 G/2B/2 "D"A A|d A A/2B/2 A/2G/2
+|1 "A7"F E "D"D2:|2 "A7""^ritard last"F E "D"D A|
+P:B
+|:"Bm"B F B F|B c d e|f z "A"e z|"Bm"d z "A"c z
+|"Bm"B F B F|B/2c/2 B/2A/2 F2|F/2G/2 F/2E/2 D C
+|1 "Bm"B,3 A:|2 "Bm"B,2 "A7"A2||

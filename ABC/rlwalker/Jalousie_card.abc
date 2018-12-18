@@ -1,0 +1,30 @@
+%%abc-version   2.0
+%%abc-edited-by D. Glenn Arthur Jr. (dglenn@panix.com)
+
+%%format indexcard.fmt
+
+%%continueall false
+%%annotationfont Times-Roman-Bold 15
+%%notespacingfactor 1.1
+%%musicspace 10pt
+%%staffsep 16pt
+%%scale 0.58
+
+X:1
+T:Tango Tzigane Jalousie
+M:none
+L:1/8
+U:i=+invisible+
+U:s=+head-strum+
+K:none clef=none stafflines=0
+| z3/2 z2 |: "<Dm" iB// | "<Dm" iB// | "<Dm" iB// | "<Dm" iB// | "<Gm" iB// | "<A" iB// | "<Dm" iB// | "<A" iB// | 
+| "<Dm" iB// | "<Dm" iB// | "<Dm" iB// | "<Dm" iB// | "<Am" iB// | "<E7" iB// | "<A" iB// | "<A" iB// |
+| "<A7" iB// | "<A7" iB// | "<Dm" iB// | "<Dm" iB// | "<D7" iB// | "<D7" iB// | "<Gm" iB// | "<Gm" iB// |
+| "<Edim" iB// | "<Edim" iB// | "<Edim" iB// | "<Edim" iB// "<A" iB// | "<Dm" iB// | "<Gm" iB// | "<A" iB// | "<A" iB// ||
+| "<D" iB// | "<D" iB// | "<A" iB// | "<A" iB// | "<A" iB// | "<A" iB// | "<D" iB// | "<A+" iB// |
+| "<D" iB// | "<D/F#" iB// "<Fdim" iB// | "<A/E" iB// | "<A" iB// | "<A" iB// | "<A+" iB// | "<D" iB// | "<A+" iB// |
+| "<D" iB// | "<D" iB// | "<A" iB// | "<A" iB// | "<A" iB// | "<A" iB// | "<D" iB// | "<A+" iB// |
+| "<D7" iB// | "<D7" iB// | "<G" iB// | "<Gm" iB// | "<D" iB// | "<G" iB// "<A" iB// | "<D" iB// |
+| [1 "<A" iB// :|2 z3/2 iB// "<A" iB// "<D" iB// |] x8 [] x8 [] x8 [] x8 [] x8 []
+%%scale .7
+x8 [] x8 [] x8 [] x8 [] x8 [] "@-18,0 Edim" +Edim+ iB "@-10,0 A+" +Aaug+ iB "@-18,0 Fdim" +Fdim+ iB 

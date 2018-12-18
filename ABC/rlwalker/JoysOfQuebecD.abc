@@ -1,0 +1,23 @@
+%Scale the output
+%%scale 1.25
+%%format dulcimer.fmt
+X: 1
+T:Joys of Quebec
+C:French Canadian Reel
+M:4/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D%(D, C)
+P:A
+|AB
+|:"D"A2 F2 F2 AB|A2 F2 F4|B2 A2 G2 F2
+|"A"G2 E2 E2 GA|G2 E2 E2 GA|G2 E2 E4
+|1 E2 F2 G2 A2|"D"B2 A2 F2 AB:|2 B2 A2 F2 E2|"D"D6 FG|]
+P:B
+|:"D"A2 z2 "G"B2 z2|"D"A2 z2 z2 DE|F2 z2 "G"G2 z2
+|"D"F2 z2 z2 z2|"A"E2 D2 C2 D2|E4 A4
+|1 E2 F2 G2 A2|"D"B2 A2 F2 FG:|2 B2 A2 F2 E2|"D"D6|]
+ 

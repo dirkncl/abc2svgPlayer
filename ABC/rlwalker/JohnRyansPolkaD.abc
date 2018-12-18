@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.20
+%%format dulcimer.fmt
+X:1
+T:John Ryan's Polka
+C:
+M:C|    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:D    %(D, C)
+P:A
+|:"D"d d "G"B/2c/2d/2B/2|"D"A F "A"A F|"D"d d "G"B/2c/2d/2B/2|"D"A F "A"E D
+|"D"d d "G"B/2c/2d/2B/2|"D"A F "A"A d/2e/2|"D"f d "A"e c|"D"d2 d2:|
+P:B
+|:"D"f d d e/2f/2|"G"g f e d|"D"f d A d|"A"f d/2f/2 "A7"a g
+|"D"f d d e/2f/2|"G"g f e d|"D"f d "A"e c|"D"d2 d2:|
+P:C
+|:"D"d/2e/2f/2d/2 "G"B/2c/2d/2B/2|"D"A F "A"A F|"D"d/2e/2f/2d/2 "G"B/2c/2d/2B/2|"D"A F "A"E D
+|"D"d/2e/2f/2d/2 "G"B/2c/2d/2B/2|"D"A F "A"A d/2e/2|"D"f d  "A"e c|"D"d2 d2:|
+P:D
+|:"D"f/2g/2f/2e/2 d e/2d/2|"G"g f e d|"D"f d A d|"A"f d/2f/2 "A7"a a/2g/2
+|"D"f d d e/2f/2|"G"g f e d/2e/2|"D"f d "A"e c|"D"d2 d2:||

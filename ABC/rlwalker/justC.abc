@@ -1,0 +1,41 @@
+%%scale 0.89
+%%format dulcimer.fmt
+%%continueall
+X:1
+T:Just A Dream Away
+C:Philip Balsam and Dennis Lee
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:C    %(D, C)
+|:"C"E3/2 E/2 D C|"F"A, C C D
+w:Feel the wa-ter flow-ing, Feel it
+w:Once I was-n't here, and then I 
+|"C"E3/2 E/2 D C|"F"A, C C D
+w:com-ing feel it go-ing, In the
+w:sud-en-ly ap-peared, and now I
+|"C"E C C D|"Am"E C E G
+w:riv-er, in the rain, or in the
+w:seem to be at home in earth and
+|"F"A4-|A4
+w:sky._
+w:air._
+|"F"A A A A|"C"G E2 z
+w:One day its an o-cean
+w:Just like wa-ter flow-ing
+|"F"F F F G|"C"G E2 z
+w:One day ice and mo-tion
+w:I know where I'm go-ing
+|"F"F E D C|F E D C
+w:One day its a tear-drop in your
+w:Look be-neath your boots and I'll be
+|1 "G"D4-|D4:|2 "G"D4-
+w:eye._
+w:* * there.
+|"G7"D E D C|"Am"A,4-|A,2 E2|"G"D4-|D E D C|"Am"A,4-|A,2 E2|"G"D4-
+w:_It's just a dream _a-way. _You've got to leave _to stay.
+w:_
+|D E D C|"Am"A,4-|A,2 E2|"G"D4
+w:_We'll meet a-gain _some-day.
+|E D E D|"C"C4-|C4||
+w:Just a dream a-way._

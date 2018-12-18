@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.10
+%%format dulcimer.fmt
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X: 30
+T: Donnybrook Fair
+T: Joy of My Life, The
+M: 6/8
+L: 1/8
+C: Jig
+S: Andrea Mori, 2010
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K: Gmaj
+~GFG AGA | Bee dBA |~BAB GAB | AGE E2D |~GFG AGA | Bee dBA |~BAB GAB | AGF G2D:|]
+gfe fed | ege dBA | Bee dBA | B2d e2f |[1 gfe fed | ege dBA |~BAB GAB | AGF G2d:|
+[2~gfg aga | bge dBA |~BAB GAB | AGF G2 |]

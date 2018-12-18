@@ -1,0 +1,17 @@
+%Scale the output
+%%scale 1.303
+%%format dulcimer.fmt
+X:1
+T:Kinloch Of Kinloch
+C:Traditional Scottish Fiddle Tune
+M:6/8
+L:1/8
+V:1 clef=treble
+K:D
+|"^DAd"F/2F/2|:"D"FED A,F,A,|"G"B,G,B, "D"A,F,A,|"D"FED A,F,A,|"G"B,CD "A"EFG
+|"D"FED A,F,A,|"G"B,G,B, "D"A,F,A,|"D"FED A,F,A,
+|1 "A7"B,DC "D"[D2A2D,2] E:|2 "A7"B,DC "D"[D2A2D,2] E|
+|:"D"[F2A,2F,2] A "A"[E2A,2E,2] F|"D"DED "A"CB,A,
+|"D"[F2A,2F,2] A "A"[E2A,2E,2] A|"E"[A2A,2A,2] ^G "A"[A2A,2A,2] A
+|"G"BGB "D"AFA|"Em"GEG "D"FED|"G"BCD "A"ECA,
+|1 "D"[D3A3D,3] [D2A2D,2] E:|2 "D"[D3A3D,3] [D2A2D,2]||

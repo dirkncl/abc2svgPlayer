@@ -1,0 +1,19 @@
+X: 1
+T:The Keel Row
+M:4/4
+L:1/8
+Q:1/4=140
+R:Reel
+K:G
+dc|
+"G"B2GB "C"c2Ac|"G"B2GB "D"AFDc|
+"G"B2GB "C"c2Ac|"G"BG "D7"AF "G"Gedc|
+"G"B2GB "C"c2Ac|"G"B2GB "D"AFDc|
+"G"B2GB "C"c2Ac|"G"BG "D7"AF "G"G2||
+dc|
+"G"Bddg "C"e2dc|"G"B2GB "D"AFDc|
+"G"Bddg "C"e2dc|"G"BG "D7"AF "G"Gedc|
+"G"Bddg "C"e2dc|"G"B2GB "D"AFDc|
+"G"Bddg "C"fedc|"G"BG "D7"AF "G"G2
+
+% Output from ABC2Win  Version 2.1 i on 06/06/2001

@@ -1,0 +1,28 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X: 1
+T: Kilfenora Jig, The
+Z: Mark Cordova
+S: http://thesession.org/tunes/947#setting947
+R: jig
+M: 6/8
+L: 1/8
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K: Dmaj
+P:A
+|:"D"F2A ABA|ABA FED|"G"G2B B=cB|B=cB BAG
+|"D"F2A ABA|ABA FED|"Bm"dcB AGF|1 "A"GFE "D"D2E:|2 "A"GFE "D"DFA||
+P:B
+|:"D"d2A F2A|dfe d2c|"Bm"dcB AGF|"Em"EFG "A"ABc
+|"D"d2A F2A|dfe d2c|"Bm"dcB AGF|1 "A"GFE "D"DFA:|2 "A"GFE "D"D2E||

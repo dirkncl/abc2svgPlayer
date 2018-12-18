@@ -1,0 +1,17 @@
+%%scale 1.2
+%%format dulcimer.fmt
+X:1
+T:Kelvingrove
+O:england
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:G
+%%continueall 1
+%%partsbox 1
+P:A
+G/2A/2|"G"B2d|"D"A2B|"G"G2F|"G"E2D|"C"E3|"A7"A2B|"D7"A3-|"D7"AGA|
+"G"B2d|"D"A2B|"G"G2F|"G"E2D|"C"E3|"Cm"G2A|"G"G3-|"G"GA"G#"B||
+P:B
+|"Am"c2B|"Am7"c2d|"D7"e3-|"D7"eBc|"G"d2"B"B|"A7"A2G|"D7"A3-|"D7"AGA|
+"G"B2d|"D"A2B|"Em"G2F|"Em"E2"D"D|"C"E3|"Cm"G2A|"G"G3-|"G"G2||

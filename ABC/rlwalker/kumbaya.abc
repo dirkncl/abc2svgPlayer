@@ -1,0 +1,37 @@
+%Scale the output
+%%scale 1.05
+%%stretchlast 1
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+X:1
+T:Kumbaya (#45)
+O:South Carolina? Africa? Who Knows?
+M:2/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%V:1 treble clef
+K:D    %(D, C)
+|"D""^Moderately"D F|A3/2 A/2|A2-|A2|"G"B B|"D"A2-|A2-|A2
+w:C~Kum-ba-ya, my Lord,_ Kum-ba-ya.__
+w:1~Some-one's sing-ing Lord,_ Kum-ba-ya.__
+w:2~Some-one's danc-ing Lord,_ Kum-ba-ya.__
+w:3~Some-one's weep-ing Lord,_ Kum-ba-ya.__
+w:4~Some-one's shout-ing Lord,_ Kum-ba-ya.__
+w:5~Some-one's pray-ing Lord,_ Kum-ba-ya.__
+|D F|A3/2 A/2|A2-|A2|"Em"G F|"A7"E2-|E2|E2
+w:Kum-ba-ya, my Lord,_ Kum-ba-ya._
+w:Some-one's sing-ing Lord,_ Kum-ba-ya.__
+w:Some-one's danc-ing Lord,_ Kum-ba-ya.__
+w:Some-one's weep-ing Lord,_ Kum-ba-ya.__
+w:Some-one's shout-ing Lord,_ Kum-ba-ya.__
+w:Some-one's pray-ing Lord,_ Kum-ba-ya.__
+|"D"D F|A3/2 A/2|A2-|A2|"G"B B|"D"A2-|A2-|A2
+w:Kum-ba-ya, my Lord,_ Kum-ba-ya.__
+w:Some-one's sing-ing Lord,_ Kum-ba-ya.__
+w:Some-one's danc-ing Lord,_ Kum-ba-ya.__
+w:Some-one's weep-ing Lord,_ Kum-ba-ya.__
+w:Some-one's shout-ing Lord,_ Kum-ba-ya.__
+w:Some-one's pray-ing Lord,_ Kum-ba-ya.__
+|:"Em""^Some don't"G2|"D""^repeat the"F2|"A7""^last line."E E|"D""^Go with the flow."D2-|D2-|D2:||
+w:Oh, Lord, Kum-ba-ya.__

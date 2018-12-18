@@ -1,0 +1,44 @@
+%Scale the output
+%%scale 1.1
+%%format dulcimer.fmt
+X:1
+T:Irish Astronomy
+C:Charles G Halpine
+C:A veritable myth, touching the constellation O'Ryan,
+C:ignorantly and falsely spelled Orion.
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+K:G    %(D, C)
+|D
+w:1~O'
+w:2~Saint
+w:3~"No
+w:4~O'
+w:5~So
+|"G"GGGG "D7"ED D3/2D/2|"G"GG"D7"AA "G"B G2 B
+w:Ry-an was a man of might whin Ire-land was a na-tion, But
+w:Pat-rick wanst was pass-in' by O' Ry-an's lit-tle hold-in', And
+w:rash-er will I cook for you while bet-ter is to spare, sir; But
+w:Ry-an gave his pipe a whiff. "Them ti-din's is thrans-port-in'; But
+w:To con-clude my song a-right, for fear I'd tire your pa-tience, You'll
+|"C"cc"G"BB "D7"AGFD|"Em"EDB,D "C"E2 "D"DD
+w:poach-in' was his heart's de-light and con-stant oc-cu-pa-tion. He
+w:as the Saint felt wake and dhry he thought he'd en-ther bould in;_
+w:here's a jug of mount-ain dew and there's a rat-tlin' hare sir."_
+w:may I ax your saint-ship if there's an-y kind of sport-in'?"_
+w:see O' Ry-an an-y night a-mid the con-stel-la-tions. And
+|"G"GGGD "D7"EDDD|"G"GG"D7"AA "G"B G2 B
+w:had an ould mi-li-tia gun, and sar-tin sure his aim was; He
+w:"O' Ryan," said the Saint, "a-vick, to praich at Thurles I'm go-in'. So
+w:Saint Pat-rick he looked might-y sweet, and says~he, "Good luck at-tind you, And
+w:Saint Pat-hrick said, "A li-on's there, two bears, a bull~and Can-cer." "Be
+w:Ve-nus fol-lows in his track, while Mars grows jeal-ous raal-ly, But
+|"C"cc"G"BG "D7"A/2A/2G FD/2D/2|"Em"EDB,D "C"E2 "D"D|]
+w:gave the keep-ers man-y a run and_ would-n't mind the game laws.
+w:let me have a ra-_sher, quick, and a dhrop of In-nis-show-en."
+w:when you're in your wind-_in' sheet, it's_ up to heaven I'll sind you."
+w:-dad," says Mick, "the_ hunt-in's rare._ Saint Pathrick, I'm yer man, Sir."
+w:faith, he fears the I-_rish knack of_ hand-ling the shil-la-ly.
+

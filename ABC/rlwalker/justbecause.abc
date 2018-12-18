@@ -1,0 +1,17 @@
+X: 1
+T:Just Because
+I:Just Because	S-J	G	square
+C:S-J
+M:4/4
+Z:Transcribed to abc by Mary Lou Knack
+R:square
+%F:http://trillian.mit.edu/~jc/RJ/square/JustBecause2.abc	 2003-07-26 23:22:37 UT
+K:D
+%%staffwidth 8cm
+|A,2^A,2| "E7"B,8| "A7"C4 F4| "D"D8-| D2 |
+%%staffwidth 16.5cm
+|:A,2B,2C2| "D"D2D2 D2D2| D4 B,2A,2| D2 D6-| D2 A,2B,2C2| D2D2 D2D2| D4 B,2A,2| "A"C8-| C6 A,2|
+"A"C2C2 C2C2| C4 B,2A,2| C2 C6-| C6 C2| "Em"B,4 B,2B,2| "A7"C4 B,4 "D"A,8-| A,2 A,2B,2C2|
+"D"D2D2 D2D2| D4 B,2A,2| D2 D6-| D2 A,2B,2C2| "D7" D4 D2D2| E4 D2=C2| "G"B,8-| B,6 B,2|
+"G"D4 D2D2| "Emdim"E4 D2E2| "D"F4 D2C2| "B7"B,6 A,2| "E7"B,8| "A7"C4 F4| "D"D8-| D2 |]
+%%text 9/1/98

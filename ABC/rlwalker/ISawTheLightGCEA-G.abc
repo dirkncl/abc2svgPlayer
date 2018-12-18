@@ -1,0 +1,47 @@
+%Scale the output
+%%scale 1.050	
+%%format bracinho.fmt
+%%format dulcimer.fmt
+%%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%footer Group may not use 4 beat rests
+%%staffsep 115pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+X:1
+T:I Saw The Light
+C:Hank Williams
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Gmaj%(D, C)
+|D
+w:1~I
+w:2
+w:3
+P:A
+|:"G"D D2 E|G2 G E|D D2 E|G4
+w:wan-dered so aim-less,_ life filled with sin.
+w:Just like a blind man I wan-dered a-lone.
+w:I was a fool to_ wan-der and stray.
+|"C"A G2 E|G2 G2|A G2 G|"G"G D3
+w:I would-n't let my dear Sav-ior in._
+w:Wor-ries and fears I claimed for my own._
+w:Straight is the gate and nar-row the way._
+|D D2 E|G2 G E|D D D E|G3 z
+w:Then Je-sus came like a strang-er in the night.
+w:Then like the blind man that God gave back his sight.
+w:Now I have trad-ed the wrong_ for the right.
+|d3 e|d2 B G|"D7"B B2 A|"G"G4|z4||
+w:Praise the Lord,__ I saw the light!
+P:B
+|B B2 ^A|B A G2|B B2 ^A|B A G2|"C"A G3|G2 G2
+w:I saw the light.__ I saw the light.__ No more dark-ness,
+|A G3|"G"G E D2|D D2 D|G2 G G|B B2 ^A|B A G z
+w:no more night.__ Now I'm so Hap-py, no sor-row in sight.__
+|d3 e|d2 B2|"D7"B B2 A|1,2 "G"G4|z4:|3 "G"G4|z4||
+w:Praise the Lord,_ I saw the light! light!

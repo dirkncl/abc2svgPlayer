@@ -1,0 +1,48 @@
+%Scale the output
+%%scale 0.940
+%%format dulcimer.fmt
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:In The Garden
+C:C Austin Miles
+M:6/8%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 0
+%%writehistory 1
+K:Gmaj%(D, C)
+P:Verses (Tenderly)
+|D
+w:I
+w:He
+w:I'd
+|"G"DB,C DGA|B3- BAG
+w:come to the gar-den a-lone_ while the
+w:speaks, and the sound of His voice_ is so
+w:stay in the gar-den with Him_ though the
+|"C"G2 G DGE|"G"G3 D2 F/2G/2
+w:dew is still on the ros-es, And the
+w:sweet the birds hush their sing-ing, And the
+w:night a-round me be fall-ing, But He
+|"D7"A2 A F2 E/2F/2|"Em"G2 "D"A "G"B2 B|"A7"A2 B A2 G
+w:voice I hear fall-ing on my ear, The Son of God dis-
+w:mel-o-dy that He gave to me With-in my heart is
+w:bids me go; thru the voice of woe His voice to me is
+|"D"F2 G "D7"+fermata+A|| 
+w:clos-_es.
+w:ring-_ing.
+w:call-_ing.
+P:Chorus
+|+fermata+B3/2A/2
+w:And He
+|"G"G2 G GFE|"D7/A"F2 F F2 D/2D/2
+w:walks with me, and He talks with me, and He
+|"D7"c2 c cB^A|"G"B3- B2 G/2A/2|B2 B "B7"AAF
+w:"Eb7"tells me I am His own;_ and the joy we share as we
+|"Em"G2 "G7/D"G "C"+fermata+G2 E|"G/D"D/2G3/2G "D7"F/2A3/2-A|"G"G3-G z:||
+w:tar-ry there, non oth-er has ev-er_ known._
+
+
+

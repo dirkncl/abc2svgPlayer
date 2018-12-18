@@ -1,0 +1,13 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Kandahar Reel
+M:4/4
+L:1/8
+R:reel
+K:Bmin
+e^dBA FAEF | B,^DEF Ace^d | e^dBA FAef | a=cBc GAGE |
+Fe^dB ABFA | B,^DEF Ace^d | e^dBA FAEF |1 B,^DEF EDB,z :|2 B,^DEF EDB,=C ||
+K: Dmin
+DdcB AG^FG | ABAG ^FGAD | DBDD B2AG | ^FGA_E DEDC |
+DdcB AG^FG | ABAG ^FGAD | DBDD B2AG |1 ^FA_EA D3C :|2 ^FGAB ^ceg^f ||

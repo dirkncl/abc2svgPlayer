@@ -1,0 +1,39 @@
+%Scale the output
+%%scale 1.050
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:It's Been A Long Long Time
+C:Words & Music by Jule Styne, Sammy Cahn
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Cmaj%(D, C)
+P:A
+|"C"E3/4A,/4G,3/4A,/4 "C#dim"G,3/4A,/4 G,|"Dm"F3/4A,/4G,3/4A,/4 "G7"G,3/4A,/4 G,
+w:Nev-er thought that you would be stand-ing here so close to me.
+|"Gm"G3/4A/4G3/4F/4 "C7"EFGA|"F"C3 "Fm"D|"C"E3/2 E/2 "Am"C3/2 C/2
+w:There's so much I feel that I should say But words can't wait un-
+|"Dm"E E "F"C/2 "G7"E "C"C/2-|"Am"C4-|"Dm7"C z2 "G7"z3/4 E/4|
+w:til some oth-er day.__ Just
+P:B
+|:"C"C3/4E/4G3/4C/4 "Cmaj7"B,3/4E/4G3/4B,/4
+w:kiss me once and kiss me twice and
+|"C6"A,3/4B,/4 (3A,B,A,-A,3/4G,/4A,3/4G,/4|"C6"A,2 "C#dim"^A,2
+w:kiss me once a-gain,_ it's been a long, long,
+|"G9"B,2-"G7"B,2|"Dm"D3/4F/4A3/4D/4 "Aaug"^C3/4F/4A3/4C/4
+w:time._ Have-n't felt like this, my dear, since
+|"Dm7"C3/4D/4 (3CDB,-"G7"B,3/4G,/4A,3/4G,/4|"Dm"D2 "Gaug9"^D2|"C"E2 z3/4 E/4F3/4^F/4
+w:can't re-mem-ber when,_ it's been a long, long time. You'll nev-er
+|G3/4A/4G3/4A/4 "Em7"_B3/4A/4B3/4A/4|"Gm"G G2 "A7"z3/4 A,/4
+w:know how man-y dreams I dreamed a-bout you or
+|"Dm"F3/4G/4F3/4G/4 "Dm7"_A3/4G/4A3/4G/4|"F"F F2 "G7"z3/4 E/4|"C"C3/4E/4G3/4C/4 "Cmaj7"B,3/4E/4G3/4B,/4
+w:just how em-pty they all seemmmed with-out you. So  kiss me once and kiss me twice and
+|"Em7"A,3/4B,/4 (3A,B,A,-"A7"A,3/4G/4F3/4E/4|"Dm7"A2 "G7"B,2|"C"C2 "Ebdim"z "G7"z3/4 "G9"E/4:||"C"C4||
+w:kiss me once a-gain_ it's been a long, long, time. Just Time.

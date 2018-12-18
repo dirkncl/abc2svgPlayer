@@ -1,0 +1,23 @@
+%Scale the output
+%%scale 1.064
+%%format dulcimer.fmt
+X:1
+T:In the Sweet By and By
+T:There's a Land That is Fairer than Day
+C:Joseph P Webster, 1819-1875
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%V:1 treble clef
+K:D    %(D, C)
+|"^Verses"DE|"D"F2 ED "G"E2 DB,|"D"A,6 DE|F2 FF A2 AF
+w:1~There's a land that is fair-er than day and by faith we can see it a-
+w:2~We shall sing on that beau-ti-ful shore, The mel-o-di-ous songs of the
+w:3~To our boun-ti-ful Fa-ther a-Bove, We will of-fer the trib-ute of
+|"A7"E6 DE|"D"F2 ED "G"E2 DB,|"D"A,6 DD|F2 ED "A7"E2 DC|"D"D6||
+w:far; For the Fa-ther waits ov-er the way to pre-pare us a dwel-ling place there.
+w:blest, And our spir-its shall sor-row no more, not a sigh for the bles-sing of rest.
+w:praise for the glo-ri-ous gift of His love and the bles-sings that hal-low our days.
+|"^Refrain"FG|A6 A3/2F/2|"A7"E6 EF|"G"G2 GG G2 FE
+w:In the sweet by and by, We shall meet on that beau-ti-ful
+|"D"F6 FG|A6 F3/2E/2|"G"D6 CB,|"D"A,2 DF "A7"E2 DC|"D"D6||
+w:shore, In the sweet by and by, We shall meet on that beau-ti-ful shore.

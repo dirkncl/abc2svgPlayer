@@ -1,0 +1,56 @@
+%Scale the output
+%%scale 1.22
+%%format dulcimer.fmt
+X: 1
+T:Irish Lullaby
+C:J.R. Shannon
+M:2/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|"^Intro"B3/2c/2d3/2c/2|B3/2A/2 f3/2A/2\
+|B3/2d/2 d/2e3/2|\
+|"D""^Verses"F3/2 E D3/2 E/2|F/2 A3/2-A2\
+w:1~O-ver in Kil-lar-ney,_
+w:2~Oft, in dreams, I wan-der_
+|"Bm"B3/2 c/2 B3/2 F/2|"D"A2-"A7"A/2 z A/2\
+w:Man-y years a-go,_ Me
+w:To that  cot a-gain,_ I
+| F3/2  E/2  D3/2  E/2| F3/2  A/2  A3/2 ^A/2\
+w:Mith-er sang a song to me In
+w:feel her arms a hug-gin' me As
+|"E7"B3/2 E/2 E3/2 F/2|"A7"E2 D3/2 E/2\
+w:tones so sweet and low, Just a
+w:when she held me then. And I
+|F3/2 E/2 D3/2 E/2|F/2 A3/2 F3/2 A/2\
+w:sim-ple lit-tle dit-ty, In her
+w:hear her voice a hum-min' To me
+|"Bm"B3/2 c/2 B3/2 F/2|"D"A2 F3/2 A/2\
+w:good ould I-rish way, And I'd
+w:as in dayos of yore, When she
+|"G"B3/2 c/2 d3/2 c/2|B3/2 A/2 "D"F3/2 D/2\
+w:give the world if  she could sing That
+w:used to rock me fast  a-sleep Out-
+|"E7"F3/2 E/2 E3/2 F/2|"A7""^retard"E2-"A7+5"^E2|\
+w:song to me this day._
+w:side the cab-in door._
+|"D""^Chorus"F3/2 E/2 D3/2 E/2|F/2 A3/2-A2\
+w:Too-ra-loo-ra-loo-ral,_
+|"C"B3/2 ^A/2 B3/2 c/2|"Ddim"d4\
+w:Too-ra-loo-ra-li,
+|"D"d3/2 c/2 "G"d3/2 B/2|"D"A/2 F3/2-F2\
+w:Too-ra-loo-ra-loo-ral,_
+|"E7"B3/2 E/2 E3/2 F/2|"A7"E2 "A7+5"^E2\
+w:Hush now don't you cry!_
+|"D"F3/2 E/2 D3/2 E/2|F/2 A3/2-A2\
+w:Too-ra-loo-ra-loo-ral,_
+|"G"B3/2 ^A/2 B3/2 c/2|"Ddim"d\
+w:Too-ra-loo-ra-li,
+|"D"d3/2 [e/2c/2] "G"d3/2 B/2|1 "D"A/2 F3/2 "A7"E/2 D/2\
+w:Too-ra-loo-ra-loo-ral, That's an
+|"E7""^retard"F3/2 D/2 "G"D3/2 D/2\
+w:I-rish lul-la-
+|D3/2 z|2 "D""^optional ending"A/2 F3/2 F3/2 A/2|\
+w:by. loo-ral, That's an
+|"E7"B3/2 d/2 "G"d/2 "A7"+fermata+[e3/2c3/2]|"D"d3/2 z||\
+w:I-rish lul-la-by.

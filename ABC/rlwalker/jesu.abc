@@ -1,0 +1,137 @@
+X:1
+T:Jesu, Joy of Man's Desiring
+C:/Johann Sebastian Bach
+M:3/4
+L:1/8
+Q:1/8=100
+K:G
+V:1 name="Violin Obbligato"
+|(3"G"zGA (3Bdc (3"C"ced|(3"G"dgf (3gdB (3GAB
+|(3"C"cde (3"G"dcB (3ABG|(3"D7"FGA (3DFA (3cBA
+|(3"G"BGA (3Bdc (3"C"ced|(3"G"dgf (3gdB (3GAB
+|(3"C"Edc (3"G"BAG (3"D"DGF|:(3"G"GBd (3gdB (3GBd
+|g2 z2 "C"z2|z2 z2 z2
+|"C"z2 z2 "G"z2|(3"D"zDE (3FAG (3AcB
+|(3cAF (3DFA (3cBA|(3"G"BGA (3Bdc (3"C"ced
+|(3"G"dgf (3gdB  (3GAB|(3"C"Edc (3"G"BAG (3"D7"DGF
+|(3"G"GBA (3Bdc (3"C"ced|(3"G"dgf (3gdB (3GAB
+|(3"C"cde (3"G"dcB (3"D"ABG|(3"D"FGA (3DFA (3cBA
+|(3"G"BGA (3Bdc (3"C"ced|(3"G"dgf (3gdB (3GAB
+|(3"C"Edc (3BAG (3DGF|"G"G2 z2 z2
+|z2 z2 z2|"C"z2 z2 "G"z2
+|(3"D"zDE (3FAG (3AcB|(3"D7"cAF (3DFA (3cBA
+|(3"G"BGA (3Bdc (3"C"ced|(3"G"dgf (3gdB (3GAB
+|(3"C"Edc (3"G"BAG (3"D7"DGF|(3"G"GBA (3Bdc (3"C"ced
+|(3"G"dgf (3gdB (3GAB|(3"C"cde (3"G"dcB (3"D"ABG
+|(3"D7"FGA (3DFA (3"D"cBA|(3"G"BGA (3Bdc (3"C"ced
+|(3"G"dgf (3gdB (3GAB|(3"C"Edc (3"G"BAG (3"D7"DGF
+|(3"G"GBd (3gdB (3GA^c|(3"Dm"dDE (3FA^G (3GBA
+|(3"Am"AcB (3cAE (3CDE|(3"Dm6"=Fec (3"E7"dB^G (3E^FG
+|(3"Am"AcB (3ced (3d=fe|(3ea^g (3aec (3ABc
+|(3"Dm"=fed (3"Am"cBA (3"E"EA^G|(3"Am"Ace a2 "G"z2
+|(3"C"zcd (3eg=f (3g_ba|(3"Dm"ac'b (3c'a=f (3"G"def
+|(3"C"eg=f (3gec (3GA_b|(3"Am"AcB (3"Dm"cA=F (3"G7"DEF
+|(3"C"ECD (3EGF (3GBA|(3"G"BGA (3Bdc (3"C"ced
+|(3"G"dgf (3gdB (3GAB|(3"Am"cde (3dcB (3ABc
+|(3"D"FDE (3FAG (3"D7"AcB|(3cAF (3DFB (3"D"cBA
+|(3"G"BGA (3Bdc (3"C"ced|(3"G"dgf (3gdB (3GAB
+|(3"C"Edc (3"G"BAG (3"D7"DGF|(3"G"GBd (3gdB (3GBd
+|(3"G7"=fdB (3GBd (3"Am"ecA|(3"D"FAc (3"G"dBG (3"Em"EGB
+|(3"D"cAF (3DFA (3cBA|(3"G"GBA (3Bdc (3"C"ced
+|(3"G"dgf (3gdB (3GAB|(3"C"cde (3"G"dcB (3"D7"ABG
+|(3"D"FGA (3DFA (3cBA|(3"G"BGA (3Bdc (3"C"ced
+|(3"G"dgf (3gdB (3GAB|(3"C"Edc (3"G"BAG (3"D"DGF
+|!FERMATA!"G"G6||
+V:2 name="Chorale"
+|z2 D2 E2|G2 E2 B,2
+|A,2 D2 C2|C2 A,2 D2
+|D2 G,2 E2|G2 E2 B,2
+|C2 E2 A3/2C/2|:B,6
+|B4 c2|d4 d2
+w:1~Je-su, joy of
+|c4 B2|A2 A2 z2
+w:man's de-sir-ing,
+|z6|B4 c2
+w:Ho-ly 
+|d4 B2|AB/2c/2 B2 A2
+w:wis-dom, love___ most 
+|G4 z2|G2 E2 B,2
+w:bright.
+|A,2 D2 C2|D2 A,2 F2
+|D2 G,2 E2|G2 E2 B,2
+|C2 E2 A,3/2C/2|B4 c2
+w:____Drawn by
+|d4 d2|c4 B2
+w:Thee, our souls as-
+|A2 A2 z2|z2 z2 z2
+w:pir-ing,
+|B4 c2|d4 B2
+|AB/2c/2 B2 A2|G4 z2
+|G2 E2 B,2|A,2 D2 C2
+|A,2 A,2 F2|D2 G,2 E2
+|G2 E2 B,2|C2 E2 A,3/2C/2
+|B,2 G2 G3/2E/2|A4 B2
+w:____Word of
+|c4 c2|(B3 c/2d/2) B2
+w:God our flesh__ that
+|A2 A2 z2|A2 =F2 C2
+w:fash-ion'd
+|D2 F2 B,3/2D/2|c4 d2
+w:____With the
+|e4 e2|(d3 e/2=f/2) d2
+w:fire of life__ im-
+|c2 c2 z2|C3/2E/2 =F2 G2
+w:pas-sion'd
+|G2 C3/2D/2 D2|B4 c2
+w:____Striv-ing
+|d4 d2|c2B4
+w:still to Truth un-
+|A4 z2|z6
+w:known
+|B4 c2|d4 B2
+w:Soar-ing dy-ing
+|A B/2c/2 A4|G6
+w:round__ Thy throne.
+|D2 z z/2 G/2 E3/2C/2|A2 B2 B3/2G/2
+|E3/2A,/2 F2 D2|D2 D2 E2
+|G2 E2 B,2|A,2 D2 C2
+|A,2 A,2 F2|D2 G,2 E2
+|G2 E2 B,2|C2 E2 A,3/2C/2
+|B,6||
+V:3 name="Violin Harmony"
+|G,2 G2 E2|B,2 E2 E2
+|A,2 B,2 C2|D2 F2 D2
+|G2 E2 C2|B,2 E2 D2
+|C2 ^C2 A,3/2=C/2|:G,2 zz/2G/2 D3/2B,/2
+|D2 F2 E2|F2 E2 D2
+|E2 F2 G2|D2 A,2 D2
+|F2 F2 A,2|D2 D2 E2
+|G2 D2 B,2|E2 D2 D3/2C/2
+|B,2 D2 E2|B,2 E2 E2
+|A,2 B,2 C2|D2 F2 D2
+|G2 E2 C2|B,2 E2 D2
+|C2 ^C2 A,3/2=C/2|G2 F2 E2
+|F2 E2 D2|E2 F2 G2
+|D2 D2 D3/2D/2|D2 z z/2 D/2 D3/2D/2
+|G2 F2 E2|G2 B,2 E2
+|C2 D2 D3/2C/2|G,2 G2 E2
+|B,2 E2 E2|A,2 B,2 C2
+|D2 F2 D2|G2 E2 D2
+|C2 ^C2 D2|G,2 z z/2 G/2 F3/2E/2
+|D2 C2 B,3/2^C/2|D2 C2 B,2
+|A,2 AG =FE|D2 B,2 E2
+|A,2 A,2 z2|C2 =F2 E2
+|D2 ^D2 B,3/2=D/2|A4 B2
+|c2 A2 E2|F3/2G/2 D2 G2
+|C2 C2 C3/2_B,/2|=F2 D2 G2
+|C2 z z/2 C/2 B,3/2D/2|G4 E2
+|B2 e2 E2|A,2 B,2 A,3/2C/2
+|D4 D3/2D/2|D2 z z/2 D/2 D3/2D/2
+|G2 F2 E2|B2 B,2 E2
+|C2 D4|G,6-
+|G,6-|G,6-
+|G,6-|G,2 G2 E2
+|B,2 E2 E2|A,2 B,2 C2
+|D2 F2 D2|G,2 G2 E2
+|B,2 E2 E2|C2 E2 A,3/2C/2
+|G,6||

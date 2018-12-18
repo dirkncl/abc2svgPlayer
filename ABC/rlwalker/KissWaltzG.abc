@@ -1,0 +1,31 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Kiss Waltz
+C:Music: Joe Burke; Lyrics: Al Dubin
+M:3/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Gmaj%(D, C)
+|:"G"F G2|"C#dim"F G2|"D7"F E2-|E3|A, B, C
+w:Kiss me, sweet-heart, kiss me_ That's what the
+|D "Daug5"F z/2 E/2|"G"E B,2-|B,2 ^A,/2 B,/2|"G#dim"=F2 ^A,/2 B,/2|"E7"E2 ^A,/2 B,/2
+w:Kiss Waltz is say-ing;_ Bring your lips close to mine while we're
+|"G#dim"D3|"Am"C2 ^D/2 E/2|"A7"B2 ^D/2 E/2|A2 ^D/2 E/2|"Cm"G3|"D7"F3
+w:sway-ing, Oh, my dear! Can't you hear what they're play-ing?
+|"G"F G2|"C#dim"F G2|"D7"F E2-|E3|"B6"A A A
+w:This waltz is the Kiss Waltz,_ Tell-ing us
+|F F F|"Em"G3-|"G7"G2 !p!G|"C""^Slower"B G2|"Cm"B G2
+w:both what to do;_ So kiss me! sweet-heart,
+|"Bm"F "E"E- "Dm"E-|"E7"E2 "^atempo"B,|"Am"C "E7"D "Am"E|"D7"F B "Daug5"D
+w:kiss me!__ While I dance the Kiss Waltz with
+|1 "G"G3|"D7"z3:|2 "G"G2- "Em"G|"G"G2 z||
+w:you. you.__

@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 40pt %between systems
+%%sysstaffsep 40pt %between staves of a system
+X:1
+T:King of the Fairies
+P:AAB
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Em
+P:A
+B2|"Em"EDEF GFGA|"Em"B4 "B7"GFGA|"Em"B2E2 EFGE|"D"FGFE D2B,2|
+"Em"EDEF "C"GFGA|"G"BAGB d2(3d^c=c|"Em"B2E2 "D"GFED|"Em"E4 E2:|
+P:B
+B2|"Em"e2e2 Bdef|"Em"gagf egfe|"Bm"d2B2 BAB^c|"Bm"ded^c BcdB|
+"Em"e2e2 Bdef|"Em"gagf efed|"Em"Bdeg "Bm"fedf|"Em"e4 -edef|
+"Em"g3e "D"f3d|"G"edB^c "D"d3e|"G"dBAF "D"GAB^c|"G"dBAF "D"GFED|
+"Em"B,2E2 EFGA|"Em"B2e2 "B7"edef|"Em"e2B2 "D"BAGF|"Em"E4 E2||

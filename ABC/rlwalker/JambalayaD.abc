@@ -1,0 +1,52 @@
+%Scale the output
+%%scale 1.100
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Jambalaya
+C:
+M:2/2%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Dmaj%(D, C)
+P:A
+|:F A
+w:1~Good-bye,
+w:2~Thi-bo
+w:3~Set-tle
+|"D"B2 F A/2A/2|B2 A F|"A7"A E3-|E2 A A/2A/2
+w:Joe, me got-ta go, me oh my oh._ Me got-ta
+w:daux, Fon-tain-_eaux the~place is buzz-in'._ Kin-folk_
+w:down far from_ town, get me~a pi-rogue._ And I'll_
+|c2 c c|B A B3/2 A/2|"D"A F3-|F2 d d|d3/2 d/2 B A
+w:go pole the pi-rogue down the bay-ou._ My Y-vonne, the sweet-est
+w:come to~see Y-vonne_ by the doz-en._ Dress in style and go hog
+w:catch all the fish_ in the bay-ou._ Swap my mon to buy Y-
+|d2 B A|"A7"A E3-|E2 A/2A/2 A|c3/2 c/2 B A|B2 A3/2 F/2
+w:one me oh my oh_ Son of a gun, we'll have big fun on the
+w:wild me oh my oh_ Son of a gun, we'll have big fun on the
+w:vonne what she need-o_ Son of a gun, we'll have big fun on the
+|"D"E "^N.C."D3-|D2||
+w:bay-ou._
+w:bay-ou._
+w:bay-ou._
+P:B
+|f f
+w:Jam-ba
+|"D"f f d B|d3/2 d/2 B A|"A7"A E3-
+w:la-ya, craw-fish pie and fil-let gum-bo
+|E2 A A|c c c3/2 B/2|A/2 A A/2 B A|"D"A F3-|F2 d d
+w:_ 'Cause to-night I'm gon-na see my ma-cher-a-mi-o. _Pick gui-
+|d2 B A|d2 B A|"A7"A E3-|E2 A/2A/2 A|c3/2 c/2 B A
+w:tar fill fruit jar and be gay-o._ Son of a gun, we'll have big
+|B2 A3/2 F/2|1,2 "D"E D3-|D2:|3 "D"E D3-|D2||
+w:fun on the bay-ou._ bay-ou._

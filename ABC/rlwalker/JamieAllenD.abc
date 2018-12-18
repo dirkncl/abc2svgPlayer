@@ -1,0 +1,22 @@
+%Scale the output
+%%scale 1.10
+%%format dulcimer.fmt
+X:1
+T:Jamie Allen
+C:Traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+P:A
+|D/2E/2
+|:"D"F D D E|F D D E/2F/2|"G"G E E F
+|G A/2G/2 F E|"D"D d d B|A2 F3/2 G/2|"A"A A G/2F/2 E
+|1 "D"D3 D/2E/2:|2 "D"D3 F/2E/2||
+P:B
+|:"D"D d d c|"G"B A G F
+|"A"E e e d|c A B c|"G"d3/2 e/2 d B|"D"A2 F3/2 G/2
+|"A"A A G/2F/2 E|1 "D"D3 F/2E/2:|2 "D"D3 z||

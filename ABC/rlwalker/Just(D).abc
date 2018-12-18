@@ -1,0 +1,28 @@
+%Scale the output
+%%scale 1.1
+%%format dulcimer.fmt
+X: 1
+T:Just A Closer Walk With Thee
+C:Traditional
+M:4/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|"D"A3 ^A BF"Ddim7"=A^G|"Em7"^G4- "A7"G4
+w:4 4 5 2 4 6+ 3 3
+w:1~I am weak but Thou art strong._
+w:2~Thro' this world of toil and snares,_
+w:3~When my fee-ble life is o'er,_
+w:C~Just a clos-er walk with Thee,_
+|e3 d cA "G"Bd|"D"BA-A6|f3 f "D7"fdef
+w:8 7 6+ 4 5 7 5 4 4 9 9 9 7 8 9
+w:Je-sus, keep me from all wrong.__ I'll be sat-is-fied as
+w:If I fal-ter, Lord, who cares?__ Who with me my bur-den
+w:Time for me will be no more,__ Guide me gen-tly, safe-ly
+w:Grant it, Je-sus, is my plea.__ Dai-ly walk-ing close to
+|"G"e d3-"G#dim7"d2 dB|"D"A2 AA "A7"A2 Bd|"D"d8||
+w:8 7 7 7 5 4 4 4 4  5 7 7
+w:long__ as I walk, let me walk  close to Thee.
+w:shares?__ None but Thee, dear_ Lord, none but Thee.
+w:o'er__ to Thy king-dom_ shore, to Thy shore.
+w:Thee.__ Let it be, dear_ Lord, let it be.
