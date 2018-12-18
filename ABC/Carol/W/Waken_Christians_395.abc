@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Waken, Christians! Greet The Morn
+Z: C. Simper
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=105
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G G (E/ F/) G | (A/ B/) c G2 | (A/ G/) (F/ E/) F D | (G/ F/) (E/ D/) E C | E3/ G/ A A | B B c A | d3/ c/ B G | A2 Gz |"^Chorus" G E (E/ F/) G | A F (F/ G/) A | G3/ A/ c A | B4 | (c/ B/) (c/ d/) e c | (A/ ^G/) (A/ B/) c A | G (E/ F/) G c | d4 | c (e/ d/) c B | c4|]
+w: Wa- ken, Christ-_ ians, greet_ the morn Hap-_ py_ day when Christ_ was_ born; Your hearts with faith and pray’r a- dorn, To wel- come Christ- mas morn- ing. Ca- rol sweet-_ ly, Ca- rol Swee-_ ly, Christ the Lord is born! Sing,_ O_ sing His prais-_ es_ meet- ly, Wel- come_ Christ- mas morn! Wel- come_ Christ- mas morn!
+

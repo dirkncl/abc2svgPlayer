@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wassail and Wassail All Over The Town
+Z: English Traditional
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=135
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  E | (E B) B B | (G2 F) E | (E F) G A | B3 B | (E B) B B | G2 F E | (E F) G A | B3 B | (B A) d ^c | B2 A G | F E F G | A3 G | B2 B ^c | B2 A G | (F E) (F G) | A3"^Chorus" G | (F E) F D | B,2 G A | B3 ^c | B2 (A G) | (F E) G F | E3|]
+w: Was- sail_ and was- sail_ all o-_ ver the town, The cup_ it is white and the ale_ it is brown; The cup_ it is made of the good old ash- en tree, And so is our beer of the best_ bar-_ ley. To you_ a was- sail! Aye, and joy come to our_ jol-_ ly was- sail.
+

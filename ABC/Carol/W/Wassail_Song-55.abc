@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wassail Song
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G2 G | (G A) B | c B A | B2 B | d c B | B A G | A A A | A2 (G/ A/) | B d d | d e d | B G B | A2 G/ A/ | B B B | c2 c | d2 d | B2z | (B G) e | d2z | (B G) e | d2 G/ A/ | B B B | c2 c | d2 d | G2|]
+w: Was- sail, was- sail,_ all o- ver the town, Our toast it is white and our ale it is brown Our_ bowl it is made of the white ma- ple tree, With the was- sail ing bowl we’ll drink to thee, Drink_ to thee, drink_ to thee, With the was- sail ing bowl we’ll drink to thee.
+

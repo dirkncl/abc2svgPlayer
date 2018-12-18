@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wareham
+Z: William Knapp, 1738
+Z: Public domain
+L: 1/4
+M: 3/4
+Q: 1/4=108
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: Bb
+[V: P1]  [DB] [DB] [FA] | [EG] [EF] D | [FB] [Gc] [FB] | [FA] [F2B2] | [Fc] [Fd] [Cc] | [D/B/]=E/ [FA] B | [Fc] [GB] [FA] | [=EG] F2 | F [EG] F | [E/G/]A/ [F2B2] | [F/A/]E/ [D2B2] | [Fc] [F2d2] | [F/c/]d/ [Ee] [Fd] | [Gc] [FB] [EA] | [FB] [Gc] [FB] | [EA] [D2-B2-] | [D2B2]z|]
+[V: P2]  [B,,F,] [B,,2F,2] | [B,,/G,/]A,/ [B,,2B,2] | [D,B,] [E,E] [F,D] | [F,C] [B,,2D2] | [F,A,] B, [A,C] | [G,C] [F,C] [D,F,] | [A,,A,] [B,,D] [C,C] | [C,B,] [F,2A,2] | [D,B,] [E,B,] D, | [C,E] [B,,E] D | [F,C] [G,2B,2] | [G,B,] B,2 | [F,A,] [G,B,] F, | [E,/G,/]A,/ [D,B,] [C,C] | [B,,D] [E,E] [F,D] | [F,C] [B,,2-B,2-] | [B,,2B,2]z|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wasn't That A Mighty Day
+Z: African-American Spiritual
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=70
+V: P1 name="Staff"
+%%MIDI program 1 56
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: G
+[V: P1]  D/4 D/4 D/4 D/4 | B3 c | A3 D/4 D/4 D/4 D/4 | (A2 A/ G/) B | G3 D/4 D/4 D/4 D/4 | B3 c | A2 c2 | B G A A | G3|]
+w: Was- n't that a might- y day, Was- n't that a might-__ y day, Was- n't that a might- y day, When Je- sus Christ was born.
+[V: P2]  D/4 D/4 D/4 D/4 | G3 G | (E2 D) D/4 D/4 D/4 D/4 | (E2 E/ G/) F | D3 D/4 D/4 D/4 D/4 | G3 G | E2 F2 | D E G F | D3|]
+[V: P3] z | D3 E | C3 D,/4 D,/4 D,/4 D,/4 | (C2 C/ B,/) D | B,3 D,/4 D,/4 D,/4 D,/4 | D3 C | C2 A,2 | G, B, E (D/ C/) | B,3|]
+[V: P4] z | G,,3 G,, | (G,,2 F,,) D,/4 D,/4 D,/4 D,/4 | D,3 D, | G,3 D,/4 D,/4 D,/4 D,/4 | G,3 E, | C,2 D,2 | G, E, C, D, | G,3|]
+

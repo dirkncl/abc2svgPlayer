@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: WESSEX
+Z: Unknown
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Wessex, 86.86.88"
+%%MIDI program 2 91
+K: C
+[V: P1]  [CE] [B,E] [B,D] C | [CG] [CG] [B,F] [CE] | [B,D] [CE] [DG] [CA] | [Dc] [D3B3] | [DB] [Cc] [CG] [CA] | [CG] [CF] [B,G] [CE] | [CE] [CA] [CD] [CD] | B,/C/ C3 | [CE] [B,E] [B,E] [EA] | [Cc] [E3/c3/] [D/B/] [CA] | [CG] [CF] [CE] [CA] | [CD] [CD] B,/C/ C- | C3z|]
+[V: P2]  [C,G,] [G,,G,] [G,,F,] [A,,E,] | [E,G,] [D,A,] [G,,G,] [C,G,] | G, [C,G,] [B,,G,] [A,,G,] | [A,,^F,] [G,,3G,3] | [F,G,] [E,G,] [C,E,] F, | [E,G,] [D,A,] [G,,G,] [C,G,] | [A,,C,] [F,,D,] [F,,A,] [G,,G,] | [G,,F,] [C,3E,3] | [C,G,] [E,^G,] [D,G,] [C,A,] | [A,,A,] [E,3/A,3/] [E,/^G,/] [E,A,] | [E,,^A,] [F,,=A,] [G,,G,] [^F,,D,] | [^F,,A,] [G,,G,] [G,,=F,] [C,-E,-] | [C,3E,3]z|]
+

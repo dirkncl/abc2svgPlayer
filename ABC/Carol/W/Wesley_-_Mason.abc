@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wesley
+Z: Lowell Mason, 1833
+Z: Public  domain
+L: 1/4
+M: 3/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Unnamed-001"
+%%MIDI program 2 91
+K: C
+[V: P1]  [E2c2] [E/B/][F/A/] | [EG] [EG] [EG] | [FA] [Fc] [FA] | [FA] [E2G2] | [G2e2] [G/d/][G/d/] | [^F2c2] [G/B/][G/B/] | [EA] [DG] [D^F] | [D3G3] | [E2c2] [E/B/][F/A/] | [EG] [EG] G | [Gf] [Gf] [Ge] | [Ge] [G2d2] | [G2g2] [G/e/][G/f/] | [Gg] [G/B/]F/ [Ec] | [Af] [Ge] [Fd] | [E3-c3-] | [Ec]z2|]
+[V: P2]  [C,2G,2] [C,/G,/][C,/C/] | [C,C] [C,C] [C,C] | [F,C] [F,A,] [F,C] | [C,C] [C,2C2] | C2 [B,/D/][B,/D/] | [A,2D2] [G,/D/][G,/D/] | [C,C] [D,B,] [D,A,] | [G,3B,3] | [C,2G,2] [C,/G,/][C,/C/] | [C,C] [C,C] [E,C] | [D,B,] [D,B,] [C,C] | [G,C] [G,2B,2] | [C2E2] C/[C/D/] | [CE] [G,D] [A,C] | [F,C] [G,C] [G,B,] | [C,3-C3-] | [C,C]z2|]
+

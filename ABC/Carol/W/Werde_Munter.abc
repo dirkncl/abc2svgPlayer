@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Werde Munter
+Z: Johann Schop, 1642
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 19
+K: F
+[V: P1]  [FA] [FB] [Ec] [Fc] | [FB] [FA] [FG] [EG] | [FA] [FB] [Gc] [FA] | [FG] [EG] F2 | [FA] [FB] [Ec] [Fc] | [FB] [FA] [FG] [EG] | [FA] [FB] [Gc] [FA] | [FG] [EG] F2 | [EG] [_GA] [=GB] [Gc] | [GB] [_GA] =G2 | [DB] [Fc] [Fd] [Gd] | [Gc] [Fc] [D2B2] | [FA] [FB] [Ec] [Fc] | [FB] [FA] [FG] [EG] | [FA] [FB] [Fc] [FA] | [FG] [EG] [CF] [C-F-] | [C3F3]z|]
+[V: P2]  [F,C] [D,F,] G, C | D [F,C] C C | [F,C] [D,D] [E,C] [F,C] | D C [F,2A,2] | [F,C] [D,F,] G, C | D [F,C] C C | [F,C] [D,D] [E,C] [F,C] | D C [F,2A,2] | C C D [_E,G,] | [D,D] [D,D] [G,2B,2] | [G,B,] [F,A,] B, [G,B,] | [_E,B,] [F,A,] B,2 | [F,C] [D,F,] G, C | D [F,C] C C | [F,C] [D,D] C C | D C [F,B,] [F,-A,-] | [F,3A,3]z|]
+[V: P3] z2 C, A,, | B,,z C, C, | z4 | B,, C,z2 |z2 C, A,, | B,,z C, C, | z4 | B,, C,z2 | C, A,, G,,z | z4 |z2 B,,z |z2 B,,2 |z2 C, A,, | B,,z C, C, |z2 A,, F,, | B,, C,z F,,- | F,,3z|]
+

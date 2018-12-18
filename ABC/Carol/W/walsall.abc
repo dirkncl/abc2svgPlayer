@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Walsall, CM
+Z: Attributed to H. Purcell (1658-1695)
+Z: Public domain
+L: 1/4
+M: none
+Q: 1/4=115
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Walsall, CM"
+V: P2_2
+%%MIDI program 2 91
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  | [CA] G/F/ C [Fc] | B/A/ [B,G] [A,F] [FA] | [CF] [B,=E] F/G/ A/B/ | | [Ec] [Ec] [EB] A/G/ | [DF] B/A/ [EG] [Ec] | F/=E/ F/G/ A/B/ G3/4F/4 ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x1  C C x1  | D x3  | x2  C F | | x3  E | x1  F x2  | D F F =E ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | F, [A,,F,] [C,=E,] [F,,A,] | [B,,F,] [C,=E,] F, [F,C] | A, [G,B,] [F,A,] [D,F,] | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | F, | F, | A, | | | | ||]
+

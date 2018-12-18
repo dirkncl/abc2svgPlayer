@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: We Sing A Song Of Christmas-Time
+Z: Arthur Sullivan
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G | G3/ F/ E/ F/ | G/ B/ B3/ B/ | e3/ c/ A/ c/ | B/ G/ Ez | F3/4 G/4 A/ G/ A/ F/ | G2 E/ F/ | G/ c/ d/ e/ d/ =B/ | c2 G | A/ B/ c3/ A/ | G/ A/ B3/ G/ | (F d) c | B2 e | d/ c/ B c | B/ A/ G B | (F/ E/ D) F | E2"^Refrain" G | A/ B/ c3/ A/ | G/ A/ B3/ G/ | (F d) =c | B2 e | d/ c/ B c | B/ A/ G B | (G/ F/ E) F | E3|]
+w: We sing a song of Christ- mas time, A day of glad fes- tiv i ty; And, with voi- ces ring- ing clear, Hail the day of Christ's na- tiv i ty. From heav'n He came With won- drous name A child_ to be; On Christ- mas Day In man- ger lay For you__ and me. Ring out, glad bell, No- el! No- el! The Christ_ is come to make His home And with us dwell: Im- man__ u el
+

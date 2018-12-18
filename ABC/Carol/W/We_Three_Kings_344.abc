@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: We Three Kings Of Orient Are
+Z: John Henry Hopkins, Jr.
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/8
+Q: 1/4=37
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B A/ | G E/ | F/ G/ F/ | Ez/ | B A/ | G E/ | F/ G/ F/ | Ez/ | G G/ | A A/ | B B/ | (d/ c/) B/ | A/ B/ A/ | G F/ | Ez/ |"^Chorus" (F A/) | G G/ | G D/ | G E/ | Gz/ | G G/ | G D/ | G E/ | Gz/ | G G/ | A B/ | c B/ | A B/ | G G/ | G D/ | G E/ | G3/|]
+w: We three kings of O- ri ent are Bear- ing gifts, we tra- verse a- far. Field and foun- tain, moor and moun-_ tain, Fol- low ing yon- der star. Oh,_ star of won- der, star of night, Star with ro- yal beau- ty bright, West- ward lead- ing, still pro- ceed ing, Guide us to thy per- fect Light.
+

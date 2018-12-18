@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: We've Decked The Church With Ivy
+Z: Rev. J. S. B. Hodges
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G/ | c/ B/ c/ A/ | G E/ E/ | D/ A/ G/ F/ | E3/ G/ | c/ B/ c/ A/ | B G/ B/ | A/ ^G/ F/ G/ | E3/ E/ | F/ G/ A/ B/ | c G/ c/ | d/ e/ d/ c/ | B3/ B/ | c/ B/ A/ G/ | A d/ c/ | B A | G3/"^Chorus" G/ | c/ B/ c/ A/ | G E/ G/ | A F | D3/ G/ | c/ B/ c/ A/ | G c/ e/ | d d | G3/ G/ | A/ B/ c/ d/ | G c/ c/ | e d | c3/|]
+w: We’ve decked the Church with I- vy, And hol- ly branch- es gay, We’ve wreathed the shin- ing lau- rel ‘Round font and pil- lars grey; And now we come right glad- ly To join the an- gel strain, Of peace on earth, and glo- ry To God a- gain. A mer- ry, mer- ry Christ- mas, The Church bells ring, A joy- ful, joy- ful Christ- mas, We child- ren sing For Christ was born at Christ- mas, Our Sav- iour King.
+

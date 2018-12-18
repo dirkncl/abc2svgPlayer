@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Disciplinae filius
+Z: From Piae Cantiones
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c2 (c B/ A/) | (G2 E) E | (A G2) F | E4 | D E G F | (E2 D) D | C4 | c2 (c B/ A/) | (G2 E) E | (A G2) F | E4 | D E G F | (E2 D) D | C4 | E E D E | (G2 F G | A) F (E2 | G A c B | c2 G2) | A B A G | (E2 D) D | C4 | G2 A2 | B2 c2 | (d c B c) | A2 G2 | A B A G | (E2 D) D | (C4 | G A G F | E C F E | D2 C2)|]
+w: Wel- come,__ Christ-_ mas, wel-_ come here, Hap- piest sea- son of_ the year. Fires are__ blaz-_ ing, thee_ to greet: Fa- mi lies to- ge_ ther meet. Bro- thers, sis- ters, cir-___ cle round,______ Loud is glad- ness' fes-_ tive sound. For Old Eng- land loves___ to see All her child- ren wel-_ come thee.__________
+

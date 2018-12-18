@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wesley
+Z: Unknown
+Z: Public  domain
+L: 1/4
+M: 6/4
+Q: 1/4=150
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Wesley"
+%%MIDI program 2 19
+K: C
+[V: P1]  z4z C | [CE] D C [CG] [B,F] [CE] | [B,3D3] [B,2D2] [CE] | [CF] G [CA] [C2E2] [B,D] | C3 C2 C | [CE] D C [CG] [B,F] [CE] | [B,3D3] [B,2D2] [CE] | [CF] G [CA] [B,2D2] [B,D] | C3 C2 [DG] | [^CG] [CF] [=CE] [^C2F2] [=CF] | [B,F] [CE] [B,D] [C2E2] [DG] | C D [^A,E] [=A,=A] [CG] [CF] | [C2E2] [B,D] C2z|]
+[V: P2]  z4z [C,E,] | [C,G,] F, [C,E,] [E,G,] D, [B,,G,] | [G,,3G,3] [G,,2G,2] [C,G,] | [A,,F,] [G,,E,] [F,,F,] [G,,E,] F, [G,,G,] | [C,3E,3] [C,2E,2] [C,E,] | [C,G,] F, [C,E,] [E,G,] D, [B,,G,] | [G,,3G,3] [G,,2G,2] [C,G,] | [A,,F,] [G,,E,] [F,,F,] [G,,E,] F, [G,,G,] | [C,3E,3] [C,2E,2] [^A,,D,] | [A,,E,] F, [A,,A,] [D,2A,2] D, | [G,,D,] E, [G,,G,] [C,2G,2] [B,,G,] | [A,,2E,2] [G,,E,] [F,,F,] [E,,G,] [F,,A,] | [G,,2G,2] [G,,F,] [C,2E,2]z|]
+

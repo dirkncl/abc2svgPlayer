@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wachet Auf
+Z: Philipp Nicolai, 1599
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=108
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Wachet Auf"
+%%MIDI program 2 19
+V: P3 name="Wachet Auf-2"
+%%MIDI program 3 19
+K: C
+[V: P1]  [G,C] [CE] [EG] D/G/ | [EG] [DG] [EA] D | [D3G3] [DG] | [Gc] G/F/ [E/c/][F/d/] [Ge] | [Gd] [Ac] [A/B/]G/ A/^F/ | [D3G3] [EG] | [Fc] [EG] [CA] [CE] | [C/F/]E/ [B,D] [G,2-C2-] | [G,C] [G,C] [CE] [EG] | D/G/ [EG] [DG] [EA] | D [D3G3] | [DF] [Gc] G/F/ [E/c/][F/d/] | [Ge] [Gd] [Ac] [A/B/]G/ | A/^F/ [D3G3] | [EG] [Fc] [EG] [CA] | [CE] [C/F/]E/ [B,D] [G,-C-] | [G,2C2] [DG] [E-G-] | [E/G/][D/F/] [G,/E/]A,/ [B,D] [A,-C-] | [A,2C2] [B,/G/]C/ [DG] | D/F/ [B,/D/E/]B,/ D/B,/ [G,-C-] | [G,2C2] [B,D] [CE] | [C/F/]B,/ [CE]z [EG] | [E/A/]D/ [D/B/]E/ [Ec] [E/c/][F/d/] | [Ge] d/F/ [Ec] [E/G/]F/ | [G/c/]F/ G/E/ [FA] [CE] | [C/F/]E/ [B,D] [G,2-C2-] | [G,2C2]z2|]
+[V: P2]  E, G, C/D,/ [G,/B,/]F,/ | [E,/C/]D,/ G, G, [D,^F,] | B,3 [G,/B,/]F,/ | [E,/C/]F,/ [E,/C/]D,/ G, C | [B,/D/]A,/ [G,/D/]^F,/ [G,D] D,/A,/ | B,3 C | C C/^A,/ [F,/=A,/]G,/ A, | [D,/A,/]G,/ F, E,2- | E, E, G, C/E,/ | [G,/B,/]F,/ [E,/C/]D,/ G, G, | [D,^F,] B,3 | [G,/B,/]F,/ [E,/C/]F,/ [E,/C/]D,/ G, | C [B,/D/]A,/ [G,/D/]^F,/ [G,D] | D,/A,/ B,3 | C C C/^A,/ [F,/=A,/]G,/ | A, [D,/A,/]G,/ F, E,- | E,2 G, C/B,/ | [D,/A,/]B,/ [E,/C/]F,/ G,/F,/ E,- | E,2 [E,G,] G,/A,/ | B, G,/A,/- A,/G,/ E,- | E,2 G,/F,/ [E,G,] | [D,/A,/]F,/ G,z C | [^F,C] [^G,B,] A, [A,C] | [E,/C/]F,/ [G,B,] C C/D,/ | [E,/G,/]D,/ [E,C] C3/ A,/ | [D,/A,/]G,/ F, E,2- | E,2z2|]
+[V: P3]  C, C, C,z |z C,/B,,/ C,/A,,/z | G,,3z |z2 C,z | z4 | G,,3 C,/^A,,/ | A,,/B,,/ C,z2 |z G,, C,2- | C, C, C, C, |z2 C,/B,,/ C,/A,,/ |z G,,3 |z3 C, | z4 |z G,,3 | C,/^A,,/ =A,,/B,,/ C,z |z2 G,, C,- | C,2 B,, C, |z2z/ G,,/ A,,- | A,,2z B,,/A,,/ | G,, C,/A,,/ F,,/G,,/ C,- | C,2z2 |z C,z2 | z4 |z2 A,, C, |z3/ C,/ F,,/G,,/ A,, |z G,, C,2- | C,2z2|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wake, My Heart, While Round Thee Swelling
+Z: J. Kruger
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=360
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G2 A2 | B2 A2 | B2 d2 | (d2 ^c2) | d4 | B2 d2 | A4 | B2 d2 | A4 | d2 d2 | c2 B2 | A4 | G4 | G2 A2 | B2 A2 | B2 d2 | (d2 ^c2) | d4 | d2 e2 | c4 | B2 d2 | A4 | d2 d2 | c2 B2 | A4 | G4|]
+w: Wake, my heart, while round thee swel-_ ling, Songs of praise, an- gels raise, Joy- ful tid- ings tel- ling. Hark, the chor- us peal- ing o'er_ thee, "On this morn, Christ was born. Born a Sav- iour for thee!"
+

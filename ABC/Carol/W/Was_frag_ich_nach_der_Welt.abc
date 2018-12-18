@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Was frag' ich nach der Welt, 67.67.66.66
+Z: Ahasuerus Fritsch, 1679
+Z: Harmony by Johann Sebastian Bach, circas 1740.
+Z: Public  domain
+L: 1/4
+M: none
+Q: 1/4=115
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Was Frag' Ich"
+V: P2_2
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | [CE] D/C/ [CG] [EG] | | | E D [G,C] [CG] | [CA] [FA] G [DF] | | | B A/G/ [DG] [DG] | G G [Gc] [E_B] | | [GA] [^FA] d c | | [CA] [CG] A [FB] | | G F/E/ [CD] [B,D] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x1  B, x2  | | | D/ C/- C/ B,/ x2  | x2  F/E/ x1  | | | D2 x2  | E/D/ E/F/ x2  | | x2  F/E/ E/D/ | | x2  F/E/ x1  | | E/D/ C x2  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | B,/A,/ G, G, | G,2 [C,E,] [E,G,] | F, [D,A,] B,/C/ C/B,/ | | [C,G,] A, [E,G,] G, | G, ^F, [G,,B,] [E,G,] | C C [E,G,] [C,C] | | D A, [B,,/A,/][C,/G,/] G,/^F,/ | | F, [E,G,] D/C/ [^G,,D] | | G, A, [F,,A,] G,/F,/ ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | G, G,/F,/ E,/D,/ C,/B,,/ | C, G,, x2  | x1  G, G,, | | x1  B,,/A,,/ x1  D,/C,/ | D,2 x2  | C,/D,/ x2  | | D,/E,/ D,/C,/ x1  D, | | x1  D, x1  | | C,/B,,/ A,,/G,,/ x1  G,, ||]
+

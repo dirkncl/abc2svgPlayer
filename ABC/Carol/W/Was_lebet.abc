@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Was Lebet
+Z: Reinhardt Manuscript, Uttingen, 1754
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=115
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Was Lebet, Was Schwebet"
+%%MIDI program 2 19
+K: D
+[V: P1]  [EA] [A,D] [B,D] | [CE] [DF] [DF] | [EA] [D3/G3/] [D/F/] | [CE] [D3/F3/] [D/F/] | [DF] [B,/E/]C/ D | [CE] [DF] [B,^G] | [A,A] [FA] [FB] | [E^G] [E2A2] | [Ec] [Dd] [F/d/]G/ | [A=c] [AB] [GB] | [FA] [EG] [EA] | [DF] [C3/E3/] [C/E/] | [CE] [DA] [EA] | [DF] [DB] [Gc] | [Fd] [Gd] [Ge] | [Ec] [F2-d2-] | [F2d2]z|]
+[V: P2]  [E,A,] [D,F,] G,/F,/ | [E,G,] [D,A,] [D,A,] | [C,A,] [B,,3/B,3/] [D,/A,/] | [A,,A,] [D,3/A,3/] [D,/A,/] | [D,A,] G, [F,A,] | [E,G,] [D,A,] [E,D] | [F,C] [D,D] [B,,D] | [E,B,] [A,2C2] | A, [F,A,] [D,/A,/]E,/ | [F,D] [G,D] [G,D] | [D,D] [E,B,] [C,A,] | [D,A,] [A,,3/A,3/] A,/ | [G,A,] [F,A,] [C,A,] | [D,A,] G, [A,E] | [B,D] [G,B,] [E,B,] | A, [D,2-A,2-] | [D,2A,2]z|]
+

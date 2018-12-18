@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Welcome Be Our Heavenly King
+Z: Sir Frederick Bridge
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  A3/ E/ F C | F3/ E/ E2 | c3/ A/ B F | A3z | F3/ G/ (A/G/) F | B c (d F) | E3/ F/ (G/A/) (B/A/) | G4 | (c/B/) (c/d/) e c | (A/G/) (A/B/) (c A) | (F/E/) (F/G/) A (B/c/) | d c B2 | e2 A2 | d2 G2 | (F/E/) (F/G/) A B | A4|]
+w: Tid- ings, peo- ple, take good heed! Turn ye not a- way! Child of prom-_ ise, King in- deed,_ Christ is born_ to-_ day! There-_ fore_ let all peo-_ ple_ sing,_ Wel-_ come_ be our_ Heav'n- ly King! Wel- come, wel- come, Wel-_ come_ be our King!
+

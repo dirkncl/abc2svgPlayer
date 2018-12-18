@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Weep, Weep, For Earth's Bereaved Ones
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=440
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G2 | A3 G A3 G | B2 F2z2 F2 | d3 B =A2 F2 | B6 B2 | B3 =A B3 A | =A4 G2 B2 | B2 G2 F2 A2 | G6 B2 | (c d) e2 d2 G2 | (A2 c2) B2 E2 | F2 (G A) B2 c2 | d6 d2 | e3 e e2 c2 | (B2 A2) G2 G2 | A3 G F2 G2 | E6|]
+w: Weep, weep, for earth's be- reaved ones, Re- joice! their course is run, The blos- soms earth hath fold- ed Bloom 'neath the heaven- ly sun; But with_ the song of an-_ gels, From yon blue_ hea- vens blent, A voice is heard in Ra-_ mah Of wail- ing and la- ment.
+

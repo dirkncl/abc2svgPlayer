@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Westron wynde, when wyull thou blow
+Z: Time of Henry VIII
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  G3/ A/ B B | (A3/4 B/4 A/) G/ F D | G3/ D/ F G | F3 B | A3/ G/ F D | F G F B | A G d3/ B/ | (A/ G/ F/ G/ A/ B/ A | G4)|]
+w: Lis- ten, lord- ings, un-__ to me! A tale I shall you tell; The which up- on this night of glee In Da- vid's town be- fell._______
+

@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Waltham
+Z: John Baptiste Calkin, 1872
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=104
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Staff-1"
+%%MIDI program 3 19
+K: C
+[V: P1]  C [C3/E3/] [C/^D/] [CE] | [^A,E] [B,3/F3/] [B,/E/] [B,F] | [C^F] [CG] [Ec] [EB] | [CA] [D3/A3/] [D/G/] [DG] | [CG] [C3/G3/] [C/F/] [CE] | [G,F] [^G,3/E3/] [G,/D/] [A,C] | [CD] [CE] [CF] [CG] | [CA] B,3/ [B,/D/] C- | C3z|]
+[V: P2]  [C,E,] [C,G,] G,,/G,/ [C,G,] | [^C,G,] [D,G,] G,,/G,/ [D,G,] | [^D,G,] [E,G,] [G,,G,] [C,G,] | [E,C] [F,3/B,3/] [F,/B,/] [F,B,] | [E,C] [F,3/A,3/] [F,/A,/] [C,G,] | C, [B,,3/E,3/] [B,,/E,/] [A,,E,] | [D,F,] [G,,G,] [F,,A,] [E,,G,] | [F,,D,] [G,,3/D,3/] [G,,/F,/] [C,-E,-] | [C,3E,3]z|]
+[V: P3]  [C,E,] [C,G,] G,,/G,/ [C,G,] | [^C,G,] [D,G,] G,,/G,/ [D,G,] | [^D,G,] [E,G,] [G,,G,] [C,G,] | [E,C] [F,3/B,3/] [F,/B,/] [F,B,] | [E,C] [F,3/A,3/] [F,/A,/] [C,G,] | C, [B,,3/E,3/] [B,,/E,/] [A,,E,] | [D,F,] [G,,G,] [F,,A,] [E,,G,] | [F,,D,] [G,,3/D,3/] [G,,/F,/] [C,-E,-] | [C,3E,3]z|]
+

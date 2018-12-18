@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Hymn for Conquering Martyrs Raise
+Z: "Wer da won." 'St. Gal Gesangbuch,' 1863
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=120
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  D | D2 F A2 F | (G A) B A2 d | c2 B (A F) A | (G F) G F2 D | D2 F A2 F | (G A) B A2 d | c2 B (A F) A | (G F) G F2 A | B2 c d2 A | (G F) E D2 D | F2 G A2 B | G2 F E2 E | F2 ^G A2 B | (c d) B A2 d | c2 B A2 G | (F G) E D2|]
+w: The Hymn for con- qu'ring Mar-_ tyrs raise: The Vic- tor In-_ no cents_ we praise: Whom in their woe earth cast_ a- way, But heav'n with joy_ re- ceiv'd_ to- day. Whose An- gels see the Fa-_ ther's face, World with- out end, and hymn his grace: And while they chant un- ceas_ ing lays, The Hymn for con- qu'ring Mar-_ tyrs raise.
+[V: P2]  A, | A,2 D E2 D | D2 D D2 F | F2 D (E D) D | D2 C D2 A, | A,2 D E2 D | D2 D D2 F | F2 D (E D) D | D2 C D2 D | D2 G F2 D | D2 C D2 D | C2 D D2 D | (B, E) D C2 C | D2 E E2 F | E2 D C2 D | F2 D E2 E | D2 C D2|]
+[V: P3]  F, | F,2 A, A,2 A, | G,2 G, F,2 B, | ^A,2 B, (E, =A,) A, | B,2 A, A,2 F, | F,2 A, A,2 A, | G,2 G, F,2 B, | ^A,2 B, (E, =A,) A, | B,2 A, A,2 A, | G,2 G, B,2 A, | B,2 G, F,2 B, | C2 B, A,2 F, | (G,3/ A,/) B, C2 A, | A,2 B, A,2 A, | A,2 ^G, A,2 F, | ^A,2 B, E,2 =A, | (A, B,) G, F,2|]
+[V: P4]  D, | D,2 D, C,2 D, | B,,2 G,, D,2 B,, | F,2 G, (C, D,) F, | E,2 A,, D,2 D, | D,2 D, C,2 D, | B,,2 G,, D,2 B,, | F,2 G, (C, D,) F, | E,2 A,, D,2 F, | G,2 E, B,,2 F,, | G,,2 A,, B,,2 B, | A,2 G, F,2 D, | (E,3/ F,/) G, A,2 A,, | D,2 D, C,2 D, | E,2 E, A,,2 B,, | F,2 G, (C,3/ B,,/) C, | (D, G,,) A,, D,2|]
+

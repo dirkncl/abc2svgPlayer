@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wake All Music's Magic Powers
+Z: Sir J. Stainer
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: E
+[V: P1]  G3/ G/ A G | F B E2 | G ^A B d | c2 B2 | B3/ B/ c B | ^A d B2 | B c d f | c2 B2 | e d c B | A c (B A) | G F E A | G2 F2 | B G F3/ G/ | A F (E F) | G G (B/A/) G | F E F2 | e3/ d/ B c | G A (B c) | d e (B/A/) G | G F E2|]
+w: Wake all mu- sic’s ma- gic pow’rs, On this bliss- ful morn- ing, Born to- day, the Child is ours, Theme of Pro- phet’s warn- ing; Gi- ant in the race He tow’rs,_ Toil and dan- ger scorn- ing. O that bless- ed go- ing out,_ Which sal- va_ tion brought a- bout, O that bless- ed go- ing out,_ Which sal- va_ tion brought a- bout.
+

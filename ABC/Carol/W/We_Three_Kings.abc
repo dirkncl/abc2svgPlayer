@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: We Three Kings
+Z: John Henry Hopkins, Jr., 1857
+Z: Public  domain
+L: 1/4
+M: 6/8
+Q: 1/4=86
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Unnamed-001"
+%%MIDI program 2 91
+K: G
+[V: P1]  [GB] [F/A/] [EG] E/ | [^D/F/][D/G/][D/F/] E3/ | [GB] [F/A/] [EG] E/ | [^D/F/][D/G/][D/F/] E3/ | [EG] [E/G/] [FA] [F/A/] | [GB] [G/B/] [G/d/][F/c/][G/B/] | [E/A/][E/B/][E/A/] [EG] [^D/F/] | E2 [DF] | A3/ [DG] [D/G/] | [DG] D/ [EG] E/ | [D3/G3/] [DG] [D/G/] | [DG] D/ [EG] E/ | [D3/G3/] [EG] [E/G/] | [FA] [G/B/] [Gc] [G/B/] | [FA] [G/B/] [DG] [D/G/] | [DG] D/ [EG] E/ | [D3G3]|]
+[V: P2]  [E,B,] [E,/B,/] [E,B,] [E,/G,/] | [B,,/A,/][B,,/B,/][B,,/A,/] [E,3/G,3/] | [E,B,] [E,/B,/] [E,B,] [E,/G,/] | [B,,/A,/][B,,/B,/][B,,/A,/] [E,3/G,3/] | [E,B,] [E,/B,/] [D,D] [D,/D/] | [G,D] [G,/D/] B,/[A,/C/][G,/D/] | [A,/C/][A,/C/][A,/C/] B, [B,,/A,/] | [E,2G,2] [D,A,] | C3/ [G,B,] [G,/B,/] | [G,B,] [G,/B,/] [C,G,] [C,/A,/] | [G,3/B,3/] [C,G,] [C,/A,/] | [G,3/B,3/] [G,B,] [G,/B,/] | [G,3/B,3/] [E,B,] [E,/B,/] | [D,D] [G,/D/] [C,E] [G,/D/] | [D,D] [G,/D/] [G,B,] [G,/B,/] | [G,B,] [G,/B,/] [C,G,] [C,/A,/] | [G,,3B,3]|]
+

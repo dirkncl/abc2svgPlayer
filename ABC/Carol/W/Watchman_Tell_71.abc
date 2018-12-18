@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Watchman, Tell Us Of The Night
+Z: Tune: St. George by George J. Elvey, 1858
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A3/ A/ c A | F G A2 | A3/ A/ c A | F G A2 | A3/ A/ B B | G3/ G/ A2 | A =B c F | E D C2 | E3/ E/ G E | F G A2 | A3/ A/ c A | B c d2 | d3/ d/ B G | c3/ c/ A2 | B d c F | A G F2|]
+w: Watch- man, tell us of the night, what its signs of prom- ise are. Trav- 'ler, o'er yon moun- tain's height, see that glo- ry beam- ing star. Watch- man, does its beau- teous ray aught of joy or hope fore- tell? Trav- 'ler, yes; it brings the day, prom- ised day of Is- ra el.
+

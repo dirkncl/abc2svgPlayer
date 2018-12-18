@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wallace
+Z: Clarence G. Hamilton (1865-1932)
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Wallace (Hamilton)"
+V: P2_2
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | [EB] [Ec] A3/ [B,/G/] | | | | | ^G [C2)A2)] [(C(E] | | | | | | | G2 G2 ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | x2  D C/ x0  | | | | | E/D/ x3  | | | | | | | D C A, B, ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | [E,G,] [A,,A,] G, ^F,/ [G,,/G,/] | | | | | | | | | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | x2  D,3/ x0  | | | | | | | | | | | | ||]
+

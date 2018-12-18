@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Watching In The Meadows
+Z: Myles B. Foster
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D (E/ F/) G A | G2 Fz | F E F E | (E2 D)z | D (E/ F/) G B | B A F (A/ G/) | F3 E | (D2 D)z | d (^c/ d/) e B | d2 cz | B B c3/ B/ | (A2 A)z | A (^G/ A/) B c | e d c A | G3 A | (A2 B)z | A (^G/ A/) B c | d e d c | B3 A | (G2 G)z | d3 d | (d2 d)z | D3 D | (D2 D)z|]
+w: Watch- ing_ in the mea- dows, O'er the flocks by night,_ Shep- herds_ heard glad tid- ings, Saw heav'n's_ wond- rous light!_ Hal- le_ lu jahs heard they From the An- gels then_ “Peace on_ earth” their mess- age And “Good will to men!”_ “Peace on_ earth” their mess- age, And good- will to men.”_ “Peace on earth,_ Peace on earth.”_
+

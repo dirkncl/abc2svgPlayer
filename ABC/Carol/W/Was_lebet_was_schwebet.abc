@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Was lebet, was schwebet
+Z: From the 'Rheinhardt MS.,' Uttingen, 1754
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=320
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  A2 | D2 D2 E2 | F2 F2 A2 | G3 F E2 | F3 F F2 | E2 D2 E2 | F2 ^G2 A2 | A2 B2 ^G2 | A4 c2 | d2 d2 =c2 | B2 B2 A2 | G2 A2 F2 | E3 E E2 | A2 A2 F2 | B2 c2 d2 | d2 e2 c2 | d4|]
+[V: P2]  E2 | A,2 B,2 C2 | D2 D2 E2 | D3 D C2 | D3 D D2 | (B, C) D2 C2 | D2 B,2 A,2 | F2 F2 E2 | E4 E2 | D2 (F G) A2 | A2 G2 F2 | E2 E2 D2 | C3 C C2 | D2 E2 D2 | D2 G2 F2 | G2 G2 E2 | F4|]
+[V: P3]  A,2 | F,2 G,2 G,2 | A,2 A,2 A,2 | B,3 A, A,2 | A,3 A, A,2 | G,2 A,2 G,2 | A,2 D2 C2 | D2 D2 B,2 | C4 A,2 | A,2 A,2 D2 | D2 D2 D2 | B,2 A,2 A,2 | A,3 A, A,2 | A,2 A,2 A,2 | G,2 E2 D2 | B,2 B,2 A,2 | A,4|]
+[V: P4]  C,2 | D,2 (G, F,) E,2 | D,2 D,2 C,2 | B,,3 D, A,,2 | D,3 D, D,2 | G,2 F,2 E,2 | D,2 E,2 F,2 | D,2 B,,2 E,2 | A,4 A,2 | F,2 (D, E,) F,2 | G,2 G,2 D,2 | E,2 C,2 D,2 | A,,3 A, G,2 | F,2 C,2 D,2 | G,2 A,2 B,2 | G,2 E,2 A,2 | D,4|]
+

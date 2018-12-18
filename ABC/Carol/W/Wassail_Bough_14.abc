@@ -1,0 +1,32 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Wassail Bough
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2_1 name="Right Hand"
+V: P2_2
+%%MIDI program 2 0
+V: P3_1 name="Left Hand"
+V: P3_2
+%%MIDI program 3 0
+K: F
+[V: P1]  z4 | z4 | z4 | z4 | F A/ c d/ | c A/ F G/ | A A/ A F/ | G3/zz/ | F A/ c d/ | c A/ F G/ | A A/ G G/ | F3/zz/ |"^Chorus" (c A/) F G/ | A3/ A3/ |"^Chorus" (c A/) F G/ | A3/ A3/ |zz/ A B/ | c3/ f d/ | c3/ A B/ | c3/ f d/ | c3/ A B/ | c3/ d B/ | A3/ G G/ | F3/ A G/ | F3/ A B/ | (c3 | c)z/ A B/ | (c3 | c)z/ A B/ | c3/ d B/ | A3/ G G/ | F3/ A G/ | F3/zz/|]
+w: Here we come a- was sail ing, a- mong the leaves of green; Here we come a- wan der ing, so fair- ly to be seen. Our_ jol- ly was- sail, our_ jol- ly was- sail, Love and joy come to you and to our was- sail bough; Pray God bless you, and send you a hap- py New Year. A New Year,_ A New Year,_ Pray God bless you, and send you a hap- py New Year.
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | [C3/E3/] F | | | | | | c F | | c F | | | [F3/c3/] f d/ | c F | | c F | | c F | | | | | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | x1  C3/ G/ | | | | | | C3/ F3/ A/ C3/ G/ | | C3/ F3/ A/ C3/ G/ | | | x1  F3/ | F3/ A/ D3/ G/ | | F3/ A/ D3/ G/ | | A3/ A/ C3/ G/ | | | | | | | | ||]
+% Extracting voice 1 from part P3
+[V: P3_1]  | | | | | | | G,3/ [A,,F,] [G,,/E,/] | | | | | | | | | | | A,3/ [A,3/C3/] | [A,3/C3/] B,3/ | | | | | | | | | | | | ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | | | | | | | C, B,,/ x1  | | | | | | | | | | | F,,3/ C,3/ x1  | x1  B,3/ | | | | | | | | | | | | ||]
+

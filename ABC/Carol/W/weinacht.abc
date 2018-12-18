@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Weinacht
+Z: Karl Pommeroy Harrington (1861-1953)
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 6/8
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Base Clef"
+V: P2_2
+%%MIDI program 2 91
+K: Db
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | | | | [F3/-=A3/-] [FA] c/ | c =G/ =A/z/ [F/c/] | | |||"^Refrain" d/ c/ B/ d/ c/ B/ | | A/=G/ A/ B/A/ G/ | | F3/ G A/ | [B,3/D3/G3/B3/] c [E/G/d/] | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | | | | x2  c/ | c =G/ =A/ x1  | | |||"^Refrain" F3/ F3/ | | G A/ C C/ G/ | | _C3/ D3/ F3/ C D G C/ D/ A/ | x1  E =G c x0  | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | E, [E,/A,/] [E,A,] [E,/C/] | | | | | | [F,3/-C3/-] [F,C] C/ | C =G,/ =A,/z/ [F,/A,/] | | _A, [A,/E/] [A,D] [A,/D/] ||| | A, B,/ [A,,C] [E,/D/] | E A,/ G,/F,/ [A,,/E,/] | D,3/- D,/z | | G,3/ [E,D] [E,/D/] | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | E, x2  | | | | | | x2  C/ | C =G,/ =A,/ x1  | | _A, x2  ||| | E,3/ x1  | C,3/ A,, x0  | D,3/- D,/ x1  | | G,3/ x1  | ||]
+

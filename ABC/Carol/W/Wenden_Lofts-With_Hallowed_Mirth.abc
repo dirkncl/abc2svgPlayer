@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Wenden Lofts
+Z: Arthur H. Brown
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  A B c | ^G3 E ^F G | A3/ B/ c d e2 | d c B4 | B2z [K: A]  c B c | e4 c3/ c/ | d c B3 A | (G F) E2 e2 | d2 B4 | c4|]
+w: With hal- lowed mirth, Sing all ye faith- ful choirs on earth Al- le lu ia! The King of Kings From a maid- en's bo- som spring-_ ing, O won- der rare!
+[V: P2]  E E E | E3 E E E | E3/ E/ E G G2 | F E (D2 ^D2) | E2z [K: A]  E E A | G4 A3/ A/ | F E F3 F | E2 E2 A2 | A2 G4 | A4|]
+[V: P3]  C B, A, | B,3 B, D D | C3/ B,/ A, B, C2 | A, A, A,4 | ^G,2z [K: A]  C B, C | E4 C3/ C/ | D C B,2 B,2 | (B, A,) G,2 E2 | F2 E4 | E4|]
+[V: P4]  A, ^G, A, | E,3 ^G, B, B, | A,3/ ^G,/ A, =G, C,2 | D, E, F,4 | E,2z [K: A]  A, G, A, | E,4 F,3/ F,/ | B,, C, D,2 ^D,2 | E,2 E,2 C,2 | B,,2 E,4 | A,,4|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Waken, Christian Children
+Z: S. C. Hamerton
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G G F F | G2 G2 | A A A A | B4 | c c c c | B2 G2 | A A B A | G4|]
+w: Wa- ken, Christ- ian child- ren, Up and let us sing With glad voice, the prais- es Of our new- born King.
+

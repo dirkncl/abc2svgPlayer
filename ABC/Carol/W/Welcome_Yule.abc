@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Welcome Yule
+Z: Air from Deuteromelia, 1609
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  B G A B | (c3/4 B/4) (c3/4 d/4) c2 | (B3/4 c/4) d d (d/ c/) | (B3/4 A/4) (G3/4 A/4) ^F2 | A3/4 _B/4 c/ c/ d/ c/ c | =B3/4 c/4 d/ d/ e/ d/ d | (c3/ B/ A) B | (c3/4 B/4 c3/4 d/4 c2)|]
+w: Wel- come be thou, hea-_ ven_ king, Wel-_ come born in_ one_ morn-_ ing, Wel- come for whom we shall sing, Wel- come for whom we shall sing, Wel-__ come Yule.____
+
