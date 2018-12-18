@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Galilee
+Z: Unknown
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: C
+[V: P1]  [E/e/][E/G/] [Fd] [Fd] | [F/d/][F/G/] [Ec] [Ec] | [G/c/][^G/c/] [A3/c3/] A/ | [A/c/][A/d/] [^G2e2] | [G/e/][G/A/] [^Fd] [Fd] | [G/d/][F/G/] [Ec] [Ec] | [G/e/][G/e/] [Ff] [FA] | [F/e/][F/d/] [E2-c2-] | [Ec]z2|]
+[V: P2]  [C,/C/][C,/C/] [G,B,] [G,B,] | [G,/B,/][G,/D/] [C,C] [C,C] | [E,/C/][E,/C/] [F,3/C3/] [F,/C/] | [F,/A,/][F,/A,/] [E,2B,2] | [A,/^C/][A,/E/] [D,D] [D,=C] | [G,/B,/][G,/D/] [C,C] [C,C] | [^A,/C/][A,/C/] [=A,C] [A,C] | [G,/B,/][G,/B,/] [C,2-C2-] | [C,C]z2|]
+

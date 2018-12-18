@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Give Ye Merry Christmas Tide
+Z: Traditional
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  E/ | G G/!>! (A/!>! G/) A/ | B B/ c c/ | B G/ F E/ | (F3/ F) E/ | G G/ (A/G/) A/ | B B/ c c/ | B e/ (d/c/) d/ | (e3/ e) B/ | B B/ (F/G/) A/ | A A/ G G/ | F B/ d c/ | (B3/ B) A/ | G G/ (A/G/) A/ | B B/ c c/ | B G/ A F/ | (G3/ G) E/ | G G/ (A/G/) A/ | B _E/ c c/ | B e/ (d/c/) d/ | (e3/ e)|]
+w: God give ye mer-_ ry Christ- mas tide, Ye gen- tle peo- ple all!_ And in your mer-_ ry mak- ing may No e- vil chance_ be- fall:_ Re- joice! for once_ at Beth- le hem, While shep- herds knelt to pray,_ Our bless- ed Mas-_ ter Je- sus Christ, Was born on Christ- mas Day;_ Our bless- ed Mas-_ ter Je- sus Christ, Was born on Christ-_ mas Day._
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Bless You, All Good Christian Men
+Z: "Christmas Carol"
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  C | C (D/E/) (F/G/) (A/B/) | c G c e | d c B A | G2z G | D G E G | D G E G | A d c B | c2z G | A d c B | c2z|]
+w: God bless you,_ all_ good_ Christ- ian men, Let noth- ing you dis- may, For Je- sus Christ, our Sav- ior dear, Was born on Christ- mas day Was born on Christ- mas day.
+[V: P2]  C | C (B,/C/) (C/E/) F | E E E G | G A G ^F | G2z D | B, D | C C | B, D C C | F F E D | E2z E | F F E D | E2z|]
+[V: P3]  E, | E, G, (A,/C/) G, | G, C G, C | B, D D D | B,2z B, | G, G, G, G, | G, G, G, G, | F, A, G, G, | G,2z C | C A, G, G, | G,2z|]
+[V: P4]  C, | C, C, C, G, | C, C, C, C, | D, D, D, D, | G,2z G, | G,, B,, C, E, | G,, B,, C, E, | F, D, G, G,, | C,2z C, | F, F, G, G,, | C,2z|]
+

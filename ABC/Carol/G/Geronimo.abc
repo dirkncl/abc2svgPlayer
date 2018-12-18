@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Geronimo
+Z: Arranged from Charles Villiers Stanford
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff 1"
+%%MIDI program 1 0
+V: P2 name="Geronimo"
+%%MIDI program 2 91
+K: Eb
+[V: P1]  [GB] [Ee] [Fd] [Ge] | [FB] [EA] [EG] [FB] | [FB] [Ee] [Fd] [Ge] | [FB] [FA] [EG] [F-B-] | [F2B2] [EB] [Ec] | [DB] [EA] [EG] [CF] | [CE] [=B,D] [B,D] [CE] | [DF] [EG] [Gc] [GB] | [_G=A] [=G3B3] | [DF] [DG] [F=A] [FB] | [Ge] [Fd] [Fc] [Fd] | [Bf] [Be] [Ac] A/G/ | [FB] [G3-B3-] | [GB]z3|]
+[V: P2]  [E,B,] [G,B,] [F,A,] [E,B,] | [D,B,] [C,/C/]D,/ [E,/B,/]C/ [B,,D] | [B,/D/]A,/ [G,B,] [F,A,] [E,B,] | [D,B,] [F,C] [C,C] [B,,-D-] | [B,,2D2] [E,G,] [A,,A,] | [B,,F,] [C,A,] [E,B,] [F,A,] | [C,G,] [G,,G,] [G,,G,] [C,G,] | [B,,B,] [E,B,] [C,C] [D,D] | [D,D] [G,3D3] | B, [G,B,] [F,C] [D,B,] | [C,B,] [F,B,] [F,=A,] B, | [A,C] [G,E] [A,E] [F,/F/]E/ | [B,D] [E,3-C3-] | [E,C]z3|]
+

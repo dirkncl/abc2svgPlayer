@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Go Tell It On The Mountain
+Z: Traditional
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A2 A/ G/ F/ D/ | C2 F2 | G/ G G/ F G | A c (d c) | A2 A/ G/ F/ D/ | C2 F G | A A (G/ F/) G | F3 F |"^Verses" A c c d | c A2 F | G G F G | A3 F | A c c d | c A2 F | G G F D | (C2 B2) |"^Chorus" A2 A/ G/ F/ D/ | C2 F2 | G/ G G/ F G | A c (d c) | A2 A/ G/ F/ D/ | C2 F G | A A (G/ F/) G | F4|]
+w: Go tell it on the moun- tain o- ver the hills and ev- ry where._ Go tell it on the moun- tain that Je- sus Christ_ is born. While shep- herds kept their watch- ing o'er sil- lent flocks by night; Be- hold through- out the heav- ens there shone a Ho- ly Light._ Go tell it on the moun- tain o- ver the hills and ev- ry where._ Go tell it on the moun- tain that Je- sus Christ_ is born.
+

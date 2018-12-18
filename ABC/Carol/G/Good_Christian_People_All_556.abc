@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Good Christian People All
+Z: H. G. Trembath
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c/ | c d/ c B/ | (A3/ A) A/ | A B/ A G/ | F3/ A3/ | G ^F/ G/ B/ | B A/ B/ d/ | (d3/ c) B/ | (A3/ A)"^Refrain" c/ | c d/ c B/ | (A3/ A) A/ | A B/ A G/ | [M: 2/4]  F c | =B3/4 A/4 G/ F/ | (E/D/C/) c/ | B3/4 A/4 G/ F/ | E/ D/ C/ D/4 E/4 | F/4 G/4 A/4 B/4 c/ G/ | B3/ c/4 B/4 | A/ B/ G3/4 F/4 | F3/ F/ | Az/ A/ | c d | (c2 | c) A | B3/4 B/4 B/ B/ | A3/4 G/4 F/ F/ | d3/4 d/4 e/ d/ | c3/4 B/4 A/ A/ | B d | c3/ c/ | c2|]
+w: Good Christ- ian peo- ple all,_ A mer- ry Christ- mas day: Hark how the bells do call! A- rise, and come_ a- way!_ Come, see the won- drous thing_ The an- gels' lips re- veal! And let the joy bells ring.__ A wel- come to the new- born King, With a mer- ry, mer- ry Christ- mas peal, With a mer- ry Christ- mas peal. No- el! No- el! No- el!_ Let all u- pon the earth that dwell, Sing prai- ses to Em- man u el! No- el! No- el! No- el!
+

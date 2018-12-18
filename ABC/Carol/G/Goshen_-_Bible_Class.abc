@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Goshen
+Z: Bible Class Magazine, 1860
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff 1"
+%%MIDI program 1 19
+V: P2 name="Goshen (Bible Class)"
+%%MIDI program 2 19
+K: C
+[V: P1]  [E3/c3/] [E/c/] [GB] [FA] | [E2G2] [C2E2] | [CG] [Ge] [Ad] [Ec] | [G4d4] | [E3/c3/] [E/c/] [FB] [DA] | G2 [C2E2] | [CG] [EG] [Ge] F/d/ | [E4c4] | [Gd] [Gd] [Ad] [Ge] | [Ff] A [Gd] F | [Ee] [Gc] [GA] [^Fd] | G2 F2 | [E3/c3/] [E/c/] [GB] [FA] | [E2G2] [C2E2] | [CG] [EG] [Ge] F/d/ | [E4c4]|]
+[V: P2]  [C,3/C3/] [C,/C/] [F,C] [A,C] | C2 [C,2G,2] | [E,G,] [C,C] [F,A,] [A,C] | [G,4B,4] | [C,3/C3/] [C,/G,/] [D,G,] [F,B,] | [E,2C2] [C,2G,2] | [E,C] [C,C] [G,C] [G,B,] | [C,4C4] | [G,B,] [G,B,] [F,A,] [E,^C] | [D,D] C [G,2B,2] | [C,C] [E,C] [D,D] D,/C/ | [G,4B,4] | [C,3/C3/] [C,/C/] [F,C] [A,C] | C2 [C,2G,2] | [E,C] [C,C] [G,C] [G,,B,] | [C,4C4]|]
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Rest You, Merry Gentlemen
+Z: Version From Husk
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/2
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  E | E B B A | G F E D | E F G A | B2z E | E B B A | G F E D | E F G A | B2 (B3/ c/) | d c B (c/d/) | e c B A | F D (D/E/)(F/G/) | A2 (G3/ A/) | B2 B3/ c/ | (B A) G (F/G/) | E3 (F/G/) | A2 (A B) | (B e) ^d e | (B A) G (F/G/) | E3|]
+w: God rest you, mer- ry gen- tle men, Let no- thing you dis- may. Re- mem ber Christ our Sa- vi our, Was born on Christ- mas Day; To_ save us all from_ Sa- tan’s power, When we were gone_ a-_ stray. O_ ti- dings of com-_ fort and_ joy, and_ joy, O_ ti-_ dings of com-_ fort and_ joy.
+[V: P2]  B, | B, E G D | E Czz | B, D E C | F2z B, | B, E G D | E Czz | B, D E C | G2 D2 | G A E E | G F G F | Dzzz | E2 B,2 | D2 G2 | E2 E D | z4 | E2 D F | G B F A | G D B, ^D | B,3|]
+[V: P3]  G, | G, G, G, A, | E, C, G, F, | G, D, C C, | D,2z G, | G, B, G, A, | E, C, G, F, | G, D, C A, | D2 B,,2 | B, C G, A, | C A, E, C | A, A, B, D | C2 B,2 | B,2 G,2 | G, C C A, | G,2 B,2 | A,2 B, A, | B, G, B, C | D A, G, B,, | G,3|]
+[V: P4]  E, | E, G, D, F, | C, A,, E, B,, | E, B,, E, C, | B,,2z E, | E, G, D, F, | C, A,, E, B,, | E, B,, E, F, | G,2 G,,2 | G, F, E, A, | C A, E, A, | D, F, G, B, | A,2 E,2 | B,2 E,2 | E, A, G, D, | E,2 G,2 | A,2 G, F, | E, G, B, A, | G, F, E, B,, | E,3|]
+

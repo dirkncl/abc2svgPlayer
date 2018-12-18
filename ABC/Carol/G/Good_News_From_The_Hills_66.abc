@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Good News From The Hills of Judea
+Z: Madam Sainton-Dolby
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A3/4 | A F3/4 A/4 | B c3/4 B/4 | (A2 | F) A | B A3/4 B/4 | d c3/4 B/4 | (A2 | A) A | A F3/4 A/4 | B c3/4 B/4 | (A2 | d) d | c B3/4 A/4 | B ^G3/4 G/4 | (c2 | A) d/ c/ | [M: 4/4]  (B/A/) B/ A/ (G/F/) E/ D/ | C A3/4 A/4 F d/ c/ | (B/A/) B/ A/ (G/F/) E/ D/ | C A3/4 A/4 F D/ E/ | F F/ G/ A B/ c/ | d e/ e/ f d/ c/ | (B/A/) B/ A/ (G/F/) E/ D/ | C A3/4 A/4 F d/ c/ | (B/A/) B/ A/ (G/F/) E3/4 D/4 | C c3/4 c/4 dz|]
+w: "Good news from the hills of Ju- dea,_ Good news from the moun- tains of light;_ The King in His beau- ty is here,_ He came to His peo- ple last night!_ "He is come!_ He is come!_ Ring the bells! Ring the bells! He is come!_ He is come!_ Ring the bells! Ring the bells! Je- sus Christ has come down, Go, pre- pare Him a crown! He is come!_ He is come!_ Ring the bells! Ring the Bells! He is come!_ He is come!_ Ring the bells! Ring the Bells!
+

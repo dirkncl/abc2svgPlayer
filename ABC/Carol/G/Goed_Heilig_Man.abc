@@ -1,0 +1,17 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sinterklaas Goed Heilig Man
+Z: Dutch Traditional
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released Into The Public Domain
+L: 1/4
+M: 2/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: F
+[V: P1]  c/ c/ d/ d/ | c/ c/ A | c/ c/ d/ d/ | c/ c/ A | B/ B/ B/ G/ | B/ B/ B/ B/ | d/ c/ B/ A/ | G F | c/ c/4 c/4 c/ c/ | c A | B/ B/ B/ G/ | B B | d/ c/ B/ A/ | G F|]
+

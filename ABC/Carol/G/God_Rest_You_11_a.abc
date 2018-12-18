@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Rest You Merry, Gentlemen
+Z: First Setting From The English Carol Book
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  E | E B B A | G F E D | E F G A | B3 E | E B B A | (G F) E D | E F G A | B3 B | c A B c | d e B A | G E F G | A2 (G A) | B2 c B | (B A) G F | E2 G/ F/ E | A2 (G A) | (B c) d e | (B A) G F | (E4 | E3)|]
+w: God rest you mer- ry, gen- tle men, Let noth- ing you dis- may. For Je- sus Christ our Sa-_ vior, Was born up- on this day; To save us all from Sa- tan’s power, When we were gone a- stray. O_ tid- ings of com-_ fort and joy, com- fort and joy, O_ tid-_ ings of com-_ fort and joy._
+[V: P2]  E | E G F D | (D D) B, B, | B, B, E E | D3 E | E G F D | D2 B, B, | B, B, E E | D3 G | E F D G | F E D D | B, B, ^C C | D2 (B, D) | G2 G G | (G F) E D | B,2 E/ D/ C | D2 (E D) | G2 G E | (G F) E ^D | E2 ^C/ B,/ A, | B,3|]
+[V: P3]  E, | G, B, D A, | (B, A,) G, F, | G, B, G, E, | F,3 E, | G, B, D A, | (B, A,) G, F, | G, B, G, E, | G,3 D | C D B, G, | A, A, F, F, | G, B, A, G, | F,2 (B, A,) | D2 E D | D2 B, B, | G,2 E,/ F,/ G, | A,2 (B, A,) | (D C) B, G, | (D C) B, F, | ^G,2 A,/ G,/ F, | ^G,3|]
+[V: P4]  E, | E, E, D, F, | (G, D,) E, B,, | E, D, C, C, | B,,3 E, | E, E, D, F, | (G, D,) E, B,, | E, D, C, C, | G,,3 G, | A, F, G, E, | D, C, B,, D, | E, G, F, E, | D,2 (E, F,) | G,2 C, G, | (G, D,) E, B,, | E,2 C,/ D,/ E, | F,2 (E, F,) | G,2 G, C, | (G,, A,,) B,, B,, | (E,4 | E,3)|]
+

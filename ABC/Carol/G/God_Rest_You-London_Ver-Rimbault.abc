@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Rest You Merry, Gentlemen
+Z: Ancient Version, As Sung In London (Rimbault)
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Tuba"
+%%MIDI program 3 58
+K: G
+[V: P1]  E | E B B A | G F E D | E F G A | B3 E | E B B A | G F E D | E F G A | B3 (B/c/) | d c B (c/d/) | e c B A | F D (D/E/) (F/G/) | A2 (G3/ A/) | B2 B c | B A G F | E3 (F/G/) | A2 (G A) | B e ^d e | B2 B A | G G F F | E3|]
+w: God rest you mer- ry, gen- tle men, Let noth- ing you dis- may. For Je- sus Christ our Sa- vi our Was born up- on this day; To_ save us all from_ Sa- tan's power When we were gone_ a-_ stray. O_ ti- dings of com- fort and of joy, Of_ joy; For_ Je- sus Christ our Sa- viour Was born on Christ- mas day.
+[V: P2]  C | B, B, B, ^D | E ^D E B, | B, B, B, C | E ^C ^D =C | B, B, B, ^D | E ^D E B, | B, B, B, E | E ^C ^D =D | D2 Dz | G2 E2 | D D D2 | C2 E2 | E4 | E C E ^D | E2 B,2 | ^D2 E2 | E B A G | [B,2E2] [C2F2] | [B,E] [B,E] E ^D | E3|]
+[V: P3]  A, | G, [E,G,] [^D,F,] [B,,F,] | [E,,E,] [B,,F,] [E,G,] A, | G, ^D, E, [C,A,] | [B,,2F,2] B, A, | G, [E,G,] [^D,F,] [B,,F,] | [E,,E,] [B,,F,] [E,G,] A, | G, ^D, E, [C,A,] | [B,,2F,2] B, G, | F,2 G,z | [(C,2(G,2] [^C,)G,)] [^C,A,] | [D,A,] [D,F,] [B,,F,] [B,,D,] | [A,,2A,2] [E,B,] [E,/B,/] [E,/A,/] | [E,G,] E, [E,G,] [E,A,] | [E,G,] A,, [B,,B,] [B,,A,] | [E,2G,2] [E,2G,2] | [B,,F,] [B,,B,] [E,B,] [F,B,] | [G,B,] [G,B,] [F,B,] [E,B,] | G,,2 A,,2 | B,, B,, [B,,B,] [B,,A,] | E,3|]
+

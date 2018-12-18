@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gently Falls The Winter Snow
+Z: Herbert S. Irons
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  B B/ B c/ | A G/ F3/ | F F/ (F/G/) A/ | B =E/ F3/ | c F/ d d/ | d _B/ e3/ | (e/d/) c/ f B/ | d c/ B3/ | B B/ B d/ | f c/ A3/ | G G/ G B/ | d B/ A3/ | c c/ (=B/c/) d/ | e e/ e3/ | d f/ B e/ | d c/ B3/|]
+w: Gen- tly falls the win- ter snow, Earth lies si-_ lent ly be- low, While the ten- der Plant ap- pears, Prom-_ is'd long by ho- ly Seers. Hail the ev- er bless- ed morn, Hail the day that Christ was born; Tell it thro'_ Je- ru sa lem, Christ is born in Beth- le hem.
+

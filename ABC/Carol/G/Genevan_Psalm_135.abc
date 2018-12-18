@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Genevan Psalm 135
+Z: Louis Bourgeois, 1544
+Z: Public  domain
+Z: "Ministres de l'Eternel"
+L: 1/4
+M: 4/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Genevan Psalm CXVIII"
+%%MIDI program 2 91
+K: C
+[V: P1]  [G2c2] [FA] [EG] | [Gc] [Gc] [Ad] f/B/ | [c2e2] [Bd] [Bg] | [Ae] [^Ge] [Ac] [Af] | [G2e2] [G2d2] | [E4c4] | [G2c2] [FA] [EG] | [Ec] [Ac] [Ad] d/B/ | [c2e2] [Bd] [Bg] | [Af] [Ge] [Gd] [Ec] | [A2c2] [G2B2] | [G4c4] | [G2g2] [cg] [A/f/]B/ | [ce] [Bd] [Ac] [GB] | [GA] F [EG] G | [Gc] [Gc] [FB] A | [G2c2] [G2d2] | [G4e4] | [A2c2] [Gc] [Bd] | [ce] [Ac] [Ff] [Gf] | [Ge] A [Bd] [Bg] | [Af] [Ge] [Gd] [E/c/]F/ | [G2c2] [G2B2] | [E4c4]|]
+[V: P2]  [C,2E2] [F,C] [C,C] | [E,C] [C,E] [F,D] [D,D] | [G,E] F [G,G] [G,D] | [A,C] [E,B,] [F,A,] [E,D] | [E,D] C/F,/ G, B, | [C,4C4] | [C,2E2] [F,C] [C,C] | [A,C] [A,E] [F,D] [D,D] | [G,E] F [G,G] [G,D] | [A,C] C [G,B,] [A,C] | [F,2F2] [G,2D2] | [C,4E4] | [C2E2] E [DF] | [CF] [G,F] [A,E] [E,E] | [F,2C2] [C,C] [G,B,] | [E,C] [C,E] [D,D] [F,D] | [E,E] C G, B, | [C,4C4] | [F,2C2] [E,C] [D,F] | [C,E] [F,F] [A,C] [B,D] | C2 [G,D] [E,E] | [F,C] C [G,B,] [A,C] | [G,2D2] [G,2D2] | [C,4C4]|]
+

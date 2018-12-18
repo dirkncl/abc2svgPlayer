@@ -1,0 +1,25 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Rest You, Merry Gentlemen
+Z: English Traditional; Arrangement by L.H. Redner
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=120
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Tuba"
+%%MIDI program 3 58
+K: Eb
+[V: P1]  E/ | G G/ (A/G/) A/ | B B/ c c/ | B G/ F E/ | (F3/ F) E/ | G G/ (A/G/) A/ | B3/ c c/ | B e/ (d/c/) d/ | (e3/ e) B/ | B B/ (F/G/) A/ | A A/ G G/ | F B/ d c/ | (B3/ B) A/ | G G/ (A/G/) A/ | B3/ c c/ | B G/ A F/ | (G3/ G) E/ | G G/ (A/G/) A/ | B3/ c c/ | B e/ (d/c/) d/ | (e3/ e)|]
+w: God rest you mer-_ ry, gen- tle men, Let noth- ing you dis- may._ For Je- sus Christ_ our Sav- iour, Was born on Christ-_ mas Day;_ The dawn rose red_ o'er Beth- le hem The stars shone thro the grey,_ When Je- sus Christ_ our Sav- iour Was born on Christ- mas day._ When Je- sus Christ_ our Sav- ior Was born on Christ-_ mas day._
+[V: P2]  E/ | E E/ D D/ | E E/ E E/ | E E/ E E/ | (D3/ D) E/ | E E/ D D/ | (E _D/) E E/ | E G/ A A/ | (G3/ G) [E/G/] | [DF] [D/F/] (D/E/) F/ | F F/ E E/ | F D/ F E/ | (D3/ D) F/ | E E/ (F/E/) F/ | (G E/) E E/ | E E/ F D/ | (E3/ E) E/ | E E/ D D/ | (G _D/) [CE] E/ | E G/ A A/ | (G3/ G)|]
+[V: P3]  E,/ | E, E,/ F, F,/ | G, G,/ A, A,/ | G, E,/ C, C,/ | (B,,3/ B,,) E,/ | E, E,/ F, F,/ | G,3/ A, A,/ | G, E,/ B, B,,/ | (E,3/ E,) E,/ | B,, B,,/ B,, B,,/ | D, D,/ E, E,/ | D, B,,/ F, F,/ | (B,,3/ B,,) D,/ | E, E,/ B,, B,,/ | (E, G,/) A, A,/ | G, E,/ A,, B,,/ | (E,3/ E,) E,/ | E, E,/ F, F,/ | G,3/ A, A,/ | G, E,/ B, B,,/ | (E,3/ E,)|]
+

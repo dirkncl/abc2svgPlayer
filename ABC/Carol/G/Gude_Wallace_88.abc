@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gude Wallace
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  A/ | (E/ A/) A/ (B/ A/) G/ | (A/ E/) A/ B A/ | (A/ E/) A/ (G/ A/) B/ | (E/ A/) A/ A A/ | (E/ A/) A/ (B/ A/) G/ | (A/ E/) A/ B A/ | (A/ E/) A/ (G/ A/) B/ | (E/ A/) A/ A A/ | (c/ e/) c/ (d/ B/) G/ | (c/ e/) d/ B A/ | (c/ e/) c/ (c/ B/) G/ | (A/ E/) A/ A|]
+w: There Jo-_ seph on_ his sleep-_ ing lay, An An-_ gel thus_ to him_ gan say, “Rise up,_ Jo- seph,_ and busk_ and go With Ma-_ ry and_ her Child_ al- so. For you_ be- hov_ es now_ all three, In land_ of Eg-_ ypt for_ to flee.
+

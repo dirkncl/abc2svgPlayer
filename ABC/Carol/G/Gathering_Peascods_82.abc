@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gatherine Peascods
+Z: Old English Melody
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d2 d d | B3/ c/ d d | e d c B | A3 B | A G G F | G4 | d2 d d | B3/ c/ d d | e d c B | A3 B | A G G F | G3 G | F D F G | A2 B A | (G/ A/) B A G | F3 F | E D E3/ D/ | C3 d | B G G (A/ B/) | c2 c2 | B G (G/ A/) B | c3 d | B G G (A/ B/) | (c3/ d/ e) (d/ c/) | B (c/ B/) A3/ G/ | G4|]
+w: Saint Jo- seph, meek and mild, Em- braced the new- born Child, Then knelt u- pon the sod: The old man, well a- ware That De- i ty lay there, A- dored the Child as God. Full fain was he to own Yon- der Babe,_ the source a- lone Of health and wealth and light, As awe- struck he did_ bless The Sun of righ-_ teous ness. Sooth, 'twas a won- drous_ sight;__ Sooth,_ 'twas a_ won- drous sight.
+

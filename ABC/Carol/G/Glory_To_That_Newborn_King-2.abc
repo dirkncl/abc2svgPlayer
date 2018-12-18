@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glory To That Newborn King!
+Z: African-American Spiritual
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 -1
+V: P3 name="Staff-2"
+%%MIDI program 3 -1
+V: P4 name="Staff-3"
+%%MIDI program 4 -1
+K: C
+[V: P1]  c c A2 | c/ A/ c/ A/ c (A/ A/) | c/ d/ e/ d/ (c3/4 c/4) A | A2 c2 | (G E) G2 | A c c A | c/ d3/ c2|]
+[V: P2]  c c A2 | c/ A/ c/ A/ c (A/ A/) | c/ d/ e/ d/ (c3/4 c/4) A | F2 F2 | (E C) (D C) | C F F F | E/ F3/ E2|]
+w: O Ma- ry, what you goin' to name that_ pret- ty lit- tle ba-_ by? Glo- ry! glo-_ ry!_ Glo- ry to that new- born King!
+[V: P3]  c c A2 | c/ A/ c/ A/ c (A/ A/) | c/ d/ e/ d/ (c3/4 c/4) A | C2 A,2 | C2 (B, C) | C A, A, C | C/ B,3/ C2|]
+[V: P4]  c c A2 | c/ A/ c/ A/ c (A/ A/) | c/ d/ e/ d/ (c3/4 c/4) A | F,2 F,2 | (G, A,) (G, E,) | F, F, F, F, | G,/ G,,3/ C,2|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gaudete, 86.86.86.84
+Z: S. Smith
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Gaudete, 86.86.86.84"
+V: P2_2
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1] !f! (E | D [CF] [CE] A | G [z/B,] F/ [CE] [CG] | | G3) [(D(G] | [D^F] c [DB] [DG] | [D^F] c [DB] d | [Ed] c/B/ A [CA] |||!ff!"^Refrain" | | c2 B [FG] | | d2 c G | [FA] [GA] f3/[A/e/] | | | F [DG] [CE] A | G2 [F2B2] ||]
+% Extracting voice 2 from part P1
+[V: P1_2] !f! E | D x2  C/D/ | E3/ x3  | | G3 x1  | x1  F/E/ x2  | x1  F/E/ x1  G/F/ | x1  E A,/B,/ x1  |||!ff!"^Refrain" | | F3 x1  | | G3 G | x2  F G/ x0  | | | F x2  F/E/ | D E x2  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  C | B, [A,C] G, A,/B,/ | | | C B,/A,/ B,) B, | [A,C] [D,A,] [G,B,] B, | | [C,B,] A,/G,/ [D,^F,] [D,F,] ||| | | | | | [F,C] [E,^C] D3/[F,/=C/] | | | | B, C [G,2D2] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  (C | B, x1  G, F, | | | G,3 (B, | x3  B, | | x1  C, x2  ||| | | | | | x2  D, E,/ x0  | | | | G,2 x2  ||]
+

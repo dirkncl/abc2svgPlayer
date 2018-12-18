@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God's Dear Son Without Beginning
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  F d c3/ B/ | A F G =E | F3/ G/ A A | B B c2 | F d c3/ B/ | A F G =E | F3/ G/ A A | B B cz/ B/ | c c ez/ c/ | B B ez/ d/ | c B A3/ c/ | (c/B/) (A/G/) Az/ A/ | c c c3/ B/ | [M: 3/2]  A c B2 c2 | A G F c F =E | [M: 4/4]  F4|]
+w: God’s dear Son, with- out be- gin ning, Whom the wick- ed Jews did scorn; Th'on- ly wise, with- out all sin- ning, On this bless- ed day was born; To save us all from sin and thrall, Whilst we in Sa- tan’s chains_ were_ bound; And shed His blood to do us good With many a bleed- ing pur- ple wound.
+[V: P2]  F F E G | F C =D C | C3/ =E/ F F | F F F2 | F A G F | E C D C | C3/ E/ F (E/A/) | A G Az/ G/ | A A B E | E E E G | A G F E | F E Ez/ C/ | E E E E | [M: 3/2]  C3/ =D/ (E F) (G =E) | F =E F F F =E | [M: 4/4]  C4|]
+[V: P3]  A,3/ B,/ (C/D/) E | C C =B, C | A, (C/B,/) C C | (B,/A,/) (G,/F,/) G,2 | A,3/ B,/ C (F,/G,/) | A, A, =B, C | A,3/ B,/ D E | E E Ez/ E/ | (E/D/) (C/A,/) B, (C/A,/) | G, (G,/A,/) B, E | E E C E | (E/D/) B, Cz/ A,/ | A, A, A, G, | [M: 3/2]  A, A, (B, A,) (G, C) | C B, C C A, G, | [M: 4/4]  =A,4|]
+[V: P4]  F, D, A, E, | F, A, G, C, | F, (A,/G,/) F, E, | D, D, C,2 | F, F, E, D, | C, (F,/A,/) G, C, | F,3/ E,/ D, C, | E, E, A,z/ E,/ | A, A, G, A, | E, (E,/F,/) G, E, | A, E, F, C, | D, E, A,,z/ A,/ | A, (A,,/B,,/) (C,/D,/) E, | [M: 3/2]  F, F, (G, F,) (=E, C,) | F, G, A, (A,,/B,,/) C, C, | [M: 4/4]  F,4|]
+

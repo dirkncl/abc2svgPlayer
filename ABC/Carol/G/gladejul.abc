@@ -1,0 +1,25 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glad Jule
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Orgel"
+%%MIDI program 1 19
+V: P2 name="Orgel-2"
+%%MIDI program 2 19
+V: P3 name="Rørklokke"
+%%MIDI program 3 14
+V: P4 name="Klokkespill"
+%%MIDI program 4 9
+K: C
+[V: P1]  [c3/-e3/-g3/-] [c/8e/8g/8][f3/8a3/8] [e/8g/8]c3/4-c/8 | [G3c3e3] | [c3/e3/g3/] [f/a/] [ceg] | [G3c3e3] | [d2a2d'2] [d3/4-a3/4-d'3/4-][d/8a/8d'/8]d/8 | [g-b-] [g3/8b3/8]a/[d/8-f/8-b/8-] [dfb] | [c3/4-f3/4-c'3/4-][c/8f/8c'/8]e/8- e [cdc'] | [c3e3g3] | [f2a2] [cfa] |z/8 c'3/4-c'/8 c'/c'/8[g3/8b3/8] [fa] | [e3/g3/] [f/a/] [e3/4-g3/4-][e/8g/8]G/8- | G3 | [c2f2a2] [cfa] | c'- c'3/8c/8[g3/8b3/8][f/8-a/8-] [fa] | [e3/g3/] [f/a/] [eg] | G/8[c3/4-e3/4-][c/8e/8] [c2e2] | [g3/-b3/-d'3/-] [g/8b/8d'/8][g3/8b3/8d'3/8] [gbd'] | [bd'f'] [^g/8b/8]d'3/4-d'/8 b | [gc'] e g | [^f/8e'/8]c'3/4-c'/8 c'2 | [Gc'd']z/ g/ e | [d3/-g3/-] [d/8g/8]f3/8- f/8d3/4-d/8 | c A F- | Fz/ F/z3/4z/8 G/8 | [c3/e3/g3/] [A/f/a/] [Geg] |z/8 [c3/4-e3/4-][c/8e/8] [c2e2] | [B3/-d3/-g3/-] [B/8d/8g/8][B3/8a3/8]z/8 [B3/4-d3/4-g3/4-][B/8d/8g/8] | [G3/4d3/4e3/4]c/4- c G | [dad'] b3/8F/8d/z/8 [f3/8a3/8d'3/8]d/- | d/8[d/8g/8]b3/4- b/a/ [dgb] | [e2g2c'2]z/8 [e3/4-g3/4-c'3/4-][e/8g/8c'/8] |z/8 [c3/4-e3/4-][c/8e/8] [c2e2] |z/8 [c3/4-f3/4-a3/4-][c/8f/8a/8] [c3/4f3/4a3/4][c/8f/8a/8][c/8-f/8-a/8-] [cfa] | c'3/ [g/b/] [fa] | [e3/g3/] [f/a/] [eg] | [G3/c3/e3/] A/ G |z/8 [F3/4-f3/4-a3/4-][F/8f/8a/8] [Ffa] [Fcfa] | [A3/c'3/] [d/8g/8b/8]G3/8 a/8[F3/4-c3/4-f3/4-][F/8c/8f/8] | [e3/g3/] [F/f/a/] [eg] | [c3/4e3/4]G/4- G2 | [GBdd']z/ d'/8[G3/8B3/8d3/8] [B/8d'/8][G3/4-d3/4-][G/8d/8] | f'/8[^G3/4-f3/4-][G/8f/8] d'/8d3/4-d/8 [Bb] | [G3c3c'3] | e'/8[^F3/4-e3/4-][F/8e/8] [F2e2] | c'/8[c3/4-e3/4-][c/8e/8]z/ g/8c3/8 [Ge] | [FAg] f/8c3/4-c/8 [Bd] | c3- | c2z |z3 |z3|]
+[V: P2]  C3- | C3 | C3- | C3 | F,3 | G,3 | C3- | C3 | C/8F,3/4-F,/8 F,2 | F,/8A,3/4-A,/8 A,/A,/8G,3/8 F, | C3- | C3 | F,3 | A,3/ G,3/8F,/8- F,3/4F,/8C/8- | C3 | C3 | G,3 | ^G,3 | A,3 | D3 |z3 |z3 | C3 | E2 D3/4-D/8C/8- | C3 | [DE]z2 | [B,3D3] |z/8 C3/4-C/8 C C | F,3- | F,/8G,3/4-G,/8 G, F, | E,2z/8 D,3/4-D,/8 | D,/8C,3/4-C,/8 C, C,/8E,3/4-E,/8 | E,/8F,3/4-F,/8 F,3/4F,/8F,/8- F, | A,3/ G,/ F, | C3- | C3 | Cz2 |z3 | E2 E | C3 | G,3/- G,/8G,3/8z/8 G,3/4-G,/8 |z/8 ^G,3/4-G,/8 G,2 | A,3 |z/8 D3/4-D/8 D2 | E/8C3/4-C/8 C2 | G,3 | C,/8[F,3/4-C3/4-][F,/8C/8] [F,C] A, | [D,2^G,2] [E,=G,] | Cz2 |z3|]
+[V: P3] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z2z/8 G3/4-G/8 | C2 G | C3 | G3/- G/8A3/8z/8 G3/4-G/8 |z/8 D3/4-D/8z2 |z/8 G3/4-G/8 G/A/ G- | Gz2 |z/8 G3/4-G/8 G2 |z/8 C3/4-C/8 C2 |z/8 C3/4-C/8 Cz |z3 |z3 | C3 |z/8 G3/4-G/8 G/G/8A3/8z/8 G3/4-G/8 | G/8C3/4-C/8 C2 |z/8 C3/4-C/8 C2 |z/8 C3/4-C/8 C2 | G3/- G/8A3/8z/8 G3/4-G/8 | G/8G3/4-G/8 G2 |z3 |z/8 A3/4-A/8 A2 |z/8 A3/4-A/8 A2 |z/8 G3/4-G/8 G2 | Gz2 |z/4 C3/4- C2 | C2 E | c3- | c2z|]
+[V: P4] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | g3/- g/8a3/8z/8 g3/4-g/8 |z/8 e3/4-e/8 e2 |z/8 [g3/4-g'3/4-][g/8g'/8] [g/g'/][g/8g'/8][a3/8a'3/8]z/8 [g3/4-g'3/4-][g/8g'/8] |z/8 [e3/4-e'3/4-][e/8e'/8] [e2e'2] |z/8 d'3/4-d'/8 d' d' |z/8 b3/4-b/8 b/b/8a3/8- a/4b3/4- | b/4c'3/4- c'z/8 c'3/4-c'/8 | c'z2 | a'2 a' | c''3/ b'/ a' | g'3/ a'/ g' | e'3 | a'2 a' | c''3/- c''/8b'3/8z/8 a'3/4-a'/8 |z/8 g'3/4-g'/8 g'/g'/8a'3/8z/8 g'3/4-g'/8 |z/8 e'3/4-e'/8 e'2 |z/8 d''3/4-d''/8 d''/d''/8d''3/8z/8 d''3/4-d''/8 | f'' d'' b' | c''3 | e''3 |z/8 c''3/4-c''/8 c''/c''/8g'3/8z/8 e'3/4-e'/8 |z/8 g'3/4-g'/8 g'/8f'3/4d'/8- d' | d'3/8c'/-c'/8 c'2 |z3 |z3 |z3|]
+

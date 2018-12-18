@@ -1,0 +1,15 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glenfinlas
+Z: Kenneth Finlay, 1882-1974
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: F
+[V: P1]  C F G A | (G3/ F/) D2 | C F G A | c4 | c d c A | G F A F | D2 (C D) | F4|]
+

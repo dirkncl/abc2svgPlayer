@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gather Around The Christmas Tree
+Z: J. H. Hopkins
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d B/ A/ G B | A D G2 | d B/ A/ G B | A D G2 | B B B A/ B/ | c c c B/ c/ | d d d d | d ^c d B | d A A A | B3/ A/ G G | e E F G | A3/ A/ A B | c2 A B | c2 A (B/c/) | d G c B | A2 G|]
+w: Ga- ther a- round the Christ- mas Tree! Ga- ther a- round the Christ- mas Tree! Ev- er green have its bran- ches been, It is king of all the wood- land scene; For Christ the King is born to- day! His reign shall nev- er pass a- way. Ho- san na, Ho- san na, Ho-_ san na in the high- est!
+

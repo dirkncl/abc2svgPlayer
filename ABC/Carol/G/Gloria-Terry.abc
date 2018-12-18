@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gloria
+Z: Adaptation by Richard R. Terry
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  B B B (B/d/) | d3/ c/ B G | B (B/A/) B (B/d/) | d3/ c/ B2 | B B B (B/d/) | d3/ c/ B G | B (B/A/) B (B/d/) | d3/ c/ B2 | (d2 e/d/c/B/ | c2 d/c/B/A/ | B2 c/B/A/G/ | A3/) A/ D2 | G A B c | B2 A2 | (d2 e/d/c/B/ | c2 d/c/B/A/ | B2 c/B/A/G/ | A3/) A/ D2 | G A B c | (B2 A2) | G4|]
+w: An- gels, we have_ heard your voi- ces, Sweet- ly_ sing- ing_ o'er the plains; Mount, and crag and_ hill re- ply ing, Ech- o_ still your_ joy- ous strains: Glo-_______________ ri a in ex- cel sis De- o! Glo-_______________ ri a in ex- cel sis De-_ o!
+[V: P2]  G G G G | A F G G | G (G/F/) G G | G F G2 | G G F3/ G/ | G F (G/F/) E | G (E/F/) G G | G3/ G/ G2 | G/A/B/A/ (G2 | G/)B/A/G/ F2 | G3 (E | E/)D/ ^C D2 | D D D D | (D G) F2 | G3/ =F/ (E2 | E2) D2 | D2 C/D/E/D/ | D ^C D2 | D D D C | (D G G F) | G4|]
+[V: P3]  D D D D | E D (G,/A,/) (B,/C/) | D D D (D/B,/) | A, D D2 | E E D D | E C D C | D (D/C/) (B,/D/) (G/F/) | E3/ G/ D2 | B,/C/ D B, (E | E2) (D2 | D/)C/B,/A,/ G, B, | A, G, F,2 | G, F, G, G, | (G, B,) D2 | D (B, B,) ^G, | (A,2 A,) F, | (G,2 G,2) | F, E, F,2 | G, F, G, G, | (G,3/ B,/ D3/ C/) | B,4|]
+[V: P4]  G,3/ D,/ G, B, | A, D, G, G, | G, D, B,, G,, | D, D, G,2 | E, (E,/G,/) B, B, | A, A, B, C | G, D G,3/ B,,/ | C, E, G,2 | G,3/ F,/ E,2 | A,2 E,/A,/D/C/ | B,/A,/G,/F,/ E,2 | F, E, D, =C, | B,, D, G, C, | D,2 (D C) | B, G, ^G, E, | (A, =G,) F, D, | (G, F,) E,/D,/C,/B,,/ | A,, A,, (D, ^C,) | B,, D, G, E, | D,4 | G,,4|]
+

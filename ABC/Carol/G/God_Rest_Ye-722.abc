@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Rest Ye Merry, Gentlemen
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  E | E B B A | G F E D | E F G A | B3 E | E B B A | G F E D | E F G A | B2z B | c A B c | d e B A | G E F G | A2"^Chorus" (G A) | B2 c B | (B A) G F | E2 G/ F/ E | A2 (G A) | (B c) d e | (B A) G F | E3|]
+w: God rest you mer- ry, gen- tle men, Let noth- ing you dis- may. For Je- sus Christ our Sa- vi our, Was born on Christ- mas Day; To save us all from Sa- tan's power When we were gone a- stray, O_ tid- ings of com-_ fort and joy, com- fort and joy, O_ tid-_ ings of com-_ fort and joy.
+[V: P2]  E | E G F ^D | E =D C B, | E ^D E E | ^D3 E | E G F ^D | E =D C B, | E ^D E E | ^D2z E | E D D G | (=F E) D ^D | E ^C D G | F2 (G D) | D2 E D | (G F) E ^D | E2 B,/ B,/ ^C | D2 (E F) | G2 G G | (G F) E ^D | E3|]
+[V: P3]  E, | G, E, F, B, | B, B, G, G, | G, B, B, E, | F,3 E, | G, E, F, B, | B, B, G, G, | G, B, B, E, | F,2z ^G, | A, A, G, G, | G, G, G, F, | G, G, A, D | (D C) (B, A,) | G,2 G, G, | (D C) B, B, | G,2 G,/ G,/ G, | (F, A,) (D C) | (B, G,) D C | (D C) B, B, | G,3|]
+[V: P4]  E, | E, E, ^D, B,, | E, B,, C, G,, | C, B,, E, C, | B,,3 E, | E, E, ^D, B,, | E, B,, C, G,, | C, B,, E, C, | B,,2z E, | A, F, G, E, | B,, C, G,, B,, | E, E, D, B,, | D,2 (E, F,) | G,2 C, G, | (G,, A,,) B,, B,, | E,2 E,/ E,/ E, | (D, C,) (B,, A,,) | (G,, E,) B,, C, | (G,, A,,) B,, B,, | E,3|]
+

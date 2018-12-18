@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gott Sei Dank, 77.77
+Z: Johann A. Freylinghausen (Halle, Germany: 1704)
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Gott Sei Dank, 77.77"
+V: P2_2
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  (C/D/) (E/F/) [DG] [CG] | | (B/c/) [Dd] (G/A/) [DB] | [EA] A [B,2G2] | [CG] (c/B/) A [EG] | | | [CD] [B,D] C2|]
+% Extracting voice 2 from part P1
+[V: P1_2]  C x2  | | D x1  E x1  | x1  D/C/ x2  | x1  C (C/D/) x1  | | | x2  C2|]
+% Extracting voice 1 from part P2
+[V: P2_1]  [C,E,] [A,,A,] (G,/F,/) [C,E,] | | G, [^F,A,] [E,B,] [B,,G,] | | [C,E,] [E,G,] (A,/B,/) [C,C] | [D,A,] G, G,2 | | [F,,A,] (G,/F,/) [C,2E,2]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  x2  B,, x1  | | G, x3  | | x2  F, x1  | x1  (E,/F,/) G,2 | | x1  G,, x2 |]
+

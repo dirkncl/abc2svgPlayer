@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Greensleeves
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  E/ | G A/ (B3/4c/4)B/ | A F/ (D3/4E/4)F/ | G E/ (E3/4^D/4) E/ | F3/ B, E/ | G A/ (B3/4c/4)B/ | A F/ (D3/4E/4)F/ | (G3/4F/4)E/ (^D3/4^C/4)D/ | E3/ E3/ | d3/ (d3/4c/4)B/ | A F/ (D3/4E/4)F/ | G E/ (E3/4^D/4)E/ | F ^D/ B,3/ | d3/ (d3/4c/4)B/ | A F/ (D3/4E/4)F/ | (G3/4F/4)E/ (^D3/4^C/4)D/ | E3/ E3/|]
+[V: P2]  B,/ | E D/ D G/ | F D/ (D3/4E/4)C/ | B, B,/ A, E/ | ^D3/ B, B,/ | E D/ D G/ | F D/ (D3/4E/4)C/ | B, C/ B, B,/ | B,3/ B,3/ | F3/ (B3/4A/4)G/ | F D/ (D3/4E/4)C/ | B, B,/ A, E/ | ^D B,/ B,3/ | F3/ (B3/4A/4)G/ | F D/ (D3/4E/4)C/ | B, C/ B, B,/ | B,3/ B,3/|]
+[V: P3]  G,/ | B, A,/ G, B,/ | D A,/ F, A,/ | G, G,/ E, E,/ | B,3/ B, G,/ | B, A,/ G, B,/ | D A,/ F, A,/ | G, A,/ F, F,/ | G,3/ G,3/ | B,3/ D D/ | D A,/ F, A,/ | G, G,/ A, E,/ | B, F,/ B,3/ | B,3/ D D/ | D A,/ F, A,/ | G, A,/ F, F,/ | G,3/ G,3/|]
+[V: P4]  E,/ | E, F,/ G, G,/ | D, D,/ D, ^D,/ | E, E,/ C, C,/ | B,,3/ B, E,/ | E, F,/ G, G,/ | D, D,/ D, ^D,/ | E, A,,/ B,, B,,/ | E,3/ E,3/ | B,3/ G, G,/ | D, D,/ D, ^D,/ | E, E,/ C, C,/ | B,, B,,/ B,,3/ | B,3/ G, G,/ | D, D,/ D, ^D,/ | E, A,,/ B,, B,,/ | E,3/ E,3/|]
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Rest You Merry, Gentlemen
+Z: Variant Popular In Cornwall, Dunstan
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  G | G d d c | B A G ^F | G A B c | d3 G | G d d c | (B A) G ^F | G A B c | d3 d | f d B B | c c d d | d G G (F/D/) | F2 d c | B2 A G | (B A) G ^F | G3|]
+w: God rest you, mer- ry gen- tle men, Let noth- ing you dis- may. For Je- sus Christ our Sav-_ ior Was born up- on this day; To save us all from Sa- tan's power When we were gone a-_ stray. And its ti- dings of com-_ fort and joy.
+[V: P2]  G | G G G ^F | G E D C | B, G G G | ^F3 G | G G G ^F | (G E) D C | B, G G G | ^F3 =F | d d F G | A F F D | D E E (D/B,/) | D2 ^F A | G2 ^F G | E2 D (D/C/) | B,3|]
+[V: P3]  G, | G, D D D | D C B, A, | G, G, G, A, | A,3 G, | G, D D D | (D C) B, A, | G, G, G, A, | A,3 B, | D F D D | F A, B, C | B, B, B, B, | B,2 A, ^F, | (G, D) C B, | (G, A,) B, (A,/D/) | D3|]
+[V: P4]  G, | G, B, B, A, | G, C, D, D, | E, E, E, E, | D,3 G, | G, B, B, A, | (G, C,) D, D, | E, E, E, E, | D,3 B,, | B,, B,, B,, G, | F, F, B,, ^F, | G, E, E, B,, | B,,2 D, D, | G,2 D, E, | C,2 D, E, | G,,3|]
+

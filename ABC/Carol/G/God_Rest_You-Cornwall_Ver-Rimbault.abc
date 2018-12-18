@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Rest You, Merry Gentlemen
+Z: Ancient Version, As Sung In Cornwall (Rimbault)
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=100
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  d | d/ B/ A/ G/ | F E | D2 | B A/ d/ | c c | d2 | d A/ G/ | F/ E/ F/ G/ | A2 | d E/ G/ | (F/G/) A | D2 | (D/E/) (F/G/) | A2 | (d/c/) [GB] | A3/ F/ | G/ A/ B/ c/ | d2 | d A/ G/ | F/ E/ (F/G/) | A2 | d E/ G/ | (F/G/) A | D2|]
+w: God rest you mer- ry, gen- tle men, Let noth- ing you dis- may. For Je- sus Christ our Sa- vi our Was born on Christ-_ mas day; O_ ti-_ dings, O_ ti-_ dings of com- fort and of joy, For Je- sus Christ our Sav-_ ior Was born on Christ-_ mas day.
+[V: P2] z | G E | D C |z2 | D D | G (A/G/) | F2 | G E | D D | C2 | D D | D C |z2 | D D | [C2E2] | [DA] (D/ E/) | F3/z/ | D G | [F2A2] | [DG] E | D D | [C2E2] | [DA] [B,D] | [A,D] C | D2|]
+[V: P3] z |z2 |z (A,/G,/) | F,2 | G,, F,, | E,, A,, | D,,2 | B,, C, | D, B,, | A,, G,, | F,, G,, | A,, (A,/G,/) | F,2 |z2 | A,, G,, | F,, G,, | D,, D, | B,, G,, | D,,2 | B,, C, |z B,, | A,, G,, | F,, G,, |z (A,/G,/) | F,2|]
+[V: P4] z | B,, C, | D, A,, | D, D,, |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z A,, | D,2 | D, B,, |z2 |z2 |z2 |z2 |z2 |z2 | D,z |z2 |z2 | A,, A,, | D,2|]
+

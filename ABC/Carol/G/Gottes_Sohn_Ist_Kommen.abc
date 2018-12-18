@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gottes Sohn Ist Kommen
+Z: Michael Weisse, 1544
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  F F A B | c2 c2 | d e f c | (A =B) c2 | B G A B | (A G) F2 | E F G A | (G F E D) | C4 | F F A F | (c d) c2 | F G A B | (A2 G2) | F4|]
+w: Once He came in bless- ing, All our ills re- dress_ ing; Came in like- ness low-_ ly, Son of God most ho-___ ly; Bore the cross to save_ us, Hope and free- dom gave_ us.
+[V: P2]  C D F F | E2 E2 | G G F G | F2 E2 | F G F F | (F E) C2 | C C E F | (E C C =B,) | C4 | C D F D | (E G) E2 | C E F F | (F2 E2) | C4|]
+[V: P3]  A, B, C D | G,2 C2 | =B, C A, C | (C D) G,2 | D C C D | (C B,) A,2 | G, A, C C | (C A, G, G,) | E,4 | A, B, C =B, | (C =B,) C2 | A, C C D | (C2 B,2) | A,4|]
+[V: P4]  F, B,, F, D, | C,2 C,2 | G, C, D, E, | (F, D,) C,2 | D, E, F, B,, | C,2 F,2 | C, A,, G,, F,, | (C, F,, G,, G,,) | C,4 | F, B,, F, D, | (C, G,) C,2 | A, G, F, B,, | C,4 | F,4|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Good Tidings, Good Tidings
+Z: George Edgar Oliver
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E | F2 c E | F2 c f | (e/c/) (A/E/) c B | A3 A | G3/ A/ B f | f3/ e/ c A | B B d d | c3 c | c3/ B/ A e | e3/ d/ d d | d3/ c/ F c | B3 A | A3/ G/ A F | E e c A | B (F/d/) c3/ B/ | A3|]
+w: Good tid- ings, good tid- ings, Ring out,_ O_ Christ- mas bells; From lof- ty spires the joy- ful sound, Thro' hill and wood- land swells. Go twine with i- vy leaf and bay, Then hol- ly's cor- al gem, And wel- come, Christ- ian hearts, to- day, The Babe of_ Beth- le hem.
+

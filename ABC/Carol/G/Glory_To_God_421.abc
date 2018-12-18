@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glory To God In The Highest
+Z: Mendelssohn
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=240
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  d2 c B | A2 A G | F2 G E | A2 F2 | f2 e d | d2 d A | (B c) d d | (d2 c2) | d2 c B | A2 A G | F2 G E | A2 F2 | (B e) c c | d2 B d | F F E2 | D4|]
+w: Glo- ry to God, in the high- est is ring- ing, Clear from a- far it is ec-_ ho ing still,_ Glo- ry to God, for the An- gels are sing- ing, Peace_ up- on earth for the men of good will.
+

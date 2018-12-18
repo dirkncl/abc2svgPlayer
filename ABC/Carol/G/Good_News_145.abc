@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Good News, Good News From Over Sea
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=440
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F2 | B3 F B3 F | B2 c2 d3 F | G2 B2 e3 d | c2 B2 A2z G | c3 G c3 G | _A2 c2 G2 F2 | E2 F2 G2 _A2 | B2 (_A G) F2 F2 | F2 F2 F2 (B G) | F2 F2 F2z F | B2 F"^Organ" F (d3/ c/ B) F | d2 B"^Organ" F f3/ e/ d d | f2 d2 B2 e2 | d2 c2 | B6|]
+w: Good news, good news from o- ver sea, From Je- sus out of Gal- i lee, How He, Who e- ver reigns a- bove, A- bid ing in the Fa- ther's_ love, The mar- riage feast with_ joy hath blest, God's glo- ry,  __ God's glo- ry,     God's glo- ry here made man- i fest.
+

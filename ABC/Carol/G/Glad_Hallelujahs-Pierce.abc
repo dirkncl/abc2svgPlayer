@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glad Hallelujahs
+Z: Pemberton Pierce
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A A A3/ A/ | (A3/4G/4) (A3/4B/4) d. c | f c c3/ A/ | A G G2 | A A A3/ A/ | (A3/4G/4) (A3/4B/4) d. c | =B B c3/ c/ | e d c2 | e3/ e/ f e | d A c B | G d c f | A G F2|]
+w: Hark! glad hal- le lu_ jahs_ swel- ling, How the heav'n- ly arch- es ring; An- gels are to mor-_ tals_ tel- ling Of the birth of Christ our King. Glo- ry in the high- est, glo- ry Be un- to our God, they sing.
+[V: P2]  F F F3/ F/ | (F3/4E/4) (F3/4G/4) B. A | A F F3/ F/ | F F E2 | F F F3/ F/ | (F3/4E/4) (F3/4G/4) B. A | G G G3/ E/ | G F E2 | G3/ G/ F F | F _E D D | D F F F | F E F2|]
+[V: P3]  C C C3/ C/ | C C F. F | C A, A,3/ C/ | =B, B, C2 | C C C3/ C/ | C C F. F | D D C3/ C/ | C =B, C2 | C C C C | B, C B, B, | B, _A, =A, (A,/B,/) | C B, A,2|]
+[V: P4]  F, F, F,3/ F,/ | F, F, F,. F, | F, F, F,3/ F,/ | G, G, C,2 | F, F, F,3/ F,/ | F, F, F,. F, | G, F, E,3/ C,/ | G, G, C,2 | C _B, A, A, | B, ^F, G, G, | B,, =B,, C, D, | C, C, F,2|]
+

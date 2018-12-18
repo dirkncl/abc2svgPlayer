@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God's Dear Son Without Beginning
+Z: English Traditional From Richard R. Chope
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=105
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  F d c3/ B/ | A F G =E | F3/ G/ A A | B B c3/ F/ | F d c3/ B/ | A F G =E | F3/ G/ A A | B B cz/ B/ | c c e3/ c/ | B B e3/ d/ | c3/ B/ A c | (c/B/) (A/G/) Az/ A/ | c c c3/ B/ | A c B2 | c2 A G/ G/ | F c F =E | F3z|]
+w: God’s dear Son, with- out be- gin ning, Whom the wick- ed Jews did scorn; The on- ly wise, with- out all sin- ning, On this bless- ed day was born; To save us all from sin and thrall, When we in Sa- tan’s chains_ were_ bound; And shed His blood to do us good With ma- ny a pur- ple bleed- ing wound.
+[V: P2]  F F F =E | F C D C | C (=D/=E/) F3/ F/ | (F/=E/) (F/G/) E3/ C/ | F F F =E | F C _D C | C3/ D/ E (F/A/) | (F/ A) G/ Az/ G/ | E A G3/ E/ | F3/ F/ F3/ G/ | (A/E/) (F/G/) A3/ G/ | F E Ez/ E/ | E =E F G | C _E E2 | =E2 (C/=D/) (=E/C/) | F F (F/D/) C | C3z|]
+[V: P3]  A, B, G, G, | A,3/ A,/ G, G, | C3/ B,/ A, C | F, F, G,3/ A,/ | F, (B,/A,/) G,3/ G,/ | A,3/ A,/ G, G, | A,3/ B,/ C (A,/E/) | =D E Ez/ E/ | C A, B,3/ C/ | D (E/D/) C B, | E3/ D/ (C/D/) E | (A,/B,/) (C/D/) Cz/ C/ | C3/ B,/ A, G, | A,3/ A,/ G,2 | G,2 (A,/B,/) (C/B,/) | A,3/ F,/ (D/B,/G,/) (A,/4B,/4) | A,3z|]
+[V: P4]  F, B,, C, C, | F, A,, B,, C, | A,3/ G,/ F, E, | D,3/ D,/ C,3/ F,/ | F, B,, C, C, | F, A,, B,, C, | F, (E,/D,/) C, (D,/C,/) | B,, E, A,,z/ E,/ | A, F, E,3/ A,/ | D, (C,/B,,/) =A,, B,, | C, (D,/E,/) F, C, | D, E, A,,z/ A,/ | A, G, F, =E, | F, C, E,2 | C,2 F, (C,/C,/) | D, A,, B,, C, | F,,3z|]
+

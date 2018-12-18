@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glory To God In The Highest
+Z: Rev. R. F. Smith
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=240
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  d2 d d | (d A) A G | (F A) A ^G | (A B) (A G) | (F3/ G/) A d | (c B/A/) d c | B2 A ^G | A4 | d2 d d | (d A) d G | (F A) A ^G | c2 (d/c/d/e/) | f2 e d | (c B) A G | F E (A2 | A4) | D D C B, | A, G, F, E, | D, D C B, | A, G, F, E, | D,4|]
+w: Glo- ry to God,_ in the high-_ est is ring-_ ing,_ Clear_ from a- far__ it is ec- ho ing still, Glo- ry to God,_ for the An-_ gels are sing- ing,___ Peace up- on earth_ for the men of good_ will. Now- ell, Now- ell, Now- ell, Now- ell. Now- ell, Now- ell, Now- ell, Now- ell.
+

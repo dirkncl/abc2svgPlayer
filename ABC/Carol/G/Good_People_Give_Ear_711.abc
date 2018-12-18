@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Good People, Give Ear
+Z: John Swire
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=96
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A | D E/ A,/ D E/ F/ | G A/ B/ d (c/B/) | A G/ F/ E F | (D3/ C/) D (c/B/) | A A/ B/ c A/ G/ | F F/ G/ A (F/E/) | D D/ E/ (F/G/) A/ B/ | G3 c | f c/ B/ A (B/c/) | d B/ A/ G (A/ B/) | c A/ G/ F G/ A/ | F3|]
+w: Good peo- ple, give ear, As we sing loud and clear Our_ song of a Christ- mas morn-_ ing. In_ Jew- ry of old, As the pro- phets fore- told, A_ glo- ry came down_ to the earth: And an- gels on high Sang_ loud from the sky, So_ we may have glad- ness and mirth.
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Girolamo, Girolamo
+Z: Italian Traditional
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: G
+[V: P1]  A | B3/ A/ G A | B3/ A/ G A | B c d e | A3 B | c2 d2 | A3 B | c2 d2 | A3 A | d c c B | B3/ A/ G A | B c A B | G3|]
+w: Ah! Ga- bri el, Ah! Ga- bri el, Thou tru- ly did'st fore- show In weal or woe, For friend or foe, How God with us, Em- man u al Should stoop from high to low.
+[V: P2]  F | G3/ G/ D F | G3/ G/ D D | G G G G | (G2 F) G | (E F) (F G) | (A G F) G | (E F) (F G) | (A G F) A | G A F G | E F G D | G G G F | G3|]
+[V: P3]  D | D3/ C/ B, D | D3/ D/ B, D | D C B, G, | D3 D | C2 B,2 | D3 D | C2 B,2 | D3 D | D E C D | C C B, D | D E D D | B,3|]
+[V: P4]  D, | G,3/ G,/ G, D, | G,3/ G,/ G, F, | G, E, B,, C, | D,3 G, | A,2 (B, G,) | (F, E, D,) G, | A,2 (B, G,) | (F, E, D,) D | B, A, A, G, | C, D, E, F, | G, C, D, D, | G,3|]
+

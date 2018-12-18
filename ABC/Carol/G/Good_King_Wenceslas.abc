@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Tempus Adest Floridum
+Z: 14th Century spring carol
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=180
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="Tempus Adest Floridum"
+V: P2_2
+%%MIDI program 2 -1
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | [DG] [DG] D2 | | G2 [B,2)G2)] | | [DG] [DG] D2 | [CE] D E [CF] | G2 [D2)G2)] | | | | [B,2G2] G2 | [(A,(D] D E [CF] | | | ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | x2  A, B, | | D C x2  | | x2  A, B, | x1  D x1  | B, C x2  | | | | x2  C B,) | x1  D x1  | | | ||]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | B, A, [G,,2)G,2)] | | | | G, A, [G,2)B,2)] | | [^D,B,] [B,,F,] G,2 | | | | | | G,4 ||]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | G,,2 x2  | | | | G,,2 x2  | | x2  E, =D, | | | | | | E, D, C, E, ||]|] Z 
+

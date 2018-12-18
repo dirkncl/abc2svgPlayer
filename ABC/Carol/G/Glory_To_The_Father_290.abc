@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glory To The Father
+Z: Alfred Hollins
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  E F A A | B3/ c/ c2 | c G ^A c | ^d3/ c/ c2 | c3/ c/ d c | B c A2 | e d c A | (A2 G2) | A4 | A4 | A4|]
+w: Glo- ry to the Fa- ther be, Glo- ry un- to Christ the Son, And the spir- it, Three in One, A- men, Al- le lu_ ia, A- men.
+

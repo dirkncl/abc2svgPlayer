@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glad Angel Voices
+Z: F. R. Rickman
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=155
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G/ | (c/B/) A/ G G/ | E F/ (G/B/) A/ | A3/ G F/ | (E/F/) G/ A A/ | (A/^G/) A/ (c/B/) A/ | (G3/ G) G/ | (c/B/) A/ G E/ | (E/^F/) G/ (A/G/) F/ | A3/ G G/ | G G/ (B/A/) G/ | B3/ d c/ | A3/ B3/ | (A3/ G3/) | c3/ (c/B/) A/ | G3/ E3/ | (F/^E/ F/) B A/ | G3 | e3/ (d/c/) B/ | d3/ c c/ | A A/ (c/B/) A/ | (A3/ G3/) | c3/ (c/B/) A/ | G3/ E3/ | (E/^D/) E/ A G/ | (F3/ F) F/ | (D E/ F) G/ | (A ^G/) A c/ | c G/ (A/G/) F/ | (E3/ E) | E/ | (c B/ c) c/ | e3/ (c/B/) A/ | G c/ e d/ | c c/ c|]
+w: On dew-_ y plain where shep- herds were_ a- bid ing, Be- side_ their flocks, with ten-_ der, watch-_ ful eye._ A- woke_ the song, the still_ night air_ di- vid ing, The song of an-_ gels rang through the star- lit sky._ Glad an-_ gel voi- ces from__ thy do- main, Strike thy_ full cho- rus, re- peat thy sweet_ re- frain;_ Fair spir-_ its, hov- er near_ each hap- py throng_ This day__ as- sem_ bled to sing thy Christ-_ mas song,_ This day__ as- sem bled_ to sing, to sing thy Christ- mas song.
+

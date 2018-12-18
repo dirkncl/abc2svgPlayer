@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glad Christmas Comes Again
+Z: H. H. Sutcliffe
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c/ | A A/ ^G G/ | (A/^G/) A/ c c/ | d d/ d d/ | c c/ c c/ | A A/ ^G G/ | (A/^G/) A/ c c/ | e e/ e d/ | c c/ c c/ | d d/ (B/c/) d/ | c c/ A c/ | B B/ (G/A/) B/ | A A/ c C/ | D E/ F G/ | A B/ c d/ | c A/ G G/ | (F3/ F)"^Refrain" c/ | c c/ c c/ | c c/ c d/ | c A/ G G/ | (F3/ F)|]
+w: The mer- ry bells for us_ they ring, for us they ring, for us they ring, A mes- sage of great joy_ they bring, great joy they bring, great joy they bring; They tell of Christ_ the lit- tle Child, Of peace, good- will_ and mer- cy mild; They ring o'er earth a sweet re- frain, Glad Christ- mas comes a- gain._ They ring, they ring a sweet re- frain, Glad Christ- mas comes a- gain._
+

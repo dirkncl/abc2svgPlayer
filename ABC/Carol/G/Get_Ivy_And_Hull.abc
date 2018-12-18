@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Get Ivy And Hull
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Soprano"
+%%MIDI program 1 68
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  D/ | D/ G/ G/ G3/4 F/4 G/ | B/ A/ A/ A c/ | B3/4 A/4 G/ B/4 d3/4 D/ | D3/4 E/4 F/ G D/ | D/ G/ G/ G3/4 F/4 G/ | B/ A/ A/ A c/ | B3/4 A/4 G/ B/4 d3/4 D/ | D3/4 E/4 F/ G"^Refrain" d/ | d3/4 B/4 G/ G/ B/ d/ | d3/4 c/4 B/ c e/ | d3/4 B/4 G/ G/4 B3/4 d/ | d3/4 c/4 B/ A (A/4B/4) | c3/4 d/4 c/ c3/4 d/4 c/ | D3/4 E/4 D/ c (d/4c/4) | B3/4 A/4 G/ B/4 d3/4 D/ | D3/4 E/4 F/ G|]
+w: Get i- vy and hull, wo- man, deck up thine house, And take this same brawn for to seethe and to souse; Pro- vide us good cheer, for thou knowest the old guise, Old cus- toms that good be, let no man de- spise. At Christ- mas be mer- ry and thank God of all, And feast thy poor neigh- bours, the great and the small. Yea,_ all the year long have an eye to the poor, And_ God shall send luck to keep o- pen thy door.
+[V: P2]  D/ | D/ D/ D/ D3/4 D/4 D/ | G/ F/ F/ F F/ | G3/4 F/4 G/ G/4 G3/4 D/ | D3/4 D/4 D/ D D/ | D/ D/ D/ D3/4 D/4 D/ | G/ F/ F/ F F/ | G3/4 F/4 G/ G/4 G3/4 D/ | D3/4 D/4 D/ D D/ | D3/4 D/4 E/ D/ D/ G/ | A3/4 A/4 G/ G G/ | G3/4 G/4 G/ G/4 G3/4 G/ | D3/4 D/4 D/ F F/ | E3/4 E/4 E/ E3/4 E/4 E/ | C3/4 C/4 C/ D D/ | D3/4 D/4 E/ G/4 G3/4 D/ | D3/4 D/4 D/ D|]
+[V: P3]  D,/ | B,/ B,/ B,/ B,3/4 C/4 B,/ | D/ D/ D/ D D/ | D3/4 D/4 D/ D/4 B,3/4 G,/ | F,3/4 G,/4 A,/ B, D,/ | B,/ B,/ B,/ B,3/4 C/4 B,/ | D/ D/ D/ D D/ | D3/4 D/4 D/ D/4 B,3/4 G,/ | F,3/4 G,/4 A,/ B, D/ | B,3/4 B,/4 C/ B,/ G,/ B,/ | D3/4 D/4 D/ C C/ | D3/4 D/4 E/ D/4 D3/4 B,/ | A,3/4 A,/4 B,/ D D/ | C3/4 C/4 C/ A,3/4 A,/4 A,/ | A,3/4 A,/4 G,/ F, A,/ | B,3/4 B,/4 C/ D/4 B,3/4 G,/ | F,3/4 G,/4 A,/ B,|]
+[V: P4]  D,/ | G,/ G,/ G,/ G,3/4 A,/4 G,/ | D,/ D,/ D,/ D, D,/ | G,3/4 A,/4 B,/ G,/4 G,3/4 B,,/ | D,3/4 D,/4 D,/ G,, D,/ | G,/ G,/ G,/ G,3/4 A,/4 G,/ | D,/ D,/ D,/ D, D,/ | G,3/4 A,/4 B,/ G,/4 G,3/4 B,,/ | D,3/4 D,/4 D,/ G,, D,/ | G,3/4 G,/4 G,/ G,/ G,/ G,/ | F,3/4 F,/4 G,/ E, C/ | B,3/4 B,/4 C/ B,/4 G,3/4 G,/ | F,3/4 F,/4 G,/ D, D,/ | A,3/4 A,/4 A,/ G,3/4 G,/4 G,/ | F,3/4 F,/4 E,/ D, F,/ | G,3/4 G,/4 C/ B,/4 G,3/4 B,,/ | D,3/4 D,/4 D,/ G,,|]
+

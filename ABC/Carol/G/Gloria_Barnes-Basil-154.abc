@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gloria
+Z: Edward Shippen Barnes, Alt
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+K: F
+[V: P1]  A A A (A/c/) | c3/ B/ (A F/)z/ | A (A3/4G/4) A (A/c/) | c3/ B/ Az | A A A (A/c/) | c3/ B/ (A F/)z/ | A (A3/4G/4) A (A/c/) | c3/ B/ Az | (c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/) G/ C2 | F G A B | A2 Gz | (c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/) G/ C2 | F G A B | (A2 G2) | F2|]
+w: An- gels we have_ heard on high_ Sweet- ly_ sing- ing_ o'er the plains, And the moun- tains_ in re- ply_ Ech- o_ ing their_ joy- ous strains. Glo-_______________ ri a, in ex- cel sis De- o! Glo-_______________ ri a, in ex- cel sis De-_ o!
+[V: P2]  F F F (F/A/) | A3/ G/ (F C/)z/ | F (F3/4E/4) F (F/A/) | A3/ G/ Fz | F F F (F/A/) | A3/ G/ (F C/)z/ | F (F3/4E/4) F (F/A/) | A3/ G/ Fz | A2 B/A/G/F/ | G2 A/G/F/E/ | F2 G/F/E/D/ | E3/ E/ C2 | A, C F G | F2 Ez | A2 B/A/G/F/ | G2 A/G/F/E/ | F2 G/F/E/D/ | E3/ E/ C2 | A, C F G | (F2 E2) | F2|]
+[V: P3]  F, F, F, F, | F,/C,/D,/E,/ (F, A,/)z/ | F, F, F, F, | F,/C,/D,/E,/ F,z | F,4 | F,/C,/D,/E,/ F,z | F, F, F, F, | F,/C,/D,/E,/ F,z | F,4 | C,4 | F,4 | C,3/ C,/ C,2 | F, E, F, B,, | C,2 C,z | F,4 | C,4 | F,4 | C,3/ C,/ C,2 | F, E, F, B,, | C,4 | [F,,2F,2]|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gelobet seyst du, Jesus Christ
+Z: Choral of the 15th Century
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G | G G A G | c d c2 | (B/ c/) d e (d/ c/) | B A G G | c (B/ c/) d A | (G/ ^F/) E D D | A A A B | (c/ B/) A (G/ A/ B | A2) G G | G2 G|]
+w: Hail! Je- su Christ, bles- sed for aye. Born_ for man true_ Man to- day; The Sons of_ God all shout_ for glee Be- fore the Babe of maid_ Ma- rie.___ Al- le lu ya.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Good News We Bring And Peace
+Z: C. Simper
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  (B/c/) | d B e d | c3/ d/ B A | G G A B | c3/ B/ A F | G3/ F/ E c | B3/ A/ G A | F (G/F/) E F | D3 D | c3 D | B3 G | (E/F/) G c B | A3 G | e3 A | d3 B | (B/A/) (G/A/) D F | G3|]
+w: From_ realms of glo- ry far a- way Good news and peace we bear to- day; The Christ on earth is come to stay; Good news we_ bring and peace. Good news, good news, Good news_ we bring and peace: Good news, good news, Good news_ we_ bring and peace.
+

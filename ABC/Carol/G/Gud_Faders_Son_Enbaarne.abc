@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gud Faders Son Enbaarne
+Z: Erfurt, 1524
+Z: Public domain
+Z: Meter 7 6, 7 6, 7 7, 6
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Right Hand"
+%%MIDI program 1 0
+V: P2 name="Gud Faders Søn enbaarne"
+%%MIDI program 2 91
+V: P3 name="Gud Faders Søn enbaarn-2"
+%%MIDI program 3 91
+K: G
+[V: P1]  [DG] [EG] [GB] [FA] | [EG] [EF] ^D E | [DB] [Cc] [EA] [DB] | [CA] [B,3G3] | [DG] [EG] [DB] [CA] | [B,G] [^D2F2] E | [DB] [Cc] [DA] [DB] | A [B,3G3] | G [GB] [FB] [Gc] | [Ac] [Ad] G [FA] | [Gd] [GB] [EB] [^DA] | [EG] [EF] ^D E | [DB] [Cc] [EA] [DB] | [CA] [B,3-G3-] | [B,G]z3|]
+[V: P2]  [G,B,] C D C | C A,2 G, | G, G, G, G, | F, G,3 | G, G, G, F, | [E,G,] A,2 G, | G, [E,G,] [F,A,] G, | F, G,3 | [E,B,] D D E | E D2 D | [B,D] [G,D] [G,E] [F,B,] | [E,B,] A,2 [E,G,] | G, [E,G,] G, F, | F, G,3- | G,z3|]
+[V: P3] z C, G,, A,, | A,, B,,2 C, | B,, A,, C, D, | D, G,,3 | B,, C, D, ^D, |z B,,2 C, | D,z3 | D, G,,3 |z D, D, C, | A,, B,,2 D, | z4 |z B,,2z |z2 C, D, | D, G,,3- | G,,z3|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glenogie
+Z: Scottish Air
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=65
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  A/ A/ G/ A/ A/ G/ | A/ A/ G/ E (c/4 d/4) | e/ e/ (d/4 c/4) c/ A/ (c/4 A/4) | G/ E/ G/ A (c/4 d/4) | e/ e/ (d/4 c/4) d/ d/ (e/4 d/4) | c/ A/ (G/4 E/4) D (c/4 A/4) | G/ E/ C/ D/ C/ D/ | E/ c/ B/ A3/|]
+w: Beth- le hem Ju- da, 'twas there on a morn That_ Christ, in the_ days of King_ He- rod, was born: When_ from the East_ coun- try, o'er_ fell, frith and_ fen, There_ came to Hie- ru sa lem cer- tain Wise Men.
+

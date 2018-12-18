@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Garton, 67.67
+Z: Traditional Irish melody
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="Garton"
+V: P2_2
+%%MIDI program 2 -1
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | c2 [F2c2] | c3/ c/ c/A/ G/A/ | c3/ c/ c/A/ G/A/) | [F/G/] [FA] d | c2 c2 | c3/ c/ c/A/ G/A/ ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | F E x2  | C D/E/ F F | G F/- F/ F F | (F3/ x1  F/G/ | A F E F | G F/- F/ E E ||]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  | | [A,C] [G,B,] A,/C/ B,/A,/ | | (A, B,/- B,/ [C,C] D/E/ | | [E,G,] [F,A,] A,/C/ C/B,/ ||]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  | | x2  F, F, | | D,3/ D,/ x1  B,, | | x2  A,, C, ||]|] Z 
+

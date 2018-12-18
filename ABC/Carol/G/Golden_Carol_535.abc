@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Golden Carol
+Z: Traditional, Arr. by J. Stainer
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A/ | d e/ f ^c/ | d d/ A B/ | A G/ F E/ | D3/ D/z/ A/ | d e/ f ^c/ | d d/ A B/ | A G/ F E/ | D3/ D/z/ F/ | E F/ G A/ | F F/ E F/ | D E/ F G/ | A3/ A/z/ ^G/ | A =B/ ^c A/ | d d/ ^c f/ | e d/ ^c e/ | d3/ d|]
+w: We saw a light shine out a- far, On Christ- mas in the morn- ing; And straight we knew it was Christ's star, Bright beam- ing in the morn- ing. Then did we fall on bend- ed knee, On Christ- mas in the morn- ing; And prais'd the Lord, who let us see His glory at its dawn- ing._
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Rest You Merry, Gentlemen
+Z: Second Setting From The English Carol Book
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=80
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  e | e/ c/ B/ A/ | G F | E2 | c B/ e/ | d d | e2 | e B/ A/ | G/ F/ (G/A/) | B2 | e F/ A/ | (G/A/) B | E2 | e B/ A/ | G/ F/ G/ A/ | B2 | e F/ A/ | (G/A/) B | [M: 3/4]  E2 (E/F/) | (G/A/) B (e/d/) | c B3/ G/ | (A/B/) c d | [M: 2/4]  e2 | e B/ A/ | (G/F/) (G/A/) | B E/ F/ | e (F/A/) | (G/A/) B | E2|]
+w: God rest you mer- ry, gen- tle men, Let noth- ing you dis- may. For Je- sus Christ our Sa-_ vior, Was born up- on_ this day; To save us all from Sa- tan’s power, When we were gone_ a- stray. O_ tid-_ ings, O_ tid- ings of com-_ fort and joy, For Je- sus Christ_ our_ Sav- ior Was born on_ Christ-_ mas day.
+[V: P2]  E | E/ A/ G/ F/ | (E D) | C2 | E E/ G/ | (F/E/) F | G2 | G F | (E2 | E) D | E F/ E/ | (D/C/) D | E2 | A F | B, (E | [E)F)] [DF] | E E/ E/ | E3/ =D/ | [M: 3/4]  E2 C | (B,/C/) D E | (F/E/) (D/C/) B, | (F/G/) A (B/A/) | [M: 2/4]  (G/F/ E) | E D/ F/ | B,3/ C/ | D E/ F/ | G (F/E/) | (D/C/) D | E2|]
+[V: P3]  G, | G,/ A,/ B,/ C/ | (B, B,) | G,2 | A, G,/ B,/ | B,3/ B,/ | B,2 | C, D, | E,3/ F,/ | G, A, | B, C/ C/ | B,3/ A,/ | G,2 | C, D, | E, C, | B,,2 | E, E,/ E,/ | E, F, | [M: 3/4]  G,2 C | (D/C/) (B,/A,/) G, | (A,/G,/) F, G, | (C/B,/) (A,/G,/) F, | [M: 2/4]  E,2 | C D/ D/ | E (D/C/) | (B,/A,/) G,/ F,/ | E, C | (B,/A,/) (G,/F,/) | E,2|]
+[V: P4]  E, | E,/ F,/ G,/ A,/ | (B, B,,) | C,2 | A,, E,/ E,/ | B,, B, | E,2 | C, D, | (E,2 | E,) F, | G, A,/ A,/ | B, B,, | E,2 | C, D, | E, C, | B,,2 | E, (_D, | D,/) C,/ B,,/ B,,/ | [M: 3/4]  E,2 A, | G,3/ F,/ E, | A,, B,, E, | F, F, B,, | [M: 2/4]  C,3/ B,,/ | A,, B,, | E,3/ E,/ | E, E,/ D,/ | (C,/B,,/) A,, | B,, B,, | E,2|]
+

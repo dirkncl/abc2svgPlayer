@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Good Men All Of Chastres
+Z: Arpajon Carol, 16th Century
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  C/ | F G/ A B/ | c3/ c d/ | c B/ A c/ | (F3/ F/)z/ C/ | F G/ A B/ | c3/ c d/ | c B/ A c/ | (F3/ F/)z/ c/ | f f/ (f/ e/) d/ | (c3/ c) c/ | d d/ d d/ | d3/ c/z/ c/ | B B/ B d/ | c c/ c c/ | B B/ B d/ | c c/ c/z/ c/ | d c/ B A/ | (A G/) Fz/|]
+w: The good men all of Chas- tres, And of Mont- le He ry,_ Are full of joy this glad day As joy- ous all should be;_ For Je- sus Christ_ is born,_ The day of days is dawn- ing; With ox and ass in sta- ble mean The King of kings on earth is seen, On this first Christ- mas morn-_ ing.
+

@@ -1,0 +1,17 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gaudete! Gaudete!
+Z: Latin, Traditional
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: C
+[V: P1] "^Refrain" A A G A/B/ | [M: 6/8]  c c/ B A/ | [M: 2/4]  G G | [M: 4/4]  G A B3/ A/ | [M: 6/8]  G A/ B A/ | [M: 2/4]  G A |"^Verse" A/A/ G/A/ c/B/ A | A/F/ E/F/ D D | D/D/ F/D/ F/G/ A | c/A/ B/c/ A A|]
+w: Gau- de te! gau- de te! Christ- us est na- tus ex Ma- ri a vir- gi ne, gau- de te! Tem- pus ad- est gra- ti ae, hoc quod op- ta ba mus; car- mi na lae- ti ti ae de- vo te red- da mus.
+

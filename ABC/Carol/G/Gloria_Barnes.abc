@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gloria
+Z: Edward Shippen Barnes
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=110
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A A A c | c3/ B/ A2 | A G A c | A3/ G/ F2 | A A A c | c3/ B/ A2 | A G A c | A3/ G/ F2 | (c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/) C/ C2 | F G A B | A2 G3/z/ | (c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/) C/ C2 | F G A B | (A2 G2) | F4|]
+[V: P2]  F F F F | G E F2 | F E F F | F E F2 | F F E F | F G F2 | E D F G | F E F2 | (F A/G/ F2 | F G/F/ E2 | E F/E/ D2 | C3/) C/ C2 | C E F F | F2 E3/z/ | (F A/G/ F2 | F G/F/ E2 | E F/E/ D2 | C3/) C/ C2 | C E F F | (F2 E2) | C4|]
+[V: P3]  C C C A, | G, C C2 | C C C C | C3/ B,/ A,2 | C C C A, | A, C C2 | C D D C | C3/ B,/ A,2 | (A,2 D2 | D2 C2 | C2 B,3/ A,/ | G,) F, E,2 | F, C C D | C2 C3/z/ | (A,2 D2 | D2 C2 | C2 B,3/ A,/ | G,) F, E,2 | F, C C D | (C3 B,) | A,4|]
+[V: P4]  F, F, F, F, | E, C, F,2 | F, C, F, A, | C C, F,2 | F, F, A, F, | D, E, F,2 | A,, B,, D, E, | F, C, F,2 | (F,2 D, F, | G,2 C, E, | F,2 B,, D, | E,) D, (C, B,,) | A,, C, F, B,, | C,2 C,3/z/ | (F,2 D, F, | G,2 C, E, | F,2 B,, D, | E,) D, (C, B,,) | A,, C, F, B,, | C,4 | F,4|]
+

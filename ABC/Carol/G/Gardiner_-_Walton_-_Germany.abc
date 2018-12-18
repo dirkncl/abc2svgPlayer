@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gardiner - Walton - Germany
+Z: William Gardner, 1815
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=135
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 52
+V: P2_1 name="Unnamed-001"
+V: P2_2
+%%MIDI program 2 52
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | | (G [FB] | | | | (B/A/ [D)G)] [D^F] | | | (c B) [FA] | | (e d) [Ac] | | (f e) [Ad] | (c d) [FB] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | F2 A) x1  | | | | E x2  | | | F2 x1  | | A2 x1  | | c2 x1  | G2 x1  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | (B, C) [^G,D] | | | | | | | (G,3/ A,/) [D,B,] | | (C F) [^F,^D] | | | (E F) [G,D] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | G,2 x1  | | | | | | | D,2 x1  | | F,2 x1  | | | G,2 x1  ||]
+

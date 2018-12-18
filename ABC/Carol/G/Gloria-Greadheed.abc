@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gloria
+Z: Adapted by Rev. S.S. Greatheed
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A A A c | c3/ B/ A2 | A G A c | A3/ G/ F2 | A A A c | c3/ B/ A2 | A G A c | A3/ G/ F2 | (c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/) C/ C2 | F G A B | A2 G2 | (c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/) C/ C2 | F G A B | (A2 G2) | F4|]
+w: When the crim- son sun had set Low be- hind the win- try sea, On the bright And cold mid- night Burst a sound of heaven- ly glee: Glo-_______________ ri a in ex- cel sis De- o. Glo-_______________ ri a in ex- cel sis De-_ o!
+[V: P2]  F F F F | F3/ F/ F2 | F E F F | F E F2 | F F F F | F3/ F/ F2 | F E F F | F E F2 | A G ^F E | D2 C E | F3 D | E3/ F/ E2 | D C C D | F2 E2 | E F ^F D | D2 C E | F3 D | E3/ E/ E2 | F E F G | (G F2 E) | F4|]
+[V: P3]  C C D C | D D C2 | C C C C | C3/ B,/ A,2 | C C D C | D D C2 | C C C C | C3/ B,/ A,2 | C2 A, D | G,3 (C | C) (D D/)C/B,/A,/ | C3/ C/ C2 | A, G, F, F, | F, (A,/C/) C2 | C A,2 D | G,3 (C | C) (D D/)C/B,/A,/ | C3/ G,/ G,2 | C C C D | (C3 B,) | A,4|]
+[V: P4]  F, F, D, A,, | B,, D, F,2 | F, C, F, A, | C C, F,2 | F, F, D, A,, | B,, D, F,2 | F, C, F, A, | C C, F,2 | F, _E, D, ^F, | G, F, E, C, | F, D, B,, D, | C,3/ C,/ C,2 | D, E, F, B,, | C, (F,/A,/) C2 | A, F, D, ^F, | G, F, E, C, | F, D, B,, D, | C,3/ C,/ C,2 | A,, C, F, B,, | C,4 | F,4|]
+

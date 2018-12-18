@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God's Dear Son Without Beginning
+Z: English Traditional From The English Carol Book
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: A
+[V: P1]  F d c3/ B/ | A F G ^E | F3/ G/ A A | B B c3/ F/ | F d c3/ B/ | A F G ^E | F3/ G/ A A | B B c3/ A/ | c c e3/ c/ | B B e3/ d/ | c B A3/ c/ | (c/B/) (A/G/) A3/ A/ | c c c3/ B/ | A c B2 | c2 A G/ G/ | F c F ^E | F4|]
+w: God's dear Son with- out be- gin ning, Whom the wick- ed Jews did scorn, The on- ly wise with- out all sin- ning, On this bless- ed day was born; To save us all from sin and thrall, When we in Sa- tan's chains_ were_ bound. And shed his blood to do us good, With ma- ny a pur- ple bleed- ing wound.
+[V: P2]  F F F F | F ^D ^E C | ^D3/ ^E/ F C | F F ^E3/ F/ | F F F F | F ^D ^E C | ^D3/ ^E/ F C | F E E3/ E/ | E E A3/ E/ | E E E3/ E/ | E E F3/ F/ | F E E3/ E/ | A A A G | F C ^D2 | E2 C C/ C/ | D E D C | C4|]
+[V: P3]  A, B, C D | C A, C G, | B, B, C A, | F, B, G,3/ A,/ | A, B, C D | C A, C G, | B, B, C A, | A, G, A,3/ G,/ | A, A, A,3/ A,/ | G, G, B,3/ G,/ | A, B, C3/ A,/ | D B, C3/ C/ | E E E E | C A, F,2 | A,2 E, G,/ G,/ | A, A, B, G, | ^A,4|]
+[V: P4]  F, B,, A,, B,, | F, F, C, C, | B,,3/ G,,/ F,, F, | D, D, C,3/ F,/ | F, B,, A,, B,, | F, F, C, C, | B,,3/ G,,/ F,, F, | D, E, A,,3/ E,/ | A, A, C3/ A,/ | E, E, G,3/ E,/ | A, G, F,3/ F,/ | D, E, A,,3/ A,,/ | A, A, A, E, | F, F, B,,2 | A,,2 C, E,/ E,/ | D, C, B,, C, | F,,4|]
+

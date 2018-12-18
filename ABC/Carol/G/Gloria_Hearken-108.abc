@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gloria
+Z: Old French Carol
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A A A (A/c/) | c3/ B/ A F | A A A (A/c/) | c3/ B/ A2 | A A A (A/c/) | c3/ B/ A F | A =B c d | e2 d2 | c2z2 | [M: 2/2]  (c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/) G/ C2 | F G A B | A2 G2 | (c2 d/c/B/A/ | B2 c/B/A/G/ | A2 B/A/G/F/ | G3/) G/ C2 | F G A B | (A2 G2) | F3|]
+w: Heark- en, all! what_ h- oly sing- ing Now is sound- ing_ from the sky! 'Tis a hymn with_ gran- deur ring- ing, Sung by voic- es clear and high. Glo-_______________ ri a in ex- cel sis De- o, Glo-_______________ ri a in ex- cel sis De-_ o.
+[V: P2]  F F F F | G E F C | F F F (F/A/) | G E F2 | F F F F | G E F C | F F E A | G2 F2 | E2z2 | [M: 2/2]  (A2 B/A/G/F/ | G2 A/G/F/E/ | F2 G/F/E/D/ | E) D C2 | C E F F | F2 E2 | (A2 B/A/G/F/ | G2 A/G/F/E/ | F2 G/F/E/D/ | E) D C2 | C E F F | (F2 E2) | F3|]
+[V: P3]  C C C C | C C C A, | C C C C | C C C2 | C C C C | C C C A, | C D C C | C2 (C =B,) | C2z2 | [M: 2/2]  (C4 | C4 | C4 | C) =B, (C _B,) | A, C C D | C2 C2 | (C4 | C4 | C4 | C) =B, (C _B,) | A, C C D | (C2 B,2) | A,3|]
+[V: P4]  F, F, F, F, | E, C, F, F, | F, F, F, F, | E, C, F,2 | F, F, F, F, | E, C, F, F, | F, D, A, F, | G,2 G,2 | C,2z2 | [M: 2/2]  (F,4 | E,2 C,2 | F,2 E,/F,/ G, | G,) G, C,2 | F, C, F, B,, | C,2 C,2 | (F,4 | E,2 C,2 | F,2 E,/F,/ G, | G,) G, C,2 | F, C, F, B,, | (C,2 C,2) | F,3|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: God Rest You, Merry Gentlemen
+Z: English Traditional; First Tune From Chope
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=105
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  F | F c c B | A G F _E | F G A B | c3 (A/G/) | F c c B | (A G) F _E | F G A B | c3 (c/e/) | (d/c/) B B (c/d/) | e f c B | A F G A | B2"^Chorus" (A B) | (c3/ d/) e f | (c3/ B/) A G | F2 A/ G/ F | B2 (A B) | (c3/ d/) e f | (c3/ B/) A G | F2|]
+w: God rest you, mer- ry gen- tle men, Let noth- ing you dis- may. For_ Je- sus Christ our Sav-_ ior Was born up- on this day; To_ save_ us all from_ Sa- tan's power When we were gone a- stray. O_ ti-_ dings of com-_ fort and joy, Com- fort and joy; O_ ti-_ dings of com-_ fort and joy.
+[V: P2]  F | (C/=D/) (E/F/) (G/E/) (F/G/) | F =E C _E | E _D C F | (F =E/=D/ E) (F/E/) | (C/=D/) (=E/F/) (G/E/) (F/G/) | (F =E) C _E | (E/D/) (E/F/) E (F/G/) | A3 A | F (B/A/) G A | (A/G/) F E3/ E/ | E =D E E | (F G) (A G) | A2 G F | E2 E =D | (F3/ E/) =D/ E/ (F/E/) | (=D E) (E F/G/) | A2 G F | F2 F =E | F2|]
+[V: P3]  (A,/B,/) | C (B,/A,/) G, (F,/C/) | C3/ C/ C C | A, B, A, F, | G,3 (A,/B,/) | C (B,/A,/) (G, F,/)C/ | (C3/ B,/) A, B, | A, B, C D | E3 (E/C/) | A, F E3/ D/ | (C/B,/) (A,/B,/) C E | A, A, B, E | (E/=D/ E/F/) (E E) | (E F) (E/C/) (A,/B,/) | (C D) C3/ B,/ | A,2 A,/ B,/ C | B,2 C D | (E F) E A, | (C D) C3/ B,/ | A,2|]
+[V: P4]  (F,/G,/) | A, (G,/F,/) (=E,/C,/) (=D,/E,/) | F, G, A, A,, | _D, B,, F, D, | C,3 (F,/G,/) | A, (G,/F,/) (=E,/C,/) (=D,/E,/) | (F, G,) A, G, | F, (E,/D,/) C, B,, | A,,3 A,, | D, =D, (E,/_D,/) (C,/B,,/) | C, D, A, G, | F, F, (E,/D,/) C, | (B,, E,/_D,/) (C, E,) | (A, F,) C, D, | (A,, B,,) C, C, | F,2 F,/ G,/ A, | (A,/G,/4F,/4 G,/D/) C B, | (A, F,) C, D, | (A,, B,,) C, C, | F,,2|]
+

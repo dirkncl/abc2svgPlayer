@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Glad Christmas Bells
+Z: Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  (D/G/) | G/F/ F (F/A/) | A/G/ G (G/B/) | B3/ A/ c/B/ | A G (D/G/) | G/F/ F (F/A/) | A/G/ G (B/e/) | d3/ G/ A/B/ | A G|]
+w: Glad_ Christ- mas bells, your_ mu- sic tells The_ sweet and plea- sant sto- ry; How_ came to earth, in_ low- ly birth, The_ Lord of life and glo- ry.
+[V: P2]  D | D/D/ D D | D/D/ D (B,/D/) | E3/ E/ E/E/ | F G D | D/D/ D D | D/D/ D G | G3/ G/ G/G/ | F G|]
+[V: P3]  B, | B,/A,/ A, (A,/C/) | C/B,/ B, G, | G,3/ G,/ A,/B,/ | C B, B, | B,/A,/ A, (A,/C/) | C/B,/ B, (D/C/) | B,3/ B,/ C/D/ | C B,|]
+[V: P4]  G, | G,/D,/ D, D, | D,/G,/ G, G, | C,3/ C,/ A,,/A,,/ | D, G, G, | D,/D,/ D, D, | D,/G,/ G, G, | G,3/ G,/ G,/G,/ | D, G,|]
+

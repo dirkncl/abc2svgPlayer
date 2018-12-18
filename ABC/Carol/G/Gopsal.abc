@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Gopsal
+Z: George Frederick Handel (1685-1759)
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=112
+V: P1 name="Right hand"
+%%MIDI program 1 19
+V: P2 name="Gopsal, by G. F. Handel"
+%%MIDI program 2 19
+V: P3 name="Gopsal, by G. F. Hande-2"
+%%MIDI program 3 19
+K: C
+[V: P1]  [EG] [FA] [DG] [C-E-] | [C/E/][C/^F/] [D3G3] | C [B,F] [C/E/]D/ [CD] | B,/C/ C3 | [EG] [DG] [CE] [CA] | [FB] [E3c3] | [Ge] [Dd] [D/G/]A/ [D^F] | D/G/ [B,3G3] | G [Ec] [CE] [CA] | [EG] [D3/F3/] [D/F/] [C-E-] | [C2E2] [CG] [C-A-] | [C/A/][C/c/] [CD] [C/E/]F/ [CD] | B,/C/ [G,3-C3-] | [G,C]z3|]
+[V: P2]  C C B, A,- | A,/A,/ B, G, F, | [E,G,] [D,F,] G, G, | G, E,3 | C G, G, [F,A,] | [D,D] [A,3C3] | [E,C] [^F,A,] [G,/B,/]C/ D, | D, G,3 | B, A, G, [F,A,] | A, [D,A,] [D,A,] A,- | A,2 [E,G,] [F,-C-] | [F,/C/][E,/G,/] [F,A,] [D,A,] G, | G, E,3- | E,z3|]
+[V: P3]  C, F,, G,, A,,- | A,,/A,,/ G,,z2 |z2 C,z | G,, C,3 | C, B,, C,z | z4 | z4 |z G,,3 | G,, A,,/B,,/ C,z | ^C,z2 A,,- | A,,2z2 | z4 | G,, C,3- | C,z3|]
+

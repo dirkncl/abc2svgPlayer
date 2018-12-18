@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Geborn ist Gottes Sonelein
+Z: Variation of Puer nobis nascitur
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=129
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  E | E2 F | G2 A | G2 F | E2 E | B2 B | (B c) d | e2 e | e2 B | e2 e | d2 B | c2 c | B2 A | B2 G | F2 G | E2 D | E2|]
+w: The Son of God is born for all At Beth- lem in_ a cat- tle stall: He lie- th in a crib full small, And wrapt in swad- dling clothes with- al.
+

@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: glade_jul
+L: 1/4
+M: 6/8
+V: P1 name="Track 1"
+%%MIDI program 1 24
+V: P2 name="Track 2"
+%%MIDI program 2 73
+V: P3 name="Track 3"
+%%MIDI program 3 53
+V: P4 name="Tempo Track"
+%%MIDI program 4 -1
+K: C
+[V: P1]  A,/[^C/E/][C/E/] A,/[C/E/][C/E/] | A,/[^C/E/][C/E/] A,/[C/E/][C/E/] | E/[^G/B/][G/B/] E/[G/B/][G/B/] | A,/[^C/E/][C/E/] [A,/C/][B,/D/][C/E/] | D/[^F/A/][F/A/] D/[F/A/][F/A/] | A,/[^C/E/][C/E/] A,/[C/E/][C/E/] | D/[^F/A/][F/A/] D/[F/A/][F/A/] | A,/[^C/E/][C/E/] A,/[C/E/][C/E/] | E/[^G/B/][G/B/] E/[G/B/][G/B/] | A,/[^C/E/][C/E/] A,/[C/E/][C/E/] | A,/[^C/E/][C/E/] E/[^G/B/][G/B/] | A,/[^C/E/][C/E/] [A,3/C3/E3/]|]
+[V: P2]  e3/4^f/4e/ ^c3/ | e3/4^f/4e/ ^c3/ | b b/ ^g g/ | a a/ e3/ | ^f f/ a3/4^g/4f/ | e3/4^f/4e/ ^c3/ | ^f f/ a3/4^g/4f/ | e3/4^f/4e/ ^c3/ | b3/4b/4b/ d'/b/^g/ | a3/ ^c'3/ | a3/4e/4^c/ e/d/B/ | A2z|]
+[V: P3]  [A3-^c3-] | [A3^c3] | [B3d3] | [A2^c2]z | [A3d3] | [A3^c3] | [A3d3] | [A3^c3] | [^G3B3] | [A3-^c3-] | [A3/^c3/] [^G3/B3/] | [A3^c3]|]
+[V: P4] z3|]
+
