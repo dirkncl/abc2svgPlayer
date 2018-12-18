@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Nunc Angelorum Gloria
+Z: 14th Century Melody
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G G B | (d c) B | (c d) e | d2 B | (d A) B | G2 B | (A F) G | E2 A | (A2 B) | G3 | G G B | (d c) B | (c d) e | d2 B | (d A) B | G2 B | (A F) G | E2 A | (A2 B) | G3 | F2 G | A2 G | (A B) G | G2 A | (B A) B | (G F) G | E3 | E2 E | G2 B | d2 G | (G F) G | E2 A | (A2 B) | G3|]
+w: To- day the light_ of An-_ gels bright For man_ be- low Doth fill_ the world with glad-_ ness: Now- ell, Now- ell,_ I pray_ you well, Keep Christ-_ mas tide With Hearts_ de- void of sad-_ ness. See in joy be- fore_ her Babe The Vir-_ gin mo-_ ther bend- ing: Our gloom- y night in noon-_ day bright Hath End-_ ing
+

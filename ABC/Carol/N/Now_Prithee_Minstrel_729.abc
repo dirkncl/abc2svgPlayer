@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Now, Prithee, Minstrel, Tell To Me
+Z: Arthur H. Brown
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  G/ | d c/ (B/A/) G/ | A G/ ^F D/ | G A/ (B/A/) G/ | B c/ d d/ | (f/e/) d/ (c/d/) B/ | A G/ F c/ | (B/A/) G/ (^F/G/) E/ | D D/ D/z/ [K: G]  D/ | (B/A/) G/ (F/E/) D/ | G D/ E F/ | (G/A/) B/ (c/d/) e/ | A A/ A d/ | (c/B/) c/ B d/ | e c/ A B/ | (G/F/) E/ (G/F/) E/ | (G3/ E) C/ | (G3/ G/)z|]
+w: Now, pri- thee, Min-_ strel, tell to me Whose eyes the An-_ gel hosts did see, When loud_ they sang_ in ho- ly glee, That Christ-_ mas night_ in far Ju- dee? "Oh all_ the world_ lay wrapped in sleep, None woke,_ or stirred_ from slum- ber deep, Save just_ a flock of low- ly sheep, And shep-_ herds who_ that flock_ did keep."_
+

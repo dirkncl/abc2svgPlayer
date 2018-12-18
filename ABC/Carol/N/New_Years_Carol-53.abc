@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: New Year's Carol
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=180
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A | D A (G/=B/) (A/G/) | (F/D/) E D (F/G/) | A G c (=B/G/) | A3 (A/c/) | =B A (G/=B/) (A/G/) | F E D (F/G/) | A G c (=B/G/) | A3 A | d d (G/^F/) G | [M: 3/2]  A d (c3/ =B/) (A3/ G/) | [M: 2/2]  F (F/E/) D A | G2 F G | A d (c/A/) (=B/G/) | (F/G/ A) (G/F/) E | D2 (F/E/) D | G2 F G | A d (c/A/) (=B/G/) | (F/G/ A) (G/F/) E | D3|]
+w: A- wake! A- wake!_ ye_ drow-_ sy souls And_ hear what I shall_ tell Re-_ mem ber Christ,_ the_ Lamb of God, Re-_ deemed our souls from_ hell. He’s crowned with thorns,_ spit on with scorn,_ The_ Jews have_ hid them- selves. So God send you all_ a_ joy-__ ful_ New Year. A_ New Year. So God send you all_ a_ joy-__ ful_ New Year.
+

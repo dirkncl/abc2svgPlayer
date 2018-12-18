@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Now Redemption Long Expected
+Z: "Calcutta"
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=76
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  B e G B | E A G F | G c F B | (E/F/) (G/=A/) B2 | c3/ _A/ B3/ G/ | A F G E | e3/ (d/4c/4) (B/4A/4G/4A/4 B/) A/ | G F E2 | (B/G/) (A/B/) (c3/4c/4) c | (A/F/) (G/A/) (B3/4B/4) B | E/ A/ G/ F/ E/ c/ B | B/ e/ d/ c/ B/ g/ f | (e/d/4c/4 d/) B/ (c/B/4A/4 B/) G/ | (A/F/) (G/E/) (B2 | B4 | B4) | e B c A | G F E2 |"^Verse 3" B e G B | E A (G/E/) F | G c F B | (E/F/) (G/=A/) B2 | (c/B/4A/4) B B3/ (A/4G/4) | A F G E | e3/ (d/4c/4) (B/4A/4G/4A/4 B/) A/ | G F E2 | z4 | (B/G/) (A/B/) (c/B/) B | (A/F/) (G/A/) B B/z/ | E/ A/ G/ F/ E/ c/ B/z/ | B/ e/ d/ c/ B/ g/ f | (e/d/4c/4 d/) B/ (c/B/4A/4 B/) G/ | (A/F/) (G/E/) B B/ B/ | e/ B/ A/ F/ B B/ B/ | e/ B/ A/ F/ Ez | e B c A | G2 F2 | E2z2 | z4|]
+[V: P2]  E (G/F/) (E/D/) (C/B,/) | C F E D | E E E (G/F/) | E E D2 | E E D E | C D E E | E F (G/4F/4E/4F/4 G/) F/ | E D E2 | (D/E/) (F/G/) (A3/4A/4) (A/F/) | (C/D/) (E/F/) (G3/4G/4) (F/D/) | E3/ E/ E (E/G/) | (F/E/) F B2 | z4 |z2z A/ (G/4F/4) | (G/A/4G/4 F/G/ F) E/F/ | (G/A/4G/4 F/) G/ F2 | E G E (A/F/) | (F/E/) (E/D/) E2 | G, C E D | E A, B, B, | G E (E/C/) D | (C/D/) (E/F/) B,2 | _A (G/F/) (E/D/) (C/B,/) | C D E E | (A,/F,/) B, (G/E/) (G,/C/) | (C/A,/) (B,/C/4D/4) E2 | z4 | (D/E/) (F/G/) (A/G/4F/4) E | (C/D/) (E/F/) (G/F/) E | E E (E/F/) (G/A/) | (G/A/) B/z/ B2 | B3/ B/ B B | D (E/G/) B2 | G (A/B/) B D | E F Ez | E G (A/G/) F | (B, D3/) (B,/ C) | E2z2 | z4|]
+[V: P3]  G, C B, G, | A, C B, B, | B, (A,/G,/) F, E, | G, C F,2 | A, C G, B, | F, (F,/B,/) B, G, | A, (A,/B,/) E3/ C/ | (B,/=A,/) (B,/_A,/) G,2 | z4 | z4 | G,/ C/ B,/ A,/ G,/ F,/ (G,/B,/) | D/ G/ F/ E/ D/ C/ D | z4 |z2zz | E3/ E/ D (C/ D/) | E3/ E/ D2 | B, (E/D/) C E | B, (B,/A,/) G,2 | z4 | B, E G, B, | E, A, (G,/E,/) F, | G, C F, B, | (E,/F,/) (G,/=A,/) B,2 | (C/B,/4A,/4) B, B,3/ (A,/4G,/4) | A, F, G, E, | E (D/C/) (B,/4A,/4G,/4A,/4 B,/) A,/ | G, F, E,2 |z2 (B,/G,/) (A,/B,/) | (C/B,/) B, (A,/F,/) (G,/A,/) | B, B,/z/ E,/ A,/ G,/ F,/ | E,/ C/ B,/z/ B,/ E/ D/ C/ | B,/ G/ F (E/D/4C/4 D/) B,/ | (C/B,/4A,/4) (B,/G,/) (A,/F,/) (G,/E,/) | B, B,/ B,/ E/ B,/ A,/ F,/ | G, B,/ B,/ E/ B,/ A,/ F,/ | E,zz2 | E B, C A, | G,2 F,2 | E,4|]
+[V: P4]  E, C, G, E, | A,3/ (G,/4F,/4) B, B,, | E, A,, B,, G,, | C, C, B,,2 | A,3/ F,/ G,3/ E,/ | F, B,, E, (E,/D,/) | C, D, E,3/ A,/ | B, B,, E,2 | z4 | z4 | E,3/ E,/ E, E, | B,, B,, B,2 | z4 |z2z B,/ B,/ | E/ B,/ G,/ E,/ B, B,/ B,/ | E/ B,/ G,/ E,/ B,,2 | G, E, A, F, | B, B,, E,2 | z4 | G,, C, E, D, | E, A,, B,, B,, | G, E, (E,/C,/) D, | (C,/D,/) (E,/F,/) B,,2 | _A, (G,/F,/) (E,/D,/) (C,/B,,/) | C, D, E, E, | (A,,/F,,/) B,, (G,/E,/) (G,,/C,/) | (C,/A,,/) (B,,/C,/4D,/4) E,2 |z2 (D,/E,/) (F,/G,/) | (A,/G,/4F,/4) E, (C,/D,/) (E,/F,/) | (G,/F,/) E,/z/ E, E, | (E,/F,/) (G,/A,/) (G,/A,/) B,/z/ | B,2 B,3/ B,/ | C B, D, (F,/G,/) | B,2 G, (A,/B,/) | B, D, E, F, | G,zz2 | E, G, (A,/G,/) F, | (B,, E,3/) (C,/ D,) | E,4|]
+

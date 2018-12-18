@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Nun Komm, der heiden Heiland
+Z: Harmony by Johann Sebastian Bach
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=112
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Nun Komm"
+V: P2_2
+%%MIDI program 2 91
+K: Bb
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | [Ec] d [E2)B2)] | [(E(B] [Ec] d/c/ [DB] | | G [=EG] [DF] [DB] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | x1  D/E/4F/4 x2  | x2  D x1  | | ^C/D/ x3  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  B, A,/G,/ A,/G,/ [D,/F,/][=E,/G,/] | | B,/C/ D/E/ [F,/A,/][E,/G,/] F,/G,/ | [C,A,] B,/F,/ [E,2)G,2)] | G, A,/B,/ [^F,A,][=F,/G,/] | G, D/C/ [G,,2B,2] | =E, A, A, G, | G,3/ ^F,/ [G,,2)D,2)]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  (G,/F,/ E, D, x1  | | G,, G, x1  D, | x1  B,, x2  | (E,/D,/ C, x1  G,/- x0  | E,/C,/ D, x2  | A,,/=B,,/ ^C,/A,,/ D,/=C,/ _B,,/G,,/ | C,/D,/4E,/4 D,/- D,/ x2 |]
+

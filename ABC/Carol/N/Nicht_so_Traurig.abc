@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Nicht so Traurig, 77.77.77
+Z: Johann Georg Ebeling, 1666
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: none
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Nicht so Traurig"
+V: P2_2
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  [(C3/(F3/] [C/G/] [CF] C | | | [FG] [EG] F2) | [(C3/(F3/] [C/G/] [CF] C | | | [FG] [EG] F2) | | | | [DG] G [A,2)F2)]|]
+% Extracting voice 2 from part P1
+[V: P1_2]  x3  C | | | x2  F2 | x3  C | | | x2  F2 | | | | x1  C/B,/ x2 |]
+% Extracting voice 1 from part P2
+[V: P2_1]  [(F,3/(A,3/] [E,/G,/] [F,A,] A, | | F, [F,A,] [D,D] [F,C] | C3/ [z/C,] B,/ [F,2)A,2)] | [(F,3/(A,3/] [E,/G,/] [F,A,] A, | | F, [F,A,] [D,D] [F,C] | C3/ [z/C,] B,/ [F,2)A,2)] | | | F,3/ [E,/G,/] [D,F,] F, ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  x3  F,/E,/ | | F, x3  | B,, x3  | x3  F,/E,/ | | F, x3  | C, x3  | | | x1  F, ||]
+

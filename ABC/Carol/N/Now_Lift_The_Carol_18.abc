@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Now Lift The Carol, Men And Maids
+Z: Arthur H. Brown
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B/ | G B/ (c/d/) e/ | B G/ E F/ | G G/ (B/A/) G/ | G3/ F B/ | G E/ (A/B/) c/ | B G/ E E/ | (B/A/) G/ G F/ | F3/ E/z/ E/ | G G/ A A/ | (G/F/) E/ D G/ | B B/ B =A/ | (G =A/) (B/c/) d/ | e g/ B e/ | c A/ F E/ | (B/A/) G/ G F/ | F3/ Ez/ |"^Chorus" F3/ G3/ | (A/G/F/) G B/ | e e/ (e/d/) c/ | d3/ B3/ | c c/ B B/ | A/ G/ F/ G B/ | (c/d/) e/ e d/ | (e3/ e)z/|]
+w: Now lift the car-_ ol, men and maids, Now wake ex- ult_ ant sing- ing; This day the Well_ of Life first sprang, Who shall_ de- clare His spring- ing? It is the Birth- day of_ our Peace; This day for man the wea-_ ry,_ The Ev- er last ing Son of God Was born_ of bless- ed Ma- ry. No- el! No-__ el! Pro- claim the Sav-_ iour's Birth; He rais- es us to Heav- en, O hail His com-_ ing down to Earth._
+

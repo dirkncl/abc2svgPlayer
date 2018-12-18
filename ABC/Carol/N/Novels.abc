@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Novels
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: D
+[V: P1]  A | A d c (A/B/) | c3 e | d c (d/c/) B | A3 A | A D (B/c/) d | (A3/ B/) A3/ G/ | F d F E D3"^Chorus" A | A d c (A/B/) | c3 e | d c (d/c/) B | A3 A | A D (B/c/) d | (A3/ B/) A3/ G/ | F d F E | D3|]
+w: A Child this day is_ born, A Child of high_ re- nown. Most wor- thy of_ a scep-_ ter, A scep- ter and a crown. No- vels, No- vels, No-_ vels, No- vels sing all_ we may, Be- cause the King_ of all_ kings Was born this bless- ed day.
+[V: P2]  E | F A A F | A3 A | A A A ^G | A3 E | D D D D | (D C) D E | D D D C | D3 E | F A A F | A3 A | A A A ^G | A3 E | D D D D | (D C) D E | D D D C | D3|]
+[V: P3]  C | D F E D | E3 E | F E (F/A,/) (E/D/) | C3 (C/B,/) | A, (G,/A,/) G, A, | (G,/F,/ E,) D, A, | (A,/G,/) (A,/B,/) A,3/ G,/ | F,3 C | D F E D | E3 E | F E (F/A,/) (E/D/) | C3 (C/B,/) | A, (G,/A,/) G, A, | (G,/F,/ E,) D, A, | (A,/G,/) (A,/B,/) A,3/ G,/ | F,3|]
+[V: P4]  A, | D D A, D | A,3 C, | D, A,, D, E, | A,3 G, | F, (E,/F,/) G, F, | (E, A,,) B,, C, | (D,/E,/) (F,/G,/) A, A,, | D,3 A, | D D A, D | A,3 C, | D, A,, D, E, | A,3 G, | F, (E,/F,/) G, F, | (E, A,,) B,, C, | (D,/E,/) (F,/G,/) A, A,, | D,3|]
+

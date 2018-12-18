@@ -1,0 +1,21 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Now Sing We, Now Rejoice
+Z: J. Klug
+Z: Public Domain
+Z: "Nun Singet Und Seid Froh"
+L: 1/4
+M: 3/4
+Q: 1/4=170
+V: P1 name="Treble Clef"
+%%MIDI program 1 0
+V: P2 name="Bass Clef"
+%%MIDI program 2 0
+K: G
+[V: P1] z2 [DG] | [D2G2] [EG] | [G2B2] [Gc] | [F2d2] [Ae] | F2 [DG] | [D2G2] [EG] | [G2B2] [Gc] | [F2d2] [Ae] | F3 | [G2d2] [Ge] | [F2d2] [Ec] | [E3B3] | [E2G2] [EG] | [F2A2] [FA] | [G2B2] [FA] | [EG] D A | [D3B3] | [G2d2] [Ge] | [F2d2] [Ec] | [^D3/B3/] C/ D | [E2G2] [DG] | [E2A2] [FA] | [G2B2] [FA] | [EG] D A | [D3B3] | [C2E2] [CE] | [D2F2] [DF] | [E3G3] | [F3d3] | [D2B2] [DB] | [DA] G [DA] | [B,3G3] | [C3G3] | [B,3G3]|]
+[V: P2] z2 [G,,B,] | [G,,2B,2] [C,C] | [G,2D2] [E,G,] | [D,A,] D [A,^C] | [D,2D2] [G,B,] | [G,,2B,2] [C,C] | [G,2D2] [E,G,] | [D,A,] D [A,^C] | [D,3D3] | [G,2B,2] [C,C] | [D,2A,2] [A,,A,] | [E,3G,3] | [E,2B,2] [C,C] | [D,2D2] [D,D] | [G,2D2] [D,D] | [E,B,] B,, [D,F,] | [G,,3G,3] | [G,2B,2] [C,C] | [A,,2A,2] [A,,A,] | [B,,2F,2] B, | [G,2B,2] [B,,G,] | [A,,2C2] [D,D] | [G,2D2] [D,D] | [E,B,] B,, [D,F,] | [G,,3G,3] | [C,2G,2] [A,,A,] | [D,2A,2] [B,,B,] | [E,3/B,3/] A,/ G, | [D,3A,3] | [G,,2G,2] [B,,G,] | [D,F,] E, [D,F,] | [G,,3G,3] | [C,3E,3] | [G,,3D,3]|]
+

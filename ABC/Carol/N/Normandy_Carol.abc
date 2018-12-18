@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Normandy Carol, 11.11.11.11
+Z: Anonymous
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 3/4
+Q: 1/4=115
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Normandy Carol"
+V: P2_2
+%%MIDI program 2 91
+K: Bb
+% Extracting voice 1 from part P1
+[V: P1_1] [|: D | | [FB] [FB] (B/A/) | | D2 [(B,/(D/][C/)F/)] | | | | [B,2D2] D | | [DB] [DB] (B/A/) | | [F2d2] (d/c/) | |[1  [CE] [CE] C | :|][2  [CE] [CE] C ||]
+% Extracting voice 2 from part P1
+[V: P1_2] [|: D | | x2  F | | D2 x1  | | | | x2  (D/C/) | | x2  D | | x2  F | |[1  x2  C | :|][2  x2  C ||]
+% Extracting voice 1 from part P2
+[V: P2_1] [|: D, | | | [G,B,] [G,B,] A, | B,2 F, | | [B,,F,] [B,,F,] F, | | [B,,2F,2] (B,/A,/) | | G, G,[D,/)^F,/)] | G, G, [F,A,] | B,2[F,/)A,/)] | [G,B,] G, D |[1  | :|][2  ||]
+% Extracting voice 2 from part P2
+[V: P2_2] [|: D, | | | x2  A, | B,2 (B,,/A,,/) | | x2  (B,,/A,,/) | | x2  B,, | | G, G, (G,/ x0  | G, G, x1  | B,2 (B,/ x0  | x1  (G,/D,/) |[1  | :|][2  ||]
+

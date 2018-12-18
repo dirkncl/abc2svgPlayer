@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Noel, Noel, Noel, Noel
+Z: Traditional / R.R. Chope
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=85
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F/ | G B/ A F/ | (A3/4 G/4) (F/4 E/4) D D/ | F F/ G G/ | A A/ F3/ | G/ B/ A/ G F/ | G3 | G G/ A A/ | c B/ A G/ | B A/ F G/ | (A3/ A) D/ | F F/ G G/ | A A/ F3/ | G/ B/ A/ G F/ | (G3/ G) d/ | c B/ A G/ | F E/ D D/ | F G/ F/ E | (D3/ D) D/ | F F/ G G/ | A3/ F3/ | G/ B/ A/ G F/ | (G3/ G)|]
+w: No- el, No- el, No- el,_ No-_ el! This is the sal- u ta tion of the An- gel Ga- br iel Tid- ings true I bring to you Sent from the Trin- i ty,_ By Ga- bri el to Na- zar eth, Ci- ty of Gal- i lee,_ A Maid- en pure and Vir- gin bright, thro' Her hu- mi li ty,_ Shall bear the Se- cond Per- son of Bless- ed De- i ty._
+

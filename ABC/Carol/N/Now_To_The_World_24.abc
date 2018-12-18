@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Now To The World A Saviour's Born
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=116
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: A
+[V: P1]  E2 A B | c (B/c/) d c | B2 c2 | (e/d/) (c/B/) A G | A2 c2 | A2 A2 | A2 (d c) | B2 B2 | B2 (c d) | (e d) (c B) | A2 G2 | A2 B2 | (c/B/) (A/G/) A (B/c/) | (d/c/) (B/A/) B e | c c c B | A3 c | d d d c | B3 G | (A3/ B/ A3/ B/ | c/d/c/d/ e) d | c2 B2 | A4|]
+[V: P2]  C2 E E | E (F/E/) D E | E2 E2 | A E C (B,/E/) | E2 E2 | F2 F2 | (F A) (G A) | G2 G2 | (G B) (A G) | A2 (E F) | E3 D | C2 E2 | E E E (D/E/) | F ^D Ez | z4 |z2z E | F F F E | G3z |z2 (E D) | E3 F | A2 G2 | E4|]
+[V: P3] z C A, G, | A, A, G, A, | G,2 A,2 | (C/B,/) A, E (E/D/) | C2 A,2 | A,2 D2 | (F E) (D E) | E2 (E F) | (G F) (E D) | (C B,) A,2 | C2 B,2 | A,2 G,2 | (A,/B,/) (C/D/) C A, | A, A, G,z |z2z E | C C C A, | D3z |z2z D | C D C B, | A, A, A, A, | E2 (E D) | C4|]
+[V: P4] z A,, C, E, | A, (D,/C,/) B,, A,, | E,2 A,2 | (A,,/B,,/) (C,/D,/) E, E, | A,,2 A,,2 | D,2 (D, A,) | (D C) (B, A,) | E,2 (G, B,) | (E D) (C B,) | A,2 (C, D,) | E,2 E,2 | A,,2 E,2 | E, E, (A,/G,/) (F,/E,/) | (D,/E,/) F, E,z | z4 | z4 |z2z A, | E, E, E, E, | A,2 (A, E,) | (A,,/B,,/A,,/B,,/ C,) D, | E,2 E,2 | A,,4|]
+

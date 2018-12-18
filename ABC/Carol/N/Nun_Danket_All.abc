@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Nun Danket All
+Z: Johann Crüger, 1647
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 19
+K: C
+[V: P1]  [CG] [DG] [CG] [CA] | [A,/A/]B,/ [C3G3] | [C/G/]B,/ [A,/F/]B,/ [CE] [B,D] | [CE] [CD] B, C- | C [CG] [DG] [CG] | [CA] [CA] [C2-G2-] | [CG] [CG] [C/F/]B,/ [CE] | [C/D/]B,/ [A,/E/]^G,/ [A,D] =G,/F,/ | [E,2C2] [G,D] [A,D] | [B,/D/]A,/ [G,E] [CE] [B,-D-] | [B,2D2] D [C/E/]^F/ | [DG] [CA] [B,^F] [B,-G-] | [B,2G2] [B,G] [A,A] | [A,G] [A,F] [^CE] [D-F-] | [D2F2] [C/E/]B,/ [A,D] | [E,/C/]F,/ [G,C] [G,/B,/]F,/ [E,-C-] | [E,3C3]z|]
+[V: P2]  [C,E,] [B,,D,] [C,E,] F, | C,/D,/ [C,3E,3] | [C,E,] [D,F,] [E,/G,/]F,/ G, | [C,G,] G,2 [C,-E,-] | [C,E,] [C,E,] [^A,,D,] [A,,E,] | [A,,F,] F, E,2- | E, [C,/E,/]B,,/ [A,,F,] G, | D, B,, D,/C,/ B,, | C,2 B,, D, | G,/^F,/ E, G, G,- | G,2 [B,,G,] [C,G,] | [B,,G,] [A,,/G,/]^F,/ [B,,/E,/]^D,/ E,- | E,2 [E,/G,/]D,/ [^C,E,] | [B,,/D,/][^C,/E,/] [D,/F,/]G,/ [A,,A,] A,- | A,2 G, F, | [A,,/C,/]D,/ E, D, [C,-E,-] | [C,3E,3]z|]
+[V: P3]  z4 | F,,z3 | z4 |z G,,2 C,,- | C,,z3 |z/ G,,/ F,, C,,2- | C,,z2 G,, | F,,z F,, G,, | C,,2 G,, ^F,, | G,, C,,/D,,/ E,,/^F,,/ G,,- | G,,2z2 |z3 E,,- | E,,2z2 |z3 D,,- | D,,2 E,, F,, |z G,, G,, C,,- | C,,3z|]
+

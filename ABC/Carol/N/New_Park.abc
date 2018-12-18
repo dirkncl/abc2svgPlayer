@@ -1,0 +1,33 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: New_Park
+Z: Copyright (C) 
+L: 1/4
+M: 2/2
+V: P1 name="SOPRANO"
+%%MIDI program 1 52
+V: P2 name="ALTO"
+%%MIDI program 2 52
+V: P3 name="TENOR"
+%%MIDI program 3 52
+V: P4 name="BASS"
+%%MIDI program 4 52
+V: P5 name="Violin"
+%%MIDI program 5 48
+V: P6 name="Bassoon"
+%%MIDI program 6 70
+V: P7 name="Tempo Track"
+%%MIDI program 7 -1
+K: F
+[V: P1]  F G A B | c3 c | d B f d | d2 c2 | B A G/A/B/c/ | d e f f | e2 d2 | c4 | c A- A A | B d- d c | c B B A | A2 G2 | A3 B/c/ | d3z | c3 d/e/ | f3z | f3 c | d2 c B | A2 G2 | F4 | c3 c | d cz2 | e3 e | f cz2 | c d/e/ f e | d c B A | G2 F2 | c4 | c3 c | c c c c | c4 | c c =B B | c4 | e3 d/e/ | f3 e/d/ | c3 B/A/ | d d c c | f f e e | z4 | f3 c | d2 c B | A2 G2 | F4|]
+[V: P2]  C2 F2 | A G F F | F2 F2 | F2 F2 | E3 G | B c/B/ A A | G3 F | E4 | A F- F F | D B- B A | A G G F | F2 E2 | F3 G/A/ | B3z | G2 c B | B2 A3/4-A/8zz/8 | A G F A | F3 G | F2 E2 | F4 | F3 F | F Fz2 | G3 G | A Az2 | z4 | F F F/E/ F | C2 D2 | E4 | G3 G | A Az2 |z2 G G | A A G F | E4 | G A B B | A Az2 | A G F F | F Fz2 | A A G G | z4 | A G F F | F3 G | F2 E2 | F4|]
+[V: P3]  A, B, C D | C3 A, | B, D D B, | B,2 A,2 | G, A, B,/C/D/E/ | F C- C C | C2 =B,2 | C4 | z4 | z4 | z4 | z4 | C2 F F | F3z | E2 F B, | C3z | C3 C | B,2 C D | C2 B,2 | A,4 | A,3 A, | B, A,z2 | C3 C | C Cz2 | z4 | B, C C C | C G, A, =B, | C4 | E3 E | F F E E | F2 E2 | D2 D2 | C4 | C4 | C4 | C4 | B, B, A, A, | C C C C | z4 | C3 A, | B,2 C D | C2 B,2 | A,4|]
+[V: P4]  F,2 F,2 | F, G, A, F, | B,2 B,2 | F,2 F,2 | C,3 C | B, A,/G,/ F, F, | G,2 G,,2 | C,4 | F,2 F,2 | F,2 F,2 | E,2 F,2 | C,2 C,2 | F, E, D, C, | B,,3z | C B, A, G, | F,3z | F, G, A, F, | B, G, A, B, | C2 C,2 | F,4 | F,3 F, | B, F,z2 | C,3 C, | F, F,z2 | A, B,/C/ D C | B, A, G, F, | E,2 D,2 | C,4 | C,3 C, | F, F,z2 |z2 C, C, | F, F, G, G, | C,4 | C,3 C, | F, F,z2 | F, G, A, F, | B, B,z2 | F, F, C C | z4 | F, G, A, F, | B, G, A, B, | C2 C,2 | F,,4|]
+[V: P5]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | c a a3/4b/4c'/a/ | d' c' a/f/c/d/ | e/c/ e e3/4f/4g/e/ | f c f/c/A/B/ | c d/e/ f e | d/e/c/d/ B/c/A/B/ | G g f/e/f/g/ | e4 | e/f/e/f/ g/f/g/e/ | c/f/f/f/ c/e/e/e/ | f/c/c/d/ e/d/c/B/ | A a g =B | c c'- c' c/d/ | e/f/g/a/ b/g/d/e/ | f/e/f/g/ a/b/c'/b/ | a/g/f/e/ d/c/B/A/ | d b c a | A/a/g/f/ e/c/d/e/ | f/g/a/g/ f/e/d/c/ | a/g/f/e/ f c | d/c/B/d/ c/A/d/B/ | A/f/e/f/ G/e/d/e/ | f4|]
+[V: P6]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | F,/A,/C/A,/ F,/G,/A,/F,/ | B, F, F,/A,/F,/D,/ | C,/E,/G,/E,/ C,/D,/E,/C,/ | F, F,, A,/G,/F,/G,/ | A, B,/C/ D C | B,/C/A,/B,/ G,/A,/F,/G,/ | E,/D,/E,/C,/ D,/C,/D,/G,,/ | C,4 | C,/D,/C,/D,/ E,/D,/E,/C,/ | F,/G,/A,/B,/ C/B,/A,/G,/ | F,/G,/A,/B,/ C/C,/D,/E,/ | F,/E,/F,/D,/ G,/_G,/=G,/G,,/ | C, C,, E,, G,, | C,/D,/E,/F,/ G,/A,/B,/C/ | F, F,,z2 | F,/E,/F,/G,/ A,/G,/A,/F,/ | B, B,, F, F,, | F,/G,/A,/B,/ C/D/C/B,/ | A,/B,/C/B,/ A,/G,/F,/E,/ | F,/E,/F,/G,/ A,/G,/A,/F,/ | B,/A,/G,/B,/ A,/F,/B,/G,/ | C2 C,2 | F,,4|]
+[V: P7]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z3z3/4z/4|]
+

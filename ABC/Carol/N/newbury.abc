@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Newbury, CM
+Z: Traditional English melody
+Z: Public domain
+L: 1/4
+M: none
+Q: 1/4=115
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Newbury, CM"
+V: P2_2
+%%MIDI program 2 91
+K: E
+% Extracting voice 1 from part P1
+[V: P1_1]  (E/G/ | | [EB] G/F/ [CE] [EG] | [EF] F/G/ [EA] G/F/ | [E3)G3)] (E/G/ | [EB] B/c/ [EA] F/G/ | A/G/ A/c/ [EB] E/G/ | [EB] c/B/ [EG] [DF] | E3)|]
+% Extracting voice 2 from part P1
+[V: P1_2]  E | | x1  E x2  | x1  E x1  E | x3  E | x1  E x1  E | E D x1  E | x1  E x2  | E3|]
+% Extracting voice 1 from part P2
+[V: P2_1]  E, | | [G,,B,] B,/A,/ [C,G,] [C,G,] | [A,,C] C [F,C] [B,,B,] | | | [F,A,] [F,A,] G, [C,G,] | [G,,E,] E, [B,,B,] B,/A,/ ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  (E, | | x1  B,, x2  | x1  A,/G,/ x2  | | | x2  G, x1  | x1  A,,/G,,/ x1  B,, ||]
+

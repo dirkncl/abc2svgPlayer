@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Now Join We All With Holy Mirth
+Z: J. Stainer
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G/ | A E/ E E/ | F D/ D E/ | F G/ A B/ | (c/B/) A/ G G/ | A B/ G A/ | B c/ (A/B/) c/ | d G/ c B/ | A3/ G G/ | F E/ D A/ | G F/ E c/ | B A/ G c/ | B A/ G G/ | c B/ d c/ | B A/ e d/ | c f/ e d/ | (c3/ d3/) | (c3/ c)|]
+w: Now join we all with ho- ly mirth, To cel- e brate our Sav-_ iour's birth, For He has come from heaven to earth,_ In hum- ble guide and low- ly; The heav'ns the bright- est plan- et lent, That e'er had graced their fir- ma ment, And kings from the far east were sent, To greet this babe so ho-_ ly._
+

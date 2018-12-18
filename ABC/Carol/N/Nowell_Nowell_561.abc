@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Nowell! Nowell!
+Z: Old German
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c | B A G G | A B c d | c B A (B/c/) | A2 G c | B c d d | e (d/c/) d G | A B (c/d/) (e/f/) | d2 c|]
+w: No- well! No- well! Good news I tell, And eke a won- der_ sto- ry: A Vir- gin mild hath borne a_ Child, Je- sus, the King_ of_ glo- ry.
+

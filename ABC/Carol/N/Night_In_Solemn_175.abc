@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Night In Solemn Stillness Hung
+Z: J. G. Smith
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G/ | G G/ (G/A/) G/ | F G/ E _E/ | E E/ B A/ | (G3/ G) G/ | e d/ c G/ | d c/ B G/ | F F/ G c/ | Bz/z B/ | B A/ G G/ | G F/ E E/ | C D/ E/ | G/ B/ Ez/ |"^Chorus"z e/ dz/ |z c/ B G/ | G G/ (G/A/) G/ | E F/ G G/ | G G/ A G/ | [M: 4/4]  G F c c | c2 B2 | E4|]
+w: The night in sol-_ emn still- ness hung O'er pas- tures fair and green,_ When from a- bove the an- gels' song Fell thro' the still se- rene; It came to those whose watch- ful care Kept their flocks in safe- ty there. Re- joice, Re- joice For un- to you_ is peace re- stored To- day is born a Sav- iour, Who is Christ the Lord.
+

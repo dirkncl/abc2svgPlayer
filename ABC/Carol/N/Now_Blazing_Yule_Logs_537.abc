@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Now Blazing Yule Logs
+Z: N. B. Warren
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D/ | D E/ G G/ | A A/ B B/ | B A/ G A/ | B d/ d d/ | d c/ B A/ | G A/ B A/ | G G/ G A/ | F E/ D B/ | B A/ G A/ | A/ d d B/ | c B/ A/ G/ F/ | (F/E/ F/) G3/|]
+w: Now blaz- ing yule logs crown the hearth, Dif- fus ing warmth with light and mirth; Now oft the Christ- mas tale is told Of Christ- mas deeds in days of old. Re- joice, our Sav- iour, He was born On Christ- mas day in the morn-__ ing.
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Noel
+Z: Traditional Air Adapted by Sir Arthur Sullivan
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=92
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  (F/G/) | A G F (G/A/) | B A G c | c A (B/c/) d | c3 (A/B/) | c c A F | B A G (F/G/) | (A/B/) c A G | F3 F | E D E G | F3/ E/ D A | G F E D | C3 C | c B A (G/A/) | B A G (F/G/) | (A/B/) c A G | F3|]
+w: It_ came up- on the_ mid- night clear, That glo- rious song_ of old, From_ an- gels bend- ing near the earth, To_ touch_ their harps of gold; "Peace on the earth, good will to men, From heaven’s all grac- ious King." The world in sol- emn_ still- ness lay, To_ hear_ the an- gels sing.
+[V: P2]  F | F E F (D/F/) | E F E E | F F F F | F3 F | E E F F | F F E F | F C F E | F3 D | ^C D D C | D3/ ^C/ D F | E D C =B, | C3 C | A G ^F (E/F/) | (G/E/) =F E F | (F/G/) A F E | F3|]
+[V: P3]  (A,/B,/) | C C A, (D/C/) | B, C C C | C C B, B, | A,3 C | C G, F, A, | D C C A, | F, F, C B, | A,3 F, | G, A, B, A, | A,3/ G,/ F, =B, | C A, G, F, | E,3 C, | C C C (B,/A,/) | G, C C A, | C3/ C/ C B, | A,3|]
+[V: P4]  F, | F, C, F, (B,/A,/) | G, F, C, B, | A, F, D, B,, | F,3 F, | C, C, D, D, | B,, F, C, F, | D, (A,,/B,,/) C, C, | F,,3 D, | E, F, G, A, | D,3/ D,/ D, D, | E, F, G, G,, | C,3 C, | A,, (B,,/C,/) D, D, | G,, (A,,/B,,/) C, D, | A,, (G,,/F,,/) C, C, | F,,3|]
+

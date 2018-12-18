@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Night Has Closed The Gates
+Z: From "Marot's French Psalter," 1647
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/2
+Q: 1/4=440
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B2 B2 c3/ d/ | e6 | e2 d2 c3/ B/ | c2 B2z2 | B2 B2 c3/ d/ | e6 | B3/ c/ B2 A2 | G6 | B3/ c/ B2 A2 | G6 | c3 B A G | F2 E2z2|]
+w: Night has closed the gates, Fades a- way the twi- light, While all na- ture waits, Watch- ing for the morn, When the Christ was born, Christ the Star of day- light.
+

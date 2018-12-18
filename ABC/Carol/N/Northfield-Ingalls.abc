@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Northfield
+Z: J. Ingalls, 1764-1828
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=240
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  B2 F E | D F B d | c3 c | d d c B | c3z |z2z B | e c c c | d B B B | c A F (G/A/) | B3 d | (f3/ e/ d) (e/c/) | B2 A2 | B4|]
+[V: P2]  D2 D C | B, D F F | F3 F | F F F =E | F3z | z4 |z2z F | F D D F | F2 F2 | D3 F | F3 E | D2 C2 | D4|]
+[V: P3]  F,2 F, F, | F, B, B, B, | A,3 A, | B, B, C C | A,3z | B,z2z | C2z2 |z2z B, | E C A, C | D B, F, B, | (D3/ C/ B,) G, | F,2 F,2 | F,4|]
+[V: P4]  B,,2 B,, A,, | B,, B,, D, B,, | F,3 F, | B,, B, A, G, | F,3 F, | B, G, G, G, | C A, F, F, | B,, B,, B,, D, | F,2 F,2 | B,,3 B,, | B,3 E, | F,2 F,2 | B,,4|]
+

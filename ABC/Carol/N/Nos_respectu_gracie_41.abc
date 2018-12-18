@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Nos respectu gracie
+Z: Melody from the Bohemian Brother's Book, 1566
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=135
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  E2 B | A2 F | G2 F | E3 | B2 c | d2 c | B2 A | B3 | e2 e | d2 B | A2 G | F3 | E2 B | A2 F | G2 F | E3|]
+w: Touch- ing grace, we Prin- ces three First- lings of the Gen- tiles be: Pledge here- by of mer- cy free For the heath- en ye may see.
+

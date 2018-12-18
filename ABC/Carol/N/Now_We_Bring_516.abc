@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Now We Bring Our Christmas Treasures
+Z: Rev. A. Gurney
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F F B B | (A/B/) (c/A/) B F | d d (d/c/) (B/A/) | G c Fz | F F B B (A/B/) (c/ A/) B F | d d (d/c/) (B/A/) | G c F2 | B3/ _A/ G G | (e/d/) (c/B/) (B/=A/) (G/F/) | f3/ e/ d f | (e/d/) (c/B/) =Az | B B e3/ d/ | c c f3/ d/ | d3/ f/ (f/e/) (d/c/) | B A B2|]
+w: Now we bring our Christ-_ mas_ treas- ures, Lov- ing thoughts_ and_ deeds we bring; Child- like hearts we glad-_ ly_ of- fer To the Child,_ the_ child- ren's King. To the child, who, in_ the_ man-_ ger,_ Lay up- on that Christ-_ mas_ morn, When the An- gels came to tell us That the child-_ ren's_ King was born.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Neath The Stars That Shone So Bright
+Z: Matthew Cooke
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B c/ d B/ | e d/ B3/ | A d/ ^c B/ | A G/ F3/ | G G/ G G/ | G G/ G3/ | c A/ B d/ | d ^c/ d3/ | d c/ B A/ | A c/ B G/ | G G/ c B/ | A G/ F3/ | B A/ G c/ | B A/ G3/|]
+w: 'Neath the stars that shone so bright Shep- herds watch'd their flocks by night Sud- den ly, in glor- ious guide, Came an an- gel from the skies, Stood be- side them, did not chide them, Told the tid- ings glad and free, "Christ In- car nate deigns to be."
+

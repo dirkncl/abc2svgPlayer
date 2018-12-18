@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: New Tregoney
+Z: English Traditional From Cornwall
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=252
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  G2 | (B G) (B d) | (c e) (d c) | B2 A2 | G3 A | (B d) (d B) | (G A) (B ^c) | d3||: d | e3/ d/ c e | d3/ c/ Bz | z4 |z2z d | e3/ d/ e c | d2z d | c3/ B/ c A | B2z d | (g d) (e c) | B2 A2 | G3 :|||] Z 
+[V: P2]  D2 | D2 G2 | E2 G2 | G2 F2 | G3 F | G2 G2 | D2 G2 | F3||:z | z4 | z4 | z4 | z4 |z2z E | G3/ F/ G G | E2z D | D3/ G/ B B | B B G A | G2 F2 | G3 :|||] Z 
+[V: P3]  B,2 | (G, B,) (B, G,) | C2 (B, E) | D2 C2 | B,3 D | (D B,) (B, D) | (B, A,) (G, A,) | A,3||:z | z4 |z2z B, | C3/ B,/ A, C | B,3/ A,/ G,z |z2z C | B,3/ A,/ B, G, | A,2z F, | G,3/ B,/ D D | D D C C | D2 C2 | B,3 :|||] Z 
+[V: P4]  G,2 | G,2 G,2 | A,2 (B, C) | D2 D,2 | G,3 D, | G,2 G,2 | (G, F,) E,2 | D,3||: G, | C,3/ B,,/ A,, C, | D,3/ D,/ G,,z | z4 |z2z G, | C3/ B,/ C C, | G,2z B, | A,3/ G,/ A, D, | G,2z G, | G,2 (C A,) | D2 D,2 | [G,,3G,3] :|||] Z 
+

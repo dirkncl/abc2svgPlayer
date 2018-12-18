@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Narodil Se Kristus Pan
+Z: 15th Century Bohemian Carol
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=96
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: G
+[V: P1] z [DG] [D/G/]A/ | [M: 2/4]  [DGB] [^CG^c] [K: G]  | [Fd] [Fd] [K: G]  | [F2d2] [K: G]  | [E^c] [Fd] [K: G]  | [G2e2] [K: G]  | [F2d2] [K: G]  | [Gd] [DGd] [K: G]  | [DFc] [DAc] [K: G]  | [DGB] [EGB] [K: G]  | [F2A2] [K: G]  | [DGB] [EGc] [K: G]  | [DGB] [FA] [K: G]  | [M: 4/4]  G4 [K: G]  | [M: 2/4]  [DGB] [DFA] [K: G]  | [DGB] [Gc] [K: G]  | [Gd] F [K: G]  | G2 [K: G]  | [DGB] [DFA] [K: G]  | [DGB] [Gc] [K: G]  | [Gd] F [K: G]  | G2 [K: G]  | [E2G2] [K: G]  | [G2e2] [K: G]  | [DGd] [EAc] [K: G]  | [DGB] [FA] [K: G]  | G2|]
+[V: P2] z [G,B,] [G,B,] | [M: 2/4]  G, E, [K: G]  | [D,A,] [D,A,] [K: G]  | [D,2A,2] [K: G]  | A, [D,A,] [K: G]  | [^C,2A,2] [K: G]  | [D,2A,2] [K: G]  | [G,B,] B, [K: G]  | A, F, [K: G]  | G, ^C, [K: G]  | D,2 [K: G]  | G, C, [K: G]  | D,2 [K: G]  | [M: 4/4]  [G,4B,4] [K: G]  | [M: 2/4]  G, D, [K: G]  | G, [E,C] [K: G]  | [D,2C2] [K: G]  | [G,2B,2] [K: G]  | G, D, [K: G]  | G, [E,C] [K: G]  | [D,2C2] [K: G]  | [G,2B,2] [K: G]  | [C,2C2] [K: G]  | [C,2C2] [K: G]  | B,, C, [K: G]  | D, C [K: G]  | [G,2B,2]|]
+

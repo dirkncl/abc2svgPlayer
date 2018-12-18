@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Nun Freut Euch, 87.87.887
+Z: Martin Luther, 1535
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Nun Freut Euch,87.87.887"
+V: P2_2
+%%MIDI program 2 91
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | [EG] [GB] A G | | | G- [FG] G3 [DG] | [DG] [GB] [FA] G | | | A2 G3 [EG] | c [GB] [FA] [EG] | | | [B,G] [EA] [^D3B3] G | | A2 [B,G]|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x2  D/C/ G | | | G x1  G3 x1  | x3  G | | | G F x1  | E/F/ x3  | | | x5  B,/E/ | | E D/C/ x1 |]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | [C,E] D/C/ [G,,3B,3] [G,,B,] | | | | [C,E] D/C/ [G,,3B,3] [G,D] | | | | G, [C,E,] [B,,3F,3] [E,G,] | [D,F,] [C,G,] [B,,D] E ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | x1  D, x4  | | | | x1  D, x4  | | | | E,/D,/ x5  | x3  E,/D,/ ||]
+

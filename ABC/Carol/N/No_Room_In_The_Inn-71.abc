@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: No Room At The End
+Z: H. J. Gauntlett
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  e | e2 B B | c2 B B | (c B) B G | F2 E G | (F/E/) c B | B2 A G | (G F) A F | (E2 D) G | G2 F B | B2 =A A | (f e) d c | c2 B B | (B e) d A | (G c) B E | G2 G F | E3|]
+w: No room in the inn for the tra-_ vel lers wea- ry, Though hun-_ gry and thirs- ty and foot-_ sore they be;_ The child- ren of Da- vid, in Da-_ vid's own ci- ty, They come_ to en- rol_ at the Cae- sar's de- cree.
+

@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Nazenza
+Z: Katholisches Kirchgesangbuch, 1619
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  c B G A | B c3 | e d B c | A G3 | G G G A | B c A B | e d c d | d (c3 | c)|]
+[V: P2]  G G G F | F E3 | G ^F G G | ^F G3 | E F E C | D E ^F G | G G G A | G (E3 | E)|]
+[V: P3]  E D C C | D G,3 | C A, G, E | D B,3 | C D C A, | F, G, D D | C B, C C | B, (C3 | C)|]
+[V: P4]  C, G, E, F, | D, C,3 | C, D, E, C, | D, G,3 | C, B,, C, F, | D, C, D, G, | C G, E, F, | G, (C,3 | C,)|]
+

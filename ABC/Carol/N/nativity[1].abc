@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Natavity by Lahee
+Z: Henry Lahee, 1855
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=108
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: Bb
+[V: P1]  [B,D] [B,/D/][B,/D/] [CF] [CF] | [DB] [DB] [D3/d3/] [D/c/] | [DB] [DG] [EG] [Gc] | [F2B2] A F | [EG] [EA] [FB] F | [FG] [EA] [DB] [Fc] | [Fd] [Fd] [Gc] [F/c/]E/ | [D4B4]|]
+[V: P2]  [B,,F,] [B,,/F,/][B,,/F,/] [A,,F,] [F,C] | [G,B,] [G,B,] [_G,3/A,3/] [G,/A,/] | [G,B,] [G,B,] [E,B,] [E,E] | [F,2D2] C [D,B,] | [E,B,] [C,C] [D,F,] [B,,D] | [E,B,] [C,C] [G,B,] [F,A,] | B, [D,B,] [E,B,] [F,A,] | [B,,4B,4]|]
+
