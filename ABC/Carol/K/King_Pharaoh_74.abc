@@ -1,0 +1,32 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: King Pharaoh
+Z: Gypsy Christmas Carol
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2_1 name="Right Hand"
+V: P2_2
+%%MIDI program 2 0
+V: P3_1 name="Left Hand"
+V: P3_2
+%%MIDI program 3 0
+K: E
+[V: P1] z | z4 | z4 | z4 |z2z (B/A/) | G (G/F/) G (G/F/) | (G G/F/) E E | F F B (B/A/) | G2z B | c3/ B/ (A/G/) (F/E/) | (G3/ A/) B e | c3/ A/ F F | E3|]
+w: King_ Pha- raoh_ sat a-_ mus__ ing, A mu- sing all a-_ lone; There came a bless-_ ed_ Sa-_ viour, And all to him un- known.
+% Extracting voice 1 from part P2
+[V: P2_1]  | [EA] [EA] [Ec] c/B/ | | c3/ [EF] [DF] |z B/A/ | G G/F/ G G/F/ | [(E(G] G/)F/ E [B,E] | F B B/A/ | | c [G/c/][G/B/] A/G/ [C/F/]E/ | G3/[C/A/] [B,B] [EBe] | c3/ [EF] [DF] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | x3  E | | E2 A/ x2  | E2 x1  F | E2 E2 | x1  D E x1  | C2 E2 F D/E/ F | | E x1  C x0  | E/E/ D/ x2  | E2 A/ x2  ||]
+% Extracting voice 1 from part P3
+[V: P3_1]  | | | A, F, B, B,/A,/ | | B, B,/A,/ B, B,/A,/ | [(E,(B,] B,/)A,/ [C,G,] [G,,G,] | [A,,2A,2] F, [D,B,] | | | | [A,,A,] [F,,F,] [B,,B,] B,/A,/ ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | | | B,, | | E,2 E,2 | x1  B,, x2  | x2  B,,/C,/ x1  | | | | x3  B,, ||]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Kings Of Orient
+Z: John H. Hopkins, Jr., 1857
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/8
+Q: 1/4=90
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  E ^D/ | E F/ | G F/ | G A/ | B A/ | G E/ | F/ G/ F/ | Ez/ | B A/ | G E/ | F/ G/ F/ | Ez/ | G G/ | A A/ | B B/ | (d/c/) B/ | A/ B/ A/ | G F/ | E3/ |"^Chorus" (F A/) | G G/ | G D/ | G E/ | Gz/ | G G/ | G D/ | G E/ | Gz/ | G G/ | A B/ | c B/ | A B/ | G G/ | G D/ | G E/ | G3/|]
+w: . . . . . . . . We three kings of O- ri ent are Bear- ing gifts, we tra- verse a- far. Field and foun- tain, moor and moun-_ tain, Fol- low ing yon- der star. Oh,_ star of won- der, star of night, Star with ro- yal beau- ty bright, West- ward lead- ing, still pro- ceed ing, Guide us to thy per- fect Light.
+[V: P2]  E ^D/ | E ^D/ | E ^D/ | E F/ | G F/ | E E/ | ^D/ D/ D/ | Ez/ | G F/ | E E/ | ^D/ D/ D/ | Ez/ | E E/ | F F/ | G G/ | (B/ A/) G/ | E/ E/ E/ | E ^D/ | E3/ | D3/ | D D/ | D B,/ | E C/ | Dz/ | D D/ | D B,/ | E C/ | Dz/ | E E/ | F G/ | G G/ | G F/ | D D/ | D B,/ | E C/ | D3/|]
+[V: P3]  G, F,/ | G, A,/ | B,3/ | B,3/ | B, B,/ | B, G,/ | A,/ B,/ A,/ | G,z/ | B, B,/ | B, G,/ | A,/ B,/ A,/ | G,z/ | B, B,/ | D D/ | D D/ | (B,/ C/) D/ | C/ C/ C/ | B, A,/ | G,3/ | (A, C/) | B, B,/ | B, G,/ | G, C/ | B,z/ | B, B,/ | B, G,/ | G, C/ | B,z/ | B, B,/ | D D/ | E D/ | D C/ | B, B,/ | G, G,/ | G, C/ | B,3/|]
+[V: P4]  E,3/ | E,3/ | E,3/ | E,3/ | E, E,/ | E, E,/ | B,, B,,/ | E,z/ | E, E,/ | E, E,/ | B,,/ B,,/ B,,/ | E,z/ | E, E,/ | D, D,/ | G, G,/ | (B,/ A,/) G,/ | A,/ A,/ A,/ | B, B,,/ | E,3/ | D,3/ | G, G,/ | G, G,/ | E, C,/ | G,z/ | G, G,/ | G, G,/ | E, C,/ | G,z/ | E, E,/ | D, D,/ | C, G,/ | D, D,/ | G, G,/ | G, B,,/ | C, C,/ | G,,3/|]
+

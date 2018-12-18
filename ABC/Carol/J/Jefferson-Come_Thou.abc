@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jefferson
+Z: W. Walker, 1835
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  G (G/F/) D (F/G/) | B (A/G/) A G | (G/F/) (D/C/) D (F/G/) | B A G2 | G (G/F/) D (F/G/) | B (A/G/) A G | (G/F/) (D/C/) D (F/G/) | B A G2|]
+w: Come, thou_ long- ex_ pect ed_ Je- sus, Born_ to_ set thy_ peo- ple free; From our_ fears and_ sins re-_ lease us, Let_ us_ find our_ rest in thee.
+[V: P2]  D C D2 | _E C F D | D (D/C/) (D D) | _E C B, C | D C B, A, | D2 F D | _E (D/C/) B, D | G F D2|]
+[V: P3]  B, A, B, A, | G, F, (D/C/) (B,/A,/) | B, A, B, A, | G, F, G, A, | B, A, G, D, | G, B, (D/C/) B, | B, A, F, B, | (_E/D/) C B,2|]
+[V: P4]  G,,2 G, F, | _E, F, D, G, | G,,2 G, F, | _E, F, G,2 | z4 | G,,2 D, G,, | _E, F, B,,2 | C, D, G,2|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Joyful Morn Is Breaking
+Z: Edward J. Hopkins
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F/ | A A/ (A/ G/) A/ | c3/ A F/ | G G/ (G/ F/) G/ | (A3/ A) F/ | A A/ (A/ G/) A/ | c3/ E F/ | G A/ (=B/ A/) B/ | (c3/ c) c/ | c c/ (e/ d/) c/ | c3/ A F/ | d F/ (G/ F/) G/ | (A3/ A) G/ | F F/ (F/ G/) F/ | d3/ F G/ | A A/ (G/ F/) G/ | (F3/ F)|]
+w: The joy- ful morn_ is break- ing, The bright- est morn_ of earth,_ Through all cre- a_ tion wak- ing The joy of Je-_ sus' birth._ His star a- bove_ is glist- ening, Where Je- sus crad-_ led lies,_ And all the earth_ is lis- tening The ca- rol of_ the skies._
+

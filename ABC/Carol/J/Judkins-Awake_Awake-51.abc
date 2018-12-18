@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Judkins
+Z: R. M. McIntosh
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/2
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  E2 | E F E2 A2 | A F E2 e2 | e c c2 A2 | B4 B2 | c B A2 E2 | F A A2 f2 | (e/c/) (A/B/) c2 B2 | A4|]
+w: A- wake, A- wake the sa- cred song To our in- car nate Lord; Let e- very heart, and e- very tongue, A- dore_ th'e-_ ter nal Word.
+[V: P2]  C2 | C D C2 E2 | F D C2 A2 | A E F2 F2 | G4 G2 | A G F2 E2 | D F F2 A2 | A A A2 G2 | A4|]
+[V: P3]  A,2 | A, A, A,2 A,2 | A, A, A,2 C2 | E A, A,2 C2 | E4 E2 | E E C2 A,2 | A, A, D2 D2 | C (C/D/) E2 D2 | C4|]
+[V: P4]  A,,2 | A,, A,, A,,2 C,2 | D, D, A,,2 A,,2 | A, A, F,2 F,2 | E,4 E,2 | A, E, F,2 C,2 | D, D, D,2 D,2 | E, E, E,2 E,2 | A,,4|]
+

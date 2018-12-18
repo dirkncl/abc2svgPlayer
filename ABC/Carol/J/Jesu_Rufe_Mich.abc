@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jesu, Rufe Mich
+Z: Adam Drese
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  A B c B | A2 c d | c B A2 | c d e d | c B c2 | B2 A B | c B A2|]
+w: Je- sus, call Thou me from the world to Thee; Speed me ev- er, stay me nev- er; Je- sus, Call Thou me.
+[V: P2]  C E E E | C2 E F | E E C2 | E A G (F/ G/) | A G (A E) | E2 E D | C E C2|]
+[V: P3]  E, G, A, (A,/ G,/) | E,2 A, A, | A, G, E,2 | A, A, B, (B,/ D/) | E E (C A,) | G,2 A, G, | A, (A,/ G,/) E,2|]
+[V: P4]  A,, E, A,, E, | A,,2 A, D, | E, E, A,,2 | A, F, E, B,, | (C,/ D,/) E, A,,2 | E,2 C, B,, | A,, E, A,,2|]
+

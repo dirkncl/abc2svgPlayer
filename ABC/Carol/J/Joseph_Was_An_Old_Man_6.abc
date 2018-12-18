@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joseph Was An Old Man
+Z: Traditional
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  A G F E | A2 B (c/ d/) | (e/ d/) (c/ B/) A G | F4 | e c A A | B2 E A/ G/ | F D E G | A4|]
+w: Jo- seph was an old man And_ an_ old_ man was he, When he mar- ried Ma- ry In the land of Gal- i lee
+

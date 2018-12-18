@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The King's Birthday
+Z: Richard R. Terry
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=198
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  G/ | c G/ c G/ | (F/E/) D/ C D/ | E ^F/ G c/ | (B/A/) B/ G G/ | A E/ G/z/ G/ | A E/ G3/ | G/A/ B/ c B/ | A B/ G3/ | ^F/G/ A/ B A/ | G ^F/ E E/ | (G3/ G) E/ | (G3/ G) G/ | A c/ c B/ | (c3/ c)|]
+[V: P2]  G/ | E D/ C C/ | C B,/ C B,/ | C C/ B, G/ | ^F F/ G C/ | C C/ D/z/ C/ | C C/ D3/ | D/ D/ D/ C D/ | E ^D/ (E =D/) | C/ C/ E/ E E/ | E ^D/ Ez/ |z B,/ C/z/ E/ | D F/ E G/ | F G/ A G/ | (G3/ G)|]
+[V: P3]  G,/ | G, G,/ E, E,/ | D,/ E,/ F,/ E, G,/ | G, A,/ G,/ B,/ E/ | D/ C/ D/ B, C/ | C C/ B,/z/ C/ | C C/ B,3/ | B,/ A,/ G,/ G, ^F,/ | E, ^F,/ (E, E/) | E/ E/ C/ B, C/ | B, A,/ G,z/ |z G,/ G,/z/ G,/ | G, B,/ C C/ | C C/ F/ E/ D/ | (E3/ E)|]
+[V: P4]  G,/ | C, B,,/ A,, C,/ | G,, G,,/ A,, G,,/ | C,/ B,,/ A,,/ E, A,,/ | D, D,/ G, E,/ | F, A,/ G,/z/ E,/ | F, A,/ G,3/ | F,/ F,/ F,/ E, D,/ | C, B,,/ E,3/ | A,/ G,/ ^F,/ G, A,/ | B, A,/ G,z/ |z F,/ E,/z/ C,/ | B,, D,/ C, E,/ | F, E,/ D, G,,/ | (C,3/ C,)|]
+

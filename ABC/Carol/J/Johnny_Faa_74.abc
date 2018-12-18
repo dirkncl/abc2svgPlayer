@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Johnny Faa
+Z: Traditional English
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=95
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  E/ | F (F/ G/) A3/ G/ | (F/ E/) (F/ A/) B3/ c/ | E3/ F/ (A/ c/) (B/ A/) | F2 Ez/ E/ | E (E/ F/) A (B/ A/) | (F/ E/) (F/ A/) B (A/B/4c/4) | E3/ F/ (A/ B/) (A/ G/) | F2 Ez/ A/ | B (B/ c/) e3/ f/ | (e3/4 c/4) (B3/4 c/4) A3/ c/ | B3/ c/ e d | c2 Bz/ A/ | B (B/ c/) e3/ f/ | (e/ c/) (B/ A/) B (A/B/4c/4) | E3/ F/ (A/ c/) (B/ A/) | F2 E3/|]
+w: Of these four_ let- ters sing_ will_ I In dul- ci me-_ lo_ di a Of M and_ A and_ R_ and_ Y, De__ Vir- gi ne_ Ma-_ ri a. For, Mo- ther_ of th'In- car_ nate_ Word, Vir- gi ni ta tis vi- a, Of wo- men_ none may be_ prefer-_ r'd Be-__ a ta prae_ Ma-_ ri a.
+

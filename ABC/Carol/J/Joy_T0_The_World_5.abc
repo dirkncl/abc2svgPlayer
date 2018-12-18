@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joy To The World, The Lord Is Come
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=149
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  B3/ | c c/ c c/ | d d/ c c/ | B B/ (B/c/) d/ | (c3/ c) e/ | d d/ (c/ B/) c/ | (B3/ B) B/ | B A/ A c/ | c B/ B d/ | d c/ B A/ | (B3/ B) (c/4d/4) | c c/ c c/ | (c3/ c) (d/4e/4) | d d/ d d/ | (d3/ d) d/ | e d/ c B/ | (c/d/) e/ d e/ | f e/ d c/ | B3/|]
+w: Joy to the world! The Lord is come. Let earth re- ceive_ her King,_ Let earth re- ceive_ her King;_ Let ev- ery heart pre- pare Him room; And heav’n and na- ture sing,_ And_ heav’n and na- ture sing,_ And_ heav’n and na- ture sing._ Let ev- ery heart pre- pare_ Him room; And heav’n and na- ture sing.
+[V: P2]  F3/ | F F/ F F/ | F F/ F F/ | F F/ D D/ | (F3/ F) E/ | F D/ F E/ | (D3/ D) F/ | F F/ F E/ | E D/ F F/ | F E/ D C/ | (D3/ D) D/ | F C/ F C/ | A3/ F3/ | (F3/ F) B,/ | D F/ B F/ | B,z/zz/ |zz/z B/ | B c/ F E/ | D3/|]
+[V: P3]  D3/ | A, A,/ A, A,/ | B, B,/ A, A,/ | B, B,/ F, F,/ | (A,3/ A,) G,/ | B, B,/ A, A,/ | (F,3/ F,) D/ | D C/ C A,/ | A, B,/ B, B,/ | B, C/ F E/ | D3/ B,3/ | (A,3/ A,) A,/ | A, C/ F F,/ | B, B,/ B, B,/ | (F3/ F) B,/ | B, A,/ G, F,/ | G, A,/ B, B,/ | F G/ B, A,/ | B,3/|]
+[V: P4]  B,,3/ | F, F,/ F, F,/ | B, B,/ F, F,/ | D, D,/ B,, B,,/ | (F,3/ F,) C,/ | F, F,/ F,, F,,/ | (B,,3/ B,,) B,,/ | F, F,/ F, F,/ | B,, B,,/ D, B,,/ | F, F,/ F,, F,,/ | B,,3/ B,,3/ | (F,3/ F,) F,/ | F,3/ A,3/ | (B,3 | B,3/ B,) F,/ | G, F,/ E, D,/ | E, F,/ B, G,/ | D, E,/ F, F,/ | B,,3/|]
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joseph And The Angel
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: D
+[V: P1]  F2 | d B ^A c | B Fz B | B3/ A/ G B | F2z d | (e3/ d/) c B | (A d)z F | E G (F E) | F2z F | F B ^G c | c Az ^G | A c B e | e2 c2 | d A B F | G2 G B | B d c ^A | B2|]
+w: As Jo- seph was a- walk ing He heard an an- gel sing: This night_ shall be born_ Our hea- ven ly_ king. He nei- ther shall in hou- sen Be born, nor yet in hall, Nor bed, nor down- y pil- low, But in an ox- es stall.
+[V: P2]  F2 | F F F F | D Dz F | G3/ F/ E G | F2z F | E A G F | (E D)z D | E E D C | C2z F | D F F ^E | F Fz ^E | F A A ^G | A2 A2 | A F F F | (F E) D G | F F F F | F2|]
+[V: P3]  D2 | D D (C/B,/) ^A, | B, B,z D | B,3/ A,/ B,3/ C/ | D2z B, | (B, A,) A, A, | (A, F,)z B, | G,3/ B,/ (A, B,) | ^A,2z A, | B, F, ^G,3/ B,/ | A, Cz C | C3/ ^D/ E3/ B,/ | C2 E2 | D D D D | B,2 B,3/ C/ | D B, ^A, C | ^D2|]
+[V: P4]  B,2 | (B,,/C,/) (D,/E,/) F, F, | B,, B,,z B, | E,3/ F,/ G,3/ A,/ | B,2z B, | (G, F,) E, D, | (C, B,,)z B,, | E, E, (F, G,) | F,2z F, | B,, D, C, C, | F, F,z C, | F, F, E, E, | A,2 G,2 | F, (D,/C,/) B,, B, | (E,3/ F,/) G, G, | F, F, F, F, | B,,2|]
+

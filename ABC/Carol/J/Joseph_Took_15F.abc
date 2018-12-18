@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joseph Took Mary All On His Right Knee
+Z: American Traditional
+Z: Copyright © 2006 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: G
+[V: P1]  d d2 e | B G2 (G/ B/) | d d2 (e/ B/) | [M: 3/4]  d2 (B/ A/) | G3/ B/ A/ G/ | [M: 4/4]  E D2 G/ A/ | B (B3/ G/) A | G3|]
+w: Jo- seph took Ma- ry all_ on his right_ knee Tell_ me, my pret- ty ba- by, When your birth- day_ shall be.
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jubilate
+Z: H. W. Parker, 1894
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 52
+V: P2_1 name="Staff-1"
+V: P2_2
+%%MIDI program 2 52
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  G | c3/ G/ E C | | [DF] (E/F/) [DG] [B,D] ||| E E3/4 E/4 ^F ^G | A B c A | d3 [D^F] ||| G | [B,3/D3/] [B,/E/] [B,F] G | | | [G3/B3/] [^F/A/] G|| | | | [Ge]z/ E/ E F | G2 [F2d2] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  G | c3/ G/ E C | | x1  D x2  ||| E E3/4 E/4 ^F ^G | A B c A | (G2 ^F) x1  ||| G | x3  G | | | x2  G|| | | | x1  E/ E F | G2 x2  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  G, | C3/ G,/ E, C, | | ||| E, E,3/4 E,/4 ^F, ^G, | A, B, C A, | ||| | | G,3/ [F,/G,/] [E,G,] [A,,G,] | ||| | | | [G,C]z/ E,/ E, F, | G,2 [G,2B,2] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  G, | C3/ G,/ E, C, | | ||| E, E,3/4 E,/4 ^F, ^G, | A, B, C A, | ||| | | G,3/ x2  | ||| | | | x1  E,/ E, F, | G,2 x2  ||]
+

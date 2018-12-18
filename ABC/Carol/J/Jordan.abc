@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jordan
+Z: Joseph Barnby, 1872
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Jordan"
+%%MIDI program 2 91
+V: P3 name="Jordan-2"
+%%MIDI program 3 91
+K: C
+[V: P1]  [CE] [CG] [CA] [CG] | [B,/E/]D/ C [B,D] [CE] | [DG] E [C^F] [B,G] | [C/A/][D/B/] [EA] [D/A/]C/ [B,-G-] | [B,G] [DG] [CE] [CA] | [DG] [B,/E/]D/ C [G,D] | E [C^F] [B,G] [DA] | [DB] [C/c/][D/B/] [EA] [D/A/]C/ | [B,2G2] G [Ec] | c B c/B/ [CA] | A G C [CF] | [B,F] E [E/^F/]G/ [EA] | [^D/G/]^F/ [EG] [B,G] [Cc] | [Dc] [DB] [E/c/][D/B/] [CA] | [DA] [DA] C [CF] | [^CE] D [A,=C] [G,B,] | C [B,2D2] C- | C3z|]
+[V: P2]  G, E, F, D, | G,/F,/ E, G, G, | G, G, A, [E,G,] | [D,G,] G, [D,^F,] G,- | G, G, G, F, | F,/D,/ G,/F,/ E, G, | G, A, [E,G,] [D,^F,] | G,/^F,/ [E,/G,/]D,/ G, [D,F,] | G,2 G, [A,C] | C [E,B,] [G,/C/]B,/ [G,A,] | [F,A,] [E,G,] [E,G,] [D,A,] | G, G, C/B,/ A, | A, [E,^G,] [D,F,=G,] [E,C] | [E,C] [G,B,] [^G,/C/]B,/ A,/=G,/ | [D,F,A,] [F,G,] E, F, | G, [D,F,] E, D, | E, F,2 E,- | E,3z|]
+[V: P3]  C, C, F,, G,, | G,, A,, G,, C, | B,, C, A,,z |z C,z G,,- | G,, B,, C, A,, | B,, G,, A,, B,, | C, A,,z2 |z2 C,z |z2 G,, A,, | C,z E,, F,, | A,, C,z2 | G,, C,/B,,/ A,,/G,,/ ^G,, | B,,z2 C, | A,, G,, E,, A,, |z/ C,/ B,, C, A,, | A,,z F,, G,,- | G,, G,,2 C,- | C,3z|]
+

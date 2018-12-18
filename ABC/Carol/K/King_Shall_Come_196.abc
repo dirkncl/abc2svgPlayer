@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Morning Song
+Z: Anonymous
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  C | F G A (B/ A/) | G (F/ E/) C C | F G A B | c3 (A/ B/) | c (d/ c/) B A | G (F/ E/) C C | F G (A/ F/) G | F3|]
+w: The King shall come when_ morn- ing_ dawns, And light tri- um phant breaks; When_ beau- ty_ gilds the east- ern_ hills, And life to joy_ a- wakes.
+

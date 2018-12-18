@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Komm, O Komm, Du Geist Des Lebens
+Z: Meiningen Gesangbuch, 1693
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 52
+V: P2_1 name="Staff-1"
+V: P2_2
+%%MIDI program 2 52
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1] ||: | [FA] [Dd] [EG] (A/G/) | [DF] D [CE] [DF] | | :|| | | | c [GB] [GA] [FA] ||]
+% Extracting voice 2 from part P1
+[V: P1_2] ||: | x3  ^C | x1  D x2  | | :|| | | | (E/F/) x3  ||]
+% Extracting voice 1 from part P2
+[V: P2_1] ||: G, [E,B,] | | | | :|| G, [E,B,] | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2] ||: G, | | | | :|| G, | | | ||]
+

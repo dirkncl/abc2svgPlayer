@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Descend From Heav'n, Ye Angels, Come
+Z: From Katharina Tirs' Hymnarius
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=135
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B | (B A) G | d2 B | (G A) B | G3 | d3 | B3 | d3 | B3 | G A B | d c B | G2 F | G2 d | d2 c | B2 e | (d c) B | A2 d | (G A) B | c2 G | G2 F | G2 c | (c B) A | (B c) d | B2 A | G2|]
+w: Des- cend_ from heav'n, ye An-_ gels, come: E- ya! E- ya! Lul- la by, lul- la by, lul- la by; With song, ding- dong, with pipe_ and drum; Al- lé_ lu yá, Al- lé lu yá, Sing ye_ of Je-_ sus, Ma- ry's Son.
+

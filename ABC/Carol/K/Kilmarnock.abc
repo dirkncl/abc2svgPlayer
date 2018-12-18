@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Kilmarnock
+Z: Neil Dougall (1776-1862)
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Kilmarnock, CM"
+%%MIDI program 2 19
+V: P3 name="Kilmarnock, CM-2"
+%%MIDI program 3 19
+K: C
+[V: P1] z3 [G,C] | [CE] [CG] [CA] [C/G/]E/ | [CE] [B,D] C [CA] | [CG] [C/c/]A/ [CG] C/D/ | [CE] [B,2D2] [CG] | [FA] [E/G/]D/ [Cc] [B,/E/]D/ | C [B,D] [CE] [CA] | [CG] C/D/ [CE] [B,D] | C3z|]
+[V: P2] z3 E, | G, [E,G,] F, [E,G,] | G,z/ F,/ E, F, | [E,G,] E,/F,/ E, [^F,C] | G,3 G, | C B, E,/^F,/ [E,^G,] | A, [D,F,] G, F, | G, [A,C] G, G,/F,/ | E,3z|]
+[V: P3] z3 C, | C,z2z/ C,/ |z G,, C,z |z C, C, A,, | G,,3 E,, | F,, G,, C,z | A,,z C, F,, | E,, F,, G,, G,, | C,3z|]
+

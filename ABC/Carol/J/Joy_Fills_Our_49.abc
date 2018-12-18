@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joy Fills Our Inmost Heart Today
+Z: Henry Gadsby
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F | G3/ F/ B d | c3/ B/ A G | F3/ F/ G D | F3 F | D3/ F/ B d | c3/ B/ A G | F3/ F/ G3/ F/ | F3 F | G D F B | B3/ A/ A G | F3/ G/ A B | c3 A | G3/ A/ B c | d d e e | f3/ d/ B B | B2 A2 | B3|]
+w: Joy fills our in- most hearts to- day! The Roy- al Child is born: And An- gel hosts in glad ar- ray His ad- vent keep this morn. The Ho- ly One is Ma- ry's Son, God comes on earth to dwell, With joy pro- claim His glo- rious Name, Em- man u el, Em- man u el.
+

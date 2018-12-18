@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jesus, Joy of Man's Desiring
+Z: Johann Schopp, arranged by Johann Bach, 1723
+Z: Public  domain
+L: 1/4
+M: 3/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="Joy of Man's Desiring"
+V: P2_2
+%%MIDI program 2 -1
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | c2 [Ec] | B2 A | | | c2 [DA] | G/B/ A [EG] | | | c2 [Ec] | B2 A | | | c2 [DA] | G/B/ A [EG] | | | | A2 [^FA] | | | d2 [Fd] | c2 [Fc] | | | | B [F2A2] | | | c2 [DA] | G/B/ A [EG] ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | G F x1  | F C | | | F C x1  | D E/D/ x1  | | | G F x1  | F C | | | F C x1  | D E/D/ x1  | | | | G2 x1  | | | F B x1  | _E G x1  | | | | F/E/ x2  | | | F C x1  | D E/D/ x1  ||]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  C2 [D,D] | G,2 [C,A,] | | | C2 [D,D] | | B,/G,/ C/A,/ [C,B,] | | C2 [D,D] | G,2 [C,A,] | | | C2 [D,D] | | B,/A,/ C/A,/ [C,B,] | | C2 [A,,C] | D2 _E | | | | | G,2 [F,A,] | | | | | | C2 [D,D] | | B,/G,/ C/A,/ [C,B,] ||]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  (F, E, x1  | E, D, x1  | | | (F, E, x1  | | B,, C, x1  | | (F, E, x1  | E, D, x1  | | | (F, E, x1  | | B,, C, x1  | | (C, B,, x1  | G,, G,/F,/ _E,/D,/ | | | | | _E, D, x1  | | | | | | (F, E, x1  | | B,, C, x1  ||]|] Z 
+

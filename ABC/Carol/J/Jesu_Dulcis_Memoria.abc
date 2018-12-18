@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jesu Dulcis Memoria
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=75
+V: P1 name="Staff-2"
+%%MIDI program 1 19
+V: P2 name="Staff-3"
+%%MIDI program 2 19
+K: C
+[V: P1]  A/ A/ A A/ D/F/ E/D/ |z/ A/ [C/A/]B/ G/A/ [D/c/]B/ | [CA]z/ [D/F/A/] B/c/ [D/F/d/]c/ | [E/A/]c/ [E/B/]A/ G A/[C/E/A/] | B/G/ E/[B,/E/G/] A/[C/E/A/]z|]
+[V: P2] z/ [D,/-F,/-A,/-] [D,3/F,3/A,3/] [D,/-G,/-A,/-] [D,G,A,] |z [A,,2A,2] [A,,G,] | [A,,E,]z/ D,/- D, D, | [C,A,] [E,2G,2]z/ C,/- | C,3/ E,/- E,/A,/- A,|]
+

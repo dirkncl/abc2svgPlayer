@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Knowing Not The Great Creator
+Z: Harmonized by R. F. S.
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  A/ B/ | c c d/ c/ | B B c/ B/ | A B A/ G/ | Az A/ B/ | c c d/ c/ | B B c/ B/ | A B A/ G/ | Az G/ A/ | B B F/ G/ | A A c/ =d/ | e c =B/ c/ | =dz e/ d/ | c c c/ B/ | (B/ A/) A c/ c/ | d/ B/ A G | Az|]
+w: Know- ing not the great Cre- a tor Lay the world in deep- est night, When there broke on Eas- tern moun- tains Won- drou sly a gold- en light And the grace- star led the Ma- gi To the low- ly cat- tle stall Whence the glo- ry dai- ly wid-_ ening Brought Re- demp tion to us all.
+

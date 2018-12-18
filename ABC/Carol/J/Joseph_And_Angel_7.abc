@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joseph And The Angel
+Z: R. R. Terry
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: A
+[V: P1]  c/ | e c/ d B/ | (A F/) E E/ | F A/ A G/ | (A3/ A) c/ | (e c/) d B/ | (A F/ E) E/ | F A/ (A G/) | (A3/ A) c/ | B e/ B A/ | (G A/ B) d/ | c d/ c B/ | (e3/ e) E/ | F G/ A B/ | c e/ d c/ | B A/ c B/ | (A F/ E) F/ | (A3/ A) F/ | (A3/ A)|]
+w: As Jos- eph was a- walk_ ing He heard an An- gel sing:_ "This night_ there shall be__ born Our Heav'n- ly_ King;_ He nei- ther shall be born __ In hou- sen nor in hall,_ Nor in the place of Pa- ra dise, But in an ox- 's stall."__ No- el._ No- el._
+[V: P2]  A/ | B A/ A E/ | (E D/) E E/ | D E/ F E/ | (E F/ E) A/ | (B A/) A E/ | (E D/ E) E/ | D E/ (F E/) | (C D/ E) E/ | E E/ ^D D/ | (E F/) G B/ | A A/ G G/ | (A G/ A) E/ | D E/ E E/ | E =G/ F F/ | F F/ A G/ | (E D/ E) D/ | (C D/ C) D/ | (C3/ C)|]
+[V: P3]  E/ | E E/ D D/ | (C D/) C A,/ | A, A,/ (D/C/) B,/ | (C D/ C) E/ | E3/ D D/ | (C D/ C) A,/ | A, A,/ D/C/B,/ | (A, B,/ C) A,/ | B, B,/ B, B,/ | (B, B,/) B, E/ | E D/ E E/ | (E D/ C) A,/ | A, B,/ A, G,/ | A, C/ B, ^A,/ | B, C/ E D/ | (C D/ C) A,/ | (A, F,/ E,) D,/ | (E,3/ E,)|]
+[V: P4]  A,/ | G, A,/ F, G,/ | A,3/ A,, C,/ | D, C,/ B,, E,/ | (A,,3/ A,,) A,/ | (G, A,/) F, G,/ | A,3/ (A,, C,/) | D, C,/ (B,, E,/) | (A,,3/ A,,) A,/ | G, G,/ F, B,,/ | (E, E,/) E, G,/ | A, F,/ E, D/ | (C B,/ A,) C,/ | D, D,/ C, B,,/ | A,, ^A,,/ B,, C,/ | D, F,/ E, E,/ | (A,3/ A,) D,/ | (A,,3/ A,,) D,/ | (A,,3/ A,,)|]
+

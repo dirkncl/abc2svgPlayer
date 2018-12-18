@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jesus, Jesus Rest Your Head
+Z: Collected by John Jacob Niles
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="soprano or pipe"
+%%MIDI program 1 78
+V: P2 name="alto or string line"
+%%MIDI program 2 24
+V: P3 name="ten or bass line"
+%%MIDI program 3 24
+K: F
+[V: P1]  f f f g | a b c'2 | f f f g | a b c'2 | d' d' c' f | b b a2 | d' d' c' c' | f'/e'/ d' c'2 | f f f g | a b c'2 | f f f a | g c f2 | d' d' d' c' | f' c' c' b | a a g g | a a g g | f f f g | a b c'2 | f f f a | g c f2 | d' d' d' c' | f' c' c' b | a a g g | a a g g | f f f g | a b c'2 | f f f a | g c f2|]
+w: Je- sus, Je- sus, rest your head. You have got a man- ger bed. All the e- vil folk on earth. Sleep in fea- thers at their bir- th. Je- sus, Je- sus, rest your head. You have got a man- ger bed. Have you heard a- bout our Je- sus? Have you heard a- bout his fate? How his mo- ther wen to the stable? On that Christ- mas Eve so late? Winds were blow- ing, cows were low- ing, Stars were glow- ing, glow- ing, glow- ing. Je- sus, Je- sus rest your head. You have got a man- ger bed.
+[V: P2]  c d c c | A B A G | c d c c | A B F E | B,/C/ D/E/ F2 | B,/C/ D/E/ F2 | B, B, A, A, | G, =B, C2 | c d c c | A B A G | c d c A | B c F2 | B,/C/ D/E/ F F | F/G/ A/B/ c2 | F/G/ A/B/ c2 | c4 | c B c c | A B A G | c c c A | B c F2 | B,/C/ D/E/ F F | F/G/ A/B/ c2 | F/G/ A/B/ c2 | c4 | c B c c | A B A G | c/d/ c/B/ c/B/ A/F/ | B c F2|]
+[V: P3]  A, B, A, E, | F, D, C,2 | A, B, A, E, | F, D, C,2 | B,, B,, F,2 | B,, B,, F,2 | B,,/C,/ D,/E,/ F, F, | =B,, B,, C,2 | A, B, A, E, | F, D, C,2 | A, B, A, F, | C C, F,2 | B, B, F,/G,/ A,/B,/ | C B, C,2 | F,2 C C, | F,/G,/ A,/=B,/ C _B, | A, G, A, E, | F, D, C,2 | A,/B,/ A,/G,/ A, F, | C C, F,2 | B, B, F,/G,/ A,/B,/ | C B, C,2 | F,2 C C, | F,/G,/ A,/=B,/ C _B, | A, G, A, E, | F, D, C,2 | A,/B,/ A,/G,/ A, F, | C C, F,2|]
+

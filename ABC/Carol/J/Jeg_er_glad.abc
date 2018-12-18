@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jeg_er_glad
+L: 1/4
+M: 3/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 48
+V: P3 name="Staff-3"
+%%MIDI program 3 100
+V: P4 name="Staff-4"
+%%MIDI program 4 24
+V: P5 name="Staff-5"
+%%MIDI program 5 24
+V: P6 name="Tempo Track"
+%%MIDI program 6 -1
+K: C
+[V: P1] z2 F, | ^A,,3 | F,2- F,3/4F,/4 | ^A,,3 | ^A, A, F, | ^A,,2- A,,3/4C,/4 | D,2 ^D, | F,2- F,3/4C,/4 | F,,3 | C,3 | F,3 | ^A,,2- A,,3/4^F,/4 | G, F,3/ F,,/ | ^A,,3 | [C,D,]z2 | ^D,2 =D, | C,2 ^D, | F,2- F,3/4C,/4 | F,,3 | ^A,,2- A,,3/4F,/4 | ^A,2 F, | ^A,,2- A,,3/4C,/4 | D,2 ^D, | F,2- F,3/4C,/4 | F,,3 | C,3 | ^D,,3 | ^A,,3 | F, F,,2 | ^A,,3 | [C,D,]z2 | ^D,2 =D, | C,2 ^D, | F,3 | F,,3 | ^A,,3- | ^A,,2z|]
+[V: P2] z2 [^DG^A] | [D2-F2-^A2-] [D3/4F3/4A3/4][D/4F/4A/4] | [CA] G A | [DF^A] ^D2- | ^D2 D3/4=D/4 | [C3F3^A3] | [F3^A3d3] | [C3F3A3] | [Ac] F2 | [^D2G2] [^A,G^A] |z/4 [C3/4F3/4A3/4] G/4[D3/4^A3/4] [C=Ac] | [D3F3^A3] |z [G^A^d] [FA=d] | [D3F3^A3] | [F2^A2d2]z | [D2A2] G | [^A,^D] Gz3/4 [G/4c/4] | [^A,2^D2^A2] [A,DGA] | [A,3/^D3/A3/] G/ A | [D3F3^A3] | [G^A^d] [FA=d] [^DGc] | [D/4F/4^A/4]C3/4- C2 | [D3F3^A3] | [C/4F/4]A3/4- A3/ A/4G/4 | [C3F3] | [^D3/-c3/-] [D/4c/4][F/4-=d/4-] [Fd] | [^A,2^D2=A2] [Dc] | [D3-F3-] | [D/F/]^A,/ C/D/ F | [D3F3^A3] | [F2_G2^A2d2] [^FA] | [D2F2] [G^A] | [^A,2^D2^d2] [A,DGc] | [^A,3D3G3^A3] | [A,2-^D2-A2-] [A,3/4D3/4A3/4]A/4 | [D3-F3-^A3-] | [D2F2^A2]z|]
+[V: P3] z3 |z3 |z3 |z3 |z3/z/4 F/4- F | ^A2 A | d3/ c/4^A/4- A | A2 ^A | c3/- c/4F/4- F | c3/- c/4d/4- d | ^d3/- d/4=d/4 c- | c/4d3/4- d2 | dz3/4 F/4- F | ^A2 A | d3/ c/ ^A | A3/- A/4G/4- G | ^d2 c | ^A2 A | A3/ G/ A | ^A3 |z2 F | ^A2 A | d3/ c/ ^A | A2 ^A | cz F | c3/- c/4d/4- d | [G3/^d3/] [F/=d/] [^Dc] | d3 |z3/z/4 F/4- F | ^A2 A | d3/ c/ ^A | A2 G | ^d2 c | ^A2 A | A G A | ^A3- | ^A2z|]
+[V: P4] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z ^A2- | ^A3 |z/ A/- A2 | A2z |z3 |z3 | ^A2z | ^A3 |z2 ^A- | ^A A d | c2 ^A- | ^Az2 |z3 |z2 A | ^A2z | [^A2^a2]z|]
+[V: P5] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | C3/8D/-D/8 D2 | D3 |z/4 F3/4 F2- | F2z | G/^D/ ^A, D | ^A, [FG] [^DG] | C D F- | F3 | C/D/ F2 | ^F3 | F2 G | [FG] F3/4F/4 ^D | D2 F/D/ | C F2 | D2z | [D2F2]z|]
+[V: P6] z3|]
+

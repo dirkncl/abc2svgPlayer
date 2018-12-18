@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jesu Redemptor Omnium, LM
+Z: German church melody, 1625
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Jesu Redemptor Omnium LM"
+V: P2_2
+%%MIDI program 2 91
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | [DB] A/G/ [D2A2] | | [EG] F/E/ D2) | | | d [F/d/] [F/c/] B3/ [z/E] c/ | [DB] A [B,4G4]|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x1  ^C x2  | | x1  ^C D2 | | | D/E/ x1  G/F/ x1  | x1  D/C/) x4 |]
+% Extracting voice 1 from part P2
+[V: P2_1]  | G, [E,G,] [D,2F,2] | | [G,,B,] A,/G,/ [D,2)F,2)] | | G, [D,/A,/][B,,/B,/] [D,2F,2] | [B,,G,] [D,/A,/] [D,/A,/] G, [C,G,] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | G, x3  | | x1  A,, x2  | | G, x3  | x2  E,/D,/ x1  ||]
+

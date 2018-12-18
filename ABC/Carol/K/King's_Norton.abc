@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: King's Norton
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=96
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1]  [Ec] [FA] F/B/ | ^G E2 | A3/4B/4 [Fc] [Ad] | [^G3e3] | [Ge] [A/f/]e/ [E/d/]c/ | [G2c2] [GB] | [E2G2c2] [Gce] | [Gdg] c/d/ [Gdf] | [cf] c/d/ [Ae] | [E3/4d3/4]c/4 B/c/ B/A/ | [E2^G2] [EBg] | [E3/4c3/4a3/4]g/4 [Ff] [A/f/]e/ | [E2c2] [E/B/]A/ | A3|]
+[V: P2]  [A,C] [F,C] [D,D] | [E,B,] [E,2^G,2] | [F,A,C]z [F,A,] | [E,3/B,3/] F,/ E,/D,/ | [C,C] [F,C] A, | [G,2D2] [G,D] | C,2 C | B,2 B, | [A,2C2] [A,C] | ^G, A, [F,A,] | [E,2B,2] E, | A,,2 [C,C] | [E,2A,2] [E,/^G,/]A,/ | [A,,3A,3C3]|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joyously, Joyously, Silvery Clear
+Z: A. C.White
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D3/4 E/4 F/ G/ B/ c/ | d/ B/ e/ d3/ | A3/4 B/4 c/ d/ B/ G/ | A B/ A3/ | D3/4 E/4 F/ G/ B/ c/ | d/ B/ e/ d3/ | G/ d/ B/ A3/4 B/4 c/ | G3/4 A/4 F/ G3/ | [M: 4/4]  G F/ G/ B F/ B/ | ^d d/ c/ B2 | B =c/ B/ B/ A E/ | F G/ A/ B2 | B A/ B/ c G/ c/ | d c/ d/ e2 | g f/ e/ d/ B G/ | e d/ F/ G2|]
+w: Joy- ous ly, joy- ous ly, sil- ver y clear, Christ- mas bells fall on each list'n- ing ear, Gai- ly they e- cho o'er land and o'er sea, Mu- si cal peals full of mus- i cal glee. E- choes of strains sung by An- gels on high, E- choes re- e choed be- yond the blue sky, E- choes of strains sung by An- gels on high, E- choes re- e choed be- yond the blue sky.
+

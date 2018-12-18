@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: King Herod And The Cock
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  D | G G B c | B G F D | G G B c | B3 (B/ c/) | d3/ c/ d D | B2 c (B/ c/) | d d (c/ B/) A | G2|]
+w: There was a star in Da- vid's land, In Da- vid's land ap- peared; And_ in King He- rod's cham- ber So_ bright it did_ shine there.
+

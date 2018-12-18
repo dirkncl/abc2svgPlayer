@@ -1,0 +1,21 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Sinterklaas kapoentj
+Z: Traditional Dutch
+L: 1/4
+M: 6/8
+V: P1 name="piano"
+%%MIDI program 1 -1
+V: P2 name="piano-2"
+%%MIDI program 2 -1
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: C
+[V: P1]  [e/g/]E/[E/e/g/] [f/a/]F/[F/f/a/] | [e/g/]E/E/ [c/e/]E/E/ | [e/g/]E/[E/e/g/] [f/a/]F/[F/f/a/] | [e/g/]E/E/ [G/c/e/]E/E/4G/4 | [B/f/][D/F/][D/F/B/f/] [B/f/][D/F/][D/F/G/d/] | [B/f/][D/F/][D/F/] [B/f/][D/F/][D/F/] | [B/d/a/][D/F/][D/F/B/g/] [B/f/][D/F/][D/F/B/e/] | [FGd] D/ [E3/-G3/-c3/-] | [E3G3c3]|]
+[V: P2]  G,/C/C/ A,/C/C/ | G,/C/C/ C,/C/C/ | G,/C/C/ A,/C/C/ | G,/C/C/ C,/C/C/ | G,3/8zz/8 D,/z | G,/z D,/z | G,/z G,/z | G,/ B, [C,3/-G,3/-C3/-] | [C,3G,3C3]|]
+[V: P3] z3|]
+

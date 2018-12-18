@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joseph Was A Young Man
+Z: American Traditional
+Z: Copyright © 2006 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: G
+[V: P1]  G d2 e/ d/ | B G2 (B/ d/) | [M: 3/4]  d G e | d2 B/ A/ | G3/ B/ A/ G/ | (E/ D/) D (D/ E/) | G D G/ A/ | B2 B/ A/ | G3/ B/ A/ G/ | (E/ D/) D G | B G B/ A/ | G2|]
+w: Jo- seph was a young man, How_ young he may be; When he court- ed Vir- gin Ma-_ ry, The_ Queen of Ga- li lee, When he court- ed Vir- gin Ma-_ ry, The Queen of Ga- li lee.
+

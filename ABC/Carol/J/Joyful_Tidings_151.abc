@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joyful Tidings Of A Saviour
+Z: Rev. S. M. Nourse
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c/ B/ | A A A/ B/ | c2 c | E2 F | G2 C/ C/ | F F A | G G A | c2 A | G2 c/ B/ | A A A | d2 c | B3 | e2 d | c2 B | A2 f | e2 d | c2 B | A2 G | F2 f | e2 d | c2 B | A2 G | F3 | C3 | C C C C2"^Refrain" c/ B/ | A A A/ B/ | c2 c | E2 F | G2 C/ C/ | F F A | G2 A/ A/ | c2 A | G2 c/ B/ | A A A/ B/ | c2 c | E2 F | G2 C/ C/ | F F A | G G A | G2 G | F2|]
+w: Joy- ful tid- ings of a Sa- viour Came this day To the world, as in dark- ness and sin it lay; An- gel vo- ices sang soft and clear Through the mid- night air. The bells send forth their peace- ful strain, And tell that joy- ful news a- gain, Far o- ver the snow. Sweet- ly sing, then with the An- gels, Soft and clear; Let your voi- ces be borne on the chill night air; Ca- rol soft- ly, ca- rol sweet- ly, Peace pro- claim Through the birth of a Sav- iour in Beth- le hem.
+

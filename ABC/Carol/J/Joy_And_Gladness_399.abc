@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joy And Gladness
+Z: G. B. Lissant
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  F3/4 G/4 A B | A3/4 d/4 c B | (A/F/) D E | F3 | F3/4 B/4 d c | B/ F/ ^G A | E c B | A3 | A3/4 B/4 A/ c/ f/ e/ | (e/d/) A2 | B3/4 =c/4 B/ F/ G/ A/ | (A/G/) (c B) | A/ B/4 c/ g/ f/ e/ | (d c) B | A B (c/e/) | d3|]
+w: Joy and glad- ness! Joy and glad- ness! O_ hap- py day! Ev’- ry thought of sin and sad- ness Chase, chase a- way. Heard ye not the an- gels tel-_ ling, Christ the Lord of might ex- cel_ ling_ On the earth with man is dwel-_ ling, Clad in our_ clay?
+

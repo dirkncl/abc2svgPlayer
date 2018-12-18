@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Denio (Joanna), 11.11.11.11
+Z: Welsh melody
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 3/4
+Q: 1/4=115
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="St. Denio (Joanna)"
+V: P2_2
+%%MIDI program 2 91
+K: Ab
+% Extracting voice 1 from part P1
+[V: P1_1]  | [DF] D [FB] | [EG] E [CA] | [Ec] [Ec] B | | [DF] D [FB] | [EG] E [CA] | [Ec] [Ec] B | | | | | | | [EG] E [CA] | | A2|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x1  D x1  | x1  E x1  | x2  (E/D/) | | x1  D x1  | x1  E x1  | x2  (E/D/) | | | | | | | x1  E x1  | | A2|]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | | | [A,C] [F,A,] A, | | | | [E,A,] [E,E] (E/D/) ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | | | x2  (C,/D,/) | | | | x2  E, ||]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Joyful Is The Morn
+Z: E. Bunnett
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  A/ B/ c B | A/ E/ F E | B/ c/ d c | B/ F/ B2 | E/ F/ G/ A/ B/ ^B/ | c A G/ F/ | B3/ A/ G/ F/ | E2 E/ E/ | F3/ A/ G/ B/ | (A/ c/) e A/ A/ | d3/ F/ G/ A/ | E2 e/ d/ | d c c/ B/ | B A G/ F/ | B/ c/ B ^d | e2 E/ c/ | B A A/ E/ | (G F) F/ d/ | c3/ B/ B/ F/ | (A G) E/ E/ | A3/ B/ c/ e/ | (f e) e/ c/ | B/ F/ G B | A3|]
+w: Once a- gain the ol- den sto- ry, It is sweet for all to sing, How, from realms of won- drous glo- ry, Came our Sa- viour, and our King! Ev'- ry heart this morn re- joi_ ces, Beat- ing with a Christ- ian throne; Count- less thou- sands raise their voi- ces, And re- peat the joy- ous song: "Bright and joy- ful is the morn,_ For to us a child is born;_ From the high- est realm of heav'n_ Un- to us a Son is giv'n!"
+

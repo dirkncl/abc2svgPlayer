@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Brings Joy
+Z: C.E.F. Weyse (1774-1842)
+Z: Public  domain
+L: 1/4
+M: 6/8
+Q: 1/4=45
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 52
+V: P2_1 name="Unnamed-001"
+V: P2_2
+%%MIDI program 2 52
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | F [C/G/] [CA] [D/F/] | [Fd] [F/d/] (c3/4B/4) [C/A/] | [C3/G3/] C [C/c/] | | F [C/G/] [CA] [C/c/] | (G3/4A/4) [C/G/] (c3/4=B/4) [E/c/] | d3/ [Ec]z/|| [E3/4G3/4] F/4 [E/G/] [FA] [F/A/] | B [E/G/] [FA] [C/F/] | [B,B] [C/A/] (G3/4A/4) [D/G/] | (G3/z/ [E/c/] | (c/A/) [F/B/] [Fc] [F/A/] | (G/B/) [F/A/] [EG] [G/c/] | (A/B/) [F/d/] (c3/4B/4) [F/A/] | [(F(A] [E/)G/)] Fz/|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | (D/C/) x2  | x1  E x0  | x1  C x0  | | (D/C/) x2  | C x0  G x0  | (G F/) x1 || x0  F/4 x2  | (F/D/) x2  | x1  D x0  | C2 C/) x1  | F x2  | E x2  | F x0  E x0  | x1  F x0 |]
+% Extracting voice 1 from part P2
+[V: P2_1]  [F,/A,/] [A,/C/] [F,/A,/] [F,A,] F,/ | F, [C,/E,/] F, [D,/A,/] | (B,3/4A,/4) [B,,/B,/] [C,G,] F,/ | | F,/ [F,/A,/] F,/ [F,A,] F,/ | F, [C,/E,/] F, [A,,/F,/] | | (C/ =B,) [C,G,]z/|| | | | | (A,/F,/) [F,/G,/] [F,A,] [F,/C/] | | | (C B,/) [F,A,]z/|]
+% Extracting voice 2 from part P2
+[V: P2_2]  x2  F,/ | (B,,/A,,/) x0  F, x0  | B,, x1  F,/ | | F,/ x0  F,/ x1  F,/ | (B,,/A,,/) x0  F, x0  | | G,3/ x1 || | | | | F, x2  | | | C,3/ x1 |]
+

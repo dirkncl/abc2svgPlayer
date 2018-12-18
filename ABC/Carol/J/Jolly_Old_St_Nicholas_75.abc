@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Jolly Old Saint Nicholas
+Z: Anonymous
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=50
+V: P1 name="Piano"
+%%MIDI program 1 1
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  d/ d/ d/ d/ | c/ c/ c | B/ B/ B/ B/ | d2 | G/ G/ G/ G/ | F/ F/ B | A/ B/ c/ d/ | c2 | d/ d/ d/ d/ | c/ c/ c | B/ B/ B/ B/ | d2 | G/ G/ G/ G/ | F/ F/ B | c/ B/ c/ d/ | B2|]
+w: Jol- ly old St. Ni- cho las, lean your ear this way! Don’t you tell a sin- gle soul, what I’m going to say; Christ- mas Eve is com- ing soon; now, you dear old man, Whis- per what you’ll bring to me; tell me if you can.
+[V: P2]  B/ B/ B/ B/ | A/ A/ A | G/ G/ G/ D/ | F2 | E/ E/ E/ E/ | D/ D/ D | F/ F/ F/ F/ | (F A) | B/ B/ B/ B/ | A/ A/ A | G/ G/ G/ D/ | F2 | E/ E/ E/ E/ | D/ D/ D | E/ D/ E/ F/ | D2|]
+[V: P3]  F/ F/ F/ F/ | E/ E/ E | D/ D/ D/ B,/ | (A, C) | B,/ B,/ B,/ B,/ | B,/ B,/ B, | C/ D/ E/ D/ | E2 | F/ F/ F/ F/ | E/ E/ E | D/ D/ D/ B,/ | (A, C) | B,/ B,/ B,/ B,/ | B,/ B,/ B, | A,/ B,/ A,/ F,/ | F,2|]
+[V: P4]  B,/ B,/ B,/ B,/ | F,/ F,/ F, | G,/ G,/ G,/ G,/ | D,2 | E,/ E,/ E,/ E,/ | B,,/ B,,/ B,, | F,/ F,/ A,/ B,/ | (A, F,) | B,/ B,/ B,/ B,/ | F,/ F,/ F, | G,/ G,/ G,/ G,/ | D,2 | E,/ E,/ E,/ E,/ | B,,/ B,,/ B,, | F,/ F,/ F,/ F,/ | B,,2|]
+

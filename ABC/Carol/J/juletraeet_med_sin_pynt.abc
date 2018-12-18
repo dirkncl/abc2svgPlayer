@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: juletraeet_med_sin_pynt
+Z: Egil Harder, 1940
+Z: Copyright © 1997 by Jørgen Ebert
+Z: All Rights Reserved
+L: 1/4
+M: 4/4
+V: P1 name="Right Hand"
+%%MIDI program 1 0
+V: P2 name="Left Hand"
+%%MIDI program 2 0
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: D
+[V: P1]  [D/A/d/]d/ [D/G/B/]d/ [D/A/][C/G/] [DF] | [B,/D/B/]A/ [B,/D/G/]F/ [B,/E/][C/F/] [A,D] | [A,/D/A/]A/ [A,/D/G/]F/ [B,/E/][C/F/] [F,D] | [G,/B,/]C/ [A,/D/]A,/ [G,/E/]A,/ [F,A,F] | [D/F/]G/ [C/F/]E/ [B,/D/]F/ [^G,E] | [E/A/]B/ [^D/A/]^G/ [=D/F/]G/ [CA] | [D/A/d/]d/ [D/G/B/]d/ [D/A/][C/G/] [DF] | [B,/D/B/]A/ [B,/D/G/]F/ [B,/E/][C/F/] [A,D]|]
+[V: P2]  F, G, F,/E,/ D, | [G,,D,] [E,,E,] [A,,G,] [D,F,] | [D,F,] [F,,D,] G,,/A,,/ [D,,A,,] | [G,,D,] [F,,D,] [A,,C,] [D,,A,,] | [B,,F,] [^A,,F,] [B,,F,] [E,,D,] | [C,A,] [=C,A,] B,,/E,/ [A,,E,] | F, G, F,/E,/ D, | [G,,D,] [E,,E,] [A,,G,] [D,F,]|]
+[V: P3] z3/z/zz |z3/z/zz | z4 | z4 | z4 | z4 | z4 |z/z/z/z/z/z/z|]
+
