@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Babe Is Born
+Z: Old English Tune
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  E | A2 A G | A2 A G | E3 D | (C3/ D/) E C | A,2"^Verse" A, | A, E D E | C3/ B,/ A, E | A B c B | A (G/ A/) E E | A B c B | A (G/ A/) E3/ D/ | C D E3/ C/ | A, A, A,|]
+w: Now- el el el el, now is well That e-_ ver was woe. A babe is born all of a may, Who brings sal- va tion un- to_ us, To them we sing both night and_ day, Ve- ni Cre- a tor Spi- ri tus.
+

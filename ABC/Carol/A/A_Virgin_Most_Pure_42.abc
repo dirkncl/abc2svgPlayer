@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Most Pure
+Z: West of England
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=112
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  (E/G/) | B B (c/B/) | G G E | A G F | E2 (E/G/) | B B (c/B/) | G G E | A G F | E2 G | F F A | A G E | e d c | B2 (G/G/) | A c A | B G E | A G F | E2 G | F F A | A G E | e d c | B2 G | A c A | B G E | A G F | E2|]
+w: A_ Vir- gin most_ pure, as the pro- phets did tell, Hath_ brought forth a_ ba- by as it hath be- fel, To be our Re- deem er from death, hell and sin, Which_ A- dam's trans- gress ion has wrap- ped us in: Re- joice and be mer- ry, set sor- row a- side: Christ Je- sus our Sa- viour was born on this tide.
+[V: P2]  E | E E (E/F/) | E B, C | E E D | B,2 E | E E (E/F/) | E B, C | E E D | B,2 E | E (D/E/) F | E E E | E F F | D2 (E/E/) | E E E | E D E | E E D | B,2 E | D B, F | E E E | G D (F/E/) | D2 E | E E E | E D E | E E D | B,2|]
+[V: P3]  B, | G, G, A, | B, G, G, | C B, A, | G,2 B, | G, G, A, | B, G, G, | C B, A, | G,2 B, | B, B, B, | B, B, B, | G, B, =A, | B,2 (B,/B,/) | A, A, A, | G, B, G, | C B, A, | G,2 B, | B, F, B, | B, B, B, | C B, =A, | B,2 B, | A, A, A, | G, B, G, | C B, (B,/A,/) | G,2|]
+[V: P4]  G, | E, E, (C,/D,/) | E, E, C, | A,, B,, B,, | E,2 G, | E, E, (C,/D,/) | E, E, C, | A,, B,, B,, | E,2 E, | B,, B,, D, | E, (E,/F,/) G, | C, F, F, | B,,2 (E,/E,/) | C, A,, C, | E, B,, C, | A,, B,, B,, | E,2 E, | (B,,/C,/) (D,/C,/) (D,/B,,/) | (E,/F,/) (G,/F,/) (G,/E,/) | C, F, F,, | B,,2 E, | C, (A,,/B,,/) (C,/D,/) | E, B,, C, | A,, B,, B,, | E,2|]
+

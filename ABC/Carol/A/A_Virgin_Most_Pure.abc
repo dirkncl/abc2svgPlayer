@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Most Pure
+Z: Traditional
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  (A/B/) | (c/d/) (_e/d/) (c/B/) | A G c | B3/ A/ G | F2 (A/B/) | (c/d/) (_e/d/) (c/B/) | A G c | B3/ A/ G | F2 (F/G/) | A G c | (B/A/) G d/ d/ | c (f/e/) d | c2 (A/B/) | (c/d/) (_e/d/) (c/B/) | A G c | B3/ A/ G | F2"^Chorus" F/ G/ | A G c | (B/A/) G d | c (f/e/) d | c2 (A/B/) | (c/d/) (_e/d/) (c/B/) | A G c | B3/ A/ G | F2|]
+w: A_ Vir-_ gin_ most_ pure, as the pro- phet do tell, Hath_ brought_ forth_ a_ ba- by as it hath be- fel, To_ be our Re- deem_ er from the bon- dage_ of sin, Which_ A-_ dam's_ trans-_ gress ion has wrap- ped us in: Aye and there- fore be mer-_ ry, set sor- row_ a- side: Christ_ Je-_ sus_ our_ Sa- viour was born on this tide.
+

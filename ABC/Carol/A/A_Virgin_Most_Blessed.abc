@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Most Blessed
+Z: Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=95
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  (A/B/) | c d (c/B/) | A G (c/A/) | (B/c/) d c | F2 (A/B/) | c d (c/B/) | A G (c/A/) | (B/c/) d c | F2 (F/G/) | A G c | (B/A/) G d | c (f/e/) d | c2 (A/B/) | c d (c/B/) | A G (c/A/) | (B/c/) d c | F2"^Chorus" (F/G/) | A G c | (B/A/) G d | c (f/e/) d | c2 (A/B/) | c d (c/B/) | A G (c/A/) | (B/c/) d c | F2|]
+w: A_ Vir- gin most_ bless- ed, the_ pro-_ phet fore- told, Should_ bring forth a_ Sav- iour which_ now_ we be- hold, To_ be our Re- deem_ er from death, hell_ and sin, Which_ A- dam's trans-_ gress ion had_ wrapped_ us all in. Come_ there- fore be joy-_ ful, set sor- row_ a- side; Christ_ Je- sus our_ Sav- iour was_ born_ on this tide!
+[V: P2]  F | F F G | F E F | F D E | F2 F | F F G | F E F | F D E | F2 F | F E F | D D (D/E/) | (E/G/) (A/G/) F | (F E) F | (F/E/) D G | F E F | F F E | F2 (F/G/) | F E F | D E (D/E/) | (F/G/) (A/G/) F | (F E) (F/G/) | A F G | F E F | F F E | F2|]
+[V: P3]  C | C B, D | C C C | D B, B, | A,2 C | C B, D | C C C | D B, B, | A,2 (A,/B,/) | C C C | (D/C/) B, B, | C C (C/=B,/) | C2 C | C B, D | C C C | D B, B, | A,2 (A,/B,/) | C C C | D C B, | C C (C/=B,/) | C2 C | C B, D | F C C | D B, B, | A,2|]
+[V: P4]  (F,/G,/) | A, B, G, | C B, A, | G, G, C, | F,2 (F,/G,/) | A, B, G, | C B, A, | G, G, C, | F,2 F, | C B, A, | G, G, G, | A, D, G, | C,2 F, | A,, B,, G,, | C, (C/B,/) A, | G, G, C, | F,,2 F, | C B, A, | G, C G, | A, D, G, | C,2 (C/_B,/) | A, B, G, | C B, A, | G, B,, C, | F,2|]
+

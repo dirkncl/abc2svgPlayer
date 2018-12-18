@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Shout Of Mighty Triumph
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  A | B d e (c/ B/) | (f3/ e/) d (B/ A/) | G (c/ B/) A A | B3 A | B d e (c/ B/) | (A d) c (F/ =E/) | D A/ G/ F =E | F2z (d/ e/) | d B G c | (F G/ A/) B d | c3/ B/ A G | F2z (F/ E/) | (D/ F/) (B/ A/) (G/ d/) (e/ d/) | c Fz f | (G/ A/) B B A | B3|]
+w: A shout of might- y_ tri-_ umph Thro'_ na- ture's_ realm is heard, A shout with calls cre-_ a_ tion To_ hail the In- car nate Word. A-_ way with clouds and dark-__ ness! All hail, thrice bless- ed Morn; Sing_ out_ with_ joy,_ ye_ mor- tals, For Je-_ sus Christ is born!
+

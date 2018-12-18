@@ -1,0 +1,25 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Abbey
+Z: Public Domain
+L: 1/4
+M: 4/2
+Q: 1/4=160
+V: P1 name="soprano"
+%%MIDI program 1 5
+V: P2 name="alto"
+%%MIDI program 2 0
+V: P3 name="tenor"
+%%MIDI program 3 5
+V: P4 name="bass"
+%%MIDI program 4 54
+K: G
+[V: P1]  G2 G2 B2 A2 | G2 G2 F2 G2 | c2 B2 A2 A2 | ^G2 A6 | d2 B2 G2 c2 | B2 A2 G2 F2 | D2 E2 G2 G2 | F2 G6|]
+[V: P2]  D2 D2 G2 F2 | E2 E2 D C B,2 | E2 =F2 C D E2 | E2 E6 | D2 D2 D2 G2 | F2 E2 B,2 D2 | D2 C2 D2 E2 | D2 D6|]
+[V: P3]  B,2 D2 D2 D2 | B,2 C2 A,2 B,2 | C2 D2 A,2 B,2 | B,2 C6 | A,2 G,2 B,2 C2 | D2 E2 G,2 A,2 | G,2 G,2 G,2 C B, | A,2 B,6|]
+[V: P4]  G,2 B,2 G,2 D,2 | E,2 C,2 D,2 G,2 | A,2 D,2 =F,2 E,2 | E,2 A,6 | F,2 G,2 G, =F, E,2 | D,2 C,2 E,2 D,2 | B,,2 C,2 B,,2 A,,2 | D,2 G,,6|]
+

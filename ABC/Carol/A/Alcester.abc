@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Alcester, 77.77
+Z: Samuel Sebastian Wesley (1810-1876)
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Alcester"
+V: P2_2
+%%MIDI program 2 91
+K: E
+% Extracting voice 1 from part P1
+[V: P1_1]  [(E(B] G/F/ E [DB] | | | A [EG] [D2)F2)] | | | B/A/ G/F/ E [EA] | [EG] [DF] E2)|]
+% Extracting voice 2 from part P1
+[V: P1_2]  x1  E E x1  | | | E/ D/ x3  | | | E E E x1  | x2  E2|]
+% Extracting voice 1 from part P2
+[V: P2_1]  [(E,(G,] [B,,B,] [C,E,] F, | | [F,B,] [E,B,] A, [G,B,] | | [(G,(B,] B, [E,B,] [E,G,] | | [G,,B,] B,/A,/ [C,G,] [A,,C] | B,3/ [z/B,,] A,/ [E,2)G,2)]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  x3  B,,/A,,/ | | x2  A, x1  | | x1  B, x2  | | x1  B,, x2  | B,, x3 |]
+

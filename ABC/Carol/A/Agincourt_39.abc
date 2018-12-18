@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Song On The Victory Of Agincourt
+Z: EnglishTraditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Staff-1"
+%%MIDI program 2 0
+K: Bb
+[V: P1]  [D/G/B/d/] | [D^FAd] [G/c/] [DGd] [E/G/c/] | [D/G/c/] [DGB] [D^FA] [D/G/d/] | [(E/(G/(d/]c/)[D/A/] (G/A/)(G/4D/4) | [A,/D/=F/] [G,^C=E] [F,D] [D/F/A/] | [C=EGc] [C/F/c/] [(D/(F/(d/]c/)[D/G/B/] | [C/F/A/] [B,=EG] [A,F] [D/F/] | [^C=EA] [D/F/A/] [B,DG] [B,/D/F/]|] [A,/D/F/] [G,^C=E] [^F,A,D] [(D/4(^F/4(c/4]d/4 | [_E/4G/4c/4]d/4c/)[C/G/] [(D/(B/][C/4A/4]G/4)A/ | [(B,3/(D3/(G3/] [B,)D)G)]|]
+w: Our___ king___ went_ forth__ to__ Nor-__ man__ dy,__ With__ grace___ and_ might_ of_ chi-__ val__ ry,_ The__ God___ for__ him___ wrought__ marv'-__ lous__ ly,_ Where-_ fore__ Eng-__ land__ may__ call__ and__ cry,__ "De-________ o_ gra-____ ti as!"_____
+[V: P2]  [G,,/G,/] | [D,,D,] [E,,/E,/] [B,,,B,,] [C,,/C,/] | [G,,,/G,,/] [G,,,G,,] [D,,D,] [B,,,/B,,/] | [C,,C,] [^F,,,/^F,,/] [G,,,G,,] [B,,,/B,,/] | [A,,,/A,,/] [A,,,A,,] [D,,D,] [D,/F,/] | [C,G,] [A,,/F,/] [B,,F,] [G,,/D,/G,/] | [C,/F,/A,/] [C,G,] [D,F,] B,,/ | A,, F,,/ G,, G,,/ | A,,/ A,, [D,,A,,D,] [D,,/D,/] | [C,,C,] [E,,/E,/] [D,,/D,/] [D,,C,] | [G,,G,] [D,,/D,/] [G,,,G,,]|]
+

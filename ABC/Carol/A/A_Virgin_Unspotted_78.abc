@@ -1,0 +1,33 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Unspotted
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2_1 name="Right Hand"
+V: P2_2
+%%MIDI program 2 0
+V: P3_1 name="Left Hand"
+V: P3_2
+%%MIDI program 3 0
+K: G
+[V: P1] z | z4 | z4 | z4 |zz (G3/4D/4) | G B d | (d3/4c/4) B (G3/4A/4) | B (c/B/) (A/G/) | G2 (G3/4D/4) | G B d | (d3/4c/4) B (G3/4A/4) | B (c/B/) (A/G/) | Gz (F/G/) | A E (A/G/) | (F/E/) D (G/D/) | G (G/A/) (B/A/) | c2 (B/A/) | G B d | (d3/4c/4) B (G3/4A/4) | B (c/B/) (A/G/) | G2 |"^Chorus" (F/G/) | A E (A/G/) | (F/E/) D (G/D/) | G (G/A/) (B/G/) | c2 (B/A/) | G B d | (d3/4c/4) B (G3/4A/4) | B (c/B/) (A/G/) | G2|]
+w: A_ Vir- gin un- spot_ ted, the_ pro- phets_ fore-_ told, Should_ bring forth a Sa-_ vior, which_ now we_ be-_ hold. To_ be our Re-_ deem_ er from_ death, hell_ and_ sin, Which_ A- dam's trans- gres_ sion in-_ volv ed_ us_ in. Then_ Let us be_ mer-_ ry, cast_ sor- row_ a-_ way, Our_ Sa- viour Christ Je-_ sus, was_ born on_ this_ day.
+% Extracting voice 1 from part P2
+[V: P2_1]  | | [DB] (G3/4A/4) | | G2z | G2 | [CE] [B,D] (G3/4A/4) | | | G2 =F | [CE] D [CG] | G2 F | | (A/G/) | | [B,2D2] (G/=F/) | | | (d3/4c/4) [DB] (G3/4A/4) | [DB] [(E/(c/][D/)B/)]A/G/ | | (F/G/) | [EA] [^CE] (A/G/) | (F/E/) [A,D] (G/D/) | [DG] G/A/B/G/ | [E2c2] (B/A/) | G [DB] [Dd] | [(E3/4(d3/4][F/4)c/4)] [GB] (G3/4A/4) | [DGB] [(E/(G/(c/][D/G/B/]A/G/) ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | (d3/4c/4) x1  E | | C B, x1  | B,3 F | x2  C | | | B,3 | x1  D x1  | D3 | | A E ^C | | x2  B, | | | E x1  ^C | x2  C | | D | x2  E | D x1  D | x1  G F | x2  ^F | G x2  | x2  E | x2  C ||]
+% Extracting voice 1 from part P3
+[V: P3_1]  | | | | | | | | | D, (G, [D,)G,)] | G,3 | | | [E,2A,2] [A,,E,A,] | D, A,[(B,,/(G,/][A,,/)F,/)] | | | | | G, G, F, | | | | | | [C,2G,2] (D/C/) | | G,2 | ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | | | | | | | | | G,,2 x1  | C, D, E, | | | D, ^C, x1  | (D,/=C,/) x1  | | | | | D,3 | | | | | | x2  D, | | E, D, C, | ||]
+

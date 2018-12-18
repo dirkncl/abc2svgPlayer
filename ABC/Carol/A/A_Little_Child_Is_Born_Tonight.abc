@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Little Child Is Born Tonight
+Z: A. H. Brown
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=149
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A/ | d d/ (c/d/)e/ | d c/ (B/c/) d/ | A F/ (G/A/) B/ | (E3/ E) E/ | G G/ (F/G/) F/ | E D/ E F/ | (G/A/) B/ c d/ | e/c/ A A/ | A d/ B G | (F3/ E/)"^Chorus"z/ e/ | e d/ (c/B/) A/ | d F/ A G/ | (F/E/) D/ F ^G/ | (A d/ c) B/ | A f/ e e/ | (d/c/) d/ c F/ | B d/ c F/ | B A/ G E/ | A G/ F E/ | (d3/ d) d/ | f e/ d c/ | (d3/ d/)z/|]
+w: A lit- tle Child_ is born to- night,_ And He shall lead_ His own,_ To end- less day,_ to glo- ry bright, To lands_ of ev- er last ing light, And to our Fa- ther's throne._ A lit- tle Child_ is born to- night, And in_ the star- ry sky,__ To Him the An- gels car-_ ols bring: "Good will and peace to men," they sing, "Glo- ry to God on high,_ Glo- ry to God on high."_
+

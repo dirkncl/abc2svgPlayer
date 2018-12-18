@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Unspotted
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=110
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  (A/B/) | c d (c/B/) | A A (c/A/) | (B/c/) d c | F2 (A/B/) | c d (c/B/) | A G (c/A/) | (B/c/) d c | F2 (F/G/) | A G c | (B/A/) G d | c (f/e/) d | c2 (A/B/) | c d (c/B/) | A G (c/A/) | (B/c/) d c | F2"^Chorus" F/ G/ | A G c | (B/A/) G d | c (f/e/) d | c2 (A/B/) | c d (c/B/) | A G (c/A/) | (B/c/) d c | F2|]
+[V: P2]  F | F F G | F E F | F F F | F2 F | F F G | F E F | F F E | F2 F | E E F | (G/F/) E G | A (A/G/) F | E2 F | F D D | F E F | F F E | F2 F/ F/ | (E/F/) (G/E/) F | F E G | A (A/G/) F | E2 F | F D G | F E E | F D E | F2|]
+[V: P3]  (C/B,/) | A, D D | C C C | F, B, B, | A,2 C | C B, D | C C C | F, B, B, | A,2 (A,/B,/) | C C C | D E E | F A, =B, | C2 (C/B,/) | A, F, G, | (A,/B,/) C C | F, B, B, | A,2 A,/ B,/ | C (D/C/) C | D E E | F A, =B, | C2 (F,/G,/) | A, F, D | C C C | F, B, B, | A,2|]
+[V: P4]  (F,/G,/) | A, B, G, | C, C, A,, | D, B,, C, | F,2 (F,/G,/) | A, B, G, | C, B,, A,, | D, B,, C, | F,2 D, | C, B, A, | G, C B, | A, F, G, | C,2 F, | A,, B,, G,, | C, C, A,, | D, B,, C, | F,2 D,/ D,/ | C, B, A, | G, C B, | A, F, G, | C,2 D, | A,, B,, G,, | C, C, A,, | D, B,, C, | F,2|]
+

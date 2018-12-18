@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Babe Is Born In Bethlehem
+Z: Melody of the XIV Century
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  G | G2 G | A2 A | B2 G | F2 F | B2 c | B2 A | B2 B | B2 B | A2 G | G2 F | G2 G | (F2 G | A2 F | G2) F G2|]
+w: A Babe is born in Beth- le hem: Al- le Al- le lu ya. Great joy- aunce for Hie- ru sa lem. Al- le____ lu ya.
+

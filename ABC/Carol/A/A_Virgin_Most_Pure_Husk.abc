@@ -1,0 +1,25 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Most Pure
+Z: English Traditional From William Henry Husk
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=110
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 58
+K: Eb
+[V: P1]  (G/A/) | B c (B/A/) | (G F) B/ G/ | (A/B/) c B | E2 (G/A/) | B c (B/A/) | G F (B/G/) | (A/B/) c B | E2 (E/F/) | G F B | (A/G/) F c | B (e/d/) c | B2 (G/_A/) | B c (B/A/) | G F (B/G/) | (A/B/) c B | E2 (E/F/) | G F B | (A/G/) F c | B (e/d/) c | B2 (G/_A/) | B c (B/A/) | G F (B/A/) | (A/B/) c B | E2|]
+w: A_ vir- gin most_ pure,_ as the Pro-_ phets do tell, Hath_ brought forth a_ Babe, as it_ hath_ her be- fell, To_ be our Re- deem_ er from death, hell_ and sin, Which_ A- dam’s trans-_ gres sion hath_ wrapt_ us all in. Re-_ joice and be mer-_ ry, set sor- row_ a- side; Christ_ Je- sus our_ Sav- ior was_ born_ on this tide.
+[V: P2]  E | E E E | (E D) E | E E D | E2 E | E E E | E D E | E E D | E2 B, | E B, B, | C D F | E E E | D2 E | E E E | E D E | E E D | E2 B, | E B, B, | C D D | E E E | D2 E | E E E | E D E | E E D | E2|]
+[V: P3]  (E,/F,/) | G, A, (G,/F,/) | B,2 (G,/E,/) | C, F,, [B,,F,] | [E,2G,2] (E,/F,/) | G, A, (G,/F,/) | B,2 (G,/E,/) | C, F,, [B,,F,] | [E,2G,2] (G,,/B,,/) | E, D, G, | F, B, A, | G, C, F, | B,,2 (E,/F,/) | G, A, (G,/F,/) | G,2 (G,/E,/) | C, F,, [B,,F,] | [E,2G,2] (A,,/B,,/) | E, D, G, | F, B, A, | G, C, F, | B,,2 (E,/F,/) | G, A, (G,/F,/) | B,2 (G,/E,/) | C, F,, [B,,F,] | [E,2G,2]|]
+

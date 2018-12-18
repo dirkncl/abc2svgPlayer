@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Babe Is Born In Bethlehem
+Z: 15th Century
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  D | G D G A | (B/c/) (B/A/) G2 | d2 c2 | B2z c | B A G F | A G (E2 | E)z D G | A B B G | F G2|]
+w: A Babe is born in Beth-_ le_ hem, Beth- le hem, There- fore re- joice, Je- ru sa lem._ Hal- le lu jah! Hal- le lu jah!
+[V: P2]  D | B, B, B, D | D F G2 | G2 A2 | G2z E | B, B, B, B, | B, B, (C2 | C)z D D | D D D D | D D2|]
+[V: P3]  D, | G, G, G, F, | G, (D/C/) B,2 | D2 D2 | D2z G, | F, F, D, D, | E, E, (G,2 | G,)z F, G, | F, G, G, B, | A, B,2|]
+[V: P4]  D, | G,, G,, G,, D, | G, D, G,,2 | B,2 F,2 | G,2z G, | F, F, D, D, | E, E, (C,2 | C,)z C, B,, | D, G, B,, D, | D, G,,2|]
+

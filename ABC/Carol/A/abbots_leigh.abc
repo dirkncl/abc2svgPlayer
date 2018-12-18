@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Abbots Leigh
+Z: Cyril V. Taylor, 1941
+Z: © 1942, renewed 1970, Hope Publishing Company
+L: 1/4
+M: 3/4
+Q: 1/4=115
+V: P1 name="Staff 1"
+%%MIDI program 1 19
+V: P2 name="Abbot’s Leigh 87.87D ref"
+%%MIDI program 2 19
+V: P3 name="Abbot’s Leigh 87.87D r-2"
+%%MIDI program 3 19
+K: C
+[V: P1] z3 | [EG] C [B,E] | [A,2C2] [B,C] | [Cc] [GB] [FA] | [FA] [E2G2] | [CA] E [CE] | [DF] C/G/ [B,A] | [CG] [DF] [CE] | [CD] B,2 | [C2G2] [B,E] | [A,2C2] [B,C] | [Cc] [GB] [FA] | [FA] [E2G2] | [CA] E [CE] | [DF] C/G/ [B,A] | [CG] [DF] [CE] | [B,3D3] | [^A,2D2] [A,E] | [D2F2] [FA] | [FG] D/A/ [E^A] | [G^A] [F=A] E | [D2G2] [GA] | [FB] c [Fd] | [Ec] F [DB] | [C3A3] | [Cc] G [B,E] | C2 C | [F^A] =A [CG] | [EA] [DA] G | [Fd] c [FB] | [Cc] G [CA] | C2 [B,D] | [G,3C3]|]
+[V: P2] z3 | G, E, G, | E,2 E, | A,3/ B,/ C/D/ | C C2 | E, A, A, | [D,3/A,3/] G,/ [D,F,] | [E,G,] [F,A,] [F,A,] | G,2 F, | [E,2G,2] G, | E,2 E, | A,3/ B,/ C/D/ | C C2 | E, A, A, | [D,3/A,3/] G,/ [D,F,] | [E,G,] [F,A,] [F,A,] | G,3 | F,2 G, | [D,A,] F, [D,D] | D2 C | [F,C] [F,2C2] | [G,B,] F, [E,C] | [D,D] A, A, | A, D, [E,^G,] | A,3 | [E,2G,2] G, | E,2 E, | [D,2F,2] [E,C] | [G,A,] [F,A,] [E,^C] | [D,D] A, [D,F,] | [E,G,] C F, | [E,G,]z F, | E,3|]
+[V: P3] z3 | C,z G,, | A,,2 G,, | F,,3/ G,,/ A,,/B,,/ | C, C, B,, | A,, C, A,, |z3 |z3 |z3 |z2 G,, | A,,2 G,, | F,,3/ G,,/ A,,/B,,/ | C, C, B,, | A,, C, A,, |z3 |z3 |z3 | ^A,, =A,, G,, |z3 | ^A,, G,, C, |z3 |z3 |z C, B,, | C,z2 | A,,3 |z2 G,, | A,,2 C, |z3 |z3 |z3 |z3 |z G,, G,, | C,3|]
+

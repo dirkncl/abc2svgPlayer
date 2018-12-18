@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Shout Of Mighty Triumph
+Z: Rev. G. P. Grantlam
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G F G A | B2 A F | G G F A | G3 D | G F G A | B2 A F | G G F A | G3 B | d d B d | c2 A c | B B G B | A3 (B/ c/) | d d B d | c2 A c | B G A F | G3|]
+w: A shout of might- y tri- umph Thro' na- ture's realm is heard, A shout with calls cre- a tion To hail th'In- car nate Word. A- way with clouds and dark- ness! All hail, thrice bless- ed Morn; Sing_ out with joy, ye mor- tals, For Je- sus Christ is born!
+

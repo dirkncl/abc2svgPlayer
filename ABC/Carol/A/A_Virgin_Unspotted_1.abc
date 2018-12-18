@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Unspotted
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1] z2 [EG] | [EGc] [Gce] [Ecg] | [D/G/g/]f/ [Ge] [E/c/][F/d/] | [Gce] [A/c/f/][G/e/] [FBd] | [E2c2] [EG] | [EGc] [Gce] [Ecg] | [D/G/g/]f/ [Ge] [E/c/][F/d/] | [Gce] [A/c/f/][G/e/] [FBd] | [E2c2] [E/G/B/]c/ | [^FAd] [F/A/]E/ [D/A/d/]c/ | [D/G/B/]A/ [DG] [DG] | [Gc] [G/c/]d/ [G/^A/e/]c/ | [F2A2f2] [G/B/e/][F/d/] | [Ec] [Gce] [Ecg] | [D/G/g/]f/ [Ge] [E/c/][F/d/] | [Gce] [A/c/f/][G/e/] [FBd] | [E2c2] [D/G/B/][E/c/] | [^FAd] [F/A/]E/ [D/A/d/]c/ | [D/G/B/]A/ [DG] [DG] | [Gc] [G/c/]d/ [G/^A/e/]c/ | [F2A2f2] [G/B/e/][F/d/] | [Ec] [Gce] [Ecg] | [D/G/g/]f/ [Ge] [E/c/][F/d/] | [Gce] [A/c/f/][G/e/] [FBd] | [E2c2]z|]
+[V: P2] z2 C | C C C | B, C A, | G, F, G, | C2 C | C C C | B, C A, | G, F, G, | C2 E, | D, D,/E,/ ^F, | G,/C/ [G,/B,/]A,/ [G,/B,/]F,/ | [E,C] [E,C] C, | D,2 G, | C, C C | B, C A, | G, F, G, | C2 G, | D, D,/E,/ ^F, | G,/C/ [G,/B,/]A,/ [G,/B,/]F,/ | [E,C] [E,C] C, | D,2 G, | C, C C | B, C A, | G, F, G, | C2z|]
+

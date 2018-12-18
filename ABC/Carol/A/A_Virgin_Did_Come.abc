@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Did Come
+Z: G. H. Gregory
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B | B e G | B2 B | B E F | G2 =A | B c d | d c B | B =A c | B2 B | B e G | c2 c/ c/ | c F G | A2 B | c d e | B A G | B E F | E2"^Refrain" F/ G/ | A A (G/F/) | G3/ A/ B | (c d) e | d3/4 c/4 B B | e B G | B G E | E D F | E2|]
+w: A Vir- gin did come from low- li est home, And shel- ter she fain in a man- ger would find; For full was the inn, and no room was with- in, Save where to the stalls the mute ox- en they bind. O how wond- rous the_ love and the deep_ hu- mil i ty Of Him who was laid in the man- ger for me.
+

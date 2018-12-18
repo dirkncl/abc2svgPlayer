@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Abends, LM
+Z: Herbert Stanley Oakeley (1830-1903)
+Z: Public Domain, Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 3/4
+Q: 1/4=113
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Abends, LM"
+V: P2_2
+%%MIDI program 2 91
+K: Ab
+% Extracting voice 1 from part P1
+[V: P1_1]  | F2 F | d2 [Ac] | | | | | E3) | | | B2 A | | | e2 [Fd] | c2 [GB] | A3)|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | E D F | F G x1  | | | | | E3 | | | F G C/=D/ | | | E _G x1  | E A x1  | A3|]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | F, B, _A, | | | [A,,2C2] E,/F,/ | G, B, [B,,A,] | | | | D2 [F,A,] | B,3 | | [C,2A,2] A,/B,/ | C E [E,D] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | B,,2 C,/D,/ | | | x2  C, | B,,2 x1  | | | | D, E, x1  | E,2 _D,) | | x2  D, | E,2 x1  ||]
+

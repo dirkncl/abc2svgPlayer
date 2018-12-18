@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Child This Day Is Born
+Z: Traditional
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A | A d c (A/B/) | c3 e | d c (d/c/) B | A3 A | A D B d | (A3/ B/) A G | F d F E | D3"^Chorus" A | A d c (A/B/) | c3 e | d c (d/c/) B | A3 A | A D B d | (A3/ B/ A) G | F d F E | D3|]
+w: A Child this day is_ born, A Child of high_ re- nown; Most wor- thy of a scep-_ tre, A sep- tre and a crown. Glad ti- dings to all_ men, Glad ti- dings sing_ we may, Be- cause this King of kings-__ Was born on Christ- mas Day.
+

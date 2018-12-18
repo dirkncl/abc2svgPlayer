@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Most Pure
+Z: Tune From The West Of England
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  (G/A/) | B c (B/A/) | G F (B/A/) | (A/B/) c B | E2 (G/A/) | B c (B/A/) | G F (B/A/) | (A/B/) c B | E2 (E/F/) | G F B | (A/G/) F c | B (e/d/) c | B2 (G/A/) | B c (B/A/) | G F (B/A/) | (A/B/) c B | E2"^Chorus" (E/ F/) | G F B | (A/G/) F c | B (e/d/) c | B2 (G/A/) | B c (B/A/) | G F (B/G/) | (A/B/) c B | E2|]
+w: A_ vir- gin most_ pure, as the_ Pro-_ phets do tell, Hath_ brought forth a_ Babe, as it_ hath_ her be- fell, To_ be our Re- deem_ er from death, hell_ and sin, Which_ A- dam’s trans-_ gres sion hath_ wrapt_ us all in. Re-_ joice and be mer-_ ry, set sor- row_ a- side; Christ_ Je- sus our_ Sav- ior was_ born_ on this tide.
+[V: P2]  E | E E F | E D (E/E/) | E E D | (E/C/ B,) E | E E F | E D (E/E/) | E E D | (E/C/ B,) (B,/D/) | E F (E/F/) | E F F | G (G/F/) E | D2 (E/F/) | (G/F/) =E F | _E D E | E E D | E2 (B,/D/) | E F (E/F/) | E F F | G (G/F/) E | D2 (E/F/) | (G/F/) =E F | _E D E | E E D | E2|]
+[V: P3]  (B,/A,/) | G, G, (F,/B,/) | B, B, (B,/C/) | (C/B,/) A, A, | (G,/A,/ G,) (B,/A,/) | G, G, (F,/B,/) | B, B, (B,/C/) | (C/B,/) A, A, | (G,/A,/ G,) (G,/A,/) | B, B, (C/D/) | (C/B,/) B, A, | (G,/A,/) B, (B,/=A,/) | B,2 (B,/A,/) | G, (G,/C/) (_D/C/) | B, B, B, | (C/B,/) A, A, | G,2 (G,/A,/) | B, B, (C/D/) | (C/B,/) B, A, | (G,/A,/) B, (B,/=A,/) | B,2 (B,/A,/) | G, (G,/C/) (_D/C/) | B, B, B, | (C/B,/) A, A, | G,2|]
+[V: P4]  E, | (E,/D,/) C, D, | E, B, (G,/C/) | F, F, B,, | E,2 E, | (E,/D,/) C, D, | E, B, (G,/C/) | F, F, B,, | E,2 (G,/F,/) | E, D, B,, | C, D, D, | E, E, F, | B,,2 E, | (E,/_D,/) C, F, | B, A, G, | F, F, B,, | E,2 (G,/F,/) | E, D, B,, | C, D, D, | E, E, F, | B,,2 E, | (E,/_D,/) C, F, | B, A, G, | F, F, B,, | E,2|]
+

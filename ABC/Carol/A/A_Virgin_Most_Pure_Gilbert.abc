@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Most Pure
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  (A/B/) | (c/d/) (e/d/) (c/B/) | A G c | B3/ A/ (G/E/) | F2 (A/B/) | (c/d/) (e/d/) (c/B/) | A G c | B3/ A/ (G/E/) | F2 =E | F3/ G/(3 (A/B/c/) | (B/A/) G d | c (f/=e/) d | c2 (A/B/) | (c/d/) (e/d/) (c/B/) | A G c | B3/ A/ (G/E/) | F2"^Chorus" A/ c/ | (B/A/) (G/B/) A/ G/ | F F =E | F3/ G/ A/ c/ | (B/A/) G d | c (f/=e/) d | c2 (A/B/) | (c/d/) (e/d/) (c/B/) | A G c | B3/ A/ (G/E/) | F2|]
+w: A_ vir-_ gin_ most_ pure, as the pro- phets do_ tell, Hath_ brought_ forth_ A_ Ba- by, as it hath be-_ fell, To be our Re-__ deem_ er from death, hell_ and sin, Which_ A-_ dam’s_ trans-_ gres sion had wrap- ped us_ in. Aye and there-_ fore_ be you mer- ry, Re- joice and be you mer-_ ry; Set sor- rows_ a- side; Christ_ Je-_ sus_ our_ Sa- viour was born on this_ tide.
+[V: P2]  F | F E G | F D F | F D (E/B,/) | C2 F | F E G | F D F | F D (E/B,/) | C2 C | C F F | F =E G | A F F | (F =E) F | F E G | F D G | F F (E/B,/) | C2 F/ G/ | (F/=E/) D C/ C/ | (C/B,/) (A,/B,/) C | C F F/ F/ | G G A | G F F | (F =E) F | F E G | F D F | F D (E/B,/) | C2|]
+[V: P3]  (F,/G,/) | A, G, G, | C B, A, | B, B, B, | A,2 (F,/G,/) | A, G, G, | C B, A, | B, B, B, | A,2 C | C B, A, | G, =E D | =E C (B,/A,/) | G,2 (F,/G,/) | A, G, G, | C B, G, | D B, B, | (B, A,) C/ C/ | (F,/A,/) (B,/D,/) F,/ =E,/ | F, F, G, | A,3/ B,/ C/ C/ | (D/C/) B, A, | C A, (B,/A,/) | G,2 (F,/G,/) | A, G, G, | C B, A, | B, B, B, | (B, A,)|]
+[V: P4]  F, | F, C, E, | F, G, F, | D, B,, (E,/G,/) | F,2 F, | F, C, E, | F, G, F, | D, B,, (E,/G,/) | F,2 C, | D, D, C, | C, C B, | A, A,, B,, | C,2 F, | F, C, E, | F, G, E, | D, D, (E,/G,/) | F,2 F,/ =E,/ | (D,/C,/) B,, C,/ C,/ | D, F, C, | F, F, F,/ A,/ | G, G, F, | =E, D, B,, | C,2 F, | F, C, E, | F, G, F, | D, B,, (E,/G,/) | F,2|]
+

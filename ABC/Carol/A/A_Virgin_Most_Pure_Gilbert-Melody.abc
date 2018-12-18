@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Most Pure
+Z: Melody from Davies Gilbert, 1822
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  (A/B/) | (c/d/) (e/d/) (c/B/) | A G c | B3/ A/ (G/E/) | F2 (A/B/) | (c/d/) (e/d/) (c/B/) | A G c | B3/ A/ (G/E/) | F2 =E | F3/ G/(3 (A/B/c/) | (B/A/) G d | c (f/=e/) d | c2 (A/B/) | (c/d/) (e/d/) (c/B/) | A G c | B3/ A/ (G/E/) | F2"^Chorus" A/ c/ | (B/A/) (G/B/) A/ G/ | F F =E | F3/ G/ A/ c/ | (B/A/) G d | c (f/=e/) d | c2 (A/B/) | (c/d/) (e/d/) (c/B/) | A G c | B3/ A/ (G/E/) | F3|]
+w: A_ vir-_ gin_ most_ pure, as the pro- phets do_ tell, Hath_ brought_ forth_ A_ Ba- by, as it hath be-_ fell, To be our Re-__ deem_ er from death, hell_ and sin, Which_ A-_ dam’s_ trans-_ gres sion had wrap- ped us_ in. Aye and there-_ fore_ be you mer- ry, Re- joice and be you mer-_ ry; Set sor- rows_ a- side; Christ_ Je-_ sus_ our_ Sa- viour was born on this_ tide.
+

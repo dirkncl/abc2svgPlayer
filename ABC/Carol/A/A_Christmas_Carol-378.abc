@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Christmas Carol
+Z: French Carol Harmonized by Johannes Gebauer
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=75
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  G3/4 B/4 G/ A/ | B2 | d3/4 c/4 B/ c/ | B A | A3/4 B/4 G/ A/ | B2 | d3/4 c/4 B/ c/ | B A | A3/4 B/4 G/ A/ | B/ c/ A | A3/4 B/4 A/ G/ | E/ F/ D | G3/4 A/4 B/ A/ | A A | A3/4 B/4 c/ A/ | B B | B3/4 c/4 d/ B/ | A/ G/ A | G3/4 A/4 B/ A/ | Gz | B/ c/ d | A/ B/ c | G3/4 A/4 B/ c/ | B A | Gz/"^Chorus" D/ | G G/ A/ | B3/4 A/4 G/ A/ | B d | Az/ D/ | A A/ B/ | c3/4 A/4 G/ F/ | G A | B3/z/4 B/4 | B3/z/4 e/4 | e3/z/4 d/4 | d2 | G/ A/ B3/4 G/4 | d3/z/4 B/4 | Bz3/4 e/4 | ez | d/ c/ A3/4 G/4 | G2|]
+w: Let us sing the birth, Nos- tri Sal- va to ris; Bring- ing grace to earth, De- i su- i Pa- tris! Lo, this child, how high was He Now made low to our de- gree! Kings of Kings most ho- ly, Born in man- ger low- ly! In ex- cel sis glo- r ia! Sang the an- gels all Shep- herds woke, heard the call, In ex- cel sis glo- ri a! O sing, all ye low- ly folk, o’er all the earth! O sing, all ye an- gels for our Sa- viour’s birth! No- el, No- el, No- el, Christ is born to- day! No- el, No- el, Christ is born to- day!
+[V: P2] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | D3/4 G/4 B,/ D/ | G/ A/ D | D3/4 G/4 F/ E/ | ^C/ A,/ D |z2 | D3/4 E/4 F/ D/ | D D | D3/4 F/4 G/ D/ | (G3/4A/4) B/z/ |z2 | E/ ^C/ D/ =C/ | B,/ D/ G | G/ A/ (F/D/) | =F/ G/ (E/C/) | E3/4 ^F/4 G/ E/ | (D/G/) (D/C/) | B,z/ D/ | D D/ F/ | G3/4 F/4 D/ F/ | G G | Fz/ D/ | F F/ ^G/ | A3/4 E/4 E/ B,/ | E F | F3/z/4 E/4 | E3/z/4 G/4 | G3/z/4 F/4 | F2 | G/ A/ B3/4 G/4 | d3/z/4 ^G/4 | ^Gz3/4 =G/4 | Gz | F/ F/ F3/4 G/4 | D2|]
+[V: P3] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |zz/ D/ | B, B,/ D/ | D3/4 C/4 B,/ D/ | D D | Dz/ D/ | D D/ D/ | D3/4 C/4 B,/ B,/ | B, E | ^D3/z/4 B,/4 | B,3/z/4 E/4 | E3/z/4 A,/4 | A,2 | G,/ A,/ B,3/4 G,/4 | D3/z/4 E/4 | Ez3/4 E/4 | Ez | F/ E/ C3/4 D/4 | B,2|]
+[V: P4] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |zz/ D,/ | G, G,/ D,/ | G,3/4 G,/4 G,/ D,/ | G, B,, | D,z/ D,/ | C C/ B,/ | A,3/4 C/4 B,/ ^D,/ | E, C, | B,,3/z/4 G,/4 | G,3/z/4 C/4 | C3/z/4 D,/4 | D,2 | G,/ A,/ B,3/4 G,/4 | D3/z/4 D/4 | Dz3/4 C/4 | Cz | D,/ D,/ D,3/4 G,/4 | G,2|]
+

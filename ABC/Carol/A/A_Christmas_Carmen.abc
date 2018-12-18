@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Christmas Carmen
+Z: Harold Darke
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A2 B A/ G/ | A Az d | (F G) E3/ D/ | D3 D | B2 E E | (A3/ F/) D3/ D/ | (E F/ G/) A F | G3 G | [M: 3/4]  e d =c | B A G | A (B/=c/) A | (B G) e | d =c B | A F G | A B C | D2 D | D E A | F D D | F E A | F D3/ A/ | B A G | A Az/ A/ | B (=c/B/) (A/G/) | A2 d | c B (A/F/) | E E e | d =c B | A2 D | E (F/G/) A | G E G | =c3 | (B A) G | A3|]
+w: Sound ov- er all wat- ers, reach out_ from all lands, The chor- us of voi-_ ces, the clasp-__ ing of hands; Sing hymns that were sung by the stars of_ the morn,_ Sing songs of the an- gels when Je- sus was born With glad jub- i la tions, bring hope to the na- tions The dark night is end- ing and dawn has_ be-_ gun: Rise, hope of the_ a- ges, a- rise like the sun, All speech flow_ to mu- sic, all hearts beat_ as one!
+

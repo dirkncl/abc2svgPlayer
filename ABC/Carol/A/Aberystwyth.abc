@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Aberystwyth
+Z: Joseph Parry, 1879
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Aberystwyth"
+%%MIDI program 2 91
+K: C
+[V: P1]  [EA] A/[^G/B/] [A/c/][B/d/] [ce] | [Ac] [^GB] [E2A2] | [Ac] [^GB] A [EG] | [E/A/]B/ [Ac] [^G2B2] | [EA] [E/A/][^G/B/] [A/c/][B/d/] [ce] | [Ac] [^GB] [E2A2] | [^GB] [A/c/][B/d/] [ce] [Bd] | [Ac] [^GB] [E2A2] | [FA] [EG] [FA] [FB] | [Gc] [B/e/]d/ [G2c2] | [Ac] [^GB] [Ac] [B/d/]=G/ | [Ge] [B/g/][A/^f/] [G2e2] | [Aa] [c/a/]B/ [cg] [Ge] | [Ac] [Ad] [B2e2] | A A/[^G/B/] [A/c/][B/d/] [ce] | [Ac] [^GB] [E2-A2-] | [E2A2]z2|]
+[V: P2]  [A,C] [C,/E/]E,/ [A,E] [C,/E/]D,/ | [E,E] [E,/E/]D/ [A,2C2] | [A,E] [B,E] [CE] [DE] | [C/E/]B,/ [A,E] [E,2E2] | [A,/C/][B,/D/] [C/E/]B,/ [A,E] [C,/E/]D,/ | [E,E] [E,/B,/]D/ [A,2C2] | [E,E] [A,/E/][G,/G/] [CG] [DF] | E [E,/E/]D/ [A,2C2] | [F,C] [C,C] [F,/C/]E,/ [D,D] | [C,E] [G,/G/]F/ [C,2E2] | [A,E] [E,E] [A,E] [G,/G/]B,/ | C/E/ B,/^D/ [E,2E2] | [F,C] F [EG] C | [A,E] [F,A] [E,2^G2] | [C/E/][D/F/] [C/E/][B,/D/] [A,E] [C,/E/]D,/ | [E,E] [E,/4B,/4]C/4D/ [A,2-C2-] | [A,2C2]z2|]
+

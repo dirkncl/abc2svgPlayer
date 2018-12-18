@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Child This Day Is Born
+Z: Christmas Carols, Ancient & Modern, 1833
+Z: Public domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="A Child This Day Is Born"
+%%MIDI program 2 91
+K: D
+% Extracting voice 1 from part P1
+[V: P1_1]  | [A,A] d c A/B/ | c e e [Ce] | [A,d] [Cc] d/c/ [DB] | | A D B/c/ [G,d] | A3/ B/ A3/ G/ | F d F |||"^Refrain" | A d c A/B/ | c3 [zC2)] e | [B,d] [Cc] d/c/ [DB] | A3 [zC2)] | A B/c/ [B,d] | A3/ B/ A3/ | F d F ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x1  A,2 | C3 x1  | x2  D x1  | | A,2 G, x1  | A,2 A,2 | A,2 A,2 E |||"^Refrain" | A,2 A,2 | C2 x2  | x2  D x1  | C2 x2  (A | A,2 D B, x1  | A,2 A,2 G/ | A,2 E ||]
+[V: P2]  [(D,(F,] | [D,2F,2] [C,2E,2] | [E,3A,3] [E,A,] | [D,F,] [E,A,] [G,B,] [G,B,] | [E,2A,2] [E,)A,)] [(E,(A,] | [D,2F,2] [D,G,] [D,G,] | [D,2F,2] [D,2F,2] | [D,2F,2] [A,,2A,2] | [D,3)F,3)]|| [(D,(F,] | [D,2F,2] [C,2E,2] | [E,2A,2] [E,2A,2] | [D,F,] [E,A,] [G,B,] [G,B,] | [E,2A,2] [E,2)A,2)] | [(D,2(F,2] [D,G,] [D,G,] | [D,2F,2] [C,2E,2] | [D,2F,2] [A,,2A,2] | [D,4)F,4)]|]
+

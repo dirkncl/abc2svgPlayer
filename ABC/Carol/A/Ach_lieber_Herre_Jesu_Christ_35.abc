@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ach! lieber Herre Jesu Christ
+Z: Melody of the 15th Century
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  e | d c d e | c B B e | d c G B | A G G F | G A A G | F E E B | B c d e | B G G"^Refrain" F | A G (E G | A) G G F | A G (E G | A) G G|]
+w: An In- fant lay with- in a shed, Where ox and ass were tied and fed; hard by there stood a Maid- en mild, Saint Ma- ry, mo- ther to the Child. My God, my Lord__ Je- sus, 'Tis He was cra-__ dled thus.
+

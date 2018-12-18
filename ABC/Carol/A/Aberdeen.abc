@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Aberdeen
+Z: Melody from Bremner's Collection, 1763
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Aberdeen, CM"
+%%MIDI program 2 19
+K: C
+[V: P1]  [G2c2] [Gd] [Ge] | G [Ec] [Ad] [GB] | [G2c2] [c2e2] | [Bd] [cg] [A/f/]B/ [ce] | [B2d2] c2 | [Bd] [c/e/]^A/ [=Af] [Ge] | [Gd] [G/c/]^F/ [G2B2] | G2 [FA] [Af] | [Ge] d/F/ [E2-c2-] | [Ec]z3|]
+[V: P2]  [C2E2] [G,B,] C | [B,D] [A,E] [F,F] [G,D] | [C,2E2] [C2G2] | [G,/G/]F/ E [DF] [CG] | [G,2G2] [C2E2] | [G,G] [CG] [F,F] C | [B,D] [A,D] [G,2D2] | [E,2C2] [F,C] [F,C] | [G,C] [G,B,] [C,2-C2-] | [C,C]z3|]
+

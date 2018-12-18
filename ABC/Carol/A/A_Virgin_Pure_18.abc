@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Pure Both Meek and Mild
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=92
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  (B A) | G3 F | (B3/4A/4 B/c/ d) c | d2 c2 | B3 G | A3/ B/ c (d/B/) | A2 G2 | F3 F | G3/ A/ B c | B2 A2 | B3z | z4 | z4 |z2z (B/c/) | d d d (c/B/) | c c c (c/d/) | e d c B | c3/ c/ c (B/c/) | (d/c/) (d/e/) d c | B3/ B/ B (c/d/) | e (d/c/) d e | d2 c2 | B4|]
+w: A_ Vir- gin pure____ both meek and mild In Beth- le hem brought_ forth her Child, In Beth- le hem brought forth her Child: Our_ Na- ture first on_ Him to take, And_ then, as Christ, as peace to make, Our_ na-_ ture_ first on Him to take, And_ then, as_ Christ, our peace to make.
+[V: P2]  (D F) | E2 C2 | (F3/ E/ D) G | F3 E | (D3/ E/ F) G | F3/ F/ F F | F2 =E2 | C3 D | E3/ E/ D G | F2 (F E) | D3z | z4 | z4 |z2z F | F (D/ E/) F D | F =E F F | _E (E/F/) G =E | F G Fz |z2z F | G3/ G/ F F | E F F G | (F D) (F D) | D4|]
+[V: P3]  B,2 | B,2 A,2 | B,2 (F E) | (D B,) A,2 | F,3 C | C3/ C/ F D | C2 (C B,) | A,3 B, | B,3/ C/ B, E | D2 C2 | B,3z | z4 | z4 |z2z (D/C/) | B, B, B, B, | (A,/G,/) (A,/B,/) A, B, | G, (G/F/) (E/D/) (C/B,/) | A, B, A,z |z2z D | E3/ E/ D F, | G,3/ A,/ B, B, | B,2 A,2 | F,4|]
+[V: P4]  B,,2 | E,2 F,2 | (D,3/ C,/ B,,) E, | F,2 F,,2 | (B,,3/ C,/) D, =E, | F,3/ G,/ A, B, | C2 C,2 | F,3 B,, | E,3/ C,/ G, E, | F,2 F,,2 | B,,3 B, | A, G, F, D, | (E, D, C,) B,, | F,3 F, | B, (F,,/G,,/) A,, G, | F, F, F, D, | C, (C,/D,/) E, G, | F,3/ F,/ F,z | z4 |z2z D, | C, F, B, E, | F,2 F,,2 | B,,4|]
+w: . . . .__ . . . ._ . . . . . . . . . . . . . . . . . Our Na- ture first on Him__ to take,__________________________
+

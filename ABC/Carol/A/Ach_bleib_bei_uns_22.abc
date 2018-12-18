@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ach! bleib bei uns, Herr Jesu Christ
+Z: Johann Sebastian Bach
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  c | (c/ d/) e c A | B c d c | B A (A3/ B/ | c) c (B/ A/) B | A3 c | (c/ d/) e c A | B c d c | B A (A3/ B/ | c) c (B/ A/) B | A3 c | B c A F | G A B c | A A (A3/ B/ | c) c (B/ A/) B | A3|]
+w: To us_ is born a lit- tle Child Of Ma- ry, maid-__ en mo-_ ther mild: Whom An-_ gels laud with ser- vice sweet, Let us His own__ poor ser-_ vants greet. And there- fore Fa- ther, Son, a- dore, With Ho- ly Ghost,__ for- ev_ er more.
+

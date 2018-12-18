@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Virgin Most Pure
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=85
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  G | G d (d/c/) | B B (B/A/) | (G/A/) B A | G2 G | G d (d/c/) | B B (B/A/) | (G/A/) B A | G2 B | A (A/B/) c | (B/A/) (G/F/) (G/A/) | (B/c/) d ^c | d2 (=c/B/) | (c/d/) (e/c/) (B/A/) | d (d/c/) (B/A/) | (G/A/) B A | G2"^Chorus" B/ B/ | A (A/B/) c | (B/A/) (G/F/) (G/A/) | (B/c/) d ^c | d2 (=c/B/) | (c/d/) (e/c/) (B/A/) | d (d/c/) (B/A/) | (G/A/) B A | G2|]
+w: A Vir- gin most_ pure, as the_ pro-_ phet do tell, Hath brought forth a_ ba- by as_ it_ hath be- fel, To be our_ Re- deem_ er_ from_ death,_ hell and sin, Which_ A-_ dam's_ trans-_ gress ion_ has_ wrap-_ ped us in: Aye and there- fore_ be mer-_ ry,_ set_ sor-_ row a- side: Christ_ Je-_ sus_ our_ Sa- viour_ was_ born_ on this tide.
+[V: P2]  E | D D D | B D D | E D D | B,2 E | D D D | G D D | E D D | B,2 G | F F G | G (D/C/) (B,/C/) | (D/E/) F E | F2 G | G G F | G (F/E/) (D/C/) | (B,/C/) D F | D2 G/ G/ | F F G | G (D/C/) (B,/C/) | (D/E/) F E | F2 G | G G F | G (F/E/) (D/C/) | (B,/C/) D F | D2|]
+[V: P3]  C | B, A, F, | G, F, D, | G, (F,/E,/) F, | G,2 (G,/A,/) | B, A, F, | G, F, D, | G, (F,/E,/) F, | G,2 D | D A, E | (D/C/) (B,/C/) D | D A, E | D2 D | E E D | G, D, G, | D G, A, | B,2 D/ D/ | D A, E | (D/C/) (B,/C/) D | D A, E | D2 D | E E D | G, D, G, | D G, A, | B,2|]
+[V: P4]  C, | G, F, D, | E, D, B,, | C, D, D, | G,,2 C, | G, F, D, | E, D, B,, | C, D, D, | G,,2 G, | D, D, C, | G, (G,/A,/) (B,/A,/) | G, A, A,, | D,2 G, | C, C, D, | B,, B,, C, | D, D, D, | G,,2 G,/ G,/ | D, D, C, | G, (G,/A,/) (B,/A,/) | G, A, A,, | D,2 G, | C, C, D, | B,, B,, C, | D, D, D, | G,,2|]
+

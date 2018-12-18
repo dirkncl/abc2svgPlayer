@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Shepherd Band Their Flocks Are Keeping
+Z: Praetorius
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d | d B G A | (B/c/ d2) B | c Bz d | d3/ B/ A3/ G/ | c/ A/ d B B | B/ B/ B/ c/ d d | (d c/B/ A2 | G F/ E/ D) D | G G A A | (B/c/ d2) B | (B A/G/ B) A | G2z|]
+w: A shep- herd band their flocks__ are keep- ing, And gen- tle lambs are sweet- ly sleep- ing; When sud- den ly they all be- hold_______ An an- gel in bright robes__ with harp___ of gold.
+

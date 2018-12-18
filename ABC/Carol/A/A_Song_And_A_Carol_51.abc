@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Song And A Carol For Christmas-tide
+Z: Rev. George P. Grantham
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G3/ F/ G | B3/ A/ G | (F/E/) F | G B c | d3/ ^c/ d | (e/d/) B | (A3 | A2) D | B3/ ^A/ B | d3/ c/ B | A2 B | G3/ (A/ B) | A A F | G G E | (D3 | D2) d | d2 c | B3/ c/ d | c2 B | A B c | d3/ d/ d | (d c) B | (A3 | A2) D | B3/ A/ B | G- G D | c3/ B/ c | A2 D | d3/ c/ B | A B A | (G3 | G2)|]
+w: A song and a Ca- rol for Christ-_ mas tide Of the Prince of the Gold-_ en Shore,_ Whom ar- mies of light, in their ves- ture bright, Love,_ serve, and a- dore e- ver more._ Far, far be- low, where the sun- beams glow On a realm of His wide_ do- main,_ Sad ru- in and woe,_ hath come through His foe, With trou- ble and sor- row and pain._
+

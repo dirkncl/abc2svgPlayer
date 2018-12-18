@@ -1,0 +1,32 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Wassail, A Wassail
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2_1 name="Right Hand"
+V: P2_2
+%%MIDI program 2 0
+V: P3_1 name="Left Hand"
+V: P3_2
+%%MIDI program 3 0
+K: Ab
+[V: P1]  C | (F c) c B | (A G) F =E | F G A B | c2z C | F c c B | A G F =E | F G A B | cz c =d | e2 =d c | f2 c c | A2 G F | B2 A B | c2 d3/ B/ | cz c B | (A F) (G =E) | F2 c =d | e2 =d c | f2 c c | A2 G F | B2 A B | c2 d3/ B/ | cz c B | (A F) (G =E) | F3|]
+w: A was-_ sail, a was-_ sail, a was- sail we be- gin, With su- gar plums and cin- na mon, and ot- her spi- ces in; With a was- sail, a was- sail, a jol- ly was- sail, And may joy come to you and to our_ was-_ sail With a was- sail, a was- sail, a jol- ly was- sail, And may joy come to you and to our_ was-_ sail
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | [(C(F] G [GA] [FB] | c3 [B,C] | [(A,(F] c) c B | [CFA] [FG] F | F B | [Cc]z c =d | e2 [F=d] [Gc] | f2 [Fc] [Ec] | (A2 | B2) B | [(C(c] c) d3/ B/ | | [CA] [A,F] G | [A,2F2] (c =d) | e2 [F)=d)] [Gc] | f2 [Fc] [Ec] | (A2 | B2) B | [Cc] c d3/ B/ | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | x1  G) x2  | =E D C x1  | x1  =E2 | x2  C2 =E | C3 G A _E/ D/ | x2  A2 | G E x2  | A G x2  | D4 G F | D4 A | x1  F3 | | x2  G,2 =E | x2  A2 | (G E x2  | A G x2  | D4 G F | D4 A | x1  F3 | | ||]
+% Extracting voice 1 from part P3
+[V: P3_1]  | | C B, A, G, | | | | [(F,,(C] [C,)B,)] [C,A,] G, | F,3 [E,,G,] | | C4 | C2 A, [(A,,/(A,/] [A,,/)G,/)] | F,2 G, (A, | A,) G, F, G, | [A,,2A,2] F, G, | [F,,A,] F,2 | (F, C) C B, | [F,,A,] G, F,2z | C4 | C2 A, [(A,,/(A,/] [A,,/)G,/)] | F,2 G, A, | A, G, F, G, | [A,,2A,2] F, G, | [F,,A,] F,2 | (F, C) C B, ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | | F,3 G, | | | | x3  (C,/ B,,/) | A,, G,, F,, x1  | | C,2 D, E, | F, G, A, x1  | D,4 | B,,4 | x2  B,,2 | x1  G,, A,, B,, | C,2 C,2 | x1  F, x1  | C,2 D, E, | F, G, A, x1  | D,4 | B,,4 | x2  B,,2 | x1  G,, A,, B,, | C,2 C,,2 ||]
+

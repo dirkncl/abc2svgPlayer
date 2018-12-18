@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Thousand Years Have Come And Gone
+Z: Traditional; Arr. by Arthur Sullivan
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: F
+[V: P1]  (F/G/) | A G F (G/A/) | B A Gz/ c/ | c A (B/c/) d | c3 (A/B/) | c c A F | B A G (F/G/) | (A/B/) c A G | F3 F | E D E G | F3/ E/ D A | G F E D | C3 C | c B A (G/A/) | B A G (F/G/) | (A/B/) c A G | F3|]
+w: A_ thou- sand years have_ come and gone, And near a thou-_ sand more, Since_ hap- pier light from Heav- en shone Than_ ev-_ er shone be- fore: And in the hearts of old and young A joy most joy- ful stirred, That sent such news from_ tongue to tongue, As_ ears_ had nev- er heard.
+

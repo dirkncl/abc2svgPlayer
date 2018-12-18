@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Tale Of The Olden Time
+Z: Rev. B. W. J. Trevaldwyn
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: C
+[V: P1]  G | c B3/4 A/4 G E3/4 D/4 | C D E E3/4 E/4 | A B/ c/ B E/ E/ | A (B/ c/) d2 | e3/ d/ c A | G2 c2 | d4 | c3 G | G A/ B/ c B/ A/ | G D/ A/ G G | B c/ c/ d (G/A/) | B A3/4 G/4 G2 | G3/ G/ G G | A2 G2 | c3/ c/ c c | e2 d2 | c3/ c/ B A | G2 c2 | d4 | c4|]
+w: I'll tell you a tale of the old- en time, While the Yule log burns bright, and the Church bells_ chime. Glo- ria in ex- cel sis De- o. There sate a fair Prin- cess in joy on her throne, And there in her arms her_ In- fant was shown: Glo- ria in ex- cel sis, Glo- ria in ex- cel sis, Glo- ria in ex- cel sis De- o.
+

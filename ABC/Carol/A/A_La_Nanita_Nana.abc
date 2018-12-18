@@ -1,0 +1,30 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A La Nanita Nana
+Z: Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Staff"
+%%MIDI program 1 25
+V: P2 name="Staff-2"
+%%MIDI program 2 52
+V: P3 name="Staff-3"
+%%MIDI program 3 21
+V: P4 name="Staff-4"
+%%MIDI program 4 34
+V: P5 name="Staff-5"
+%%MIDI program 5 75
+V: P6 name="Tempo Track"
+%%MIDI program 6 -1
+K: C
+[V: P1]  D/D/4E/4F/4G/4 A/A/4A/4^A/4G/4 | A/A/4A/4^A/4G/4 d/ =A | G/A/4^A/4c/4A/4 =A/4G/4F/4G/4A/4F/4 | G/4F/4E/4F/4G/4E/4 F/4E/4 D | ^F/4A/4d/^c/4B/4 c/ A | B/A/G/ ^F/4G/4 A | ^F/4A/4d/^c/4B/4 c/ A | B/A/G/ ^F/4G/4 A | ^A/A/4A/4A/4A/4 =A/ A | G/G/G/ ^F/4G/4 A | G/G/4G/4G/4G/4 ^F/ F | E/E/E/ ^F/4E/4 D|]
+[V: P2] z3 |z3 |z3 |z3 | ^F/4A/4d/^c/4B/4 c/ A |z3 | ^F/4A/4d/^c/4B/4 c/ A |z3 | ^A3/ =A3/ | G3/ ^F/4G/4 A | G3/ ^F3/ | E3/ ^F/4E/4 D|]
+[V: P3]  D/D/4^C/4D/4E/4 F/F/4F/4G/4E/4 | F/F/4F/4G/4E/4 E/ F | E/F/4G/4A/4G/4 F/4E/4D/4E/4F/4D/4 | E/4D/4^C/4D/4E/4C/4 D/4C/4 D | ^F3/ G3/ | G/^F/E/ D/4E/4 F | ^F3/ G3/ | G/^F/E/ D/4E/4 F | [E3/G3/] ^F3/ | E3/ D/4E/4 ^F | [^C3/E3/] D3/ | [^A,3/^C3/] D/4C/4 D|]
+[V: P4]  D, A,/ D A,/ | D, A,/ ^A,/D/D,/ | ^C/ A, D/ A, | B,/A,/^A,/ D,/ =A, | A, A,/ A, A,/ | A, A,/ A, A,/ | A, A,/ A, A,/ | A, A,/ A, A,/ | ^C3/ D3/ | ^A,3/ =A,3/ | B,3/ A,3/ | G,3/ A,/4G,/4 ^F,|]
+[V: P5] z3 |z3 |z3 | B,/A,/^A,/ D,3/ | D, D,/ E, E,/ | A,, A,,/ D, D,/ | D, D,/ E, E,/ | A,, A,,/ D, D,/ | D,3/ D,3/ | D,3/ D,3/ | D,3/ D,3/ | D,3/ D,3/|]
+[V: P6] z3 |z3/z3/ |z3 |z3/z3/ |z3/z3/ | z4 |z3/z3/ |z3 |z3 |z3 |z3 |z3/z3/|]
+

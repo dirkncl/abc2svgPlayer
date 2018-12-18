@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Babe Is Born
+Z: Ancient Melody
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: Eb
+[V: P1]  C | C G F G | E3/ D/ Cz/ G/ | c d e d | c (B/c/) G G | c d e d | c (B/c/) G3/ F/ | E F G3/ E/ | C C C|]
+w: A Babe is born, all of a Maid, To bring sal- va tion un- to_ us: No more are we to sing a-_ fraid, Ve- ni, Cre- a tor Spr- ri tus
+

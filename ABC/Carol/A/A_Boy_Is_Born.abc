@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Boy Is Born In Bethlehem
+Z: German Traditional
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  F | A2 B | c2 e | c2 B | A2 c | e2 c | A2 B | A2 G | F2 F | F2 F | E2 F | A2 G | F2 F | B2 c | A2 F | G2 G | F2|]
+w: A Boy is born in Beth- le hem! Al- le lu ia! Al- le lu ia! Glad ti- dings for Je- ru sa lem! Al- le lu ia! Al- le lu ia!
+
