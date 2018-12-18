@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Heil'ges Kind
+Z: A. H. Wenk
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  d/ | d B/ B G/ | (A/c/) F/ G d/ | d B/ B G/ | (A/c/) F/ G B/ | A c/ c A/ | (G/B/) d/ d B/ | A c/ c A/ | (G/B/) A/ G|]
+[V: P2]  G/ | G G/ G G/ | F D/ D G/ | G G/ G G/ | F D/ D G/ | A F/ F F/ | G G/ G G/ | E E/ E F/ | G F/ G|]
+[V: P3]  B,/ | B, D/ D D/ | D C/ B, B,/ | B, D/ D D/ | D C/ B, D/ | D D/ D D/ | D B,/ B, D/ | C C/ C D/ | D C/ B,|]
+[V: P4]  G,/ | G, G,/ G, B,,/ | D, D,/ G, G,/ | G, G,/ G, B,,/ | D, D,/ G, G,/ | F, A,/ A, C/ | B, G,/ G, G,/ | C, A,,/ A,, D,/ | B,, D,/ G,,|]
+

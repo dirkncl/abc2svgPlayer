@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O! Come Ye Down To Cana
+Z: Henry J. Gauntlett
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E | E c c c | d2 d E | E B B B | c3 A | G c c G | A c2 c | c B A G | F3 E | E A A c | c2 c E | =D B B A | G3 A | G d d A | G d2 c | B F G B | A3|]
+w: O! come ye down to Ca- na, And Christ's dear foot- prints trace, For He is gone with Ma- ry, A mar- riage feast to grace. How fair the hap- py con- course! How bright the gay robes shine! How joy- ous, too, the feast- ers! But lo! there lack- eth wine!
+

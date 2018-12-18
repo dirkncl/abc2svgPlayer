@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Dark Was The Night
+Z: B. W. J. Trevaldwyn
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F/ | F =E3/4 G/4 F3/ B/ | B A3/4 c/4 B3/ B/ | d B/ G/ F D/ G/ | F C3/4 C/4 D3/ F/ | F =E/ G/ F D/ F/ | B c d3/ d/ | d c/ G/ B A/ G/ | F c B3/z/ |"^Chorus" B3/4 B/4 B/ B/ B A | e3/4 e/4 d/ c/ c B | G3/4 G/4 B/ G/ F B | (B/A/G/A/) B3/|]
+w: O dark was the night and cold blew the wind, But Jo- seph and Ma- ry no shel- ter could find; In all the fair ci- ty of Beth- le hem, In cot- tage or inn was no room for them. Glo- ria in ex- cel sis, Glo- ria in ex- cel sis, Glo- ria in ex- cel sis De-___ o.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Hark To The Bells' Glad Song
+Z: From "Piae Cantiones"
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  G | G A B (A G) F | G3 d2 d | c3 d2 e | d3 c2 d | B3z2 B | d2 c d2 G | G3 A2 c | B3 A2 F | A3 B2 c | (B3 A2) F | (G3 G2)|]
+w: O hark to the bells’_ glad song as it float- eth so clear, Far and near! A Vir- gin hath con- ceiv ed and brought forth a Son Here in Beth-_ le hem._
+

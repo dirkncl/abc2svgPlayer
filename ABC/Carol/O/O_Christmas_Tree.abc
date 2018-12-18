@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Christmas Tree
+Z: German Folk Song
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="O Tannenbaum"
+%%MIDI program 1 9
+V: P2 name="Staff"
+%%MIDI program 2 84
+V: P3 name="Staff-2"
+%%MIDI program 3 71
+V: P4 name="Staff-3"
+%%MIDI program 4 100
+V: P5 name="Staff-4"
+%%MIDI program 5 43
+K: C
+[V: P1] z3 |z2 c- | c G2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z2 c3/4^F/4 | A Gz |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z2 D | G2 A | B3 |z c2 |z G2|]
+[V: P2] z3 |z3 |z2 D | G3/4G/4 G A | B3/4B/4 B3/ B/ | A/B/ c ^F | A G D | G3/4G/4 G A | B3/4B/4 B3/ B/ | A/B/ c ^F | A G d | d/B/ e3/ d/ | d/c/ c3/ c/ | c/A/ d3/ c/ | c/B/ B D | G3/4G/4 G A | B3/4B/4 B3/ B/ | A/B/ c ^F | A Gz |z2 D | G3/4G/4 G A | B3/4B/4 B3/ B/ | A/B/ c ^F | A G D | G3/4G/4 G A | B3/4B/4 B3/ B/ | A/B/ c ^F | A G d | d/B/ e3/ d/ | d/c/ c3/ c/ | c/A/ d3/ c/ | c/B/ B D | G3/4G/4 G A | B3/4B/4 B3/ B/ | A/B/ c ^F | A G2|]
+[V: P3] z2z/ [D/^G/B/] | [C/E/A/][D/^G/B/] [EAc] [A,^F] | [CDA] [B,DG]z |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z2 D | [B,3/4D3/4][B,/4D/4] [B,D] [D^F] | [D3/4G3/4][E/4G/4] [D3/G3/] [D/G/] | [C/E/][D/^G/] [EA] [CD] | [CD] [B,D] D | [B,3/4D3/4][B,/4D/4] [B,D] [D^F] | [D3/4G3/4][E/4G/4] [D3/G3/] [D/G/] | [C/E/][D/^G/] [EA] [CD] | [CD] [B,D] B | B/G/ c3/ B/ | B/A/ A3/ A/ | A/^F/ B3/ A/ | A/G/ G D | [B,3/4D3/4][B,/4D/4] [B,D] [CD] | [D3/4A3/4][D/4A/4] [D3/^G3/] [D/G/] | [C/E/][D/^G/] [EA] [A,^F] | [CD] [B,2D2]|]
+[V: P4] z3 |z3 |z3 | B,2 D | D3 | ^F,/G,/ A, C | D Dz | B,2 D | D3 | ^F,/G,/ A, C | D Dz | G,, B, B, | A,, C C | D,, C C | G,, B,z | B,2 D | D3 | ^F,/G,/ A, C | D Dz |z2 D, | G,3/4G,/4 G, D, | G,3/4G,/4 G,3/ G,/ | C,/B,,/ A, D, | D D D, | G,3/4G,/4 G, D, | G,3/4G,/4 G,3/ G,/ | C,/B,,/ A, D, | D Dz |z/ G,,/ G,,/D,/ G, |z/ ^F,,/ F,,/A,,/ F, |z/ D,,/ D,,/A,,/ D, |z/ G,,/ G,,/D,/ D, | G,3/4G,/4 G, G,/^F,/ | F,3/4F,/4 E,/B,,/ E,/D,/ | C,/B,,/ A,, D, | G, G,,2|]
+[V: P5] z3 |z3 |z3 | G,2 ^F, | G,3 | ^F,/G,/ A, C | [^F,C] [G,B,]z | G,2 ^F, | G,3 | ^F,/G,/ A, C | [^F,C] [G,B,]z | G,, [D,G,] [D,G,] | A,, [E,A,] [E,A,] | D,, [D,^F,] [D,F,] | G,, [D,G,]z | G,2 ^F, | G,3 | ^F,/G,/ A, C | [^F,C] [G,B,]z |z2 D, | G,,3/4G,,/4 G,, D,, | G,,3/4G,,/4 G,,3/ G,,/ | C,/B,,/ A,, D, | [^F,C] [G,B,] D, | G,,3/4G,,/4 G,, D,, | G,,3/4G,,/4 G,,3/ G,,/ | C,/B,,/ A,, D, | [^F,C] [G,B,]z |z/ G,,/ G,,/D,/ G, |z/ ^F,,/ F,,/A,,/ F, |z/ D,,/ D,,/A,,/ D, |z/ G,,/ G,,/D,/ D, | G,3/4G,/4 G, G,/^F,/ | F,3/4F,/4 E,/B,,/ E,/D,/ | C,/B,,/ A,, D, | G, G,,2|]
+

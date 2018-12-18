@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Babe! In Manger Lying
+Z: W. C. Dix
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=112
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1] "^Tenderly " E | E E F (E/ D/) | E2 E A | c c B (A/ ^G/) | E3 E | E E F (E/ D/) | E2 E c | B (A/ G/) A (G/ ^F/) | E3 E | B B c (B/ A/) | B2 E e | d c B A | ^G2 E2 | [K: A]  c c (B/ ^A/) (B/ c/) | A2 E E | e e (d/ c/) (d/ e/) | c2 A A | f e d c | (B A) G F | E A (A/ G/) (A/ B/) | A3|]
+w: O Babe, in man- ger_ ly- ing, O Child, most fair to_ see, The first fruits of the_ Gen- tiles By star were_ led to_ Thee; We now with joy- ful_ wor- ship, Do haste to Bethl’- hem town, To greet Thee with_ Thy_ Mo- ther, To greet Thee with_ Thy_ Mo- ther, To greet Thee with Thy Mo-_ ther, And hum- bly there_ fall_ down.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Christmas Bells, Ring Far And Near
+Z: C. Simper
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G | c c c (B/ A/) | G3/ F/ E G | (A/ B/) c d3/ c/ | B3 (G/ F/) | c c c (B/ A/) | G3/ F/ E G | (C/ D/) (E/ F/) E D | C3 E | E3/ ^D/ E G | F3/ E/ F A | G3/ c/ B c | d3 G | e3/ e/ d B | c d B G | (E/ ^F/) G G ^F | G3"^Chorus" G | G/ A/ Gz G | G/ A/ Gz G | c3/ c/ d3/ c/ | B3 (c/ B/) | A3/ A/ G c | c d e c | (B/ A/) (G/ A/) B d | c3|]
+w: O Christ- mas bells, ring_ far and near, Pro- claim_ the Sav- iour’s birth, Bid_ ev’- ry Chris- tian_ heart “Good cheer,” And tell_ men_ of His worth. Ring sweet- ly thro’ the mid- night sky, And join the An- gels’ song, For Christ the “True Light” from on high Hath come_ to ban- ish wrong. Ring mer- ri ly, ring cheer- i ly, Send high your voi- ces sweet; And_ winds of heav’n shall waft our notes To Sa-_ lem’s_ gold- en streets.
+

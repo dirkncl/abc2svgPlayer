@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Come, Little Children
+Z: J. P. A. Schultz
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c/ | c A/ c/ | c A/ c/ | B G/ B/ | Az/ c/ | c A/ c/ | c A/ c/ | B G/ B/ | Az/ A/ | G G/ G/ | B B/ B/ | A A/ A/ | d3/ d/ | c c/ c/ | f c/ A/ | B G/ E/ | F2|]
+w: O come, lit- tle child- ren, from near and a- far, And gaze on the won- der 'neath Beth- le hem's star, God sent His own Son as a dear lit- tle boy To be your re- deem er, your hope, and your joy.
+

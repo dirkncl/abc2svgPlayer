@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Christmas, Merry Christmas!
+Z: Myles B. Foster
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  D | D A G (F/ G/) | A Dz d/ d/ | c A F3/ G/ | A2 (G/ F/) (E/ F/) | D A G (F/ G/) | A D2 E/ E/ | F A F (E/ F/) | (D2 D) [K: D]  D/ D/ | G ^F E B | A F A A | A c c3/ B/ | c3 c/ d/ | e e d c | c B c A | (A/ ^G/) (B/ A/) c3/ B/ | A3 A/ A/ | (d A G) (F/ G/) | A D D d/ d/ | c A F G | A2 (G/ F/) (E/ F/) | D A G (F/ G/) | A D D E | (F A F) (E/ F/) | (D d c) B | A G F E | D3|]
+w: O Christ- mas, mer- ry_ Christ- mas! Is it real- ly come a- gain With_ its_ mem- o ries and_ greet- ings, With its joy and with its_ pain._ There’s a mi- nor in the ca- rol, And a sha- dow in the light, And a spray of cy- press twin- ing With the hol-_ ly_ wreath to- night. And the hush__ is_ nev- er bro- ken By laugh- ter, light and low, As_ we_ lis- ten in the_ star- light To the bells,__ the_ bells,__ The bells a- cross the snow.
+

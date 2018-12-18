@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Come, O Come, Emmanuel
+Z: Veni, Veni, Emmanuel
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1] "^Unison, in free rhythm" E | G B B B | (A c B) A | G3 A | B G E G | (A F E) D | E3 A | A E E F | (G2 F) E | D3 G | A B B B | (A c B) A | G3"^Harmony" d | d3 B | B3 B | (A c B) A | G3 A | B G E G | (A F E) D | E3|]
+w: O come, O come, Em- man__ u el, And ran- som cap- tive Is-__ ra el, That mourns in lone- ly e-_ xile here Un- til the Son of God__ ap- pear. Re- joice! Re- joice! Em- man__ u el Shall come to thee, O Is-__ ra el.
+[V: P2]  E | E B, D G | G3 F | D3 D | D D C D | (E C B,) B, | B,3 (E/D/) | C A, E ^D | (E =D D) ^C | D3 B, | D D D G | G3 F | G3 G | F3 G | F3 G | G3 F | G3 F | G D C D | (E C B,) B, | B,3|]
+[V: P3]  G, | B, F, G, D | (E2 D) C | B,3 F, | G, G, G, B, | (A,2 G,) F, | G,3 A, | A, C B, A, | (G,2 A,) G, | F,3 G, | F, F, G, D | (E2 D) C | B,3 B, | A,3 E | D3 D | (E2 D) C | B,3 D | D G, G, B, | (A,2 G,) F, | G,3|]
+[V: P4]  E, | E, D, B,, G,, | (C, A,, B,,) D, | G,3 D, | G,, B,, C, B,, | (C, A,, B,,) B,, | E,3 (C,/B,,/) | A,, A, G, F, | (E, B,, A,,) A,, | F,3 G, | F, B,, G,, B,, | (C, A,, B,,) D, | G,,3 G, | D,3 E, | B,,3 G,, | (C, A,, B,,) D, | E,3 D, | G,, B,, C, B,, | (C, A,,) B,, B,, | E,3|]
+

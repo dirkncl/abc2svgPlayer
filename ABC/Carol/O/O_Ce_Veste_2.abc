@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O, ce veste minunata
+Z: Romanian Traditional
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Track 1"
+%%MIDI program 1 19
+V: P2 name="Track 1-2"
+%%MIDI program 2 19
+K: C
+[V: P1]  [E/G/][E/G/] [Gc] [Gc] [Gd] | [Af] [G2e2] [Gd] | [E/G/][F/G/] [Gc] [Gc] [Gd] | [Af] [G2e2] [Gd] |z [E3/G3/c3/g3/] [G/c/e/] [A/c/f/][G/c/e/] | [GBd] [G3/c3/e3/] [A/c/f/] [G/c/e/][G/B/d/] | [FAc] [G/B/][F/c/] [G/d/][G/e/] [G-d-] | [G/d/][F/c/] [E2G2c2e2]z | [E3/G3/c3/g3/] [E/G/c/e/] [F/A/c/f/][E/G/c/e/] [DGBd] | [E3/G3/e3/] [F/A/f/] [E/G/e/][D/G/d/] [Fc] | [G/B/][F/c/] [G/d/][G/e/] [G3/d3/] [F/c/] | [E2c2]z G/G/ | [Gc] [Gc] [Gd] [Af] | [G2e2] [Gd] [E/G/][F/G/] | [Gc] [Gc] [Gd] [Af] | [G2e2] [Gd]z | [E3/G3/c3/g3/] [G/c/e/] [A/c/f/][G/c/e/] [GBd] | [G3/c3/e3/] [A/c/f/] [G/c/e/][G/B/d/] [FAc] | [G/B/][F/c/] [G/d/][G/e/] [G3/d3/] [F/c/] | [E2G2c2e2]z [E-G-c-g-] | [E/G/c/g/][E/G/c/e/] [F/A/c/f/][E/G/c/e/] [DGBd] [E-G-e-] | [E/G/e/][F/A/f/] [E/G/e/][D/G/d/] [Fc] [G/B/][F/c/] | [G/d/][G/e/] [G3/d3/] [F/c/] [E-c-] | [Ec]z3|]
+[V: P2]  [C,/C/][C,/C/] [E,C] [E,C] [D,B,] | [C,C] [C,2C2] [B,,B,] | [C,/C/][B,,/B,/] [E,C] [E,C] [D,B,] | [C,C] [C,2C2] [B,,B,] |z2z/ C/ C/C/ | B, C3/ C/ C/B,/ | C [G,/B,/][F,/A,/] [G,/B,/][G,/C/] [G,-B,-] | [G,/B,/][F,/A,/]z3 | z4 | C3/ C/ C/B,/ [A,C] | [G,/B,/][F,/A,/] [G,/B,/][G,/C/] [G,3/B,3/] [F,/A,/] | [E,2G,2]z [D,/F,/B,/][D,/G,/B,/] | [E,C] [E,C] [D,B,] [C,C] | [C,2C2] [B,,B,] [C,/C/][B,,/B,/] | [E,C] [E,C] [D,B,] [C,C] | [C,2C2] [B,,B,]z |z3/ C/ C/C/ B, | C3/ C/ C/B,/ C | [G,/B,/][F,/A,/] [G,/B,/][G,/C/] [G,3/B,3/] [F,/A,/] | z4 |z3 C- | C/C/ C/B,/ [A,C] [G,/B,/][F,/A,/] | [G,/B,/][G,/C/] [G,3/B,3/] [F,/A,/] [E,-G,-] | [E,G,]z3|]
+
