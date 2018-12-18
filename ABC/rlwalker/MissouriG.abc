@@ -1,0 +1,18 @@
+%Scale the output
+%%scale 1.15
+%%format dulcimer.fmt
+X:1
+T:Missouri
+C:Michael Dappert (arranged by Rick Thun)
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:G    %(D, C)
+%%continueall 1
+%%partsbox 1
+P:A
+|:"Em"e e/2e/2 B B/2B/2|G G/2G/2 E E/2E/2|"D"A A/2A/2 F F/2F/2|D/2E/2 F/2G/2 A/2B/2 c
+|"Em" e e/2e/2 B B/2B/2|G G/2G/2 E E/2E/2|"D"F/2E/2 D F/2E/2 D|"Em"F E E2:|
+P:B
+|:"Em"E/2F/2 G/2A/2 B e|g/2f/2 e/2d/2 B/2A/2 G|"D"D/2E/2 F/2G/2 A d|f d f d
+|"Em"E/2F/2 G/2A/2 B e|g/2f/2 e/2d/2 B/2A/2 G|"D"F/2E/2 D F/2E/2 D|"Em"F E E2:||

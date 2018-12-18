@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.
+%%format dulcimer.fmt
+X: 1
+T:Mom and Dad's Waltz
+C:Lefty Frizzell, 1951
+M:3/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|F F E\
+w:1~I'd walk for
+|:"D"D4 G F|"A7"E4 F E|"D"D2 F2 A2|"G"G2 B2 d2|"D"d2 D3 D\
+w:miles, cry or smile for my mam-ma and dad-dy I want  them I
+w:2~wars, do all chores for my mam-ma and dad-dy I want them to
+|(3"A7"EFE D2 E2|"D"F6-|"A7"F2 z F-F E|"D"D3 D G F|"A7"E4 F E\
+w:want__ them to know_ Oh,_ I feel, my love is real for my
+w:live_ on till they're called._ I'd work and slave and nev-er rave to my
+|"D"A2 (BA) A2|"G"G2 B2 d2|"D"d2 D3 D|(3"A7"EFE F2 E2|"D"D6-|D2 z "^Chorus"AA d\
+w:mam-ma_ and dad-dy I want them to know_ I love them so._ In_ my
+w:mam-ma_ and dad-dy be-cause I know I_ owe them my all._
+|"A7"c4 c B|A4 A d|"D"dB A4-|A2 z A d\
+w:heart joy tears start, 'cause I'm hap-_py_ And I
+|"A7"c4 E F|G2 z A A d|"D"dB AF G F|"A7"E2 z F F E\
+w:pray ev-'ry day for mom and pap-py_ And each night I'd walk for
+|"D"D4 G F|"A7"E4 F E|"D"D2 F2 A2|"G"G2 B2 d2|"D"d2 D3 D\
+w:miles, cry or smile for my mam-ma and dad-dy I want them to
+|(3"A7"EFE D2 E2|1 "D"D6-|"Em7"D2 "A7"z F F E:|2 "D"D6-|D4 z2||
+w:know_ I love them so._ 2~I'd fight in so._

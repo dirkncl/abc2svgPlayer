@@ -1,0 +1,22 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Margaret's Waltz
+C:Pat Shuldham Shaw, 1959
+M:3/4
+L:1/8
+R:waltz
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Gmaj
+|: G>E |\
+"G"D2- D>E G>A |"G" B4 G>B | A>G E2 G2 |"D7" A4 (3AGE |
+"G"D2- D>E G>A |"G" B>c d2 G>A |"D7" B4 (3ABA |"G" G4 :|
+B>c |\
+"G"d2 e2 f2 |"C" g2 f2 g2 |"C" e>d c2 e2 |"D7" d4 B>A |
+"G"G2- G>A Bc |"Em" d2 B2 d2 |"Am" e>d c2 (3BcB |"D7" A4 (3ABc |
+"G"d2 e2 f2 |"C" g>G f>G e>G |"G" d>G c>G B>G |"D7" A4 (3AGE |
+"G"D2 D>E G>A |"G" B>d- d2 d>e |"D7" B4 (3ABA |"G" G4 |]

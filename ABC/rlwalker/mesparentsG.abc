@@ -1,0 +1,19 @@
+%%scale 1.2
+%%format dulcimer.fmt
+X:1
+T:Mes Parents Veulent Plus Me Voir
+T:My Parents Want More See Me
+O:Cajun tune
+N:Recorded by Dr. Bubba's OK Bayou Dance Band
+N:on the recording "The Young Fogies"
+M:4/4
+L:1/4
+K:G
+V:1 name="Melody"
+|:"G""^Part A"B d c B|d4|B d c B|G4|B B c B|"D7"A4|A B2 A|"G"G4:|
+w:~~5 7 6 5 7 5 7 6 5 3 5 5 6 7 4 4 5 4 3
+|:"C""^Part B"c c "G"B/2A/2 G|"C"c c "G"B2|"C"c c "G"B/2A/2 G|"D7"c/2B/2 A "G"G2:|
+w:6 6 5 4 3 6 6 5 6 6 5 4 3 6 5 4 3
+V:2 name="Harmony"
+|:d g e d|g4|d g e d|B4|g g a g|f4|f g a f|g4:|
+|:e e/2e/2 d B|e e d2|e e d B/2B/2|e/2d/2 c B2:|

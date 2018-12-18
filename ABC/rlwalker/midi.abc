@@ -1,0 +1,40 @@
+%Scale the output
+%%scale 1.10
+%%format dulcimer.fmt
+X:1
+T:Five Hundred Miles
+C:Hedy West
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:D    %(D, C)
+P:A Verses
+|z2 D D
+w:1~If you
+w:2~Lord I'm
+w:3~Not a
+|"D"F3/2 F/2 E D|"Bm"F3 E/2D/2|"Em"E3/2 F/2 E D|"G"B,2 B, D
+w:miss the train I'm on, You will know that I am gone. You can
+w:one._ Lord, I'm two, Lord, I'm three,_ Lord, I'm four. Lord, I'm
+w:shirt_ on my back. Not a pen-ny to my name. Lord, I'm 
+|"Em"E3/2 F/2 E/2 D B,/2-|"F#m"B,3/2 A,/2 "G"B, D|"Asus"E4|"A"z3/2 D/2 D D
+w:hear the whis-tle blow_ a hun-red miles. A hun-dred
+w:five_ hun-dred miles__ from my home. Five Hun-dred
+w:can't_ go a-home__ this a way. * This a 
+P:B Chorus
+|"D"F3/2 F/2 E D|"Bm"F3/2 F/2 E D|"Em"E3/2 F/2 E D|"G"B,2 B, D
+w:miles, a hun-dred miles, A hun-dred miles, A hun-dred miles. You can
+w:miles, five hun-dred miles, five hun-dred miles, five hun-dred miles. Lord, I'm
+w:way,_ This a way,_ This a way,_ This a way. Lord I
+|"Em"E3/2 F/2 E/2 D B,/2-|"F#m"B,3/2 A,/2 "G"B, D|1,2 "D"D4:|
+w:hear the whis-tle blow_ a hun-dred miles.
+w:five_ hun-dred miles_ * from my home.
+w:can't_ g a home_ * This a *
+|3 "D"D4|z2 D D|F3/2 F/2 E F|"Bm"F2 z E/2D/2
+w:way. If you miss the train I'm on, you will
+|"Em"E3/2 F/2 E D|"G"B,2 "^poco rit"B, D|"Em"E3/2 F/2 E/2 D B,/2
+w:know that I am gone. You can hear the whis-tle blow
+|"F#m"B,3/2 A,/2 "G"B, D|"D"D4-|+fermata+D4||
+w:_ A hun-dred miles._

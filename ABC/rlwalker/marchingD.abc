@@ -1,0 +1,26 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 64
+T:Marching Through Georgia
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+F:http://abc.sourceforge.net/NMD/reelsD-G.txt	 2003-02-17 22:53:12 UT
+K:D
+"D"f3/4e/4 d/2e/2|f/2A/2 A/2A/2|"G"B/2d/2 "Gm"d/2e/2|"D"d2|"D"F3/4G/4 A/2A/2|\
+w:9 8 7 8 9 4 4 4 5 7 7 8 7 2 3 4 5
+"Bm"B/2A/2 B/2d/2|"E7"e3/4^d/4 e/2f/2|
+w:5 4 5 7 8 8 8 9 
+"A7"e2|"D"d/2d/2 e/2f/2|"G"g/2B/2 B/2B/2|"D"A/2d/2 "A7"d/2e/2|"D"f2|\
+w:8 7 7 8 9 10 5 5 5 4 7 7 8 9
+"Em"e e3/4e/4|"Em"e "A7"f/2e/2|"D"d2|d3/2f/2||
+w:8 8 8 8 9 8 7 7 9
+"D"a3/2f/2|a3/2f/2|"G"d/2e/2 d/2B/2|"D"d3/2f/2|"D"a3/2f/2|a3/2f/2|\
+w:11 9 11 9 7 8 7 5 7 9 11  9 11 9
+"Em"e3/4e/4 e/2f/2|"A7"e2|
+w:8 8 8 9 8 
+"D"d/2d/2 e/2f/2|"G"g/2B/2 B/2B/2|"D"A/2d/2 "A7"d/2e/2|"D"f2|"Em"e e3/4e/4|\
+w:7 7 8 9 10 5 5 5 4 7 7 8 9 8 8 8
+"Em"e/2f/2 -"A7"f/2e/2|"D"d2|d2||
+w:8 9 * 8 7 7

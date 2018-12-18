@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Mickey Chewing Bubblegum
+C:R-108
+M:2/2
+Z:
+R:polka
+L:1/8   %(1/8, 1/4)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Gmaj
+P:A
+|:"G"g4 g3e| d2B2 g3e| d2B2 g2B2| "C"A2G2 "D"E2D2|
+"G"g4 g3e| d2B2 g3d| B2d2 "D"A2AB| "G"A2G2 G4:|
+P:B
+|:\
+"G"B2d2 d2B2| "C"c2e2 e2c2| "G"B2d2 "D"A2AB| "C"A2G2 "D"E2D2|
+"G"B2d2 d2B2| "C"c2e2 e2ec| "G"B2d2 "D"A2AB| "G"A2G2 G4 :|

@@ -1,0 +1,100 @@
+% abc2ps format for US letter pages:
+%%% format for Scottish medleys in US 8.5x11 "letter" mode
+%%pageheight 28cm
+%%staffwidth 18.8cm
+%%landscape  0
+%%leftmargin 1.7cm
+%%topmargin  0.1cm
+%%botmargin  0.1cm
+%%composerspace 0.1cm
+%%gchordfont    Helvetica-Bold 15.0
+%%lineskipfac   1.1
+%%musicspace    0.3cm
+%%staffsep      45
+%%subtitlespace 0.10cm
+%%titlefont     Palatino-Bold 16
+%%partsfont     Helvetica-Bold 11
+%%titleleft     no
+%%titlespace    0.00cm
+%%scale         0.70
+%%topspace      0.00cm
+%%maxshrink     1
+X: 0
+T: Mairi's Wedding
+T: 8x40R3
+C: dance by James Cosh
+O: Cosh, 22 SCD
+P: Play each tune ABABB
+K: D
+
+X: 1
+P: Lewis Bridal Song (Mairi's Wedding)
+O: Trad
+R: march
+Z: John Chambers <jc@eddie.mit.edu>
+M: 4/4
+L: 1/4
+K: D
+P: A
+f \
+|: "D"A>A AB | de f2 | "G"ed Bd | "A7"fe fa \
+|  "D"A>A AB | de f2 | "G"ed BG | "A7"A2 A2 |]
+P: B1
+[| "D"a>a ab | ag f2 | "G"ed Bd | "A7"fe f<a \
+|  "D"a>a ab | ag f2 | "G"ed BG |1 "A7"A2 A2 :|2 "A"AB/c/ d/e/f/g/ |]
+P: B2
+[| "D"a>a ab | ag f2 | "G"ed Bd | "A7"fe f<a \
+|  "D"A>A AB | de fg | "G"a>f "A7"fe | "D"d2 z2 |]
+
+
+X: 2
+P: The Piper's Cave
+Z: John Chambers <jc@eddie.mit.edu>
+R: march
+M: 4/4
+L: 1/4
+K: A
+[| "A"AE A>B | "F#m"cf "D"f2 | "A"ec "F#m"c/B/A/B/ | "Bm"cB "E7"B2 | "A"AE A>B | "F#m"cf "D"f2 | "A"ec "E7"Bc/B/ | "A"A3 |]
+[| "A"a>g fe | "D"fg a2 | "A"ec "F#m"c/B/A/B/ | "Bm"cB "E7"B2 | "A"a>g fe | "D"fg a2 | "A"ec "E7"Bc/B/ | "A"A3 |]
+
+
+X: 3
+P: The Girl I Left Behind Me
+R: march
+B: E.Hunt p.13(F)
+B: Karpeles & Schofield P.31(F), p.55(G)
+Z: John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+N: Rapper sword dance
+N: Handsworth sword dance
+M: C
+L: 1/4
+K: G
+|: g/f/ \
+|| "G"ed/c/ BA | "C"BG E>F | "G"GG G/A/B/c/ | "D7"d2 Bg/f/ \
+|  "G"ed/c/ BA | "C"BG E>G | "D7"FA DE/F/ | "G"G2 G :|
+|: d/c/ \
+|| "G"Bd "D7"ef | "G"gd "D7"B>A | "G"Bd "Em"ef | "C"g2 "D7"fg/f/ \
+|  "G"ed/c/ BA | "C"BG E>G | "D7"FA DE/F/ | "G"G2 G :|
+
+
+X: 4
+P: The Sow and the Bear
+C: Freeland Barbour, 1985
+B: The Hills of Atholl
+B: SRSNH 2.23
+Z: John Chambers <jc@eddie.mit.edu>
+R: march
+M: C
+L: 1/4
+K: ADor
+|: g/f/ \
+| "Am"eA a2 | g/f/e/d/ eA | "G"G>A BG | Bd e/d/B/d/ \
+|  "Am"eA a2 | g/f/e/d/ eA | "G"G>A B/G/B/d/ | "Am"eA A :|
+|: B/d/ \
+| "Am"eA AG/A/ | "G"B>A B/G/B/d/ | "Am"eA AB/d/ | e/g/f/a/ "G"g/e/d/B/ \
+|  "Am"eA AG/A/ | "G"B>A B/G/B/d/ | "Am"e/g/f/a/ "G"g/e/d/B/ | "Am"eA A :| 
+
+X: 5
+W: Transcription \251 1998 by John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K: C
+

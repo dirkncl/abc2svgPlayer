@@ -1,0 +1,28 @@
+%Scale the output
+%%scale 1.050
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X: 1
+T:Mason's Apron
+R:Reel
+M:4/4
+L:1/8
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:A
+P:A
+|:ed
+|"A"c2A2 ABAF|EFAB c2Bc|"Bm"d2B2 BcBA|Bcde "E7"f2ed
+|"A"c2A2 ABAF|EFAB c2Bc|"Bm"Bcde fgaf|"E7"edcB "A"A2:|
+P:B
+|:ed
+|cAeA fAeA|cAeA fedc|"Bm"dBfB gBfB|dBfa "E7"gfed
+|"A"cAeA fAeA|cAea fedc|"Bm"Bcde fgaf|"E7"edcB "A"A2:|

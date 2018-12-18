@@ -1,0 +1,21 @@
+% input file i:melody.mid
+% format 1 file 2 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=112
+%beats in anacrusis = 6
+K:G % 1 sharps
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+%sequenced by: Don Carroll    donniec@ix.netcom.c\0x01
+% Time signature=2/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%Grand Piano
+%%MIDI program 0
+%%MIDI program 105
+z3|z3/2D,E,F,/2 z/2G,-[G,/2G,/2] G,A,/2z/2|A,3/2A,/2 A,A, A,-[A,/2A,/2]A,/2 z/2A,/2z/2D,/2-|D,2 z/2D,<F,F,/2F, G,A,|z/2A,/2A,/2z/2 F,/2-[G,/2-F,/2]G, A,/2G,/2z/2E,/2 z/2D,3/2-|
+D,D, G,z/2G,/2 G,/2z/2A,/2z/2 A,3/2A,/2-|A,/2zCz/2C/2CD/2z/2D2-D/2-|[D/2-D/2]D/2D3/2Dz/2 D<D D/2D/2z/2D/2|z/2D,z/2 D,/2E,/2z/2F,G,3/2 A,2|
+G,2 A,3/2-[A,/2G,/2-] G,z/2A,2G,/2-|G,3/2

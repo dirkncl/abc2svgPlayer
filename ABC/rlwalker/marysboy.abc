@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.1
+%%format dulcimer.fmt
+X: 1
+T:Mary's Boy Child
+C:Jester Hairston
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|"D""^Intro"A f "G"e "D"d|"G"B G E B|"D"A d "A7"c e|"G"d3\
+|"^Verses"A|"D"A A d d|"G"B G E B/2B/2|"A7"A c B G|"D"F4\
+w:1.5.~Long time a-go in Beth-le-hem so the Ho-ly Bi-ble say,
+w:2.~While shep-herds watched their flocks by night, them see~a bright new shin-ing star,~Them
+w:3.~Now Jo-seph and his wife, Ma-ry, come to Beth-le-hem that  night,~Them
+w:4.~By~and by they find a lit-tle nook in a sta-ble all for-lorn,~And
+|A f e d|"G"B G E3/2 B/2|"D"A d "A7"c e|"D"d3||\
+w:Ma-ry's Boy Child, Je-sus Christ was born on Christ-mas Day.
+w:hear a choir_ sing, the mus-ic seemed to come~from a-far.
+w:find no place to born she Child, Not~a sin-gle room~was in sight.
+w:in a  man-ger cold and dark, Mary's lit-tle Boy was born.
+|"D""^Refrain"f f "G"g g|"A7"e e "D"f f|"Bm"d d "G"e d|"A7"c3 B\
+w:Hark, now hear the an-gels sing, a new King born to-day, And
+|"D"A f "A"e "D"d|"G"B G E "^,"B|"D"A d "A7"c e|"D"d4\
+w:Man will live  for-ev-er-more, Be-cause of Christ-mas Day.
+|f f "G"g g|"A7"e e "D"f2|"Bm"d d/2d/2 "G"e d|"A7"c3 B\
+w:Trum-pets sound and an-gels sing, list-en to what they say, That
+|"D"A f "A"e "D"d|"G"B G E "^,"B|"D"A d "A7"c e|"D"d3||\
+w:Man will live for ev-er-more, Be-cause of Christ-mas Day.

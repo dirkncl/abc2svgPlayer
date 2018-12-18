@@ -1,0 +1,33 @@
+%%scale 1.23
+%%format dulcimer.fmt
+X:1
+T:Mairi's Wedding
+T:(Lewis Bridal Song)
+C:Johnny Bannerman
+N:Mairi's Wedding was written by Johnny Bannerman for
+N:Mairi McNiven on her 16th birthday.  Six years later
+N:she married Captain John Campbell and they had two 
+N:children.  Still living in 1998.
+O:Scotland
+R:march
+M:4/4
+L:1/4
+K:D
+V:1 clef=treble
+|"D"A3/2A/2 "^CHORUS"A B | d e f2 | "G"e d B d | "A7"f e fa
+w:Step we gai-ly off we go; Heel for heel and toe for toe._
+|"D"A3/2A/2 A B | d e f2 | "G"e d B G | "A7"A2 A2
+w:Arm in arm and off we go; All for Mai-ri's wed-ding.
+|"D"a3/2a/2 "^VERSES"a b | a g f2 | "G"e d B d |"A7"f e f/2a3/2
+w:1.O-ver hill-ways up and down, Myr-tle green and brack-en brown._
+w:2.Cheeks as bright as row-ans are, Bright-er far than a-ny star,_
+w:3.Plen-ty her-ring, plen-ty meal, Plen-ty peat to fill her creel,_
+|"D"a3/2a/2 a b | a g f2 |"G"e d B G |"A7"A2 A2 ||
+w:1.Past the sheil-ing through the town, All for sake of Mai-ri.
+w:2.Fair-est o' them all by far, Is my dar-lin' Mai-ri.
+w:3.Plen-ty bon-ny bairns as weel, That's for sake of Mai-ri.
+V:2 clef=treble
+|"^HARMONY"D2 (D G)|(F E) D2|(G F) D2|(d c) A2
+|D2 (D G)|(F E) D2|(G F) (D G)|A2 A2
+|D2 (D G)|(F E) D2|(G F) D2|(d c) A2
+|D2 (D G)|(F E) D2|(G F) (D G)|A2 A2||

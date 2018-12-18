@@ -1,0 +1,18 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:Mary Ann
+C:Caribbean Folk Song
+M:4/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+V:1 clef=treble
+K:G%(D, C)
+|"G""^Chorus"B2 d2 G2 B2|"D7"BA c6|"Am"F2 AA "D7"D2 A2|"G"AG B6
+w:All day all night Mar-y Ann, Down by the sea-shore sift-ing sand,
+|BBdd G2 BB|"D7"BA c6|"Am"F2 AA "D7"D2 A2|"G"AG G6|
+w:E-ven lit-tle child-ren love Mar-y Ann, Down by the sea-shore sift-ing sand.
+|"G""^Verses"DB B3/2B/2 DB B2|"Am"BBcB "D"A4|DA A3/2A/2 DAAA|AABA "G"G4
+w:When she walks a-long the shore, peo-ple pause to greet, White-birds fly a-round her, lit-tle fish come to her  feet.
+|BBBB B3 B|B3/2B/2 cd "C"c4|c3/2c/2 dc "G"B2 G2|z2 "D"A3/2F/2 "G"G4||
+w:In her heart is love but I'm the on-ly one, who's a-loud to kiss my Ma-ry Ann.

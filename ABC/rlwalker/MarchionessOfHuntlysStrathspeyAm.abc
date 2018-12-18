@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X: 1
+T: Marchioness of Huntly's Strathspey
+C: Wm. Marshall
+N: Marshall p.1 (Bb); Skye p.22 (in A); Hunter 138; SFT  p.2.;  Allan's; Cole p.124
+N: p.16, Winston Scotty Fitzgerald on Celtic 17
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Am    %(D, C)
+|: "A"A,>C E>C "D"D<F "A"E2 | "Bm"F<B B>c "E7"d/c/B/A/ G/F/E/D/ \
+|  "A"C>D  E>C "D"D<F "A"E2 | "Bm"F>B "E7"A/G/F/E/ "A"A2- Az :|
+d \
+|: "A"c<e A>e c>e d/c/B/A/ | "E7"G<B E>B G<B E>B \
+|  "A"c<e A>e c>e d/c/B/A/ | "Bm"F>B "E7"A/G/F/E/ "A"A2 e>d |
+|  "A"c<e A>e c/e/f/g/ a2 | "Bm"F<B B>c "E7"d/c/B/A/ G/F/E/D/ \
+|  "A"C>D  E>C "D"D<F "A"E2 | "Bm"F>B "E7"A/G/F/E/ "A"A2- Az :|

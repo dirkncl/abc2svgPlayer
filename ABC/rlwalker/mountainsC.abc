@@ -1,0 +1,42 @@
+%Scale the output
+%%scale 0.86
+%%format dulcimer.fmt
+X: 1
+T:These Are My Mountains
+C:Jimmy Copeland
+M:3/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:C%(D, C)
+|"^Verses""G7"G|"C"C D E|D3|C3-|C2 C|"F"E F A|"C"G3-|G2 G
+w:For fame and for for-tune_ I wan-dered the earth_ and
+w:The burn by the road-side_ sings at my going by._ The
+w:Kind fa-ces will meet me_ and wel-come me in._ And
+|"F"A B c|"C"G3|E3-|E2 G|G E C|"D7"D3-|D3-|"G7"D2 G
+w:now I've come back to_ the land of my birth.__ I've
+w:whaup a-ver-head wings_ with wel-com-ing cry.__ The
+w:how they will greet me_ my ain kith and kin.__ The
+|G F E|"C"D3|C3-|C2 E|"C7"E F G|"F"A3-|A3-|A z c
+w:brought back my trea-sures_ but on-ly to find__ They're
+w:loch where the scart flies_ at least I can see.__ It's
+w:night round  the in-gle_ old sangs will be sung.__ At
+|"F#dim"c B A|"C"G3|E3-|E2 G,
+w:less than the plea-sures_ I
+w:here that my heart lies_ it's
+w:last I'll be hear-ing_ my
+|"G"F E D|"C"C3-|C3|
+w:first left be-hind._
+w:here I'll be free._
+w:ain mo-ther tongue._
+|z z "^Chorus"G|"C"G F E|"G7"D3|"C"C3-|C2 C|c B A|G3-|G3-|G z G
+w:For these are my moun-tains_ and this is my glen__ the
+|"F"A B c|"C"G3|E3-|E2 G|G E C|"G"D3-|D3-|D2 G
+w:braes of my child-hood_ will know me a-gain.__ No
+|G F E|"C"D3|C3-|C2 E|"C7"E F G|"F"A3-|A3-|A z c|
+w:land's ev-er claimed me_ tho' far I did roam__ For
+|c B A|"C"G3|E3-|E2 G,
+w:these are my moun-tains_ and
+|"G"G E D|"C"C3-|C2||
+w:1,2~I'm go-ing home_
+w:3~I have come home_
+

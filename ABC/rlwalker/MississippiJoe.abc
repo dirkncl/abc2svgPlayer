@@ -1,0 +1,18 @@
+%%scale 1.35
+%%format dulcimer.fmt
+X:1
+T:Mississippi Sawyer / Cotton-Eyed Joe Medley
+C:Arranged by Dogwood Dulcimer Association
+M:4/4
+L:1/8
+Q:1/8=220
+K:D
+|"^MISSISSIPPI SAWYER"F2|:"D"A2 AF A2 AF|A2 AF BA A2|"G"B2 BB B2 BB|B2 BB B2 BB
+|"D"F2 FD F2 FD|F2 FD "G"BF B2|"A"e2 ee e2 e2|"D"D2 DD D2 F2:||:"D"D2 DD D2 D2
+|D2 FF D2 FF|D2 FF A2 A2|"A"e2 EE e2 ee|e2 ee "A7"e2 e2|"D"D2 FF D2 FF
+|D2 FF A2 A2|"A"e2 ee e2 e2|"D"D6 D2:|"D"D6 DE
+|"D"F2 "^COTTON-EYED JOE"FF FE DE|F2 F2 d2 DE|F2 FF FE DF|"A"e2 e2 "D"D2 DE
+|F2 FF FE DE|F2 F2 d2 DE|F2 FF FE DF|"A7"e2 e2 "D"D2 A2:||:"D"A2 B2 "G"d2 dd
+|dA B2 A3 B|d2 B2 A2 G2|"A"FD E2 "D"D3 A|A2 B2 "G"d2 dd|"^TAG"dA B2 A3 B
+|d2 B2 A2 G2|"A"FD E2 "D"D2 z2:|
+

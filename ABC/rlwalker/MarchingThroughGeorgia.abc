@@ -1,0 +1,524 @@
+
+X: 1
+T:Madness !
+% Nottingham Music Database
+S:Chris Dewhurst (1983), via PR
+M:4/4
+L:1/4
+K:F
+[A,C]"C7"[B,C] [=B,_E]|"F"[C3/2F3/2][C/2F/2] [DF][CF]|"F"[A2c2] [A2c2]|"C7""g"[C3/2E3/2][C/2E/2] " ""c"[DF][CE]|\
+"C7""g"[B2d2] -" ""c"[B2d2]|"Gm"[C3/2E3/2][C/2E/2] [DG][CE]|"C7"[c3/2e3/2][c/2e/2] [=B_e][ce]|"F"[Ac][FA] "Dm"[EG][DF]|"Gm"[CE][A,C] "C7"[B,C][=B,_E]|
+"F"[C3/2F3/2][C/2F/2] [DF][CF]|"F"[A2c2] [A2c2]|"C7""g"[C3/2E3/2][C/2E/2] " ""c"[DF][CE]|"Gm"[B2d2] -"C7"[B2c2]|\
+"F"[c3/2f3/2][A/2c/2] "F7"[GB][FA]|"Bb"[DF][FB] [FB][GB]|"F""c"[A2c2] "C7"[G2B2]|"F"[FA][FA] "F7"[GB][Ac]||
+"Bb"[B3/2d3/2][B/2d/2] [Bd][ce]|[df][DF] [FB][Bd]|"F"[A3/2c3/2][A/2c/2] [Ac][Bd]|"Am"[c3e3][Ac]|"Dm"[F3/2A3/2][F/2A/2] [FA][GB]|"G7"[Ac][G=B] [Ac][=Bd]|\
+"C7"[df][ce] "Gm"[Bd][GB]|
+"C"[EG][_EG] "C7"[DF][_DF]|"F"[C3/2F3/2][C/2F/2] [DF][CF]|"F"[A2c2] [A2c2]|"C7""g"[C3/2E3/2][C/2E/2] " ""c"[DF][CE]|"Gm"[B2d2] -"C7"[B2c2]|\
+"F"[c3/2f3/2][A/2c/2] "F7"[GB][FA]|"Bb"[DF][FB] [FB][GB]|"F""c"[A2c2] "C7"[G2B2]|"F"[FA]||
+
+
+X: 2
+T:When You And I Were Young Maggie
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:G
+[d/2f/2]|"G"[dg] [B/2d/2][A/2c/2]|"G7"[GB] [A/2c/2][G/2B/2]|"C"[G2c2]|[E/2G/2][Gc][E/2G/2]|"G"[DG] [G/2B/2][A/2c/2]|"Em"[Be] [d/2f/2][B/2e/2]|"Am"[A2c2]-|\
+"D7"[A3/2c3/2][d/2f/2]|
+"G"[dg] [B/2d/2][A/2c/2]|"G7"[GB] [A/2c/2][G/2B/2]|"C"[G2c2]|[E/2G/2][Gc][E/2G/2]|"G"[DG] [G/2B/2][B/2d/2]|"D7"[df] [A/2c/2][B/2d/2]|"G"[G2B2]-|[G3/2B3/2][e/2g/2]\
+||
+"C"[eg] [c/2e/2][e/2g/2]|[eg] [c/2e/2][e/2g/2]|"G"[d2g2]|[B/2d/2][dg][B/2d/2]|"D"[Ad] [df]|"A7"[d/2f/2][^c/2e/2] [f/2a/2][e/2g/2]|"D"[d2f2]-|\
+"D7"[d3/2f3/2][d/2f/2]|
+"G"[dg] [B/2d/2][A/2c/2]|"G7"[GB] [A/2c/2][G/2B/2]|"C"[G2c2]|[E/2G/2][Gc][E/2G/2]|"G"[D/2G/2][D/2G/2] [G/2B/2][B/2d/2]|"D7"[df] [A/2c/2][B/2d/2]|"G"[G2B2]-|\
+[G3/2B3/2]||
+
+
+X: 3
+T:Outer Magnolia Reel
+% Nottingham Music Database
+S:Mike Richardson 27.10.90, via PR
+M:4/4
+L:1/4
+K:A
+"A"\
+P:3
+[c/2e/2][B/2d/2][A/2c/2][G/2B/2] [A/2c/2][B/2d/2][c/2e/2][d/2f/2]|"A"[e/2a/2][c/2e/2]"D"[f/2a/2][c/2e/2] "A"[e/2a/2][ce][e/2a/2]|"D"
+P:3
+[f/2a/2][e/2g/2][d/2f/2][c/2e/2] [d/2f/2][e/2g/2][f/2a/2][g/2b/2]|"A"[a/2c'/2][e/2a/2][c/2e/2][A/2c/2] "E"[B/2e/2][A/2c/2][G/2B/2][B/2e/2]|\
+"A"[c/2e/2][B/2d/2][A/2c/2][G/2B/2] [A/2c/2][B/2d/2][c/2e/2][d/2f/2]|
+"A"[e/2a/2][c/2e/2]"D"[f/2a/2][c/2e/2] "A"[e/2a/2][ce][e/2a/2]|"D"[f/2a/2][e/2g/2][d/2f/2][f/2a/2] "A"[e/2a/2][A/2c/2][c/2e/2][A/2c/2]|\
+ [1"E"[B/2e/2][A/2c/2][G/2B/2][B/2e/2] "A"[A3/2c3/2][B/2d/2]:|
+ [2"E"[B/2e/2][A/2c/2][G/2B/2][B/2e/2] "A"[A/2c/2][B/2d/2][c/2e/2][d/2f/2]|:"A"[ea]"D"[fa] "A"[e3/2a3/2][e/2a/2]|"D"[fa]"E"[gb] "A"[ac'][g/2b/2][f/2a/2]|\
+"A"[e/2a/2][f/2a/2][g/2b/2][a/2c'/2] [e/2a/2][d/2f/2][c/2e/2][e/2a/2]|"D"
+P:3
+[f/2a/2][e/2g/2][d/2f/2]\
+P:3
+[c/2e/2] "E"[Be][c/2e/2][d/2f/2]|"A"[ea]"D"[fa] "A"[e3/2a3/2][e/2a/2]|"D"[fa]"E"[gb] "A"[ac'][g/2b/2][f/2a/2]|"A"[e/2a/2][f/2a/2][g/2b/2][a/2c'/2] [e/2a/2][d/2f/2]
+P:3
+[c/2e/2][e/2a/2]| [1"E"[d/2f/2][B/2e/2][G/2B/2][B/2e/2] "A"[A/2c/2][B/2d/2][c/2e/2][d/2f/2]:| [2"E"[d/2f/2][B/2e/2][G/2B/2][B/2e/2] "A"[A3/2c3/2][B/2d/2]||
+
+
+X: 4
+T:The Maid Behind The Bar
+% Nottingham Music Database
+S:Fiddler's Fakebook, via PR
+M:4/4
+L:1/4
+K:D
+"D"[FA][A/2d/2]-[B/2d/2] [A/2d/2][F/2A/2][E/2G/2][D/2F/2]|[F/2A/2][A/2d/2][A/2d/2][B/2d/2] [A/2d/2][B/2d/2][d/2f/2][e/2g/2]|\
+"Bm"[f/2b/2][B/2d/2][B/2d/2][A/2c/2] [B/2d/2][c/2e/2][d/2f/2][e/2g/2]|"Bm"[f/2b/2][B/2d/2][B/2d/2][A/2c/2] "A"[B/2d/2][c/2e/2][d/2f/2][A/2c/2]|
+"D"[F/2A/2][A/2d/2][A/2d/2][B/2d/2] [A/2d/2][F/2A/2][E/2G/2][D/2F/2]|"D"[FA][A/2d/2][B/2d/2] [A/2d/2][B/2d/2][d/2f/2][e/2g/2]|\
+"Bm"[f/2b/2][B/2d/2][B/2d/2][A/2c/2] "G"[B/2d/2][c/2e/2][d/2g/2][B/2d/2]|"A"[A/2c/2][F/2A/2][E/2A/2][F/2A/2] "D"[D2F2]::
+"D"[f/2a/2][ad'][b/2d'/2] [a/2d'/2][f/2a/2][d/2f/2][e/2g/2]|[f/2a/2][d/2f/2][a/2d'/2][d/2f/2] [b/2d'/2][d/2f/2][a/2d'/2][d/2f/2]|\
+"Em"[e/2g/2][f/2a/2][g/2b/2][a/2c'/2] [b/2e'/2][g/2b/2][e/2g/2][f/2a/2]|(3"A"[g/2b/2][f/2a/2][e/2a/2][b/2d'/2][e/2a/2] [g/2b/2][f/2a/2][e/2a/2][g/2b/2]|
+"D"[f/2a/2][g/2b/2][a/2d'/2][f/2a/2] [b/2d'/2][f/2a/2][a/2d'/2][f/2a/2]|[d/2f/2][e/2g/2][f/2a/2][d/2f/2] [e/2g/2][f/2a/2][d/2f/2][e/2g/2]|\
+"Bm"[f/2b/2][B/2d/2][B/2d/2][A/2c/2] "G"[B/2d/2][c/2e/2][d/2g/2][B/2d/2]|"A"[A/2c/2][F/2A/2][E/2A/2][F/2A/2] "D"[D2F2]:|
+
+
+X: 5
+T:Mairie's Wedding
+% Nottingham Music Database
+S:Kay Graham, via EF
+M:4/4
+L:1/4
+K:D
+P:A
+[d/2f/2][B/2d/2]|"D"[A3/2d3/2][A/2d/2] [Ad][Bd]|"D"[df][eg] [f2a2]|"G"[eg][dg] [Bd][dg]|"A7"[fa][eg] [f2a2]|"D"[A3/2d3/2][A/2d/2] [Ad][Bd]|"D"[df][eg] [f2a2]|\
+"G"[eg][dg] [Bd][GB]|"A7"[A3c3]:|
+P:B
+[f/2a/2][g/2a/2]|"D"[a3/2d'3/2][a/2d'/2] [ad'][bd']|"Bm"[ac'][gb] [f2b2]|"E7"[e^g][de] [Bd][de]|"A"[fa][ea] [f2a2]|"F#m"[a3/2c'3/2][a/2c'/2] [ac'][bd']|"Bm"[ac'][gb] [f2b2]|\
+"Em"[eg][df] [Be][GB]|"A7"[A3c3]:|
+
+
+X: 6
+T:Maple Sugar
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+[FA][GA] |:"D"[A2d2] [A3/2d3/2][B/2d/2]|[Ad][F2A2][Ad]|"D"[f2a2] [f3/2a3/2][e/2g/2]|[df][Ad] [Bd][Ad]|"A"[e2a2] [e3/2a3/2][d/2f/2]|"A7"[ce][Ac] [Bd][ce]|\
+ [1"D"[d3/2f3/2][d/2f/2] [ce][Bd]|"A7"[Ac][FA] [GA][^G=c]:|
+ [2"D"[df][Ad] "A7"[Bd][ce]|"D"[d2f2] |:"E7"[ce][de] |"A"[e2a2] [e3/2a3/2][e/2a/2]|[ea][fa] [ea][df]|"A"[df][ce] -[ce][=ce]|[c2e2] [df][ce]|\
+"E7"[ce][Bd] -[Bd][ce]|"E7"[d2e2] [ce][Bd]| [1"A"[A3/2c3/2][A/2c/2] "E7"[ce][de]|"A"[e2a2] :|
+ [2"A"[A3/2c3/2][A/2c/2] "E7"[ce][Bd]|"A"[A2c2] ||
+
+
+X: 7
+T:Marching Through Georgia
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+[d/2f/2][e/2a/2]|"D"[f3/2a3/2][e/2g/2] [df][eg]|"D"[fa][Ad] [Ad][Ad]|"G"[Bd][dg] [dg][eg]|"D"[d4f4]|"D"[F3/2A3/2][G/2B/2] [Ad][Ad]|"G"[Bd][Ac] [Bd][dg]|
+"E7"[e3/2^g3/2][d/2e/2] [e^g][fa]|"A7"[e4g4]|"D"[df][df] [eg][fa]|"G"[gb][Bd] [B3/2d3/2][B/2d/2]|"D"[Ad][df] "F#7"[df][ef]|"Bm"[f4b4]|"E7"[e2^g2] [e^g][e^g]|\
+"A7"[eg][f2a2][eg]|
+"D"[d4f4]-|"A7"[df][eg] [fa][ga]|"D"[a3d'3][fa]|"D"[a3d'3][fa]|"G"[d3/2g3/2][d/2g/2] [dg][Bd]|"D"[d3f3][fa]|"D"[a3d'3][fa]|"D"[a3d'3][fa]|\
+"E7"[e3/2^g3/2][e/2^g/2] [e^g][fa]|
+"A7"[e4g4]|"D"[df][df] [eg][fa]|"G"[gb][Bd] [B3/2d3/2][B/2d/2]|"D"[Ad][df] "F#7"[df][ef]|"Bm"[f4b4]|"E7"[e2^g2] [e^g][e^g]|"A7"[eg][f2a2][eg]|"D"[d4f4]-|\
+"D"[d3f3]||
+
+
+X: 8
+T:Marmaduke's Hornpipe
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+"D"[Ad][A/2d/2][A/2d/2] [A/2d/2][d/2f/2][B/2d/2][A/2d/2]|[FA][F/2A/2][F/2A/2] [DF][DF]|"Em"[EG][Ac] [EG][Ac]|"A7"[EG][Ac] [EG][Ac]|
+"D"[Ad][A/2d/2][A/2d/2] [A/2d/2][d/2f/2][B/2d/2][A/2d/2]|"D"[FA][F/2A/2][F/2A/2] [DF][DF]|"Em"[EG][Ac] "A7"[E3/2G3/2][E/2G/2]|"D"[FA][EG] [D2F2]::
+"D"[df][eg] [f/2a/2][e/2g/2][f/2a/2][e/2g/2]|"G"[dg][eg] [g/2b/2][e/2g/2][g/2b/2][e/2g/2]|"D"[df][eg] [fa][d/2f/2][f/2a/2]|"Em"[eg][Ac] "A7"[A/2c/2][B/2d/2][c/2e/2][A/2c/2]|
+"D"[df][eg] [f/2a/2][e/2g/2][f/2a/2][e/2g/2]|"G"[dg][eg] [g3/2b3/2][a/2c'/2]|"Em"[be'][ac'] "A7"[ga][eg]|"D"[d2f2] [df]:|
+
+
+X: 9
+T:Miss Mary Printy
+% Nottingham Music Database
+S:I. MacPhail, via PR
+M:4/4
+L:1/4
+K:F
+[CE]|"F"[FA][FA] [Ac][Ac]|[cf][=B/2_e/2][c/2f/2] [d/2f/2][c/2f/2][A/2c/2][F/2A/2]|"Gm"[GB][GB] [Bd][Bd]|"Gm"[ce][=B/2_e/2][c/2e/2] "C7"[d/2f/2][c/2e/2][A/2c/2][G/2B/2]|
+"F"[FA][FA] [Ac][Ac]|[cf][=B/2_e/2][c/2f/2] [d/2f/2][c/2f/2][A/2c/2][F/2A/2]|"Gm"[GB][GB] "C7"[c/2e/2][B/2c/2][G/2B/2][E/2G/2]|"F"[FA][FA]F::
+[A/2c/2][B/2d/2]|"F"[cf][A/2c/2][c/2f/2] [F/2A/2][c/2f/2][A/2c/2][c/2f/2]|[cf][A/2c/2][c/2f/2] [F/2A/2][c/2f/2][A/2c/2][c/2f/2]|"C7"[ce][B/2c/2][c/2e/2] [E/2G/2][c/2e/2][B/2c/2][c/2e/2]|\
+"Gm"[ce][B/2d/2][c/2e/2] "C7"[E/2G/2][c/2e/2][B/2c/2][c/2e/2]|
+"F"[cf][A/2c/2][c/2f/2] [F/2A/2][c/2f/2][A/2c/2][c/2f/2]|[cf][A/2c/2][c/2f/2] [F/2A/2][c/2f/2][A/2c/2][c/2f/2]|"Gm"[ce][B/2d/2][c/2e/2] "C7"[B/2c/2][G/2B/2][E/2G/2][G/2B/2]|\
+"F"[FA][FA]F:|
+
+
+X: 10
+T:My Son's A Prawn
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:A
+P:A
+[e/2g/2][d/2f/2]|"A"[ce][Ac] [A/2c/2][B/2d/2][A/2c/2][F/2A/2]|"A"[E/2A/2][F/2A/2][A/2c/2][B/2d/2] [d/2f/2][c/2e/2][B/2d/2][A/2c/2]|"Bm"[df][Bd] [B/2d/2][c/2e/2][B/2d/2][A/2c/2]|\
+"E7"[B/2d/2][c/2e/2][d/2e/2][e/2g/2] [g/2b/2][f/2a/2][e/2g/2][d/2e/2]|
+"A"[ce][Ac] [A/2c/2][B/2d/2][A/2c/2][F/2A/2]|"A"[E/2A/2][F/2A/2][A/2c/2][B/2d/2] [d/2f/2][c/2e/2][B/2d/2][A/2c/2]|"D"[B/2d/2][c/2e/2][d/2f/2][e/2g/2] [f/2a/2][e/2g/2][f/2a/2][a/2d'/2]|\
+"E7"[e/2g/2][d/2e/2][c/2e/2][B/2d/2] "A"A::
+P:B
+[e/2a/2][d/2f/2]|"A"[c/2e/2][A/2c/2][e/2a/2][A/2c/2] [f/2a/2][A/2c/2][e/2a/2][A/2c/2]|"A"[c/2e/2][A/2c/2][e/2a/2][A/2c/2] [f/2a/2][e/2a/2][d/2f/2][c/2e/2]|\
+"Bm"[d/2f/2][B/2d/2][f/2b/2][B/2d/2] [g/2b/2][B/2d/2][f/2b/2][B/2d/2]|"Bm"[d/2f/2][B/2d/2][f/2b/2][B/2d/2] "E7"[g/2b/2][f/2a/2][e/2g/2][d/2e/2]|
+"A"[c/2e/2][A/2c/2][e/2a/2][A/2c/2] [f/2a/2][A/2c/2][e/2a/2][A/2c/2]|"A"[c/2e/2][A/2c/2][e/2a/2][A/2c/2] [f/2a/2][e/2a/2][d/2f/2][c/2e/2]|\
+"D"[B/2d/2][c/2e/2][d/2f/2][e/2g/2] [f/2a/2][e/2g/2][f/2a/2][a/2d'/2]|"E7"[e/2g/2][d/2e/2][c/2e/2][B/2d/2] "A"A:|
+
+
+X: 11
+T:Mason's Apron
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:A
+[e/4a/4][d/4f/4]|"A"[ce][Ac] [A/2c/2][B/2d/2][A/2c/2][F/2A/2]|[E/2A/2][F/2A/2][A/2c/2][B/2d/2] [ce][B/2d/2][c/2e/2]|"Bm"[df][Bd] [B/2d/2][c/2e/2][B/2d/2][A/2c/2]|\
+"Bm"[B/2d/2][c/2e/2][d/2f/2][e/2g/2] "E7"[fa][e/2g/2][d/2e/2]|
+"A"[ce][Ac] [A/2c/2][B/2d/2][A/2c/2][F/2A/2]|"A"[E/2A/2][F/2A/2][A/2c/2][B/2d/2] [ce][B/2d/2][c/2e/2]|"Bm"[B/2d/2][c/2e/2][d/2f/2][e/2g/2] [f/2b/2][g/2b/2][a/2c'/2][f/2b/2]|\
+"E7"[e/2g/2][d/2e/2][c/2e/2][B/2d/2] "A"A::
+[e/2a/2][d/2f/2]|"A"[c/2e/2][A/2c/2][e/2a/2][A/2c/2] [f/2a/2][A/2c/2][e/2a/2][A/2c/2]|[c/2e/2][A/2c/2][e/2a/2][A/2c/2] [f/2a/2][e/2a/2][d/2f/2][c/2e/2]|\
+"Bm"[d/2f/2][B/2d/2][g/2b/2][B/2d/2] [g/2b/2][B/2d/2][f/2b/2][B/2d/2]|"Bm"[d/2f/2][B/2d/2][f/2b/2][B/2d/2] "E7"[g/2b/2][f/2a/2][e/2g/2][d/2e/2]|
+"A"[c/2e/2][A/2c/2][e/2a/2][A/2c/2] [f/2a/2][A/2c/2][e/2a/2][A/2c/2]|[c/2e/2][A/2c/2][e/2a/2][A/2c/2] [f/2a/2][e/2a/2][d/2f/2][c/2e/2]|\
+"Bm"[B/2d/2][c/2e/2][d/2f/2][e/2g/2] [f/2b/2][g/2b/2][a/2c'/2][f/2b/2]|"E7"[e/2g/2][d/2e/2][c/2e/2][B/2d/2] "A"A:|
+
+
+X: 12
+T:Reel de Mattawa
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+[e/2a/2][f/2a/2]|"Em"[g/2b/2][e/2g/2][f/2a/2][d/2f/2] [e/2g/2][c/2e/2][d/2f/2][B/2e/2]|"D"[A/2d/2][B/2d/2][A/2d/2][F/2A/2] [DF][F/2A/2][D/2F/2]|\
+"Em"[E/2G/2][F/2A/2][G/2B/2][A/2c/2] [Be][e/2g/2][f/2a/2]|"C"[g/2=c'/2][f/2a/2][e/2g/2][d/2f/2] "Bm"[Ac][e/2g/2][f/2b/2]|
+"Em"[g/2b/2][e/2g/2][f/2a/2][d/2f/2] [e/2g/2][c/2e/2][d/2f/2][B/2e/2]|"D"[A/2d/2][B/2d/2][A/2d/2][F/2A/2] [DF][F/2A/2][D/2F/2]|"Em"[E/2G/2][F/2A/2][G/2B/2][A/2c/2] [Be][A/2c/2][G/2B/2]\
+|"Bm"[F/2B/2][D/2F/2][G/2B/2][F/2B/2] "Em"E::
+[Ac]|"Em"[Be][e/2g/2][B/2e/2] [g/2b/2][B/2e/2][e/2g/2][B/2e/2]|"Em"[Be][e/2g/2][B/2e/2] [g/2b/2][B/2e/2][e/2g/2][B/2e/2]|"D"[df][f/2a/2][d/2f/2] [g/2b/2][d/2f/2][f/2a/2][d/2f/2]|\
+"D"[df][f/2a/2][d/2f/2] [g/2b/2][d/2f/2][f/2a/2][d/2f/2]|
+"Em"[Be][e/2g/2][B/2e/2] [g/2b/2][B/2e/2][e/2g/2][B/2e/2]|"Em"[Be][e/2g/2][B/2e/2] [g/2b/2][B/2e/2][e/2g/2][B/2e/2]|"Bm"[f3/2b3/2][g/2b/2] [f/2b/2][e/2g/2][d/2f/2][c/2e/2]|\
+"Bm"[B/2d/2][c/2e/2][d/2f/2][d/2f/2] "Em"[eg]:|
+
+
+X: 13
+T:McElroy's Fancy
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+K:D
+"Em"[Be] [B3/4e3/4][A/4c/4]|"D"[F/2A/2][A/2d/2] [D/2F/2][A/2d/2]|"Em""C"[Bd] [B3/4d3/4][A/4c/4]|"G""Bm"[B/4d/4][c/4e/4][d/2f/2] "C""b"[e/2g/2][d/2f/2]|\
+"G""Em"[Be] [B3/4e3/4][A/4c/4]|"D"[F/2A/2][A/2d/2] [D3/4F3/4][E/4G/4]|"D"[F/2A/2][D/2F/2] "B7"[A/2B/2][F/2A/2]|"Em"[EG]E::
+"Em"[B/2e/2][e/2g/2] [e3/4g3/4][f/4a/4]|[e/2g/2][d/2f/2] [B/2e/2][A/2c/2]|"Em"[B/2e/2][e/2g/2] [e3/4g3/4][f/4a/4]|"Em"[e/2g/2][d/2f/2] "A7"[B/2d/2][c/2e/2]|\
+"D"[d/2f/2][e/2g/2] [d/2f/2][B/2d/2]|[A/2d/2][F/2A/2] [D3/4F3/4][E/4G/4]|"D"[F/2A/2][D/2F/2] "B7"[A/2B/2][F/2A/2]|"Em"[EG]E:|
+
+
+X: 14
+T:McQuillen's March
+% Nottingham Music Database
+S:Bob McQuillen Nov 74, via PR
+M:4/4
+L:1/4
+K:G
+[DF]|"G"[G3B3]"/@<.5D7"[Ac]|"G"[B3d3][dg]|"C"[g3/2c'3/2][g/2c'/2] [fa][eg]|"G"[d3g3][dg]|"C"[g3/2c'3/2][g/2c'/2] [fa][eg]|"G"[dg][Bd] [GB][Bd]|\
+"D"[Ad][df] "A7"[eg][^ce]|"D7"[df][cd] [Bd][Ac]|
+"G"[G3B3]"/@<.5D7"[Ac]|"G"[B3d3][dg]|"C"[g3/2c'3/2][g/2c'/2] [fa][eg]|"G"[d3g3][dg]|"C"[g3/2c'3/2][g/2c'/2] [fa][eg]|"G"[dg][Bd] "C"[Gc][ce]|\
+"G"[B2d2] "D7"[A2c2]|"G"[G3B3][DG]||
+"G"[B3/2d3/2][c/2e/2] "D7"[Bd][Ac]|"G"[G2B2] [D2G2]|"C"[EG][Gc] [FA][EG]|"D7"[D3F3][DF]|"G"[B3/2d3/2][c/2e/2] "D7"[Bd][Ac]|"Em"[G2B2] [B2e2]|\
+"A7"[A^c][GA] [FA][GA]|"D"[A3d3][DF]|
+"G"[B3/2d3/2][c/2e/2] "D7"[Bd][Ac]|"G"[G2B2] [D2G2]|"C"[EG][Gc] "D"[FA][Ad]|"G"[G3B3][GB]|"C"[G3/2c3/2][G/2c/2] "D"[FA][EG]|\
+"G"[DG][G/2B/2][B/2d/2] "D7"[df][cd]|"G"[B2d2] "D7"[A2c2]|"G"[G3B3]||
+
+
+X: 15
+T:McQuillen's Squeezebox
+% Nottingham Music Database
+S:Chris's Dad, via EF
+M:4/4
+L:1/4
+K:C
+[EG][FA] |"C"[G3/2c3/2][A/2c/2] "G7"[GB][FG]|"C"[EG][Gc] "F"[cf][Ac]|"C"[G3/2c3/2][A/2c/2] "G7"[GB][FG]|"C"[E2G2] [DF][EG]|"Dm"[F3/2A3/2][G/2B/2] [FA][EG]|\
+"G7"[DF][GB] [Bd][df]|
+"C"[c3/2e3/2][d/2f/2] "F"[cf][Ac]|"G7"[GB][FG] [EG][FG]|"C"[G3/2c3/2][A/2c/2] "G7"[GB][FG]|"C"[EG][Gc] "F"[cf][Ac]|"C"[G3/2c3/2][A/2c/2] "G7"[GB][FG]|\
+"C"[E2G2] [DF][EG]|
+"Dm"[F3/2A3/2][G/2B/2] [FA][EG]|"G7"[DF][GB] [Bd][df]|"C"[c3/2e3/2][d/2f/2] "G7"[ce][Bd]|"C"[ce][Bd] "G7"[ce][df]|"C"[e3/2g3/2][f/2a/2] "G7"[eg][df]|\
+"C"[ce][Gc] "G7"[ce][df]|
+"C"[e3/2g3/2][f/2a/2] "G7"[eg][df]|"C"[c2e2] [Bd][ce]|"Dm"[d3/2f3/2][e/2g/2] [fa][eg]|"G"[dg][GB] [Bd][ce]|"Dm"[d3/2f3/2][e/2g/2] [fa][eg]|"G7"[d2f2] [ce][df]|\
+"C"[e3/2g3/2][f/2a/2] "G7"[eg][df]|
+"C"[ce][Gc] "G7"[ce][df]|"C"[e3/2g3/2][f/2a/2] "G7"[eg][df]|"C"[c2e2] [Bd][ce]|"Dm"[d3/2f3/2][e/2g/2] [fa][eg]|"G"[dg][GB] [Bd][ce]|"Dm"[df][ce] "G7"[eg][df]|\
+"C"[c2e2] ||
+
+
+X: 16
+T:The Meeting of the Waters
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+[A/2c/2][B/2d/2]|"D"[d2f2] [df][fa]|"D"[A2d2] [df][ce]|"G"[Bd][dg] [Bd][GB]|"D"[A2d2] [df][eg]|"D"[fa][ad'] [Ad][ad']|"G"[gb][fa] [eg][dg]|"A"[f2a2] -"E7"[f2a2]|\
+"A"[e2a2] "A7"[Ac][Bd]|
+"D"[d2f2] [df][fa]|"D"[A2d2] [df][ce]|"G"[Bd][dg] [Bd][GB]|"D"[A2d2] [df][eg]|"D"[fa][ad'] [gb][fa]|"A7"[ga][Ac] [ce][eg]|"D"[d3/2f3/2][e/2g/2] "A7"[df][ce]|\
+"D"[df][eg] "A7"[fa][ga]||
+"D"[a3/2d'3/2][g/2b/2] [fa][ad']|"D"[d2f2] [fa][df]|"G"[Bd][dg] [Bd][GB]|"D"[A2d2] [df][eg]|"D"[fa][ad'] [Ad][ad']|"G"[gb][fa] [eg][dg]|"A"[f2a2] -"E7"[f2a2]|\
+"A7"[e2g2] [fa][ga]|
+"D"[a3/2d'3/2][g/2b/2] [fa][ad']|"D"[d2f2] [fa][df]|"G"[Bd][dg] [Bd][GB]|"D"[A2d2] [df][eg]|"D"[fa][ad'] [gb][fa]|"A7"[ga][Ac] [ce][eg]|"D"[d3/2f3/2][e/2g/2] "A7"[df][ce]|\
+"D"[d3f3]||
+
+
+X: 17
+T:Meggy's Foot
+% Nottingham Music Database
+S:NPTB, via EF
+M:4/4
+L:1/4
+K:G
+"G"[g/2b/2][f/2a/2][e/2g/2][d/2g/2] [B2d2]|"G"[B/2d/2][c/2e/2][dg] "D"[A2d2]|"G"[g/2b/2][f/2a/2][e/2g/2][d/2g/2] [Bd][GB]|"G"[B/2d/2][c/2e/2][dg]G:|
+"G"[GB][GB] [B/2d/2][c/2e/2][dg]|"D"[Ad][Ad] [B/2d/2][c/2e/2][df]|"G"[GB][GB] [B/2d/2][c/2e/2][dg]|"G"[B/2d/2][c/2e/2][dg]G:|
+"G"[Bd][gb] [Bd][gb]|"G"[Bd][gb] "D"[A2d2]|"G"[Bd][gb] [Bd][gb]|"G"[Bd][gb]G:|
+"G"[g/2b/2][f/2a/2][e/2g/2][d/2g/2] [c/2e/2][B/2d/2][A/2c/2][G/2B/2]|"G"[B/2d/2][c/2e/2][d/2g/2][B/2d/2] "D"[A/2d/2][B/2d/2][c/2e/2][A/2d/2]|\
+"G"[g/2b/2][f/2a/2][e/2g/2][d/2g/2] [c/2e/2][B/2d/2][A/2c/2][G/2B/2]|"G"[B/2d/2][c/2e/2][d/2g/2][B/2d/2]G:|
+"G"[B/2d/2][d/2g/2][g/2b/2][d/2g/2] [B/2d/2][d/2g/2][g/2b/2][d/2g/2]|"G"[B/2d/2][d/2g/2][g/2b/2][d/2g/2] "D"[A/2d/2][d/2f/2][g/2b/2][d/2f/2]|\
+"G"[B/2d/2][d/2g/2][g/2b/2][d/2g/2] [B/2d/2][d/2g/2][g/2b/2][d/2g/2]|"G"[B/2d/2][d/2g/2][g/2b/2][d/2g/2]G:|
+"G"[g3/2b3/2][d/2g/2] [Bd][GB]|"G"[Bd][dg] "D"[A2d2]|"G"[g3/2b3/2][d/2g/2] [Bd][GB]|"G"[Bd][dg]G:|
+"G"[GB][GB] [B/2d/2][c/2e/2][dg]|"D"[Ad][Ad] [B/2d/2][c/2e/2][df]|"G"[GB][GB] [B/2d/2][c/2e/2][dg]|"G"[B/2d/2][c/2e/2][dg]G:|
+"G"[Bd][gb] [Bd][gb]|"G"[Bd][gb] "D"[A2d2]|"G"[Bd][gb] [Bd][gb]|"G"[Bd][gb]G:|
+
+
+X: 18
+T:Merry Blacksmith
+% Nottingham Music Database
+S:FTB 1/16, via EF
+M:4/4
+L:1/4
+K:D
+P:A
+[Ac]|"D"[df][d/2f/2][A/2d/2] [B/2d/2][A/2d/2][F/2A/2][A/2d/2]|"D"[A/2d/2][B/2d/2][d/2f/2][A/2d/2] [B/2d/2][A/2d/2][F/2A/2][A/2d/2]|\
+"D"[A/2d/2][B/2d/2][d/2f/2][e/2g/2] "Bm"[fb][e/2g/2][d/2f/2]|"Em"[B/2e/2][e/2g/2][e/2g/2][d/2f/2] [F/2A/2]"A7"[e/2g/2][g/2a/2][f/2a/2][e/2g/2]|
+"D"[d/2f/2][c/2e/2][d/2f/2][A/2d/2] [F/2A/2][B/2d/2][A/2d/2][F/2A/2][A/2d/2]|"D"[A/2d/2][B/2d/2][d/2f/2][A/2d/2] [B/2d/2][A/2d/2][F/2A/2][A/2d/2]|\
+"G"[A/2c/2][B/2d/2][d/2g/2][e/2g/2] "A7"[f/2a/2][g/2a/2][e/2g/2][c/2e/2]|"D"[d/2f/2][B/2d/2][A/2d/2][F/2A/2]D:|
+P:B
+[f/2a/2][g/2b/2]|"D"[ad'][a/2d'/2][g/2b/2] [fa][f/2a/2][e/2g/2]|"D"[df][d/2f/2][A/2d/2] [B/2d/2][A/2d/2][F/2A/2][A/2d/2]|"D"[A/2d/2][B/2d/2][d/2f/2][e/2g/2] "Bm"[fb][e/2g/2][d/2f/2]|\
+"Em"[B/2e/2][e/2g/2][e/2g/2][d/2f/2] [F/2A/2]"A7"[e/2g/2][g/2a/2][f/2a/2][e/2g/2]|
+"D"[a/2d'/2][b/2d'/2][a/2d'/2][g/2b/2] [f/2a/2][g/2b/2][f/2a/2][e/2g/2]|"D"[d/2f/2][c/2e/2][d/2f/2][A/2d/2] [F/2A/2][B/2d/2][A/2d/2][F/2A/2][A/2d/2]|\
+"G"[A/2c/2][B/2d/2][d/2g/2][e/2g/2] "A7"[f/2a/2][g/2a/2][e/2g/2][c/2e/2]|"D"[d/2f/2][B/2d/2][A/2d/2][F/2A/2]D:|
+
+
+X: 19
+T:Merrydale Romp
+% Nottingham Music Database
+S:Dennis Salter, via PR
+M:4/4
+L:1/4
+K:D
+[F/2A/2][G/2B/2]|"D"[Ad][F/2A/2][A/2d/2] [df][c/2e/2][d/2f/2]|[Bd][Ad] [A2d2]|"D"[Ad][F/2A/2][A/2d/2] [d/2f/2][c/2e/2][B/2d/2][A/2d/2]|"Em"[GB][EG] [E2G2]|\
+"Em"[GB][F/2A/2][G/2B/2] "A7"[ce][ce]|
+"Em"[GB][F/2A/2][G/2B/2] "A7"[c2e2]|"Em"[GB][E/2G/2][G/2B/2] "A7"[c/2e/2][B/2d/2][A/2c/2][G/2A/2]|"D"[Bd][Ad] [A2d2]|"D"[Ad][F/2A/2][A/2d/2] [df][c/2e/2][d/2f/2]|\
+[Bd][Ad] [A2d2]|"D"[df][c/2e/2][d/2f/2] "D7"[eg][df]|
+"G"[dg][Bd] [B2d2]|"G"[eg][^d/2g/2][e/2g/2] "Gm"[=fa][e/2g/2][f/2a/2]|"D"[fa][df] "B7"[AB][^G/2=c/2][A/2B/2]|"Em"[Be][^A/2d/2][B/2e/2] "A7"[ce][^G=c]|\
+"D"[df][=ce] "D7"[Bd][A=c]||
+K:G
+"G"[d2g2] [g3/2b3/2][f/2a/2]|[eg][dg] [d2g2]|"G"[dg][^c/2=f/2][d/2g/2] [e/2g/2][d/2g/2][B/2d/2][B/2d/2]|"Am"[ce][Ac] [A2c2]|"Am"[ce][B/2d/2][c/2e/2] "D7"[Ac][Ac]|\
+"Am"[Ac][^G/2c/2][A/2c/2] "D7"[F2A2]|
+"Am"[ce][B/2d/2][c/2e/2] "D7"[f/2a/2][e/2g/2][d/2f/2][c/2d/2]|"G"[eg][dg] [dg][B/2d/2][c/2e/2]|"G"[dg][B/2d/2][d/2g/2] [g3/2b3/2][f/2a/2]|[eg][dg] [d2g2]|
+"G"[dg][B/2d/2][d/2g/2] "G7"[gb][gb]|"C"[gc'][eg] [e2g2]|"C"[Ac]z"Cm"[^Ad]z|"G"[Bd][GB] [dg][^c/2=f/2][d/2g/2]|"Am"[ea][^d/2g/2][e/2a/2] "D7"[fa][^c=f]|\
+"G"[g3b3]||
+
+
+X: 20
+T:Mersey
+% Nottingham Music Database
+S:David Bradley (Feb 89), via PR
+M:4/4
+L:1/4
+K:Em
+"Em"[E/2G/2][E/2G/2][EG] [^D/2G/2][D/2F/2][DF]|[D/2F/2][D/2F/2][DF] [^C/2=F/2][C/2E/2][CE]|"B7"[B3/2^d3/2][^c/2=f/2] [^df][B^d]|"Em"[eg][Be] [GB][FA]|
+"Em"[E/2G/2][E/2G/2][EG] [^D/2G/2][D/2F/2][DF]|[D/2F/2][D/2F/2][DF] [^C/2=F/2][C/2E/2][CE]|"B7"[B3/2^d3/2][A/2B/2] [FA][GB]|"Em"[E4G4]:|
+"D7"[D3/2F3/2][E/2G/2] [FA][DF]|"G"[GB][Ac] [B2d2]|"B7"[^D3/2F3/2][E/2G/2] [FA][DF]|"Em"[EG][FA] [G2B2]|"Am"[ce][c3e3]|"Em"[Be][B3e3]|"F#7"[^A2^c2] [df][^ce]\
+|"Bm"[^c=f][Bd] [ce][Bd]|
+"Am"[ce][Ac] "D"[c3/2e3/2][A/2d/2]|"G"[Bd][GB] [D2G2]|"B7"[^DF][FA] [B3/2^d3/2][A/2B/2]|"Em"[Ac][GB] [G2B2]|"Am"[c2e2] -[ce][B/2d/2][c/2e/2]|"Em"[B4e4]|\
+"B7"[B3/2^d3/2][A/2B/2] [FA][GB]|"Em"[E4G4]||
+
+
+X: 21
+T:The Minstrel Boy
+% Nottingham Music Database
+S:Lesley Dolman, via EF
+M:4/4
+L:1/4
+K:G
+[DF]|"G"[G3B3]"D7"[Ac]|"G"[ce][Bd] [Ac][GB]|"G"[B2d2] "D/f+"[d2f2]|"Em"[g2b2] "D"[fa][gb]|"C"[e2g2] "G/b"[d2g2]|"G"[Bd][ce] [dg][Bd]|\
+"D7"[A4c4]|
+"G"[G2B2] [D2G2]|"G"[G3B3]"D7"[Ac]|"G"[ce][Bd] [Ac][GB]|"G"[B2d2] "D/f+"[d2f2]|"Em"[g2b2] "D"[fa][gb]|"C"[e2g2] "G/b"[d2g2]|\
+"G"[Bd][ce] [dg][Bd]|"D7"[A4c4]|
+"G"[G2B2] [d2g2]|"Em"[g2b2] "B7"[f2a2]|"Em"[e2g2] "A7"[fa][ga]|"D"[f2a2] "A7"[e2g2]|"D"[d3f3][df]|"Em"[e3g3][Be]|"Bm"[B2d2] [d2f2]|\
+"Em"[e2g2] "D7"[f2a2]|"G"[g3b3][gb]|
+"G"[G3B3]"D7"[Ac]|"G"[ce][Bd] [Ac][GB]|"G"[B2d2] "D/f+"[d2f2]|"Em"[g2b2] "D"[fa][gb]|"C"[e2g2] "G/b"[d2g2]|"G"[Bd][ce] [dg][Bd]|"D7"[A4c4]|\
+[G3B3]||
+
+
+X: 22
+T:Clap Dance (Miss McLeod)
+% Nottingham Music Database
+S:McCusker Brothers, via EF
+M:4/4
+L:1/4
+K:G
+P:A
+[B/2d/2][A/2c/2]|"G"[GB]-[G/2B/2][B/2d/2] [dg][B/2d/2][G/2B/2]|"G"[B/2d/2][d/2g/2][B/2d/2][A/2c/2] "D7"[B/2d/2][c/2d/2][B/2d/2][A/2c/2]|\
+"G"[GB]-[G/2B/2][B/2d/2] [dg][B/2d/2][G/2B/2]|"Am"[A/2c/2][B/2d/2][A/2c/2][G/2B/2] "D7"[A/2c/2][^A/2d/2][B/2d/2][^G/2c/2]|
+"G"[GB]-[G/2B/2][B/2d/2] [dg][B/2d/2][G/2B/2]|"G"[B/2d/2][d/2g/2][B/2d/2][A/2c/2] [Bd][dg]|"C"[e/2g/2][f/2a/2][e/2g/2][d/2f/2] [B/2d/2][d/2f/2][e/2g/2][f/2a/2]|\
+"Am"[g/2b/2][e/2a/2][d/2f/2][B/2d/2] "D7"[A/2c/2][^A/2d/2][B/2d/2][^G/2c/2]:|
+P:B
+[B/2d/2][A/2c/2]|"G"[GB][g/2b/2][f/2a/2] [e/2g/2][f/2a/2][g/2b/2][d/2g/2]|"G"[Bd][B/2d/2][A/2c/2] "D7"[B/2d/2][c/2d/2][B/2d/2][A/2c/2]|\
+"G"[GB][g/2b/2][f/2a/2] [e/2g/2][f/2a/2][g/2b/2][d/2g/2]|"Am"[Ac][A/2c/2][G/2B/2] "D7"[A/2c/2][^A/2d/2][B/2d/2][^G/2c/2]|
+"G"[GB][g/2b/2][f/2a/2] [e/2g/2][f/2a/2][g/2b/2][d/2g/2]|"G"[Bd][B/2d/2][A/2c/2] [Bd][dg]|"C"[e/2g/2][f/2a/2][e/2g/2][d/2f/2] [B/2d/2][d/2f/2][e/2g/2][f/2a/2]|\
+"Am"[g/2b/2][e/2a/2][d/2f/2][B/2d/2] "D7"[A/2c/2][^A/2d/2][B/2d/2][^G/2c/2]:|
+
+
+X: 23
+T:Miss Campbell
+% Nottingham Music Database
+S:Lesley Dolman, via EF
+M:4/4
+L:1/4
+K:G
+P:A
+[DF]|"G"[GB][GB] [B/2d/2][A/2c/2][G/2B/2][B/2d/2]|"G"[dg][dg] [d/2g/2][c/2e/2][B/2d/2][c/2e/2]|"G"[dg][gb] "C"[fa][eg]|"G"[d4g4]|"D7"[DF][DF] [F/2A/2][E/2G/2][D/2F/2][F/2A/2]|\
+"D7"[Ac][Ac] [A/2c/2][G/2B/2][F/2A/2][G/2B/2]|"D7"[Ac][cd] [Ac][FA]|"G"[G3B3]:|
+P:B
+[dg]|"G"[d3/2g3/2][B/2d/2] [GB][GB]|"D7"[c3/2d3/2][A/2c/2] [FA][FA]|"G"[d3/2g3/2][B/2d/2] [GB][GB]|"A7"[A2^c2] -"D7"[A2c2]|"G"[d3/2g3/2][B/2d/2] [GB][GB]|\
+"D7"[c3/2d3/2][A/2c/2] [FA][FA]|"Em"[GB][Be] "D7"[Ac][FA]|"G"[G3B3]:|
+
+
+X: 24
+T:Miss Forbes' Farewell to Banff
+% Nottingham Music Database
+P:AAB
+S:Athole p147, via EF
+M:4/4
+L:1/4
+K:G
+P:A
+[G/2B/2][A/2c/2]|"G"[Bd][B/2d/2][d/2g/2] "D7"[c/2d/2][B/2d/2][A/2c/2][G/2B/2]|"G"[Bd][dg] "C"[e/2g/2][f/2a/2][g/2c'/2][e/2g/2]|\
+"G"[dg][d/2g/2][e/2g/2] [d/2g/2][B/2d/2][A/2c/2][G/2B/2]|"Am"[Bd][Ac] "D7"[Ac][G/2B/2][A/2c/2]|
+"G"[Bd][B/2d/2][d/2g/2] "D7"[c/2d/2][B/2d/2][A/2c/2][G/2B/2]|"G"[Bd][dg] "C"[e/2g/2][f/2a/2][g/2c'/2][e/2g/2]|\
+"G/d"[dg][d/2g/2][e/2g/2] "D7"[d/2f/2][B/2d/2][G/2B/2][A/2c/2]|"G"[Bd][GB]G:|
+P:B
+(3[d/2g/2][e/2g/2][f/2a/2]|"G"[g/2b/2][f/2a/2][g/2b/2][a/2c'/2] [g/2b/2][f/2a/2][e/2g/2][d/2g/2]|"C"[e/2g/2][d/2f/2][e/2g/2][f/2a/2] [gc'][f/2a/2][e/2g/2]|\
+"G"[dg][d/2g/2][e/2g/2] [d/2g/2][B/2d/2][A/2c/2][G/2B/2]|
+"Am"[Bd][Ac] "D7"[Ac](3[d/2f/2][e/2g/2][f/2a/2]|"G"[g/2b/2][f/2a/2][g/2b/2][a/2c'/2] [g/2b/2][f/2a/2][e/2g/2][d/2g/2]|"C"[e/2g/2][d/2f/2][e/2g/2][f/2a/2] [gc'][f/2a/2][e/2g/2]|\
+"G/d"[dg][d/2g/2][e/2g/2] "D7"[d/2f/2][B/2d/2][G/2B/2][A/2c/2]|
+"G"[Bd][GB] "D7"[GB](3[d/2f/2][e/2g/2][f/2a/2]|"G"[g/2b/2][f/2a/2][g/2b/2][a/2c'/2] [g/2b/2][f/2a/2][e/2g/2][d/2g/2]|"C"[e/2g/2][d/2f/2][e/2g/2][f/2a/2] [gc'][f/2a/2][e/2g/2]|\
+"G"[dg][d/2g/2][e/2g/2] [d/2g/2][B/2d/2][A/2c/2][G/2B/2]|
+"Am"[Bd][Ac] "D7"[Ac][G/2B/2][A/2c/2]|"G"[Bd][B/2d/2][d/2g/2] "D7"[c/2d/2][B/2d/2][A/2c/2][G/2B/2]|"G"[Bd][dg] "C"[e/2g/2][f/2a/2][g/2c'/2][e/2g/2]|\
+"G/d"[dg][d/2g/2][e/2g/2] "D7"[d/2f/2][B/2d/2][G/2B/2][A/2c/2]|"G"[Bd][GB] [GB]||
+
+
+X: 25
+T:Miss Lyall
+% Nottingham Music Database
+S:Lesley Dolman, via EF
+M:4/4
+L:1/4
+K:D
+P:A
+[Ac]|"D"[DF][FA] [Ad][df]|"D"[f/2a/2][f/2a/2][f/2a/2][e/2g/2] [d2f2]|"D"[DF][FA] [Ad][df]|"A7"[c/2e/2][c/2e/2][c/2e/2][B/2d/2] [A2c2]|"A7"[A,C][CE] [EG][Ac]|
+"A7"[c/2e/2][c/2e/2][c/2e/2][B/2d/2] [A2c2]|1"A7"[A,C][CE] [EG][Ac]|"D"[F/2A/2][F/2A/2][F/2A/2][E/2G/2] [D2F2]:|2"A7"[Ac][c/2e/2][B/2d/2] [A/2c/2][G/2A/2][F/2A/2][E/2G/2]|\
+"D"[DF][DF] :|
+"D"[A2d2] [Bd][Ad]|"D"[F2A2] [GB][FA]|"D7"[D2F2] [EG][DF]|"G"[B,3D3][^A,D]|"A7"[A,C][CE] [EG][Ac]|"A7"[c/2e/2][c/2e/2][c/2e/2][B/2d/2] [A2c2]|\
+"A7"[A,C][CE] [EG][Ac]|"D"[F/2A/2][F/2A/2][F/2A/2][E/2G/2] [D2F2]:|
+"A7"[Ac][c/2e/2][B/2d/2] [A/2c/2][G/2A/2][F/2A/2][E/2G/2]|"D"[DF][DF] :|
+
+
+X: 26
+T:May Day (Miss McLeod's Reel)
+% Nottingham Music Database
+S:F1/24, via EF
+M:4/4
+L:1/4
+K:G
+P:A
+[B/2d/2][A/2d/2]|:"G"[GB][gb] "C"[e/2g/2][d/2f/2][e/2g/2][g/2c'/2]|"G"[Bd][B/2d/2][A/2c/2] "D7"[B/2d/2][c/2d/2][B/2d/2][A/2c/2]|\
+"G"[GB][gb] "C"[e/2g/2][d/2f/2][e/2g/2][g/2c'/2]|"Am"[Ac][A/2c/2][G/2B/2] "D7"[A/2c/2][c/2d/2][B/2d/2][A/2c/2]|
+"G"[GB][gb] "C"[e/2g/2][d/2f/2][e/2g/2][g/2c'/2]|"G"[B/2d/2][c/2e/2][B/2d/2][A/2c/2] [Bd][dg]|"C"[e/2g/2][f/2a/2][e/2g/2][d/2f/2] [B/2d/2][d/2f/2][e/2g/2][f/2a/2]|\
+"Em"[g/2b/2][e/2g/2][d/2f/2][B/2e/2] "D7"[A/2c/2][c/2d/2][B/2d/2][A/2c/2]:|
+P:B
+"G"[G/2B/2][A/2c/2][B/2d/2][c/2e/2] [d/2g/2][B/2d/2][G/2B/2][A/2c/2]|"G"[Bd][B/2d/2][A/2c/2] "D7"[B/2d/2][c/2d/2][B/2d/2][A/2c/2]|\
+"G"[G/2B/2][A/2c/2][B/2d/2][c/2e/2] [d/2g/2][B/2d/2][G/2B/2][B/2d/2]|"Am"[Ac][A/2c/2][G/2B/2] "D7"[A/2c/2][c/2d/2][B/2d/2][A/2c/2]|
+"G"[G/2B/2][A/2c/2][B/2d/2][c/2e/2] [d/2g/2][B/2d/2][G/2B/2][A/2c/2]|"G"[B/2d/2][c/2e/2][B/2d/2][A/2c/2] [Bd][dg]|"C"[e/2g/2][f/2a/2][e/2g/2][d/2f/2] [B/2d/2][d/2f/2][e/2g/2][f/2a/2]|\
+"Em"[g/2b/2][e/2g/2][d/2f/2][B/2e/2] "D7"[A/2c/2][c/2d/2][B/2d/2][A/2c/2]:|
+P:B alt
+"G"[GB][B/2d/2][G/2B/2] [D/2G/2][G/2B/2][B/2d/2][G/2B/2]|"G"[Bd][B/2d/2][A/2c/2] "D7"[B/2d/2][c/2d/2][B/2d/2][A/2c/2]|"G"[GB][B/2d/2][G/2B/2] [d/2g/2][G/2B/2][B/2d/2][G/2B/2]|\
+"Am"[A/2c/2][B/2d/2][A/2c/2][G/2B/2] "D7"[A/2c/2][c/2d/2][B/2d/2][A/2c/2]|
+"G"[GB][B/2d/2][G/2B/2] [D/2G/2][G/2B/2][B/2d/2][G/2B/2]|"G"[B/2d/2][c/2e/2][B/2d/2][A/2c/2] [Bd][dg]|"C"[e/2g/2][f/2a/2][e/2g/2][d/2f/2] [B/2d/2][d/2f/2][e/2g/2][f/2a/2]|\
+"Em"[g/2b/2][e/2g/2][d/2f/2][B/2e/2] "D7"[A/2c/2][c/2d/2][B/2d/2][A/2c/2]:|
+
+
+X: 27
+T:Mississipi Sawyer
+% Nottingham Music Database
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+P:A
+[f/2a/2][g/2b/2]|"D"[ad'][a/2d'/2][f/2a/2] [ad'][a/2d'/2][f/2a/2]|"D"[ad'][a/2d'/2][f/2a/2] [a/2d'/2][b/2d'/2][a/2d'/2][f/2a/2]|"A7"[ga][g/2a/2][e/2g/2] [ga][g/2a/2][e/2g/2]|\
+"A7"[ga][g/2a/2][e/2g/2] [a/2c'/2][g/2a/2][f/2a/2][e/2g/2]|
+"D"[fa][f/2a/2][a/2d'/2] [fa][f/2a/2][e/2g/2]|"D"[d/2f/2][e/2g/2][f/2a/2][g/2b/2] [ad'][f/2a/2][g/2b/2]|"A7"[ac'][a/2c'/2][f/2a/2] [e/2g/2][g/2a/2][f/2a/2][e/2g/2]|"D"[d2f2] [df]:|
+P:B
+(3[A/2d/2][B/2d/2][c/2e/2]|"D"[df][f/2a/2][e/2g/2] [df][f/2a/2][e/2g/2]|"D"[d/2f/2][e/2g/2][f/2a/2][g/2b/2] [a2d'2]|"A7"[Ac][c/2e/2][B/2d/2] [Ac][c/2e/2][B/2d/2]|\
+"A7"[A/2c/2][B/2d/2][c/2e/2][d/2f/2] [e/2g/2][g/2a/2][f/2a/2][e/2g/2]|
+"D"[df][f/2a/2][e/2g/2] [df][f/2a/2][e/2g/2]|"D"[d/2f/2][e/2g/2][f/2a/2][g/2b/2] [ad'][f/2a/2][g/2b/2]|"A7"[a/2c'/2][b/2d'/2][a/2c'/2][g/2a/2] [f/2a/2][e/2g/2][d/2f/2][f/2a/2]|\
+"A7"[e/2g/2][d/2f/2][e/2g/2][f/2a/2] "D"[df]:|
+
+
+X: 28
+T:Miss Monaghan
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+"D"[DF](3[F/2A/2][E/2G/2][D/2F/2] [F/2A/2][A/2d/2][Ad]|"G"[B/2d/2][c/2e/2][B/2d/2][A/2c/2] "A7"[F/2A/2][A/2c/2][A/2c/2][c/2e/2]|\
+"G"[d/2g/2][e/2g/2][d/2g/2][B/2d/2] "D"[A/2d/2][c/2e/2][d/2f/2][e/2g/2]|"D"[f/2a/2][e/2g/2][d/2f/2][e/2g/2] "A7"[f/2a/2][e/2g/2][eg]|
+"D"[DF](3[F/2A/2][E/2G/2][D/2F/2] [F/2A/2][A/2d/2][Ad]|"G"[B/2d/2][c/2e/2][B/2d/2][A/2c/2] "A7"[F/2A/2][A/2c/2][A/2c/2][c/2e/2]|\
+"G"[d/2g/2][e/2g/2][d/2g/2][B/2d/2] "D"[A/2d/2][c/2e/2][d/2f/2][B/2d/2]|"A7"[A/2c/2][F/2A/2][E/2G/2][G/2A/2] "D"[F/2A/2][D/2F/2]D::
+"D"[f/2a/2][a/2d'/2][a/2d'/2][b/2d'/2] [a/2d'/2][f/2a/2][d/2f/2][f/2a/2]|"G"[g/2b/2][e/2g/2][f/2a/2][d/2g/2] "A7"[e/2g/2][d/2f/2][B/2d/2][c/2e/2]|\
+"D"[d/2f/2][e/2g/2][d/2f/2][B/2d/2] [A/2d/2][c/2e/2][d/2f/2][e/2g/2]|"D"[f/2a/2][e/2g/2][d/2f/2][f/2a/2] "A7"[eg][eg]|
+"D"[f/2a/2][a/2d'/2][a/2d'/2][b/2d'/2] [a/2d'/2][f/2a/2][d/2f/2][f/2a/2]|(3"D"[g/2b/2][a/2d'/2][g/2b/2][f/2a/2][d/2f/2] "G"[e/2g/2][d/2g/2][B/2d/2][c/2e/2]|\
+"G"[d/2g/2][e/2g/2][d/2g/2][B/2d/2] "D"[A/2d/2][c/2e/2][d/2f/2][B/2d/2]|"A7"[A/2c/2][F/2A/2][E/2G/2][G/2A/2] "D"[F/2A/2][D/2F/2]D:|
+
+
+X: 29
+T:Montecarlo or Bust
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:G
+"G"[B,D][G,B,] [B,D][DG]-|[DG][B,2D2][DG]|"G"[GB][DG] [GB][Bd]-|[B4d4]|"G"[Bd][GB] [Ac][GB]|"G7"[Bd][GB] [Ac][GB]|"C"[Bd][Ac] [Gc][EG]-|[E3G3][=FA]|
+"D7"[F2A2] [F2A2]|[FA][Ac] -[Ac][DF]|"G"[GB][Ac] [^Ad][Bd]-|"E7"[B3d3][Bd]|"A7"[Bd][A^c] [GA][EG]|[Bd][A^c] [GA][EG]|"D7"[FA][GB] [^Gc][Ac]-|[A4c4]||
+"G"[B,D][G,B,] [B,D][DG]-|[DG][B,2D2][DG]|"G"[GB][DG] [GB][Bd]-|[B4d4]|"G"[Bd][GB] [Ac][GB]|"G7"[Bd][GB] [Ac][GB]|"C"[Bd][Ac] [Gc][EG]-|
+[E3G3][EG]|"C"[EG][^DG] [EG][Gc]-|"C#/dim"[Gc][A2c2][^Ad]|"G""d"[Bd][^Ad] [Bd][ce]-|"E7"[ce][^D2G2][E^G]|"A7"[B2d2] [Bd][Bd]-|"A7"[Bd][GA] "D7"[A2c2]|\
+"G"[G4B4]||
+
+
+X: 30
+T:Reel De Montreal
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+[dg]|"G"[gb][f/2a/2][e/2g/2] [d/2g/2][c/2e/2][B/2d/2][A/2c/2]|[G/2B/2][B/2d/2][D/2G/2][G/2B/2] [Bd][A/2c/2][G/2B/2]|"D"[F/2A/2][A/2d/2][D/2F/2][F/2A/2] [A/2d/2][c/2e/2][B/2d/2][A/2d/2]|\
+"G"[G/2B/2][B/2d/2][D/2G/2][G/2B/2] [Bd][B/2d/2][d/2g/2]|
+"G"[gb][f/2a/2][e/2g/2] [d/2g/2][c/2e/2][B/2d/2][A/2c/2]|"G"[G/2B/2][B/2d/2][D/2G/2][G/2B/2] [Bd][A/2c/2][G/2B/2]|"D7"[F/2A/2][G/2B/2][A/2=c/2][B/2d/2] [c/2e/2][d/2f/2][e/2g/2][f/2a/2]|\
+"G"[gb][gb] [gb]:|
+K:D
+z|:"D"[Ad][F/2A/2][A/2d/2] [df][A/2d/2][d/2f/2]|[fa][d/2f/2][f/2a/2] [ad'][a/2d'/2][b/2d'/2]|"A"[ac'][gb] "A7"[eg][ga]|"D"[bd'][ad'] [fa][Ad]|
+"D"[Ad][F/2A/2][A/2d/2] [df][A/2d/2][d/2f/2]|[fa][d/2f/2][f/2a/2] [ad'][a/2d'/2][b/2d'/2]|"G"[ac'][gb] "A7"[eg][ce]|"D"[d2f2] -[d2f2]:|
+
+
+

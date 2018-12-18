@@ -1,0 +1,16 @@
+X:1
+T:Reel de Montreal
+O:Trad
+R:reel
+M:4/4
+L:1/8
+%%Q: 3/8=108
+P:PLAY  AA BB AA BB AA
+K:G
+P:A
+|:"G"g2 fe d=cBA | GBDG B2AG | "D7"FADF A=cBA | "G"GBDG Bdef |
+| "G"g2 fe d=cBA | GBDG B2AG | "D7"FGAB =cdef | "G"g2"C"gf "G"g2 z2 :|
+K:D
+P:B
+|:"D"A2 FA d2Ad | f2df a2ab | "A7"a2g2 efga | "D"b2a2 f2d2 |
+| "D"A2 FA d2Ad | f2df a2ab | "A7"a2g2 eAB^c |1 "D"d4 "A7"d4 :|2 "D"d2d2 "D7"e2f2 ||

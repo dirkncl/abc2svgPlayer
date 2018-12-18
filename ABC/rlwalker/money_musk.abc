@@ -1,0 +1,17 @@
+X: 1
+T:The Money Musk
+M:4/4
+L:1/8
+Q:1/4=130
+R:Reel
+K:A
+f|
+"A"e3/2A/2c3/2A/2 "D"e3/2A/2d3/2f/2|
+"A"e3/2A/2c3/2A/2  "E7"(3BcB d3/2f/2|
+"A"e3/2A/2c3/2A/2 c3/2d/2e3/2a/2|
+"D"f3/2d/2 "E7"B3/2e/2 "A"c/2A3/2 A:|
+e|
+"A"aeca eace|"A"ae "D"db "A"ca "E7"Bg|
+"A"aeca eace|"D"fd "E7"Be "A"c/2A3/2 A:|
+
+% Output from ABC2Win  Version 2.1 i on 06/06/2001

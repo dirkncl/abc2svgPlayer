@@ -1,0 +1,20 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Moving Cloud
+S:irtrad-l, C. Walshaw, 4/95
+H:Flute players (e.g. Matt Molloy) normally play this in G. It's
+H:in Bulmer's & Sharpley in both keys.
+M:4/4
+L:1/8
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Gmaj
+|: DGBG EGcG | DGBG AGEG | Ac~c2 Bdgb | aged BAGE |
+| {D}G3D ^D3=D | DGBG AGEG | ABcd efge | [1 dBAB G3E :| [2 dBAB
+GABc |
+|: ~d2ad bdad | ~d2bd aded | ~e2be ^c'ebe | ^c'bag bage |
+| ~d2ad bdad | ~d2bd ad~d2 | ^c'bag bage | dbab g3e :|

@@ -1,0 +1,27 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:64
+T:Marching Through Georgia
+% Nottingham Music Database
+S:via PR
+M:2/4
+L:1/4
+%Q: (beats per measure)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+F:http://abc.sourceforge.net/NMD/reelsD-G.txt	 2003-02-17 22:53:12 UT
+K:Gmaj
+"G"B3/4A/4 G/2A/2|B/2D/2 D/2D/2|"C"E/2G/2 "Cm"G/2A/2|"G"G2|"G"B,3/4C/4 D/2D/2|\
+"Em"E/2D/2 E/2G/2|"A7"A3/4^G/4 A/2B/2|
+"D7"A2|"G"G/2G/2 A/2B/2|"C"c/2E/2 E/2E/2|"G"D/2G/2 "D7"G/2A/2|"G"B2|\
+"Am"A A3/4A/4|"Am"A "D7"B/2A/2|"G"G2|G3/2B/2||
+"G"d3/2B/2|d3/2B/2|"C"G/2A/2 G/2E/2|"G"G3/2B/2|"G"d3/2B/2|d3/2B/2|\
+"Am"A3/4A/4 A/2B/2|"D7"A2|
+"G"G/2G/2 A/2B/2|"C"c/2E/2 E/2E/2|"G"D/2G/2 "D7"G/2A/2|"G"B2|"Am"A A3/4A/4|\
+"Am"A/2B/2 -"D7"B/2A/2|"G"G2|G2||

@@ -1,0 +1,48 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:These Are My Mountains
+C:Jimmy Copeland
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:A    %(D, C)
+|"^Verses"e|e d c|B3 |A2 A/2c/2|a g f|e2 e/2e/2
+w:For fame and for for-tune I_ wan-dered the earth and_
+|f g a|e3|c2 c/2e/2|e c A|B2 B/2e/2
+w:now I've come back to the_ land of my birth. I've_
+|e d c|B3|A2 A/2c/2|c d e|f2 f/2a/2|
+w:brought back my trea-sures but_ on-ly to find They're_
+|a g f|e3|c2 c/2A/2|e c B|A2 A|
+w:less than the plea-sures I_ first left be-hind._
+|"^Chorus"e|A B c|B3|A2 A/2c/2|c d f|e2 e/2e/2
+w:For these are my moun-tains and_ this is my glen the_
+|f g a|e3|c2 c/2e/2|e c A|B2 B/2e/2
+w:braes of my child-hood will_ know me a-gain. No_
+|e d c|B3|A2 A/2c/2|c d e|f2 f/2a/2
+w:land's ev-er claimed me tho'_ far I did roam For_
+|a g f|e3|c2 c/2A/2|d c B|A2 A|
+w:these are my moun-tains and_ I'm go-ing home._
+w:these are my moun-tains and_ I have come home._
+
+For fame and for fortune I wandered the earth
+And now I've come back to the land of my birth
+I've brought back my treasures but only to find
+They're less than the pleasures I first left behind
+
+For these are my mountains and this is my glen
+The braes of my child-hood will know me again
+No land's ever claimed me tho' far I did roam
+For these are my mountains and I'm going home
+     (last) and I have come home
+
+The burn by the road sings at my going by
+The whaup averhead wings with welcoming cry
+The loch where the scart flies at last I can see
+It's here that my heart lies it's here I'll be free
+
+Kind faces will meet me and welcome me in
+And how they will greet me my ain kith and kin
+The night round the ingle old sangs will be sung
+At last I'll be hearing my ain mother tongue.
