@@ -6,11 +6,13 @@
   
   - Choral - https://dirkncl.github.io/abc2svgPlayer/Choral.html
 
-  - abcTune - https://dirkncl.github.io/abc2svgPlayer/abcTune.htm
+  - abcTune - https://dirkncl.github.io/abc2svgPlayer/abcTune.html
   
   - abcother - https://dirkncl.github.io/abc2svgPlayer/abcother.html
 
   - NMD - https://dirkncl.github.io/abc2svgPlayer/NMD.html
+  
+  - Lotro - https://dirkncl.github.io/abc2svgPlayer/Lotro.html
 
 
 - abc2svg - http://moinejf.free.fr/js/
@@ -18,6 +20,7 @@
 - openhymnal ABC files - http://openhymnal.org/
 
 - NMD ABC Files - Nottingham Music Database
+
 
 ## add abc2svg new version 1.18.3 from http://moinejf.free.fr/js/
 ### experimental - scroll to view
@@ -36,3 +39,7 @@
 
 - NMD - https://dirkncl.github.io/abc2svgPlayer/NMD_new.html
 
+- Lotro - https://dirkncl.github.io/abc2svgPlayer/Lotro_new.html
+
+
+[![Screenshot](https://dirkncl.github.io/abc2svgPlayer/screenshot/Carol.png)](https://dirkncl.github.io/abc2svgPlayer/Carol_new.html)
