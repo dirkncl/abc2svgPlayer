@@ -1,0 +1,66 @@
+X:1
+T:I am the Walrus
+C:The Beatles
+T:Asphyx of Brandywine
+I:Lute, Theorbo
+Q:1/4=220
+M:4/4
+L:1/8
+K:C
+^F_E B, EF B, EF B, FE B, |
+B, _e2 B A A, e2 ^f2^c2 |G G,B FF,A A d2 |
+^GB E,E E,G E G E,E G E, E ^c |
+E, d2 BE^G, B,B E E, G, B E B, E,B E |^F D,A D D, F D,D D,F D,D A F D, DB |
+D,D c D, ^F D,D, D,A D, c D,D, |
+A,A ^c A, A A,c A G,c G, G,c A |c C,G C, GcC, ^FD,A D, BG E,A, |
+A,A,^CA, G,A, G,G, G, |
+C,E E C,_E C,=E E E C,C,E_E =E C,E C,D |D,C A,D,A, D,A, D,D, D,D,A, |
+^C A, D C A,4 E,2 _E,=E, _E,2 |
+A,E_E A,=E_E A,=E E G,^C G, G, |^F,F, F, =F,E EE F,E F,GG E |
+A,C^C A, A, E, G, G, G, E, |
+F,B, A,B, F,A, F,B, F,A, |B,A, B,B, A, B,B, B,A, B, B,A,^F,B, A, A, B,A, B,F, |
+B, B, B, ^F, B, B, B, C |
+C, C C, G, CC, CC |D, D D, D, C, B, D A, D E |
+E, E E, E B, B, E, E E E2_E2 =E2 E,4 |
+A,E A,_E =E A,_E A, G,=E G,_E G,=E_E G, |C,E_EC, C,=E_EC, D,=ED,_E =E,=E_EG,=E |
+A,^CA,A, A,G,E, G,G, E,D, |
+C,EEC,_E G,=EG,E C,E_EC,=E_E G,=EEC,D |D,CD,A,A, A,A, D,D, A,A,A, |
+^CA, DC A, A, A,A, A,A, |
+D,F- D, D,D, D,D, D,D, |D,F D, D,D, D,D,F D,D,A, |
+A,^CA,DC A,A,A, A,A, A,A,A, |
+E,^G E, E,E, E,E, E,E, |D,AD, D,D, D,D, D,D, |
+A,E_EA,=E_E A,=EE G,G,^C G, |
+^F,F, F, =F,E E F,EE GF, GE |A,CA,^C A,E, G,G, G,E, |
+F,B, A,F, B,A, F, B, F,A, F,B, A, F,B,A, F,B,A,F,B, |
+B,A, B, B,A, B, B, B,A, B, B,A,^F, B,A, A,B,A,B,F, |B,B, B,B, B,^F, B,B, B,C |
+C,C C,C C,G, C,G, C C, CC |
+D, D D,D D,D, C,B, DA, DE |E,EE,E B,B, E,EEE,_E B,=E E, |
+E,E |B, A, |G, F, |E, |
+B,_EB, E B,EB,E A,^CA, A,^FA,E |G,G,B, G,B,B,G, F,A,F, F,DF,B, |
+E,E, E,E, F,F,A,B, F,CDF,B, |
+B, A,B, B,A, ^F,B,A,A,B, B,A,B,B,A, F,B,A,A,F, |B,B, ^F,F, B,F, A,B,B,B,B, |
+C,C C,C C,C, C,C, C,CCC,C |
+D,D D,D D,D, C,B, A,D DD,E |E,E E,E E,B, E,EEE,D B,EDE,E |D,ED,D D,EA, D,D, A,D, |
+A,E A,_E A,=E_E G,=E_EG, =EG, _E |
+C,E_E C, C,=E_E D,=E_ED, =E,=E_EA,=E |A,A,^CA, A,G, G,G, G, |
+C,EE C,_E C,=EE C,EC,E_E C,=EEC,D |
+D,C D,A,A, D,A, D,D, D,D,A, |^CA, DC A, E, _E,=E, _E, |
+A,E_E A,=E_E A,=EE G,G,^C G, |
+^F,F, F, =F,E E F,E E G F, G E |A,CA,^C A,E, G,G, G,E, |
+F,B, A,F,B, A, F,B,F,A, F,B,A,F,B,A, F,B,A,F,B, |
+B,A, B,B, A, B,B,B,A,B, B,A,^F,B,A, A,B,A,B,F, |B,B, B,B, B,^F, B,B, B,C |
+C,CC,C C,G, C,G, CC, CC |
+D,D D,D D,D, C,B, DA, D E |E,E E,E B,B, E,EE E,D E,EDE,E |
+D,E D,D A,EA, D,D, A,D, |
+C,EE C,D C,EC,E E C,EC,D C,E C, |B,E B, B,B, B,B, B,B, |
+A,A,A, A,A,A, A,A,A, A,A, A, |
+G,B,G, G,B,G, G,B,G, G,B, G, |F,CF, F,CF, F,CF, F,C F, |
+E,EE, E,EE, E,EE, E,E E, |
+A,A,A, A,A,A, A,A,A, A,A, A, |G,B,G, G,B,G, G,B,G, G,B, G, |
+F,CF, F,CF, F,CF, F,C F, |
+B,E B, B, B, B,B, B, B, |A, A, A, A,A, A, A,A, A, A,A, A, |
+G, B, G, G, B, G, G, B, G, G, B, G, |
+F, C F, F, C F, F,C F, F,C F, |E, E E, E, E E, E, E E, E, E E, |
+A, A, A, A, A, A, A, A, A, A, A, A, |
+G, B, G, G, B, G, G, B, G, G,B, G, |F,C F, F, C F, F, C F, F, C F, |
+E, E E, E,E E, E, E E, E, E E, |

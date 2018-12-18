@@ -1,0 +1,86 @@
+X:1
+T:A Day In The Life
+C:The Beatles
+Q:1/4=250
+M:2/4
+L:1/8
+K:C
+GB,EG,B,EG,EDG,B,EG,B,DG,DEB,|
+C,G,ECC,B,CEG,C,B,C,EG,CB,|
+CG,EC,C,B,C,G,CE B,C,G,EG,CG,E,|
+G,G,BGDB,G,dG,DGB,BE,e^F,F,DB,FBdF,B,F,FDeD,|
+E,EB,BG,E,E,EG,B,E,D,E,D,G,B,EDA,G,B,DEB,C,|
+C,G,/G/E/C/B/C,CcEG,B,/B/A/B,G,GEB,G,B,EA|
+A,EEA,CA,BA,CA,EE,CEG,G,^F,CE|
+G,B,DBG G,dA,/D/B,/d/G/e/B,^FDB,BdB,D,FDe|
+E,BB,G,EEG,D,B,G,A,EDB,B,B,EG,D|
+C,G,CGEBG,CE,cEBF,A,/C/A/F/G/F,A,CA/FG|
+E,GB,G,EE,B,G,ED,B,DEG,D,B,G,DE|
+C,G,CEGC,BE,G,CcEF,BA,/C/A/F/G/F,A/CFA,G/C,|
+GE,E,G,B,EE,G,/B,E/D,/C,C,CG,EC,G,CD,E|
+G,GDB,dG,G,/d/d/G,D/G/B,/E,/e/^F,F,B,DFBF,/d/e/F,B,DFB|
+E,BE,G,B,EE,E,G,B,EE,E,G,B,DED,D,G,B,DE|
+C,C,G,CEGC,B/c/C,/G,C/E/B/B,B,G,B,EAB,GB,G,B,EA|
+A,A,A,C/E/B/BA,A,CEE,G,CE^F,G,CE|
+G,B,DGBG,dA,B,DGBB,e/B/B,D^FB,d/e/D,B,DF|
+EBG,B,EE,G,B,ED,G,B,DED,G,B,DE|
+C,G,CEGC,BE,G,CEcF,BA,/C/F/A/G/F,A,CF|
+EBG,B,EE,G,B,ED,G,B,DED,G,B,DE|
+E,/B/_B/G,/=B,/E/=B/_B/E,/=B2/_B/E/=B/E,/G,/=B,/_B/D,/=B2/_B/G,/=B,/D/=B/_B2/=B2D2
+e/G,B,Dg-|C,gC,G,CEC,C,G,CEC,C,C,C,G,CE|
+G,G,B,DGBG,dB,/D/G/B/e/^F,F,B,DFBdF,B,DFe|
+E,E,G,B,EBE,G,B,ED,D,G,B,DED,G,B,DE|
+C,G,CEGC,BG,/C/E/c/B/B,G,B,EAGB,G,B,EA|
+A,EA,/A,/C/E/B/BA,A,CEE,G,CE^F,G,CE|
+G,B,DGBG,dG,B,DGB^F,/e/B/F,B,DFF,de/F,B,DFB|
+E,BG,/B,/E/E,/E,E,G,B,ED,D,G,B,DED,D,G,B,DE|
+C,G,/C/E/G/B/C,E,G,CEcF,BA,/C/F/A/G/F,F,A,CF|
+E,G,B,EE,BG,B,EcD,BG,B,DD,eG,B,D2|
+B,C,2B,g4 B, C, B, B, C, B, C, B, C, B, C, B, C, B, C, B B, C, B, C, B, C,|
+BC,eC,^F,/B/c/F,/B/c/F,/B/c/B/F,c|
+G,2/B/c/G,1B/c/G,2B/c/G,1B/c/A,2/B/c/A,1B/c/A,2/B/cA,1B/c/A,2B/c/|
+^G,/^C,/_E,B,/_B,/A,/cD,E,=C,^F,E,=F,E,/C,/E,/^C,/=E,/D,/=B,/C/A,
+B,C,Cc=GE,F,/D,/_E,/F,/C/E,F,/^G,/=C,/^F,/D,/F,/B,/E,/D/^C
+EdF,F,/=G,/A,/=G,B,E,|
+E,^C,=C,B,A,|
+E,^C,B,=E,C,B,|
+^G,/E,/F,/D,^G,/F,_E/d^F,B,/_B,/G,/E,E_eG,A,/C,/A,/D,/_E,/F,/^F,/A,/E/A,B,F/=G,|
+_B,/C,/F,/_B,/C,B,=E,/^F,/G,/B,/F/=e^F,=B,/^C,/=B,/C/F,/B,/F/=C,=C,B,G,^G,F|
+C,=F,^C/C/=F,G,/D,GC/=f^C,/F,/=F,|
+^F,/^G,/A,/G/^G,G,F,/D,/^C/D/E,D,/G,/G/E,D,/_E,/A,/_B,/=G,/G/E/E,/E,=F,A,A| E,/B,/=B,/^G,/A/E,EB,/B/A,F,/E,/^F,/F/=B,/B/A,=CF/B,/^F/^F,F,BG,|
+C/B/^C/A,F,/^F/=G,/=G/C/G/_E,_B,G^G,/F,/=B,/^CE,/D/^G/B,=G/G/E,C|
+F,^G,E,C^GA,/=CE,/D/A/|F,/=G,/_B,G/B/G,^CE,EB^G,_E,B_eB,|
+C,/D/E/F/B,/_B/^F,/^G,/^C/E/=C,/_E/=F/F/A,/B/D,/G,/D/F/d/f|
+A,=E/^F/=G/d/f/=C,_E,/A/_B,EFfAG/B/f/=E,=F^GB,/B/^c/G/B/F,=Be4|
+E,2 E,2E,2 E,2E,2 E,2E,2 E,2E,2 E,2E,2 E,2E,2 E,2E,2 |E,E, E,E, ^g/E,/b/E, E,E,/g| E,/b/^g/E,b E,E, E,/b/g/E,b E,/g/E,e |E,/d/e/D, A,E,2 D A,E,2 D, |
+A,/^g/a/ E,/b/b/ _E,/b/ ^C, =C,/g/a/ B,^f/ B,f |
+B,B,/B/ b/E,/b/_E,/b/ ^C,=C,/^g/ B,/a/A,/^f/B,/f/A,/=e|
+B,^fA,B,E,A,B,E,A,B,E,A,B,E,A,B,bA,^g E,b_E,g |
+^C,bB,^g/b/E,_E,C,B,/b/g/=E,b_E,/g |^C,e/d/B,e D,D, A,A, A,A, |
+A,A,^g/aE,bbE,b^C,=C,gB,a^fB,f |_E,^F,B/=E,bb_E,bb^C,^g=C,/g/a/B,/f/f/B,f/B,/B,4 |
+E,G,CCCEeGcBdG,CDGG,E,D,D,|BdD,DGE,D,^F^fF,A,^F^fD^FAd^f|
+D^FAd^fA,^CEA^ceA,^F,E,A,A,|^F,^CEA^ce E, E,Ee3 D,Dd C,Cc|C,CcD,DdG,|
+DGBG,dB,/D/G/B/e/^F,F,B,DFBdF,B,DFe|
+E,E,G,B,EBE,G,B,ED,D,G,B,DED,G,B,DE|
+C,G,CEGC,BG,/C/E/c/B/B,G,B,EAGB,G,B,EA|
+A,EA,/A,/C/E/B/BA,A,CEE,G,CE^F,G,CE|
+G,B,DGBG,dG,B,DGB^F,/e/B/F,B,DFF,de/F,B,DFB|
+E,BG,/B,/E/E,/E,E,G,B,ED,D,G,B,DED,D,G,B,DE|
+C,G,/C/E/G/B/C,E,G,CEcF,BA,/C/F/A/G/F,F,A,CF|
+E,G,B,EE,BG,B,EcD,BG,B,DD,eG,B,D2|
+B,C,2B,g4 B, C, B, B, C, B, C, B, C, B, C, B, C, B, C, B B, C, B, C, B, C,|
+BC,eC,^F,/B/c/F,/B/c/F,/B/c/B/F,c|
+G,2/B/c/G,1B/c/G,2B/c/G,1B/c/A,2/B/c/A,1B/c/A,2/B/cA,1B/c/A,2B/c/|
+^G,/^C,/_E,B,/_B,/A,/cD,E,=C,^F,E,=F,E,/C,/E,/^C,/=E,/D,/=B,/C/A,
+B,C,Cc=GE,F,/D,/_E,/F,/C/E,F,/^G,/=C,/^F,/D,/F,/B,/E,/D/^C
+EdF,F,/=G,/A,/=G,B,E,|
+E,^C,=C,B,A,|
+E,^C,B,=E,C,B,|
+^G,/E,/F,/D,^G,/F,_E/d^F,B,/_B,/G,/E,E_eG,A,/C,/A,/D,/_E,/F,/^F,/A,/E/A,B,F/=G,|
+_B,/C,/F,/_B,/C,B,=E,/^F,/G,/B,/F/=e^F,=B,/^C,/=B,/C/F,/B,/F/=C,=C,B,G,^G,F|
+C,=F,^C/C/=F,G,/D,GC/=f^C,/F,/=F,|
+^F,/^G,/A,/G/^G,G,F,/D,/^C/D/E,D,/G,/G/E,D,/_E,/A,/_B,/=G,/G/E/E,/E,=F,A,A| E,/B,/=B,/^G,/A/E,EB,/B/A,F,/E,/^F,/F/=B,/B/A,=CF/B,/^F/^F,F,BG,|
+C/B/^C/A,F,/^F/=G,/=G/C/G/_E,_B,G^G,/F,/=B,/^CE,/D/^G/B,=G/G/E,C|
+F,^G,E,C^GA,/=CE,/D/A/|F,/=G,/_B,G/B/G,^CE,EB^G,_E,B_eB,|
+C,/D/E/F/B,/_B/^F,/^G,/^C/E/=C,/_E/=F/F/A,/B/D,/G,/D/F/d/f|
+A,=E/^F/=G/d/f/=C,_E,/A/_B,EFfAG/B/f/=E,=F^GB,/B/^c/G/B/F,=Be20E,5|
