@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: One Night In Dark December
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: E
+[V: P1]  E | G2 F E2 F | (G2 A) B2 G | c2 B A2 G | A3z2 A | A2 G F2 G | (A2 c) B2 c | d c B c2 d | B3z2 B | B2 A G A B | c3 B2 G | A A G F2 c | B3z2 B | c2 B (A B) c | (B2 A) G2 A | (F G) A G2 F | (E3 E2)|]
+w: One night in dark De- cem_ ber, Ere dawn of Christ- mas Day, The sky grew bright with glo-_ ry, Night's sha- dows were rolled a- way: And o- ver Beth- le hem vil- lage The sounds of sweet mu- sic ran, As an- gels sang_ their ca-_ rol, "Good will_ from God to man."_
+

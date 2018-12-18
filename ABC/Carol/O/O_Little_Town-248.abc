@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Little Town Of Bethlehem
+Z: Chas. C. Ackley
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  c | c d c d | d3/ G/ G A | B B c d | (c2 c) c | c d c d | e c =B A | G A =B d | (c2 c) |"^Girls Voices" C | C E A G | (F d) c |"^Boys Voices" C | C E G B | (A2 A) |"^All Voices" A | A B A E | A B A (A/_A/) | G G A =B | (c2 c) |"^Chorus" c | f c B A | A3/ G/ G G | e d c B | (A2 A) A | d A d c | c3/ B/ B D | E B A G | F3|]
+w: O lit- tle town of Beth- le hem, How still we see thee lie!_ A- bove thy deep and dream- less sleep The si- lent stars go by._ Yet in thy dark streets shine-_ th The ev- er last ing Light;_ The hopes and fears of all the years Are_ met in thee to- night._ O lit- tle town of Beth- le hem, Of thee in song we tell;_ And hail with joy this Christ- mas day, Our Lord Em- man u el.
+[V: P2] z | [FA] [FA] [FA] [FA] | [E3/B3/] E/ E E | [EG] [EG] [EG] [EB] | [FA] [^DA] [EB] [EB] | [FA] [FA] [FA] [FA] | [EGc] [EA] [C^D] [CD] | [CE] [CE] [DF] [FG=B] | [(E2(G2] [E)G)] |z | z4 | (F ^G) A |z | z4 |z3 |z | [^CG] [CG] [CG]z | [DF] [DF] [DF]z | [CE] [CE] [=B,G] [B,G] | (E F) E | [EB] | [FAc] [CFA] [CD^F] [CDF] | [B,3/D3/] [B,/D/] [B,D] [B,D] | [EB] [EB] [CG] [CE] | [(C2(F2] [C)F)] [CF] | [D^FA] [DF] [DA] [DA] | [D3/G3/] [D/G/] [DG] D | C E E E | C3|]
+[V: P3] z | F, C, F, C, | G, C, G, C, | G, C, G, C, | (F, ^F, G,) C, | F, C, F, F, | G, A, ^F, F, | G, G, G,, G,, | C, G,, C, |z | C,, C C C | F,, =B, C |z | C,, C C C | F,, F F |z | A, B, A,z | A, B, A,z | G, G, G, G, | (G, A, B,) |z | F, F, D, D, | G, G, G, G, | C, C, E, C, | F, C, F, (F,/E,/) | D, D, ^F, D, | G, G, G, G, | G, D C B, | A,3|]
+[V: P4] z | F,, C,, F,, C,, | G,, C,, G,, C,, | G,, C,, G,, C,, | (F,, ^F,, G,,) C,, | F,, C,, F,, F,, | G,, A,, ^F,, F,, | G,, G,, G,,, G,,, | C,, G,,, C,, |z | C,, G, G, G, | F,, F, F, |z | C,, G, G, G, | F,, [A,C] [A,C] |z | A, B, A,z | A, B, A,z | G, G, G,, G,, | (C,2 C,) |z | F,, F,, D,, D,, | G,, G,, G,, G,, | C,, C,, E,, C,, | F,, C,, F,, (F,,/E,,/) | D,, D,, ^F,, D,, | G,, G,, G,, G,, | C, C, C, C, | F,3|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Lovely Star That Shone So Bright
+Z: C. Simper
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G/ | A G/ c B/ | A B/ G d/ | e d/ (d/ c/) B/ | (B/ A/) G/ F G/ | A G/ c B/ | B A/ A B/ | G F/ E D/ | (E/ G/) A/ B3/"^Chorus" B/ | B B/ ^A B/ | d A/ ^G A/ | B G/ E G/ | A E/ A D/ | D G/ B e/ | d c/ G3/ | G A/ B d/ | G A/ B3/ | B e/ d G/ | (F/ G/) A/ G|]
+w: O love- ly Star that shone so bright! While shep- herds watched_ their flocks_ by night, To lead the wise men on their way, Where Christ our Lord and Sav-_ iour lay. Hark! hark! the cho- rus sound- ing still From snow- y vale and dis- tant hill; The an- gels breathe to earth a- gain; Peace on earth, good will to men! Peace on earth, good will_ to men!
+

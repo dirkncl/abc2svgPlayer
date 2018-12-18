@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Once In Bethlehem Of Judah
+Z: J. H. Maunder
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=70
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G G/ | G G/ (A/G/) F/ | B G/ G G/ | G G/ (A/G/) F/ | B3/ B B/ | B G/ B B/ | (B/=A/) G/ (A/B/) c/ | d B/ d A/ | (d3/ d) B/ | e d/ (c/d/) e/ | B G/ G B/ | (B/A/) G/ (F/G/) A/ | (B3/ B) B/ | c c/ (d/c/) d/ | e3/ d c/ | (B/e/) G/ c B/ | E3/|]
+w: Once in Beth- le hem_ of Ju- dah, Far a- way a- cross_ the sea. There was laid a lit- tle Ba-_ by On_ a Vir- gin Moth- er's knee._ O Sav- iour, gen-_ tle Sav- iour, Hear Thy lov-_ ing child-_ ren sing,_ The God of our_ sal- va tion, The Child_ that is our King.
+

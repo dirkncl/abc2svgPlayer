@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Kind, o wahrar Gottes Sohn
+Z: Melody from Kolnisches Gesangbuch, 1625
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  A | A2 c | B2 A | G2 A | E2 e | e2 d | c2 d | (c A) B | c2 A | A2 c | B2 A | G2 A | E2 e | e2 d | c2 d | (c A) B | c2z | c2 B | c2 d | e2z | A2 G | A2 B | c2z | c2 B | c2 d | e2z | [M: 4/4]  c2 B2 | A2z|]
+w: Hail! Babe, of God the ve- ry Son; And crib, the throne of Sol-_ o mon; And stall, a Par- a dise of light; And straw, like ros- es red_ and white. Ti- ny Child in stall, Bless us, one and all; Child in straw and hay, Cheer us ay.
+

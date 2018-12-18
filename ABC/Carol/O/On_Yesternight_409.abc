@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: On Yesternight I Saw A Sight
+Z: T. T. Noble
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G | A2 B | G2 E | F2 G | E2 G | c2 G | c2 E | G2 G | A2 B | G2 E | F2 G | E2 G | e2 c | e2 G | c2|]
+w: On yes- ter night I saw a sight, A star as bright as day, And heard a- mong The heav’ns a song, The Christ is born to- day.
+

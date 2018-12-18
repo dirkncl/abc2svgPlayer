@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O'er Hill And Dell The Christmas Bell
+Z: Henry Knight
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D/ | G A/ B c/ | d B/ G G/ | A A/ B c/ | (B3/ B) B/ | B ^A/ B ^c/ | d ^c/ B B/ | d B/ (^c/ B/) ^A/ | (B3/ B) d/ | d d/ g B/ | B B/ e B/ | e d/ c B/ (A3/ A/)z/ D/ | G A/ B c/ | d B/ g B/ | d G/ (A/ G/) F/ | (G3/ G)|]
+w: O’er hill and dell The Christ- mas bell Is ring- ing far and wide;_ Let all re- joice, With cheer- ful voice, And peace on earth_ a- bide._ For Christ is born This hap- py morn, Hark! Hark! the An- gels sing;_ Good will and love, From Heav’n a- bove, To all man- kind_ they bring._
+

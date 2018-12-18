@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Jesulein Suss
+Z: S. Scheidt, 1650; harmony by Johann S. Bach
+Z: Public domain
+L: 1/4
+M: 3/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Jesulein Süss"
+%%MIDI program 2 11
+V: P3 name="Staff-1"
+%%MIDI program 3 91
+K: C
+[V: P1]  [Ec] [E/c/]^F/ ^G/B/ | [Ac] [A/d/]G/ ^F | [GB] [Gc] B/E/ | [^FA] [D2G2] | [Ge] [G3/d3/] F/ | [E/d/]B/ [B3/c3/] A/ | [Gd] G A | [FB] [E2c2] | [Ge] [F/f/]G/ A | [Af] [G2d2] | [G/d/]A/ [^Ae] c/A/ | [A/e/]G/ [A2c2] | [Ac] [Ad] ^F/G/ | [Ad] [AB] G/^F/ | [GB] [C/c/]D/ E/F/ | [Gc] [GA] F | [Fd] [E/G/]D/ [CA] | [DB] [G2c2] | [Ge] [A/d/]G/ F/c/ | B/F/ [E2-c2-] | [E2c2]z|]
+[V: P2]  [Ec] [E/c/]^F/ ^G/B/ | [Ac] [A/d/]G/ ^F | [GB] [Gc] B/E/ | [^FA] [D2G2] | [Ge] [G3/d3/] F/ | [E/d/]B/ [B3/c3/] A/ | [Gd] G A | [FB] [E2c2] | [Ge] [F/f/]G/ A | [Af] [G2d2] | [G/d/]A/ [^Ae] c/A/ | [A/e/]G/ [A2c2] | [Ac] [Ad] ^F/G/ | [Ad] [AB] G/^F/ | [GB] [C/c/]D/ E/F/ | [Gc] [GA] F | [Fd] [E/G/]D/ [CA] | [DB] [G2c2] | [Ge] [A/d/]G/ F/c/ | B/F/ [E2-c2-] | [E2c2]z|]
+[V: P3]  C/B,/ [A,C] [E,E] | [A,/E/]G,/ [^F,/D/]E,/ D, | [G,D] [E,E] C,/E/ | [D,/A,/]D/ [G,2B,2] | [C,C] [G,/C/]^F,/ [G,B,] | [^G,E] [A,/E/]G,/ [A,F] | B,/F/ [CE] F, | [G,D] [C,2C2] | C/B,/ [A,C] F,/D/ | [D,C] [G,C] B,/C/ | [B,/D/]A,/ [G,C] E, | [C,^A,] [F,2=A,2] | [A,/E/]G,/ [^F,D] D, | [^F,D] [G,2D2] | [G,/D/]F,/ [E,G,] C, | [E,C] [F,2C2] | [D,B,] [E,/C/]B,/ [F,/A,/]E,/ | [F,/G,/]D,/ [E,G,] F,/E,/ | [D,/C/]C,/ [F,C] [D,/F/]E/ | [G,D] [C,2-C2-] | [C,2C2]z|]
+

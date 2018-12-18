@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O quam mundum, quam jucundum
+Z: Melody from Piae Cantiones
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  C E G2 | F/ G/ A/ B/ G2 | c B G E | F/ E/ D C2 |"^Verse 1" G G A G | c d B A | G B c G | (E2 G A | G) F E2 | G G E D | C C G G | E G A G | (E A G E) | D2 D2 |"^Verse 2" G G A G | c d B A | G B c G | (E2 G A | G) F E2 | G G E D | C C G G | E G A G | (E A G E) | D2 D2 |"^Verse 3" c c B d | e d B A | G G E A | (G/ E/) F G2 | c c G G | A A E E | D D E F | (E2 D) D | C4|]
+w: Ding- dong, ding: Ding- a dong a ding: Ding- dong, ding- dong: Ding- a dong ding. Up! good Chris- ten folk, and lis- ten How the mer- ry church___ bells ring, And from stee- ple Bid good peo- ple Come a- dore the new-___ born King: Tell the sto- ry how from glo- ry God came down at Christ-___ mas tide, Bring- ing glad- ness, Chas- ing sad- ness, Show'- ring bless- ings far___ and wide. Born of mo- ther, blest o'er o- ther, Ex Ma- ri a Vir-_ gi ne, In a sta- ble ('Tis no fa- ble), Christ- us na- tus ho-_ di e.
+

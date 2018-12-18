@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Little Town Of Bethlehem
+Z: Brooks - Redner
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  B | B B ^A B | d c E A | G (F/G/) A D | B3 B | B B e d | d c E A | G (F/G/) B A | G3 B | B B A G F2 F F | E F G A | B3 B | B B ^A B | d c E e | d G B3/ A/ | G3|]
+w: O lit- tle town of Beth- le hem, how still we_ see thee lie! A- bove thy deep and dream- less sleep the si- lent_ stars go by. Yet in thy dark streets shin- eth the e- ver last ing Light; The hopes and fears of all the years are met in thee to- night.
+[V: P2]  D | D D ^C D | =F E C E | D C C C | D3 D | D G ^G G | A E C E | D D F F | G3 G | G G F E ^D2 D D | E F G E | F3 G | D D ^C D | E E C (E/F/) | G ^C D3/ =C/ | B,3|]
+[V: P3]  G, | G, G, G, G, | ^G, A, A, C | B, (A,/B,/) C C | B,3 G, | G, B, B, E | E E E C | B, (^A,/B,/) D C | B,3 D | D B, C ^C | ^D2 D B, | E, F, G, E | ^D3 =D | D B, G, G, | =G, A, A, C | B, (A,/G,/) G,3/ F,/ | G,3|]
+[V: P4]  G, | G, G, G, G, | C, C, C, C, | D, D, D, D, | G,,3 G, | G, =F, E, E, | A, A, A,, C, | D,3/ D,/ D, D, | G,3 G, | G, G, A, ^A, | B,2 B, B,, | E, F, G, C | B,3 G, | G, G, G, G, | C, C, C, C, | D, E, D,3/ D,/ | [G,,3D,3]|]
+

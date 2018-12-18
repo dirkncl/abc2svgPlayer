@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O'er Bethlehem's Hill In Time Of Old
+Z: A. E. Floyd
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c/ | A B/ G c/ | A B/ G E/ | C C/ (C/D/) E/ | (G3/ G) c/ | A B/ G c/ | A B/ G A/ | B A/ G ^F/ | (E3/ E) E/ | ^F ^G/ A B/ | c B/ A G/ | A B/ c d/ | e3/ d3/ | (c3/ c)|]
+w: O'er Bethl- 'ehem's hill, in time of old, Came wise men from_ a- far,_ Bring- ing their cost- ly gifts of gold, For they had seen His star._ In prince- ly pomp, with pre- sents meet, They came to wor- ship at His feet._
+

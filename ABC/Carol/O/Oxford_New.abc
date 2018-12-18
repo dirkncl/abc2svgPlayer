@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Oxford New
+Z: Unknown
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1]  [Ec] [CG] [C/F/c/]B/ | [CA] [DFB] [CGc] | [A,Ad] [CGe] [B,Fd] | [C2E2c2] [CGe] | [B,DGd] [A,^Fc] [GB] | [EA] [DB] [D/^F/A/]C/ | [B,2G2] [CGc] | [CFA] G [Ec] | [A,CF] [CE] [CA] | [CG] [B,F] [CE] | [CE] [B,D] [CG] | [CA] [DFB] [Ec] | [D/F/A/]d/ [EGc] [DFB] | [C3E3c3]|]
+[V: P2]  [C,G,] E, C, | F, D, E, | F, G, G, | C,2z |z2 G, | C, D, D, | G,2 E, | F, E, [C,G,] |z G, F, | [E,G,] D, [C,G,] | [G,,2G,2] [E,G,] | F, D, C, | F, G, G,, | C,3|]
+

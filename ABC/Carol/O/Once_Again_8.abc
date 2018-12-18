@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Once Again, O Blessed Time
+Z: Rev. J. B. Dykes
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G ^F/ G e/ | e d/ (c/B/A/) | (G/ A/) B/ c B/ | (B A/) G3/ | G ^F/ G e/ | e d/ c/ B/ A/ | (G/ B/) c/ (d/e/d/ c/E/^F/) G/ B/ A/ | (A G/G/ E/) ^F/ | A3/ (G =F/) | E D/ E F/ | G G/ (F3/ C/) | ^F E/ F G/ | A3/ G3/ | G G/ c c/ | (d/ c/) d/ _e3/ | _e c/ (f/ e/) d/ | (c3/ e d/) | (c3/ c3/) | G3/ G3/ | G3/ G3/ | (G3/ G3/ | G3/) G3/|]
+w: Once a- gain, O bless- ed time,__ Thank-_ ful hearts em- brace_ thee; If we lost thy fes- tal chime, What could e’er_ re- place_____ thee? What could e’er___ re- place thee?_ Change will dark- en many a day,_ Many a bond dis- sev er; Many a joy shall pass_ a- way, But the “Great_ Joy” nev-__ er!_ But the “Great Joy” nev-__ er!
+

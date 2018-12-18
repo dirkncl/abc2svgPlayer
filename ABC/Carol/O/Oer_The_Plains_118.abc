@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O'er The Plains
+Z: Frances R. Havergal
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  D3/ D/ | E3/ D/ D G | G ^F G A | B A G E | D3z | B3 B | A3 A | B2 A2 | G2 G2 | G3 G | ^F2 G2 | D2 D2 | D2 D3/ D/ | E3/ D/ D G | G ^F G A | B A G E | D3z | B3 B | A3 A | B2 A2 | G2 G2 | G3 G | ^F2 G2 | D2 D2 | D2|]
+w: O’er the plains the dark- ness deep- ens, Shades of night, a- bove, be- low, All a- round a gloom- y sil- ence Speak a world of sin and woe: Faith and Hope, at- tent are watch- ing For the to- kens of the morn: Through the chill night air is glow- ing Love, be- liev ing, yet for- lorn!
+

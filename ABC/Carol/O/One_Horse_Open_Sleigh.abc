@@ -1,0 +1,37 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The One Horse Open Sleigh
+Z: J. Pierpont
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=100
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2 name="Staff-3"
+%%MIDI program 2 60
+V: P3 name="Staff-4"
+%%MIDI program 3 57
+V: P4 name="Staff-2"
+%%MIDI program 4 58
+V: P5 name="Right Hand"
+%%MIDI program 5 0
+V: P6 name="Left Hand"
+%%MIDI program 6 0
+V: P7 name="Staff-5"
+%%MIDI program 7 -1
+K: Ab
+[V: P1] z2 |z2 |z2 |z2 |z2 |z2 |z2 |zz/z/ | E/ c/ B/ A/ | Ez/ E/4 E/4 | E/ c/ B/ A/ | (F3/ F/) | F/ d/ c/ B/ | (G3/ G/) | G/ f/ e/ d/ | c3/z/ | E/ c/ B/ A/ | (E3/ E/) | E/ c/ B/ A/ | (F3/ F/) | F/ d/ c/ B/ | G/ e/ ^d/ e/ | f/ e/ d/ B/ | A2 |"^Chorus" c/ c/ c | e/ e/ e | c/ c/ f3/4 f/4 | =e2 | f/ d/ A/ f/ | e/ c/ c/ A/4 B/4 | c/ B/ A/ B/ | c2 | c/ c/ c | e/ e/ e | c/ c/ f/ f/ | =e2 | A/ d/ c/ B/ | A/ e/ =d/ e/4 e/4 | f/ e/ d/ B/ | Az|]
+w: Dash- ing thro' the snow In a one horse o- pen sleigh_ O'er the fields we go_ Laugh- ing all the way. Bells on bob tail ring_ Mak- ing spir- its bright_ Oh what sport to ride and sing A sleigh- ing song to night. Jin- gle bells, jin- gle bells Jin- gle all the way, Oh! what joy it is to ride In a one horse o- pen sleigh, Jin- gle bells, jin- gle bells Jin- gle all the way, Oh! what joy it is to ride In a one horse o- pen sleigh.
+[V: P2] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | E/ E/ E | E/ E/ E | A/ A/ A/ A/ | G2 | F/ F/ F/ F/ | A/ A/ A/ E/4 E/4 | E/ E/ E/ E/ | E2 | A/ A/ A | B/ B/ B | A/ A/ A/ A/ | G2 | F/ F/ F/ F/ | E/ A/ A/ A/4 A/4 | G/ G/ G/ G/ | Az|]
+[V: P3] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | A/ A/ A | B/ B/ B | c/ c/ c/ c/ | c2 | A/ A/ A/ A/ | c/ c/ c/ c/4 c/4 | d/ d/ d/ d/ | c2 | e/ e/ e | e/ e/ e | c/ c/ c/ c/ | c2 | A/ A/ d/ d/ | c/ c/ c/ c/4 c/4 | d/ d/ d/ d/ | cz|]
+[V: P4] z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | A,/ A,/ A, | G,/ G,/ G, | F,/ F,/ F,/ F,/ | C,2 | D,/ D,/ D,/ D,/ | E,/ E,/ E,/ E,/4 E,/4 | E,/ E,/ E,/ E,/ | A,,2 | A,/ A,/ A, | G,/ G,/ G, | F,/ F,/ F,/ F,/ | C,2 | D,/ D,/ D,/ D,/ | E,/ E,/ E,/ E,/4 E,/4 | E,/ E,/ E,/ E,/ | A,,z|]
+[V: P5]  [C/E/]c/B/A/ | [(C2(E2] | [C/)E/)]c/B/A/ | [(D2(F2] | [D/)F/)]d/c/B/ | G/e/=d/e/ | g/4f/4e/4d/4 c/4B/4A/4G/4 | Az | [C/E/]c/B/A/ | [(C2(E2] | [C/)E/)]c/B/A/ | [(D2(F2] | [D/)F/)]d/c/B/ | [E2G2] |z/ [E/G/B/][E/G/B/][E/G/B/] |z/ [C/E/A/][C/E/A/][C/E/A/] | [C/E/]c/B/A/ | [(C2(E2] | E/)c/B/A/ | [(D2(F2] | [D/)F/)]d/c/B/ |z/ [B,/E/G/]z/ [B,/E/G/] |z/ [B,/D/E/G/]z/ [B,/D/E/G/] | [C2E2A2] | [a/4c'/4]e'/4[a/4c'/4]e'/4 [a/4c'/4]e'/4[a/4c'/4]e'/4 | [e/4b/4]e'/4[e/4b/4]e'/4 [e/4b/4]e'/4[e/4b/4]e'/4 | [f/4a/4]c'/4[f/4a/4]c'/4 [f/4a/4]c'/4[f/4a/4]c'/4 | [=e/4g/4]c'/4g/4e/4 c/4e/4g/4c'/4 |z/4 f'/4d'/4f'/4 a/4f'/4f/4f'/4 |z/4 e'/4c'/4e'/4 a/4e'/4e/4e'/4 |z/4 e'/4e/4e'/4 f/4e'/4g/4e'/4 | a/4e'/4c'/4e'/4 a' |z/4 e/4[c'/4e'/4]e/4 [c'/4e'/4]e/4[c'/4e'/4]e/4 |z/4 e/4[c'/4e'/4]e/4 [c'/4e'/4]e/4[c'/4e'/4]e/4 |z/4 c/4[a/4c'/4]c/4 [a/4c'/4]c/4[a/4c'/4]c/4 | =e/4c'/4g/4e/4 c'/4g/4e/4g/4 |z/4 f/4f'/4f/4 e'/4f/4d'/4f/4 | c'/4a/4e'/4a/4 =d'/4a/4e'/4a/4 | f'/4g/4e'/4g/4 d'/4g/4b/4g/4 | a/z/ [ac'e'a'] | e/4c/4c'/4c/4 b/4c/4a/4c/4 | e/4c/4e/4c/4 e/4c/4e/4c/4 | e/4c/4c'/4c/4 b/4c/4a/4c/4 | f/4d/4f/4d/4 f/4d/4f/4d/4 | f/4d/4d'/4d/4 c'/4d/4b/4d/4 | a/4c/4e/4c/4 =d/4c/4e/4c/4 | g/4f/4e/4d/4 c/4B/4A/4G/4 | A/z/ [CEA]|]
+[V: P6]  A,,/A,/E,/A,/ | A,,/A,/E,/A,/ | A,,/A,/E,/A,/ | D,/A,/F,/A,/ | D,/B,/F,/B,/ | E,/B,/G,/B,/ | E,/E/G,/D/ | Cz | A,,/A,/E,/A,/ | A,,/A,/E,/A,/ | A,,/A,/E,/A,/ | D,/A,/F,/A,/ | D,/B,/F,/B,/ | E,/B,/G,/B,/ | E,z | A,,z | A,,/A,/E,/A,/ | A,,/A,/E,/A,/ | A,,/A,/E,/A,/ | D,/A,/F,/A,/ | D,/B,/F,/B,/ | E,/z/ E,/z/ | E,/z/ E,/z/ | A,2 | [A,,/A,/][A,/C/E/][A,/C/E/]z/ | [G,,/G,/][G,/B,/E/][G,/B,/E/]z/ | [F,,/F,/][F,/A,/C/][F,/A,/C/]z/ | [C,,/C,/][C,/=E,/G,/C/][C,/E,/G,/C/]z/ | [D,,/D,/][F,/A,/D/][F,/A,/D/]z/ | [E,,/E,/][E,/A,/C/][E,/A,/C/]z/ | [E,,/E,/][E,/B,/D/][E,/B,/D/][E,/B,/D/] | A,,/[E,/A,/C/] [E,A,C] | A,,/[A,/C/E/][A,/C/E/]z/ | G,,/[G,/B,/E/][G,/B,/E/]z/ | F,,/[F,/A,/C/][F,/A,/C/]z/ | C,,/[C,/=E,/G,/C/][C,/E,/G,/C/]z/ | [D,,/D,/][F,/A,/D/][F,/A,/D/]z/ | [E,,/E,/][E,/A,/C/][E,/A,/C/]z/ | [E,,/E,/][E,/G,/B,/D/][E,/G,/B,/D/]z/ | [A,,/A,/][E,/A,/C/] [A,,,A,,] | A,/[C/E/][C/E/][C/E/] | A,/[C/E/][C/E/][C/E/] | A,/[C/E/][C/E/][C/E/] | D,/[F,/A,/D/][F,/A,/D/][F,/A,/D/] | D,/[F,/A,/D/][F,/A,/D/][F,/A,/D/] | E,/[A,/C/][A,/C/][A,/C/] | E,/[B,/D/][B,/D/][B,/D/] | [A,/C/]z/ [A,,,A,,]|]
+[V: P7]  A,,2 | A,,2 | A,,2 | D,2 | D,2 | E,2 | E,2 | A,z | A,,2 | A,,2 | A,,2 | D,2 | D,2 | D,2 |z2 |z2 | A,,2 | A,,2 | A,,2 | D,2 | D,2 |z2 |z2 | A,,2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 | E,2 | E,2 |z2|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Ring Ye Bells
+Z: Charles Darnton
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G | c E A3/ G/ | E C F3/ E/ | D E F G | E2z G | c E A3/ G/ | ^F E D B | B A G A | B2z B | B3/ B/ c B | A3/ E/ E E | A3/ A/ B A | d3 ^d | e3/ e/ e d | c B A A | G A B c | d2z"^Chorus" G | c3/ G/ G c | d3/ G/ G B | c G B A | G2z G f3/ e/ d c | B A G c | A d A B | c3|]
+w: O ring, ye bells, sweet Christ- mas bells, Ring out this hap- py morn! While far and wide your mu- sic tells, “To us a Child is born.” To us a Child is born to- day, To us a Son is given, We chant the holy Christ- mas lay, And join the hosts of hea- ven. All glo- ry be to God on high! And peace to men on earth; We join the cho- rus of the sky To hail the Sav- iour’s birth.
+

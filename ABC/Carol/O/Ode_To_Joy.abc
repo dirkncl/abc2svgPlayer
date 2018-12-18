@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Hymn to Joy
+Z: from Beethoven, 1824; arr. Edward Hodges
+Z: public domain
+L: 1/4
+M: 4/4
+V: P1_1 name="ChrchOrg"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="ChrchOrg-2"
+V: P2_2
+%%MIDI program 2 -1
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | [DA] [DA] [DB] G | [FA] (B/c/) [DB] [DG] | | [EG] [^CA] D2 | | | ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | x3  G | x1  D x2  | | x2  D2 | | | ||]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  G, G, [G,A,] [G,B,] | | | | G, G, G, (A,/B,/) | | | | | [D,D] (G,/A,/) [D,G,] [D,B,] | [D,D] (B,/A,/) [^D,B,] [B,,B,] | | [G,,G,] G, G, (A,/B,/) | | ||]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  G, G, x2  | | | | G, G, G, G, | | | | | x1  D, x2  | x1  D, x2  | | x1  G, G, G, | | ||]|] Z 
+

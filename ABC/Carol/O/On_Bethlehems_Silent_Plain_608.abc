@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: On Bethlehem's Silent Plain
+Z: M. Hornabrook
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G/ | c c/ B A/ | (G3/ G) G/ | A3/ c3/ | (e3/ e) G/ | c c/ B A/ | (G3/ G) G/ | B3/ A3/ | (G3/ G) G/ | d c/ (B/ A/) G/ | (c3/ c) G/ | e3/ d3/ | (c3/ c) C/ | c c/ B A/ | (G3/ G) c/ | e3/ d3/ | (c3/ c)|]
+w: On Beth- 'lehem's si- lent plain,_ The stars shone bright,_ While faith- ful shep- herds watched_ Their flocks by night._ And as they watch-_ ing lay_ Up- on the ground,_ A glo- ry came from heav'n,_ And shone a- round._
+

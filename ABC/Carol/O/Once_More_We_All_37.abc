@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Once More We All Together Meet
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=135
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  G3/ | c B/ c A/ | G F/ E A/ | G F/ E D/ | (C3/ C) G/ | e d/ c e/ | d c/ B d/ | c B/ A F/ | (G3/ G) G/ | c B/ A G/ | A G/ F E/ | F A/ G B/ | (c3/ c) G/ | G F/ E A/ | G F/ E c/ | c A/ d B/ | c3/|]
+w: Once more we all to- geth er meet To hail this hap- py day,_ Je- hov ah's love we will re- peat, And send our fears a- way._ Je- hov ah's love we will re- peat, And send our fears a- way._ Je- hov ah's love we will re- peat, And send our fears a- way.
+[V: P2]  G3/ | E F/ G C/ | C B,/ C C/ | C C/ C B,/ | (C3/ C) G/ | G G/ G G/ | ^F F/ G G/ | G G/ ^F D/ | (D3/ D) G/ | c B/ A G/ | A G/ F E/ | F F/ E D/ | (E3/ E) E/ | E D/ C F/ | E D/ C G/ | F F/ (D/E/) F/ | E3/|]
+[V: P3]  G,3/ | G, G,/ C C/ | G, G,/ G, F,/ | G, A,/ G, F,/ | (E,3/ E,) G,/ | C B,/ C C/ | A, A,/ G, G,/ | E E/ C C/ | (B,3/ B,) G,/ | C B,/ A, G,/ | A, G,/ F, E,/ | F, A,/ C G,/ | (G,3/ G,)z/ | z4 |zz/z C/ | (A,/B,/) C/ B, D/ | C3/|]
+[V: P4]  G,3/ | C, D,/ E, F,/ | E, D,/ C, F,/ | E, F,/ G, G,,/ | (C,3/ C,) G,/ | C G,/ E, C,/ | D, D,/ E, B,,/ | C, C,/ D, D,/ | (G,3/ G,) G,/ | C B,/ A, G,/ | A, G,/ F, E,/ | F, D,/ G, G,/ | (C,3/ C,)z/ |zz/zz/ | C,z/z E,/ | (F,/G,/) A,/ G, G,/ | C,3/|]
+

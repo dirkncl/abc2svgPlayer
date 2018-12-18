@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O The Beautiful Old Story
+Z: G. C. E. Ryley
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G G (G/ F/) (E/ F/) | G A c B | e A G c | B (A/ G/) F2 | G G (G/ F/) (E/ F/) | G A c B | =A e d B | c (B/ =A/) B2 | d (c/ B/) e B | d c B =A | G (=A/ G/) c G | B (_A/ G/) F2 | G G (G/ F/) (E/ F/) | G A c B | e A G c | B (G/ F/) E2|]
+w: O the beau-_ ti_ ful old sto- ry! Of the lit- tle child that_ lay In a man-_ ger_ on that morn- ing, When the stars sang in the_ day; When the_ hap- py shep- herds kneel- ing, As be-_ fore a ho- ly_ shrine, Bless’d God and_ the_ ten- der mo- ther For a life that was di-_ vine.
+

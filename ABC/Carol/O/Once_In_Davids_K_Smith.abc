@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Once In Royal David's City
+Z: Katie Smith
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F d c B | A G G F | F G F B | c d c2 | F d c B | A G G F | G G A B | A G F2 | c F G F | F B c2 | c d e c | B A B2 |"^Chorus" c3/ d/ c c | A A B A | c3/ f/ c A | A G G F | F d c B | A G G F | G e d c | B A c B|]
+w: Once in roy- al Dav- id's cit- y Stood a low- ly cat- tle shed, Where a mo- ther laid her Ba- by In a man- ger for His bed: Ma- ry was that mo- ther mild, Je- sus Christ her lit- tle Child. With the poor and mean and low- ly Lived on earth our Sav- iour Ho- ly; And He feel- eth for our sad- ness, And He shar- eth in our glad- ness.
+[V: P2]  D F E D | F E E D | E E D F | F F F2 | D F E D | F E E D | E =E F G | F =E F2 | _E E E E | D F F2 | G G G G | F E D2 | F3/ F/ F F | F F G F | F3/ F/ F F | F =E E F | D F _E D | F E E D | E G G G | F F E D|]
+[V: P3]  B, B, B, B, | B, B, B, B, | A, A, B, B, | A, B, A,2 | B, B, B, B, | B, B, B, B, | B, C C D | C B, A,2 | A, A, B, A, | B, B, A,2 | C =B, C C | D C B,2 | A,3/ B,/ A, A, | C C C C | A,3/ A,/ A, C | C B, B, A, | B, B, B, B, | B, B, B, B, | B, C =B, C | D C A, B,|]
+[V: P4]  B,, B,, B,, B,, | B,, B,, B,, B,, | F, F, B,, D, | F, F, F,2 | B,, B,, B,, B,, | E, E, B,, B,, | E, C, F, B,, | C, C, F,2 | F, F, F, F, | B,, D, F,2 | E, D, C, E, | F, F, B,,2 | F,3/ F,/ F, F, | F, F, =E, F, | F,3/ F,/ F, F, | C, C, F, F, | B,, B,, B,, B,, | E, E, B,, B,, | E, C, D, E, | F, F, B,, B,,|]
+

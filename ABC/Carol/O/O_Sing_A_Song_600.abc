@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Sing A Song Of Bethlehem
+Z: J. Barnby
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  ^d | D E F G | A3/ B/ A c | E F G A | D3 B | B3/ c/ B B | B3/ c/ B d | d A G E | D3 D | A3/ A/ G A | B3/ G/ G A | B B c d | e3 e | e3/ A/ A e | e3/ G/ G c | B (A/E/) G F | G3|]
+w: O sing a song of Beth- le hem, of shep- herds watch- ing there, And of the news that came to them from an- gels in the air. The light that shone on Beth- le hem fills all the world to- day; Of Je- sus' birth and peace on earth the an- gels_ sing a- way.
+

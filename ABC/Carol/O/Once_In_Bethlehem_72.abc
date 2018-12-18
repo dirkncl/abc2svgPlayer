@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Once In Bethlehem Of Judah
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G G/ (G/ A/) B/ | c E/ A G/ | (F/ G/) A/ G E/ | (E/ D/) F/ E3/ | G G/ (G/ A/) B/ | c E/ B A/ | (G/ A/) B/ (c/ B/) A/ | G A/ G G/ | d B/ (A/ B/) c/ | B G/ c G/ | A G/ F E/ (D3/ D) G/ | G G/ (G/ A/) B/ | c3/ e e/ | d/z/ A/ G/z/ G/ | c3|]
+w: Once in Beth-_ le hem of Ju- dah, Far_ a- way a- cross_ the sea. There was laid_ a lit- tle Ba- by On_ a Vir-_ gin Moth- er's knee. O Sav- iour, gen-_ tle Sav- iour, Hear Thy lov- ing child- ren sing,_ The God of our_ sal- va tion, The Child that is our King.
+

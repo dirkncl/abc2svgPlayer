@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Little Town Of Bethlehem
+Z: Tune Of Cornish Origin
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=92
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  C | A3/ G/ (A/B/) c | F E D C | D G F E | F3 c | f e d c | (c/d/) (c/B/) A c | d G A =B | c3 c | f e d c | (c3/ B/) A (f/e/) | d c A F | G3 C | A3/ G/ (A/B/) c | F E D C | D G F E | F3|]
+w: O lit- tle town_ of Beth- le hem, how still we see thee lie! A- bove thy deep and dream-_ less_ sleep the si- lent stars go by. Yet in thy dark streets shin-_ eth the_ e- ver last ing Light; The hopes and fears_ of all the years are met in thee to- night.
+[V: P2]  C | C3/ E/ F C | D A, B, C | B, D C C | C3 F | F G F F | F E F E | F D G F | (F2 E) E | F B A G | (F G) F F | F F F F | E3 C | C3/ E/ F C | D A, B, C | B, D C C | C3|]
+[V: P3]  C | C3/ C/ C G, | A, A, F, F, | F, B, A, G, | A,3 (A,/B,/) | C (B,/C/) (D/E/) F | B, C C C | ^B, F E D | C3 C | C (B,/C/) D G, | (A, C) C C | B, C C =B, | C3 C | C3/ C/ C G, | A, A, F, F, | F, B, A, G, | A,3|]
+[V: P4]  C, | F,3/ G,/ F, E, | D, C, B,, A,, | B,, B,, C, C, | F,3 (F,/G,/) | A, (G,/A,/) B, A, | G, C, F, A, | G, G, G, G, | [C,3G,3] B, | A, G, F, E, | (D, E,) F, A, | B, A, F, D, | C,3 C, | F,3/ G,/ F, E, | D, C, B,, A,, | B,, B,, C, C, | [F,,3F,3]|]
+

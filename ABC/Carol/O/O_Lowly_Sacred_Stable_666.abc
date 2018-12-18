@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Lowly, Sacred Stable
+Z: A. Styler Houghton
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A/ | (A/F/)G/ (A/F/)G/ | (A B/) A A/ | (E/F/)G/ (A/G/)F/ | (F3/ F) A/ | (A/F/)G/ (A/F/)G/ | (A B/) A A/ | (d/e/)d/ (d/c/)B/ | (B3/ A) =G/ | (F/D/)E/ (F/G/)A/ | (B/c/d/) c B/ | (A/^G/)A/ (B/A/)G/ | (G3/ G) =G/ | (F/D/)E/ (F/G/)A/ | (B/c/d/) e d/ | (c/B/)A/ (G/F/)E/ | (E3/ D)|]
+w: O low-_ ly, sa-_ cred sta-_ ble, Where light_ Di- vine_ is shed;_ O hum-_ ble lit-_ tle Man-_ ger, Where rests_ that In-_ fant Head._ Teach us_ thy old,_ old sto-__ ry, How Je-_ sus Christ_ was born,_ How an-_ gels sang_ their ca-__ rols Up- on_ that Christ-_ mas morn._
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Old Year Now Away Has Fled
+Z: Arthur H. Brown
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F | G G A (B/ c/) | d d cz/ c/ | B G A (G/ A/) | F3/ F/ Ez/ E/ | G3/ A/ B (B/ c/) | d e f3/ ^c/ | d d/ (A/ G/) F E | D2z D | F D (F/ G/) (A/ B/) | c c c3/ B/ | (A/ B/) (c/ A/) (d/ c/) (B/ A/) | (G/ F/) (G/ A/) Gz/ G/ | A/ A3/ =B3/ c/ | d (e/ f/) ez/ d/ | c G/ A/ D/ D/ D | C2z"^Chorus" c | (G/ F/) (G/ A/) G3/ A/ | (B/ A/) (B/ c/) B3/ A/ | B B d (c/ B/) | (A/ G/) (A/ B/) A3/ A/ | B/ B3/ c3/ c/ | d (c/ d/) ez/ f/ | d B/ G/ F/ F/ E | F2z2|]
+w: The old year now a-_ way is fled, The new year it is_ en- ter ed; Then let us all our_ sins down tread, And joy- ful ly_ all ap- pear. Let's mer- ry be_ this_ ho- li day, And let_ us_ run_ with_ sport_ and_ play, Hang sor- row, let's cast care a-_ way God send us a mer- ry new year! Let's mer-_ ry_ be this ho-_ li_ day, And let us run with_ sport_ and_ play, Hang sor- row, let's cast care a-_ way God send you a mer- ry new year!
+

@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Oneonta
+Z: Walter Henry Hall, 1918
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Oneonta, LM"
+%%MIDI program 2 19
+K: D
+[V: P1]  [DF] [FA] [EA] [Dd] | [DG] [DG] [C/F/]E/ [DA] | [Dd] [Gc] [F/B/]^G/ A | [FB] [EA] [E^G] [C-A-] | [CA] [CA] [DA] [DG] | [EG] [D/F/]C/ [B,F] [CE] | [CF] [F^A] [F/B/]=A/ [EG] | [E/A/]G/ [E/F/]D/ [DE] [CE] | D2z2|]
+[V: P2]  [D,A,] [D,A,] [C,A,] [B,,B,] | B, [E,B,] [G,A,] [F,A,] | [=F,/A,/]B,/ [E,C] [D,D] [C,E] | [D,/A,/]B,/ [E,C] [E,B,] [A,,-A,-] | [A,,A,] [A,,A,] [B,,F,] [B,,B,] | [C,A,] [D,A,] [G,,G,] [G,/C/]B,/ | [F,^A,] [F,/C/]E,/ [D,B,] [E,/B,/]D,/ | [C,A,] [D,A,] [G,,B,] [A,,/A,/]G,/ | [D,2F,2]z2|]
+

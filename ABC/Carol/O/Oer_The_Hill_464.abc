@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O'er The Hill And O'er The Vale
+Z: "In vernali tempore"
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  (E F) A (E F) A | (G F) G E3 | (G A) B (B A) G | A3 A3 | (E F) A (E F) A | (G F) G E3 | (G A) B (B A) G | A3 A3 | A2 e e2 d | (e d) c B3 | A2 B (c B) A | (G F) G E3 | (G A) B B A G | (A3 A3) | A2 e e2 d | (e d) c B3 | A2 B (c B) A | (G F) G E3 | (G A) B B A G | (A3 A3)|]
+w: O'er_ the hill_ and o'er_ the vale Come_ three kings_ to- geth er, Car-_ ing nought_ for snow_ and hail, Cold,_ and wind,_ and wea- ther; Now on Per- sia's sand-_ y plains, Now where Ti-_ gris swells_ with rains, They_ their ca- mels te- ther;_ Now through Sy- rian lands_ they go, Now through Mo-_ ab, faint_ and slow, Now_ through Ed- om's hea- ther._
+

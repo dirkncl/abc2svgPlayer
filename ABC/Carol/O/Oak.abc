@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Oak, 10.10.12.10
+Z: Lowell Mason (1792-1872)
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Oak, 10.10.12.10"
+V: P2_2
+%%MIDI program 2 91
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | [Gd] c/B/ [D2c2] | | [Dc] B/A/ [D2)B2)] | | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | x1  D x2  | | x1  D x2  | | | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | [D,B,] A,/G,/ [D,2A,2] | | [D,A,] G,/F,/ G,2 | | [G,3/B,3/] G,/ [G,2B,2] | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | x1  D, x2  | | x1  D, G,2) | | x1  G,/ x2  | ||]
+

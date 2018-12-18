@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: On The Birthday Of The Lord
+Z: Rev. J. B. Dykes
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=160
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D2 (F G) | A2 A2 | (B c) d2 | d4 | A2 B2 | (B A) (G F) | G2 A2 | F4 | D2 (F G) | A2 A2 | (B c) d2 | d4 | A2 B2 | c3 c | c2 c2 | c4 | c2 d2 | e2 (d c) | B2 B2 | A4 | [M: 3/2]  A4 B2 | A4 F2 | A2 B4 | A4 (A2 | d4) d2 | c4 B2 | A4 B2 | A6 | A4 A2 | d4 d2 | (d6 | d2 c2 B2) | A4 F2 | E4 A2 | D6|]
+w: On the_ Birth- day of_ the Lord An- gels joy_ in_ glad ac- cord, And they_ sing in sweet-_ est tone Glo- ry be to God a- lone, Glo- ry be to_ God a- lone. God is born of mai- den fair, Ma-_ ry doth the Sav- iour bear; Ma- ry ov- er pure,___ Ma- ry ov- er pure.
+

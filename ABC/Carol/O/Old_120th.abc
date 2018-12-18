@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Old 120th
+Z: Public Domain
+Z: Version 1
+L: 1/4
+M: 2/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1]  C2 | [M: 4/4]  [G,CE] [A,/F/]D/ [B,EG] [CFA] | [C2E2G2] [C2G2] | [CA] [G,DB] [G,Ec] [DA] | [G,2D2B2] [G,2E2G2] | [A,Ec] [DGB] [CEA] [G,B,G] | [A,2D2^F2] [G,2D2G2] | [CEA] [B,EG] [A,DG] [A,D^F] | [B,2D2G2] [G,2C2E2] | [CFA] [^A,DG] [=A,CF] [G,CE] | [A,2D2] [B,2G2] | [CF] [G,CE] [A,CD] [G,B,D] | C2z2|]
+[V: P2]  [C,2E,2] | [M: 4/4]  C, A,, G,, F,, | C,2 [C,2E,2] | [C,E,] B,, A,, [D,^F,] | G,,2 C,2 | A,, B,, C, E, | D,2 B,,2 | C, E, D, D, | G,,2 C,2 | F,, G,, A,, C, | [D,2F,2] [G,,2D,2] | [A,,F,] C, F,, G,,/F,/ | [C,2E,2]z2|]
+

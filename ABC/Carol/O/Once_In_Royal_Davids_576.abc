@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Once In Royal David's City
+Z: H. J. Gauntlett
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=105
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  D F G3/ G/ | (G/F/) (G/A/) A G | G B d3/ B/ | (B/A/) (G/F/) G2 | D F G3/ G/ | (G/F/) (G/A/) A G | G B d3/ B/ | (B/A/) (G/F/) G2 | e e d3/ G/ | c c B2 | e e d3/ B/ | (B/A/) (G/F/) G2|]
+w: Once in roy- al Da-_ vid's_ ci- ty Stood a low- ly cat-_ tle_ shed, Where a mo- ther laid_ her_ Ba- by In a man- ger for_ His_ bed: Ma- ry was that mo- ther mild, Je- sus Christ her lit-_ tle_ Child.
+[V: P2]  D C D3/ D/ | D (D/ F/) F G | D G G3/ G/ | E D D2 | D C D3/ D/ | ^C C (D/=C/) B, | D G G3/ G/ | E D D2 | G G (G/F/G/ G/) | G F G2 | (E/F/) (G/A/) (D/F/)G/ B/ | E D D2|]
+[V: P3]  B, A, G,3/ B,/ | (B,/A,/) (B,/C/) C B, | B, G, G,3/ D/ | (D/C/) (B,/A,/) B,2 | B, A, G,3/ B,/ | G, G, F, G, | B, G, G,3/ D/ | (D/C/) (B,/A,/) B,2 | C C (B,/C/D/) B,/ | A, D D2 | C C (C/A,/B,/) D/ | (D/C/) (B,/A,/) B,2|]
+[V: P4]  G,, A,, B,,3/ G,,/ | D, D, D, G, | G, E, B,,3/ G,,/ | C, D, G,,2 | G,, A,, B,,3/ G,,/ | E, A,, D, G, | G, E, B,,3/ G,,/ | C, D, G,,2 | (C,/D,/) (E,/F,/) (G,/A,/B,/) G,/ | D, D, G,2 | (C,/D,/) (E,/F,/) G,3/ G,/ | C, D, G,,2|]
+

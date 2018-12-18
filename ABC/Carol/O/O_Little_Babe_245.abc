@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Little Babe! In Bethlehem Born
+Z: Arthur F. Warner
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  A/ | G F/ E A/ | G F/ E E/ | F G/ A B/ | (c3/ c) c/ | c G/ A A/ | B F/ G G/ | (B/ A/) G/ (F/ G/) F/ | (E3/ E) d/ | c B/ =A c/ | B A/ G E/ | F G/ A B/ | (c3/ c) c/ | e d/ c B/ | d c/ B A/ | G A/ c B/ | (A3/ A)|]
+w: O lit- tle Babe! in Bethle- hem born, Thy low- ly birth we greet,_ With shep- herds poor and ma- gi wise We wor-_ ship at_ Thy feet._ Though man- ger bed, Where oxe- n fed, Thy hum- ble cra- dle be,_ Em- man u el! Em- man u el! To Thee we bend the knee._
+

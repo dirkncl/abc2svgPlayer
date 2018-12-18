@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Once In Royal David's City
+Z: H. J. Gauntlett
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=105
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D F | G3/ G/ (G/ F/) (G/ A/) | A G/z/ G B | d3/ B/ (B/ A/) (G/ F/) | G2 D F | G3/ G/ (G/ F/) (G/ A/) | A G/z/ G B | d3/ B/ (B/ A/) (G/ F/) | G2 e e | d3/ G/ c c | B2 e e | d3/ B/ (B/ A/) (G/ F/) | G2|]
+w: Once in roy- al Da-_ vid's_ ci- ty Stood a low- ly cat-_ tle_ shed, Where a mo- ther laid_ her_ Ba- by In a man- ger for_ His_ bed: Ma- ry was that mo- ther mild, Je- sus Christ her lit-_ tle_ Child.
+

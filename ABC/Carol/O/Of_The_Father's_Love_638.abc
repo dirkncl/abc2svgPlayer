@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Of The Father's Love Begotten
+Z: Flemish Noel
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  d3/ d/ | c A (c/B/) (A/G/) | A A d3/ d/ | c A (c/B/) (A/G/) | A2 A3/ B/ | c3/ c/ c c | d d G3/ A/ | B B c B | A2 A3/ A/ | d3/ _e/ (d/c/) (B/A/) | G G G3/ G/ | c3/ d/ (c/B/) (A/G/) | Fz f3/ f/ | d d A A | d2 F3/ F/ | G G A A | D2|]
+w: Of the Fa- ther's love_ be-_ got ten, Ere the worlds be- gan_ to_ be, He is Al- pha and O- me ga, He the source, the end- ing He, Of the things that are,_ that_ have been, And that fu- ture years_ shall_ see, Ev- er more and ev- er more, Ev- er more and ev- er more!
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O'er The Mountains
+Z: M. M. Simpson
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=160
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G2 e d2 B | c3 G3 | (A B) c B2 A | (G3 G3) | G2 e d2 B | c3 G2 c | B2 B (A B) A | (G3 G2) =F | E2 F G2 G | (c2 d) c2 B | A2 A B2 c | (d2 e) d2 G | c3 c3 | e3 e3 | c3 c c c | c2 c B2 B | c6|]
+w: Swel- ling o’er the moun- tain sounds_ the Christ- mas bell,_ Steal- ing down the val- ley, its joy- ful news_ to tell;_ Now hap- py fa- ces greet_ us, New joys come forth to meet_ us; Good will and peace to all, to all, this hap- py Christ- mas Day!
+

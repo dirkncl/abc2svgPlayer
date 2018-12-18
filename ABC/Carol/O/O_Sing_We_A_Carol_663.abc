@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Sing We A Carol
+Z: A. H. Brown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  (c/ B/) | A3/ G/ F F3/ E/ D | C2 F G2 G | A3/ B/ c f2 d | (B3 B)z/ d/ d/ | c3/ B/ A c B A | G2 B A2 G/ G/ | F3/ G/ F D2 D | (D3 D2) A/ A/ | =B c d e2 d | (c3 c)z/ e/ e/ | (f e) d (c B) A/ A/ | A2 F E2 ^F | G3/ A/ B c2 d/ d/ | B2 G G2"^Chorus" d/ e/ | (f e) d (c B) A/ A/ | B2 d G2 c | d3/ c/ B c2 A/ A/ | G2 B A2 F | B3/ c/ d c2 A/ A/ | G2 G F2|]
+w: O,_ sing we a Ca- rol all blithe and free, And fit for our Christ- mas Morn,_ For the world is as cold as the cold can be, Though its Lord on this Day was born,_ Though its Lord on this Day was born:_ ‘Tis a win-_ try time_ for the rich and poor, And who should be driv’n from a Christ- ian’s door? ‘Tis a win-_ try time_ for the rich and poor, And who should be driv’n from a Christ- ian’s door? And who should be driv’n from a Christ- ian’s door?
+

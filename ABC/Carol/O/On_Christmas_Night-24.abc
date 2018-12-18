@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: On Christmas Night
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G3/ B/ A3/ c/ | B (B/A/) G (B/c/) | d (d/c/) B B | c (c/B/) A (B/c/) | d (d/c/) B B | c (c/B/) A D | G3/ B/ (A/B/) (c/A/) | G F G2|]
+w: On Christ- mas night all Chris- tians_ sing To_ hear what_ news those an- gels_ bring; News_ of great_ joy, news of great_ mirth, News of our Sa-_ viour_ King's own birth.
+

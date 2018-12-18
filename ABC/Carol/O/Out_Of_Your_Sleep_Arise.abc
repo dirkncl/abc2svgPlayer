@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Out Of Your Sleep Arise and Wake
+Z: English, 14-15th Century
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  E A d | G3 | E G A | B3 | E A B | =G3 | E G A | B3 | B c d | e2 e | d (B/A/) G | (A3 | A) B c | d3/ c/ B | A B G | E2 E | E3|]
+w: Out of your sleep a- rise and wake! For God man- kind now hath y- take. All of a maid with- out a-_ ny make._ Of all wo- men she bear- eth the bell, the bell.
+

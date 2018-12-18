@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Lovely Voices Of The Sky
+Z: Traditional
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  (G3/ ^F/) | G2 (d3/ e/) | d3 c | (B c) (d c/ B/) | c2z (c3/4c/4) | d2 d2 | (c B) A2 | G2 (G3/ ^F/) | G2 (d3/ e/) | d3 c | (B c) (d c/ B/) | c2z (B3/4c/4) | d2 d2 | (d B) A2 | G2 ^F2 | (G3/ A/) (B c) | d3 B | c2 B2 | A2z A | B2 A2 | B2 c2 | d2z A | B c (d e) | d3 c | (B c d) (c/B/) | c2zz3/4 (B/B/4) | d2 d2 | (c B) A2 | G2|]
+w: O_ love- ly_ Voi- ces of_ the__ sky, That_ hymned the Sav-_ iour's Birth Are_ ye not_ sing- ing still_ on__ high, Who_ once sang "Peace_ on earth?" Still o'er_ us_ float those ho- ly strains, Where- with in days gone by Ye bless- ed the_ low- ly Sy-__ rian_ swains O_ Voi- ces of_ the sky.
+

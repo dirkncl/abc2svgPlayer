@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Jesus Christ Thy Manger Is
+Z: Johann Crueger, 1653
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Treble Clef"
+%%MIDI program 1 0
+V: P2 name="Bass Clef"
+%%MIDI program 2 0
+K: Eb
+[V: P1]  [E2G2] [CE] [CE] | [D3F3] [EG] | [EA] [EA] [E2G2] | [E2B2] [Ec] [DB] | [EG] [CF] [B,G] [EB] | [EA] [EG] [EF] D | E2z2 | [E2B2] [Ec] [Fd] | [G3e3] [FB] | [EG] [E=A] [D2B2] | E2 [EA] [EG] | [DF] [EB] [Ec] [DB] | [CA] [EG] [EF] D | E2z2 | [C2E2] [B,2E2]|]
+[V: P2]  [E,2B,2] [A,,A,] [C,G,] | [B,,3B,3] [E,B,] | [C,C] [A,,C] [E,2B,2] | [E,2G,2] [A,,A,] [B,,F,] | [C,E,] [D,F,] E, [G,,B,] | [A,,C] [E,B,] [B,,2B,2] | [E,,2G,2]z2 | [E,2G,2] [C,G,] [B,,B,] | [E,3B,3] [D,B,] | [E,B,] [C,E,] [B,,2F,2] | [G,,2B,2] [A,,C] [E,B,] | [B,,B,] [G,,B,] [A,,A,] [B,,F,] | [F,,F,] [G,,B,] [B,,2B,2] | [E,,2G,2]z2 | [A,,2A,2] [E,,2G,2]|]
+

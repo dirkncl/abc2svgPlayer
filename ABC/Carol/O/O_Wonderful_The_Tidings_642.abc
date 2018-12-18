@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Wonderful The Tidings
+Z: Edward Bunnett
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=85
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A/ | (G/A/) G/ c F/ | (A G/) F C/ | (D/F/) B/ d B/ | (G3/ G) c/ | (c/A/) B/ c A/ | (A/F/) G/ A d/ | (c/E/) F/ (G/A/) =B/ | c3/z c/ | c A/ (^F/G/) A/ | (B A/) G D/ | E G/ c B/ | (A3/ A) A/ | d c/ B A/ | c B/ A F/ | (D/F/) A/ G E/ | (F3/ F)"^Chorus" A/ | B G/ A F/ | (G _E/) F G/ | A A/ (=B/c/) d/ | (c3/ c) c/ | f e/ (d/F/) ^F/ | G A/ B =B/ | c F/ (G/D/) E/ | (F3/ F)|]
+w: O won-_ der ful the tid-_ ings To us_ by An- gels brought,_ That born_ to- day in Beth-_ le hem Is One_ for a-_ ges sought! It is the might-_ y Sav-_ iour, Who quits His glo- ry, power_ To take on Him man's out- ward form, Thrice bless-_ ed be the hour!_ O bless- ed, yes, thrice bless-_ ed, For all this wond-_ rous day_ When Christ is born,_ for ev- er more To wash our sins_ a- way!_
+

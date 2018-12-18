@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O Welt, Ich Muss Dich lassen
+Z: German melody
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="O Welt, Ich Muss Dich"
+V: P2_2
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | | c2 [FA] A/B/ | c c G [CA] | F2 [C)E)] [(G,(C] | [CF] [B,G] A [CA] | | [DF] [CG] A/B/ [Dc] | B2 [^F)A)] (A/B/ | [Gc] c [DG] [EA] | G2 [^C)E)] (=C | F G A B ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | A G x1  F | F/E/ F/D/ E/D/ x1  | C B, x2  | x2  A,/B,/ x1  | | x2  C x1  | D/C/D/E/ x1  =F | x1  F/E/ x2  | E D x1  | C/D/C/B,/ A,/C/ D/E/ ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | [G,B,] C/B,/ A,/G,/ | | C C C [A,,E,] | F,/E,/ F, [C,)G,)] (E,/D,/ | [A,,C,] D,/E,/ F, F, | | A,/B,/ A,/G,/ F,/G,/ [^F,A,] | G,/A,/B,/C/ [D,)D)] [(D,(D] | C/B,/ [F,A,] =B, E, | A,2 [(A,,(A,] | A,/B,/A,/G,/ F, | [B,,D] G,/A,/4B,/4 [F,,4)F,4)A,4)]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  | B,/A,/ x1  F,3/ F,/ | | A,,/G,,/ A,,/B,,/ C,/B,,/ x1  | D,2 x1  _B,, | x1  G,, F,,/G,,/ A,,/B,,/ | | D, E, x1  | G,, x2  | E, x1  F,/E,/ D,/C,/ | D,/E,/F,/G,/ A,) x1  | F, E, F,/E,/ D,/C,/ | x1  C, x4 |]
+

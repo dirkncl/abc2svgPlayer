@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: On Christmas Night
+Z: Traditional Carol
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d | e2 c d2 e | (B A) G A2 F | G2 G (A B) c | B2 A G2 d | d2 B c2 d | (B A) G A2 F | G2 G (A B) c | B2 A G3 | A3 A2 G | (A B) c (d c) B | A6 | [M: 9/4]  d3 e3 d3 | [M: 6/4]  c2 B (A G) A | (G6 | G)|]
+w: On Christ- mas night all Chris-_ tians sing To hear the news_ the an- gels bring On Christ- mas night all Chris-_ tians sing To hear the news_ the an- gels bring News of great joy,_ news of_ great mirth, News of our mer- ci ful_ King's birth._
+

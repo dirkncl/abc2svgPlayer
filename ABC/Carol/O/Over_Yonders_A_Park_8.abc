@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Over Yonder's A Park
+Z: Traditional Words / Music by Martin Shaw
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  (B/ c/) | d c B | A2 F/ F/ | ^G B ^A | B3 | A A B | A/ F/ D E | F B ^G | A2 B/ c/ | d c B/ B/ | A A B | (=c B) A | G2 F/ E/ | D2 E | F d A | (G F) E | D2|]
+w: Over_ yon- der's a park which is new- ly be- gun, All bells in Par- a dise I heard them a- ring, Which is sil- ver on the out- side and gold_ with- in, And I love sweet Je- sus a- bove_ all thing.
+

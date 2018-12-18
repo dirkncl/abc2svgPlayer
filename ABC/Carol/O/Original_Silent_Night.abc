@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Original Silent Night
+Z: Franz Xavier Gruber, 1818
+L: 1/4
+M: 6/8
+Q: 1/4=41
+V: P1 name="Recorder"
+%%MIDI program 1 74
+V: P2 name="clarinet"
+%%MIDI program 2 71
+V: P3 name="Guitar"
+%%MIDI program 3 26
+V: P4 name="Bass"
+%%MIDI program 4 32
+V: P5 name="Bass-2"
+%%MIDI program 5 32
+K: C
+[V: P1]  D,/4^F,/4A,/4F,/4G,/4E,/4 D,/4F,/4A,/4F,/4G,/4E,/4 | D,/^F,/A,/ D3/ | D,/^F,/A,/ D/4F/4A/4F/4A/4F/4 | D,/^F,/A,/ D/4F/4A/4F/4A/4F/4 | G,3/4^F,/4G,/ E/4G/4^c/4G/4c/4G/4 | D,/^F,/A,/ D/4F/4A/4F/4D/4F/4 | B,3/4^C/4B,/ D/C/B,/ | D,/^F,/A,/ D/4F/4A/4F/4D/4F/4 | B,3/4^C/4B,/ D/C/B,/ | D,/^F,/A,/ D/4A/4F/4A/4F/4D/4 | ^C/4A,,/4C,/4E,/4A,/4C/4 A/4^G/4B/4A/4=G/4E/4 | D,/D,/D,/ A,/^F,/A,/ | A,/4B,/4^C/4D/4E/4^F/4 A/4C/4A/4C/4E/4C/4 | D,/4^F,/4A,/4F,/4G,/4E,/4 D,/4F,/4A,/4F,/4G,/4E,/4 | D,/^C/E/ A/ ^F | D,/^F,/A,/ D/4F/4A/4F/4A/4F/4 | D,/^F,/A,/ D/4F/4A/4F/4A/4F/4 | G,3/4^F,/4G,/ E/4G/4^c/4G/4c/4G/4 | D,/^F,/A,/ D/4F/4A/4F/4D/4F/4 | B,3/4^C/4B,/ D/C/B,/ | D,/^F,/A,/ D/4F/4A/4F/4D/4F/4 | B,3/4^C/4B,/ D/C/B,/ | D,/^F,/A,/ D/4A/4F/4A/4F/4D/4 | ^C/4A,,/4C,/4E,/4A,/4C/4 A/4^G/4B/4A/4=G/4E/4 | D,/D,/D,/ A,/^F,/A,/ | A,/4B,/4^C/4D/4E/4^F/4 A/4C/4A/4C/4E/4C/4 | D,/4^F,/4A,/4F,/4G,/4E,/4 D,/4F,/4A,/4F,/4G,/4E,/4 | D,/^C/E/ A/ ^F|]
+[V: P2] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | A3/4B/4A/ ^F3/ | A3/4B/4A/ ^F3/ | e3/4^d/4e/ ^c3/ | d3/4^c/4d/ A3/ | [G3/4B3/4][A/4^c/4][G/B/] [B/d/][A/c/][G/B/] | [^F3/4A3/4][G/4B/4][F/A/] [D3/F3/] | [G3/4B3/4][A/4^c/4][G/B/] [B/d/][A/c/][G/B/] | [^F3/4A3/4][G/4B/4][F/A/] [D3/F3/] | ^c c/ e3/4d/4c/ | d3/ ^f3/ |z3 |z3 |z3|]
+[V: P3] z3 |z3 | A3/4B/4A/ ^F3/ | A3/4B/4A/ ^F3/ | [G3/4e3/4][^F/4^d/4][G/e/] [E3/^c3/] | [^F3/4d3/4][E/4^c/4][F/d/] [F3/A3/] | B3/4^c/4B/ d/c/B/ | A3/4B/4A/ ^F3/ | [G3/4B3/4][A/4^c/4][G/B/] [B/d/][A/c/][G/B/] | [^F3/4A3/4][G/4B/4][F/A/] [D3/F3/] | ^c c/ e3/4d/4c/ | d3/ [A3/^f3/] | d3/4A/4^F/ A3/4G/4E/ | D3/- D/8zz3/8 |z3 |z3 |z3 | G3/4^F/4G/ E3/ | ^F3/4E/4F/ F3/ | G3/4A/4G/ B/A/G/ | ^F3/4G/4F/ D3/ | [G3/4B3/4][A/4^c/4][G/B/] [B/d/][A/c/][G/B/] | [^F3/4A3/4][G/4B/4][F/A/] [D3/F3/] | E E/ E3/4^F/4E/ | ^F3/ A3/ | d3/4A/4^F/ A3/4G/4E/ | D3/- D/8zz3/8 |z3|]
+[V: P4]  D,3/ D,3/ | ^F,3/8zz/8z3/ | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] |z/ [A,/^C/G/][A,/C/G/]z/ [A,/C/G/][A,/C/G/] | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] |z/ [G,/B,/G/][G,/B,/G/]z/ [G,/B,/G/][G,/B,/G/] | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] |z/ [G,/B,/G/][G,/B,/G/]z/ [G,/B,/G/][G,/B,/G/] | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] |z/4 A,/4[^C/4E/4]A,/4[C/4G/4]A,/4z/4 A,/4[C/4E/4]A,/4[C/4G/4]A,/4 | [D,3A,3D3^F3] | [A,3/D3/^F3/] [A,3/^C3/G3/] | D,/4A,/4[D/4^F/4]A,/4[^C/4G/4]A,/4 D,/4A,/4[D/4F/4]A,/4[C/4G/4]A,/4 | [D/4^F/4]A,/4[^C/4G/4]A,/4[C/4E/4]A,/4 [A,/C/G/] [D,A,DF] | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] |z/ [A,/^C/G/][A,/C/G/]z/ [A,/C/G/][A,/C/G/] | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] |z/ [G,/B,/G/][G,/B,/G/]z/ [G,/B,/G/][G,/B,/G/] | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] |z/ [G,/B,/G/][G,/B,/G/]z/ [G,/B,/G/][G,/B,/G/] | D,/[A,/D/^F/][A,/D/F/] D,/[A,/D/F/][A,/D/F/] |z/4 A,/4[^C/4E/4]A,/4[C/4G/4]A,/4z/4 A,/4[C/4E/4]A,/4[C/4G/4]A,/4 | [D,3A,3D3^F3] | [A,3/D3/^F3/] [A,3/^C3/G3/] | D,/4A,/4[D/4^F/4]A,/4[^C/4G/4]A,/4 D,/4A,/4[D/4F/4]A,/4[C/4G/4]A,/4 | [D/4^F/4]A,/4[^C/4G/4]A,/4[C/4E/4]A,/4 [A,/C/G/] [D,A,DF]|]
+[V: P5] z A,,/z A,,/ |z/ A,,/^F,,/ D,,3/ |z3 |z3 | A,,3/8zz/8 A,,3/8zz/8 |z3 | G,,3/8zz/8 G,,3/8zz/8 |z3 | G,,3/8zz/8 G,,3/8zz/8 |z3 | A,,/4zz/4 A,,/4zz/4 | [^F,,3A,,3] | A,,3/ A,,3/ |z3 |z3 |z3 |z3 | A,,3/8zz/8 A,,3/8zz/8 |z3 | G,,3/8zz/8 G,,3/8zz/8 |z3 | G,,3/8zz/8 G,,3/8zz/8 |z3 | A,,/4zz/4 A,,/4zz/4 | [^F,,3A,,3] | A,,3/ A,,3/ |z3 |z3|]
+

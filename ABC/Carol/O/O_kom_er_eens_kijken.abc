@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O_kom_er_eens_kijken
+L: 1/4
+M: 6/8
+V: P1 name="piano"
+%%MIDI program 1 -1
+V: P2 name="piano-2"
+%%MIDI program 2 -1
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: C
+[V: P1]  [G/c/e/]G,/C/4G/4 [G,/B/f/][D/e/][F/f/] | g/G,/C/4c/4 [e/c'/]G,/C/ | [E/c/]G,/[C/E/c/] [G,/G/d/][D/c/][B,/G/d/] | [G/e/][G,/f/][C/G/e/] [G,/G/d/]B,/D/4G/4 | [c/e/]G,/C/4[G/4B/4] [G,/f/][D/e/][F/f/] | g/G,/C/4[c/4e/4] c'/G,/C/ | [E/c/]G,/[C/c/] [G,/G/d/][B,/G/e/][D/G/d/] | [C/E/c/] G,z g/ | [G,/B/g/]D/[F/4f/4][G/4B/4] [G,/d/][D/G/e/][B,/f/] | [c/g/]G,/[C/G/e/] c/G,/[C/4g/4]G/4 | [G,/B/g/]D/[F/f/] [G,/G/B/d/][B,/G/e/][D/G/B/f/] | [c/g/]G,/[C/G/e/] [E/c/]G,/[C/c/] | a/C/[F/4c/4a/4][c/4f/4] c'/[C/c/b/][F/c/a/] | [e/g/]G,/[C/e/g/] [e/c'/]G,/[C/e/g/] | [e/g/][f/a/][C/e/g/] [e/g/][C/d/f/][C/c/e/] | [G,ce] ^F/ [G,3/G3/B3/d3/] | [G/c/e/]G,/C/4G/4 [G,/B/f/][D/e/][F/f/] | g/G,/C/4c/4 [e/c'/]G,/C/ | [E/c/]G,/[C/E/c/] [G,/G/d/][D/c/][B,/G/d/] | [G/e/][G,/f/][C/G/e/] [G,/G/d/]B,/D/4G/4 | [c/e/]G,/C/4[G/4B/4] [G,/f/][D/e/][F/f/] | g/G,/C/4[c/4e/4] c'/G,/C/ | [E/c/]G,/[C/c/] [G,/G/d/][B,/G/e/][D/G/d/] | [E3/c3/] [C3/-E3/-G3/-c3/-] | [C3/E3/G3/c3/] [C/4E/4G/4c/4]zz/4|]
+[V: P2]  C,3/z3/ | C,3/ C,3/ | C,3/z3/ | C,3/z3/ | C,3/z3/ | C,3/ C,3/ | C,3/z3/ |z E,/ C,/z |z3 | C,3/ C,3/ |z3 | C,3/ C,3/ | F,3/ F,3/ | C,3/ C,3/ | C,3/ C,3/ |z3 | C,3/z3/ | C,3/ C,3/ | C,3/z3/ | C,3/z3/ | C,3/z3/ | C,3/ C,3/ | C,3/z3/ | C,/G,,/E,,/ C,,3/- | C,,3/ C,,/4zz/4|]
+[V: P3] z3|]
+

@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Orientis Partibus
+Z: Medieval French Traditional
+Z: (public domain)
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 52
+V: P2 name="Staff-1"
+%%MIDI program 2 52
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | | [Fc] [Fc] [Fd] (A/B/) | | | [DG] (F/G/) [E2A2] | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | x3  F | | | x1  D x2  | ||]
+[V: P2]  [F,3/A,3/] [F,/B,/] [F,C] [A,,C] | [B,,B,] [C,G,] [F,2A,2] | [F,A,] [F,A,] [B,,B,] [D,F,] | [C,G,] [C,G,] [F,2A,2] | [F,C] [E,C] [D,B,] [C,C] | [B,,D] [B,,D] [A,,2^C2] | [A,,3/C3/] [B,,/D/] [C,C] [D,A,] | [B,,B,] [C,G,] [F,2A,2]|]
+

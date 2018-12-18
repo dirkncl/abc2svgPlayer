@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Old 137th
+Z: Day's Psalter, 1553
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Old 137th, CMD"
+%%MIDI program 2 19
+V: P3 name="Old 137th, CMD-2"
+%%MIDI program 3 19
+K: G
+[V: P1]  [DG] [C/F/][C/E/] D [EG] | [DB] [DA] [B,2G2] | [EG] [F/A/][G/B/] [Gc] [FA] | [G2B2] [GB] [F/A/][E/G/] [K: G]  | [M: 3/4]  [^DF] [E/G/]=D/ [D/E/][^C/E/] | D2 D | [E3/G3/] [E/A/] [DB] | A/C/ [B,2G2] [K: G]  | [M: 2/4]  [B,2D2] [K: G]  | [M: 4/4]  [E3/G3/] [F/A/] [GB] G | [G3/c3/] [G/c/] [G2B2] | [B,G] E/[^D/F/] [E/G/]G/ A/F/ | G2 [D2G2] | [G/B/][G/c/] [F/d/][G/d/] [G3/e3/] [G/e/] | [G2d2] [GB] [E/A/][G/B/] | [Ac] [FA] G2|]
+[V: P2]  B, A,/C/ G, G, | G, F, G,2 | [E,B,] D/[G,/D/] E D | [G,2D2] [G,D] D/[E,/B,/] [K: G]  | [M: 3/4]  B, [E,B,] A,/A,/ | F,2 G, | [E,3/B,3/] C/ G, | F, G,2 [K: G]  | [M: 2/4]  G,2 [K: G]  | [M: 4/4]  [E,3/B,3/] D/ [G,D] [E,E] | E3/ [E,/E/] [G,2D2] | [E,E] G,/B,/ [E,B,] ^D | [G,2B,2] [G,2B,2] | [G,/D/][E,/G,/] A,/D/ C3/ C/ | [G,2B,2] [G,D] C/D/ | E D/C/ B,2|]
+[V: P3]  G,, A,,/A,,/ B,, C, | D, D, G,,2 |z D, C, D, |z3 D, [K: G]  | [M: 3/4]  B,,z A,,/A,,/ | D,2 B,, |z3/ C,/ D, | D, G,,2 [K: G]  | [M: 2/4]  z4 [K: G]  | [M: 4/4] z3/ D,/z2 | C,2z2 |z C,/B,,/z D, | z4 |z D,/B,,/ C,3/ C,/ |z3 C,/B,,/ | A,, D, G,,2|]
+

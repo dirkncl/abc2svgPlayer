@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Our Message
+Z: I. H. Meredith
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A A A G | F2 C2 | c c c B | A3z | d d d c | c2 B2 | A G G D | A G E C | A A A G | F2 C2 | c c c B | A3z | d A B G | c G A F | G d c E | F3"^Chorus" C | c2 c2 | c3 (B/c/) | d2 d2 | d3 d/ f/ | f e e B | d3 d/ e/ | e d d A | c3 C | c2 c2 | c3 B/ c/ | d2 d2 | d3 d/ e/ | f f e d | d c B A | A G A G | F3z|]
+w: Joy is in our mes- sage! Peal the Christ- mas Bells! Joy, great joy re- echo es From the glo- ry In the sto- ry Which our chimes are tel- ling, As the mu- sic swells; Ring- ing, ring- ing, new joy bring- ing, Peal the Christ- mas bells. To ev- 'ry land in_ an- them grand, From the nor- thern i- cy tow'rs To the sun- set land of flow'rs; O'er ev- 'ry sea, To the bond and free, We re- peat the song of an- gel throng; The Sa- viour now is ours!
+[V: P2]  [CA] [A,C] [B,D] [B,CE] | [A,2C2] A,2 | [CA] [CF] [CE] [CG] | [C3F3]z | [DF] [DF] [D^F] [DA] | [D2G2] [D2G2] | [=B,F] [B,F] [B,F] [B,D] | [B,E] [B,E] B, B, | [CF] [A,C] [B,D] [B,CE] | [A,2C2] A,2 | [CA] [CF] [CE] [CG] | [C3F3]z | [DF] [D^F] [DG] [B,D] | [CG] [CE] [CF] C | D F F C | [A,3C3]z | [F2A2] [E2B2] | [F3A3]z | [F2B2] [^F2c2] | [G3B3] B/ d/ | d c c G | B3 B/ B/ | A A A F | A3z | [F2A2] [E2B2] | [F3A3]z | [F2B2] [^F2c2] | [G3B3]z | F F F F | F F F F | F F E E | F3z|]
+[V: P3]  F, C, G, C, | F, C, F, C, | F, A, G, C, | F, C, F, A, | B, B, A, D, | G, D, G, D, | G,,2 G,,2 | C,2 C, E, | F, C, G, C, | F, C, F, C, | F, A, G, C, | F, C, F, A, | B, D, G, (G,/F,/) | E, C, F, A, | B, ^G, A, B, | F, C, F,,z | F, A, G,!>! B, |!>! A,!>! G,!>! F,z |!>! B,!>! D!>! C A, |!>! B,!>! A,!>! G,z | C, E G, E | C, E E E | F, F C, C | F, F Fz |!>! F,!>! A,!>! G,!>! B, |!>! A,!>! G,!>! F,z |!>! B,!>! D!>! C!>! A, |!>! B,!>! A,!>! G,z | ^G, G, G, G, | A, A, D C | =B, B, C _B, | A,3z|]
+[V: P4]  F,, C,, G,, C,, | F,, C,, F,, C,, | F,, A,, G,, C,, | F,, C,, F,, A,, | B,, B,, A,, D,, | G,, D,, G,, D,, | G,,,2 G,,,2 | C,,2 C,, E,, | F,, C,, G,, C,, | F,, C,, F,, C,, | F,, A,, G,, C,, | F,, C,, F,, A,, | B,, D,, G,, (G,,/F,,/) | E,, C,, F,, A,, | B,, =B,, C, C, | F, C, F,,z |!>! F,,!>! A,,!>! G,,!>! B,, |!>! A,,!>! G,,!>! F,,z |!>! B,,!>! D,!>! C,!>! A,, |!>! B,,!>! A,,!>! G,,z | C, [B,C] G, [B,C] | C, [B,C] [B,C] [B,C] | F, [A,C] C, A, | F, [A,C] [A,C]z |!>! F,,!>! G,,!>! F,,!>! B,, |!>! A,,!>! G,,!>! F,,z |!>! B,,!>! D,!>! C,!>! A,, |!>! B,,!>! A,,!>! G,,z | =B,, B,, B,, B,, | C, C, C, C, | D, G,, C, C, | F,3z|]
+

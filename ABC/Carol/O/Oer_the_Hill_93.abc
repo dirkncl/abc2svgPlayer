@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O'er The Hill And O'er The Vale
+Z: F. J. Dugard
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D G B B | c A G2 | B A G F | A2 G2 | d d d B | d c B2 | c A G F | A2 G2 | B B B G | F E B2 | B B B G | F3/ E/ E2 | D E F G | B2 A2 | d d d B | d c B2 | d d d B | d c B2 | c A G F | A2 G2|]
+w: O'er the hill and o'er the vale Come three kings to- geth er, Car- ing nought for snow and hail, Cold, and wind, and wea- ther; Now on Per- sia's sand- y plains, Now where Ti- gris swells with rains, They their ca- mels te- ther; Now through Sy- rian lands they go, Now through Mo- ab, faint and slow, Now through Ed- om's hea- ther.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Once In The Winter Cold
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A | (A B) c (d F) G | (A D) E (F B,) C | D2 F B2 d | (c3 c2) B | (A B) c (d F) G | (A D) E F2 B | (d c) B A2 ^G | A3z2 A | _B2 d (=c F) G | (A D) E F2 G | A2 A B2 B | c3z2 c | (d F) G (A D) E | F2 F B2 E | A2 G F2 E | D3z2|]
+w: Once in_ the win-_ ter cold,_ when earth_ Was de- so late and wild,_ The An-_ gels wel-_ comed at_ His Birth, The e-_ ver las ting Child. From realms of e-_ ver brighte_ ning day, And from His throne a- bove, He came_ with hu-_ man kind to stay, All low- li ness and love.
+

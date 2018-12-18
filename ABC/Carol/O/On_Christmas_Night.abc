@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: On Christmas Night
+Z: English melody arr. by Ralph V. Williams, 1919
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=150
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Sussex Carol"
+%%MIDI program 2 91
+K: F
+[V: P1]  [Cc] [F2c2] A | B2 c [FA] | G F [C2G2] | E F2 F | [FG] A B [E-A-] | [E/A/]D/ [EG] F2 | [Ec] [F2c2] [FA] | [F2B2] [Gc] [FA] | G [CF] [E2G2] | [CE] [C2F2] [DF] | [DG] A [DB] [C-A-] | [C/A/]D/ [EG] F2- | F [E3G3] | [D2G2] F G | A B [Cc] B | [DA] [E3G3] | D3 [C-F-c-] | [C2F2c2] [F2-d2-] | [Fd] [E3c3] | [D2B2] [FA] [DG] | F [CG] [C2-F2-] | [C4F4]|]
+[V: P2]  [C,C] [F,3A,3] | [D,3F,3] C,- | C,2 [B,,2E,2] | G, [A,,3F,3] | B,,2 D, [C,-C-] | [C,C] [C,C] [F,2A,2] | [G,B,] [A,2C2] [F,C] | [D,B,] A, [E,G,] [F,-A,-] | [F,A,] [A,,A,] [C,2G,2] | [B,,G,] [A,,2F,2] [D,F,] | [B,,2F,2] [G,,F,] [A,,-E,-] | [A,,/E,/]B,,/ [C,C] [F,2-A,2-] | [F,A,] [E,3G,3] | [B,,3E,3] [B,,-E,-] | [B,,2E,2] [A,,2F,2] | B,, C,3 | B,,3 [A,,-F,-] | [A,,2F,2] [B,,2-B,2-] | [B,,B,] [C,3G,3] | [D,2F,2] [C,F,] [B,,-F,-] | [B,,F,] [C,E,] [F,2-A,2-] | [F,4A,4]|]
+

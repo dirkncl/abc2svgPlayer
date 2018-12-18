@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Old Christmas
+Z: Virginia Woodward Cloud
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2 name="Right Hand"
+%%MIDI program 2 0
+V: P3 name="Left Hand"
+%%MIDI program 3 0
+K: D
+[V: P1]  A,/ A,/ | D E/ F G/ | A B/ A A/ | d c/ B F/ | (G3/ G/)z/ F/ | E E/ E/^D/E/ | A A/ D D/ | (B/A/)F/ D E/ | (F3/ F/)z/ E/ | d d/ (=c3/4_B/4)A/ | A G/ G G/ | _B B/ B/G/4G/4E/ | (C3/ C/)z/ A,/4A,/4 | D E/ F G/ | A A/ d d/ | d/e/d/ B A/ | (D3/ D/)|]
+w: It's a long way round the year, my dears, A long way round the year!_ I found the frost and the flame, my dears, I found_ the smile and tear!_ I bring the Christ-_ mas joy, my dears, To your eyes so bon- nie and true_ And a mistle- toe bough for you, my dears, A mis- tle toe bough for you._
+[V: P2]  A,/ A,/ | [F,D] [G,/C/E/] [A,DF] [A,/C/G/] | [DA] [D/B/] [DA] A/ | [DFd] c/ [^DFB] F/ | [(B,3/(E3/(G3/] [B,/)G/)]z/ F/ | [A,CE] E/ [A,/C/E/]^D/E/ | A A/ [_A,D] D/ | [D/F/B/]A/F/ [F,D] [G,/A,/C/E/] | [(A,3/(D3/(F3/] [A,/)D/)F/)]z/ D/ | d [D/F/d/] [F3/4=c3/4]_B/4A/ | A [D/G/] [DG] G/ | [G_B] [G/B/] [G/B/]G/E/ | [(G,3/(A,3/(C3/] [G,/)A,/)C/)]z/ A,/ | [F,D] [G,/E/] [A,DF] [A,/C/G/] | [DFA] [D/F/A/] [D=F_Ad] d/ | [F/A/d/]e/d/ [EGB] [C/E/G/A/] | [(A,3/(D3/] [A,/)D/)]|]
+[V: P3]  A,,/ A,,/ | [D,,D,] A,,/ D, E,/ | F, G,/ F,z/ | F,z/ [B,,A,B,]z/ | E,3/ D,z/ | [C,G,]z/ [A,,G,]z/ | [F,,F,]z/ [_B,,=F,]z/ | [A,,^F,]z/ B,, A,,/ | (D,,3/ D,,/)z/z/ | D,, D,/ [A,=C] D,/ | G,, D,/ _B,z/ | [CE] [C/E/] [C/E/]z/z/ | [(A,,3/(E,3/] [A,,/)E,/)]z/ A,,/ | [D,,D,] A,,/ D, E,/ | F,z/ [_B,,,_B,,]z/ | [A,,A,]z/ [G,,G,] A,,/ | D, A,,/ D,,/|]
+

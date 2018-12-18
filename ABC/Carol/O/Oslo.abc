@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Oslo
+Z: Scandinavian Traditional
+Z: (public domain)
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 52
+V: P2_1 name="Staff-1"
+V: P2_2
+%%MIDI program 2 52
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1] ||: | | E2 [B,^D] (E/F/) | | :|| | | B2 [EG] c | [G3/B3/] [E/A/] [FA] G ||| | | [D2B2] E (E/F/) | | E3|]
+% Extracting voice 2 from part P1
+[V: P1_2] ||: | | (G, A,) x1  B, | | :|| | | (G3/ F/) x1  (E/F/) | x3  G ||| | | x2  E C | | E3|]
+% Extracting voice 1 from part P2
+[V: P2_1] ||: | [C,G,] [G,,G,] G, [B,,D,] | | E, [=D,G,] [C,G,] [D,F,] | :|| | | D2 [C,C] [A,,C] | D3/ [C,/C/] (A,/B,/) [E,C] ||| | | [G,,B,] [C,G,] [A,,C] (B,/A,/) ||]
+% Extracting voice 2 from part P2
+[V: P2_2] ||: | x2  (G,,/A,,/) x1  | | E, x3  | :|| | | (G,,/A,,/B,,/G,,/) x2  | (B,,/A,,/B,,/) x0  D, x1  ||| | | x3  B,, ||]
+

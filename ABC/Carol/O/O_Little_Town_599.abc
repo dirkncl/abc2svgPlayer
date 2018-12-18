@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: St. Louis
+Z: L. H. Redner
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B | B B ^A B | d c E A | G (F/ G/) A D | B3 B | B B e d | d c E A | G (F/ G/) B A | G3 B | B B A G F2 F F | E F G A | B3 B | B B ^A B | d c E e | d G B3/ A/ | G3|]
+w: O lit- tle town of Beth- le hem, how still we_ see thee lie! A- bove thy deep and dream- less sleep the si- lent_ stars go by. Yet in thy dark streets shin- eth the e- ver last ing Light; The hopes and fears of all the years are met in thee to- night.
+

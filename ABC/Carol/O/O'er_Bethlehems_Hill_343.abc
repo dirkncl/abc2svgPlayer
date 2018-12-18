@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: O'er Bethlehem's Hill, In Time Of Old
+Z: Libersey Carrott
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: E
+[V: P1]  E/ | G G/ (B/A/) G/ | F G/ E B/ | e e/ (e/d/) c/ | (B3/ B) A/ | G G/ (B/A/) G/ | F G/ E D/ | (C/E/) A/ G F/ | (E3/ E) E/ | (F/G/) A/ G G/ | (^A/B/) c/ B B/ | (c/d/) e/ B G/ | (F/G/) F/ E|]
+w: O'er Bethl- 'ehem's hill,_ in time of old, Came wise men from_ a- far,_ Bring- ing their cost-_ ly gifts of gold, For they_ had seen His star._ In prince-_ ly pomp, with pre-_ sents meet, They came_ to wor- ship at_ His feet.
+
