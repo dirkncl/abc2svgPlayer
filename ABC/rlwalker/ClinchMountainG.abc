@@ -1,0 +1,34 @@
+%Scale the output
+%%scale 0.90
+%%format dulcimer.fmt
+X: 1
+T:A Way Up On Clinch Mountain
+C:Scottish - 17th century - unknown
+M:3/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:G%(D, C)
+V:1
+|G/2A/2
+w:Way_
+w:I'll_
+w:Rye_
+w:Rye_
+w:Jack o'
+w:Way_
+w:You may
+w:Oh_
+V:2
+|g
+V:1
+|"G"B G G|B, D D|D E G|"D"A/2G3/2 G/2A/2|"G"B G G|E D D/2E/2|"D"G G A|"G"G2|
+w:up on Clinch Moun-tain, I wan-der a-lone;_ I'm as drunk as the dev-il, Oh,_ let me a-lone!
+w:eat when I'm hun-gry, En drink when I'm dry;_ If_ whis-key don't kill me, I'll_ live till I die.
+w:Whis-key, rye whis-key, I know you of old,_ You_ rob my poor pock-ets of_ sil-ver and gold.
+w:Whis-key, rye whis-key, you're  no friend  to me._ You_ killed my old dad-dy, Gosh_ darn, you try me.
+w:dia-monds, Jack~o- dia-monds, I know you of old,_ You_ rob my poor pock-ets, Of_ sil-ver and gold.
+w:up on Clinch Moun-tain, where~the wild geese fly high,_ I'll_ think of little Al-lie en_ lay down en die.
+w:boast of your know-ledge, en brag o' your sense,_ 'Twill_ all be for-got-ten a_ hun-dred years hence.
+w:Lu-lu, oh Lu-lu, oh Lu-lu, my dear,_ I'd_ give the whole world if my_ Lu-lu was hyer.
+V:2
+|e d B|A G E/2D/2|E G A|B z g|e d B/2B/2|A G E/2D/2|E G A|G2|

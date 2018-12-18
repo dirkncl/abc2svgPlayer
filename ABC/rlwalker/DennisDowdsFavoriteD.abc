@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.15
+%%format dulcimer.fmt
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Dennis Dowd's Favorite
+T:(I can't find the real title.)  
+C:Traditional
+C:arr. by Tom Morley
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+P:A
+|:"D"vd f/2e/2 d f/2e/2|"G"d B (B A)|"D"ud f/2e/2 d e/2f/2|"A"g e (c A)
+|"D"vd f/2e/2 d f/2e/2|"G"d B (B A)|"A"ua A c3/2 d/2|"A"ue "D"d d2:|
+P:B
+|:"D"va/2a/2a/2a/2 a f|"G"g/2g/2g/2g/2 g e|"D"a/2a/2a/2a/2 a f|"A"g/2f/2e/2d/2 c A
+|"D"va/2a/2a/2a/2 a f|"G"g/2g/2g/2g/2 g e|"A"va A c3/2 d/2|"A"ve "D"d +breath+d2:||

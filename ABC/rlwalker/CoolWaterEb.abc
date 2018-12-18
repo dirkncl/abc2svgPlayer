@@ -1,0 +1,59 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Cool Water
+C:Bob Nolan, 1936
+M:4/4
+L:1/4
+%%score (V1 V2)
+V:1 clef=treble name="Melody"
+V:2 clef=treble name="Harmony"
+K:Eb
+V:1
+|:"^Verses"E|"Eb"G/2 G G/2-G3/2 G/2|"Bb7"G/2 F F/2-F3/2 G/2
+w:1~All day I've faced_ a bar-ren waste_ with-
+w:2~The nights are cool,_ and I'm a fool,_ Each
+w:3~The sha-dows sway_ and seem to say_ "To-
+w:4~Dan's feet are sore_ he's yearn-ing for_ Just
+w:* wa-ter
+V:2
+|z4|c B z2
+%%score (V1)
+V:1
+|"Eb"F/2 E E/2-E3/2 C/2|"Bb7"D/2F/2-F3|F4
+w:out the taste_ of wa-ter,_ Cool
+w:star's a pool_ of wa-ter,_ Cool
+w:night we pray_ for wa-ter,_ Cool
+w:one thing more_ than wa-ter,_ Cool
+%%score (V1 V2)
+V:1
+|"Eb"F E3-|E2 z B|"Ab"c c c3/2 c/2
+w:wa-ter!_ Old Dan and I with
+w:wa-ter!_ But with the dawn I'll
+w:wa-ter!_ And 'way up there He'll
+w:wa-ter!_ Like me I guess he'd
+w:* wa-ter
+V:2
+|z4|c B z2
+%%score (V1)
+V:1
+|"Bb7"d d d3/2 d/2|"Eb"e3 e|"Ab"c3 A
+w:throats burnt dry and souls that cry for
+w:wake and yawn, And car-ry on to
+w:hear our pray'r And show us where there's
+w:like to rest where there's no quest for
+|"Eb"E G3-|G4| "Bb7"F4| F4| "Eb"F E3-|E4||
+w:wa-ter,_ Cool, clear wa-ter!_
+w:wa-ter,_ Cool, clear wa-ter!_
+w:wa-ter,_ Cool, clear wa-ter!_
+w:wa-ter,_ Cool, clear wa-ter!_
+|"Eb""^Chorus"E3/4E/4 E3/4E/4 E E3/4E/4|"Bb7"D3/4D/4 D3/4D/4 D D3/4D/4
+w:Keep a-mov-in', Dan, don't you lis-ten to him, Dan, He's a
+|"Eb"E3/4E/4 E3/4E/4 E E3/4E/4|"Bb7"F3/4F/4 F3/4F/4 F F
+w:dev-il, not a man, And he spreads the burn-ing sand With
+|"Eb"F/2E/2-E3-|E3 z|"Ab"c c3/4c/4 c c|"Eb"B B B B3/4B/4
+w:wa-ter.__ Dan can you see that big green tree Where the
+|"Ab"c3/4c/4 c3/4c/4 c c3/4c/4|"Bb7"d3/4d/4 d3/4 d/4 d d
+w:wa-ter's run-ning free? And it's wait-ing there for me And
+|1 "Eb"e4-|e3:|2 "Eb"e4||
+w:you._ you.

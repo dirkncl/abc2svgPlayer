@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.150
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Corcoran's Cross
+C:Traditional
+M:C    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+|F/2E/2
+|"D"D A F/2F/2 A|D A "G"B2|"D"A3/2 F/2 F/2E/2 D/2E/2|F "A7"E E/2G/2 F/2E/2
+|"D"D A F/2F/2 A|D A "G"B2|"D"A3/2 F/2 F "A7"E|"D"D2 z A|"G"B3/2 A/2 B c
+|d3 B|"D"A3/2 F/2 F/2E/2 D/2E/2|F "A7"E E/2G/2 F/2E/2|"D"D A F/2F/2 A
+|D A "G"B2|"D"A3/2 F/2 F "A7"E|1 "D"D2 z F/2E/2:|2 "D"D3||
+
+
+
+

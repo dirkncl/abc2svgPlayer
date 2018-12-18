@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 0.95
+%%format dulcimer.fmt
+X: 1
+T:Danny Boy (Londonderry Air)
+C:Traditional	
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:C%(D, C)
+|B, C D
+w:Oh Dan-ny
+|"C"E3 D|E3/2 A/2 "C7"G3/2 E/2|"F"D C A,2-|A, C "Fm"E F\
+w:boy the pipes the pipes are  call-_ing._ From glen to
+|"C"G3 A|G E "Am6"C E|"Fm6"D4-|"G"D B, C D|"C"E3 D\
+w:glen and down the moun-tain side._ The sum-mer's gone and
+|E A "C7"G E|"F6"D C A,2-|A, B, "Fm"C D|"C"E3 F|"G7"E D C D|"C"C4-\
+w:all the flowers are dy-_ing_ 'tis you, 'tis you must go and I must bide.
+|C G A B|"C"c3 B|"F6"B/2 A3/2 "G7"G3/2 A/2|"Am7"G E C2-|C G A B\
+w:_But come ye back when sum-mer's in the  mea-_dow._ Or when the
+|"Am"c3 B|"F6"B3/2 A/2 "Em6"G E|"D7"D4-|"G7"D G G G|"C"e3 "C9"d|"F"d/2 c3/2 "F#dim"A c\
+w:val-ley's hushed and bright with snow._ 'Tis I'll be there in sun-shine or in
+|"C"G "E7"E "Am"C2-|"Fm7"C B, "Fm6"C D|"C"E3/2 A/2 "Am7"G E|"F6"D C "G7"A, B,|"C"C4-|C||
+w:sha-_dow._ Oh Dan-ny boy, Oh Dan-ny boy I love you so._

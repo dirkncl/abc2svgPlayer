@@ -1,0 +1,38 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Dear Old Dixie
+C:
+N:cpodczaszy@nordnet.fr (Nicolas Podczaszy)  
+L:1/8
+Q:260
+M:4/4
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:C
+z8 | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | \
+B,2 [f2B2G2D2] G,2 [f2B2G2D2] | C2 [g2c2G2E2] G,2 [g2c2G2E2] | C2 [g2c2G2E2] G,2 [g2c2G2E2] | \
+B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | \
+B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [f2B2G2D2] G,2 [f2B2G2D2] | \
+A,2 [e2^c2A2E2] E,2 [e2c2A2E2] | A,2 [e2^c2A2E2] E,2 [e2c2A2E2] | D2 [^f2d2A2] A,2 [f2d2A2] | \
+D2 [^f2d2A2] A,2 [f2d2A2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | \
+B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [f2B2G2D2] G,2 [f2B2G2D2] | C2 [g2c2G2E2] G,2 [g2c2G2E2] | \
+C2 [g2c2G2E2] G,2 [g2c2G2E2] | B,2 [^f2B2A2^D2] ^F,2 [f2B2A2D2] | B,2 [^f2B2A2^D2] ^F,2 [f2B2A2D2] | \
+C2 [g2c2G2E2] G,2 [g2c2G2E2] | C2 [g2c2G2E2] G,2 [g2c2G2E2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | \
+B,2 [e2B2^G2E2] E,2 [e2B2G2E2] | A,2 [e2^c2A2E2] E,2 [e2c2A2E2] | D2 [^f2d2A2] A,2 [f2d2A2] | \
+B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | \
+B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [f2B2G2D2] G,2 [f2B2G2D2] | \
+C2 [g2c2G2E2] G,2 [g2c2G2E2] | C2 [g2c2G2E2] G,2 [g2c2G2E2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | \
+B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | \
+B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [f2B2G2D2] G,2 [f2B2G2D2] | A,2 [e2^c2A2E2] E,2 [e2c2A2E2] | \
+A,2 [e2^c2A2E2] E,2 [e2c2A2E2] | D2 [^f2d2A2] A,2 [f2d2A2] | D2 [^f2d2A2] A,2 [f2d2A2] | \
+B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | \
+B,2 [f2B2G2D2] G,2 [f2B2G2D2] | C2 [g2c2G2E2] G,2 [g2c2G2E2] | C2 [g2c2G2E2] G,2 [g2c2G2E2] | \
+B,2 [^f2B2A2^D2] ^F,2 [f2B2A2D2] | B,2 [^f2B2A2^D2] ^F,2 [f2B2A2D2] | C2 [g2c2G2E2] G,2 [g2c2G2E2] | \
+C2 [g2c2G2E2] G,2 [g2c2G2E2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | B,2 [e2B2^G2E2] E,2 [e2B2G2E2] | \
+A,2 [e2^c2A2E2] E,2 [e2c2A2E2] | D2 [^f2d2A2] A,2 [f2d2A2] | B,2 [g2B2G2D2] G,2 [g2B2G2D2] | \
+z8 | \
+W:Created with TablEdit http://www.tabledit.com/

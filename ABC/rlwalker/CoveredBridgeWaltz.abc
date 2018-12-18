@@ -1,0 +1,42 @@
+%Scale the output
+%%scale 1.25
+%%format dulcimer.fmt
+X:1
+T:Covered Bridge Waltz
+C:Sam Greene
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|:"D"F F/2F/2F|"G"G G/2G/2 G|"A"E3/2 F/2 "A7"G|"D"F F/2F/2 F\
+|"D"D D/2D/2 D|"A"E3/2 D/2 E|1  "D"F F/2F/2 F|F F/2F/2 F:|2 "D"D D/2D/2 D|D D/2D/2 D||\
+|:"F#m"A A/2A/2A|"Bm"B B/2B/2 B|"A"E3/2 F/2 G|"F#m"A A/2A/2 A\
+|"D"D E F|"G"G G/2G/2 G|"A"E3/2 F/2 "A7"E|"D"D3:||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

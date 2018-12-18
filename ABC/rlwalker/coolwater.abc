@@ -1,0 +1,50 @@
+%%scale 1.0
+%%stretchlast 0
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+%%format dulcimer.fmt
+X: 1
+T:Cool Water
+C:Bob Nolan, 1936
+M:4/4
+L:1/4
+%%score (V1 V2)
+V:1 clef=treble name="Melody"
+K:D
+|:"^Verses"D|"D"F/2 F F/2-F3/2 F/2|"A7"F/2 E E/2-E3/2 F/2
+w:1~All day I've faced_ a bar-ren waste_ with-
+w:2~The nights are cool,_ and I'm a fool,_ Each
+w:3~The sha-dows sway_ and seem to say_ "To-
+w:4~Dan's feet are sore_ he's yearn-ing for_ Just
+|"D"E/2 D D/2-D3/2 B,/2|"A7"C/2E/2-E3|E4
+w:out the taste_ of wa-ter,_ Cool
+w:star's a pool_ of wa-ter,_ Cool
+w:night we pray_ for wa-ter,_ Cool
+w:one thing more_ than wa-ter,_ Cool
+|"D"E D3-|D2 z A|"G"B B B3/2 B/2
+w:wa-ter!_ Old Dan and I with
+w:wa-ter!_ But with the dawn I'll
+w:wa-ter!_ And 'way up there He'll
+w:wa-ter!_ Like me I guess he'd
+|"A7"c c c3/2 c/2|"D"d3 d|"G"B3 G
+w:throats burnt dry and souls that cry for
+w:wake and yawn, And car-ry on to
+w:hear our pray'r And show us where there's
+w:like to rest where there's no quest for
+|"D"D F3-|F4| "A7"E4| E4| "D"E D3-|D4||
+w:wa-ter,_ Cool, clear wa-ter!_
+w:wa-ter,_ Cool, clear wa-ter!_
+w:wa-ter,_ Cool, clear wa-ter!_
+w:wa-ter,_ Cool, clear wa-ter!_
+|"D""^Chorus"D3/4D/4 D3/4D/4 D D3/4D/4|"A7"C3/4C/4 C3/4C/4 C C3/4C/4
+w:Keep a-mov-in', Dan, don't you lis-ten to him, Dan, He's a
+|"D"D3/4D/4 D3/4D/4 D D3/4D/4|"A7"E3/4E/4 E3/4E/4 E E
+w:dev-il, not a man, And he spreads the burn-ing sand With
+|"D"E/2D/2-D3-|D3 z|"G"B B3/4B/4 B B|"D"A A A A3/4A/4
+w:wa-ter.__ Dan can you see that big green tree Where the
+|"G"B3/4B/4 B3/4B/4 B B3/4B/4|"A7"c3/4c/4 c3/4 c/4 c c
+w:wa-ter's run-ning free? And it's wait-ing there for me And
+|1 "D"d4-|d3:|2 "D"d4||
+w:you._ you.

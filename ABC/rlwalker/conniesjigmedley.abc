@@ -1,0 +1,46 @@
+%%scale 0.95
+%%format dulcimer.fmt
+X:0
+T:Jig Medley
+T:6x32J
+P:Play 1 - 2 - 3 - 2 - 3 - 1
+K:
+
+X:1
+P:Old Joe's Jig
+C:Traditional
+M:6/8    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|:(e
+|f)"D"AA AFA|"G"BAF "D"A2 (A|"G"B)dB "D"AFA|"Bm"Bcd "A"efg
+|"D"fAA AFA|"G"BAF "D"A2 (A|"G"B)dB "D"AFA|"G"Bd"A"c "D"d2:||
+|:(e
+|"D"f)af "A"efe|"D"dBAd2 (e|f)aa afe|faa "G"b2 (a
+|"D"f)af "A"efe|"D"dBAd2 (e|f)AA AFA|"G"Bd "A"c"D"d2:||
+
+X:2
+P:My Darling Asleep
+C:Traditional
+M:6/8    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|(g
+|:"D"f)dd "A"cAA|"G"BGG "D"A2 (G|F)AA def|{a}"Em"gfg "A"eag
+|"D"fdd "A"cAA|"G"BGG "D"A2 (G|F)AA def|{a}"A"gec "D"d3:|
+|:"D"FAA dAA|FAA {d}"G"BAG|"D"FAA def|{a}"Em"gfg "A"eag
+|"D"fdd "A"cAA|"G"BGG "D"A2 (G|F)AA def|{a}"A"gec "D"d3:||
+
+X:3
+P:Rose in the Heather
+C:Traditional
+M:6/8    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|:"D"F3 "A"EFE|"D"D2 (A B)AF|ABd "A"ede|"D"fdB "A"AFE|"D"F3 "A"EFE
+|"D"D2 (A B)AF|AdB "A"AFE|1 EDC "D"D3:|2 EDC "D"D2 (e||
+|:"D"f)dB ABd|faa afd|"G"g3 "D"fed|"Em"Bee "A"efg|"D"fdB ABd|faa afa
+|"G"baf "A"gfe|1 "D"fdc d2 ("A"e:|2 "D"f)dB "A"AFE|3 "D".F2 z "A".E2 z|"D"D6||

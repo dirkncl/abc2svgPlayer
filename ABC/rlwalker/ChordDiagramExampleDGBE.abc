@@ -1,0 +1,36 @@
+%Scale the output
+%%scale 1.0
+%My formatting preferences
+%%format preferences.fmt
+%The script to provide chords from a data file
+%%format bracinho.fmt
+%The chords produced with this example
+%%format ChordsDGBE.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 120pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+X:1
+T:Ukulele GCEA Chord Test
+C:Richard Walker
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:C    %(D, C)
+|"A"z "Amaj"z "A6"z "A7"z 
+|"A9"z "Amaj7"z "Am"z "Am6"z
+|"Am7"z "Am9"z "Asus2"z "Asus4"z
+|"A+"z "Aaug"z "Adim"z "A#"z
+|"Bb"z "A#maj"z "Bbmaj"z "A#6"z
+|"Bb6"z "A#7"z "Bb7"z "A#9"z
+|"Bb9"z "A#maj7"z "Bbmaj7"z "A#m"z
+|"Bbm"z "A#m6"z "Bbm6"z "A#m7"z
+|"Bbm7"z "A#m9"z "Bbm9"z "A#sus2"z
+|"Bbsus2"z "A#sus4"z "Bbsus4"z "A#+"z
+|"Bb+"z "A#aug"z "Bbaug"z "A#dim"z
+|"Bbdim"z "B"z "Bmaj"z||

@@ -1,0 +1,45 @@
+X: 1
+T:Come, Thou Fount of Every Blessing
+M:3/2
+L:1/4
+N:from Songs of Praise, \2511992.
+N:Words: Robert Robinson (1735-1790)
+N:Music: Nettleton, melody from A Repository of Sacred Music, Part II, 1813; harm. Carl Haywood (b.1949)
+%%staves (S A) | (T B)
+K:Db
+V:0 S
+V:0 A
+V:0 T clef=bass
+V:0 B clef=bass
+V:0 S
+"Ab7"FE | "Db"D2 D2 FA | "Ab7"E2 E2 "Db"FA | "Gb"B2 "Db"A2 "Ab7"FE |
+w:1.~Come, Thou fount of ev-ery bless-ing, Tune my heart to sing thy
+w:2.~Here I raise my Eb-en-e-zer, Hith-er by thy help I'm
+w:3.~O, to grace how great a debt-or, Dai-ly I'm con-strained to
+"Db"D4 "Ab7"FE | "Db"D2 D2 FA | "Ab7"E2 E2 "Db"FA | "Gb"B2 "Db"A2 "Ab7"FE |
+w:1.~grace; Streams of mer-cy nev-er ceas-ing, Call for songs of loud-est
+w:2.~come; And I hope, by thy good pleas-ure, Sure-ly to ar-rive at
+w:3.~be; Let that grace, Lord, like a fet-ter, Bind my won-d'ring heart to
+"Db"D4 A"Ab7"(B/2c/2) | "Db"d2 c2 "Gb"B"Db"A | "Gb"(BA) "Db"F2 A"A7"(B/2c/2) | "Bbm"d2 "Fm"c2 "Gb"B"Ab9"A |
+w:1.~praise. Teach me* some me-lo-dious son-*net, Sung by* flam-ing tongues a
+w:2.~home. Je-sus* sought me when a stran-*ger, Wan-d'ring* from the fold of
+w:3.~Thee. Prone to* won-der, Lord, I feel* it, Prone to* leave the God I
+"Db"d4 "Ab7"FE | "Db"D2 D2 FA | "Ab7"E2 E2 "Db"FA | "Gb"B2 "Db"A2 "Ab7"FE | "Db"D4 |]
+w:1.~bove. Praise the mount, O fix me on it. Mount of God's un-chang-ing love.
+w:2.~God. He, to save my soul from dan-ger, In-ter-posed His pre-cious blood.
+w:3.~love. Here's my heart, Lord, take and seal it, Seal it from thy courts a-bove.
+V:0 A
+B,C | A,2 A,2 DD | C2 C2 DD | D2 D2 DC |
+A,4 B,C | A,2 A,2 DD | C2 C2 DD | D2 D2 DC |
+A,4 DG | F2 A2 GF | (DC) D2 DG | F2 (FE) DB, |
+(_G2 F2) B,C | A,2 A,2 DD | C2 C2 DD | D2 D2 DC | A,4 |]
+V:0 T
+gg | f2 f2 aa | a2 a2 af | g2 (ab) ag |
+f4 ag | f2 f2 aa | a2 a2 af | g2 (ab) ag |
+f4 ag | a2 d'2 d'd' | (ge) a2 ag | b2 a2 gg |
+(b2 a2) gg | a2 d'2 d'd' | (ge) a2 ag | b2 a2 gg | f4 |]
+V:0 B
+AA | d2 d2 dF | A2 A2 dd | g2 (fg) aA |
+d4 dA | d2 d2 dF | A2 A2 dd | g2 (fg) aA |
+d4 fe | d2 f2 gd | d2 d2 fe | B2 f2 ge |
+d4 AA | d2 d2 dF | A2 A2 dd | g2 (fg) aA | d4 |]

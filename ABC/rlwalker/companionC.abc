@@ -1,0 +1,36 @@
+%%scale 1.0
+%%format bracinho.fmt
+%%format dulcimer.fmt
+%%staffsep 90pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+% Defines the chords to be used:
+%%beginps
+% (Diagram definitions by Chuck Boody)
+% Replaces gchords with diagrams:
+%%endps
+X: 1
+T:My Dear Companion
+C:Jean Ritchie
+M:4/4
+L:1/4
+K:C
+V:1
+|z C C E|"C"G4-|G E G E|"F"C2 A,2-|A, C C E|"C"G4-
+w:Oh have you seen_ my dear com-pan-ion_ for he was all
+|G A G e|"G"D4-
+w:_this world to me
+|D C C E|"C"G4-|G E G E|"F"C2 A,2-
+w:_I hear  he's gone_ to some far coun-try
+w:_But now the stars_ have turned a-gainst me,
+|A, C C E|"C"G C "G"D/2E/2 D|"C"C4-|C C C C|"F"A4-|A G A G
+w:_and that he cares no more_ for me._ I wish I were_ a Swal-low
+w:__and he cares no more_ for me._ And when the dark_ is on the
+|"C"E2 G2-|G C C E/2E/2|G4-|G A G E|"G"D4-|D C C E
+w:fly-in'_ I'd fly to a high_ and lone-some place_ I'd join the
+w:moun-tain_ and all this_ world_ has gone to sleep._ I will go
+|"C"G4-|G E G E|"F"C2 A,2-|A, C C E|"C"G4-|G C "G"D/2E/2 D
+w:wild_ birds in their cry-in'_ think-ing of you_ and your_ sweet
+w:down to the cold dark wa-ters_ and I will lay_ me down_ and
+|"C"C3-C||
+w:face._
+w:weep._

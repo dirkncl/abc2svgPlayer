@@ -1,0 +1,25 @@
+%Scale the output
+%%scale 1.14
+%%format dulcimer.fmt
+X:1
+T:Coventry Carol
+C:Traditional
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:Gm    %(D, C)
+|:"Gm"G G "D"^F|"Gm"G2 B|"F"A2 "Gm"G|"D"^F3|"Gm"G "D"A "Gm"B\
+w:1~Lul-lay, Thou lit-tle ti-ny Child, bye-bye, lul-
+w:2~O sis-ters, too,  how may we do for to pre-
+w:3~Her-of the King in his rag-ing charg-ed he
+w:4~Then woe is me, poor child for Thee, and ev-er
+|"Cm"c2 "D7"A|"Gm"G3-|G2 "Bb"d|"F"c2 "Gm"B|"F"A2 "Bb"B|"Cm"A2 G\
+w:loo, lul-lay._ Lul-lay, Thou lit-tle ti-ny
+w:serve this day?_ This poor Young-ling for whom we
+w:hath this day_ his men of might in his own
+w:morn and day._ For Thy part-ing nor say, nor
+|"D"^F3|"Gm"G "D"^F "Gm"G|"Cm"c2 "D"A|1,2,3 "G"=B3-|B2 z:|4 "G"=B3-|!fermata!B3||
+w:Child, bye-bye, lul-loo, lul-lay._ * *
+w:sing, bye-bye, lul-loo, lul-lay._ * *
+w:sight, all chil-dren young to slay._ * *
+w:sing, bye-bye, lul-loo, lul- * * lay._

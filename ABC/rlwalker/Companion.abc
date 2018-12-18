@@ -1,0 +1,86 @@
+%%scale 0.9
+%%format bracinho.fmt
+%%format dulcimer.fmt
+
+%%staffsep 150pt %between systems
+
+%%sysstaffsep 150pt %between staves of a system
+
+% Defines the chords to be used:
+
+%%beginps
+/gcshow-b /gcshow load bind def
+
+/brac{/BRDEF exch def /BRNAM exch def
+    dup BRNAM eq {
+    BRDEF currentpoint exch 7 add exch 9 add bracinho
+    }if}!
+
+% (Diagram definitions by Chuck Boody)
+/gcshow-bracinho{
+    (C) (- 0 3 2 0 1 0) brac
+    (Cdim7) (- x 3 4 2 4 x) brac
+    (D\201dim7) (- x x 1 2 1 2) brac
+    (D) (- x - 0 2 3 2) brac
+    (D/A) (- x 0 0 2 3 2) brac
+    (E\202) (- x x 1 3 4 3) brac
+    (E) (- 0 2 2 1 0 0) brac
+    (E/B) (- x 2 2 1 0 0) brac
+    (E/G\201) (- 4 x 2 4 0 0) brac
+    (Edim7) (- x x 2 3 2 3) brac
+    (F) (1a. 1[ 3 3 2 - 1]) brac
+    (F/A) (- x 0 3 2 1 1) brac
+    (F/C) (- x 3 3 2 1 1) brac
+    (F\201m) (- 2 4 4 2 2 2) brac
+    (F\201m7) (- 2[ 4 2 2 2 2]) brac
+    (Fdim7) (- 1 x 0 1 0 1) brac
+    (G) (- 3 2 0 0 0 3) brac
+    (G/D) (- x x 0 4 3 3) brac
+    (A\201dim7) (- x 1 2 0 2 0) brac
+    (A/C\201) (- x 4 3[ 3 3 x]) brac
+    (A) (- - 0 2 2 2 0) brac
+    (A/E) (- x x 2 2 2 0) brac
+    (A7) (- - 0 2 2 2 3) brac
+    (Am) (- - 0 2 2 1 0) brac
+    (B) (- x 2[ 4 4 4 2]) brac
+    (Bm) (- x 2[ 4 4 3 2]) brac
+    (Bm6) (- x 2 x 1 3 2) brac
+    (Bm7) (- x 2[ 4 2 3 2]) brac
+    (Bm/F\201) (- 2[ 2 4 4 3 2]) brac
+    (E7) (- 0 2 2 1 4 0) brac
+    (Cm) (3a. x 1[ 3 3 2 1]) brac
+    (Bm7/5d) (- x 2 3 2 3 x) brac
+    (B/F\201) (- 2[ 2 4 4 4 2]) brac
+    (B/A) (- x 0 4 4 4 2) brac
+   gcshow-b}!
+
+% Replaces gchords with diagrams:
+/gcshow{gcshow-bracinho}!
+%%endps
+
+X: 1
+T:My Dear Companion
+C:Jean Ritchie
+M:4/4
+L:1/4
+K:D
+V:1
+|z D D F|"D"A4-|A F A F|"G"D2 B,2-|B, D D F|"D"A4-
+w:Oh have you seen_ my dear com-pan-ion_ for he was all
+|A B A F|"A"E4-
+w:_this world to me
+|E D D F|"D"A4-|A F A F|"G"D2 B,2-
+w:_I hear  he's gone_ to some far coun-try
+w:_But now the stars_ have turned a-gainst me,
+|B, D D F|"D"A D "A"E/2F/2 E|"D"D4-|D D D D|"G"B4-|B A B A
+w:_and that he cares no more_ for me._ I wish I were_ a Swal-low
+w:__and he cares no more_ for me._ And when the dark_ is on the
+|"D"F2 A2-|A D D F/2F/2|A4-|A B A F|"A"E4-|E D D F
+w:fly-in'_ I'd fly to a high_ and lone-some place_ I'd join the
+w:moun-tain_ and all this_ world_ has gone to sleep._ I will go
+|"D"A4-|A F A F|"G"D2 B,2-|B, D D F|"D"A4-|A D "A"E/2F/2 E
+w:wild_ birds in their cry-in'_ think-ing of you_ and your_ sweet
+w:down to the cold dark wa-ters_ and I will lay_ me down_ and
+|"D"D3-D||
+w:face._
+w:weep._

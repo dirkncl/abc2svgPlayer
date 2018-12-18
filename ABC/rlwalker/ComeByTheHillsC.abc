@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.10
+%%format dulcimer.fmt
+%%format deco-guitar.fmt
+%%barsperstaff 6
+X: 1
+T:Come By The Hills
+C:Traditional - Gaelic (Scottish or Irish)
+M:3/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+%%score 1 2
+V:1 clef=treble
+K:C%(D, C)
+|+C+"C"E2 D/2E/2|+F+"F"D2 C/2A,/2|+C+"C"G,2 G,|+F+"F"A, C3/2 D/2|+C+"C"C3-|C2 G,
+w:Come by the hills to the land where fan-cy is free._ And
+w:Oh,~come by the hills to the land where life is  a song._ And
+w:Come by the hills to the land where leg-end  re-mains._ Where
+|+C+"C"C2 D/2E/2|+F+"F"F2 E/2D/2|+C+"C"E2 D/2C/2|+Am+"Am"A, C E|+G+"G"D3-|D2 E/2F/2
+w:stand where the peaks meet the sky and the lochs meet the sea._ Where the
+w:sing while the birds fill  the air with their joy all day long._ Where the
+w:stor-ies of old fill the heart and may yet come  a-gain._ Where our
+|+C+"C"G/2 E3/2 D|+Am+"Am"C2 D/2E/2|+F+"F"F G A|+C+"C"G2 E/2C/2|+G+"G"G,3-|G,2 D
+w:ri-vers run clear  and  the brack-en is gold in the sun._ Ah~the
+w:trees sway in time and_  ev-en the wind sings in tune._ Ah,~the
+w:past has been lost and the fu-ture has still to be won._ Ah,~the
+|+C+"C"E2 D/2E/2|+Am+"Am"D C3/2 A,/2|+C+"C"G,2 G,|+F+"F"A, C3/2 +G7+"G7"D/2|+C+"C"C3-|C3||
+w:cares of to-mor-row can wait 'til this day is done._
+w:cares of to-mor-row can wait 'til this day is done._
+w:cares of to-mor-row can wait 'til this day is done._
