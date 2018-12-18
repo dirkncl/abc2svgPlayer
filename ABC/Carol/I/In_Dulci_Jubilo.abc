@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In Dulci Jubilo
+Z: German melody, 14th Century
+Z: Public  domain
+L: 1/4
+M: 6/8
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: F
+[V: P1]  F/ [CF] [C/F/] [FA] | [F/B/] [Fc] d/ [Ec] | [G/c/] [CF] [C/F/] [FA] | [F/B/] [Fc] d/ [E-c-] | [E/c/] [Fc] [F/d/] [Ec] | [G/B/] [FA] [E/G/] F- | F/ [D-F-] [D/F/] [D-F-] | [D/F/] [FG] [F/G/] [FA] | [E/G/] F [E/G/] [F-A-] | [F/A/] [Fc] [F/d/] [Ec] | [G/B/] [FA] [E/G/] [DF] | F/ [FG] [F/G/] [FA] | [E/G/] F [F/G/] [F-A-] | [F/A/] D D/ [DE] | [_D/E/] [=D-F-] [D/F/] [E-c-] | [E/c/] [DA] [F/A/] [FG] | [E/G/] F- F3/ | F3/z3/|]
+[V: P2]  F,/ [F,A,] [E,/A,/][D,/D/]C,/ | [B,,/D/] [A,,C] [B,,/B,/] [C,G,] | [E,/C/] [F,A,] [E,/A,/][D,/D/]C,/ | [B,,/D/] [A,,C] [B,,/B,/] [C,-G,-] | [C,/G,/] [A,,C] [B,,/B,/] [C,G,] | [E,/C/] [F,C] [C,/B,/] [D,-A,-] | [D,/A,/] [D,-A,-] [D,/A,/] [D,-A,-] | [D,/A,/] [B,,D] [B,,/D/] [C,C] | [C,/B,/] [D,A,] [C,/C/] [F,-C-] | [F,/C/] [A,,C] [B,,/B,/] [C,G,] | [E,/C/] [F,C] [C,/B,/] [D,A,] | [A,,/C/] [B,,D] [B,,/D/][C,/C/]D/ | [E,/B,/] [F,A,] [F,/B,/] [F,-C-] | [F,/C/] [F,A,] [F,/A,/] [E,G,] | [E,/G,/] [D,A,] B,/ [C,-G,-] | [C,/G,/] [D,F,] [A,,/C/] [B,,D] | [C,/C/] [F,-A,-] [F,3/A,3/] | [F,3/A,3/]z3/|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In Those Twelve Days
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  D2 G G | ^F D B B | A A G G | ^F D B G | A2 c/ B/ A/ B/ | c d B A | G4 |"^Verse"z2 G G | ^F D B B | A2 G G | ^F D B G | A2 d2 | c/ B/ A B G | A2 B/ A/ B | c d B/ B/ A | G4|]
+w: In those twelve days let us be glad, In those twelve days let us be glad For God of his power hath all things made. What is that which is but one? What is that which is but one? We have but one God a- lone In Heaven a- bove He sits on his throne.
+[V: P2]  D2 D D | D D (D/C/) (D/=E/) | F F (G/F/) (E/D/) | D D (D/C/) (D/=E/) | F2 G/ E/ F/ D/ | F F G D | D4 |z2 D E | D D D ^C | D2 B, D | D D D C | C2 F2 | G/ G/ F D =E | =E2 D/ D/ (G/F/) | (G/A/) B G/ G/ F | D4|]
+[V: P3]  D2 B, B, | A, A, B, G, | D D B, B, | (A,/B,/) (C/A,/) G, (B,/G,/) | F,2 C/ C/ C/ B,/ | A, A, D3/ C/ | B,4 |z2 B, C | A, A, G, G, | ^F,2 G, G, | A, ^F, G, =E, | =F,2 A,2 | G,/ G,/ C B, D | ^C2 D/ D/ (E/F/) | E F E/ D/ C | B,4|]
+[V: P4]  D,2 (G,,/A,,/) (B,,/C,/) | (D,/=E,/) (^F,/A,/) G, G, | D, D, G, G, | D, D, G, C, | F,2 =E,/ C,/ F,/ G,/ | F, D, (D,/=E,/) ^F, | G,4 |z2 G, C, | D, ^F, G, =E, | D,2 G,, B,, | D,3/ C,/ B,, C, | =F,2 D,2 | =E,/ E,/ F, G, B, | A,2 G,/ F,/ (E,/D,/) | C, B,, E,/ E,/ G, | G,4|]
+

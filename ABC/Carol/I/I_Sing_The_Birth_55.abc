@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Sing The Birth Was Born Tonight
+Z: George C. Martin
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G/ | c E/ (F/G/) A/ | A G/ E E/ | F G/ (A/B/) c/ | d G/ e e/ | d e/ f e/ | (d e/) d d/ | d d/ B G/ | G c/ c e/ | (d3/ d e/) | (A3 | A3 | A/)zz e/ | e c/ (c/B/) c/ | c G/ A A/ | B c/ (d/e/) d/ | G G/ G c/ | d e/ f e/ | (d e/) d d/ | d d/ B G/ | G c/ c e/ | (d e/) (d3/ | d) e/ c d/ | (B A/) Bz/|]
+w: I sing the birth_ was born to- night, The Au- thor both_ of life and light: The an- gels so did sound_ it, The an- gels so did sound it, so did sound__ it;__ The like the rav-_ ish'd shep- herds said, Who saw the light_ and were a- fraid, Yet searched, and true they found_ it, Yet searched, and true they found it, True they found_ it,_ and true they found_ it.
+

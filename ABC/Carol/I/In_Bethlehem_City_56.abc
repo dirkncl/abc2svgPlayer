@@ -1,0 +1,45 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In Bethlehem City
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=105
+V: P1_1 name="Staff-1"
+V: P1_2
+%%MIDI program 1 19
+V: P2_1 name="Staff-2"
+V: P2_2
+%%MIDI program 2 19
+V: P3_1 name="Right Hand"
+V: P3_2
+%%MIDI program 3 0
+V: P4_1 name="Left Hand"
+V: P4_2
+%%MIDI program 4 0
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | | | | | | | | | | | |"^Chorus" | [CG] (G/A/) B | (A/G/) F F | (A/=B/) c [GB] | c2 A | (B/c/) [Fd] [DB] | [Cc] [Fc] (A/G/) | (F/G/) [EA] G | F2|]
+w: In Beth-_ le_ hem_ ci- ty, in Ju- de_ a it was, That Jo-_ seph_ and_ Ma- ry to-_ geth_ er did pass, All for to_ be tax-_ ed when_ thi-_ ther they came, For Cae-_ sar Au- gus tus com-_ mand_ ed the same. Then_ let_ us_ be___ mer-_ ry, cast____ sor-_ row a-____ way, Our_____ Sa-_ viour_ Christ__ Je-_ sus_ was__ born_ on_ this___ day._
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | | | | | | | | | | | |"^Chorus" | x1  E (D/E/) | F F (F/G/) | F (F/D/) x1  | (G/F/ E) (F/E/) | E x2  | x2  E | D x1  (F/E/) | F2|]
+w: In Beth-_ le_ hem_ ci- ty, in Ju- de_ a it was, That Jo-_ seph_ and_ Ma- ry to-_ geth_ er did pass, All for to_ be tax-_ ed when_ thi-_ ther they came, For Cae-_ sar Au- gus tus com-_ mand_ ed the same. Then_ let_ us_ be___ mer-_ ry, cast____ sor-_ row a-____ way, Our_____ Sa-_ viour_ Christ__ Je-_ sus_ was__ born_ on_ this___ day._
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | | | | | | | | | | | | | C [C,G,] [C,G,] | | [D,F,] [D,A,] (G,/F,/) | E, (C/B,/) [F,A,] | [B,,F,] B, F, | (F,/A,/) [A,,C] (C/B,/) | [D,A,] C [C,G,] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | | | | | | | | | | | | | (E,/D,/) x2  | | x2  G,, | C,2 x1  | x1  (B,,/C,/) D,/B,,/ | A,, x1  C, | x1  (A,,/B,,/) x1  ||]
+% Extracting voice 1 from part P3
+[V: P3_1]  | | | | | | | | | | | | | | | | [C2G2] (F/_E/) | | | | | [CG] (G/A/) B | (A/G/) F F | (A/=B/) c [GB] | c2 B | (B/c/) [Fd] [DB] | [Cc] [Fc] (A/G/) | (F/G/) [FA] G ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | | | | | | | | | | | | | | | | x2  C | | | | | x1  E (D/E/) | F F (F/G/) | F (F/D/) x1  | (G/F/ E) (F/E/) | D x2  | x2  E | D x1  (F/E/) ||]
+% Extracting voice 1 from part P4
+[V: P4_1]  | | | | | | | | | | | | | | | | | | | | | [G,C] [C,A,] [C,A,] | | [D,F,] [D,A,] (G,/F,/) | E, (C/B,/) [F,A,] | [B,,F,] B, F, | (F,/A,/) [A,,C] (C/B,/) | [D,A,] C [C,G,] ||]
+% Extracting voice 2 from part P4
+[V: P4_2]  | | | | | | | | | | | | | | | | | | | | | (E,/D,/) x2  | | x2  G,, | C,2 x1  | x1  B,,/C,/D,/B,,/ | A,, x1  C, | x1  (A,,/B,,/) x1  ||]
+

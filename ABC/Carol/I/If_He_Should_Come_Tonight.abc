@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: If He Should Come Tonight
+Z: Mrs. C. H. Morris
+Z: Sequenced By Douglas D. Anderson, Copyright 2006
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 40
+V: P2 name="Alto"
+%%MIDI program 2 41
+V: P3 name="Tenor"
+%%MIDI program 3 42
+V: P4 name="Bass"
+%%MIDI program 4 43
+K: Db
+[V: P1]  d3/4 e/4 | f3/ f/ g g | f d2 d3/4 c/4 | d3/ c/ d c | d3 d3/4 d/4 | e3/ e/ e e | d d2 d/ f/ | e3/ d/ c d | c3"^Chorus" [M: 12/8] zz/ | d/ d/ d/ d d/ d3/zz/ | f/ f/ f/ g g/ f3/ e d/ | c c/ c c/ g/ g g g/ | f f/ g g/ f3/zz/ | d/ d/ d/ d d/ d3/ A/ =G/ A/ | f/ f/ f/ f e/ d3/zz/ | f f/ g g/ f/ fzz/ | d d/ c c/ (d3/ d/)|]
+[V: P2]  A3/4 A/4 | A3/ A/ d d | d A2 F3/4 G/4 | F3/ G/ F A | A3 A3/4 A/4 | =A3/ A/ A A | F F2 F/ A/ | A3/ =G/ A B | E3 [M: 12/8] zz/ | F/ F/ F/ F G/ F3/zz/ | A/ A/ A/ B d/ d3/ A A/ | A A/ A A/ A/ A B c/ | d A/ B d/ d3/zz/ | F/ F/ F/ F G/ F3/zz/ | A/ A/ A/ =A A/ B3/zz/ | d _d/ c __B/ A/ Azz/ | A F/ A G/ (A3/ A)|]
+[V: P3]  F3/4 G/4 | A3/ d/ c B | A F2 D3/4 E/4 | F3/ E/ D E | F3 F3/4 F/4 | F3/ F/ F F | B B2 B/ d/ | c3/ B/ A =G | A3 [M: 12/8]  F/ =E/ F/ | (A3/ A) B/ A3/ A/ =G/ A/ | (d3/ d) B/ A3/ G F/ | E F/ G A/ c/ c B A/ | A d/ d B/ A3/ F/ =E/ F/ | (A3/ A) B/ A3/ A/ =G/ A/ | (F3/ F) F/ F3/ c B/ | A d/ d d/ d/ d D E/ | F A/ F E/ (F3/ F/)|]
+w: Read the times with keen dis- cern ing, Oh ye ser- vants of the Lord; See the signs of Christ's re- turn ing, As He prom- ised in His word. If He should come_ to- night, If He should come_ to- night, Would He find us watch- ing, wait- ing with our lamps all trimmed and bright? If He should come_ to- night, If He should come_ to- night, Would He find us watch- ing, wait- ing with our lamps all trimmed and bright?_
+[V: P4]  D3/4 D/4 | D3/ D/ G G | D D2 D3/4 A,/4 | D3/ A,/ B, A, | D3 D3/4 D/4 | C3/ C/ F F | F F2 F/ A/ | A3/ =G/ A B | E3 [M: 12/8] zz/ | D/ D/ D/ D D/ D3/zz/ | D/ D/ D/ G G/ D3/ D D/ | A, A,/ A, A,/ A,/ A, A, A,/ | D D/ G G/ D3/zz/ | D/ D/ D/ D D/ D3/zz/ | D/ D/ D/ C C/ B,3/zz/ | D D/ D D/ D/ Dzz/ | A, A,/ A, A,/ (D3/ D/)|]
+

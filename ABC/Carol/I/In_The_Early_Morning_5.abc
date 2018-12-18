@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In The Early Morning, Early
+Z: W. Borrow
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: All Rights Reserved
+L: 1/4
+M: 6/8
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B B/ (B/A/) B/ | c c/ e d/ | (B/c/) d/ d G/ | B A/ B3/ | D3/4 D/4 D/ G G/ | B B/ d d/ | d e/ d G/ | B A/ G3/ | D D/ (F/E/) D/ | B A/ (A/B/) G/ | D D/ (F/E/) D/ | G G/ A3/ | B B/ (c/B/) A/ | G F/ F E/ | G F/ (E/F/) G/ | B A/ G3/|]
+w: In the ear-_ ly mor- ning, ear- ly, Ere_ the dawn was e- ven nigh, Glo- ri a in ex- cel sis De- o, Glo- ry be to God on High. When the crown-_ like stars were lus-_ trous, When the dew_ was on the sod, Sang the an-_ gels to the shep- herds, Sang the chor-_ is ters of God.
+

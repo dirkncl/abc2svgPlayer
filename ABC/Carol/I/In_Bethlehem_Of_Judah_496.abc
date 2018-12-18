@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In Bethl'hem Of Judah
+Z: C. Simper
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B | d c B | B A G | G F E | D2 D | c c B | d B G | B A A | A2 (B/A/) | G G (d/c/) | B B (c/d/) | e G A | B2 B, | (E/^D/) (E/F/) (G/F/) | (G/A/) (B/c/) d | G G A | G2 (f/g/) | (a/^g/) a (A/B/) | (c/B/) c (c/d/) | (e/d/) (d/c/) (c/B/) | A2 d | d c B | d c B | B G A | G2|]
+w: In Bethl- 'hem of Ju- dah Christ Je- sus was born; And laid in a Man- ger all rude and for- lorn. Sing_ Car- ols! Sing_ Car- ols! And_ tell all the earth, The great_ In-_ car_ na_ tion_ and Mys- ti cal Birth. Sing_ Car-_ ols! Sing_ Car-_ ols! And_ tell_ all_ the_ earth, The great In- car na tion and Mys- ti cal Birth.
+

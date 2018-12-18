@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In The Fields With Their Flocks Abiding
+Z: John Farmer
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B/ c/ | d B/ A/ (G/ G/) A | (D3/ E/) D (G/ A/) | B B/ B/ c A | d3 (B/ c/) | d (B/ A/) G A/ A/ | (D3/ E/) D (G/ A/) | B c A A | G3 A/ A/ | B d/ d/ ^c B | (A3/ G/) F D | F F/ F/ G E | A3 A | B d/ d/ ^c B | (A3/ G/) F D | F F G E | A3"^Chorus" D | G G A A | (B3/ c/) d d | c c/ c/ B B | (A3 D) | G G/ G/ A A/ A/ | (B3/ c/) d c | B c A A | G3|]
+w: In the field with their flocks_ a- bid_ ing, They_ lay on the dew- y ground; And_ glim- 'ring_ un- der the star-_ light, The_ sheep lay white a- round; When the light of the Lord streamed o'er_ them, And lo! from the heaven a- bove, An an- gel leaned from the glo-_ ry, And sang his song of love. He sang, that first sweet Christ-_ mas, The song that shall nev- er cease._ "Glo- ry to God in the high-_ est, On earth good will and peace."
+

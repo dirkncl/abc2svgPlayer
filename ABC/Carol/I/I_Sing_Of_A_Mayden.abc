@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Sing Of A Mayden
+Z: Richard R. Terry
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=144
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  C | E G c | B E F | G (E D) | C2 E | G B c | d e d | c B c | d2 G | e e f | d B c | B G F | G2 F | E D E | C E G | c c =B | c2|]
+w: I sing of a may- den That is make-_ les, The King of all king- es To her son she ches. He came all so still- e Where his mo- ther was, As dew in Ap- ri le That fall'th on the grass.
+[V: P2]  C | C C E | E C C | C (C =B,) | C2 C | E D F | F G F | F D G | G2 G | G G F | F G G | G D C | D2 D | C =B, C | C C =B, | C D D | =E2|]
+[V: P3]  C, | C, E, A, | B, G, C, | E, (G, F,) | E,2 G, | C B, =A, | B, B, B, | =A, (G, G,/) A,/ | =B,2 B, | C C C | B, D E | D B, C | =B,2 G, | G, G, G, | G, G, F, | G, A, G, | G,2|]
+[V: P4]  C, | C, C, A,, | G,, C, A,, | G,, (G,, G,,) | C,2 C, | C, G, F, | B,, E, B,, | F, (G, E,) | G,,2 G, | C C A, | B, G, C, | G, G, A, | G,2 =B,, | C, G,, C, | E, C, D, | E, F, G, | C,2|]
+

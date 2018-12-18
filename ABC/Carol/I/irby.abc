@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Irby
+Z: Henry John Gauntlett, 1849
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=96
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Staff-2"
+%%MIDI program 2 0
+V: P3 name="Staff-3"
+%%MIDI program 3 0
+V: P4 name="Staff-4"
+%%MIDI program 4 0
+K: F
+[V: P1] z2 C E | F3/ F/ F/E/ F/G/ [K: F]  | G F F A [K: F]  | c3/ A/ A/G/ F/E/ [K: F]  | [M: 2/4]  F2 [K: F]  | C E [K: F]  | [M: 4/4]  F3/ F/ F/E/ F/G/ [K: F]  | G F F A [K: F]  | c3/ A/ A/G/ F/E/ [K: F]  | [M: 2/4]  F2 [K: F]  | d d [K: F]  | [M: 4/4]  c3/ F/ B B [K: F]  | A2 d d [K: F]  | c3/ A/ A/G/ F/E/ [K: F]  | F2z2|]
+[V: P2] z2 A, G, | F,3/ A,/ A,/G,/ A,/B,/ [K: F]  | B, A, A, F, [K: F]  | F,3/ C/ C/B,/ A,/G,/ [K: F]  | [M: 2/4]  A,2 [K: F]  | A, G, [K: F]  | [M: 4/4]  F,3/ A,/ F, F, [K: F]  | E, F, A, F, [K: F]  | F,3/ C/ C/B,/ A,/G,/ [K: F]  | [M: 2/4]  A,2 [K: F]  | B, B, [K: F]  | [M: 4/4]  A,/B,/ C/A,/ G, C [K: F]  | C2 B, B, [K: F]  | B,/G,/ A,/C/ C/B,/ A,/G,/ [K: F]  | A,2z2|]
+[V: P3] z2 C B, | C3/ C/ C C [K: F]  | E F C F [K: F]  | F3/ F/ D C [K: F]  | [M: 2/4]  C2 [K: F]  | C B, [K: F]  | [M: 4/4]  C3/ C/ =B, B, [K: F]  | C/B,/ A, C F [K: F]  | F3/ F/ D C [K: F]  | [M: 2/4]  C2 [K: F]  | F F [K: F]  | [M: 4/4]  F/E/ F/F/ F E [K: F]  | F2 D/E/ F/G/ [K: F]  | C/E/ F/C/ D C [K: F]  | C2z2|]
+[V: P4] z2 F,, G,, | A,,3/ F,,/ C, C, [K: F]  | C, F, F, D, [K: F]  | A,,3/ F,,/ B,, C, [K: F]  | [M: 2/4]  F,2 [K: F]  | F,, G,, [K: F]  | [M: 4/4]  A,,3/ F,,/ D, G,, [K: F]  | C, F, F, D, [K: F]  | A,,3/ F,,/ B,, C, [K: F]  | [M: 2/4]  F,2 [K: F]  | B,,/C,/ D,/E,/ [K: F]  | [M: 4/4]  F,/G,/ A,/F,/ C, C, [K: F]  | F,2 B,,/C,/ D,/E,/ [K: F]  | F,3/ F,/ B,, C, [K: F]  | F,,2z2|]
+

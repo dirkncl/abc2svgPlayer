@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Saw Three Ships
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Tuba"
+%%MIDI program 3 58
+K: F
+[V: P1]  A/ | A A/ A A/ | A G/ G G/ | G F/ F F/ | F E/ E A/ | B A/ B c/ | A G/ F A/ | d A/ F/ E/ D/ | ^C3/ D3/|]
+w: I saw three ships come sail- ing in, On Christ- mas day, on Christ- mas day, I saw three ships come sail- ing in, On Christ- mas day in the morn- ing.
+[V: P2]  F/ | F F/ F F/ | F E/ E E/ | E D/ D D/ | D ^C/ C D/ | D D/ G E/ | F E/ F A/ | d A/ F/ E/ D/ | ^C3/ D3/|]
+[V: P3]  F,/ | F, A,/ (D/C/) =B,/ | C C/ (C/G,/) A,/ | B, B,/ (B,/F,/) G,/ | A, A,/ (A,/G,/) F,/ | G, F,/ E, C,/ | F, B,/ A, A,/ | D A,/ F,/ E,/ D,/ | A,3/ D,3/|]
+

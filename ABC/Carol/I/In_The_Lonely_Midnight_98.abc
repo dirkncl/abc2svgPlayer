@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In The Lonely Midnight
+Z: A. P. Howard
+Z: Copyright: Douglas D. Anderson, 2005
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2 name="Right Hand"
+%%MIDI program 2 0
+V: P3_1 name="Left Hand"
+V: P3_2
+%%MIDI program 3 0
+K: Eb
+[V: P1]  B B B c | c2 B2 | A G F =E | (F2 B2) | B B B c | c2 B2 | B =A A d | d4 | e d c G | c2 c2 | d c F c | B4 | G G A B | c2 e2 | e G F B | E4|]
+w: In the lone- ly mid- night on the win- try hill,_ Shep- herds heard the an- gels sing- ing, "Peace, good will." Lis- ten, O ye wea- ry, to the an- gels' song, Un- to you the ti- dings of great joy be- long.
+[V: P2]  [EGB] [EGB] [EGB] [EGc] | [E2G2c2] [E2G2B2] | [DA] [DG] [DF] [^C=E] | [(B,2(D2(F2] [D2)F2)B2)] | [EGB] [EGB] [EGB] [EGc] | [E2G2c2] [E2G2B2] | [EGB] [D^F=A] [DFA] [FAd] | [(G2(B2(d2] [F2)_A2)d2)] | [EGBe] [EGBd] [CEGc] [CEG] | [D2A2c2] [D2A2c2] | [DAd] [DAc] [B,DF] [DFAc] | [B,4E4G4B4] | [_DEG] [DEG] [DEA] [DEB] | [C2E2c2] [E2^F2c2e2] | [EGBe] [CEG] [CEF] [B,DFB] | [G,4B,4E4]|]
+% Extracting voice 1 from part P3
+[V: P3_1]  | B,2 B,2 | | [B,,2A,2] A,2 | | B,2 B,2 | [D,,D,] D, [D,C] [D,C] | | | | | | | A,2 [=A,,2=A,2] | ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | E, B,, E, B,, | | x2  F, B,, | | E, B,, E, B,, | x1  D, x2  | | | | | | | A,2 x2  | ||]
+

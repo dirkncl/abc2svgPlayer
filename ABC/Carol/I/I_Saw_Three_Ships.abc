@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Saw Three Ships
+Z: Traditional English
+Z: © 1999, Richard W. Adams. May be freely reproduced for Christian worship,
+Z: as long as this notice is on each copy.
+L: 1/4
+M: 3/4
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Staff-1"
+%%MIDI program 2 91
+K: G
+[V: P1]  [(B,/(D/] [DG] [D/G/] [DA] | [G/B/] [Gd] [G/B/] [GA] | [A/c/] [GB] [D/G/] [DG] | [G/B/] [DA] [B,/D/] [B,)D)] | [(B,/(D/] [DG] [D/G/] [DA] | [G/B/] [Gd] [G/B/] [DA] | [A/c/] [GB] [D/G/] [D/G/] [G/A/] | [G/B/] [D3/A3/] [D-G-] | [D3G3]|]
+[V: P2]  [(D,/(G,/] [G,B,] [G,/B,/] [A,B,] | [G,/B,/] [G,D] [G,/D/] [A,D] | [F,/A,/] [G,B,] [G,/B,/] [G,B,] | [B,/D/] [D,B,] [D,/G,/] [G,,)D,)] | [(D,/(G,/] [G,B,] [G,/B,/] [A,B,] | [G,/B,/] [G,D] [G,/D/] [D,A,] | [C/D/] [G,D] [G,/B,/] [G,/B,/] [A,/D/] | [G,/D/] [D,3/A,3/] [G,,-G,-B,-] | [G,,3G,3B,3]|]
+

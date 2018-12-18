@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: It Was Candlemas Day
+Z: Unknown
+Z: Copyright © 2006 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 74
+V: P2 name="Alto"
+%%MIDI program 2 74
+K: C
+[V: P1] !tenuto! A A | (A c) (B A) |!tenuto! G2 (c B) |!tenuto! A!tenuto! A!tenuto! D2 |!tenuto! E3!tenuto! B |!tenuto! c2!tenuto! e!tenuto! e | d2 (c B) | A c (B A) | B3!tenuto! B |!tenuto! c2!tenuto! e2 |!tenuto! d2 (c B) | (A c) (B A) | E2!tenuto! c!tenuto! B | (A ^G)!tenuto! A!tenuto! D | E c B3/ A/ | A2|]
+[V: P2]  a g | f2 d2 | e2 A B | c A f2 | e f g e | a2 c c | d2 e2 | f2 d2 | g2 e2 | a2 A2 | B2 e2 | f e d2 | e4 | c B A B | c2 d2 | c2|]
+

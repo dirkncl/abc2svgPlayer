@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In A Little Stable
+Z: Gockel / Schroeter
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 56
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: D
+[V: P1]  A F A F | G2 E2 | E F G A | F4 | A F A d | B2 G2 | A G F E | D4|]
+w: In a lit- tle sta- ble Far a- cross the sea Was a lit- tle Ba- by Just like you and me.
+[V: P2]  D4 | C4 | C D E F | D4 | D4 | D4 | F E D C | D4|]
+[V: P3]  F, A, F, A, | G, A,z A, |z2 A,2 |z A, B, A, | F, A, F,2 | G,4 |z2 A,2 | [D,F,] [E,G,] [F,2A,2]|]
+[V: P4]  D,4 | E,2 A,,2 | A,,4 | D,4 | D,4 | G,,2 B,,2 | A,,4 | D,4|]
+

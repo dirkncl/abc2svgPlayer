@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In Sorrow And In Want
+Z: J. F. Bridge, Mus. Doc
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  E | E3/ F/ A3/4 =G/4 | (G E) E | G3/ G/ B3/4 A/4 | G2 E | E3/ F/ A/ G/ | G/ E/ c E | ^F/ G/ A B | G2z |zz/ B/ c/ A/ | B3/4 A/4 Gz |zz/ B/ c/ A/ | d3/4 c/4 B G | A/ G/ c G | G/ F/ =B A | G3/ A/ B/ c/ | d2 G | [M: 9/8]  (c3/ B) A/ B G/ | A3 A3/ | (B3/ A) G/ A F/ | G3 E3/ | F G/ A B/ c d/ | e3 G3/ | A B/ c3/ (e/d/) | c3|]
+w: In sor- row and in want,_ A- mid the win- ter wild, The Mo- ther Maid, in Beth- lehem's Inn, Brought forth her first- born Child. Be glad, ye hum- ble souls, Sing songs up- on your way; With heart and voice re- joice, re- joice, Your Lord is born to- day! Your Lord_ is born to- day To- day_ in love for you, The choirs of Heaven are sound- ing forth, Their joy- ous Hal- le_ lu!
+

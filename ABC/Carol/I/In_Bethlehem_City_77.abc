@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In Bethlem City, On Christmas-Day Morn
+Z: Old English or Irish Melody
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  G | B G F E E (E/ F/) | G E F E2 (G/ A/) | B e f e B d | c A A B2 (G/ A/) | B e f e B d | c A A B2 (G/ F/) | E B c d c B | (B/ A/) G A | E2|]
+w: In Beth- le hem ci- ty, on_ Christ- mas day morn Lord_ in a bare ca- vern thou would- est be born; And_ thou, who for throne has the hea- ven on high, Wast_ fain in a ship- pon 'mid ox-_ en to lie.
+

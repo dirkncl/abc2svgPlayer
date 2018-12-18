@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In Dulci Jubilo
+Z: 14th Century, Harm. by de Pearsall
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=200
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  F | F2 F | A2 B | (c2 d | c2) c | F2 F | A2 B | (c2 d | c3) | c2 d | c2 B | A3 | F2 F | G2 G | A2 G | (F2 G | A2) A | c2 d | c2 B | A3 | F2 F | G2 G | A2 G | (F2 G | A3) | D2 D | E2 E | (F3 c3) | A2 B | G2 G | F2|]
+w: In dul- ci iu- bi lo__ Now sing we all i- o__ He, my love, my won- der, Li'th in pre- se pi o,__ Like a- ny sun- beam, yon- der, Ma tris in gre- mi o;__ Al- pha es et O,_ Al- pha es et O.
+[V: P2]  C | D2 C | (F3/ E/) D | (C2 F | E2) F | D2 C | (F3/ E/) D | (C2 F | E3) | F2 F | E2 G | C3 | D2 F | F2 F | F2 E | (F2 F | F2) F | F2 F | E2 G | C3 | F2 F | F2 F | F2 E | (F2 F | F3) | D2 D | D2 ^C | (D3 | E3) | F2 F F2 E | C2|]
+[V: P3]  A, | B,2 A, | C2 D | (A,2 B, | G,2) A, | B,2 A, | C2 D | (A,2 B, | G,3) | C2 B, | A,2 E, | F,3 | A,2 A, | D2 D | (C3/ D/) B, | (A,2 B, | C2) D | C2 B, | G,2 E, | F,3 | A,2 A, | D2 D | (C3/ D/) B, | (A,2 B, | C3) | A,2 A, | G,2 G, | (A,2 B, | G,3) | F,2 B, | D2 C | A,2|]
+[V: P4]  F, | F,2 F, | F,2 F, | (F,3 | C,2) F, | F,2 F, | F,2 F, | (F,3 | C,3) | A,,2 B,, | C,2 C, | F,3 | D,2 D, | B,,2 B,, | C,2 C, | (F,3 | F,2) D, | A,,2 B,, | C,2 C, | F,3 | D,2 D, | B,,2 B,, | C,2 C, | (F,3 | F,3) | F,2 F, | E,2 E, | (D,3 | C,3) | F,2 D, | B,,2 C, | F,,2|]
+

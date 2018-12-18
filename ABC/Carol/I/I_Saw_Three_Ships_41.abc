@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Saw Three Ships
+Z: English Traditional From The English Carol Book
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  B, | E F G A | c B G3/ G/ | B A F3/ F/ | A G E B, | E F G A | c B G e | d B A F/ F/ | E2 Ez | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z2z|]
+w: I saw three ships come sail- ing by, Come sail- ing by, come sail- ing by. I saw three ships come sail- ing by, On Christ- mas Day in the morn- ing.
+[V: P2]  B, | E B, E F | A G E3/ E/ | G F D3/ D/ | F E E B, | G, B, E F | A G E E | F D E F/ F/ | B,2 B,z | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z2z|]
+[V: P3] z | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z2z B,, | E, F, G, A, | C B, G,3/ A,/ | B, A, F,3/ F,/ | A, G, E, B,, | E, F, G, A, | C B, G, =A, | B, B, E, B, | G,2 G,|]
+w: And who should be in those three ships, In those three ships, in those three ships, And who should be in those three ships, But Jo- seph and his La- dy!
+[V: P4] z | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z2z B,, | E, B,, E, F, | A, G, E,3/ E,/ | G, F, D,3/ D,/ | F, E, E, B,, | G,, B,, E, F, | A, G, E, C, | B,, B,, C, D, | E,2 E,|]
+

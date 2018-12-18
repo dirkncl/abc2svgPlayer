@@ -1,0 +1,30 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In a Manger Laid So Lowly
+Z: William Batchelder Bradbury, 1867
+Z: Public domain
+L: 1/4
+M: 3/4
+Q: 1/4=112
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="In a Manger Laid So Lowl"
+V: P2_2
+%%MIDI program 2 91
+K: Ab
+% Extracting voice 1 from part P1
+[V: P1_1]  C/ [B,/D/] | | | | | | | [E/e/] (d/4B/4) [EA] [DG] |||"^Spirited" [M: 6/8]  E F/ G A/ | B3/ B3/ | |||"^Refrain" | | | |!ff! | [E3/A3/] B3/ ||]
+w: In a__ man-_ ger_ laid_ so_ low-_ ly,_ Came_ the_ Prince_ of_ Peace_ to_ earth;_ While_ a_ choir_ of_ an-_ gels_ ho-_ ly_ Sang_ to_ cel-_ e_ brate_ His__ birth._ “Glo- ry in the____ high- est,”__ Sang_ the_ glad_ an-_ gel_ ic_ strain;_ “Glo-_ ry_ in_ the_ high-_ est,”_ “Peace_ on_ earth,_ good_ will_ to_ men,”_ “Peace_ on_ earth,_ good_ will_ to__ men.”_
+% Extracting voice 2 from part P1
+[V: P1_2]  A, x0  | | | | | | | x0  E/ x2  |||"^Spirited" [M: 6/8]  E F/ G A/ | B3/ B3/ | |||"^Refrain" | | | |!ff! | x1  (E D/) ||]
+w: In a__ man-_ ger_ laid_ so_ low-_ ly,_ Came_ the_ Prince_ of_ Peace_ to_ earth;_ While_ a_ choir_ of_ an-_ gels_ ho-_ ly_ Sang_ to_ cel-_ e_ brate_ His__ birth._ “Glo- ry in the____ high- est,”__ Sang_ the_ glad_ an-_ gel_ ic_ strain;_ “Glo-_ ry_ in_ the_ high-_ est,”_ “Peace_ on_ earth,_ good_ will_ to_ men,”_ “Peace_ on_ earth,_ good_ will_ to__ men.”_
+% Extracting voice 1 from part P2
+[V: P2_1]  | | E, E, [E,/G,/] [E,/A,/] | | | | E, E, [E,/G,/] A,/ | ||| [M: 6/8]  E, F,/ G, A,/ | B,3/ B,3/ | ||| | | |!ff! | A, A,/ [D,F,] [D,/D/] | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | E, E, | | | | E, E, A,/ | ||| [M: 6/8]  (E, F,/ G, A,/ | B,3/ B,3/ | ||| | | |!ff! | (A, A,/ | ||]
+

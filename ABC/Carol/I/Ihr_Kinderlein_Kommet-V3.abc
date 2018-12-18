@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ihr Kinderlein, Kommet
+Z: Johann Abraham Peter Schulz (1840)
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  B | B2 G B | B2 G B | A2 F A | G2z B | B2 G B | B2 G B | A2 F A | G2z G | F2 F F | A2 A A | G2 G G | c2z c | B2 B B | e2 B G | A2 F F | E2z|]
+w: Oh, come, lit- tle child- ren, oh, come, one and all, To Beth- le hem's sta- ble, in Beth- le hem's stall. And see with re- joic ing this glo- ri ous sight, Our Fa- ther in hea- ven has sent us this night.
+[V: P2]  E | E2 E E | E2 E E | E2 D D | E2z E | E2 E E | E2 E E | E2 D D | E2z E | D2 D D | F2 E D | E2 E E | E2z E | E2 E E | E2 E E | F2 D D | E2z|]
+[V: P3]  G, | G,2 B, G, | G,2 B, G, | A,2 B, B, | B,2z G, | G,2 B, G, | G,2 B, G, | A,2 B, B, | B,2z B, | B,2 B, B, | C2 C B, | B,2 B, B, | A,2z A, | G,2 G, G, | B,2 G, C | C2 B, A, | G,2z|]
+[V: P4]  E, | E,2 E, E, | E,2 E, E, | F,2 B,, B,, | E,2z E, | E,2 E, E, | E,2 E, E, | F,2 B,, B,, | E,2z E, | B,,2 B,, B,, | F,2 F, F, | E,2 G, E, | A,,2z A, | E,2 E, E, | G,2 E, C, | A,,2 B,, B,, | E,2z|]
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: On Christmas Day In The Morning
+Z: English Traditional From William Henry Husk
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: A
+[V: P1]  E/ | A A/ B c/ | e c/ B d/ | c A/ A c/ | B G/ E E/ | A A/ B c/ | e c/ B d/ | c A/ A/ B/ c/ | B3/ A|]
+w: I saw three ships come sail- ing in, On Christ- mas day, on Christ- mas day, I saw three ships come sail- ing in, On Christ- mas day in the morn- ing.
+[V: P2]  E/ | E E/ G G/ | A A/ G G/ | A A/ ^D E/ | E E/ E E/ | E E/ G G/ | A A/ G G/ | A A/ A/ A/ A/ | B3/ A|]
+[V: P3]  E,/ | C C/ D D/ | C C/ D D/ | E E/ A, A,/ | G, G,/ =D D/ | C C/ D D/ | C C/ D D/ | E C/ C/ D/ E/ | D3/ C|]
+[V: P4]  [A,,/C,/] | A, A,/ A, A,/ | A, A,/ A, A,/ | A, A,/ F, F,/ | E, E,/ G, G,/ | A, A,/ A, A,/ | A, A,/ A, A,/ | A, A,/ A,/ A,/ A,/ | E,3/ A,|]
+

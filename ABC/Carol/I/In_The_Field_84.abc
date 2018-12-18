@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In The Fields With Their Flocks Abiding
+Z: Mr. A. H. Brown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=540
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 19
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | | | | | | | |"^Refrain" | [F2A2] A [F2A2] [EA] | (A2 c) [E2G2] [EA] | | | | d2 [E2c2] [CB] | (A G) [DF] [F2A2] [EG] ||]
+w: In the field with their flocks_ a- bid_ ing, They lay on the dew- y ground;_ And glim-_ 'ring un- der the star-_ light, The sheep_ lay white a- round;_ When the light of the Lord streamed o'er_ them, And lo! from the heaven a- bove,_ An_ an- gel leaned from the glo-_ ry, And sang his song_ of love._ He_ sang,_ that first_ sweet__ Christ-_ mas,_ The__ song_ that_ shall_ nev-_ er_ cease.___ "Glo-_ ry_ to_ God_ in_ the_ high- est,_ On__ earth_ good_ will_ and__ peace."_
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | | | | | | | |"^Refrain" | x2  G x3  | F3 x3  | | | | B2 x3  | C2 x4  ||]
+w: In the field with their flocks_ a- bid_ ing, They lay on the dew- y ground;_ And glim-_ 'ring un- der the star-_ light, The sheep_ lay white a- round;_ When the light of the Lord streamed o'er_ them, And lo! from the heaven a- bove,_ An_ an- gel leaned from the glo-_ ry, And sang his song_ of love._ He_ sang,_ that first_ sweet__ Christ-_ mas,_ The__ song_ that_ shall_ nev-_ er_ cease.___ "Glo-_ ry_ to_ God_ in_ the_ high- est,_ On__ earth_ good_ will_ and__ peace."_
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Heard The Bells On Christmas Day
+Z: John Baptiste Calkin, 1872
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=105
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  C | E3/ ^D/ E E | F3/ E/ F ^F | G c B A | A3/ G/ G G | G3/ F/ E F | E3/ D/ C D | E F G A | B,3/ D/ C|]
+w: I heard the bells on Christ- mas day Their old fa- mil iar ca- rols play, And wild and sweet the words re- peat Of peace on earth, good will to men.
+

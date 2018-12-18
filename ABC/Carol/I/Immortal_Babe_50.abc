@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Immortal Babe
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=360
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G2 | G3 F A2 G2 | c3 c B2 A2 | G2 A2 B2 d2 | d2 ^c2 d2 G2 | G2 F2 A3 G | c2 c2 c2 B2 | e2 d2 c3 A | A2 E2 B2 |"^Chorus" B2 B2 d2 d2 | G2 G2 B2 B2 | c2 c2 (c B) (A G) | d3 c B2|]
+w: Im- mor tal Babe, who this dear day Didst change thine Hea- ven for our clay, And didst with flesh thy god- head veil, E- ter nal Son of God, all hail! Hail! all hail! all hail! all hail! E- ter nal Son_ of_ God, all hail!
+

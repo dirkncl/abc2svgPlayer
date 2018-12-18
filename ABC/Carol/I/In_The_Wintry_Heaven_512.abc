@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In The Wintry Heaven
+Z: R. F. Smith
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G G/ (A/B/) c/ | B3/ G3/ | E E/ F G/ | E3 | B B/ (c/ d/) e/ | d3/ B3/ | c B/ (=A/ B/) c/ | B3/z3/ | F =E/ (F/ G/) A/ | G3/ B3/ | F =E/ (F/ G/) =A/ | B3 | B2 =A/ (B/ c/) d/ | e3/ B3/ | A G/ F G/ | E3 | [M: 4/4] "^Chorus" Gz/ G/ A c | B2 G2 | E E/z/ F F | G3z | B3/ B/ c d | e2 B2 | A G F F | E3|]
+w: In the win-_ try hea- ven, Shines a won- drous Star; In the East_ the wise men Watched it from_ a- far; Ask- ing, What_ this lus- tre So in- tense_ ly bright! Answer- ing, Christ_ from Glo- ry Comes to earth to- night! Hail the star- light shin- ing Gen- tiles, hail its ray! On- ward it is lead- ing To the per- fect day.
+

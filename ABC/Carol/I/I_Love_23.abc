@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Love To Hear Sweet Voices Sing
+Z: R.R. Chope / Mr. Herbert Stephen Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F | B d c A | (c/ B/) (A/ G/) F B | d e d c | B3 F | d (d3/4 c/4) B d | e c d3/ d/ | d (c/ B/) A G | F3 F | (G/ F/) (G/ A/) B3/ B/ | (c/ B/) (c/ d/) e e | d e d c | B3|]
+w: I love to hear sweet voi-_ ces_ sing, That Day of all the best,, When ear- liest_ in the morn they bring The news of_ Christ- mas blest, And far_ a-_ way old e-_ choes_ ring, As bid- ding me to rest!
+

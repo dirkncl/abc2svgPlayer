@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Saw Three Ships Come Sailing In
+Z: English Traditional From Edward Rimbault
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  C/ | F F/ F d/ | c B/ A F/ | (G/A/) B/ A F/ | (G/A/) B/ A C/ | F F/ F d/ | c B/ A c/ | (d/c/) B/ A/ G/ F/ | (G3/ A)|]
+w: I saw three ships come sail- ing in, On Christ-_ mas day, on Christ-_ mas day, I saw three ships come sail- ing in, On Christ-_ mas day in the morn-_
+[V: P2]  C/ | C D/ C F/ | (E3/ F) F/ | F E/ F F/ | F E/ F C/ | C D/ C F/ | (E3/ F) F/ | F3/ F C/ | (C E/ [C)F)]|]
+[V: P3] z/ | F, F,/ F, B,/ | (G,3/ F,)z/ | (G,3/ F,)z/ | (G,3/ F,)z/ | F, F,/ F, B,/ | (G,3/ F,) F,/ | F,3/ F, A,,/ | (C,3/ F,,)|]
+[V: P4] z/ | A,, B,,/ A,, B,,/ | (C,3/ F,)z/ | (C,3/ F,)z/ | (C,3/ F,)z/ | A,, B,,/ A,, B,,/ | (C,3/ D,) A,,/ | (B,,/A,,/G,,/) F,, A,,/ | (C,3/ F,,)|]
+

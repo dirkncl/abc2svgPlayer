@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Saw Three Ships
+Z: English Traditional From The English Carol Book
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1] "^Verse 1" E/ | A A/ B c/ | e c/ B d/ | c A/ A c/ | B G/ E E/ | A A/ B c/ | e c/ B d/ | c A/ A/ B/ c/ | B3/ A"^Verse 2" E/ | A A/ B c/ | e c/ B d/ | c A/ A c/ | B G/ E E/ | A A/ B c/ | e c/ B d/ | c A/ A/ B/ c/ | B3/ A|]
+w: I saw three ships come sail- ing in, On Christ- mas day, on Christ- mas day, I saw three ships come sail- ing in, On Christ- mas day in the morn- ing. And what was in those ships all three? On Christ- mas day, on Christ- mas day, And what was in those ships all three? On Christ- mas day in the morn- ing.
+[V: P2] z/ | (A3 | A3/) G A/ | A3/ E F/ | G3/ E3/ | A3 | (G3/ G) A/ | A3 | G3/ A E/ | E F/ G A/ | B A/ G A/ | A E/ E F/ | G E/ E E/ | C C/ E A/ | G G/ G F/ | E E/ E/ E/ A/ | G3/ A|]
+[V: P3] z/ | C3/ D (E/ | E3/ E) F/ | E3/ C A,/ | B,3 | C3/ D (E/ | E3/ E) F/ | E3/ (C/B,/A,/) | B,3/ C E/ | C C/ B, A,/ | G, A,/ B, F/ | E C/ C A,/ | B, C/ (D/C/) B,/ | A, C/ B, A,/ | C E/ B, A,/ | E C/ C/ B,/ A,/ | E3/ C|]
+[V: P4] z/ | A,3 | C A,/ E D/ | A,3 | (E,3/ E,) G,/ | A,3 | C3/ E D/ | A,3 | E,3/ A, E,/ | A, A,/ G, F,/ | E, A,/ E, D,/ | A, A,/ A, A,/ | E, E,/ E, G,/ | A, A,/ G, F,/ | C, C,/ E, F,/ | A, A,/ A,/ A,/ A,/ | E,3/ A,|]
+

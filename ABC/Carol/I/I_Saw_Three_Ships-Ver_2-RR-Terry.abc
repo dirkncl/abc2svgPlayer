@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Saw Three Ships
+Z: English Traditional, 2nd Version From RR Terry
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=105
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  F/ | F F/ F d/ | d c/ B F/ | (G/A/) B/ A F/ | (G/A/) B/ A F/ | F F/ F d/ | c B/ A c/ | (d/c/) B/ A/ G/ F/ | G3/ A|]
+w: I saw three ships come sail- ing in, On Christ-_ mas day, on Christ-_ mas day, I saw three ships come sail- ing in, On Christ-_ mas day in the morn- ing.
+[V: P2]  C/ | C F/ F F/ | A G/ F F/ | E G/ F F/ | E E/ F F/ | F F/ F F/ | G E/ F F/ | F F/ F/ F/ F/ | (F E/) F|]
+[V: P3]  A,/ | A, B,/ C D/ | (F/D/) E/ F C/ | C C/ C F/ | C C/ C C/ | (D3/4C/4) B,/ (A,3/4G,/4) A,/ | G, C/ C F/ | (F/E/) D/ C/ B,/ A,/ | (G, C/) C|]
+[V: P4]  F,/ | F, G,/ A, B,/ | C C,/ F, A,,/ | C, E,/ F, A,/ | C C,/ F, A,/ | (B,3/4A,/4) G,/ (F,3/4E,/4) D,/ | (E,3/4D,/4) C,/ (F,3/4G,/4) A,/ | B, B,,/ C,/ C,/ C,/ | C,3/ F,|]
+

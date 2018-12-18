@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Sing The Birth Was Born Tonight
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  G/ | G ^F/ G ^A/ | B c/ d d/ | e e/ d d/ | c B/ A d/ | d d/ (d/c/) =B/ | A3/ G G/ | G B/ =e d/ | d ^c/ c A/ | A A/ d c/ | c B/ B B/ | B B/ (B/A/) B/ | f3/ d B/ | (B3/4A/4) (B/4c/4) | (d3/4c/4) (B/4A/4) | A3/ G|]
+w: I sing the birth was born to- night, The Au- thor both of life and light: The an- gels so_ did sound it; And like the ra- vished shep- herds said, Who saw the light and were a- fraid, Yet searched, and true_ they found it, Yet searched,_ and_ true_ they_ found it.
+

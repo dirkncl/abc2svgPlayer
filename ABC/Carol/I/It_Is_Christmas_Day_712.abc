@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: It Is Christmas Day
+Z: Unknown
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A3/4 B/4 | c F F F3/4 G/4 | F E2 G3/4 A/4 | B E E D3/4 D/4 | F3 A3/4 B/4 | c F F F3/4 G/4 | F E2 G3/4 G/4 | B G D E F3 G3/4 G/4 | B B d c3/4 B/4 | A c2 B3/4 A/4 | G G3/4 G/4 c B | A3 A3/4 A/4 | c F F F3/4 F/4 | F E2 G3/4 A/4 | B G D E | F3|]
+w: It is Christ- mas Day by the ri- ver, It Is Christ- mas Day by the bay; And the soft- winged snows, they are fall- ing On the o- cean far a- way. From the hand of God they are fall- ing, Snow- y doves on this Christ- mas Day, On the hav- ened waves of the riv- er On the o- cean far a- way.
+

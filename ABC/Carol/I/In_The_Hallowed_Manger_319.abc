@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In The Hallowed Manger
+Z: Thomas Adams
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=122
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  E E/ (D/C/) D/ | E3/ G3/ | E E/ (D/C/) D/ | E3 | G G/ (E/^F/) G/ | G3/ D3/ | B B/ (A/G/) A/ | B3 | c c/ (A/G/) A/ | c3/ G3/ | A A/ (A/G/) F/ | (E3/ D3/) | (G/ A/) G/ (B/ A/) G/4 G/4 | c3/ ^F3/ | G G/ (A/G/) d/ | c3 | [M: 4/4] "^Chorus" G A3/4 A/4 c2 | c/ c/4 c/4 c/ d/ e3/ e/ | (d/G/) (A/G/) B A | G3 G | c (d/e/) c (B/A/) | G3/4 G/4 A/ A/ D3/ F/ | E A G (E/C/) | E2 D2 | C4|]
+w: In the hal-_ lowed man- ger Sleeps the Ho-_ ly Child, Love and light_ shine from Him, Though the win-_ ter's wild: Earth- storms yet_ may ga- ther, Loom- ing large_ and loud,_ Time_ has touch'd_ the E- ter nal, Light is in_ the cloud. Glo- ry to God, hark! how the wel- kin rings, And night_ is_ woo'd to mirth: High min- strels_ ho- ver_ on a- dor ing wings, And breath God's peace, God's_ peace, on earth.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In The Bleak Midwinter
+Z: Thomas B. Strong
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  z4 c3/ B/ | (A2 G2) C2 | E2 E4 | A3/ G/ E2 D2 | E4 c3/ B/ | (A2 G2) C2 | E2 E4 | A3/ G/ E2 D2 | E6 | F3/ F/ E2 E2 | (D2 C2) D2 | E6 | (G2 F2) D2 | E4 c3/ B/ | (A2 G E) (D C) | E2 E4 | E4 D2 | E6|]
+w: In the bleak_ mid- win ter, frost- y wind made moan, Earth stood hard_ as i- ron, wa- ter like a stone; Snow had fal- len, snow_ on snow, snow_ on snow, In the bleak__ mid-_ win ter, long a- go.
+

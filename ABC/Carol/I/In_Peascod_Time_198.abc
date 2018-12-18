@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: In Peas-cod time
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="Staff-1"
+%%MIDI program 2 0
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | [(E/(B/] G ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | x0  A/) G/ A,3/ D3/ F/ ||]
+[V: P2] z/ | (G,3 | G,3/ G,) ^G,/ | A, D,/ E,3/ | A,, E,/ (A,3/ | A,) G,/ ^F,3/ | G, D,/ E, D,/ | C,3/ D,3/ | (G,,3/ G,,)|]
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I Heard The Bells On Christmas Day
+Z: A. Herbert Brewer
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: D
+[V: P1]  d | c A B F | G A D E | F B A ^G | A d c B | A B c d | e c A A | d B G B | c A F B | (A d e) A | d3|]
+w: I heard the bells on Christ- mas day Their old fa- mil iar ca- rols play, And wild and sweet the words re- peat Of peace on earth, good will to men, good will__ to men.
+[V: P2]  F | E D D D | D C D C | D F F ^E | F (^G/F/) ^E (F/G/) | A A A F | E G F E | D F E G | G (F/E/) D D | (D F E) E | F3|]
+[V: P3]  A, | A, A, D (D/C/) | B, (A,/G,/) F, A, | A, D C C | C (B,/A,/) ^G, C | C D E A, | A, E C C | A, D B, D | C C D B, | (D2 B,) C | D3|]
+[V: P4]  D, | A, F, G, D, | E, A,, B,, A,, | D, B,, C, C, | F, B,, C, (^D,/^E,/) | F, =F, E, D, | C, A,, A, G, | F, D, E, E, | A,, A,, B,, G, | (F, B, G,) A, | D,3|]
+

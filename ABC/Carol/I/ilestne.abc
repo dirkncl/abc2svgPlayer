@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Il Est Ne
+Z: Traditional French Carol
+Z: MIDI arrangement Copyright © 1999 by Diane
+Z: All Rights Reserved
+L: 1/4
+M: 2/4
+Q: 1/4=86
+V: P1 name="Violino I."
+%%MIDI program 1 12
+V: P2 name="Violino II."
+%%MIDI program 2 46
+V: P3 name="Viola."
+%%MIDI program 3 114
+V: P4 name="Violoncello."
+%%MIDI program 4 92
+K: G
+[V: P1]  D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | A/G/ A/4F/4D/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G | B/c/ d/c/4B/4 | c/e/ d | B/c/ d/4d/4e/4d/4 | c/B/ B/A/ | B/c/ d/c/4B/4 | c/e/ d | B/c/ d/e/4d/4 | c/B/ B/A/ | D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | A/G/ A/4F/4D/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G | B/c/ d/c/4B/4 | c/e/ d | B/c/ d/4d/4e/4d/4 | c/B/ B/A/ | B/c/ d/c/4B/4 | c/e/ d | B/c/ d/e/4d/4 | c/B/ B/A/ | D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | A/G/ A/4F/4D/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G | B/c/ d/c/4B/4 | c/e/ d | B/c/ d/4d/4e/4d/4 | c/B/ B/A/ | B/c/ d/c/4B/4 | c/e/ d | B/c/ d/e/4d/4 | c/B/ B/A/ | D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | A/G/ A/4F/4D/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G | B/c/ d/c/4B/4 | c/e/ d | B/c/ d/4d/4e/4d/4 | c/B/ B/A/ | B/c/ d/c/4B/4 | c/e/ d | B/c/ d/e/4d/4 | c/B/ B/A/ | D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | A/G/ A/4F/4D/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G- | Gz|]
+[V: P2]  D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | E/E/ D/C/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G | D B,/D/ | E/F/ G/4D/4B,/ | D B,/D/ | E/G/ G/F/ | D B,/D/ | E/F/ G/4D/4B,/ | D B,/D/ | E/G/ G/F/ | D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | E/E/ D/C/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G | D B,/D/ | E/F/ G/4D/4B,/ | D B,/D/ | E/G/ G/F/ | D B,/D/ | E/F/ G/4D/4B,/ | D B,/D/ | E/G/ G/F/ | D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | E/E/ D/C/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G | D B,/D/ | E/F/ G/4D/4B,/ | D B,/D/ | E/G/ G/F/ | D B,/D/ | E/F/ G/4D/4B,/ | D B,/D/ | E/G/ G/F/ | D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | E/E/ D/C/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G | D B,/D/ | E/F/ G/4D/4B,/ | D B,/D/ | E/G/ G/F/ | D B,/D/ | E/F/ G/4D/4B,/ | D B,/D/ | E/G/ G/F/ | D/G/ G/B/4G/4 | D/G/ G | G/G/4A/4 B/c/4B/4 | E/E/ D/C/ | D/G/ G/B/4G/4 | D/G/ G | G/A/ B/c/4B/4 | A/d/ G- | Gz|]
+[V: P3]  B, A,/C/ | B, A,/C/ | B, G, | C,/^C,/ D, | B, A,/C/ | B, A,/C/ | B, G, | E,/F,/ G, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | B, A,/C/ | B, A,/C/ | B, G, | C,/^C,/ D, | B, A,/C/ | B, A,/C/ | B, G, | E,/F,/ G, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | B, A,/C/ | B, A,/C/ | B, G, | C,/^C,/ D, | B, A,/C/ | B, A,/C/ | B, G, | E,/F,/ G, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | B, A,/C/ | B, A,/C/ | B, G, | C,/^C,/ D, | B, A,/C/ | B, A,/C/ | B, G, | E,/F,/ G, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | B, A,/C/ | B, A,/C/ | B, G, | C,/^C,/ D, | B, A,/C/ | B, A,/C/ | B, G, | E,/F,/ G,- | G,z|]
+[V: P4]  G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/D,/ G, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/D,/ G, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/D,/ G, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/D,/ G, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,3/ G,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/^C,/ D, | G,3/ D,/ | G,3/ D,/ | G,/F,/ E,/D,/ | C,/D,/ G,- | G,z|]
+

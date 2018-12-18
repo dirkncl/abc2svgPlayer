@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Illsley
+Z: John Bishop (1665-1737)
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 19
+K: C
+[V: P1]  [G,C] [G,C] G, [A,/C/][B,/D/] | [CE] [C/F/]E/ [B,D] C | [G,C] [G,C] G, [A,/C/][B,/D/] | [C/E/]^F/ [DG] [DF] [B,G] | [CG] [CF] [CE] [C-A-] | [C/A/][B,/G/] [C/F/]D/ [CE] [B,D] | [G,D] [G,/E/]D/ [A,C] [CG] | [CD] [CE] [B,D] [G,-C-] | [G,3C3]z|]
+[V: P2]  [C,E,] [C,E,] [B,,D,] E, | G, A,/G,/ [B,,F,] [C,E,] | [C,E,] [C,E,] [B,,D,] E, | A, [B,,G,] [D,A,] G, | [C,E,] F, [C,G,] F,- | F,/D,/ A,/B,,/ [C,G,] G, | [B,,G,] [C,E,] E,/F,/ G, | A, G, G,/F,/ [C,-E,-] | [C,3E,3]z|]
+[V: P3] z3 A,, | E,, D,,z2 |z3 A,, | A,,z2 G,, |z A,,z F,,- | F,,/G,,/ A,,z G,, |z2 A,, E,, | F,, G,, G,,z | z4|]
+
