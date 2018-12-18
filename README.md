@@ -11,6 +11,8 @@
   - abcother - https://dirkncl.github.io/abc2svgPlayer/abcother.html
 
   - NMD - https://dirkncl.github.io/abc2svgPlayer/NMD.html
+  
+  - Lotro - https://dirkncl.github.io/abc2svgPlayer/Lotro.html
 
 
 - abc2svg - http://moinejf.free.fr/js/
@@ -36,6 +38,8 @@
 - abcother - https://dirkncl.github.io/abc2svgPlayer/abcother_new.html
 
 - NMD - https://dirkncl.github.io/abc2svgPlayer/NMD_new.html
+
+- Lotro - https://dirkncl.github.io/abc2svgPlayer/Lotro_new.html
 
 
 [![Screenshot](https://dirkncl.github.io/abc2svgPlayer/screenshot/Carol.png)](https://dirkncl.github.io/abc2svgPlayer/Carol_new.html)
