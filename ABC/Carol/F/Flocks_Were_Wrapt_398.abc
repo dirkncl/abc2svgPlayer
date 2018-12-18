@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Flocks Were Wrapt In Slumber
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  (A/ G/) | (F/ E/) (F/ G/) A (B/ c/) | d3/ c/ B (c/ B/) | A B A E | Fzz (F/ E/) | (D/ C/) (D/ E/) F (G/ A/) | B3/ A/ G (A/ B/) | A F ^G c | Fzz (G/ F/) | (E/ ^D/) (E/ F/) G (A/ B/) | c3/ B/ ^A F | d B G E | A2z A | d3/ c/ B A | G F E B | A D F E Dzz2|]
+w: The_ flocks_ were_ wrapt in_ slum- ber all a-_ long the dew- y ground, The_ shep-_ herds_ lay in_ si- lence keep- ing_ watch on all a- round. They_ lit-_ tle_ tho't such_ sight to see be- fore their watch should cease, Now glo- ry be to God on high, and on the earth be Peace.
+

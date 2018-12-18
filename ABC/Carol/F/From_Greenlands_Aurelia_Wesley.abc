@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Aurelia
+Z: Samuel Sebastian Wesley
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  F | F F G F | F2 E D | D B A G | F3 G | A d d c | c2 B A | G A F D | E3 E | F G A B | B2 A d | d3/ c/ c F | G3 E | F F G F | F2 E D | D E D C | D3|]
+w: From Green- land’s i- cy moun- tains, From In- dia’s co- ral strand, Where Af- ric’s sun- ny foun- tains Roll down their gol- den sand, From many an an- cient ri- ver, From many a pal- my plain, They call us to de- liv er Their land from er- ror’s chain.
+[V: P2]  D | D D D D | D2 C D | B, D D C | D3 C | D D D E | E2 D F | F E D D | C3 C | D C D D | D2 D F | F3/ F/ F F | E3 E | D D D D | B,2 B, B, | B, B, A, A, | A,3|]
+[V: P3]  A, | A, A, B, A, | A,2 A, A, | E, E, F, A, | A,3 A, | A, A, ^A, A, | ^A,2 B, C | D E A, ^G, | A,3 A, | A, A, A, G, | G,2 A, B, | B,3/ ^A,/ B, B, | B,3 A, | A, A, B, A, | A,2 G, G, | G, G, E, G, | F,3|]
+[V: P4]  D, | D, D, D, D, | A,,2 G,, F,, | G,, G,, A,, A,, | D,3 E, | F, F, F, F,, | G,,2 G,, A,, | B,, C, D, B,, | A,,3 A,, | D, E, F, G, | G,2 F, B,, | F,3/ E,/ D, ^D, | E,3 C, | D, D, D, D, | G,,2 G,, G, | E, E, A,, A,, | D,3|]
+

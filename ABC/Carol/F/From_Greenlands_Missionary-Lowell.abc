@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Missionary
+Z: Lowell Mason
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  D | F A A B | A2 F D | C D G F | (F2 E) D | F A A B | A2 F E | F B A ^G | A3 A | d A G F | B2 A c | d A (A/G/) F | (F2 E) D | E A A B | A2 F D | E G F E | D3|]
+w: From Green- land’s i- cy moun- tains, From In- dia’s co- ral strand,_ Where Af- ric’s sun- ny foun- tains Roll down their gol- den sand, From many an an- cient ri- ver, From many a pal-_ my plain,_ They call us to de- liv er Their land from er- ror’s chain.
+[V: P2]  A, | D D D D | D2 D A, | A, A, C D | (D2 C) D | D D D D | D2 D C | D F E D | C3 D | D D C D | D2 D G | F F E D | (D2 C) D | D D D D | D2 D D | D D D C | D3|]
+[V: P3]  F, | A, F, F, G, | F,2 A, A, | A, A, A, A, | (A,2 A,) F, | A, F, F, G, | F,2 A, A, | A, D C B, | A,3 F, | F, A, A, A, | G,2 A, A, | A, F, A, A, | (A,2 A,) F, | A, F, F, G, | F,2 A, A, | B, B, A, G, | F,3|]
+[V: P4]  D, | D, D, D, D, | D,2 D, F, | G, F, E, D, | (A,,2 A,,) D, | D, D, D, D, | D,2 D, A,, | D, B,, E, E, | A,,3 D, | D, F, E, D, | G,2 F, E, | D, D, C, D, | (A,,2 A,,) D, | D, D, D, D, | D,2 D, F, | G, E, A, A,, | D,3|]
+

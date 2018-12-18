@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: From Every Spire On Christmas Eve
+Z: George Coles
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  E | A c c A | B d d B | c A G A | B E E E | A c c A | B d d B | c A (B/c/) (d/B/) | A G A c | e c c e | d B B d | c A G A | B E E E | A c c A | B d d B | c A (B/c/) (d/B/) | A G A|]
+w: From ev- ery spire on Christ- mas Eve, the Christ- mas bells ring clear- ly out Their mess- age of good- will and peace, with many a call_ and_ sil- ver shout. For faith- ful hearts, the an- gels' song still echo- es in the fros- ty air, And by the al- tar low they bow, in ad- o ra_ tion_ and in prayer.
+[V: P2]  C | E E E E | E E E E | E E D C | E E E (E/D/) | C E E E | E E E E | E E F F | E E E E | E E E E | E E E E | E E D C | E E E (E/D/) | C E E E | E E E E | E E F F | E E E|]
+[V: P3]  A, | C A, A, A, | G, B, B, G, | A, C B, A, | G, G, (G,/B,/) (A,/G,/) | A, A, A, A, | G, B, B, G, | A, A, A, (B,/D/) | C B, C A, | C A, A, C | B, G, G, B, | A, C B, A, | G, G, (G,/B,/) (A,/G,/) | A, A, A, A, | G, B, B, G, | A, A, A, (B,/D/) | C B, C|]
+[V: P4]  A,, | A,, A,, A,, C, | E, E, E, E, | A, A, E, F, | E, E, (E,/D,/) (C,/B,,/) | A,, A,, A,, C, | E, E, E, E, | A, C, D, D, | E, E, A,, A, | A, A, A, A, | E, E, E, G, | A, A, E, F, | E, E, (E,/D,/) (C,/B,,/) | A,, A,, A,, C, | E, E, E, E, | A, C, D, D, | E, E, A,,|]
+

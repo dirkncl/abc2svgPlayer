@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: From Heav'n The Son Of God Descends
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=80
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 40
+V: P3 name="Tenor"
+%%MIDI program 3 42
+V: P4 name="Bass"
+%%MIDI program 4 43
+K: A
+[V: P1] z A c c | B3 c | (d c) (B A) | G3 A | (A G) (F E) | d2 c2 | B3 A | (A G) (B A) | (d c) (B A) | (A G2) B | e3 d | c3 c | (c B) (B c) | d2z B | (d c) (B A) | A2 G2 | A3 A | (A G) (G B) | (B A) A (c/d/4e/4) | (f e) (d c) | B3 c | (e d) (c B) | A2 G2 | A4|]
+[V: P2] z C E E | E3 E | F2 D2 | B,2 E2 | E2 (B, E) | F2 E2 | E3 C | E2 E2 | (A E) (D C) | B,3 E | (E F) G2 | A2 A2 | F2 (B ^A) | F2 E2 | E2 E2 | F2 E2 | E3 E | E2 E2 | E2 (E A) | A2 F2 | B,3 G | A2 F2 | E2 E2 | E4|]
+[V: P3]  E, E, A, A, | G,3 G, | (B, A,) (G, F,) | E,2 (E, A,) | A,2 (G, A,) | A,2 A,2 | A,3 E | (D2 C2) | (B, A,) E,2 | E,3 G, | A,2 (B, E) | E2 (F E) | D2 C2 | B,2 G,2 | A,2 E2 | (D C) B,2 | C3 C | (C B,) (B, D) | (D C) C (A,/B,/4C/4) | (D C) (B, A,) | G,3 C | A,2 D2 | (C2 B,) (C/D/) | C4|]
+[V: P4]  A,, A,, A, A, | E,3 C, | B,,2 B,,2 | E,2 C,2 | E,2 (D, C,) | D,2 A,,2 | E,3 A,, | A,,4 | A,,2 (G,, A,,) | E,,3 E, | C,2 E,2 | A,2 F,2 | B,2 F,2 | B,,2 E,2 | A,2 C,2 | D,2 E,2 | A,,3z | E,2 E,2 | A,2 A,,2 | D,2 D,,2 | E,,3 E, | F,2 D,2 | E,2 E,2 | A,,4|]
+

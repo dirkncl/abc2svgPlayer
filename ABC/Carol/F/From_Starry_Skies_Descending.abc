@@ -1,0 +1,25 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: From Starry Skies Descending
+Z: MIDI Sequenced by Bill Egan
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="From Starry Skies Thou C"
+%%MIDI program 1 73
+V: P2 name="Staff"
+%%MIDI program 2 95
+V: P3 name="Staff-2"
+%%MIDI program 3 20
+V: P4 name="Staff-3"
+%%MIDI program 4 63
+K: C
+[V: P1] z3 |z3 |z2z/ ^D/ | ^G =G/ ^G ^A/ | c2- c/^A/ | c/^c/^d/ d/c/=c/ | ^A2- A/c/ | ^A c/ ^c =c/ | ^A3/ ^d d/ | ^c =c/ ^d/^c/^A/ | ^G3/ G ^D/ | F ^D/ F G/ | ^G ^D/ G D/ | F ^D/ F G/ | ^G2- G/^A/ | c/^c/^d/ d/c/=c/ | ^A2- A/c/ | ^A c/ ^c =c/ | ^A3/ ^d3/ | ^c =c/ ^d/^c/^A/ | ^G3/- G/8zz3/8 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3/ ^G ^D/ | F ^D/ F G/ | ^G ^D/ G D/ | F ^D/ F G/ | ^G2- G/^A/ | c/^c/^d/ d/c/=c/ | ^A2- A/c/ | ^A c/ ^c =c/ | ^A3/ ^d3/ | ^c =c/ ^d/^c/^A/ | ^G3|]
+[V: P2] z3 |z3 |z2z/ ^D/ | C ^A,/ C ^D/ | ^G3/z =G/ | ^G/^A/c/ c/A/G/ | G3/z ^G/ | G ^G/ ^A G/ | G3/ G G/ | F ^G/ =G3/ | C3/ C ^D/ | ^C =C/ ^C ^D/ | C ^D/ C D/ | ^C =C/ ^C C/ | C3/z ^D/ | ^G/^A/c/ c/A/G/ | G3/z ^G/ | G ^G/ =G ^G/ | G3/ G3/ | F ^G/ =G/G/^C/ | C2- C/^D/ | C ^A,/ C ^D/ | ^G3/z =G/ | ^G/^A/c/ c/A/G/ | G3/z ^G/ | G ^G/ ^A G/ | G3/ G G/ | F ^G/ =G3/ | C3/ C ^D/ | ^C =C/ ^C ^D/ | C ^D/ C D/ | ^C =C/ ^C C/ | C3/z ^D/ | ^G/^A/c/ c/A/G/ | G3/z ^G/ | G ^G/ =G ^G/ | G3/ G3/ | F ^G/ =G/G/^C/ | C3|]
+[V: P3] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z2z/ ^D/ | ^G =G/ ^G ^A/ | c2- c/^A/ | c/^c/^d/ d/c/=c/ | ^A2- A/c/ | ^A c/ ^c =c/ | ^A3/ ^d d/ | ^c =c/ ^d/^c/^A/ | ^G3/ G ^D/ | F ^D/ F G/ | ^G ^D/ G D/ | F ^D/ F G/ | ^G2- G/^A/ | c/^c/^d/ d/c/=c/ | ^A2- A/c/ | ^A c/ ^c =c/ | ^A3/ ^d3/ | ^c =c/ ^d/^c/^A/ | ^G3|]
+[V: P4] z2z/ ^D,/ | ^G,3/ G, C/ | ^D3/ D,3/ |z3 |z2z/ ^D,/ | ^G,3/ G, C/ | ^D3/ D, D/ | ^C =C/ ^A, C/ | ^C3 | ^A, A,/ ^D, D,/ | ^G,,3/z3/ | ^G,, ^D,/ G, D,/ | ^G,, ^D,/ G, D,/ | ^G,, ^D,/ G, D,/ | ^G,, ^D,/ G, D,/ | ^G,2- G,/C/ | ^D3/ D, D/ | [^D,^C] =C/ ^A, C/ | [^D,3^C3] | ^A, A,/ ^D, D,/ | ^G,,3/- G,,/8zz3/8 |z3 |z2z/ ^D,/ | ^G,3/ G, C/ | ^D3/ D, D/ | ^C =C/ ^A, C/ | ^C3 | ^A, A,/ ^D, D,/ | ^G,,3/z3/ | ^G,, ^D,/ G, D,/ | ^G,, ^D,/ G, D,/ | ^G,, ^D,/ G, D,/ | ^G,, ^D,/ G, D,/ | ^G,2- G,/C/ | ^D3/ D, D/ | [^D,^C] =C/ ^A, C/ | [^D,3^C3] | ^A, A,/ ^D, D,/ | ^G,,3|]
+

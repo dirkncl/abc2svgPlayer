@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Father, Let Me Dedicate
+Z: Sir G. A. Macfarren
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=340
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  A2 F2 G2 A2 | B3 B B4 | c2 B2 A3 G | F4 | G2 B2 e2 d2 | c3 B A4 | B3 F F2 ^G2 | A4 | G3 G F2 F2 | B3 B A4 | d3 A G2 F2 | (F4 E4) | D3 E F2 G2 | A2 B2 c4 | d3 B B2 e2 | d4|]
+w: Fa- ther, let me de- di cate All this year to Thee, In what- ev er world- ly state Thou wilt have me be: Not from sor- row, pain, or care Free- dom dare I claim;_ This a- lone shall be my prayer, Glo- ri fy Thy Name.
+[V: P2]  F2 D2 D2 F2 | F3 E E4 | G2 F2 E2 C2 | D4 | D2 G2 A2 A2 | A2 E2 E4 | F3 D D2 D2 | C4 | D3 D C2 C2 | B,2 C2 (D2 E2) | D2 D2 C2 D2 | (D4 C4) | D3 C D2 D2 | F2 D2 F4 | F3 G G2 G2 | F4|]
+[V: P3]  D2 A,2 D2 C2 | B,3 B, (B,2 A,2) | G,2 B,2 E2 A,2 | A,4 | G,2 D2 C2 D2 | E2 ^G,2 (A,2 B, C) | D3 B, B,2 B,2 | A,4 | B,3 B, A,2 A,2 | G,3 G, (F,2 E,2) | A,2 A,2 A,2 A,2 | (A,4 A,4) | A,3 G, F,2 D2 | D2 B,2 ^A,4 | B,3 B, B,2 C2 | D4|]
+[V: P4]  D,3 C, B,,2 A,,2 | G,,2 G,2 (G,2 F,2) | E,2 D,2 C,2 A,,2 | D,4 | B,,2 G,,2 G,2 F,2 | E,2 D,2 C,4 | B,,3 E, E,2 E,2 | A,,4 | A,,3 A,, A,,2 A,,2 | A,,2 A,,2 (A,,2 G,,2) | F,,2 F,2 E,2 D,2 | (A,6 G,2) | F,3 E, D,2 B,2 | A,2 G,2 F,4 | B,,3 E, E,2 A,,2 | D,4|]
+

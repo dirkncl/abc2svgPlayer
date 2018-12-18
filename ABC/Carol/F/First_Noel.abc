@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: First Noel
+Z: Traditional English carol, 17th Century (?)
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=107
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Unnamed-001"
+%%MIDI program 2 91
+K: C
+[V: P1]  [C/E/]D/ [G,3/C3/] D/ | [C/E/]F/ [D2G2] | [D/A/]B/ [Gc] [GB] | [FA] [E2G2] | [C/A/][D/B/] [Gc] [EB] | [FA] G [CA] | [FB] [Ec] [EG] | [DF] [C2E2] | [B,/E/]D/ [G,3/C3/] D/ | [C/E/][C/F/] [D2G2] | [D/A/]B/ [Gc] [GB] | [FA] [E2G2] | [C/A/][D/B/] [Gc] [EB] | [FA] G [FA] | [FB] [Ec] [EG] | [DF] [C2E2] | [B,/E/]D/ [G,3/C3/] D/ | [C/E/]F/ [B,2G2] | [E/c/]B/ [F2A2] | [FA] [E2G2] | G [Ec] [EB] | [FA] [EG] A | [FB] [Ec] G | [DF] [C2-E2-] | [C2E2]z|]
+[V: P2]  [C,/G,/]F,/ [C,2E,2] | [A,,C] [G,,B,] G, | [F,A,] [E,G,] [E,G,] | [F,/A,/]B,/ [C,2C2] | [F,/A,/][F,/G,/] [E,G,] [C,G,] | [D,B,] [E,C] [F,A,] | [D,F,] [E,/G,/]F,/ [G,C] | G, [C,2G,2] | [G,,/G,/]F,/ [C,2E,2] | [A,,/C/][A,,/C/] [G,,C] [G,B,] | [F,A,] [E,G,] [E,G,] | [F,/A,/]B,/ [C,2C2] | [F,/A,/][F,/G,/] [E,G,] [C,G,] | [D,B,] [E,C] [F,C] | [D,D] [E,/G,/]F,/ [G,C] | [G,,G,] [C,2G,2] | [G,,/G,/]F,/ [C,2E,2] | [A,,A,] [E,2G,2] | [C,G,] [F,3/A,3/] [G,/B,/] | [A,/C/][B,/D/] [C2E2] | [B,D] [A,C] [G,C] | [F,C] C C, | [D,F,] [E,/G,/]F,/ G, | [G,,G,] [C,2-G,2-] | [C,2G,2]z|]
+

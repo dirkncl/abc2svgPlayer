@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Festgesang
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Festgesang"
+V: P2_2
+%%MIDI program 2 91
+K: Db
+% Extracting voice 1 from part P1
+[V: P1_1]  [DF] |  [D3/F3/] [C/E/] [DF] [EG] |  [FA] [Gd] [F3/A3/] [D/F/] |  D3/ D/ E [CG] D |  [E2G2] [DF] [DF] |  [D3/F3/] [C/E/] [DF] [EG] |  [FA] [Fd] [F3/c3/] [F/=A/] |  [F3/c3/] [F/=A/] [=DF] [E=G] |  [_D2=G2] F F |  F3/ F/ F F |  F3/ F/ F F |  [F3/B3/] [F/B/] [Fd] c/B/ F |  [F3c3] F |  F3/ F/ F F |  F3/ F/ F F |  [_G3/B3/] [G/B/] [Gd] c/B/ G |  [G4e4] | "^Refrain" [Gd] [G3/4B3/4] A/4 [FA] [D/F/] [F/A/] G/4 [G2d2] [F3/A3/] [D/F/] |  D D [C3/E3/] [C/A/] |  [D3A3]z |  [A2d2] [Ad] [Ad] |  [=G2d2] [G3/B3/] [G/d/] |  e4 _G2 A G |  [F4d4] |] 
+% Extracting voice 2 from part P1
+[V: P1_2]  [DF] |  [D3/F3/] [C/E/] [DF] [EG] |  [FA] [Gd] [F3/A3/] [D/F/] |  D3/ D/ E [CG] D |  [E2G2] [DF] [DF] |  [D3/F3/] [C/E/] [DF] [EG] |  [FA] [Fd] [F3/c3/] [F/=A/] |  [F3/c3/] [F/=A/] [=DF] [E=G] |  [_D2=G2] F F |  F3/ F/ F F |  F3/ F/ F F |  [F3/B3/] [F/B/] [Fd] c/B/ F |  [F3c3] F |  F3/ F/ F F |  F3/ F/ F F |  [_G3/B3/] [G/B/] [Gd] c/B/ G |  [G4e4] | "^Refrain" [Gd] [G3/4B3/4] A/4 [FA] [D/F/] [F/A/] G/4 [G2d2] [F3/A3/] [D/F/] |  D D [C3/E3/] [C/A/] |  [D3A3]z |  [A2d2] [Ad] [Ad] |  [=G2d2] [G3/B3/] [G/d/] |  e4 _G2 A G |  [F4d4] |] 
+% Extracting voice 1 from part P2
+[V: P2_1]  [D,A,] |  [D,3/A,3/] [D,/A,/] [D,A,] [D,A,] |  [D,A,] B,/C/ [D,3/D3/] [D,/F,/] D, |  [B,,3/F,3/] [B,,/F,/] [A,,G,] E,/A,/ A,, |  [D,3A,3] [D,A,] |  [D,3/A,3/] [D,/A,/] [D,A,] [D,A,] |  [D,A,] [B,,B,] [C,3/=A,3/] [C,/=A,/] |  [C,3/=A,3/] [C,/A,/] [C,B,] [C,B,] |  B,2 =A, _D,3 F, |  [B,3/_D3/] [B,/D/] [A,C] [A,C] |  [=G,B,] [G,B,] [A,C] F, |  [B,3/D3/] [B,/D/] [=G,B,] [A,/C/][B,/D/] |  [A,3C3] F, |  [B,3/D3/] [B,/D/] [A,C] [A,C] |  [=G,3/B,3/] [G,/B,/] [F,A,] F, |  [E,3/D3/] [E,/D/] [E,F] E/D/ E, |  D2 C2 A,4 |  [D,B,] [D,3/4B,3/4] [D,/4C/4] [D,D] [D,/A,/] A,/ [D,2B,2] [D,3/D3/] [D,/F,/] |  [B,,F,] [B,,F,] [A,,3/A,3/] [A,,/G,/] |  [D,3F,3]z |  [D2F2] [DF] [CF] |  [B,2E2] [E,3/D3/] [E,/D/] |  D C/ B,/ C2 A,4 |  [D,4D4] |] 
+% Extracting voice 2 from part P2
+[V: P2_2]  [D,A,] |  [D,3/A,3/] [D,/A,/] [D,A,] [D,A,] |  [D,A,] B,/C/ [D,3/D3/] [D,/F,/] D, |  [B,,3/F,3/] [B,,/F,/] [A,,G,] E,/A,/ A,, |  [D,3A,3] [D,A,] |  [D,3/A,3/] [D,/A,/] [D,A,] [D,A,] |  [D,A,] [B,,B,] [C,3/=A,3/] [C,/=A,/] |  [C,3/=A,3/] [C,/A,/] [C,B,] [C,B,] |  B,2 =A, _D,3 F, |  [B,3/_D3/] [B,/D/] [A,C] [A,C] |  [=G,B,] [G,B,] [A,C] F, |  [B,3/D3/] [B,/D/] [=G,B,] [A,/C/][B,/D/] |  [A,3C3] F, |  [B,3/D3/] [B,/D/] [A,C] [A,C] |  [=G,3/B,3/] [G,/B,/] [F,A,] F, |  [E,3/D3/] [E,/D/] [E,F] E/D/ E, |  D2 C2 A,4 |  [D,B,] [D,3/4B,3/4] [D,/4C/4] [D,D] [D,/A,/] A,/ [D,2B,2] [D,3/D3/] [D,/F,/] |  [B,,F,] [B,,F,] [A,,3/A,3/] [A,,/G,/] |  [D,3F,3]z |  [D2F2] [DF] [CF] |  [B,2E2] [E,3/D3/] [E,/D/] |  D C/ B,/ C2 A,4 |  [D,4D4] |] 
+

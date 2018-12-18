@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The First Christmas Night
+Z: W. H. Sangster, Mus. Doc
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  c/ c/ | c E/ E/ F B | G (F/G/) E A/ A/ | B e d c | d3 B/ B/ | A G F/ F/ (=E/F/) | A/ A/ G c F/ G/ | A (B/c/) c/ c/ B | G3"^Chorus" (A/B/) | c (d/e/) B c/ d/ | A B c B/ c/ | d d/ d/ B c | F3 F/ G/ | A/ A/ f e d/ d/ | c B A (G/F/) | E2 e e | B3 B | A3|]
+w: I should like to have heard the An- gels_ sing, On that first great Christ- mas morn, To have knelt and lis- tened to_ mu- sic so sweet, O’er the Babe in_ Beth- le hem born. But_ I may_ sing of that Babe to- day, Oh, so ten- der, so kind, so fair, And the An- gels still glad- den our Christ- mas morn, And_ sing in our mid- night air.
+

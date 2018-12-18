@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: From The Eastern Mountains
+Z: G. B. Lissant
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  B B/ A G/ | G3/ F3/ | (F/G/) A/ (B/d/) c/ | (B3/ A3/) | B B/ A G/ | c3/ F3/ | (A/G/) B/ A G/ | (F3/ F3/) | F F/ (F/G/) A/ | B3/ d3/ | G G/ (G/A/) =B/ | (c3/ e3/) | e d/ g f/ | e3/ d3/ | d c/ B A/ | (B3/ B3/)|]
+w: From the east- ern moun- tains, press-_ ing on,_ they come,_ Wise men in their wis- dom, to_ His hum- ble home;_ Stirred by deep_ de- vo tion, hast- ing from_ a- far,_ Ev- er jour- neying on- ward, guid- ed by a star._
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Festgesang
+Z: Alfred George Wathall, circa 1905
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Festgesang"
+V: P2_2
+%%MIDI program 2 91
+K: Db
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | D3/ D/ E [CG] | | | | | | | | [F3/B3/] [F/B/] [Fd] c/B/ | | | | [_G3/B3/] [G/B/] [Gd] c/B/ |||"^Refrain" [Gd] [G3/4B3/4] A/4 [FA] [D/F/] [F/A/] | | | | | | e4 ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | D x1  | | | | | | | | x3  F | | | | x3  G |||"^Refrain" x1  G/4 x2  | | | | | | _G2 A G ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | [D,A,] B,/C/ [D,3/D3/] [D,/F,/] | [B,,3/F,3/] [B,,/F,/] [A,,G,] E,/A,/ | | | | | B,2 =A, | | | | | | | [E,3/D3/] [E,/D/] [E,F] E/D/ | D2 C2|| | | | | | | D C/ B,/ C2 ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | x1  D, x2  | x3  A,, | | | | | _D,3 F, | | | | | | | x3  E, | A,4|| | | | | | | A,4 ||]
+

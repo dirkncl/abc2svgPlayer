@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The First Noel
+Z: H. J. Gauntlett
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=85
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  A | A F | A d | d c | e2 | A B3/4A/4 | d d | e3/ d/ | d2 |"^Verse"z A | (D/E/) (F/G/) | (A/F/) (G/A/) | (B/d/) (c/B/) | A A | (E/F/) (G/A/) | F B | (E/F/) (G/A/) | F F | (D/E/) (F/G/) | E A | (^G/A/) (B/c/) | d d | (c/e/) (d/c/) | B d | ^G (A/B/) | A|]
+w: No- el, No- el, No- el, No- el Born is the King of Is- ra el. The first_ No-_ el,_ the_ an-_ gels_ say To Beth-_ le'm's_ shep- herds as_ they_ lay. At mid-_ night_ watch, when keep-_ ing_ sheep, The win-_ ter_ wild, the light snow_ deep.
+[V: P2]  F | F D | F A | G G | G2 | E E3/4 E/4 | A G | G3/ G/ | F2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z|]
+[V: P3]  A, | F, A, | D F | E E | C2 | C C3/4 C/4 | D D | C3/ D/ | D2 | D,,z |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z|]
+[V: P4]  D, | D, D, | D, D, | A, A, | A,2 | A, G,3/4 G,/4 | F, B, | A,3/ A,/ | D,2 |z2 | [D,/F,/A,/]z/ [D,/F,/A,/]z/ | [D,/F,/A,/]z/ [D,/F,/A,/]z/ | [D,/G,/B,/]z/ [D,/G,/B,/]z/ | [D,F,A,] [D,F,A,] | [C,/E,/A,/]z/ [A,,/C,/E,/A,/]z/ | [D,/F,/A,/]z/ [D,/F,/A,/]z/ | [C,/E,/A,/]z/ [A,,/C,/E,/A,/]z/ | [D,F,A,] [D,F,A,] | [D,/F,/A,/]z/ [D,/F,/A,/]z/ | [C,/E,/A,/]z/ [A,,/C,/E,/A,/]z/ | [E,/^G,/B,/]z/ [E,/A,/]z/ | [E,^G,B,] [E,^G,B,] | [A,/C/]z/ [A,/C/E/]z/ | [D,/F,/A,/B,/]z/ [D,/F,/A,/B,/]z/ | [E,/^G,/B,/]z/ [E,/G,/B,/D/]z/ | [A,C]|]
+

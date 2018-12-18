@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: From Far Away
+Z: John B. Dykes
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F/ | F B/ d c/ | (B/A/) G/ F F/ | B/ B/ B/ A/ A/ A/ | A/ A/ A/ A F/ | F/ F/ B/ d c/ | (B/A/) G/ c3/ | =B/ B/ B/ (c/d/) c/ | B/ A/ G/ F3/ | F3/ F/ F/ F/ | Fzz/ F/ | B B/ A A/ | G G/ F F/ | E/ E/ E/ (D/C/) B,/ | F F/ F F/ | d d/ f f/ | B B/ d d/ | G/ G/ A/ B e/ | (d3/ d/c/B/ | c3/ c/B/) A/ | (B3/ B3/ | B3/ B)|]
+w: From far a- way we come_ to you, The snow in the street, and the wind on the door, To tell of great tid- ings strange_ and true, Min- strels and maids_ stand forth on the floor, Stand forth on the floor. From far a- way we come to you, To tell of great tid-_ ings strange and true, From far a- way we come to you, To tell of great tid- ings strange______ and true.___
+

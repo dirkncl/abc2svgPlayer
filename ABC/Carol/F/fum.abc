@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Fum Fum Fum
+Z: Traditional Catalonia Carol
+Z: Public Domain
+L: 1/4
+M: 2/4
+V: P1 name="VEU 1"
+%%MIDI program 1 -1
+V: P2 name="Tempo Track"
+%%MIDI program 2 -1
+K: C
+[V: P1]  A3/4^G/4 A/c/ | B/A/ ^G/E/ | A ^G | Az | A3/4^G/4 A/c/ | B/A/ ^G/E/ | A ^G | Az/ G/4G/4 | c/c/ B/B/ | c/c/ B/B/ | c/c/ B/B/ | cz/ B/4c/4 | d3/4c/4 B/A/ | ^G/E/ A/G/ | A/c/ B/A/ | ^G/E/ A | ^G A |z/ G/4G/4 c/c/ | B/B/ c/c/ | B/B/ c/c/ | B/B/ c |z/ B/4c/4 d3/4c/4 | B/A/ ^G/E/ | A/^G/ A/c/ | B/A/ ^G/E/ | A ^G | Az | A3/4^G/4 A/c/ | B/A/ ^G/E/ | A ^G | Az | A3/4^G/4 A/c/ | B/A/ ^G/E/ | A ^G | Az/ G/4G/4 | c/c/ B/B/ | c/c/ B/B/ | c/c/ B/B/ | cz/ B/4c/4 | d3/4c/4 B/A/ | ^G/E/ A/G/ | A/c/ B/A/ | ^G/E/ A | ^G A |z/ G/4G/4 c/c/ | B/B/ c/c/ | B/B/ c/c/ | B/B/ c |z/ B/4c/4 d3/4c/4 | B/A/ ^G/E/ | A/^G/ A/c/ | B/A/ ^G/E/ | A ^G | Az|]
+[V: P2] z2|]
+

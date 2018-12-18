@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The First Nowel
+Z: Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  (G/F/) | (E3/ F/) (G/A/) | B2 c/ d/ | e d c | B2 c/ d/ | e d c | B c d | e B A | G2 (G/F/) | (E3/ F/) G/ A/ | B2 (c/d/) | e d c | B2 c/ d/ | e d c | B c d | e B A | G2"^Chorus" (G/F/) | E2 (G/A/) | B2 (e/d/) | c2 c | B3 | e d c | (B c) d | (e B) A | G2|]
+w: The_ first_ Now-_ el that the An- gel did say, Was to cer- tain poor Shep- herds in fields as they lay, In_ fields_ as they lay a-_ keep ing their sheep, On a cold win- ter's night that was freez- ing so deep. Now-_ el, Now-_ el, Now-_ el, Now- el, Born is the King_ of Is-_ ra el.
+[V: P2]  B, | E2 E | F2 F/ F/ | E E (E/F/) | G2 G/ F/ | E E (E/F/) | G A A | G G F | E2 (B,/=B,/) | (C3/ D/) E/ E/ | D2 (E/F/) | E E (E/F/) | G2 G/ F/ | E E (E/F/) | G G F | E E D | E2 D | E2 E | (E D) E | E A2 | (A2 G) | G F (E/F/) | G2 F | G2 F | E2|]
+[V: P3]  (B,/A,/) | (G,3/ A,/) (B,/C/) | D2 B,/ A,/ | G, G, A, | G,2 G,/ A,/ | B, B, (C/D/) | E A, A, | B, E D | E2 G, | G,2 C/ C/ | D2 (A,/G,/) | G, G, A, | G,2 G,/ A,/ | B, B, (C/D/) | E (G,/=A,/) =B, | C G, (F,/B,/) | B,2 (B,/A,/) | G,2 E, | F,2 B, | C (E F) | (F2 E) | G, A, (C/D/) | (E G,) A, | (B, E) D | E2|]
+[V: P4]  E, | E,2 (E,/C,/) | B,,2 B,,/ B,,/ | C, C, (C,/D,/) | E,2 E,/ F,/ | G, G, A, | G, F, F, | E, (G,/A,/) B, | E,2 (E,/D,/) | C,2 C,/ C,/ | B,,2 (B,,/B,,/) | C, C, (C,/D,/) | E,2 E,/ F,/ | G, G, A, | G, E, D, | C, B,, B,, | E,2 B,, | (E,3/ D,/) C, | B,,2 G, | (A,3/ G,/) (F,/E,/) | (D,2 E,) | C, F, A, | (G, E,) E, | (E, G,/A,/) B, | E,2|]
+

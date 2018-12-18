@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Flos de radice Jesse
+Z: Traditional German Melody
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=260
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c2 c c | d c c2 | A2 B2 | A G2 (F | F) E F2 | c2 c c | d c c2 | A2 B2 | A G2 (F | F) E F2 |z A G E | F D C2 |z c c c | d c c2 | A2 B2 | A G2 (F | F) E F2|]
+w: The no- ble stem of Jes- se Hath flow'r- ed at_ this tide: Re- joice, good chris- tian peo- ple, Re- joice ye far_ and wide: In Ma- ry see the stem; And who the flow'r by Je- sus, The Babe of Beth-_ le hem?
+

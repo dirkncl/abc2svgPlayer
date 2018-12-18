@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Von Himmel Hoch
+Z: Geistliche Lieder, Leipzig, 1539
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="Von Himmel Hoch"
+V: P2_2
+%%MIDI program 2 -1
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  (c | B A B/A/ G | A B c c | c G G E/F/ | G F E) E | A A G/A/ [GB] | c/B/ A G c | B A G A/G/ | F/E/ D C4)|]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  G | G/^F/ E D E/D/ | C D E E/F/ | G/F/ E D C | C D C (C/D/ | E D D/ ^F/ x1  | G G/^F/ E/D/ | D/E/ E/D/ D/C/ C | C/ A,/ B,|]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  E | D C/- C/ B, C/B,/ | A,/ G,/ F, G, G, | C C B, [G,/_B,/][F,/A,/] | G, G, G, G, | G, ^F, G,/ C/ B,/A,/ | G,/ B,/ E/ D/ B, A, | G,/ =F,/ F,/ E,/ A,/ B,/ | C F,/ [C,4)E,4)]|]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  (C, | G,3/ ^F,/ G,/=F,/ E, | F,/E,/ D, C, C,/D,/ | E, E,/F,/ G, x1  | E,/D,/ C,/B,,/ C,) (C, | ^C, D,/=C,/ B,,/A,,/ G,, | D,/C,/ C,/D,/ G, G,/^F,/ | G,/E,/ C,/D,/ B,,/C,/ F,/G,/ | A,/F,/ G,/G,,/ x4 |]|] Z 
+
