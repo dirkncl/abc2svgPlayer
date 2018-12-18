@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Crailtoune
+Z: Traditional English
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=125
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  e | d B A G | G (A/ B/) D2 | D2 D B, | D2 D E | D E G A | B G A B | G E E D | E2 E|]
+w: Through Ga- bri el his mess- age_ mild, O Ma- ris stel- la, Thou, Vir- gin, has con- ceiv'd a Child, Tu De- i ta tis cel- la.
+

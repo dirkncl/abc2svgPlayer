@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come, Shepherds, Come! Shake Off Your Sleep
+Z: Tyrolese
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  E | A A c A | G (B/G/) E f | e c d G | A2z E | A A c A | G (B/G/) E f | e c d G | A2z c | B3/ G/ E d | c3/ B/ A E | d3/ E/ c3/ E/ | B2z E | A A c A | G (B/G/) E f | e c d G | A3|]
+w: Come, shep- herds, come! Shake off your_ sleep, And ope your wea- ry eyes: ‘Tis time to leave your fold- ed_ sheep, Come, shep- herds, come, a- rise! Hark! An- gels clad in bright ar- ray, Burst forth in heav’n- ly song; See! Night grows brigh- ter than the_ day, Lit by their glist’n- ing throng.
+

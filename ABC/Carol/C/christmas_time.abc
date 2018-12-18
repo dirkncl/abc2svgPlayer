@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Time
+L: 1/4
+M: 1/8
+Q: 1/4=120
+V: P1 name="Soprano"
+%%MIDI program 1 0
+V: P2 name="Alto"
+%%MIDI program 2 0
+V: P3 name="Tenor"
+%%MIDI program 3 0
+V: P4 name="Bass"
+%%MIDI program 4 0
+K: C
+[V: P1]  G/- | [M: 2/4]  G/F/ E/F/ | G/F/ E3/4G/4 | G/G/ A/G/ | F3/ F/ | F/E/ D/E/ | F/E/ D/D/ | B/B/4A/4 G/D/ | E3/ G/ | G/F/ E/F/ | G/F/ E/G/ | c/c/ c/G/ | A3/ A/ | c/c/ B/A/ | c/G/ G/E/ | G/F/ E/D/ | C3/ G/ | G/F/ E/F/ | G/F/ E/F/ | G/G/ A/G/ | F3/ F/ | F/E/ D/E/ | F/E/ D | B3/4A/4 G/F/ | E3/ G/ | G/F/ E/F/ | G/F/ E/G/ | c3/4c/4 c/G/ | A3/ A/ | c/d/ c/c/ | G/G/ G/E/ | G/F/ D/B,/ | [M: 3/8]  C3/|]
+[V: P2]  C/ | [M: 2/4]  E/D/ C/D/ | E/D/ C3/4E/4 | E/E/ F/E/ | D3/ D/ | D/C/ B,/C/ | D/C/ B,/B,/ | D/D/4F/4 E/D/ | C3/ E/ | E/D/ C/D/ | E/D/ C | E/E/ G/E/ | F3/ F/ | A/A/ G/F/ | E/E/ E/C/ | C/D/ C/B,/ | C3/ C/ | E/D/ C/D/ | E/D/ C/D/ | E/E/ F/E/ | D3/ D/ | D/C/ B,/C/ | D/C/ B, | D3/4F/4 E/D/ | C3/ E/ | E/D/ C/D/ | E/D/ C/E/ | E3/4E/4 G/E/ | F3/ F/ | A/A/ A/F/ | E/E/ E/C/ | D/D/ B,/G,/ | [M: 3/8]  G,3/|]
+[V: P3]  G,/ | [M: 2/4]  C/C/ C/C/ | C/C/ C3/4C/4 | C/C/ C/C/ | B,3/ B,/ | G,/G,/ G,/G,/ | G,/G,/ G,/G,/ | G,/G,/ G,/G,/ | G,3/ C/ | C/C/ C/C/ | C/C/ C | C/C/ C/C/ | C3/ C/ | A,/A,/ B,/C/ | C/C/ C/G,/ | G,/G,/ G,/G,/ | G,3/ G,/ | C/C/ C/C/ | C/C/ C/C/ | C/C/ C/C/ | B,3/ B,/ | G,/G,/ G,/G,/ | G,/G,/ G, | G,3/4G,/4 G,/G,/ | G,3/ C/ | C/C/ C/C/ | C/C/ C/C/ | C3/4C/4 C/C/ | C3/ C/ | A,/A,/ A,/C/ | C/C/ C/G,/ | G,/G,/ G,/F,/ | [M: 3/8]  E,3/|]
+[V: P4]  E,/- | [M: 2/4]  E,/F,/ G,/F,/ | E,/F,/ G,3/4E,/4 | E,/E,/ F,/G,/ | G,3/ G,/ | D,/E,/ F,/E,/ | D,/E,/ F,/F,/ | F,/F,/4D,/4 E,/F,/ | E,3/ E,/ | E,/F,/ G,/F,/ | E,/F,/ G, | G,/G,/ C,/G,/ | F,3/ F,/ | F,/F,/ D,/D,/ | E,/G,/ G,/G,/ | E,/D,/ E,/F,/ | E,3/ E,/ | E,/F,/ G,/F,/ | E,/F,/ G,/F,/ | E,/E,/ F,/G,/ | G,3/ G,/ | D,/E,/ F,/E,/ | D,/E,/ F, | F,3/4D,/4 E,/F,/ | E,3/ E,/ | E,/F,/ G,/F,/ | E,/F,/ G,/E,/ | G,3/4G,/4 E,/G,/ | F,3/ F,/ | F,/F,/ D,/D,/ | E,/E,/ C,/C,/ | B,,/B,,/ B,,/B,,/ | [M: 3/8]  C,3/|]
+

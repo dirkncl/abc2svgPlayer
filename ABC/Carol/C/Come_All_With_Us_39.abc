@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come All With Us, Harmonious Tongues
+Z: "Bromsgrove"
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=66
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  (B/ B/) B/ F/ | (G/4F/4G/4A/4 B/) e/ | (d/c/) (B/A/) | B3/ B/ | c (d/B/) | A G | F2 |z/ c/ c/ c/ | d3/ B/ | (G/ c) B/ | (B A/) F/ | (G3/4F/4 G/) A/ | B c | d3/ c/ | (d/B/) (e/c/) | B A | B2|]
+w: Come_ all with us,____ har- mon_ ious_ tongues, Your nob- lest_ mu- sic bring. Our Sa- viour Christ this day_ was born,_ With joy__ to Him we sing, With joy_ to_ Him we sing.
+[V: P2]  D/ D/ D/ F/ | (E3/4F/4 G/) G/ | (F/E/) (D/C/) | D (F/=E/) | F F | F =E | C2 |z/ F/ F/ F/ | F3/ G/ | G =E | F F | (E3/4D/4) E/ E/ | F F | F3/ F/ | F G | F F | F2|]
+[V: P3]  F,/ F,/ F,/ B,/ | B,3/ C/ | F, F, | F, D | C (F,/G,/) | (A,/B,/) C | A,2 |z/ A,/ C/ A,/ | B, D | C C | (C F,/) B,/ | B,3/ C/ | B, A, | B,3/ C/ | (B,/D/) E | D (C/D/4E/4) | D2|]
+[V: P4]  B,,/ B,,/ B,,/ D,/ | E,3/ C,/ | F, F, | B,,3/ G,,/ | A,, B,, | C, C, | F,2 |z/ F,/ A,/ F,/ | B,3/ G,/ | =E, C, | F,3/ D,/ | E,3/ C,/ | D, F, | B,3/ A,/ | B, E, | F, F,, | B,,2|]
+

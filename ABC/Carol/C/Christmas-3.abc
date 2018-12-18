@@ -1,0 +1,15 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1] |] Z 
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Cradle Hymn
+Z: Harold Darke, 1914
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: E
+[V: P1]  B, | B2 A/ F/ | E F (G/A/) | F2 G/ A/ | B2 B | B B c | G F (G/A/) | B d c | d2 B | (e/f/ e) d/ c/ | d d3/ B/ | c B3/ G/ | F2 (G/A/) | B B c | G F (G/A/) | (B3 | B) G F | E2z|]
+w: A- way in a man- ger, no_ crib for His bed, The lit- tle Lord Je- sus laid_ down His sweet head; The stars__ in the bright sky looked down where He lay, The_ lit- tle Lord Je- sus, a-_ sleep_ in the hay.
+

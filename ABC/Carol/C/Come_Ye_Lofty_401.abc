@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come, Ye Lofty
+Z: Sir George J. Elvey
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D3/ D/ G F | D3/ D/ B A | d3/ d/ c B | A F (F E) | D3/ D/ G F | D3/ D/ B A | d3/ d/ d c | B ^A B2 | B3/ B/ B A | d3/ d/ d c | d3/ d/ c B | A ^G A2 | G3/ G/ G F | =c3/ c/ c B | e3/ d/ c d | F E D2|]
+w: Come ye lof- ty, come ye low- ly Let your songs of glad- ness ring;_ In a sta- ble lies the Ho- ly, In a man- ger rests the King: See in Ma- ry’s arms re- pos ing Christ by high- est heaven a- dored: Come, your cir- cle round Him clos- ing, Pi- ous hearts that love the Lord.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come, Good Christians, Join Our Song
+Z: French Flanders
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A (B/A/) | G (A/G/) F (F/G/) | F2 d d | d (c/f/) B B | (B A) c3/ d/ | (e/d/) (e/f/) d3/ c/ | c2 c (f/c/) | d c (d/e/) (f/c/) | (B A) c (f/e/) | d c B3/ A/ | (A G) c F | G F c F | (B A) (f/e/) (d/c/) | (d/e/) (f/B/) A (G3/4F/4) | F2|]
+w: Come, good_ Christ- ians,_ join our_ song, As we pace a_ hap- py throng,_ As we pace_ a_ hap- py throng, Thro' the_ gar- den walks_ so_ wide,_ On Mount_ Car- mel's sun- ny side,_ Gar- den rich with flow- ers rare,_ Scent-_ ing_ all_ the_ sum- mer_ air.
+

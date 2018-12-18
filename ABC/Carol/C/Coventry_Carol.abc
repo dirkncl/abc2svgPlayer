@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Coventry Carol
+Z: Renaissance carol
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2 name="Coventry Carol"
+%%MIDI program 2 -1
+K: Bb
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | c [zA2] ^F |||: | | | | | c [zA2] ^F | | | | | | | c [zA2] ^F | :|||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | G2 x2  |||: | | | | | G2 x2  | | | | | | | G2 x2  | :|||]|] Z 
+[V: P2]  [(G,(B,] [G,B,] [D,A,] | [G,2B,2] E, | [F,/C/] [F,/C/] [F,C] [G,B,] | [D,3A,3] | [G,B,] [F,C] [D,D] | [C,E] [D,2D2] | [G,3)D3)]||: [(G,(B,] [G,B,] [D,A,] | [G,2B,2] E, | [F,2C2] [G,B,] | [D,3)A,3)] | [(G,(B,] [F,C] [D,B,] | [C,C] [D,2D2] | [G,2)D2)] [(B,(D] | [F,2C2] [G,D] | [D,2D2] [G,B,] | [F,2C2] [=E,G,] | [D,3)A,3)] | [(G,(B,] [D,A,] [G,B,] | [C,G,] [D,2D2] | [G,3)D3)] :|||]|] Z 
+

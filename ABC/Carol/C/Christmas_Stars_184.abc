@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Christmas Stars Are Shining
+Z: F. W. Dawkins
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A/ | c A/ c B/ | (A G/) F G/ | A A/ G F/ | (G3/ G) A/ | c A/ c d/ | =B G/ c A/ | A G/ A =B/ | (c3/ c) c/ | c c/ e d/ | c3/ B B/ | A A/ d d/ | (G3/ G) A/ | c B/ A G/ | (F F/) F G/ | A B/ G F/ | (F3/ F)|]
+w: The Christ- mas lights are shin-_ ing, The winds are wail- ing low;_ And o’er the earth is e- cho ing The song of long a- go;_ From moun- tain o- ver val- ley, Is heard the glo- rious cry,_ “O com- fort ye my peo-_ ple, The Prince of Peace draws nigh.”_
+

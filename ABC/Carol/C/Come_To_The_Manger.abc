@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come To The Manger
+Z: Traditional
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1] "^Refrain" A3 B3 | E3/ F/ G F2 E | A2 B c3/ d/ c | B2 F B3 | A3 B3 | E3/ F/ G F2 E | F2 G A3/ d/ c | B A G A2 |"^Verse" c | c3/ B/ c A B c | (d3 d) e d | c3/ B/ c c B A | (B3 B2) (E/=D/) | A2 B c2 d | e2 A G2 E | e2 A G2 E | e2 A (G F) E | A2 B c3/ d/ c | B A G A3|]
+w: Come, come, come to the man- ger, Child- ren, come to the child- ren's King; Sing, sing, Cho- rus of an- gels, Stars of morn- ing, o'ver Beth- le hem sing. He lies 'mid the beasts of the stall,_ Who is Mak- er and Lord of us all,_ The_ win- try wind blows cold and drear- y, See, He weeps, the world is wea-_ ry, Lord, have pi- ty and mer- cy on me.
+

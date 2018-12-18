@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Conditor Alme Siderum
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Conditor, LMD"
+%%MIDI program 2 19
+K: Eb
+[V: P1]  [DG] [CE] [CG] [DB] | [Ec] [Ec] A [DB] | [EB] [Ec] [CA] [DB] | [EA] [EG] [DF] [E-G-] | [EG] [EB] [EA] [B,F] | [EG] [EA] [EG] [DF] | [CE] E [DG] [CA] | [B,B] [EA] [EG] [DF] | [D3G3]z|]
+[V: P2]  [G,,B,] [C,G,] [C,E,] [B,,F,] | [A,,A,] [A,,A,] C, [B,,F,] | [E,G,] [C,G,] [F,A,] [B,,F,] | [C,C] [E,B,] B,, E,- | E, [E,G,] [C,A,] [D,B,] | [E,B,] [A,,C] [E,B,] [B,,B,] | [C,G,] [C,G,] [B,,G,] [A,,E,] | [G,,E,] [A,,C] [E,B,] B,, | G,,3z|]
+

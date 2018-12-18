@@ -1,0 +1,35 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Is Coming
+Z: English Traditional
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="An English Country Garde"
+%%MIDI program 1 6
+V: P2 name="Sequenced By"
+%%MIDI program 2 73
+V: P3 name="Barry Taylor 1997"
+%%MIDI program 3 42
+V: P4 name="Staff"
+%%MIDI program 4 6
+V: P5 name="Staff-2"
+%%MIDI program 5 6
+V: P6 name="Staff-3"
+%%MIDI program 6 41
+V: P7 name="Tempo Track"
+%%MIDI program 7 -1
+K: D
+[V: P1]  d d/c/ B B | A A/G/ F F/G/ | A D E G | F3/ E/ D2 | d d/c/ B B | A A/G/ F F/G/ | A D E G | F3/ E/ D2 | d/e/ d/B/ c/B/ A | d/e/ d/B/ c/B/ A | d d/c/ B e/d/ | c/d/ c/B/ A B/c/ | d d B B | A/B/ A/G/ F F/G/ | A D E G | F3/ E/ D2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | d d/c/ B B | A A/G/ F F/G/ | A D E G | F3/ E/ D2 | d d/c/ B B | A A/G/ F F/G/ | A D E G | F3/ E/ D2 | d/e/ d/B/ c/B/ A | d/e/ d/B/ c/B/ A | d d B e/d/ | c/d/ c/B/ A B/c/ | d d B B | A/B/ A/G/ F F/G/ | A D E G | F3/ E/ D2 | A D E G | F3/ E/ D2- | D2z2|]
+[V: P2]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | d d/d/ B B | A A/G/ F F/G/ | A D E G | F3/ E/ D2 | d d/c/ B B | A A/G/ F F/G/ | A D E G | F3/ E/ D2 | d/e/ d/B/ c/B/ A | d/e/ d/B/ c/B/ A | d/d/ d B e/d/ | c/d/ c/B/ A B/c/ | d d/d/ B3/ B/ | A/B/ A/G/ F F/G/ | A D E G | F3/ E/ D2 | z4 | z4 | d d/c/ B B | A A/G/ F F/G/ | A D E G | F3/ E/ D2 | d d/c/ B B | A A/G/ F F/G/ | A D E G | F3/ E/ D2 | d/e/ d/B/ c/B/ A | d/e/ d/B/ c/B/ A | d d B/B/ e/d/ | c/d/ c/B/ A B/c/ | d d/c/ B B/B/ | A/B/ A/G/ F F/G/ | A D E G | F3/ E/ D2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4|]
+[V: P3]  z4 | z4 | z4 | z4 | D, F, G,2 | A,, C, D,2 | D, F, G, E, | A,,3/ A,,/ D,2 | F, F, A, A,, | F, F, A, A,, | F, D, ^G, E, | C, E, A, G, | F, F, G,2 | A,, B,,/C,/ D,2 | D, F, G, E, | A,,3/ A,,/ D,2 | A, D, E, G, | F,3/ E,/ D,2 | D, F, G,2 | A,, C, D,2 | D, F, G, E, | A,,3/ A,,/ D,2 | D, F, G,2 | A,, C, D,2 | D, F, G, E, | A,,3/ A,,/ D,2 | F, F, A, A,, | F, F, A, A,, | F, D, ^G, E, | C, E, A, G, | F, F, G,2 | A,, B,,/C,/ D,2 | D, F, G,2 | A,,3/ A,,/ D,2 | A, D, E, G, | F,3/ E,/ D,2 | D, F, G,2 | A,, C, D,2 | D, F, G, E, | A,,3/ A,,/ D,2 | D, F, G,2 | A,, C, D,2 | D, F, G, E, | A,,3/ A,,/ D,2 | F, F, A, A,, | F, F, A, A,, | F, D, ^G, E, | C, E, A, G, | F, F, G,2 | A,, B,,/C,/ D,2 | D, F, G,2 | A,,3/ A,,/ D,2 | A, D, E, G, | F,3/ E,/ D,2 | D, F, G,2 | A,, C, D,2 | D, F, G, E, | A,,3/ A,,/ D,2 | D, F, G,2 | A,, C, D,2 | D, F, G, E, | A,,3/ A,,/ D,2 | F, F, A, A,, | F, F, A, A,, | F, D, ^G, E, | C, E, A, G, | F, F, G,2 | A,, B,,/C,/ D,2 | D, F, G,2 | A,,3/ A,,/ D,2 | A, D, E, G, | A,, A,,/E,/ D,2- | D,2z2|]
+[V: P4]  D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F/D/ C/A,/ E/A,/ | D/A,/ F/D/ C/A,/ E/A,/ | D/A,/ F/D/ D/^G,/ E/D/ | C/A,/ E/A,/ C/A,/ B,/C/ | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F/D/ C/A,/ E/A,/ | D/A,/ F/D/ C/A,/ E/A,/ | D/A,/ F/D/ D/^G,/ E/D/ | C/A,/ E/A,/ C/A,/ B,/C/ | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F/D/ C/A,/ E/A,/ | D/A,/ F/D/ C/A,/ E/A,/ | D/A,/ F/D/ D/^G,/ E/D/ | C/A,/ E/A,/ C/A,/ B,/C/ | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F/D/ C/A,/ E/A,/ | D/A,/ F/D/ C/A,/ E/A,/ | D/A,/ F/D/ D/^G,/ E/D/ | C/A,/ E/A,/ C/A,/ B,/C/ | D/A,/ F [B,G] B, | C/A,/ E/A,/ D F | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2F2] | D/A,/ F B,/G,/ E/A,/ | A, A,/C/ [D2-F2-] | [D2F2]z2|]
+[V: P5]  D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D,z E,z | D,z E,z | D,z B,, E, | A,,z A,,z | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D,z E,z | D,z E,z | D,z B,, E, | A,,z A,,z | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D,z E,z | D,z E,z | D,z B,, E, | A,,z A,,z | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D,z E,z | D,z E,z | D,z B,, E, | A,,z A,,z | D, D, G,, D, | A,,z D, D, | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2 | D, D, B,, E, | A,,/F,/ A,,/E,/ D,2- | D,2z2|]
+[V: P6]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | F F G2 | A, C D2 | D F, G, B, | A,3/ G,/ F,2 | F F G2 | A, C D2 | D F, G, B, | A,3/ G,/ F,2 | F2 G2 | F2 G2 | F2 ^G2 | A2 A A/G/ | F F G2 | A, C D2 | D F, G, B, | A,3/ G,/ F,2 | D F, G, B, | A,3/ G,/ F,2 | F F G2 | A, C D2 | D F, G, B, | A,3/ G,/ F,2 | F F G2 | A, C D2 | D F, G, B, | A,3/ G,/ F,2 | F2 G2 | F2 G2 | F2 ^G2 | A2 A A/G/ | F F G2 | A, C D2 | D F, G, B, | A,3/ G,/ F,2 | D F, G, B, | A, A,/G,/ F,2- | F,2z2|]
+[V: P7]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4|]
+

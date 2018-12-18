@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Copenhagen
+Z: Peter Christian Lutkin
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  F F/ G/ A3/ d/ | c G B3/ B/ | A A A (G/F/) | (F2 E2) | F F/ F/ F3/ F/ | [FB] [Ec] [Dd] (c/B/) | A3/ F/ A (G/E/) | D4|]
+[V: P2]  D D/ D/ D3/ D/ | G C D E | F D ^D (E/=D/) | (D2 C2) | C ^A,/ B,/ C3/ A,/ | F3 G | A3/ D/ D C | D4|]
+[V: P3]  A, A,/ A,/ A,3/ A,/ | G, A, B, C | D A, =C B, | A,4 | ^A, F,/ ^G,/ A,3/ F,/ | ^G, ^A, B, C | D3/ A,/ B, (A,/G,/) | F,4|]
+[V: P4]  D, D,/ E,/ F,3/ F,/ | E, E, A,, G, | F, F, F, G,/ ^G,/ | A,4 | F, F,/ F,/ F,3/ E,/ | D, C, B,, E, | F,3/ F,/ E, A,, | D,4|]
+

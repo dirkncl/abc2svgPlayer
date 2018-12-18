@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come And Hear The Grand Old Story
+Z: S. B. Saxton
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B F A G | c ^G B A | d B G A | B A A2 | B F A G | c ^G B A | d d ^c B | F F F2 |"^Chorus" F F E D | G G E D | A F E D | B G c A | d B G c | A3/ G/ G2|]
+w: Come and hear the grand old sto- ry, Sto- ry of the a- ges past; All earth’s an- nals far sur- pass ing, Sto- ry that shall e- ver last. No- blest, tru- est, Old- est, new- est, Fair- est, rar- est, Sad- dest, glad- dest, That the world has ev- er known.
+

@@ -1,0 +1,30 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Christmas Tree
+Z: John H. Hopkins, Jr.
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Vocal"
+%%MIDI program 1 73
+V: P2 name="Upper Piano 1"
+%%MIDI program 2 0
+V: P3 name="Upper Piano 2"
+%%MIDI program 3 0
+V: P4 name="Lower Piano 1"
+%%MIDI program 4 0
+V: P5 name="Lower Piano 2"
+%%MIDI program 5 0
+K: G
+[V: P1]  d B/ A/ G B | A D G2 | d B/ A/ G B | A D G2 | B B B A/ B/ | c c c B/ c/ | d d d d | d ^c d B | d A A A | B3/ A/ G G | e E F G | A3/ A/ A"^Chorus" B | c2 A B | c2 A (B/c/) | d G c B | A2 G|]
+w: Gath- er a- round the Christ- mas Tree! Ga- ther a- round the Christ- mas Tree! Ev- er green Have its branch- es been, It is king of all the wood- land scene; For Christ our King is born to- day! His reign shall nev- er pass a- way. Ho- san na, Ho- san na, Ho-_ san na in the high- est!
+[V: P2]  d B/A/ G B | A D G2 | d B/A/ G B | A D G2 | B B B A/B/ | c c c B/c/ | d d d d | d ^c d B | d A A A | B3/ A/ G G | e E F G | A3/ A/ A B | c2 A B | c2 A (B/c/) | d G c B | A2 G|]
+[V: P3]  D G/F/ G G | F D D2 | D G/F/ G G | F D D2 | G A G E/E/ | E E D G/A/ | B F G A | G G F G | A G F E | ^D3/ F/ E =F | E E D D | D3/ G/ F G | G2 F G | G2 F G | F E E/F/ G | F2 G|]
+[V: P4]  B, B,/C/ D D | D C B,2 | B, B,/C/ D D | D C B,2 | D ^D E E/=D/ | C B, A, D/D/ | D C B, A, | B, A, A, D | D ^C D A, | F,3/ B,/ B, B, | C E/D/ C B, | A,3/ ^C/ D D | E2 D D | E2 D D | D B, E D | D2 B,|]
+[V: P5]  G, G,/A,/ B, G, | D, D, G,,2 | G, G,/A,/ B, G, | D, D, G,,2 | G, F, E, C/B,/ | A, G, F, D/C/ | B, A, G, F, | E, A, D, G, | F, E, D, =C, | B,,3/ ^D,/ E, D, | C, C/B,/ A, G, | F,3/ E,/ D, B,, | B,,2 A,, B,, | B,,2 A,, B,, | A,, G,, G,,/A,,/ B,, | A,,2 B,,|]
+

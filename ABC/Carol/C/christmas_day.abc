@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Day
+L: 1/4
+M: 1/4
+Q: 1/4=120
+V: P1 name="Soprano"
+%%MIDI program 1 0
+V: P2 name="Alto"
+%%MIDI program 2 0
+V: P3 name="Tenor"
+%%MIDI program 3 0
+V: P4 name="Bass"
+%%MIDI program 4 0
+K: F
+[V: P1]  F | [M: 4/4]  F B B3/ B/ | B d2 d/c/ | d c c3/ A/ | A3 c | d d d =B | A G G =B | c c B G | E2 E/E/ F | A3 d | c A G/G/ F | G3 A | G D2 _E | E c =B c | B2 E2 | F4- | F3 c | d _d =d _e | d/c/ B2 d | d/d/ c =B d | c3 c | d d d =B/B/ | A/G/ G G d | c c B G | E2 E/E/ F | A3 d | c A G/G/ F | G3 A | G D2 _E | E c =B c | B2 E2 | F4- | [M: 3/4]  F3|]
+[V: P2]  C | [M: 4/4]  D F F3/ F/ | F F2 F/F/ | F F F3/ F/ | F3 A | =B B B G | D D D G | E E G E | C2 C/C/ C | F3 F | F F C/C/ C | D3 D | D B,2 =B, | C E E E | D2 C2 | C4- | C3 F | F F F G | F F2 F | A/A/ A _A A | A3 A | =B B B G/G/ | D D D D | E E G D | C2 C/C/ C | F3 F | F F C/C/ C | D3 D | D B,2 =B, | C E E E | D2 C2 | C4- | [M: 3/4]  C3|]
+[V: P3]  A, | [M: 4/4]  B, D D3/ D/ | D B,2 B,/B,/ | B, A, A,3/ F,/ | A,3 A, | G, G, G, =B, | C =B, B, B, | B, B, C B, | B,2 B,/B,/ B, | A,3 A, | A, C B,/B,/ A, | F,3 F, | F, G,2 G, | G, G, G, G, | G,2 G, B, | A,4- | A,3 A, | B, A, B, B, | B, B,2 B, | A,/A,/ C D =B, | C3 C | =B, B, B, D/D/ | C/=B,/ B, B, B, | B, B, C B, | B,2 B,/B,/ B, | A,3 A, | A, C B,/B,/ A, | F,3 F, | F, G,2 G, | G, G, G, G, | G,2 G, B, | A,4- | [M: 3/4]  A,3|]
+[V: P4]  F, | [M: 4/4]  F, F, F,3/ F,/ | D, D,2 D,/D,/ | D, C, C,3/ C,/ | C,3 C, | =B,, B,, B,, D, | D, D, D, D, | C, C, E, D, | C,2 C,/C,/ C, | F,3 F, | C, C, C,/C,/ C, | B,,3 B,, | B,, B,,2 =B,, | C, C, =B,, C, | D,2 E,2 | F,4- | F,3 C, | B,, A,, B,, C, | D, D,2 D, | F,/F,/ F, E, E, | F,3 F, | G, G, G, G,/G,/ | D, D, D, D, | C, C, E, D, | C,2 C,/C,/ C, | F,3 F, | C, C, C,/C,/ C, | B,,3 B,, | B,, B,,2 =B,, | C, C, =B,, C, | D,2 E,2 | F,4- | [M: 3/4]  F,3|]
+

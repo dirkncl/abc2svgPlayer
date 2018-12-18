@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come With The Wise Men
+Z: I. H. Meredith
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F3/ =E F/ | d3/ c3/ | B A/ (c/B/) G/ | (F3/ F)z/ | E F/ A G/ | =E F/ B3/ | A G/ c d/ | (c3/ c)z/ | F3/ =E F/ | d3/ c3/ | B A/ (c/B/) G/ | (F3/ F)z/ | G A/ B c/ | d3/ e c/ | B3/ A3/ | (B3/ B3/) |"^Chorus" d'3/ d' c'/ | c'/ (b3/ b/) a/ | g3/ b g/ | g/ (f3/ f) | b3/ b c'/ | d' b/ e' d'/ | c'3/ c' d'/ | (c'3/ c'3/) | d'3/ d' c'/ | c'/ (b3/ b/) a/ | g3/ b g/ | g/ (f3/ f) | b3/ b c'/ | d' e'/ d' b/ | c'3/ c'3/ | (b3/ b)z/|]
+w: Come with the wise men! led by an-_ y sign_ This the ho- ly prom- ised One, Babe, yet Lord di- vine!_ Won- der ful Stran- ger from the Courts_ a- bove,_ In the time ap- point ed, God's give of love._ Hom- age we ren- der,_ Thou King and De- fend er!_ Kneel- ing with wise men great, at love's ho- ly shrine._ All lands shall own Thee!_ As Lord shall en- throne Thee!_ Thine is the king- dom, and the glo- ry Thine!_
+[V: P2]  D3/ ^C D/ | F3/ F3/ | G ^F/ G E/ | (D3/ D)z/ | C D/ E E/ | ^C D/ D3/ | =E E/ E E/ | (F3/ _E)z/ | D3/ ^C D/ | F3/ F3/ | G ^F/ G E/ | (D3/ D)z/ | E ^F/ G A/ | (B _A/) G G/ | F3/ (F E/) | (D3/ D3/) | [d3/f3/] [df] [c/e/] | [c/e/] [(B3/(d3/] [B/)d/)] [A/f/] | [G3/e3/] [Bg] [G/e/] | [G/e/] [(F3/(d3/] [F)d)] | [B3/d3/] [Bd] [c/e/] | [df] [B/d/] [eg] [d/f/] | [c3/=e3/] [ce] [d/f/] | [(c3/(_e3/] [c3/)e3/)] | [d3/f3/] [df] [c/e/] | [c/e/] [(B3/(d3/] [B/)d/)] [A/f/] | [G3/e3/] [Bg] [G/e/] | [G/e/] [(F3/(d3/] [F)d)] | [B3/d3/] [Bd] [c/e/] | [df] [e/g/] [df] [B/d/] | [c3/e3/] [c3/e3/] | [(B3/(d3/] [B)d)]z/|]
+[V: P3]  B,3/ G, F,/ | B,3/ B,3/ | B, B,/ E B,/ | (B,3/ B,)z/ | A, A,/ C A,/ | B, B,/ F,3/ | B, B,/ G, B,/ | (A,3/ A,)z/ | B,3/ G, F,/ | B,3/ B,3/ | B, B,/ E B,/ | (B,3/ B,)z/ | B, D/ D F/ | (F B,/) B, E/ | D3/ C3/ | (B,3/ B,3/) | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | E,/G,/B,/ E/B,/G,/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | C,/G,/B,/ =E/C/B,/ | F,/A,/C/ E/D/C/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | E,/G,/B,/ E/B,/G,/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | F,,/F,/G,/ A,/G,/F,/ | [(B,,3/(F,3/(B,3/] [B,,)F,)B,)]z/|]
+[V: P4]  B,,3/ B,, B,,/ | B,,3/ D,3/ | E, E,/ E, E,/ | (B,,3/ B,,)z/ | F, F,/ F, F,/ | B,, B,,/ B,,3/ | C, C,/ C, C,/ | (F,3/ F,)z/ | B,,3/ B,, B,,/ | B,,3/ D,3/ | E, E,/ E, E,/ | (B,,3/ B,,)z/ | E, D,/ G, F,/ | B,3/ E, E,/ | F,3/ F,3/ | (B,,3/ B,,3/) | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | E,/G,/B,/ E/B,/G,/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | C,/G,/B,/ =E/C/B,/ | F,/A,/C/ E/D/C/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | E,/G,/B,/ E/B,/G,/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | B,,/F,/B,/ D/B,/F,/ | F,,/F,/G,/ A,/G,/F,/ | [(B,,3/(F,3/(B,3/] [B,,)F,)B,)]z/|]
+

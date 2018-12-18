@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come All You Worthy Gentlemen
+Z: English Traditional
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1] z3 D | D A A B | A3/ F/ D C | D3/ C/ F G | A3z | D A A B | (A3/ F/) D C | D C F G | A3 A | d d d d | (=c B) A A | G F D C | G2 F G | A2 A3/ A/ | A2 A B | (A3/ G/) E E | D4|]
+w: Come all you wor- thy gen- tle men that may be stand- ing by, Christ our bless- ed Sa-_ viour was born on Christ- mas day. The bless- ed vir- gin Ma-_ ry un- to the Lord did say, O we wish you the com- fort and tid-_ ings of joy!
+

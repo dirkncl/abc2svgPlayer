@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Crib And The Cross
+Z: Bertha C. Boulter
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  A A/ A/ G/ F/ | E C G G/ | c B/ d/ c/ d/ | (e3/ e) e/4 e/4 | c B/ A A/4 A/4 | c c/ A A/4 A/4 | c c/ A A/ | c c/ A A/ | (A/c/) e/ f G/ | A3|]
+w: Where shall the Prince of Peace be born, And where shall the Sav- iour rest?_ In a sta- ble bare, in a crib for- lorn: For the bu- sy inn doth cruel- ly scorn Its great_ and glor- ious Guest.
+

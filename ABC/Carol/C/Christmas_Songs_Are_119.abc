@@ -1,0 +1,17 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F/ F/ G/ A/ B/ c/ d | d/ c/ d/ c/ B2 | F/ F/ G/ F/ F/ G/ A | c/ B/ A/ G/ F F | e (d/c/) B3/ F/ | G c A3/ F/ | G/ A/ B/ e/ d c | B3 (d/c/) | B A/ G/ F (d/c/) | B A/ G/ F F/ F/ | G/ B B/ A B | c3 F | e d/ c/ d F | c B/ A/ B F/ F/ | G/ B B/ A (B/c/) | B3 B/ B/ | e2 d B/ B/ | e2 d f | B/ c/ d/ e/ d c | B4|]
+w: Christ- mas songs are ring- ing now, Thro’ the win- try sky, Christ- mas strains by child- ren sung Swell the song on high, For one is_ born, the Prince of Peace, Whose reign shall nev- er, nev- er cease. Our_ hearts they are light, Our_ hopes they are bright, At Thy com- ing, O Prince of Peace, And we of Thy fold, like child- ren of old, Sing Ho- san na, O Prince of_ Peace, Sing Ho- san na, sing Ho- san na, Ho- san na to the Prince of Peace.
+

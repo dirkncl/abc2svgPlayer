@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Coventry Carol
+Z: Traditional English
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  G G ^F | G2 B | A2 G | ^F3 | G A B | c2 A | (G3 | G2) d | c2 B | A2 B | A2 G | ^F3 | G ^F G | c2 A | (=B3 | =B2)|]
+w: Lul- lay, Thou lit- tle ti- ny Child, By, by, lul- ly, lul- lay._ Lul- lay, Thou lit- tle ti- ny Child. By, by, lul- ly, lul- lay._
+

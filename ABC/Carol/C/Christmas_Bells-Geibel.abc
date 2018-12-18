@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Bells
+Z: Adam Geibel
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: E
+[V: P1]  (E/F/) | G G G/ F/ A/ G/ | (B2 G) G | A3/ G/ A/ B/ d/ c/ | B3 A | G G G/ G/ A/ B/ | (c e)z/ A/ B/ c/ | B3/ B/ (B/A/) (F/G/) | E3z | z4 | e e3/4 e/4 d d | e B c B | B ^A B ^A | G3/ G/ G/ G/ A/ B/ | (c e)z/ A/ B/ c/ | B B (B/A/) (F/G/) | E3|]
+w: Oh,_ Christ- mas bells, your sweet- est strain_ Ring out to- day o'er hill and plain, In glad re- mem brance of the birth_ Of Him who came to dwell_ on_ earth. Our joy pro- claim. Peal forth! ex- ult ing in the name Of Je- sus, o'er whom an- gels sang_ Till Ju- dah's moun- tain echo-_ es_ rang.
+[V: P2]  E | E E E/ D/ F/ E/ | E3 E | F3/ ^E/ F/ D/ A/ A/ | G3 D | E E E/ E/ E/ E/ | E2z/ E/ E/ E/ | E3/ E/ D D | E3z | z4 | G G3/4 G/4 F F | E E E E | E E D D | E3/ E/ E/ E/ E/ E/ | E2z/ E/ E/ E/ | E E D D | E3|]
+[V: P3]  (G,/A,/) | B, B, B,/ B,/ B,/ B,/ | (G,2 B,) B, | B,3/ B,/ B,/ B,/ D/ D/ | (E2 B,) B, | B, B, B,/ B,/ A,/ G,/ | (A, C)z/ A,/ G,/ F,/ | G,3/ G,/ F, (A,/B,/) | G,3z | B, B,3/4 B,/4 (B,2 | B,2 B,) B, | B, B, A, B, | C C B, B, | B,3/ B,/ B,/ B,/ A,/ G,/ | (A, C)z/ A,/ G,/ F,/ | G, G, F, (A,/B,/) | G,3|]
+[V: P4]  E, | E, E, E,/ E,/ E,/ E,/ | E,3 E, | B,,3/ B,,/ B,,/ B,,/ B,,/ B,,/ | E,3 B,, | E, E, E,/ =D,/ C,/ B,,/ | A,,2z/ C,/ B,,/ ^A,,/ | B,,3/ B,,/ B,, B,, | E,3z | B, B,3/4 B,/4 (B,2 | B,2 B,) A, | G, G, A, G, | F, F, B,, B,, | E,3/ E,/ E,/ =D,/ C,/ B,,/ | A,,2z/ C,/ B,,/ ^A,,/ | B,, B,, B,, B,, | E,3|]
+

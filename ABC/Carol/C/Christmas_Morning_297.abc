@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Morning
+Z: George Edgar Oliver
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: All Rights Reserved
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  e c d c | (B/A/) (B/c/) B A | A G F (G/A/) | c B _E2 | G3/ G/ (A/G/) ^F/ G/ | A G E C | E G =d c | F3/ G/ E2 | G A c B | A G F E | (E/G/) (B/A/) G F | E F E2 | e c d c | (B/A/) (B/c/) B A | A (B/=B/) c A | B3/ A/ G2|]
+w: In the ear- ly mor-_ ning,_ ear- ly, Ere the dawn was_ e- ven nigh, Glo- ri a_ in ex- cel sis De- o, Glo- ry be to God on High. When the crown- like stars were lus- trous, When_ the_ dew was on the sod, Sang the an- gels to_ the_ shep- herds, Sang the_ chor- is ters of God.
+

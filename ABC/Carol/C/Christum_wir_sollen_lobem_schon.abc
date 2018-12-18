@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christum wir sollen lobem schon
+Z: Unknown
+Z: From "Enchiridion," 1524
+L: 1/4
+M: 4/4
+Q: 1/4=85
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: D
+[V: P1] z3 [B,/E/][A,/F/] | [B,EG] [B,EG] [A,EA] [F-B-] [K: D]  | [F/B/]A,/ [B,E] [A,^DA] [B,EG] [K: D]  | [M: 3/4]  [B,3^D3F3] [K: D]  | [M: 1/4]  [A,DA] [K: D]  | [M: 4/4]  [E/G/B/]c/ [A,/F/d/]G/ A/B,/ [A,/C/E/c/][D/F/] [K: D]  | [E/G/B/]D/ [C/F/A/]E/ [B,/D/B/][A,/c/] [B,/G/d/]C/ [K: D]  | [M: 3/4]  [A,3D3F3d3] [K: D]  | [M: 1/4]  [D/F/A/]E/ [K: D]  | [M: 4/4]  [D/F/B/][E/c/] [B,2F2d2] [A,/F/c/]E/ [K: D]  | [B,/F/B/][C/E/] [DFA] [G/B/][A,/c/] [B,/D/d/]E/ [K: D]  | F/C/ [D/A/]G/ [A,/C/F/][B,/^D/G/] [=CEA] [K: D]  | [M: 3/4]  [B,3^D3F3B3] [K: D]  | [M: 1/4]  [B,/E/][^D/F/] [K: D]  | [M: 4/4]  [B,/E/G/]F/ [B,/G/][=C/A/] [D/F/B/][E/c/] [D/F/d/]C/ [K: D]  | [B,/G/]=C/ [D/B/]E/ [D/F/A/][E/G/] F/[E/G/] [K: D]  | [^DA] [E/G/]=D/ [CF] D/C/ [K: D]  | [B,/D/]E/ [B,3/F3/] ^A,/ [B,/^G/][C/A/] [K: D]  | [D4-B4-] [K: D]  | [DB] [C/^A/][B,/^G/] [C2A2]|]
+[V: P2] z3 [E,,E,G,] | E, E,/D,/ C, ^D, [K: D]  | [E,/G,/]F,/ G, F, E, [K: D]  | [M: 3/4]  B,,3 [K: D]  | [M: 1/4]  [F,,F,] [K: D]  | [M: 4/4]  [E,,E,] [D,,/D,/][E,,/E,/] [F,,/F,/][G,,/G,/] A,, [K: D]  | [E,,E,] [F,,F,] [G,,/G,/]A,,/ B,,/C,/ [K: D]  | [M: 3/4]  D,3 [K: D]  | [M: 1/4]  D,/C,/ [K: D]  | [M: 4/4]  B,,3/ C,/ D,/E,/ F, [K: D]  | G, F, [E,G,] B,,/C,/ [K: D]  | D,/E,/ F,/G,/z2 [K: D]  | [M: 3/4]  z4 [K: D]  | [M: 1/4]  G,/F,/ [K: D]  | [M: 4/4]  E, E, D,/=C,/ B,,/A,,/ [K: D]  | G,,/A,,/ [B,,/G,/]=C,/ D,3/ ^C,/ [K: D]  | B,, =C,/B,,/ ^A,, F, [K: D]  | B,,/[C,/F,/] D,/E,/ F,3/ E,/ [K: D]  | D,/C,/ B,,/^A,,/ B,,/D,/ C,/B,,/ [K: D]  | F,4|]
+

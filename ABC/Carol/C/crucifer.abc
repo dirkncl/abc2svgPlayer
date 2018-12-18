@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Crucifer (Nicholson), 10 10 with refrain
+Z: Sydney Hugo Nicholson, 1916
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Crucifer (Nicholson)"
+V: P2_2
+%%MIDI program 2 16
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1] "^Refrain" G2 c3/ G/ | F3 [DG] | E3/ F/ [CA] | D3 [(G,(D] | [G,E] [B,G] c2 | | [EG] A F/E/ D ||| G2 [C3/^F3/] [C/E/] | | | [^D2)B2)] G2 | c2 B A | | | [D-G-] [A,CDFG] G2 [G,)B,)E)]|]
+% Extracting voice 2 from part P1
+[V: P1_2] "^Refrain" (C D E C/- C/ | C B, C x1  | C3 G x1  | C B, A,) x1  | x2  C D | | x1  D/C/ C B,/A,/ ||| (E D x2  | | | x2  (E =D | C E D2 | | | x2  F, A, D x1 |]
+% Extracting voice 1 from part P2
+[V: P2_1]  (E, F, G,- [E,,G,] | | G,3/ [A,,/F,/] [G,,E,] [^F,,D,] | G,3 [(B,,(F,] | | | [G,B,] A, A,/G,/ [G,,F,] | F, D, E,2)|| | A,2 G, ^F, | | | A, G, ^F,2 | G, A, G, ^F, | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  C,,3 x1  | | C, A,,/- x2  | G,,2 A,,) x1  | | | x1  F,/E,/ D, x1  | C,4|| | D, C, B,,2 | | | A,,2 D, C, | B,,2 B,,2 | ||]
+

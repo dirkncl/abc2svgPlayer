@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Christmas Message
+Z: H. Lo Bianco
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=150
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  A | A2 c | (B c) d | (e2 c) | Az G | (F G) A | B2 c | B2z |zz B | B2 B | B2 e (=d2 c) | Gz c | B2 A | G2 F | E2z | z4 | A A A | A2 A | d3 | cz c | c2 B | B2 F | B2z |zz E | e2 e | e2 e | (e d c) | (B c) d | c2 A | (G F) E | Azz | z4 | [K: Db] "^Chorus" (A G) F | A2 d | c2 B | Az A | d2 f | (B c) d | (e2 f) | ez A | dz d | d2 d | (d c) B | cz A | B2 _G | A2 F | (E G F) Ezz | F G A | (B c) d | e2 d | cz A | d2 A | B2 A | c3 | d3|]
+w: A mes- sage from_ our Fa-_ ther, From yon-_ der Home of light, An- gel ic hosts are bring-_ ing On this most glo- rious night; Beth- le hem's Star is glow- ing Most rad- iant ly on high While songs of ex- ul ta__ tion_ Re- e cho through_ the sky. Peace_ on earth, good will to men, And to the Sa-_ viour glo-_ ry; For He is born in Beth-_ le hem, Bright an- gels tell the sto-__ ry; Let us with joy-_ ful hearts re- ply, Sweet Je- su, we a- dore thee!
+

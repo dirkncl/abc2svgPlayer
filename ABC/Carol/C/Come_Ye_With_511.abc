@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come Ye, With The Angels Sing
+Z: A. H. Brown
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=79
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c d/ c A/ | F A/ c3/ | d B/ B d/ | c A/ cz/ | (d/e/) f/ e d/ | (c3/ c) d/ | B A/ B c/ | A3/ F G/ | A/ G/ A =B/ | (c3/ c)z/ | d B/ G B/ | c A/ F3/ | B G/ E G/ | A F/ Dz/ | D C/ (D/E/) F/ | G G/ c3/ | d B/ A G/ | (c3/ f)z/ | (d/A/) F/ G A/ | (F3/ F)|]
+w: Come ye, with the An- gels sing Christ- mas car- ols to our King; Let_ us lift on high_ The car- ol of the An- gels that thrill’d the mid- night sky:_ "Glo- ry be to God a- bove! Peace on earth to men of love!" Thus will we_ our car- ols sing To the In- fant King,_ To_ the In- fant King._
+

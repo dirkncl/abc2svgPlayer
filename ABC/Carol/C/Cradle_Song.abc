@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Cradle Song, 11.11.11.11
+Z: William James Kirkpatrick, 1895
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 3/4
+Q: 1/4=113
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Cradle Song, 11.11.11.11"
+V: P2_2
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  C | F F [D/G/][C/A/] | [A,F] F (A/B/) | c c d | B2 G/[F/A/] | B B [Gc] | [GA] [FA] F/A/ | [DG] D [B,F] | [C2E2] C | | [A,F] [A,F] (A/B/) | c c d | B2 [D/G/][E/A/] | B B [Gc] | [GA] [FA] (F/A/) | [DG] D E ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  C | C2 x1  | x1  F F | F3 | (F E) x0  | F2 x1  | x2  C | x1  D x1  | x2  C | | x2  F | F3 | F E x1  | F2 x1  | x2  C | x1  D (C/B,/) ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  C, | | D, A, (F,/G,/) | A, A, B, | (D C) [B,/D/][C/E/] | D D, [E,C] | [F,2C2] A, | F,2 [D,F,] | [C,2G,2] C, | | [F,,2C,2] (F,/G,/) | A, A, B, | (D C)[A,/C/] | | | F,2 [C,E,] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  C, | | D,2 F, | F,3 | G,2 x1  | D2 x1  | x2  A,/F,/ | B,, G,, x1  | x2  C, | | x2  F, | F,3 | G,2 B,/ x0  | | | (B,, G,,) x1  ||]
+

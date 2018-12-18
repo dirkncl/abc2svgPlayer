@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come, Ye Christians, All
+Z: Old French
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  D A/ A G/ | (F3/ G3/) | A G/ F E/ | F E/ (D ^C/) | D A/ A G/ | (F3/ G)z/ | A G/ F E/ | D3 |"^Chorus" f e/ d ^c/ | d3/ A3/ | f e/ d ^c/ | d3/ A c/ | B G/ A E/ | A D/ F G/ | A A/ ^c c/ | d3 | f e/ d ^c/ | d3/ A3/ | f e/ d ^c/ | d3/ A c/ | B G/ A E/ | F D/ F G/ | A A/ F E/ | D3|]
+w: Come, ye Christ- ians all,_ Hear ye news of peace to- day_ Brought from o- ver sea,_ Hear the news I say. No- well, No- well, No- well, Sing the Sav- iour's birth, For the time of sor- row has gone by, And joy has come on earth. No- well, No- well, No- well, Sing with heart and voice, For the Lord of Glo- ry has come down To make all hearts re- joice.
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Culbach
+Z: Scheffler, "Heilige Seelenlush," 1657
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=340
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  E2 G2 B2 B2 | A2 B2 G4 | e2 e2 d2 d2 | c2 c2 B4 | B2 d2 e2 B2 | c2 B2 G4 | B2 B2 A2 G2 | F2 F2 E4|]
+w: For Thy mer- cy and Thy grace, Faith- ful through a- no ther year, Hear our song of thank- ful ness; Je- su our Re- dee mer hear.
+[V: P2]  B,2 E2 F2 D2 | E2 B,2 E4 | E2 F2 F2 F2 | G2 (F E) D4 | G2 F2 E2 E2 | E2 D2 E4 | E2 D2 E2 E2 | E2 D2 E4|]
+[V: P3]  G,2 B,2 B,2 B,2 | E,2 F,2 G,4 | G,2 C2 B,2 B,2 | B,2 =A,2 B,4 | B,2 =B,2 C2 G,2 | A,2 F,2 G,4 | G,2 F,2 A,2 B,2 | C2 (B, A,) G,4|]
+[V: P4]  E,2 E,2 D,2 B,,2 | C,2 D,2 E,4 | C,2 =A,,2 B,,2 D,2 | E,2 F,2 B,,4 | E,2 D,2 C,2 E,2 | A,,2 B,,2 E,4 | E,2 B,,2 C,2 E,2 | A,,2 B,,2 E,4|]
+

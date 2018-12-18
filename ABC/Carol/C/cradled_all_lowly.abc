@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: cradled_all_lowly
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: Bb
+[V: P1]  [D3/B3/] [E/-c/-] [E/c/][E/d/] | [D3/B3/] [D/B/]z/ [D/F/] | [EG] [E/G/][D/-F/-] [D/F/][C/E/] | [B,D] [A,/C/][B,/-D/-] [B,/D/][C/E/] | [D3/F3/] [D/F/]z/ [D/F/] | [EG] [D/B/][C/-B/-] [C/B/][E/A/] | [D3/B3/] [D/B/]z/ [B,/D/B/] | [B,DB] [B,/D/F/][B,/-E/-G/-] [B,/E/G/][B,/F/_A/] | [B,3/F3/_A3/] [B,/E/G/]z/ [C/=E/c/] | [C=Ec] [C/_E/G/][C/-F/-A/-] [C/F/A/][C/G/B/] | [C3/G3/B3/] [C/F/A/]z/ [A,/D/B/] | [A,Ec] [B,/E/d/][G,/-D/-B/-] [G,/D/B/][A,/E/c/] | [A,3/D3/d3/] [G,/B,/D/B/]z/ [B/d/] | [G,Gc] [A,/G/B/][G,/-B,/-F/-A/-] [G,/B,/F/A/][A,/C/E/G/] | [B,DF] [A,/C/F/][G,/-B,/-E/-G/-] [G,/B,/E/G/][E/G/B/] | [D3/F3/B3/] [C/-E/-A/-] [CEA] | [B,3D3B3]|]
+[V: P2]  [B,,3/F,3/] [B,,/-F,/-] [B,,/F,/][B,,/F,/] | [B,,3/F,3/] [B,,/F,/]z/ [B,,/F,/] | [B,,F,] [B,,/F,/][B,,/-F,/-] [B,,/F,/][B,,/F,/] | [B,,F,] [B,,/F,/][B,,/-F,/-] [B,,/F,/][B,,/F,/] | [B,,3/F,3/] [B,,/F,/]z/ [B,,/F,/] | [B,,F,] [B,,/F,/][B,,/-F,/-] [B,,/F,/][B,,/F,/] | [B,,3/F,3/] [B,,/F,/]z/ B,,/ | B,, B,,/B,,/- B,,/B,,/ | E,3/ E,/z/ C,/ | C, C,/C,/- C,/C,/ | F,3/ F,/z/ F,/ | F, F,/F,/- F,/F,/ | _G,2z/ [D,/F,/] | E, F,z |z2z/ E,/ | F,3/ F,,/- F,, | B,,3|]
+

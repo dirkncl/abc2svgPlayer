@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come, Let Us Sing The Story
+Z: H. W. Little
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D/ | (D/G/) A/ B e/ | d3/ c c/ | B A/ G c/ | B3/ A3/ | d ^d/ f e/ | (d3/ ^c) B/ | B B/ (^A/d/) ^c/ | ^c3/ B B/ | (B/F/) A/ c e/ | (e3/ d) B/ | (B/F/) A/ c e/ | (e3/ ^d3/) | g B/ e c/ | A3/ A3/ | (G/F/) G/ (B/A/) E/ | (F3/ F3/) | (G3/ G)|]
+w: Come, let_ us sing the sto- ry Of Christ the Lord of Glo- ry, Born on Christ- mas morn-_ ing, Born on Christ-_ mas morn- ing. Em- man_ uel is His Name,_ From heav’n_ to earth He come,_ On that Christ- mas morn- ing, On_ that Christ-_ mas morn-_ ing._
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come All You True Good Christians
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G3/ F/ G e | d3/ c/ B (c/A/) | G G F (A/B/) | G3 D | E3/ F/ G e | d3/ c/ B (c/A/) | G3/ E/ F (A/B/) | G3 c | B3/ A/ G c | (B3/ A/) G B | c3/ B/ c e | d3 D | G3/ F/ G e | (d3/ c/) B (c/A/) | G G F (A/B/) | G3|]
+w: Come all you true good Chris- ti ans, That_ liv- eth here on_ earth, O sal- u tate the morn- ing Of our_ Bles- sed Sa- viour's_ birth. This is the hap- py morn-_ ing! This is the bless- ed morn! To save us all from ru-_ in The_ Son of God was_ born.
+

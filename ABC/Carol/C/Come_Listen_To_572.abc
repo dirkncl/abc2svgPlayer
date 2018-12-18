@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come, Listen To The Story
+Z: J. Baden Powell
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 9/8
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E3/ | (E3/ E C) D/ (E/F/) G/ | A3/ E E/ F G/ | (E3/ E/)z/ E/ F G/ | E3/zz/ E3/ | (F3/ F/D/) E/ (F/G/) A/ | B3/ F F/ G A/ | (F3/ F/)z/ F/ G A/ | (F3/ F)z/ c3/ | (c3/ c) B/ (A/B/) c/ | (d c/) B A/ G F/ | (=E3/ E/)z/ A/ G F/ | =E3/zz/ C3/ | (c3/ c) B/ (A/B/) c/ | (e d/) c f/ e d/ | (c3/ c/)z/ E/ F G/ | (A3/ A)z/|]
+w: Come, lis-__ ten to_ the sto- ry of Je- su’s birth,_ of Je- su’s birth; How Christ__ the King_ of Glo- ry, came down to earth,_ came down to earth_ Left Heaven_ all pure_ and ho-_ ly to do God’s will,_ to do God’s will: Who with_ the meek_ and low-_ ly, is dwel- ling still,_ is dwel- ling still._
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Comes Again
+Z: Rev. J. H. Hopkins
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: All Rights Reserved
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G G G G | G2 F3/ G/ | A/ G/ F/ E/ D A | G2z2 | B B B B | B2 A3/ B/ | c/ B/ A/ G/ F d | B2z d | e (d/c/) d B | e (d/c/) d B | e (d/c/) d (c/B/) | (A/G/) (F/E/) D (E/F/) | G G G G | G2 F3/ G/ | A/ G/ F/ E/ D A | G2z2 | d d d d | d2 c3/ d/ | e/ d/ c/ B/ A d | G2z2|]
+w: Christ- mas comes a- gain! And the mer- ry, mer- ry Church bells ring, Christ- mas comes a- gain, Loud the hap- py lit- tle child- ren sing. Now "Glo- ry_ be to God on_ high," Re- sounds once_ more thro'_ earth_ and_ sky; For_ Christ- mas comes a- gain, And the mer- ry, mer- ry Church bells ring, Christ- mas comes a- gain, Loud the hap- py lit- tle child- ren sing.
+

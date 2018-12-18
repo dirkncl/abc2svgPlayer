@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Cross of Jesus
+Z: William J. Sparrow-Simpson, 1887 
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 19
+K: F
+[V: P1]  [CA] [A,F] [B,C] [B,C] | [A,C] [A,/F/]=B,/ [CF] [CE] | [CF] [A,A] D/E/ [C/F/]D/ | [EB] [FA] [FA] [EG] | F/E/ [DB] [CB] [F/A/]_E/ | [DG] [D/d/]E/ [Fd] [_Ec] | [Dc] [E/B/]D/ [_D/A/]G/ [A,/F/]=B,/ | [CF] [C/E/]B,/ [A,2F2]|]
+[V: P2]  F, F, [F,G,] [E,G,] | F, [D,/F,/]G,/ A, G, | F, F, F,/G,/ A, | B, C C2 | [D,A,] [G,/B,/][F,/A,/] [E,G,] [F,A,] | B, F, A, F, | F, G,/F,/ E, [D,/F,/]G,/ | A, G, F,2|]
+[V: P3]  F,,z3 |z2 C, C,/B,,/ | A,, F,, B,, A,, | G,, F,, C,2 | z4 | B,, B,, A,, A,, | B,, G,, A,,z | C, C, F,,2|]
+

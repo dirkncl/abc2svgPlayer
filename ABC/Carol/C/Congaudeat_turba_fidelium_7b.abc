@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Congaudeat Turba Fidelium
+Z: Unknown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  G | (G A B A G) F | (G3 d2) d | (c d) _e (d c) d | (B3 B2) B | d2 c d2 G | (G A) c (B A) F | (A B) c (B A) F | (G3 G2)|]
+w: From church____ to church_ the bells'_ glad tid-_ ings run:_ A Vir- gin hath con- ceived_ and borne_ a Son_ In Beth-_ le hem._
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Christmas Comes
+Z: Chas. H. Sunderland
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G G F (E D) | G G F (E/ D/) | G A B (c/ B/) | A3 d | d3/ d/ c B | A B c (B/ A/) | G F B3/ A/ | G3 B | B B B B | B B B A | G (A/ B/) F G | E3 B | B B B B | B B B A | G (A/ B/) F G | E3 D | G3/ A/ B e | d B G3/ G/ | c3/ B/ A G | F3 E | A3/ B/ c d | e c A c | B D E3/ A/ | G3|]
+w: The Christ- mas comes let_ praise a- bound! Loud_ an- thems now be-_ gin! For Him, whose Mo- ther, Ma- ry Found no_ wel- come at the inn. In Beth- le hem "no room" not one Save in a_ cat- tle kahn, A man- ger for her first- born Son, The Prince of_ Peace, God- man! To Him, our King, all prais- es bring, And give the Sav- iour room; He reigns to- day, To chase a- way The world's dark guilt and gloom.
+

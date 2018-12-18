@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Clear Upon The Night Air Sounding
+Z: H. Fleetwood Sheppard
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G B/ B A/ | B d/ d3/ | D F/ F E/ | F A/ A3/ | E F/ G D/ | E F/ G3/ | G A/ B F/ | G A/ B3/ | d B/ c B/ | A G/ A3/ | d B/ c B/ | (B/A/) G/ A G/"^Chorus" | E A/ F D/ | (G/F/) E/ D3/ | c3/ d3/ | (B3/ B) G/ | A E/ F D/ | (G3/ G) G/ | E A/ F D/ | (G/F/) E/ D3/ | c3/ d3/ | (B3/ B) G/ | A E/ F D/ | (G3/ G)|]
+w: Come, all friends, and keep the Feast, From the high- est to the least; Young and old, and rich and poor, O- pen stands the Church’- s door; One and all, with joy and mirth, Join to keep the Sav-_ iour’s Birth. No- el, No- el, good news_ we tell; Christ is born,_ No- el, No- el, No- el._ No- el, No- el, good news_ we tell; Christ is born,_ No- el, No- el, No- el._
+

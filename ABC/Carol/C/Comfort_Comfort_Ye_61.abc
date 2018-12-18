@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Comfort, Comfort Ye My People
+Z: From "Genevan Psalter," 1551
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F2 G A2 G | F E D2 C2 | F2 G A2 B | A2 G2 F2 | F2 G A2 G | F E D2 C2 | F2 G A2 B | A2 G2 F2 | A2 A c2 B | A G A2z2 | c2 c d2 c | B A G2z2 | A2 c B2 A | F G A2 F2 | A2 A B2 A | G F | E2 F2|]
+w: Com- fort, com- fort ye My peo- ple, Speak ye peace, thus saith our God; Com- fort those who sit in dark- ness, Mour- ning 'neath their sor- row's load; Speak ye to Je- ru sa lem Of the peace that waits for them; Tell her that her sins I cov- er, And her war- fare now is o- ver.
+

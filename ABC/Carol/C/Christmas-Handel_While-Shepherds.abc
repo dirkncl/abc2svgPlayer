@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas
+Z: Arranged from George F. Handel
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=95
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  (F3/4G/4) | A d c B | A (D3/4E/4) F (F3/4G/4) | A A A (G/F/) | (F E)z (c/d/) | e A G G | G (F/E/) F (d/c/) | B A G F | (B A)z e | A d F E | D3|]
+w: While_ shep- herds watch'd their flocks by_ night, All_ seat- ed on the_ ground;_ The_ An- gel of the Lord came_ down, And_ glo- ry shone all round,_ And glo- ry shone all round.
+[V: P2]  (D3/4C/4) | D F (E/F/) G | D (D3/4C/4) D D | D D (D/F/) (E/D/) | (D C)z A | (A/G/) F E ^C | D D D F | G F D D | D2z E | F (D3/4E/4) D C | D3|]
+[V: P3]  A, | A, A, A, (B,/C/) | D A, A, A, | A, F, D B, | A,2z E | E (D/=C/) B, A, | A, (A,/G,/) A, D, | D, (D/C/) B, A, | (G, F,)z (B,3/4C/4) | D (A,3/4B,/4) A,3/ G,/ | F,3|]
+[V: P4]  (D,3/4E,/4) | F, D, A, G, | F, (F,3/4E,/4) D, (D,3/4E,/4) | F, D, F, G, | A,2z (A,,/B,,/) | C, D, E, A,, | D, D, D, D, | D, D, D, D, | D,2z G, | F, (F,3/4G,/4) A, A,, | D,3|]
+

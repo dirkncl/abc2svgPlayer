@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Is Coming
+Z: English Traditional
+Z: Copyright © 2006 Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/2
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: D
+[V: P1]  D D/E/ F D/D/ | F/E/F/G/ A2 | d/A/A/A/ A/B/A/G/ | F E D/z/ A/A/ | F/A/A/A/ F/A/z/ A/ | F/d/c/B/ A/z/ A/A/ | F/A/A/A/ F/A/A/A/ |. B. c. d|]
+w: Christ- mas is com- ing, the geese are get- ting fat, Please to put a pen- ny in the old man's hat. If you have- n't got a pen- ny, a ha'- pen ny will do; If you have- n't got a ha'- pen ny, then God bless you!
+

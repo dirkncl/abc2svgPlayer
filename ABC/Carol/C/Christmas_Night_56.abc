@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Night
+Z: Arthur Henry Brown
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=162
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  F/ | d d/ (c/d/) c/ | B G/ F F/ | (G/A/) G/ (F/A/) d/ | c B/ A =G/ | (F/G/4) A/ A A/ | (F3/4G/4) A/ A A/ | d c/ d B/ | A G/ (F/E/) D/ | F B/ (c/d/) e/ | d c/ Bz/ | d3/4 c/4 B/ (^A/B/G/) | F F/ F B/ | A G/ (F3/4E/4) D/ | G F/ E A/ | F d/ (c3/4B/4) A/ | e ^G/ A d/ | c A/ B G/ | A F/ G E/ | F F/ (F3/4E/4) D/ | F F/ F d/ | (c/B/) c/ F B/ | B ^A/ B|]
+w: On Christ- mas night_ true Chris- tians sing To hear_ what news_ the an- gel bring News of_ great joy, cause of_ great mirth Good tid- ings of the Sa- viour's birth_ Good tid- ings of_ the Sa- viour's birth-    __    The King of kings_ to us is given, The Lord of earth_ and King of heaven; An- gels and men with joy may sing, To see and bless_ this new- born King, To see_ and bless this new- born King.
+

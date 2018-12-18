@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Bells
+Z: Sydney Cross
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: All Rights Reserved
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  D | E3/ D/ E G | A G2 G | A3/ G/ A c | d c2 c/ | e3/ d/ f e | d c B B | c3/ B/ d c | B A ^G2 | Gz Gz | (A/B/) (c/d/) e2 | Gz Gz | f e d2 | c A/ A/ F D | G E C2 | e d/ d/ c B | c B (A G) | (c2 B) G | A3 E | F2 E D | C3|]
+w: I heard the church bells ring- ing, I heard the child- ren sing- ing, With hap- py hearts and voi- ces sweet, On Christ- mas morn that song so meet. Ring, ring, mer-_ ry_ bells, Ring, ring, ring, ring, ring; This is the song the church bells ring, This is the song the an- gels sing,_ "Peace_ on earth, good- will to- ward men."
+

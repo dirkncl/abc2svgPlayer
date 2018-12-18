@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come O'er The Bourne, Bessie
+Z: Unknown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=135
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c c d c | A F c | c d c | A F c | B3/ A/ G | A3/ G/ A | G2 A | A c B | A A A | A c B | A2 c | B3/ A/ G | A2 A G2|]
+w: A Star doth be- di zen The West- ron ho- ri zon, As Ba- laam the seer did fore- say; And, drawn by the light of this me- te or bright, Three Eas- ter lings haste a- way.
+

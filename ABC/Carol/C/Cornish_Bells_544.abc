@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Cornish Bells
+Z: T. Tertius Noble
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=540
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Db
+[V: P1]  d | c2 A B2 F | G2 A F2 G | A2 B c2 d | (A3 A2) d | c2 A B2 d | c2 A B2 f | e2 c (d3/ c/) B | (A3 A2) A | e2 e d2 A | c2 c B2 F | A2 A c2 c | (f3 f2) B | e2 e A2 A | d2 d G2 B | A2 B A2 B | (A3 A2) d |"^Very broadly" c2 A B2 F | G2 A F2 A | f2 d f2 d | A2 A d2|]
+w: O mer- ry ring the Christ- mas bells a- cross the wes- tern land,_ From Launces- ton Town to Mi- chael’s Mount, from Bude to Sen-_ nen sand,_ The joy- ous e- cho sweeps a- long far spa- ces by the sea,_ And church bells an- swer church bells with their “Glo- ria Dom- i ne!”_ O Cor- nish bells ring far, ring free, Ring “Glo- ria Tib- i, Dom- i ne!”
+

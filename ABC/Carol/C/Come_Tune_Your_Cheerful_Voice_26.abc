@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Come, Tune Your Cheerful Voice
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=234
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F3/ | B F/ D F/ | B3/ c3/ | d f/ e d/ | (d3/ c)z/ | z4 |zz/z F/ | B B/ (c/B/) c/ | d B/ Bz/ | z4 |zz/z F/ | B B/ (c/B/) c/ | d3/ f3/ | c3/zz/ | z4 |zz/ e3/ | d c/ B A/ | B3/|]
+[V: P2]  F3/ | B F/ D F/ | F3/ F3/ | F F/ G =E/ | (F3/ F)z/ | z4 |zz/z D/ | D D/ (E/D/) E/ | F D/ Dz/ | z4 |zz/z F/ | F F/ F F/ | F3/ F3/ | F3/z F/ | F D/ (C/B,/) C/ | D3/ G3/ | F E/ D C/ | D3/|]
+[V: P3]  F,3/ | B, F,/ D, F,/ | D3/ A,3/ | B, D/ C B,/ | (B,3/ A,) F,/ | B, B,/ (C/B,/) C/ | D B,/ B,z/ | z4 | z4 | z4 |zz/z F,/ | D D/ C A,/ | B,3/ B,3/ | A,3/z D/ | D B,/ (A,/G,/) A,/ | B,3/ B,3/ | B, F,/ F, F,/ | F,3/|]
+[V: P4]  F,3/ | B, F,/ D, F,/ | B,3/ F,3/ | B, B,/ (E,/ F,/) G,/ | (F,3/ F,)z/ | z4 | z4 | z4 |zz/z F,/ | B, F,/ D, B,,/ | (F,3/ F,) F,/ | B, B,/ A, F,/ | B,3/ D,3/ | F,3/zz/ |zz/ F, A,/ | B,3/ E,3/ | (F,3/ F,) F,/ | B,,3/|]
+

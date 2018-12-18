@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Christmas Comes Again
+Z: C. Darnton
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  A3/ F3/ | d3/ B3/ | (e3/ e3/ | e3/) cz/ | A/ c/ (c/B/) A/ | (F3/ F3/) | E A/ (A/G/) A/ | (B3/ B3/) | A A/ (c/B/) A/ | d3/ ^d3/ | e (c/c/) d/ B/ | (A3/ A)z/ | A d/ (d/c/) B/ | A B/ A F/ | A d/ (d/c/) B/ | A B/ A F/ | E A/ A c/ | (e3/ e)z/ | c d/ (c/d/) B/ | (A3/ A)z/ | A3/ F3/ | d3/ B3/ | (e3/ e3/ | e3/) c|]
+w: No- el, No- el, No-__ el. Let us car-_ ols sing;_ Christ- mas comes_ a- gain!_ Let the wel-_ kin ring With loud and_ glad re- frain._ 'Tis a time_ of joy and glad- ness Cast a- way_ all gloom and sad- ness, Christ- mas comes a- gain,_ Christ- mas comes_ a- gain!_ No- el, No- el, No-__ el
+
