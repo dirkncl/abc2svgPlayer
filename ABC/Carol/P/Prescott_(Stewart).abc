@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Prescott (Stewart), 87.87.77
+Z: Robert Prescott Stewart, 1868
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Prescott (Stewart)"
+V: P2_2
+%%MIDI program 2 91
+K: D
+% Extracting voice 1 from part P1
+[V: P1_1]  [(F3/(A3/] [D/A/] [EA] B/c/ | [Dd] [EA] F [CA] | D3/ D/ [DE] [DE] | G E [D2)F2)] | [(F3/(A3/] [F/A/] B/c/ | [Fd] [FB] e3/ [z/^G] | | | | | [Gd] [EA] F [DG] | E3/ D/ D4)|]
+% Extracting voice 2 from part P1
+[V: P1_2]  x3  E | x2  F x1  | D3/ D/ x2  | D/C/ B,/C/ x2  | x2  A A | x2  E x1  d/ | | | | | x2  F x1  | D C/ D/ D4|]
+% Extracting voice 1 from part P2
+[V: P2_1]  [(D,3/(D3/] [F,/D/] [A,C] B,/A,/ | | | | D3/ D/ [CE] [CE] | D [z/D] A,/ [^G,B,] [E,E] | | B, C/ [E,/D/] [A,,2)C2)] | | | | A, [A,,G,] [D,4)F,4)]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  x3  G, | | | | (D3/ D/ x2  | B,3/ x3  | | E,3/ x2  | | | | A, x5 |]
+

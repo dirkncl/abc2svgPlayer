@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Redhead (Petra), 77.77.77
+Z: Richard Redhead, 1853
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="Redhead (Petra)"
+%%MIDI program 2 91
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | F [DF] E2) | | | | c3/ c/ [D2)B2)] | | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | E x1  | | | | G F/E/ x2  | | | ||]
+[V: P2]  [(E,(G,] [E,G,] [B,,B,] [E,B,] | [A,,3/C3/] [A,,/C/] [E,2B,2] | [E,G,] [C,G,] [B,,B,] [E,B,] | [A,,C] [B,,B,] [E,2)G,2)] | [(E,(G,] [C,C] [B,,D] [E,E] | [A,C] [A,D] [E,2E2] | [G,B,] [E,B,] [D,B,] [G,B,] | [E,B,] [F,=A,] [B,,2)B,2)] | [(G,(B,] [G,B,] [F,A,] [E,B,] | [A,,3/C3/] [A,,/C/] [E,2B,2] | [G,B,] [F,A,] [E,B,] [A,,A,] | [B,,G,] [B,,F,] [E,4)G,4)]|]
+

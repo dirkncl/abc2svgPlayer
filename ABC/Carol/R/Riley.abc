@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Riley
+Z: Martin Fallas Shaw, 1915
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Riley, 77.77 D"
+%%MIDI program 2 91
+V: P3 name="Riley, 77.77 D-2"
+%%MIDI program 3 91
+K: G
+[V: P1]  [DB] [DG] [CE] [A,D] | [DG] [B,G] [D2A2] | [DB] [DG] [CE] [A,D] | [DG] [EG] [D2G2] | [CE] [CG] [B,D] D | [DG] [^C/F/]G/ [D2A2] | [DB] [DG] [CE] [A,D] | [DG] [EG] [D2G2] | [GB] [Gd] [Gc] [GB] | [EA] [E^G] [E2A2] | [DA] [Cc] [DB] [EA] | [DG] [CE] [A,2D2] | [DB] [DG] [CE] [A,D] | [DG] [B,G] [EA] F | [GB] [Fd] [Ec] [DB] | [D/A/]G/ c/C/ [B,2-G2-] | [B,2G2]z2|]
+[V: P2]  G, G, G, F, | G, [E,G,] F,2 | G, G, G, F, | G, C B,2 | G, [E,G,] G, [F,A,] | [E,B,] A,/G,/ F,2 | G, G, G, F, | G, C B,2 | [G,D] [G,B,] [E,C] [G,D] | E [E,B,] C2 | [F,A,] [E,G,] F, E,/F,/ | G, G, G, F, | G, G, G, F, | G, [E,G,] C2 | D B, G, G, | G, F, G,2- | G,2z2|]
+[V: P3]  G,, B,, C, D, | B,,z D,2 | G,, B,, C, D, | B,, C, G,,2 | C,z3 |z A,, D,2 | F,, B,, C, D, | B,, C, G,,2 | z4 | C,z A,,2 |z2 D, C, | B,, C, D,2 | G,, B,, C, D, | B,,z A,,2 | G,, B,, C, G,, | D, D, G,,2- | G,,2z2|]
+

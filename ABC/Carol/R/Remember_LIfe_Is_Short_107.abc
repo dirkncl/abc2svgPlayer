@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Remember, Life Is Short
+Z: Rev. W. J. Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  G G G | B3/ A/ G | ^F2 G | (A3/ ^F/) D | G G G | B3/ A/ G | ^F F G | A3 | B d d | d3/ c/ B | A c2 | (c3/ B/) A | B A G | ^F3/ G/ A | B A3/ B/ | G3|]
+w: Re- mem ber, life is short, O man, O_ man! Re- mem ber, O thou man, ere time is spent; Re- mem ber, O thou man, how hope seem'd_ gone, And how thy God yet called thee to re- pent!
+

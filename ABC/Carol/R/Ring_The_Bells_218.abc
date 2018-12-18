@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring The Bells, The Christmas Bells
+Z: T. C. Dean
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D/ E/ F G | c/ G/ B3/ B/ | A3/ ^G/ A/ d/ | d d2 | D/ E/ F G | c/ G/ B3/ B/ | A B/ ^c/ f/ | e d2 | B/ A/ d B | G/ A/ D3/ G/ | B3/ B/ c/ d/ | e A2 | A/ A/ B A | d/ B/ g3/ e/ | d3/ c/ B/ G/ | A G2 | d/ B/ G/ A/ E/ F/ | D2z | d/ B/ G/ A/ E/ F/ | D2z | D G A | (B c) d | e3 | ezz | D2 (D | D) D D | E2 E | G2 B | d2 d | d2 d | e3 | d3|]
+w: Ring the bells, the Christ- mas bells; Chime out the wond- rous sto- ry; First in song on An- gel tongues It came from realms of glo- ry; Peace on earth, good- will to men, An- gel ic voi- ces ring- ing Christ the Lord to earth has come, His glor- ious mes- sage bring- ing. Ring the mer- ry Christ- mas bells; Ring the mer- ry Christ- mas bells; Chime out the wond-_ rous sto- ry; Glo- ry_ be to God on high, For ev- er more be glo- ry.
+

@@ -1,0 +1,31 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rejoice Today
+Z: Henry R. Baldwin, circa 1903
+Z: Music by Frank Treat Southwick
+Z: Public Domain, Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Rejoice Today"
+V: P2_2
+%%MIDI program 2 91
+K: D
+% Extracting voice 1 from part P1
+[V: P1_1] "^Alla Breve" | | | | | | | [FB] (c/d/) [^Gc] [GB] | A3 A | (B/c/) (d/e/) [GA] [FA] | (G/A/) (B/c/) [Fd] [DA] | [DA] (G/F/) [EG] [CB] | | [FA] [DF] E [CF] | [EG] (F/E/) [DA] D | (E/F/) (A/G/) [B,F] [CE] | D3|]
+w: 1. Re-_ joice_ to-_ day_ with_ glad_ ac-_ cord,_ For_ Christ,_ the_ Lord,_ is_ come:___ Ful-_ fill_ èd_ the_ pro-_ phe_ tic_ word,_ In_ Da-_ vid’s_ Beth-_ le__ hem. For__ un-_ to_ us_ a___ Child_ is_ born;_ To___ us_ a_ Son_ is__ given;___ To_ raise_ our_ fall- en__ na-_ ture_ up,_ And__ make_ us_ heirs_ of___ Heav’n._
+% Extracting voice 2 from part P1
+[V: P1_2] "^Alla Breve" | | | | | | | x1  F x2  | A3 A | G G x2  | E G x2  | x1  E x2  | | x2  E x1  | x1  C x1  D | E E x2  | D3|]
+w: 1. Re-_ joice_ to-_ day_ with_ glad_ ac-_ cord,_ For_ Christ,_ the_ Lord,_ is_ come:___ Ful-_ fill_ èd_ the_ pro-_ phe_ tic_ word,_ In_ Da-_ vid’s_ Beth-_ le__ hem. For__ un-_ to_ us_ a___ Child_ is_ born;_ To___ us_ a_ Son_ is__ given;___ To_ raise_ our_ fall- en__ na-_ ture_ up,_ And__ make_ us_ heirs_ of___ Heav’n._
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | | [A,B,] [A,B,] A, [F,A,] | | | | [E,B,] A, [F,A,] [B,,B,] | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | | x2  A, x1  | | | | x1  (A,/G,/) x2  | ||]
+

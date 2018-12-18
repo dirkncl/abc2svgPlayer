@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Prince of Peace, 12.12.12.12
+Z: Cyril Barker
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="The Prince of Peace"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Staff 2"
+V: P2_2
+%%MIDI program 2 91
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | [G3/B3/] [F/A/] G [GB] | | | | | | | | | [E2c2] B2 | | | [GB] G/A/ [FB] [Ec] | | G4|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x2  G x1  | | | | | | | | | x2  D G | | | x1  G x2  | | G4|]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | | | | | [G,D] B,/C/ [B,,D] [A,,E] | [D,2D2] D C ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | | | | | x1  D, x2  | x2  D,2 ||]
+

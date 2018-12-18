@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Pater Omnium
+Z: Henry J. E. Holmes, 1875
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=125
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="Pater Omnium"
+V: P2_2
+%%MIDI program 2 -1
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | c B [DG] | | | | | F E [B,F] | | | | B c [EG] | | | | | | [(C(G] [CE] C | | G E C | | | B [FA] | G D [CE] ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | D2 x1  | | | | | =B,2 x1  | | | | C2 x1  | | | | | | x2  B, | | C2 | | | F- F x1  | D2 x1  ||]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | | | | | | | | | | E, G, [B,,E,] | | | A, D [C,C] | ||]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | | | | | | | | | | C,2 x1  | | | C,2 x1  | ||]|] Z 
+

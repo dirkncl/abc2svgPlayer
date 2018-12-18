@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Puer Natus in Bethlehem
+L: 1/4
+M: 4/4
+Q: 1/4=155
+V: P1 name="Staff"
+%%MIDI program 1 21
+V: P2 name="Staff-2"
+%%MIDI program 2 21
+V: P3 name="Staff-3"
+%%MIDI program 3 21
+V: P4 name="Staff-4"
+%%MIDI program 4 21
+K: C
+[V: P1] z3 A | [M: 3/4]  A2 A [K: C]  | B2 B [K: C]  | c2 A [K: C]  | [M: 2/4]  G2 [K: C]  | [M: 1/4]  G [K: C]  | [M: 3/4]  c2 d [K: C]  | c2 B [K: C]  | c3 [K: C]  |z2 c [K: C]  | c2 c [K: C]  | B2 A [K: C]  | A2 ^G [K: C]  | [M: 2/4]  A2 [K: C]  | [M: 1/4]  A [K: C]  | [M: 3/4]  G2 A [K: C]  | B2 B [K: C]  | c2 B [K: C]  | A2 ^G [K: C]  | A3|]
+[V: P2] z3 C | [M: 3/4]  C2 C [K: C]  | D2 D [K: C]  | E2 C [K: C]  | [M: 2/4]  C2 [K: C]  | [M: 1/4]  C [K: C]  | [M: 3/4]  C2 B, [K: C]  | A,2 G, [K: C]  | G,3 [K: C]  |z2 G, [K: C]  | G,2 C [K: C]  | D2 C [K: C]  | A,2 B, [K: C]  | [M: 2/4]  C2 [K: C]  | [M: 1/4]  C [K: C]  | [M: 3/4]  C2 C [K: C]  | D2 D [K: C]  | E2 D [K: C]  | C B,2 [K: C]  | C3|]
+[V: P3] z3 E | [M: 3/4]  E2 ^F [K: C]  | G2 G [K: C]  | G2 F [K: C]  | [M: 2/4]  E2 [K: C]  | [M: 1/4]  E [K: C]  | [M: 3/4]  E2 G [K: C]  | E D2 [K: C]  | E3 [K: C]  |z2 E [K: C]  | E3/ D/ E/^F/ [K: C]  | G2 E [K: C]  | D2 E [K: C]  | [M: 2/4]  E2 [K: C]  | [M: 1/4]  F [K: C]  | [M: 3/4]  E2 ^F [K: C]  | G2 G [K: C]  | G3/ ^F/ G [K: C]  | E E2 [K: C]  | E3|]
+[V: P4] z3 A, | [M: 3/4]  A,2 A, [K: C]  | G,2 G, [K: C]  | C,2 F, [K: C]  | [M: 2/4]  C,2 [K: C]  | [M: 1/4]  C, [K: C]  | [M: 3/4]  A,,2 G,, [K: C]  | A,, F,, G,, [K: C]  | C,3 [K: C]  |z2 C, [K: C]  | C,2 A,, [K: C]  | G,,2 A,, [K: C]  | F,2 E, [K: C]  | [M: 2/4]  A,,2 [K: C]  | [M: 1/4]  F,, [K: C]  | [M: 3/4]  C,2 A,, [K: C]  | G,,2 G, [K: C]  | C,2 G, [K: C]  | A, E,2 [K: C]  | A,,3|]
+

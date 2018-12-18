@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring The Bells, The Christmas Bells
+Z: C. Erskine
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=141
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  e d/ c B/ | A F/ E E/ | (E/F/) G/ (A/B/) c/ | =d3/ e3/ | e _d/ c B/ | A F/ E F/ | (G/e/) =d/ (c/B/) A/ | F3/ E3/ | G G/ B B/ | A c/ B G/ | E E/ G F/ | F3/ B3/ | B e/ =d c/ | B A/ G B/ | E B/ c e/ | F3/ E3/ | e d/ c B/ | A F/ E E/ | (E/F/) G/ (A/B/) c/ | =d3/ e3/ | e d/ c B/ | (A/B/4) c/ (B3/4c/4) A/ | (A/f/) e/ (d/c/) B/ | B3/ A|] Z 
+w: Ring the bells, the Christ- mas bells; Chime out_ the wond-_ rous sto- ry; First in song on An- gel tongues It came_ from realms_ of glo- ry; Peace on earth, good- will to men, An- gel ic voi- ces ring- ing Christ the Lord to earth has come, His glor- ious mes- sage bring- ing. Ring the mer- ry Christ- mas bells; Chime out_ the wond-_ rous sto- ry; Glo- ry be to God_ on high,_ For ev-_ er more_ be glo- ry.
+

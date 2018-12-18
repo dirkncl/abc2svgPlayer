@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Regent Square
+Z: Henry Smart
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  G E | c G e3/ d/ | c G A A | G c G F | E2 G E | c G e3/ d/ | c B c B | A (B/c/) B A | G2 d3/ d/ | B G e3/ d/ | c A f e | d c c B | c2|]
+w: An- gels from the realms of glo- ry, Wing your flight o'er all the earth; Ye who sang cre- a tion's sto- ry Now pro- claim Mes-_ si ah's birth. Come and wor- ship, come and wor- ship Wor- ship Christ, the new- born King.
+[V: P2]  E C | G E G3/ G/ | G G C C | C C D B, | C2 E C | G (G/F/) E3/ F/ | E E E E | E E G ^F | G2 G3/ G/ | G G G3/ E/ | F F A G | F (E/F/) G3/ F/ | E2|]
+[V: P3]  C G, | G, C C3/ B,/ | C C A, C | G, A, G, G, | G,2 C C | G, G, C3/ B,/ | A, ^G, A, ^G, | E (D/C/) D C | B,2 B,3/ B,/ | D B, C3/ _B,/ | A, C D B, | (A,/B,/) C D D | C2|]
+[V: P4]  C, C, | E, C, G,3/ F,/ | E, E, F, F, | E, A,, B,, G,, | C,2 C G, | E, (E,/D,/) C,3/ D,/ | E, E, A, E, | C, A,, D, D, | G,,2 G,3/ G,/ | G, G, C,3/ C,/ | F, F, D, E, | (F,/G,/) A, G, G,, | C,2|]
+

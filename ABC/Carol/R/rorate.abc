@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rorate
+Z: Scottish traditional tune
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=113
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Rorate"
+V: P2_2
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | [CA] G3/4F/4 [DF] G/A/ | [Fc] A/c/ [Dd] [G/e/][A/f/] | c3/ [z/C] B/A/ G/F/ | [CD] [B,G] [B,)G)] (c3/4B/4 | [CA] G3/4F/4 [DF] G/A/ | [Fc] A/c/ [Gd] e/f/ | c3/ [z/F] B/A/ G/F/ | [B,F] [C)F)] (A/B/ | [F3/c3/] [D/d/] c/A/ G/A/ | c3/4A/4 c/[F/d/] c3/ [z/F] | [EG] A/c/ f/e/ d/c/ | d3/4e/4 [F3/)d3/)] [(G/(e/] | f3/ [z/G] [Fd] c/A/ | [DG] A/c/ [G)_e)] (d/=e/4f/4 | c3/ [z/F] B/A/ G/F/ ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | x1  C x1  E | x1  E x2  | G x1  A/ B, C | x3  C | x1  C x1  E | x1  E x1  A | G x1  A/ F C | D x2  F | x2  F C | F3/ x0  F x1  A/ | x1  E F G | A G x2  | A x1  e/ x1  F | x1  F x1  F | E x1  A/ D D ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | [G,,G,] D,3/4E,/4) [(G,,(D,] [E,G,] | | | | | | | | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | x1  G,, x2  | | | | | | | | | | | ||]
+

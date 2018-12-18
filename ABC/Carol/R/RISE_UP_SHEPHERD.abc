@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: RISE UP SHEPHERD
+Z: Traditional
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=96
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: Db
+[V: P1] z3 [A,/F/d/][B,/G/B/] | [A,Fd] [A,/F/d/][C/G/B/] [A,Fd] [B,DFB] [K: Db]  | [E,D=GB] [A,C_GA] [D2F2A2] [K: Db]  | [A,=B,EA] [A,B,EA] [A,/=D/B/][A,/D/B/] [E,=G,_D_B] [K: Db]  | [G,/C/A/][G,/-C/-A/-] [G,CA]z [B,/F/d/][C/G/B/] [K: Db]  | [A,Fd] [B,/D/F/B/][B,/C/F/B/] [E,B,=Gd] [E,/G,/D/B/][E,/G,/D/B/] [K: Db]  | [G,CA] [G,CB] [A,/D/F/][G,/E/] [F,A,D] [K: Db]  | [E,=G,DF] [E,G,DF] [_G,/C/E/][G,/C/E/] [F,B,D] [K: Db]  | [G,/B,/][F,/-D/-] [F,D]z2 [K: Db]  | D [F,F] [A,A] [A,A] [K: Db]  | [B,B] [B,B] [A,2A2] [K: Db]  | [A,=B,EA] [A,B,EA] [A,/=D/B/][A,/D/B/] [E,=G,_D_B] [K: Db]  | [G,/C/A/][G,/-C/-A/-] [G,CA]z2 [K: Db]  | D [F,F] [A,A] [A,A] [K: Db]  | [B,B] [B,B] [A,2A2] [K: Db]  | [E,=A,F] [=D,_A,F] [=G,/E/][G,/E/] [G,_D] [K: Db]  | [G,/B,/][F,/-D/-] [F,D]z2 [K: Db]  | D3/ [F,/F/] [A,2A2] [K: Db]  | [A,2A2] [A,2A2] [K: Db]  | [A,=B,EA] [A,B,EA] [A,/=D/B/][A,/D/B/] [E,=G,_D_B] [K: Db]  | [G,/C/A/][G,/-C/-A/-] [G,CA]z2 [K: Db]  | D [F,3/4F3/4][F,/4F/4] [A,A] [A,A] [K: Db]  | [B,B] [A,A] [F,/F/][E,/E/] D [K: Db]  | [E,=A,F] [=D,_A,F] [=G,/E/][G,/E/] [G,_D] [K: Db]  | [G,/B,/][F,/-D/-] [F,D]z2|]
+[V: P2] z3 D,/D,/ | D, D, D,z [K: Db]  |z2 D,2 [K: Db]  |z2 B,,/B,,/z [K: Db]  | A,,/A,,/- A,,z D,/D,/ [K: Db]  | D,z3 [K: Db]  | A,, A,, D, D, [K: Db]  |z2 A,,/A,,/ A,, [K: Db]  | [A,,/C,/][D,,/-A,,/-] [D,,A,,]z2 [K: Db]  | D,z3 [K: Db]  | z4 [K: Db]  |z2 B,,/B,,/z [K: Db]  | A,,/A,,/- A,,z2 [K: Db]  | D,z3 [K: Db]  | z4 [K: Db]  | C, B,, [B,,/D,/][B,,/D,/] [E,,B,,] [K: Db]  | [A,,/C,/][D,,/-A,,/-] [D,,A,,]z2 [K: Db]  | D,2z2 [K: Db]  | z4 [K: Db]  |z2 B,,/B,,/z [K: Db]  | A,,/A,,/- A,,z2 [K: Db]  | D,z3 [K: Db]  |z3 D, [K: Db]  | C, B,, [B,,/D,/][B,,/D,/] [E,,B,,] [K: Db]  | [A,,/C,/][D,,/-A,,/-] [D,,A,,]z2|]
+

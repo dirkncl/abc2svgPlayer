@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring Out The Bells For Christmas
+Z: J. Mosenthal
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G | c3/ B/ A c | G2 E G | c G c G | c2z G | G3/ A/ G G | G3/ A/ G (c/B/) | A A B3/ A/ | G2z G | d3/ d/ e d | c2 G G | d3/ d/ e d | c2z G | c3/ B/ A c | G2 E G | A A B B | c2z|]
+w: Ring out the bells for Christ- mas, The hap- py, hap- py day, In win- ter wild, the Ho- ly Child With-_ in a cra- dle lay. O won- der ful! The Sav- iour Is in a man- ger lone; His pal- ace is a sta- ble, And Ma- ry's arm His throne.
+

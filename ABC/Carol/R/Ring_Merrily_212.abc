@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring Merrily
+Z: J. W. Treadwell
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c/ | A/ G/ F/ c/ | A/ G/ F/ C/ | F/ G/ A/ B/ | c3/ f/ | c/ B/ A/ c/ | c/ B/ A/ A/ | c/ A/ c/ d/ | e3/ d/ | c/ A/ c/ =B/ | A3 A/ | A/ B/ A/ d/ | f/ e/ d/ A/ | d/ A/ F/ D/ | A3/ A/ | A/ A/ A/ =B/ | c/ =B/ A/ D/ | G/ F/ E/ D/ | C3/ c/ | A G | F c | A/ G/ F/ C/ | F/ F/ F/ B/ | A3/ C/ | F/ G/ A/ G/ | A/ B/ c/ B/ | A/ F/ A3/4 G/4 | Fz/|]
+w: Ring Mer- ri ly! Ring Mer- ri ly! O hap- py Christ- mas Bells; And let us hear a- gain the tales Your mu- sic e- ver tells Your mu- sic e- ver tells: How Christ- ian men in oth- er days Made feast with- in their halls, Hung mis- tle toe and hol- ly wreaths A- round their old oak walls; How rich and poor knelt side by side, At call of Christ- mas chimes; And how the bonds of Christ- ian love Bound up the "good old times."
+

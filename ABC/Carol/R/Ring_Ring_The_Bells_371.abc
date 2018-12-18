@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring, Ring The Bells
+Z: F. A. Challinor
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c/ | (c/B/) A/ G c/ | (c/B/) A/ G F/ | (E3/4F/4) G/ (A/B/) c/ | (d3/ d/)z/ G/ | (c/d/) c/ B B/ | (A/B/) A/ G G/ | (^F/A/) c/ (c/B/) A/ | (G3/ G/)z/ G/ | d d/ G G/ | c c/ B G/ | (c3/4B/4) c/ d A/ | (e3/ e/)z/ e/ | (e/A/) e/ d d/ | (d/G/) d/ c B/ | (A3/4B/4) A (A3/4B/4) A/ | (e3/ d/)z/"^Chorus" G/ | (c3/4d/4) e/ A c/ | (F3/4G/4) A/ G F/ | (E3/4F/4) G/ (A/B/) c/ | (d3/ d) G/ | (c3/ c/)z/|]
+w: Ring, ring_ the bells, the joy-_ ful bells! This mer-_ ry Christ-_ mas morn,_ Their sweet_ me- lo dious mu-_ sic tells The day_ when Christ_ was born._ They sweet- ly sound o'er vale and glen; Hark! how_ their mu- sic swells_ With "Peace_ on earth, good will_ to men!" O mer-_ ry Christ-_ mas bells!_ Ring, ring_ the bells, the Christ-_ mas bells, The mer-_ ry, mer-_ ry Christ-_ mas bells!_
+

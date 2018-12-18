@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ratisbon
+Z: J. G. Werner's Choralbuch, 1815
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: C
+[V: P1]  [CG] [CG] [CA] [FB] | [Ec] [Ec] [D2B2] | [CA] [EB] [DG] [CE] | [CF] [B,D] C2 | [CE] [CE] [B,D] [CE] | [CF] [DF] [C2E2] | [CE] [EA] [E/^G/]D/ [CA] | [FB] [EB] [C2A2] | [Cc] [CA] [B,G] [CE] | [CF] [D/F/]C/ [B,2E2] | [EA] [CA] [DG] [CE] | [CD] [B,D] C2- | C2z2|]
+[V: P2]  [C,E,] [E,G,] F, [D,F,] | [C,G,] [C,G,] [G,,2G,2] | [A,,E,] [A,,E,] [B,,G,] [C,G,] | [F,,A,] [G,,G,] [C,2E,2] | [C,G,] [C,G,] [G,,G,] [C,G,] | [A,,A,] [B,,G,] [C,2G,2] | [C,G,] [A,,C] [E,B,] [F,A,] | [D,A,] [E,^G,] [A,,2A,2] | [F,,A,] [F,,F,] [G,,D,] [A,,A,] | [D,A,] [D,/B,/]A,/ [E,2^G,2] | [C,A,] [A,,E,] [B,,G,] [C,G,] | [F,,A,] [G,,G,] [C,2-E,2-] | [C,2E,2]z2|]
+

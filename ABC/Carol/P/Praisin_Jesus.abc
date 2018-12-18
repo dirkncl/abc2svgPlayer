@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Praisin' Jesus
+Z: Steve Adams, 1980
+Z: Copyright © 1980, Steve Adams
+Z: All Rights Reserved
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: Bb
+[V: P1]  F3/ E/ | E (D3 | D2) B3/ A/ | A (G3 | G4) | A A A A | A3/ A/ B A | G (F3 | F)z F3/ E/ | E (D3 | D2) B3/ A/ | A (G3 | G4) | A A A B | c3/ c/ c/B/ A | (B4 | B2)z2 | F3/4F/ F D B,3/4B,/ | E G A/ G3/ | F F G F/(D/ | D2)z/ D/ D/ D/ | E2 F3/ E/ | D Cz/ C/D/E/ | F F G3/ F/ | F2z D3/4E/ | F/ F3/ D B, | c B A3/ G/ | F F3/4F/ G3/4G/ F3/4(D/ | D3)z/ D/ | C D F/ G3/ | A/ B (c/ c)z/ A/ | B3/ c/ A G | Fz|]
+w: Prais- in' Je- sus,_ prais- in' Je- sus;_ Christ- mas is the time for prais- in' Je- sus._ Praisin- in; Je- sus,_ prais- in' Je- sus;_ Christ- mas is the time for prais- in' the Lord._ Christ- mas is more than a time for hang- ing hol- ly on the door,_ or wrap- ping toys for the child- ren or go- ing shop- ping at the store. It's the sea- son for ex- press ing what I feel all the rest of my days._ The Christ I wor- ship makes life rich_ and He de- serves my praise.
+

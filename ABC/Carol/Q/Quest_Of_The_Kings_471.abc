@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Quest Of The Three Kings
+Z: T. Tertius Noble
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1] zzz/ G/ | c c/ G G/ | c c/ G G/ | e e/ d d/ | c c/ d G/ | c c/ G G/ | c c/ G e/ | d d/ d B/ | d d/ G/z/ G/ | =f f/ e e/ | f f/ e c/ | G G/ A d/ | G G/ A d/ | (e3/4^f/4) e/ d A/ | (d3/4e/4) d/ c c/ | c A/ c A/ | A F/ D G/ | c c/ G G/ | c c/ G G/ | (c/d/) e/ (c/d/) e/ | d G/ c3/|]
+w: From sil- ver gates of Ec- ba toun, O cam- el bells a- cross the sand! King Gas- par rides in gold- en crown To seek his King in Jud- ah land; With o- rient pearls and gem wrought rings His slaves are la- den with the store; He rides_ a- pace; the King_ of kings Shall have his hom- age ev- er more. O fi- li i et fi- li ae, Sing "Chris-_ te Rex_ sanc- tis si me!"
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Purpose
+Z: Martin Fallas Shaw, 1915
+Z: Public domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Purpose, Martin F. Shaw"
+%%MIDI program 2 91
+K: C
+[V: P1]  [CEA] [D/F/B/]B/ [EGc] [D/F/B/]B/ | [CEA] [B,DG] [A,CE] [B,/D/G/]G/ | [C/E/c/]c/ B A/A/ [DFG] | [C3E3A3] [D/F/]A/ | [CEA] [D/F/B/]B/ [EGc] [D/F/B/]B/ | [CEA] [B,/D/B/]G/ [A,CE] [B,/D/G/]G/ | [CEAc] [DFB] [EGc] [D/F/B/d/]d/ | [E4G4c4e4] | [E^GB] [^F/A/c/]d/ [GBe] [FAd] | [E/^G/B/]B/ [^FA] [GB] [EFce] | [DGd] [C/c/]c/ [B,B] [A,FA] | [DE] [A,C] [^G,B,] E/E/ | [E^F] [D/^G/]G/ [CA] [B,/B/]B/ | [CEAc] [D/G/d/]d/ [GAeg] [F/B/f/]f/ | [Ece] [Ad] [C/G/c/]A/ [B,FB] | [CEA] D C2 | [CEA] [D/F/B/]B/ [EGc] [D/F/B/]B/ | [CEA] [B,DG] [A,CE] [B,/D/G/]G/ | [C/E/c/]c/ B A/A/ [DFG] | [C3E3A3] [D/F/]A/ | [CEA] [D/F/B/]B/ [EGc] [D/F/B/]B/ | [CEA] [B,/D/B/]G/ [A,CE] [B,/D/G/]G/ | [CEAc] [DFB] [EGc] [D/F/B/d/]d/ | [E4G4c4e4] | [E^GB] [^F/A/c/]d/ [GBe] [FAd] | [E/^G/B/]B/ [^FA] [GB] [EFce] | [DGd] [C/c/]c/ [B,B] [A,FA] | [DE] [A,C] [^G,B,] E/E/ | [E^F] [D/^G/]G/ [CA] [B,/B/]B/ | [CEAc] [D/G/d/]d/ [GAeg] [F/B/f/]f/ | [Ece] [Ad] [C/G/c/]A/ [B,FB] | [CEA] D C2 | [CEA] [D/F/B/]B/ [EGc] [D/F/B/]B/ | [CEA] [B,DG] [A,CE] [B,/D/G/]G/ | [C/E/c/]c/ B A/A/ [DFG] | [C3E3A3] [D/F/]A/ | [CEA] [D/F/B/]B/ [EGc] [D/F/B/]B/ | [CEA] [B,/D/B/]G/ [A,CE] [B,/D/G/]G/ | [CEAc] [DFB] [EGc] [D/F/B/d/]d/ | [E4G4c4e4] | [E^GB] [^F/A/c/]d/ [GBe] [FAd] | [E/^G/B/]B/ [^FA] [GB] [EFce] | [DGd] [C/c/]c/ [B,B] [A,FA] | [DE] [A,C] [^G,B,] E/E/ | [E^F] [D/^G/]G/ [CA] [B,/B/]B/ | [CEAc] [D/G/d/]d/ [GAeg] [F/B/f/]f/ | [Ece] [Ad] [C/G/c/]A/ [B,FB] | [CEA] D C2 | [CEA] [D/F/B/]B/ [EGc] [D/F/B/]B/ | [CEA] [B,DG] [A,CE] [B,/D/G/]G/ | [C/E/c/]c/ B A/A/ [DFG] | [C3E3A3] [D/F/]A/ | [CEA] [D/F/B/]B/ [EGc] [D/F/B/]B/ | [CEA] [B,/D/B/]G/ [A,CE] [B,/D/G/]G/ | [CEAc] [DFB] [EGc] [D/F/B/d/]d/ | [E4G4c4e4] | [E^GB] [^F/A/c/]d/ [GBe] [FAd] | [E/^G/B/]B/ [^FA] [GB] [EFce] | [DGd] [C/c/]c/ [B,B] [A,FA] | [DE] [A,C] [^G,B,] E/E/ | [E^F] [D/^G/]G/ [CA] [B,/B/]B/ | [CEAc] [D/G/d/]d/ [GAeg] [F/B/f/]f/ | [Ece] [Ad] [C/G/c/]A/ [B,FB] | [A,EA] [B,DGB] [CEAc] [DBd] | [E4A4^c4e4]|]
+[V: P2]  F,4 | A,, B,, C, B,, | A,, G,, E,, G,, | C, B,, A,, G,, | A,,4 | A,, B,, C, B,, | A,, G,, E,, G,, | C, B,, C, D, | E,2 B,, C,/D,/ | E, D, B,, A,, | B,, E, D, C, | [B,,E,] A,, E,,z |z E,, ^F,, ^G,, | A,, B,, C, D, | G, F, E, D, | C, B,, A,,2 | F,4 | A,, B,, C, B,, | A,, G,, E,, G,, | C, B,, A,, G,, | A,,4 | A,, B,, C, B,, | A,, G,, E,, G,, | C, B,, C, D, | E,2 B,, C,/D,/ | E, D, B,, A,, | B,, E, D, C, | [B,,E,] A,, E,,z |z E,, ^F,, ^G,, | A,, B,, C, D, | G, F, E, D, | C, B,, A,,2 | F,4 | A,, B,, C, B,, | A,, G,, E,, G,, | C, B,, A,, G,, | A,,4 | A,, B,, C, B,, | A,, G,, E,, G,, | C, B,, C, D, | E,2 B,, C,/D,/ | E, D, B,, A,, | B,, E, D, C, | [B,,E,] A,, E,,z |z E,, ^F,, ^G,, | A,, B,, C, D, | G, F, E, D, | C, B,, A,,2 | F,4 | A,, B,, C, B,, | A,, G,, E,, G,, | C, B,, A,, G,, | A,,4 | A,, B,, C, B,, | A,, G,, E,, G,, | C, B,, C, D, | E,2 B,, C,/D,/ | E, D, B,, A,, | B,, E, D, C, | [B,,E,] A,, E,,z |z E,, ^F,, ^G,, | A,, B,, C, D, | G, F, E, D, | C, B,, A,,/G,,/ F,, | [A,,4A,4^C4]|]
+

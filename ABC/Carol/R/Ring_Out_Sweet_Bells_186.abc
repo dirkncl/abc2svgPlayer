@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring Out, Sweet Bells
+Z: W. J. Westbrook
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  d | c A B F | G A F d | c A B F | A G F E | D A ^G c | B A ^G B | e c B ^G | A2 B2 | c3 d | c B A f | e d c d | c A B F | A2 G2 | F3|]
+w: Ring out, sweet bells, your Christ- mas chime, Your chime of wel- come, clear and brave; This night there came with us to dwell Our Je- sus, came to dwell and save. Ring out, sweet bells, Ring out sweet bells, Our Je- sus came to dwell and save.
+

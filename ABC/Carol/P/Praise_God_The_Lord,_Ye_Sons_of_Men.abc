@@ -1,0 +1,21 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Praise God the Lord, Ye Sons of Men
+Z: Nikolaus Herman, 1554
+Z: Public Domain
+Z: Original Title: Lobt Gott, Ihr Christen Allzugleich
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Treble Clef"
+%%MIDI program 1 0
+V: P2 name="Bass Clef"
+%%MIDI program 2 0
+K: F
+[V: P1] z3 [CF] | [Fc] [Gc] [Fc] [Fc] | [Fd] [E/c/]B/ [CA] [FA] | [FB] [Gc] [Ad] [Gd] | [E3c3] [Ec] | [Fc] [Gc] [Fc] [CA] | [Fc] [D/B/]A/ [EG] [Gc] | [FA] F [FG] [EG] | [C2F2] [F2A2] | [Cc] [DF] [FG] [EG] | [C3F3]z | [D2F2] [C2F2]|]
+[V: P2] z3 [F,A,] | [F,A,] [E,C] [F,A,] [A,,C] | [B,,B,] [C,G,] [F,,F,] [F,C] | [D,D] [E,C] [F,C] [G,=B,] | [C,3C3] [C,G,] | [F,A,] [E,C] [F,A,] [F,,F,] | [A,,F,] [B,,F,] [C,C] [E,C] | [F,C] [A,,C] [B,,D] [C,C] | [F,,2A,2] [F,2C2] | [E,G,] [D,A,] [B,,D] [C,C] | [F,,3A,3]z | [B,,2B,2] [F,,2A,2]|]
+

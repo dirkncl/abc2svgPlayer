@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rustington
+Z: Charles Hubert Hastings Parry, 1897
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=112
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Rustington"
+%%MIDI program 2 19
+V: P3 name="Rustington-2"
+%%MIDI program 3 19
+K: C
+[V: P1]  C3/ C/ [CF] E/B,/ | [A,D] A,/C/ [G,B,] G, | [G,C] C [CA] [CG] | [CF] B,/G/ [C2E2] | [G,D] [B,G] [C^F] E/B,/ | [A,D] A,/C/ [G,B,] G, | [G,D] [G,C] [G,B,] G, | [G,A,] ^F,/A,/ G,2 | G, [G,^A,] [G,=A,] F,/A,/ | [F,A,] [A,C] [A,C] [G,B,] | [G,B,] [B,D] [A,C] A,/C/ | [A,C] [CF] [CD] B, | [B,D] [B,A] [CG] [C^A] | [CA] G/^A,/ [=A,F] [A,E] | [A,D] [DF] [C/E/]B,/ [A,D] | [F,A,] [F,B,] [E,2-C2-] | [E,2C2]z2|]
+[V: P2]  [C,E,] B,,/E,/ [A,,F,] G, | A, F, D, B,, | C, G, F, G, | A, [D,F,] [C,2G,2] | [B,,G,] G, [A,,A,] [C,G,] | [D,G,] ^F, G, B,, | D, E, D, B,, | E, D,/C,/ B,,2 | C, C, C,3/ C,/ | D, D, D, D, | E, E, [A,,3/E,3/] [A,,/E,/] | F, A, A, G, | G, [F,G,] [E,G,] [E,G,] | F, [C,E,] [D,F,] [A,,C,] | D, A, G, F,/E,/ | D, D, C,2- | C,2z2|]
+[V: P3] z3 G,, | F,, D,, G,,3/ F,,/ | E,, E,, F,, E,, | D,,z3 |z E,,z2 |z D,, G,, G,, | B,,, C,, D,, E,, | C,, D,, G,,2 | E,, E,, F,,3/ E,,/ | D,, D,, G,, G,, | E,, E,,z2 | F,, D,, G,,2 | z4 | z4 | F,, D,, E,, F,, | F,, G,, C,,2- | C,,2z2|]
+

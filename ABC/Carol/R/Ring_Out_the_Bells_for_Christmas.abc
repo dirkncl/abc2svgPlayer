@@ -1,0 +1,30 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring Out the Bells for Christmas
+Z: William Augustine Ogden, 1870
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: 4/4
+Q: 1/4=107
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Ring Out the Bells"
+V: P2_2
+%%MIDI program 2 91
+K: Bb
+% Extracting voice 1 from part P1
+[V: P1_1]  F/ | B/ F/ D/ B,/ F F/ F/ | [E/c/] [E/A/] [E/G/] [E/A/] [D3/B3/] F/ | B/ F/ D/ B,/ C/ D/ E/ [E/G/] | [D/F/] [D/F/] [E/A/] [E/A/] [D3/B3/] (A/4B/4) | | [=E/c/] [E/B/] [E/A/] [E/G/] (A F/) (A/4B/4) | | [=E/c/] [E/B/] [E/A/] [E/G/] F3/||"^Refrain" F/ | B/ F/ D/ B,/ F F/ F/ | [F/c/] [F/A/] [F/G/] F/ [Fd] [D/B/] F/ | B/ F/ D/ B,/ F F/ F/ ||]
+w: Ring_ out the bells for Christ- mas, The_______ hap-_ py_ hap-_ py_ day;_ In_ win- ter wild, the ho- ly Child With-________ in_ the_ cra-_ dle_ lay._ O__ won-_ der_ ful!_ the_ Sav-_ ior_ Is_ in_ the_ man-_ ger_ lone;_ His___ pal-_ ace_ is_ a_ sta-_ ble,_ And_ Ma-_ ry’s_ arms_ His_ throne._ Ring_ out the bells for Christ- mas, The_______ mer-_ ry,_ mer-_ ry Christ-_ mas,_ Ring__ out the bells for Christ- mas, The_______ hap-_ py,_ hap-_ py_ day._
+% Extracting voice 2 from part P1
+[V: P1_2]  F/ | B/ F/ D/ B,/ F F/ F/ | x3  F/ | B/ F/ D/ B,/ C/ D/ E/ x0  | x3  F/ | | x2  F3/ F/ | | x2  F3/||"^Refrain" F/ | B/ F/ D/ B,/ F F/ F/ | x1  F/ x1  F/ | B/ F/ D/ B,/ F F/ F/ ||]
+w: Ring_ out the bells for Christ- mas, The_______ hap-_ py_ hap-_ py_ day;_ In_ win- ter wild, the ho- ly Child With-________ in_ the_ cra-_ dle_ lay._ O__ won-_ der_ ful!_ the_ Sav-_ ior_ Is_ in_ the_ man-_ ger_ lone;_ His___ pal-_ ace_ is_ a_ sta-_ ble,_ And_ Ma-_ ry’s_ arms_ His_ throne._ Ring_ out the bells for Christ- mas, The_______ mer-_ ry,_ mer-_ ry Christ-_ mas,_ Ring__ out the bells for Christ- mas, The_______ hap-_ py,_ hap-_ py_ day._
+% Extracting voice 1 from part P2
+[V: P2_1]  F,/ | B,/ F,/ D,/ B,,/ F, F,/ F,/ | [F,/A,/] [F,/C/] [F,/C/] [F,/C/] [B,,3/B,3/] F,/ | B,/ F,/ D,/ B,,/ C,/ D,/ E,/ [D,/B,/] | [F,/B,/] [F,/B,/] [F,/C/] [F,/C/] [B,,3/B,3/] (F,/4G,/4) | [F,/A,/] [F,/A,/] [F,/B,/] [F,/B,/] [F,A,] [F,/C/] F,/ | [C,/G,/] [C,/G,/] [C,/C/] [C,/C/] (C A,/) (F,/4G,/4) | [F,/A,/] [F,/A,/] [F,/B,/] [F,/B,/] [F,A,] [F,/C/] F,/ | [C,/G,/] [C,/G,/] [C,/C/] [C,/B,/] A,3/|| | B,/ F,/ D,/ B,,/ F, F,/ F,/ | [F,/A,/] [F,/C/] [F,/C/] [F,/A,/] [B,,B,] [B,,/B,/] F,/ | B,/ F,/ D,/ B,,/ F, F,/ F,/ | [F,/A,/] [F,/C/] [F,/C/] F,/ [B,,3/F,3/]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  F,/ | B,/ F,/ D,/ B,,/ F, F,/ F,/ | x3  F,/ | B,/ F,/ D,/ B,,/ C,/ D,/ E,/ x0  | x3  F,/ | x3  F,/ | x2  F,3/ F,/ | x3  F,/ | x2  F,/E,/D,/|| | B,/ F,/ D,/ B,,/ F, F,/ F,/ | x3  F,/ | B,/ F,/ D,/ B,,/ F, F,/ F,/ | x1  F,/ x1 |]
+

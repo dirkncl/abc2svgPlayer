@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rex Gloriose
+Z: Public Domain
+L: 1/4
+M: 5/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: E
+[V: P1]  E [EG] [EA] [DB] [EB] | [M: 4/4]  [Ec] [Ad] [Ge] [GB] | [Ee] F/d/ [Gc] [FB] | [EGc] [C/F/^A/]E/ [D2B2] [K: E]  | [M: 5/4]  [EB] [Ec] [CEA] [DB] [CEG] [K: E]  | [M: 4/4]  [CEG] [DF] E [CEe] | [Fd] [Fc] [GB] [CG] | [F/A/]G/ [DF] E2|]
+[V: P2]  [E,G,] [E,/B,/]D,/ [C,A,] [B,,F,] [G,B,] | [M: 4/4]  A,/G,/ [F,A,] [E,B,] [E,B,] | [G,B,] [F,B,] [E,/G,/]^A,/ [D,B,] | C, F, [B,,2B,2] [K: E]  | [M: 5/4]  [G,B,] A,/[G,/B,/] F, [G,B,] E, [K: E]  | [M: 4/4]  F, [B,,/B,/]A,/ [C,G,] C, | [D,B,] D,/A,/ E, =F,/B,/ | [F,A,] B,, [E,2G,2]|]
+

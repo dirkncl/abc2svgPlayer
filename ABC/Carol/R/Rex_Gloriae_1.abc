@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rex Gloriae
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1]  [EGc] [DG] [Ec] [Gd] | [Ge] G/[D/f/] [DGe] [Gd] | [Gg] [Ec] [Ad] [A/e/]f/ | [Ge] [Gd] [G2e2] | [Ge] [Gd] [Ge] [DGg] | [E/c/]^F/ [DGB] [DGB] [D=FA] | [Ad] [D/B/d/]A/ [Gg] [DGB] | [GA] [D^FA] G2 | G3/ [G/A/] [DGB] [FAd] | [EGc] [DGB] [F/A/]D/ [EG] | [Ec] [Gd] [G/e/][D/f/] [EGg] | [Gf] [Ge] [G2d2] | [Gc] G [Gc] [Gd] | [Ge] c/[D/f/] [DGe] [Gd] | [Gg] [Ec] [Af] [Ge] | [Gd] d/F/ [E2c2]|]
+[V: P2]  C B, [A,C] [G,/B,/]F,/ | [E,C] C, E, [G,B,] | [E,C] [A,C] [F,C] [E,/C/]D,/ | [G,C] [G,B,] [C,2C2] | C [G,B,] C B, | A, B,/C/z D, | [^F,C] D,/C/ [E,B,] D, | C, D,/C/ [G,2B,2] | [G,3/B,3/] [G,/C/] G, D, | E,/F,/ G, [A,/C/]B,/ C | [A,C] [G,B,] C E, | [D,B,] [C,C] [G,B,] F, | [E,C] [G,/B,/]F,/ [E,C] [D,B,] | [C,C] A, G, B,/F,/ | [E,C] [A,C] [F,C] [C,C] | [G,C] [G,B,] [C,2C2]|]
+

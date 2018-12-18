@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Regina Caeli Letare
+Z: Richard R. Terry
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=189
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  B/ | B c/ B c/ | B/ G/ A/ (B B/) | B c/ B c/ | (B/e/) c/ B B/ | B3/4 A/4 G/ (A3/4G/4) F/ | (G3/4F/4) E/ F B/ | e B/ A/ G/ F/ | E3/ E B/ | c e/ f/ e/ d/ | e3/ e|]
+w: . Ho- ly may- den, blys- sid thou be,_ God- es Sonne is born_ of thee; The Fa- ther of hea-_ ven wor-_ ship we, Re- gi na cae- li, le- ta re, Re- gi na cae- li, le- ta re.
+[V: P2]  E/ | E E/ D D/ | E/ E/ E/ (E D/) | E E/ D D/ | E F/ D F/ | E E/ E D/ | E E/ D F/ | E E/ E/ E/ D/ | E/D/C/ B, E/ | E B/ A/ A/ F/ | (G A/) G|]
+[V: P3]  G,/ | G, G,/ A, A,/ | G,/ B,/ E,/ (F, F,/) | G, G,/ A, A,/ | B, =A,/ B, B,/ | B, C/ (C3/4B,/4) A,/ | G, B,/ B, B,/ | B, B,/ F,/ G,/ A,/ | (G, A,/) B, B,/ | A, B,/ C/ C/ B,/ | (B, C/) B,|]
+[V: P4]  E,/ | E, E,/ F, F,/ | G,/ E,/ C,/ (B,, B,,/) | E, E,/ F, F,/ | G, F,/ B, _A,/ | G, C,/ F, B,,/ | E, G,,/ B,, A,/ | G, G,,/ B,,/ B,,/ B,,/ | C,/B,,/A,,/ G,, G,/ | A, G,/ F,/ F,/ B,/ | E,3/ E,|]
+

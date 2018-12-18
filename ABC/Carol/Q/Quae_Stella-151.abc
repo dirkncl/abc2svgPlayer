@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Quae Stella
+Z: Michael Pratorius
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  E | E2 F | G2 A | (G F) G | E2 E | B2 c | d2 B | c2 d | e2 e | e2 e | e2 B | B2 A | G2 G | E2 F | G2 A | (G F/E/) F | E2|]
+[V: P2]  E | B,2 F | E2 E | (E D) D | C2 E | F2 F | F2 G | (E F) F | G2 G | A2 G | G2 G | F2 F | E2 D | C2 D | E2 E | E2 D | C2|]
+[V: P3]  G, | G,2 B, | B,2 C | B,2 G, | G,2 C | D2 C | B,2 B, | A,2 B, | B,2 B, | C2 B, | C2 B, | D2 C | C2 B, | G,2 B, | B,2 C | B,2 F, | G,2|]
+[V: P4]  E, | E,2 D, | E,2 A,, | B,,2 =B,, | C,2 C, | B,,2 =A,, | B,,2 E, | (A, F,) B,, | E,2 E, | A,2 E, | C,2 E, | B,,2 F, | C,2 G,, | C,2 B,, | E,2 A,, | B,,2 B,, | E,2|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rich Gold From The Earth Is Delved
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | B A/ G/ A D | Gzz D | E F/ G/ A B/ c/ | Fzz E/ E/ | c d/ c/ B c/ d/ | e/ c/ (A/ G/) F A/ A/ | d2 G2 | F2 E2 | D3"^Chorus." D | c B/ A/ B B | e3 A | A B/ c/ B A/ A/ | d3 G | G A/ B/ c A/ A/ | (B/ A/) (B/ c/) d B/ B/ | (G/ A/) B A3/ A/ | G3|]
+w: Rich gold from the earth is delved, With toil from deep mines it is torn; Yet by wise men de- vout It was free- ly pour'd_ out, When the King our Lord was born. Fair love is the cost- liest, best, And choic- est of gra- ces that be, This give we to Christ, For His love_ un-_ priced At His glad_ E- pi pha ny.
+

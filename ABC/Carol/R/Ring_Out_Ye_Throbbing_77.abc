@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring Out, Ye Throbbing Stars of Night
+Z: Mrs. J. H. Barbour
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Db
+[V: P1]  A =G/ A/ B A | F A d2 | d c/ d/ e d | c B E3/ F/ | G G c B | A2 G F | E d c B | B2 Az/ A/ | =G A B A | F A d d | c d e d | c B E3/ F/ | G G c B A2 G F | E d c B | B2 A [M: 6/8]  A | e2 =d e2 c | d2 B A2 A | (B B) c d2 B | A F A2 A | B2 c d2 A | f3 e3 | (d3 d3)|]
+w: Ring out, ye throb- bing stars of night! Fill all the world with rhy- thmic light For which men long have wait- ed; For which men long have wait- ed! Re- peat the joy- ous song that roll'd From Hea- vens eter- nal depths of old When earth was first cre- a ted, When earth was first cre- a ted! To- ge ther sing! For God doth bring Je- sus,_ the e- ver last ing Lord, To be by all His works a- dored._
+

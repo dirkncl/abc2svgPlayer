@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring Out, O Bells! Your Peals Today
+Z: Unknown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d | d B G c | B3/ A/ G (G/ F/) | E c B A | G3 D | D D D D | B3/ A/ G d | d3/ c/ B A | G3z |"^Chorus"z/ D/ G/ B/ d3/ B/ | c A Bz |z/ D/ G/ B/ d3/ d/ | (e/d/) (c/A/) G G | d G ez |z/ D/ G/ B/ d3/ d/ | (e/ d/) (c/ A/) G2 | B B Bz|]
+w: Ring out, O bells, your peals to- day, O_ ring, and do not cease; For in a man- ger, far a- way, Is born the Prince of Peace. Ring on, ye bells, O sweet- ly ring, While we with hap- py voi-_ ces_ sing! Ring on, ring on, Ring on, ye bells, O sweet-_ ly_ ring, sweet- ly ring!
+

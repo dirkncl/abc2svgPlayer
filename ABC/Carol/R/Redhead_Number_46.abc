@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Redhead Number 46
+Z: Richard Redhead (1820-1901)
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=113
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Redhead No. 46 (87.87)"
+%%MIDI program 2 91
+K: C
+[V: P1]  [Gc] [GB] [Ec] [Ge] | [Ad] [E/c/]F/ [Gc] [GB] | [EA] [Dd] [DG] [Gc] | [GA] [^FB] G2 | G [Gc] [Gc] [GB] | [Gd] [Ge] [A/f/]F/ [Ge] | [Ge] [Gg] [Ag] [cf] | [ce] [Bd] c2- | c2z2|]
+[V: P2]  [CE] [G,D] [A,C] [E,C] | [F,C] [A,C] [G,D] [G,D] | [G,C] [F,A,] [F,B,] [E,C] | [D,D] [D,/D/]C/ [G,2B,2] | [E,C] [C,E] [G,E] [G,D] | [F,B,] [E,C] [D,/C/]B,/ [C,C] | [C,C] [E,C] [F,C] [F,A] | [F,G] G,/F/ [C,2-E2-] | [C,2E2]z2|]
+

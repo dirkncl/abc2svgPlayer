@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring On, Ye Joyous Christmas Bells
+Z: Henry Wilson
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G/ | A/ G/ c/ G/ | A/ d/ B/ G/ | c/z/z/ d/ | e/z/z/ G/ | A/ G/ c/ G/ | A/ d/ B/ G/ | B/z/z/ A/ | G/z/z/ d/ | c/ A/ B/ G/ | E/ ^F/ G/ d/ | c/ A/ B/ G/ | E/ ^F/ G/ d/ | B/ A/ G/ d/ | B/ A/ G/ G/ | f3/ e/ | d/z/z/ G/ | A/ G/ c/ G/ | A/ d/ B/ G/ | c3/ d/ | e3/ e/ | d/ c/ f/ e/ | d/ c/ A/ F/ | G/z/ d | c/z/z|]
+w: Ring on, ye joy- ous Christ- mas bells! Ring on! Ring on! What tale of love your mu- sic tells! Ring on! Ring on! “The Christ” is born For sin- ful men: 'Tis Christ- mas morn, Ring out a- gain! Ring out a- gain! Ring out a- gain! Ring out a- gain! Ring on, ye joy- ous Christ- mas Bells! Ring on! Ring on! What tale of love your mu- sic tells! Ring on! Ring on!
+

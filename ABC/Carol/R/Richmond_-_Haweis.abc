@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Richmond - Haweis
+Z: Thomas Haweis, 1792
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Richmond (Haweis), CM"
+%%MIDI program 2 19
+K: F
+[V: P1]  [A,C] [CF] [FA] | [Gc] E [DB] | [CA] [DB] [C/G/]B,/ | [A,2F2] [CA] | [CG] c [DF] | [CE] F [=B,D] | C3 | [CG] [CA] [DG] | [CF] [GB] [FA] | [EG] [Fc] [F/B/]F/ | [FA] [F2d2] | [Fc] D [EB] | [F/A/]E/ [D/A/][D/G/] [CF] | [CE] [C2-F2-] | [C2F2]z|]
+[V: P2]  F, [F,A,] [F,C] | [E,C] C, [D,/F,/][E,/G,/] | [F,A,] [B,,F,] [C,E,] | F,2 F, | [E,2G,2] [F,A,] | G,2 [G,,/G,/]F,/ | [C,3E,3] | [E,C] [F,C] B, | [A,C] [G,D] C | [B,C] [A,C] G, | [F,C] B,2 | [A,,C] [B,,F,] [G,,G,] | [A,,F,] [B,,/F,/]G,/ [C,A,] | [C,G,] [F,2-A,2-] | [F,2A,2]z|]
+

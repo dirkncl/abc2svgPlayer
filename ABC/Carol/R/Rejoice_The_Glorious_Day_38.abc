@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rejoice, The Glorious Day Is Come
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=80
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  B F3/4E/4 |zz/ F/ | (d d3/4) c/4 | B/ B/ e/ e/ | c/ c/ d/ d/ | c B | A3/z/ | z4 | z4 | z4 |zz/ d/ | d (d/ d/) | c3/ d/ | e c | d3/ d/ | e/ d/ c/ B/ | A3/ B/ | c/ B/ A/ G/ | F3/ A/ | B3/4 B/4 B/ c/ | d3/4 d/4 d/ c/ | d3/4 d/4 d/ (f/4d/4) | c3/4 c/4 c/z/ | z4 | z4 | z4 |z d | B d | c A | B2|]
+[V: P2] z2 | D/ B,/z/ F/ | (F F3/4) F/4 | G/ G/ G/ G/ | F/ F/ F/ F/ | G F | F3/z/ | z4 | z4 | z4 |zz/ F/ | F (F/ F/) | F3/ F/ | G F | F3/ F/ | G/ F/ E/ D/ | C3/z/ |zz/ E/ | F/ (D/4C/4) D/ E/ | F3/4 F/4 (F | F3/) F/ | F3/4 F/4 F/ (F/4G/4) | C3/4 C/4 F/ (E/4D/4) | F3/ (E/4D/4) | C3/ (B,/4A,/4) | (B,3/4 C/4 D/) (E/4D/4) | D F | D (G/F/) | G F | F2|]
+[V: P3] z2 |zz/ F,/ | (B, B,3/4) C/4 | D/ D/ C/ C/ | A,/ A,/ B,/ B,/ | E D | C3/ F,/ | G,3/4 A,/4 B,/ C/ | Dz/ D/ | E3/4 D/4 C/ B,/ | (B, A,/) B,/ | B, (B,/ B,/) | A,3/ B,/ | B, A, | B,3/z/ |zz/ D/ | E/ D/ C/ B,/ | A,/z/z/ B,/ | B,/ A,/ B,/ C/ | D3/4 D/4 D/ A,/ | B,3/4 B,/4 B,/ A,/ | (B,2 | B,/) (A,/4G,/4) A,/ B,/ | A,/ B,/ C/ D/ | E/ C/ (F | F2 | F) A, | F B, | E C | D2|]
+[V: P4]  B, F,3/4E,/4 | D,/B,,/z/ F,/ | (B, B,3/4) A,/4 | G,/ G,/ E,/ E,/ | F,/ F,/ B,/ B,/ | E, B,, | F,3/ D,/ | E,3/4 F,/4 G,/ A,/ | B,z/ B,/ | C3/4 B,/4 A,/ G,/ | F,3/ B,/ | B, (B,/ B,/) | F,3/ B,/ | E, F, | B,,3/z/ |zz/ B,/ | C/ B,/ A,/ G,/ | F,/ G,/ F,/ E,/ | D,/ F,/ (B,, | B,,3/)z/ |zz/ F,/ | B,3/4 B,/4 B,/ (D,/4E,/4) | F,3/4 F,/4 F,/ B,,/ | F,/ G,/ A,/ B,/ | C/ B,/ A,/ F,/ | D,/ B,,/ (B, | B,) (F,/G,/4A,/4) | B,/A,/ G,/D,/ | E, F, | B,,2|]
+

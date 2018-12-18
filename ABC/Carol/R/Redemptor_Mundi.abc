@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Redemptor Mundi
+Z: A. H. Brown
+Z: Public  domain
+L: 1/4
+M: none
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Redemptor Mundi"
+V: P2_2
+%%MIDI program 2 91
+K: D
+% Extracting voice 1 from part P1
+[V: P1_1]  (F | E D G3/ G/ | d [Gc] B | [F3A3] A | ^G A B c | d B A ^G | A3) c | d B c3/ A/ | d F G A | B3 A | B c d e | A F E G ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  D | C E3/ E/ | F A x1  G | x3  E | E E E E | D F E E | E3 (E | E E E3/ C/ | D D D D | D3 D | D G F G | F D D C ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  (A, | G, F, A,3/ A,/ | A,3/ C/ C D | | D C B, | A, D C B, | | B, G, A,/ | A, =C B, A, | | G, G, B, A, | A, A, [G,B,] A, ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  D, | D, D, C,3/ C,/ | D, F,/- F,/ G, B, | | B, A, ^G, A, | F, D, E, E, | | ^G, E, A,3/ =G,/ | F, A, G, F, | | E, B,, C, | D, F, x1  ||]
+

@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Quand Dieu Naquit A Noel
+Z: Traditional French
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  c/ B/ G/ G/ | d/ d/ B | d/ d/ G/ B/ | B A | B/ B/ E/ E/ | d/ d/ B | d/ d/ e/ e/ | d/ ^c/ d | B/ d/ g/ d/4 d/4 | c/ B/ c | c/ c/ d/ c/ | B/ A/ B/ B/4 c/4 | d/ d/ d/ B/4 c/4 | d/ d/ d/ B/4 c/4 | d/ B/4 c/4 d/ B/4 c/4 | d d | e2 | d2 | G3/4 A/4 B/ c/ | A2 | G2|]
+

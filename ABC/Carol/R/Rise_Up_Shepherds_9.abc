@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rise Up, Shepherds, And Follow
+Z: Africian-American Spiritual
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  f/ e/ | f f/ e/ f d | d c c2 | c c _e/ e/ d | c c3/z f/ d/ | f d/ d/ f d/ d/ | c d (A/ G/ F) | A A G/ G/ F | D/ F3/z2 |"^Chorus" F A c c | d d c2 | c c _e/ e/ d | c c3/z2 | F A c c | d d c2 | A A G/ G/ F | D/ F3/z2 | (F3/ A/) c2 | c2 c2 | c c _e/ e/ d | c/ c3/z2 | F A/ A/ c c | d c (A/ G/ F) | A A G/ G/ F | D/ F3/|]
+w: There's a star in the East on Christ- mas morn Rise up shep- herds and fol- low. It 'll show you the place where the child is born.__ Rise up shep- herds and fol- low. Leave your sheep and leave your lambs. Rise up shep- herds and fol- low. Leave your ewes and leave your rams. Rise up shep- herds and fol- low. Fol-_ low, fol- low, rise up shep- herds and fol- low. Fol- low the star of Beth- le hem__ Rise up shep- herds and fol- low.
+

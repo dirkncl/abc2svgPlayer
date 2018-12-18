@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ring Out The Bells For Christmas
+Z: Rev. J. S. B. Hodges
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  d | c3/ B/ A G | F D2 E | F3/ G/ A B | E3 d | c3/ B/ A G | F3/ E/ A A | e3/ d/ c B | A2z A | B3/ B/ G B | d2 d d | A3/ A/ B A | G3 B | A3/ G/ F E | (D3/ E/) F F | G3/ A/ B c | d2z"^Chorus" d | c3/ B/ A G | F D2 E | F3/ G/ A B | E3 d | c3/ B/ A G | F D2 F | G3/ A/ B c | d3|]
+w: Ring out the bells for Christ- mas, The hap- py, hap- py day, In win- ter wild, the Ho- ly Child With- in a cra- dle lay. O won- der ful! The Sav- iour Is in a man- ger lone; His pal- ace is a sta-_ ble, And Ma- ry's arm His throne. Ring out the bells for Christ- mas, The hap- py, hap- py day, Ring out the bells for Christ- mas, The hap- py, hap- py day.
+

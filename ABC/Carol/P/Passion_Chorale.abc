@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Passion Chorale
+Z: Hans L. Hassler,1601
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="Passion Chorale"
+V: P2_2
+%%MIDI program 2 -1
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | A [EG] F [CE] | D2 [CE] [EB] | [Ec] [Ec] B/A/ B | | A [EG] F [CE] | D2 [CE] [EB] | [Ec] [Ec] B/A/ B | | [DB] G [CA] [FB] | c2 [Ec] [EG] | A [EG] [EA] [DF] | | [DB] [Dd] c [GB] | A2 [GB] [CE] | F [CE] D [B,G] ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | C/D/ x1  A,/B,/ x1  | C B, x2  | x2  E E/D/ | | C/D/ x1  A,/B,/ x1  | C B, x2  | x2  E E/D/ | | x1  D/C/ x2  | F E/D/ x2  | E/D/ x3  | | x2  E/^F/ x1  | G ^F x2  | C/B,/ x1  C x1  ||]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  | A,/B,/ [E,C] [D,D] [C,G,] | | A, A, [E,A,] [E,^G,] | | A,/B,/ [E,C] [D,D] [C,G,] | | A, A, [E,A,] [E,^G,] | [A,,3)A,3)] (A,/G,/ | [D,F,] [E,G,][E,/F,/] F,/G,/ | A, G,/F,/ [C,G,] C/_B,/ | [F,A,] [^C,A,] A, A, | | [^F,A,] G,/A,/ B,/G,/ | [C,E] [D,D] [G,,D] G, | ||]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  | F, x3  | | A,,/B,,/ C,/D,/ x2  | | F, x3  | | A,,/B,,/ C,/D,/ x2  | x3  A,, | x2  F,/- x0  D, | C,2 x1  C, | x2  D,/E,/ F,/G,/ | | G, x1  E, D, | x3  C,/B,,/ | ||]|] Z 
+

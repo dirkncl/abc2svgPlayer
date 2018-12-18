@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Quant'e Dolce Il Vagheggiare
+Z: Traditional Italian
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: F
+[V: P1]  c c c d | d d c2 | (A3/ B/ c2) | c c d c | B A G2 | F4 | A A G A | B B B2 | (A3/ B/ c2) | c c d c | B A G2 | F2 F E | D E F F | G2 A2 | c c d c | B A G2 | F4|]
+w: Fa la nin- na, fa la nan- na,__ Here the Lul- la by be- gin neth, By the daugh- ter of Saint An- na__ Sung o'er Je- su, while she spin- neth, And while An- gels chant O- san na, Fa la nin- na, fa la nan- na.
+[V: P2]  A A F F | G F E2 | (F3/ G/ A2) | G F F F | F F (F E) | F4 | F F _E E | D _E D2 | (C2 F2) | E F F E | F F (F E) | F2 D ^C | D ^C D D | (D E) F2 | A A A A | F F (F E) | (F3/ G/ A2)|]
+[V: P3]  C C C B, | B, B, C2 | (C3/ B,/ A,2) | C A, B, C | D C C2 | A,4 | C D B, C | B, G, F,2 | (F,3/ G,/ A,2) | A, A, B, G, | B, C C2 | A,2 A, A, | A, G, A, D | B,2 C2 | F E F E | D C C2 | (A,3/ B,/ C2)|]
+[V: P4]  F, F, A, B, | G, G, C2 | F,4 | E, F, B,, A,, | B,, F, C,2 | F,4 | F, D, _E, C, | G, _E, B,,2 | F,,4 | A,, F,, B,, C, | D, F, C,2 | D,2 D, A, | F, E, D, A, | G,2 F,2 | F, A, D A, | B, F, (C C,) | F,4|]
+

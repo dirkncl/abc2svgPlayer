@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Remember, O Thou Man
+Z: From "Melismata," Thos. Ravenscroft, 1611
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/2
+Q: 1/4=380
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  G2 G2 G2 | B3 A G2 | F3 F G2 | A3 ^F D2 | G2 G2 G2 | B3 A G2 | F2 F2 G2 | A6 | B2 d2 d2 | d3 c B2 | A2 c2 c2 | c3 B A2 | B2 A2 G2 | ^F3 G A2 | c2 =B2 A2 | G3|]
+w: Re- mem ber, O thou man, O thou man, O thou man. Re- mem ber, O thou man, Thy time is spent: Re- mem ber, O thou man, How thou art dead and gone, And I did what I can, There- fore re- pent.
+

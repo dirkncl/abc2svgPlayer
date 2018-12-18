@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rosmore, 65.65.D with refrain
+Z: Henry G. Trembath, 1893
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Rosmore"
+V: P2_2
+%%MIDI program 2 91
+K: Ab
+% Extracting voice 1 from part P1
+[V: P1_1]  | G3/ A/ [E2G2] | | | | A3/ A/ [E2G2] | [=Dc] [DB] [DA] G/F/ | | | d3/ B/ F2 | | | | B2 A2 | | | | =A B [E2e2] | | c2 B2) | | e3/ c/ [C2A2] | [FB] c/ d/ B3/ [E/A/] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | E2 x2  | | | | E2 x2  | x3  D | | | =F2 | | | | G F E _E | | | | E2 x2  | | =D4 | | E2 x2  | x1  F G E/ x0  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | D2 [E,,E,] [B,2D2] | | [A,4C4] | | | [B,,A,] [B,,F,] [B,,C] B,/A,/ | | | B, D [B,2D2] | | | | | C3/ C/ [B,,B,] [B,,A,] | [E,G,] [F,A,] B, =B,) | | D2 [E,,E,] [G,2D2] | | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | B,, B, x1  B,, E,, | | A,, E,, G,, E,,) | | | x3  B,, | | | B,,2 x2  | | | | | B,, B,,/- B,,/ x2  | x2  G,2 | | G,, G, x1  G,, E,, | | | | | ||]
+

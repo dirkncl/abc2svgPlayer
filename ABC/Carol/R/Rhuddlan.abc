@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rhuddlan
+Z: Welsh traditional melody
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Rhuddlan, 87.87.87"
+%%MIDI program 2 91
+V: P3 name="Rhuddlan, 87.87.87-2"
+%%MIDI program 3 91
+K: G
+[V: P1]  [D3/G3/] [D/G/] [DG] [DG] | [GB] [DG] [FA] D | [D3/F3/] [D/F/] [EG] [EG] | [DF] [CE] [CD] B, | [D3/G3/] [D/G/] [EG] [EG] | [DB] [EG] [CA] D | [D3/F3/] [D/F/] [EG] [EG] | [DF] [^CE] D2 | [DB] [Dd] [D3/4B3/4]A/4 G | [EA] [Cc] [D3/4F3/4]E/4 D/C/ | [B,3/G3/] G/ [FB] [Dd] | [EB] [FA] G2- | G2z2|]
+[V: P2]  [G,3/B,3/] [G,/B,/] [G,B,] [G,B,] | D D D F, | B,3/ B,/ [E,B,] [E,B,] | B, G, G,2 | [G,3/B,3/] [G,/B,/] [E,B,] [E,B,] | B, [E,B,] A, F, | B,3/ B,/ [E,B,] [E,B,] | [F,/A,/]G,/ A, F,2 | G, [F,A,] [G,B,] [E,B,] | A, A, A,3/4G,/4 F, | [E,3/B,3/] [E,/B,/] F, G, | G, C B,2- | B,2z2|]
+[V: P3]  z4 | G,, B,, D, D, | B,,3/ B,,/z2 | B,, C, G,,2 | z4 | B,,z A,, D, | B,,3/ B,,/z2 |z2 D,2 |z3z/ D,/ | C, A,, D, D, |z2 D, B,, | C, D, G,,2- | G,,2z2|]
+

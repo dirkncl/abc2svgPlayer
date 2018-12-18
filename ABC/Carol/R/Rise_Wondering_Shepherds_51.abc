@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Rise, Wondering Shepherds, Rise
+Z: Arranged by Mr. H. S. Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  A2 c3/ B/ | (A/ B/) (c/ d/) e e | f e d c | B2z B | (c/B/c/d/ e) f | e2 ^d2 | e4 | A3/ A/ A B | B/ A/ (c/ d/) c2 | e3/ d/ c (c/ B/) | A (A/ G/) F A | (B/ c/) (d/ B/) A G | A4 |"^Chorus" c3/ c/ c B | A A A2 | d3/ d/ d c | B B B2 | c3/ c/ c B | (A/ G/) (A/ B/) (c3/ B/) | A G A d | c2 B2 | A4|]
+w: Rise, won- dering Shep-_ herds,_ rise, Your sheep no more shall stray, Your sheep____ no more shall stray, Tune your harps to Hea- ven ly_ sound, Tune your harps to_ Heaven- ly_ sound, And hail_ this_ hap- py Day. This is Je- sus' Na- tal Day! This, the cho- sen hap- py Morn! Mor- tals shout the sac-_ red_ lay,_ Hail the Day when Christ was born!
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Peaceful Night
+Z: E. G. Snelling
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F G A | B/ A/ B2 | d B G | G2 F | F A B | c/ =B/ c2 | e e e | d2z | F G A | B/ A/ B2 | d e =B | d2 c | B G B | F/ G/ F2 | G e A | B2z |"^Chorus" d c B | B A E | B A E | G2 F | F G A | B c d | c G d | c2z | d c B | B A E | B A E | G2 F | d e d | d c G | A B c | B2z|]
+w: Peace- ful the won- drous night, Peace- ful and ho- ly, Un- der the sil- v’ry light, Gleam- ing a- far. Faith- ful ly watch- ing there, Shep- herds so low- ly, O- ver the hills so fair, Saw glo- ry’s star. Hail to the star- ry night, Spark- ling with glo- ry; An- gels on wings of light, Throng- ing the sky. Hail to that star- ry night! Won- drous its sto- ry: Je- sus the Prince of Light, Came from a- bove.
+[V: P2]  z4 | z4 | F D D | E2 E | z4 | z4 | F G A | B2z | z4 | z4 | F F F | E2 E | z4 | z4 | E E E | D2z | F E D | E Ez | E Ez | D2 D | D D D | D D D | =E E E | [F2A2]z | F E D | E Ez | E Ez | D2 D | F F F | E E E | E E E | D2z|]
+[V: P3]  B,,zz |zzz | B,,zz | C,zz | F,,zz | A,,zz | F,,zz | B,,zz | B,,zz |zzz | G,,zz | C,zz |zzz |zzz |zzz |zzz | B,,zz | C,zz | F,,zz | B,,zz | B,,zz | G,,zz | C,zz | F,,zz | B,,zz | C,zz | F,,zz | B,,zz | G,,zz | C,zz |zzz |zzz|]
+[V: P4] z [F,B,D] [F,B,D] |z [F,B,D] [F,B,D] |z [F,B,] [F,B,] |z [F,B,] [F,B,] |z [F,A,CE] [F,A,CE] |z [F,A,CE] [F,A,CE] |z [F,A,CE] [F,A,CE] |z [F,B,D] [F,B,D] |z [F,B,D] [F,B,D] |z [F,B,D] [F,B,D] |z [F,G,=B,] [F,G,B,] |z [E,G,C] [E,G,C] |z [G,B,^C] [G,B,C] |z [B,D] [B,D] | [E,B,] [C,C] [F,C] | [B,,2B,2]z |z [F,B,] [F,B,] |z [F,B,] [F,B,] |z [F,A,] [F,A,] |z [F,B,] [F,B,] |z [F,B,] [F,B,] |z [D,G,B,] [D,G,B,] |z [G,B,C] [G,B,C] |z [F,A,E] [F,A,E] |z [F,B,] [F,B,] |z [F,A,] [F,A,] |z [F,A,] [F,A,] |z [F,B,] [F,B,] |z [F,G,=B,] [F,G,B,] |z [E,G,C] [E,G,C] | F, [A,C] [A,C] | [B,,2B,2]z|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Resonet in Laudibus
+Z: 14th Century German Carol melody
+Z: Public Domain / "Let Our Praises Resound"
+Z: Courtesy of the Cyber Hymnal
+L: 1/4
+M: none
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Resonet in Laudibus"
+V: P2_2
+%%MIDI program 2 91
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  (B G/ E G/ | B c/ B3/ | B G/ E/ E/ G/ | B c/ B3/) | (A A/ A/ A/ B/ | A G/ F G/ | B G/ E G/ | F E/ F G/ | E3/ E)|| | B B/ B/ B/ B/ | e d/ c B/ | e d/ c B/ | B =A/ B3/ | (E F/ G/ G/ A/ | B A/ G A/ | F F/ E3/) | B3/ G3/ | B3/ G3/ | E F/ G B/ | A G/ F G/ | E3/ [B,4)E4)]|]
+% Extracting voice 2 from part P1
+[V: P1_2]  B,3/ C3/ | E3/ E3/ | B,3/ C3/ | E3/ E3/ | F3/ F D/ | E3/ D3/ | B,3/ D3/ C3/ | C3/- C D/ | B,3/ B,|| | A/ | B3/ G3/ | G F/ G E/ | F F/ D3/) F3/) | E3/ | B,3/ E3/ C3/ E3/ | E D/ B,3/ | (D3/ E3/ | D3/ E3/ | E3/ | E3/ D3/ | B,3/- x4 |]
+% Extracting voice 1 from part P2
+[V: P2_1]  | E,3/ [E,3/G,3/] | | E,3/ [E,3/)G,3/)] | | | | ||| | | | | | | | | | | | | A,3/ G,4)|]
+% Extracting voice 2 from part P2
+[V: P2_2]  | G,, G,,/ x1  | | G,, G,,/ x1  | | | | ||| | | | | | | | | | | | | E,3/- E,4|]
+
