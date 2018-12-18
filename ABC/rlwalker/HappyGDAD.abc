@@ -1,0 +1,13 @@
+%%scale 1.2
+%%barsperstaff 4
+X: 1
+T:Happy Birthday
+C:The Evil Copyrighting Sisters
+M:3/4
+L:1/4
+K:G
+V:1 clef=treble
+|"^Key of G"D/2D/2|"G"E D G|"D"F2 D/2D/2|E D A|"G"G2 D/2D/2
+w:Hap-py Birth-day to you. Hap-py Birth-day to you. Hap-py
+|d B G|"C"F E2-|E2 c/2c/2|"G"B G "D"A|"G"G2|
+w:Birth-day to (person name)._ Hap-py Birth-day to you.

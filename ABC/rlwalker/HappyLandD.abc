@@ -1,0 +1,28 @@
+%Scale the output
+%%scale 1.20
+%%format dulcimer.fmt
+X:1
+T:Happy Land
+C:unknown
+M:4/4
+L:1/8
+%%continueall 1
+%%partsbox 1
+K:D
+P:A Verses
+|"D"F2 FE FA A2|"A7"F2 FE "D"D4
+w:1~There is a hap-py land, Far, far a-way;
+w:2~Bright in that hap-py land, Beams ev-ery eye;
+w:3~Come to that hap-py land, come, come a-way;
+|F2 FE FA A2|"A7"F2 FE "D"D4
+w:Where saints in glor-y stand bright, bright as day;
+w:Kept by a Fa-ther's hand, love can-not die;
+w:Why will you doubt-ing stand, why still de-lay?
+|"D"d2 dA "G"B"D"A A2|FE FA "G"B"D"A A2
+w:Oh, how they sweet-ly sing wor-thy is our Sav-ior King,
+w:Oh, then to glo-ry run; be a crown and king-dom won;
+w:Oh, we shall hap-py be, when from sin and sor-row free,
+|"D"d2 dA "G"B"D"A A2|"A7"F2 FE "D"D4||
+w:Lord let his prai-ses ring, praise, praise for aye.
+w:And, bright, a-bove the sun, we reign for aye.
+w:Lord, we shall live with Thee, blest, blest for aye.

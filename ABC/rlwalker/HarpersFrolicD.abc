@@ -1,0 +1,23 @@
+%Scale the output
+%%scale 1.15
+%%format dulcimer.fmt
+X:1
+T:Harper's Frolic
+C:Traditional
+M:2/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:D    %(D, C)
+P:A
+|A/2G/2
+|:"D"F F/2A/2|D A/2G/2|F F/2A/2|D d/2d/2
+|"A7"c d|e c|"D"d/2c/2 d/2e/2|f A/2G/2|
+|F F/2A/2|D A/2G/2|F F/2A/2|D d/2d/2
+|"A7"c d|e c|"D"d2|1 d A/2G/2:|2 d d/2e/2|
+P:B
+|:f d|d/2e/2 f|"G"g e|e/2f/2 g
+|"D"f d|d/2e/2 f/2d/2|"A7"e/2d/2 c/2B/2|A d/2e/2
+|"D"f d|d/2e/2 f|"G"g e|e/2f/2 g
+|"D"f d|"A7"c e|"D"d2|1 d d/2e/2:|2 d z||

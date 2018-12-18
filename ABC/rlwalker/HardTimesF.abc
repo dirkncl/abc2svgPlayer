@@ -1,0 +1,33 @@
+%%scale 1.13
+%%format dulcimer.fmt
+X: 1
+T:Hard Times Come Again No More
+M:4/4
+L:1/8
+C:Stephen Foster, 1855
+K:F
+%%continueall 1
+%%partsbox 1
+P:A Introduction
+|"C7"FG|"F"A2 AA "F7"A c2 A|"Bb"GFFG "F"A2 "Bb"d2|"F"c2 A2 "Gm"AF"C7"GG|"F"F6||
+P:B Verses
+|FG |"F"A2 AA "F7"Ac2 A |"Bb"GFFG "F"A2 "Bb"d>c |"F"c2 A2 "Gm"AF "C7"G>G
+w:v1~Let us pause in life's plea-sures and count its ma-ny tears, While we all sup sor-row with the
+w:v2~While we seek mirth and beau-ty and mu-sic light and gay, There are frail forms faint-ing at the
+w:v3~There's a pale droop-ing maid-en who toils her life a-way, With~a worn heart whose bet-ter days are
+w:v4~Tis a sign that is waft-ed a-cross the troub-led wave, 'Tis~a wail that is heard up-on the
+|"F"F4- F z FG |"F"A2 AA "F7"A c2 A|"Bb"GFFG "F"A2 "Bb"+fermata+d2|"F"c2 A2 "Gm"AF "C7"G>G
+w:poor;_ There's a song that will lin-ger for-ev-er in our ears; Oh! Hard Times, come a-gain no
+w:door;_ Though their voi-ces are si-lent, their plead-ing looks will say; Oh! Hard Times, come a-gain no
+w:o'er;_ Though her voice would be mer-ry, 'tis sigh-ing all the day; Oh! Hard Times, come a-gain no
+w:shore;_ 'Tis a dirge that is mur-mured a-round the lowl-ly grave; Oh! Hard Times, come a-gain no
+|"F"F6||
+w:more.
+w:more.
+w:more.
+w:more.
+P:C Chorus
+|AB|"F"c2 z c c2 =B c|"Bb"d4 "F"c2 z2|"F"f2 c2 "Dm"d2 c2
+w:'Tis the song, the sigh of the wea-ry; Hard Times, Hard Times,
+|"Gm"AA G>F "C7"+fermata+G2 FG|"F"A2 AA "F7"A c2 A|"Bb"G>F FG "F"A2 "Bb""^TAG"+fermata+=d2|"F"c2 A2 "Gm"AF "C7" G>G|"F"F6|]
+w:come a-gain no more. Ma-ny days you have lin-gered a-round my ca-bin door Oh! Hard Times, come a-gain no more._

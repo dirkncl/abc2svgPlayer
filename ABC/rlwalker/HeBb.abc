@@ -1,0 +1,45 @@
+%Scale the output
+%%scale 1.1
+%%format dulcimer.fmt
+%%barsperstaff 6
+X:1
+T:HE
+C:Richard Mullen, words; Jack Richards, music
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:Bb    %(D, C)
+|"Bb"B2- BB cd|"Dm"A2- AA Bc
+w:He_ can turn the tides_ and calm the
+w:He_ can grant  a wish_ or make a
+|"Eb"G4 G2|"Bb"F6|"Cm"E2- EE FG
+w:an-gry sea, He_ a-long  de-
+w:dream come true, He_  can paint the
+|"Gm"D2- DD EF|"Cm"C4 D2|"D7"C6
+w:cides_ who writes a sym-pho-ny;
+w:clouds_ and turn the gray to blue;
+|"Eb"B,2- B,B, CD|"Ebm"B,2- B,B, CB,
+w:He_ lights ev-'ry star_ that makes our
+w:He_ a-lone knows where_  to find the
+|"Bb"D4 F2|"Gm"B6|"A"A2- A=E FG
+w:dark-ness bright. He_ keeps watch all
+w:rain-bow's end, He_ a-lone can
+|"Dm"F2- FG AB|"Cm7"c4 c2|"F7"c6
+w:through_ each long and lone-ly night.
+w:see_ what lies  be-yond the bend.
+|"Bb"d2- dd cB|"Gm"d2- dd cB
+w:He_ still finds the time_ to hear a
+w:He_ can touch a tree_ and turn the
+|"Ebmaj7"d4 "Eb"G2|"F7"c6|"Cm7"c2- cc BA
+w:child's first pray'r. Saint_ or sin-ner
+w:leaves to gold, He_ knows ev-'ry
+|"F7"c2- cc BA|"Bb"c4 F2|B6
+w:call_  and al-ways find Him there;
+w:lie_ that you and I have told;
+|"Gb"B2- BB _A_G|"Ebm7"B2- BB cB
+w:Though_ it makes Him sad_ to see the
+|"Bb"d4 B2|"Dm"F2- FG AB
+w:way we live,_ He'll al-ways
+|"Cm7"c6|"F7"d4 d2|"Bb"B6-|B6||
+w:say, "I for-give."_
+

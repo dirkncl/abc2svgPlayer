@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 0.93
+%%format dulcimer.fmt
+%%deco D.C.alCoda 3 dacs 16 40 40 D.C. al Coda
+%%deco D.S.alCoda 3 dacs 16 40 40 D.S. al Coda
+%Usage
+%!D.C.alCoda! C8 !D.S.alCoda! C8 |
+%%barsperstaff 6
+X: 1
+T:I Can See Clearly Now
+C:Words & Music: Johnny Nash
+M:4/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+K:D%(D, C)
+%%continueall
+|"D"z4 DEFG-|"G"G2 FE-E2 DF-|"D"F2 DA,-A,2 z2
+|z8|z4 DEFG-|"G"G3 G-GF E2|"A7"C D2 E-E4
+|z8|"D"z4 DEFG-|"G"G F2 E- EDDF-|"D"F D2 A,-A,2 z2
+|z2 z A, A,/2A,/2A,- A,A,|"C"=C8|"G"B,/2A,/2G,- G,2 B,DED-|"D"D/2B,/2A,- A,2 +D.C.+z4|
+|z2 z A, A,A,A,A,|"C"=C8|"G"B,/2A,/2G,- G,2 B,DED-|"D"D/2C/2A,- A,2 z4|z8|
+|"D"z2 z A, DEFG-|"G"G2 FE- E2 DF-|"D"F2 DA,- A,2 z2
+|z8|z4 DEFG-|"G"G3 G-GF E2|"A7"C D2 E-E4
+|z8|"D"z4 DEFG-|"G"G F2 E-EDDF-|"D"F D2 A,-A,2 z4
+|z2 z A, A,/2A,/2A,-A,A,|"C"=C8|"G"B,/2A,/2G,-G,2 B,DED-|"D"D/2B,/2A,-A,2 z4
+|z8|"F"z4 A A2 A|B/2A/2=F- F2A (3AGF|"C"G4 E4-
+|-E3 D E/2D/2 =C-C2|"F"z4 A A2 G|A/2G/2=F- F2 (3"A"A"G"G"F"F2|"A"A4 A4-
+|A8|"C#m"_A8|"G"G8|"C#m"_A8|"G"B,8|"C"=C8|"D6(no5)"B8|"A"A8-|+D.C.alCoda+A8
+|:+coda+ "D"z2 z A, A,A,A,A,|"C"=C8|"G"B,/2A,/2G,- G,2 B,dED-
+|1 "D"D/2B,/2A,- A,2 z4|2 "D"D8-|D6 z2||

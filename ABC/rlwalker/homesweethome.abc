@@ -1,0 +1,34 @@
+%Scale the output
+%%scale 1.3
+%%stretchlast 1
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+X:1
+T:Home,Sweet Home (#40)
+C:J H Payne, H R Bishop
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%V:1 treble clef
+K:D    %(D, C)
+|:"^Verses"(D E)|
+w:1~Mid_
+w:2~An_
+|("D"F3 G) "G"G2 B2|"D"A4 F2 A2|("A7"G3 F) G2 E2
+w:pleas-_ ures and pal-a-ces tho_ we may
+w:ex-_ ile from home, splend-or daz-_ zles  in
+|"D"F4 z2 DE|(F3 G) "G"G2 B2|"D"A4 F2 A2|("A7"G F) G2 E2|"D"D4 z2 A2
+w:roam, Be it ev-_ er so hum-ble, there's no_ place like home! A
+w:vain, Oh!_ give_ me my low-ly thatched cot-_ tage a-gain! The
+|(d3 c) "G"B2 A2|"D"A4 F2 A2|("A7"G3 F) G2 E2|"D"F4 z2 A-A|(d3 c) "G"B2 A2
+w:charm_ from the skies seems to hal-_ low us there, Which_ seek_ thro the
+w:birds_ sing-ing gai-ly, that come_ at my call; Give me them_ and that
+|"D"A4 F2 A2|("A7"G3 F) G2 E2|"D"D4:||
+w:world, is ne'er met_ with else where.
+w:peace of mind dear-_er than all.
+|"^Refrain"A4 "G"G2 E2|"D"D2 "A7"E2
+w:Home! Home!_ sweet, sweet
+|"F#"F4 z2 A2|("G"d3 c) B3 A)|"D"A4 (F2 A2)|("A7"G3 F) G2 E2|"D"D4||
+w:home! There's no_ place like home, There_ no_ place like home.
+

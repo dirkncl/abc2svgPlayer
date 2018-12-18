@@ -1,0 +1,52 @@
+%Scale the output
+%%scale 1.100
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 30pt %between systems
+%%sysstaffsep 30pt %between staves of a system
+% Generated more or less automatically by swtoabc by Erich Rickheit KSC
+X:1
+T:HARRISON TOWN
+C:American Folk Song
+M:4/4
+L:1/4
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Dm
+|D
+w:1~Come
+w:2~As
+w:3~They
+w:4~They
+w:5~Oh,
+| "Dm"D D F G| "Dm"A A A F| "Am"A A c B| "Dm"A3 F
+w:all you ram-bling, gam-bling boys where ev-er you may be, and
+w:I rode down to Harri-son town a couple of days a-go; I_
+w:cap-tured me on King's ri-ver, I might have killed the crowd. If
+w:took me down to Berry-ville, boys I went thru~the courts of law, so I
+w:there is one thing I've left out; To you I'm going to tell, And
+| "Dm"D D F G| "Dm"A A A F| "Am"A A c B| "Dm"A3 A
+w:lis-ten to this sto-_ry and shun bad com-pan-y. I
+w:turned my face_ toward the west to Eurek-a I did go. The
+w:were not for the ball and chain that rang~so clear and loud. My ma
+w:took my ride on~the mar-shall's side to Little Rock Ar-kan-sas. Oh
+w:that is~the girl the pret-ty girl, The girl I loved so well. If
+| "Dm"d d c A| "Dm7"c c c G| "Dm"A A c B| "Dm"A3 F
+w:know I've been a cur-ious lad, I know I've broke the law; But
+w:Harri-son crowd that fol-lowed me, they knew I'd ne-ver doubt, That
+w:she came and scorned at me, she said to shut my jaw, There's ne-
+w:lis-ten all you gam-bling boys, here's what's standing over my case; It's~the
+w:ever I gain my lib-er-ty Have bread and meat to chaw; I'll
+| "Dm"D D D F| "Dm"A A A D| "A"F G F E| "Dm"D3||
+w:I'll step out and hear them shout for me in Ar-kan-sas.
+w:I would lay in~the Berry-ville jail be-fore the week was out.
+w:ver been a meaner man in the hills of Ar-kan-sas._
+w:big bay horse, the no-ble horse that I rode in the race.
+w:stay at home with~the pretty little girl in Carroll County Ar-kan-sas.
+

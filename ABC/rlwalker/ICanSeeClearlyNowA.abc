@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%deco D.C.alCoda 3 dacs 16 40 40 D.C. al Coda
+%%deco D.S.alCoda 3 dacs 16 40 40 D.S. al Coda
+%Usage
+%!D.C.alCoda! C8 !D.S.alCoda! C8 |
+%%barsperstaff 6
+X: 1
+T:I Can See Clearly Now
+C:Words & Music: Johnny Nash
+M:4/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+K:A%(D, C)
+%%continueall
+|"A"z4 ABcd-|"D"d2 cB-B2 Ac-|"A"c2 AE-E2 z2
+|z8|z4 ABcd-|"D"d3 d-dc B2|"E7"G A2 B-B4
+|z8|"A"z4 ABcd-|"D"d c2 B- BAAc-|"A"c A2 E-E2 z2
+|z2 z E E/2E/2E- EE|"G"=G8|"D"F/2E/2D- D2 FABA-|"A"A/2F/2E- E2 +D.C.+z4|
+|z2 z E EEEE|"G"=G8|"D"F/2E/2D- D2 FABA-|"A"A/2G/2E- E2 z4|z8|
+|"A"z2 z E ABcd-|"D"d2 cB- B2 Ac-|"A"c2 AE- E2 z2
+|z8|z4 ABcd-|"D"d3 d-dc B2|"E7"G A2 B-B4
+|z8|"A"z4 ABcd-|"D"d c2 B-BAAc-|"A"c A2 E-E2 z4
+|z2 z E E/2E/2E-EE|"G"=G8|"D"F/2E/2D-D2 FABA-|"A"A/2F/2E-E2 z4
+|z8|"C"z4 e e2 e|f/2e/2=c- c2e (3edc|"G"d4 B4-
+|-B3 A B/2A/2 =G-G2|"C"z4 e e2 d|e/2d/2=c- c2 (3"E"e"D"d"C"c2|"E"e4 e4-
+|e8|"G#m"_e8|"D"d8|"G#m"_e8|"D"F8|"G"=G8|"A6(no5)"f8|"E"e8-|+D.C.alCoda+e8
+|:+coda+ "A"z2 z E EEEE|"G"=G8|"D"F/2E/2D- D2 FABA-
+|1 "A"A/2F/2E- E2 z4|2 "A"A8-|A6 z2||

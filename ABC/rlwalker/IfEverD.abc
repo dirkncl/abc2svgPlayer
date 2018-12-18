@@ -1,0 +1,40 @@
+%%scale 1.1
+%%format dulcimer.fmt
+X:1
+T:If Ever I Cease To Love
+C:/Written by George Leybourne; Arranged by L Hovey
+N:George Leybourne, 1842 - 1884, was a British Music-Hall performer.
+N:He was born as Joe Sanders and performed nicknamed Champagne Charlie.
+N:He also wrote "The Daring Young Man on the Flying Trapeze" and other tunes.
+M:2/4
+L:1/8
+Q:1/4=60
+K:D clef=treble
+%%continueall 1
+|"^INTRO"a/2g/2|ff3/2f/4 ff3/2f/4|f/2g/2a2 g/2f/2|d3 a|d'c'ba|gf e3/2b/2
+|ag B3/2c/2|d z d'||
+|"^VERSE"A/2G/2|"D"F F/2F/2 "Dmaj7"F F/2F/2|"D"F/2G/2 A2 G/2F/2|"A7"A G/2 F/2 A G/2 E/2
+w:1~In a house, in a square, in a quad_rant, In a street, in a lane, in a
+w:Just_ turn to the left, on the right_ hand. You_ see there my true love's a-
+w:2~She can sing, she can play the_ pi-a-no, She can jump, she can dance, she can
+w:In_
+|1" D"D3:|2" D"D2 z E||
+w:road;
+w:_bode. I
+w:run.
+w:
+|"A7"E E/2 E/2 E E/2 E/2|"D"F A2 z|"E"^G/2 G/2 G G F/2E/2|"A""^ritard"A2 !fermata!B !fermata!c
+w:go there a court-ing and coo-ing, To my love like a_ dove_ And
+|"^a tempo"d c B A|G F E B|A/2A/2 G E B|A2 z A
+w:swear-ing on my bend-ed knee If ev-er I cease to love. May
+|d c B A|G F E B|A/2A/2 G B, C|D2 z "^CHORUS"D
+w:sheeps' heads grow on ap-ple trees. If ev-er I cease to love. If
+|F/2F/2 F A3/2 B/2|A3 A|B/2 B/2 B d3/2 e/2|d2 z A/2 A/2
+w:ev-er I cease to love, If ev-er I cease to love, May the
+|d c B A|G F E B|A/2 A/2 G F ^E|F2 z F
+w:moon be torn'd in-to green cheese If ev-er I cease to love, If
+|F/2 F/2 F A3/2 B/2|A3 A|B/2 B/2 B d3/2 e/2|d3 A/2A/2
+w:ev-er I cease to love, If ev-er I cease to love, May po-
+|d c B A|G F/2 F/2 E B|A/2 A/2 G B c|d2 z||
+w:lice-men club no more lit-tle boys If ev-er I cease to love.
+

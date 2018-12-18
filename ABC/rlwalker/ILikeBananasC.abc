@@ -1,0 +1,41 @@
+%Scale the output
+%%scale 0.951
+%%format dulcimer.fmt
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:I Like Bananas Chorus
+C:Chris Yacich
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:C    %(D, C)
+P:Verse
+|:"C"C E "G+"G A|"C"E C3|"D7"D ^F A B|A2- A2
+w:01~I don't like your peach-es. They are full of stones._
+w:02~Since we have de-pres-sion. I can't make no loans._
+w:03~Boss won't give me sal-ary. Pay-ment he post-pones._
+w:04~When I try to bor-row, hearts are hard as stones._
+w:05~I don't like to whis-tle. Can't blow sax-a-phones._
+w:06~Cab-ba-gas and on-ions, hurt my sing-ing tones._
+w:07~When I play the trum-pet, ev-ery-bo-dy groans._
+w:08~When I play pi-a-no, ev-ery-one throws stones._
+w:09~I don't like poli-ti-cians. They're hu-man grama-phones._
+w:10~My_ wife makes bis-cuits. They are hard as stones._
+w:11~The doc-tor came~and told her, in his bu-sy tones,_
+|"G7"d z "Dm"d z/2 c/2|"G7"B G- "Gdim"G E|"G7"G A "Dm"E "G7"D|1-10 "C"C2-"G+"C2:|11 "C"C2-C2|
+w:I like ba-nan-as _be-cause they have no bones._ * * 
+w:I eat ba-nan-as _be-cause they have no bones._ * *
+w:I eat ba-nan-as _be-cause they have no bones._ * *
+w:I eat ba-nan-as _be-cause they have no bones._ * *
+w:I like ba-nan-as _be-cause they have no bones._ * *
+w:I eat ba-nan-as _be-cause they have no bones._ * *
+w:Give me ba-nan-as _be-cause they have no bones._ * *
+w:I like ba-nan-as _be-cause they have no bones._ * *
+w:We like ba-nan-as _be-cause they have no bones._ * *
+w:I like ba-nan-as _be-cause they have no bones._ * *
+w:Feed me ba-nan-as _be-cause they have no * * bones_

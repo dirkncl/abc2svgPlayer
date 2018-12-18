@@ -1,0 +1,18 @@
+%%scale 1.10
+%%format dulcimer.fmt
+X: 1
+T:Highlander's Revenge
+C:Bruce MacGregor
+S:Slow Session, W End Hotel, Edinburgh
+Z:Nigel Gatherer
+M:4/4
+L:1/8
+%%continueall 1
+%%partsbox 1
+K:D
+P:A
+|:"G"D2 DD DE G2 |"D"A2 B2 "C"AG E2 |"G"D2 DD DE G2 |"G"AB d2 "C"e4
+|"C"e2 ee g2 gf |"G"e2 d2 BA G2 |"D"A2 AA "G"B2 BA |"C"G2 E2 "D"D4 :|
+P:B
+|:"D"A2 AA "G"B2 BA |"C"G2 A2 "G"GE D2 |"D"A2 AA "G"B2 BA |"D"GBdG "C"e4
+|"C"e2 ee g2 gf |"G"e2 d2 BA G2 |"D"A2 AA "G"B2 BA |"C"G2 E2 "D"D4 :||

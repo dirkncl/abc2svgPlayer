@@ -1,0 +1,35 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Hokey Pokey
+C:Larry La Prise, Charles P. Macak, Tafftt Baker
+S:ISBN 0-689-80519-5
+N:Dance tune for kids and groups
+M:2/2
+L:1/8
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+Z:Acuff-Rose Music, Inc.
+W:1) You put your right foot in, you put your left foot out,
+W:You put your left foot in, you shake it all about.
+W:You do the Hokey Pokey, and you turn yourself around,
+W:That's what its all about.
+W:2) left foot  3) right arm   4) left arm   5) right elbox
+W:6) left elbow  7) head   8) right hip  9) left hip
+W:10) whole self
+W:11) You do the Hokey Pokey. You do the Hokey Pokey.
+W:You do the Hokey Pokey. You do the Hokey Pokey.
+W:That's what its all about.
+K:D
+P:Play A10X - B1X
+N:(feet / arms / elbows / head / hips / self)
+|z5ABA|"D"d2d2dABA|d2d2dABA|\
+d2d2d2BA|"A7"c^BcBc3A|c^BcBcBcB|\
+c^BcBc4|AA2A"E"=B2"A7"c2|"D"d4z4|\
+P:B (Hokey Pokey)
+|z5ABA|"D"d4-d3B|dd3-dABA|d4-d3B|\
+"A7"cc3-cABA|e6d2|cc3-c4|\
+AA2A"E"=B2"A7"c2|"D"dd6z|

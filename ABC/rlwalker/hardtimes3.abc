@@ -1,0 +1,640 @@
+X: 1
+T:Hills of Tara, The
+Z:Philippe Varlet
+S:Four Provinces
+M:4/4
+R:Barn Dance
+L:1/8
+K:G
+Bc|d2 G2 G2 AB|c2 E2 E2 AG|FGAB cBcd|e2 d2 d2 Bc|
+d2 G2 G2 AB|c2 E2 E2 AG|FGAB cAFG|A2 G2  G2 :||
+Bd|g2 g2 f2 f2|efec A2 AG|FGAB cBcd|e2 d2 d2 Bd|
+g2 g2 f2 f2|efec A2 AG|FGAB cAFG|A2 G2  G2 :||
+
+X: 2
+T:Sonny Brogan's
+T:Bill Harte's
+T:The Rookery
+R:jig
+S:Mike Rafferty gave this as learning version
+Z:Lesl
+M:6/8
+L:1/8
+K:Dmix
+DED A~A2|BAG A2z|DED AzA|BAG EGE|
+DED A2z|BAG ABc|ded czA|1 BAG EDB:|2 BAG ED^c||
+ded czA|BAG ABc|ded czA|BAG ED^c|
+ded czA|BAG ABc|ded czA|BAG EDB|D6||
+
+X: 3
+T:Trip to Herve's, The
+M:2/2
+L:1/8
+C:Michael McGoldrick
+R:Reel
+D:Michael McGoldrick,Morning Rory
+Z:Rob Greenway, 6/98
+K:D
+FAAF ABde | f2af dAFA | B2dB AFDE | FEED E3G |
+FAAF ABde | f2af dAFA | B2dB AFDG | ~F3E D4 ::
+AB~B2 d2AG | ~F3E FGFE | DEFG ~A2DE | FG~A2 FG~A2 |
+1 AB~B2 d2AG | ~F3E FGFE | DEFG ABAG | ~F2EG FDD2 :|
+2 ~B2 F ~A2 E ~F2 | DEED EFGA | ~B2 F ~A2 E ~F2 | DEED EFGA ||
+
+X: 4
+T:Burn the Stubble
+M:6/8
+L:1/8
+C:Declan Masterson
+Z:Chas Blacker
+K:D mix
+AB|cAA A2B|cAA A2B|cAA A2G|FDD DAB|cAA A2B|cAA d2e|fed ge^c|d3 def|
+~g3 gab|agf efg|fdd ded|cAA Aef|g3 gab|agf efg|fed ge^c|d3 d
+
+X: 5
+T:Eel in the Sink, the
+T:The Hills of Kesh
+M:C
+L:1/8
+Z:Lesl
+K:Amix
+|:e2AB cdeB|dzBD GABd|e2AB cdea|{ba}gedB BAA2:|
+|:a~a2b aged|cdef gzef|a~a2b agef|gedB BAA2|
+a~a2b aged|cdef gzfg|afge fdef|1 gedB BAA2:|2 gedB BAGE|A8||
+
+X: 6
+T:The Black Cock of Whickham
+M:9/8
+L:1/8
+Z:Andrew Pickering
+K:G
+D2 B D2 B BAG|D2 B D2 B BAG|E2 G C2 E GFE|DED DEG BGE|
+D2 B D2 B BAG|E2 c E2 c cAG|F2 A D2 d edc|
+1BdB AGF GFE:|2BdB AGF Ggf||
+e3 dcB d3|ded dcB dgf|e3 edc d2 B|cBA ABG FED|
+DGB G2 D G2 F|EAc A2 G ABG|FAd cBA edc|
+1BdB AGF Ggf:|2BdB AGF G3||
+
+X: 7
+T:Seamus Connolly's
+R:Reel
+S:Fisher Street
+H:
+N:
+D:Fisher Street: Out in the Night
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:D
+A3B AFFA|d2cd BGGB|(3ABA FA dcdf|eBBA BcdB|\
+AFBF ADFA|BdcA G3B|(3ABA FA dcdf|1 edcB cAdB:|2 edcB cAde||\
+fdd2 geag|(3fgf df edcA|defa g3b|afdf efde|\
+fdd2 geag|(3fgf df edcB|(3ABA FA dcdf|eBBA Bcde:||
+
+X: 8
+T:Finbar Dwyer's
+T:Gan Anam Feb 14 reel 1
+M:C
+L:1/8
+S:from Mike Rafferty
+R:Reel
+Z:Tom Madden
+K:D
+|:A2 EA ceed|BGG2 eBdB|eAce a2ed|cedB BAA2:||
+|:a2 ea agba|ge~e2 g3z|a2 ea agba|gedB BAA2|
+a2 ea agba|ge~e2 g3a|bzba gaba|gedB eBdB:|"Fine"A4z4||
+
+X: 9
+T:Molly Bán
+T:Molly Bawn
+T:"Young" John Naughton's (this setting)
+R:reel
+C:Traditional
+S:Davy Muir, Glasgow
+D:The Lonely Stranded Band (this setting)
+D:The Bothy Band, 'Old Hag You Have Killed Me' (Em)
+D:Paddy Carty & Conor Tully (Gm)
+Z:Gordon Turnbull
+M:C
+L:1/8
+K:AMix
+A2 EA cded | BG G2 eGdG | EAce a2 ed  | cedB BAGB |
+A2 EA cded | BG G2 eGdG | EAce a2 ed  | cedB BA A2 |]
+a2 ea a2 ba | geef g2 gb | a2 ea a2 ba | gedB BA A2 |
+a2 ea a2 ba | geef g2 gb | b2 ba gbaf | gedB eBdB |]"End" A2 ||
+
+X: 10
+T:The Old Wheels of the World
+T:Unknown Reel 41b
+M:C|
+L:1/8
+R:Reel
+Z:Kevin Gow
+K:Am
+g^f|e~A3 e~A3|GEDE G3G|A2AB cBcd|e^fge dgfg|!
+e~A3 e~A3|GEDE G3G|A2AB cBcd|e^fge dcBc||!
+d~g3 d~g3|e~a3 e~a3|d~g3 ge^fg|a^fge dcBc|!
+d~g3 d~g3|e~a3 e~a3|d~g3 ge^fg|a^fge d3z||
+
+X: 11
+T:The Crosses of Annagh
+T:Unknown Reel 68B
+M:C|
+L:1/8
+R:Reel
+Z:Kevin Gow
+K:Am
+E~A3 GABd| e~a3 gedB|G2GB ABGE|DGBG ABG^F|!
+E~A3 GABd| e~a3 gedB|G2B/2c/2d gedB|GABG A3z:||!
+||:e~a3 bage|a2ba gedB|d2de g2gg|agab ged2|!
+e~a3 bage|a2ba gedB|g2B/2c/2d gedB|GABG A3z:||
+
+X: 12
+T:Crossing the Shannon
+T:Unknown Reel 73A
+M:C|
+L:1/8
+R:Reel
+Z:Kevin Gow
+K:D
+A~d3 AdFd|A~d3 fdBd|A~d3 AdFd|AGFD EFGB|!
+A~d3 AdFd|A~d3 fdBd|Adfa gefa|gece d2FG:||!
+A~d3 fage|fage edBd|A~d3 AdFd|AGFD EFGB|!
+A~d3 fage|fage edBd|Adfa gefa|gece d2fg:||
+
+X: 13
+T:The Mouse In The Jug
+T:The Bush on the Hill
+T:Unknown Jig 160A
+M:C|
+L:1/8
+R:Jig
+Z:Kevin Gow
+K:G
+G2G EGD|G2G Bdg|efg dBG|AGA BGE|G2G EGD|G2G Bdg|!
+efg dBG|AGF G2z:||:gab agf|edg ed^c|deg edB|BAG A2f|!
+gab agf|edg ed^c|deg edB|AGF G2f|gab agf|edg ed^c|!
+deg edB|BAG A2z|G2G EGD|G2GBdg|efg dBG|AGF G2z||
+
+X: 14
+T:Apples in Winter
+T:Unknown Jig 159B
+M:6/8
+L:1/8
+R:Jig
+Z:Kevin Gow
+K:G
+BEE dEE|BAG FGE|D2D FDF|AB^c ded|BEE BAB|def gfe|!
+fdB AGF|GED E2d:||e2 e ed B|g2e feB|d2d dAF|DFA def|!
+e2e edB|def g2a|bgb afa|ged e2d|e2e edB|g2e fdB|!
+d2d dAF|DFA def|edB def|gba gfe|fdB AGF|GED E2||
+
+X: 15
+T:The Creel of Turf
+T:Unknown Jig 159C
+M:6/8
+L:1/8
+R:Jig
+Z:Kevin Gow
+K:G
+EBB BAG|FAA AFD|EBB B^cd|AGF E2D|EBB BAG|FAA AB^c|!
+d2B BcB|1AGF E2D:||2AGF E2A||:Bee ede|fdd dBA|Bee ede|!
+fdd d2A|Bee ede|fdd dBA|BcB BcB|1AGF E2A:||2AGF E3||
+
+X: 16
+T:Miss Galvin
+T:Unknown Hornpipe 170C
+M:C
+L:1/8
+R:Hornpipe
+Z:Kevin Gow
+K:D
+d2cA GEFE|D2FA DAFA|(3ded cA GEFE|cdef gefe|!
+d2cA GEFE|DAFA DAFA|d2cA GEFE|cdec d3e:||!
+||:fgaf dcde|fgaf (3gag fe|fgaf dcA2|(3Bcd ef g2fe|!
+fgaf dcde|fgaf (3gag fe|fdec dcA2|(3Bcd ef gefe:||
+
+X: 17
+T:Gan ainm jig 30/11/00
+T:kitty come over?
+R:jig
+N:Some similarities to hn-jig-89, & Kitty, from O'Neill's Dance Music ..
+(1907) no. 55
+Z:Lesl
+M:6/8
+K:G
+GGA|:B2A BGD|GBd ~g3|ded BGA|BAG AGA|
+B2A BGD|GBd g2g|ded BGA|1 BGG G2A|2 BGG G2B||
+|:d2g gfg|e2a aga|bge dBG|BAG AB^c|
+d2g gfg|e2a aga|bge dBA|1 BGF G2B:|2 BGG G3||
+
+% Output from ABC2Win  Version 2.1 k preview on 01/05/2001
+X: 1
+T:Fasten The Leg In Her
+M:6/8
+L:1/8
+R:Jig
+B:O'Neill's 1001
+N:This version is approximately
+N:Cormac Breatnach's on his 'Musical Journey' CD
+Z:Steve Mansfield March 2001
+K:G
+BA | B2B BAB | GBd gdB | A2A AGA | Bed dBA |
+B2B BAB | GBd g2f | efg fag | fdd d::
+ef | gag fgf | ege dBA | GGG AGA | BeB def |
+gag fgf | ege dBA | efg eag| fdd d :|
+
+X: 2
+T:The Rollicking Road to Boxwood
+M:C
+L:1/8
+Q:160
+C:Craig Herrity
+R:Reel
+N:AKA The Rambling Winegago AKA Mcgee's Least Favourite
+Z:Craig Herrity
+K:D
+AF |:DFAd f3~ A|GBAF EDEF|DFAd fdAF|GBAF D2AF|DFAd f3~A|
+GBAF GABc|dedB AFDF|1EGFE D2AF:|2EGFE DABc|:dAfA eAfA|dfaf g2fg|afge fdc
+d|edcB A2Bc|
+dcdB A2FA|cAeA d3~ f|gbaf efdB|1AFEF DABc:|2AFEF D2AF||%DC.
+
+X: 3
+T:The Hawk
+M:4/4
+L:1/8
+C:James Hill
+R:Hornpipe
+Z:Andrew Pickering
+K:D
+(3ABc|d2 fd Adfe|dfeg fagf|e2 ge Begf|edcB ABcA|
+d2 fd Adfe|dfeg fagf|edef gABc|dAfe d2:|
+AA|Aafd Agec|Afdc dcBA|BAcB dced|fegf e2 ef|
+gafg efde|caBg AfGe|cd ef gABc|dAfe d2:|
+
+X: 4
+T:The Basket of Turf
+T:The Creel of Turf
+T:Up Sligo
+M:6/8
+L:1/8
+R:Jig
+Z:Kevin Gow
+K:Em
+EBB BAG|FAA AFD|EBB B^cd|AGFE2D|EBB BAG|FAA AB^c|!
+d2B BcB|1AGF E2D:|2AGF E2A|:Bee ede|fdd dBA|Bee ede|!
+fdd d2A|Bee ede|fdd dBA|BcB BcB|1AGF E2A:|2AGF E3||
+
+X: 5
+T:Mouse in the Mug
+M:6/8
+L:1/8
+R:Jig
+Z:Kevin Gow
+K:G
+G2G EGD|G2G Bdg|efg dBG|AGA BGE|G2G EGD|G2G Bdg|!
+efg dBG|AGF G2f:|gab agf|edg ed^c|deg edB|BAG A2f|!
+gab agf|edg ed^c|deg edB|AGF G2f|gab agf|edg ed^c|!
+deg edB|BAG A2A||G2G EGD|G2G Bdg|efg dBG|AGF G2z||
+
+X: 6
+T:Bush on the Hill, The
+T:Lowdown Jig, The
+R:jig
+Z:id:hn-jig-210
+M:6/8
+K:G
+~G,3 DB,D|GFG Bdg|edc BcA|BGE EDB,|
+~G,3 DB,D|GFG Bdg|edc BcA|1 BGF GDB,:|2 BGF GdB||
+|:GBd gfg|ece dBA|cBc dBG|BAA ABA|
+GBd gfg|ece dBA|cBc dcA|1 AGF GdB:|2 AGF GDB,||
+
+X: 7
+T:Mouse in the Mug, The
+M:6/8
+L:1/8
+S:Kevin Crawford
+R:Jig
+Z: Kevin Gow and-or Laura Lovell
+K:G
+~G3 EGD|~G3 Bdg|~e3 dBG|~A3 BAB|~G3 EGD|~G3 Bdg|~e3 dBG|AGFG3:||!
+g2b agf|g2d edB|d2g edB|~A3 BAB|g2b agf|g2d edB|d2g edB|AGF G3|
+g2b agf|g2d edB|d2g edB|~A3 BAB|~G3 EGD|~G3 Bdg|~e3 dBG|AGFG3||!
+
+X: 8
+T:The dying year
+M:4/4
+L:1/8
+Q:80
+R:Air
+Z: Andrew Pickering
+K:G
+B/2A/2|G3 B d2 B2|g3 d/2c/2 B2G2|C3 e e2 C2|f3 d/2 ^c/4d/4 e2 f2|
+g3 d B2G2|e3 c A2 F2|D3 c B2 A2|B3 G/2F/2 G3:|
+g/2a/2|b3 g d'3 c'/2b/2|a2 f2 d3 ^d|e2 c2 g3 f/2e/2|d2 B2 G3 A/2B/2|
+c3 d e2 c2|B3 c d2 B2|A3 B/2 A/4G/4 A2 G2|F2 D2 E2 F2|
+G3 b b3 c'/2d'/2|a2 f2 d3 ^d|e2 c2 g3 f/2e/2|d2 B2 G3 d|
+e3 f/2 e/4f/4 g2 e2|d2B2 G3 A/2B/2|A2 F2 D3 c||B2 G G/2F/2 G4|
+
+X: 9
+T:Butlers Of Glen Avenue, Roaring Barmaid
+L:1/8
+R:jig
+C:Anthony O'Sullivan
+M:6/8
+Z: Crummy, Peter
+K:G
+EDG EDG|DEG B~B2|DEG B2e|dBe dBA|
+EDG EDG|DEG B~B2|dBd gfe|1 dBA G~G2:|2 dBa g3||
+gab age|deg B~B2|gab gab|dBd e2d|
+gab age|deg B~B2|dBd gfe|1 dBa g~g2:|2 dBA G3||
+
+X: 10
+T:Roaring Barmaid
+R:jig
+C:Anthony O'Sullivan
+M:6/8
+Z: Crummy, Peter
+K:G
+GFG EGD|GFG EGD|DEG BGG|dGG  BGG|
+GFG EGD|GFG EGD|GAB deg|deg edB:||
+deg b~b2|bab deg|b~b2 bag|edB deg|
+b~b2 bab|agg bgg|agg deg|deg edB:||
+
+X: 11
+T:Terry Teehan's
+M:4/4
+L:1/8
+R:Reel
+N:Bare - bones version of Mike McGoldrick's version, eg not even
+N:attempting to duplicate variations and ornamentation
+D:Michael McGoldrick : Fused
+Z:Steve Mansfield March 2001
+K:Gm
+G2GF G2FG | BGFD B,CDF |
+G2GF G2FG | BGFD C4 ::
+GccB dedc | B2GB FB,DF |
+1 GccB dedc | BGFD C4 :|
+2 GccB GFDC | B,CCB, C4 ||
+
+X: 12
+T:The Frost is All Over
+M:6/8
+L:1/8
+R:Jig
+Z:Kevin Gow
+K:D
+A|:def edA|BdB AFD|DCD BAF|EFE E2B|def edA|!
+BdB AFE|1DCD BAF|EDC D2A:|2GFG BAG|AFD D2e||!
+|:fef afd|gfg bag|fef afd|ede aga|!
+fef dc=c|BAB GBd|gfg baf|1gec d2e:|2gec d3||
+
+X: 13
+T:gan ainm jig 29mar01
+R:jig
+H:This comes after Andy McGann's Fancy. He and Andy played them at the
+Bunratty in the Bronx.
+Z:Lesl from the playing of Mike Rafferty
+M:6/8
+K:G
+dcA G~G2|ABA G2z|dcA G~G2|ADE FGA|
+dcA G~G2|ABA g~g2|fzd edd|fed cAd||
+cAF G~G2|ABA G2z|dcA G~G2|ADE FGA|
+dcA G~G2|ABA gzg|fdd edd|fed cAF||
+|:GBd g~g2|gaf g2z|dgg dgg|azg fga|
+bgb afa|gfe fze|dcA dze|1 fed cAF:|2 fed cAd|cAF G3||
+
+% Output from ABC2Win  Version 2.1 k preview on 01/05/2001
+X: 1
+T:Dobbin's Flowery Vale
+M:4/4
+L:1/8
+Q:120
+S:Frankie Kennedy
+R:air
+N:Frankie Kennedy recorded this using a Bb flute.  This transcription is
+N:transposed and written for D flute
+D:Altan - Harvest Storm
+H:Frankie Kennedy learned this from a tape of a BBC recording of Robert
+H:Cinnamond of Glenavy, Co. Antrim
+Z:Tom Madden
+K:G
+|:B2GB EBGB|A2FA DAFA|B2GB EBGA|(3B^cd ef gfed
+|B2GB EBGB|A2FA DAFA|BAGF EFGA|(3B^cd ed (3Bcd ef
+|g2gf gfed|BdAc Bdef|g2gf gfed|BdAc BEef|"Variation A" gbaf gfed
+|B2AB GAFG|EDEF GzGA|AGdB gfed:|
+|!"variation at A" g2gf gfed|B2AB GBFB|
+
+X: 2
+T:The Last Pint
+M:4/4
+L:1/8
+C:Pierre Bensusan
+S:Lunasa
+Z:Rachel Marsh
+K:G
+~G3 E DEGA | BGAB AGED | ~G3 E DEGA | BGAB A4  |
+~G3 E DEGA | B2 AB AGED | GABG BcAG | FD D/2E/2F/2G/2
+AG G2 :||
+GBdG (3B^cd GB | cBAG BGGF | GBdG (3B^cd GB | cBAG FD
+D/2E/2F/2G/2 | G2 dG (3B^cd GB | cBAG BGGF | ~G3 E DEGA
+BGAB A4 :||
+
+X: 3
+T:Big Pat's Reel
+M:C|
+L:1/8
+R:Reel
+Z:bil
+K:G
+(dc)|BGEFG2(BG)|G2(BG) (FA)D2|BGEFG2(Bd)|g2(fg)e2(dc)|BGEFG2(BG)|G2(BG)
+(FA)D2|BGEF GAB^d|egfge2||(ef)|gfga bgag|(fa)ag (fd) dz|gfga
+bgag|fe^dfe2(ef)|gfga bgag|(fa)ag (fd) dz|g2(ge)f2(fd)|egfge2||
+
+X: 4
+T:Maid behind the Bar
+M:C
+L:1/8
+C:Trad
+R:reel
+Z:Craig Herrity
+K:D
+FAAB AFDE|FAAB A2 de|f~B3 dcd"Glide"e|f2af edBA|F~A3 BAFE|
+FAAB A2de|f~B3 dcdB|AFEF "slap"D3[Ee]:||:faag f~d3|fdad f~d3|
+efga b~e3|g/2f/2e be g2eg|f/2g/2a af bfaf|d/2e/2f af e2de|f~B3 dcdB|
+AFEF"slap"D3G:||
+
+X: 5
+T:Leaping Priest, The
+M:6/8
+L:1/8
+Q:127
+C:Craig
+R:Jig
+N:Not traditional
+Z:Craig Herrity
+K:G
+~G3 Bdg|~G3 Bdg|~b3 c'ag|fdc AFD|~G3 Bdg|~B3 dgb|d'c'b c'af|agf g3:||:
+eBe efg|fd^c def|~g3 gab|afe d2f|eBe efg|afd fga|b=c'd' c'af|1agf g2f:|2
+agf
+gdB||
+
+X: 6
+T:Bumper Squire Jones
+M:6/8
+L:1/8
+C:Turlough O'Carolan
+Z:Rachel Marsh
+K:D
+A | FED d2 D | FAF GBA | BEF G2 A | FED d2 e |
+fed edc | ABd ABc | dcd Bec | dDD D3 :||
+fg | ~a3 dfa | bab efg | agf efd | cec A2 d |
+faf ~g3 | faf gfg | fed cBc | dDD D3 :||
+
+X: 7
+T: The Maid Behind The Bar
+M:4/4
+L:1/8
+R: Reel
+Q:280
+N: P.g.Mulvaney's setting, based on Mark Roberts'
+Z:P.g.Mulvaney
+K:D
+(F || A3) B AF{F}EF | DA{B}AF ABde | f~B3 Bcde | ~f2 af e(3fed B |
+AFAB AFEF | DA{B}AF ABde | f~B3 BcdB |1 AFEG FE D2 :|2 AFEF D  de||
+fa(3aaa fede | fa(3aaa fedf | ~g2 ga beef  | ~g2 ga beeg  |
+~f2 af bfaf | defd efde | fB{c}BA BcdB |1  AFEF D2 DE :|2   AFEF "cran"D
+4 |
+
+X: 8
+T:Flame in the Fiddle
+M:6/8
+L:1/8
+S:Polkemmet Grorud: From Celtic Roots
+S:Arranged by S. Hall
+R:Jig
+Z:Stuart Hall
+K:Emin
+EBB BAG|FDD AGF|EBB BAG|FGA B3|
+Bee dBB|BAG FDD|DFA BAG|FEE E2A:|
+|:Bee d2A|B2G FGA|Bee dBA|FGA B2A|
+Bee d2A|B2G FGA|BAG FGA|FEE E2A:|
+|:BEE EFG|FDD DFA|BEE EFG|FGA B2A|
+BEE EFG|FDD DFA|BAG FGA|BEE E2A:|
+Bee dBA|BEE BEE|Bee dBA|FGA B2A|
+Bee dBA|BEE BEE|BAG FGA|1FEE E2A:|2FEE E3||
+
+X: 9
+T:Gan Ainm Waltz
+M:3/4
+L:1/4
+S:from  Mike Rafferty
+R:Waltz
+H:Mike wasn't sure where he got this but felt it came from Sean McGlynn,
+H:either directly, or through Billy McComisky.
+Z:Thomas A. Madden
+K:D
+d/2e/2|:f A d|(f2 g/2)f/2|e c e|d2 d/2c/2|BG>B|AF A/2F/2|G E/2A/2A/2F/2|
+1 D2d/2e/2/:|2 D2 A/2B/2|
+|A D E|F2 G/2F/2|E c B|A2 A/2B/2|A E F|G2 c/2B/2|A2>G/2 B|A2 A/2B/2|
+A D E|F2 G/2F/2|E c B|A2 (3A/2B/2c/2| ddB|AF A/2F/2|G E/2A/2A/2F/2|1 D2
+A/2B/2:|2 D||
+
+X: 10
+T:Gan Ainm Waltz 2
+M:3/4
+L:1/4
+S:from  Mike Rafferty
+R:Waltz
+H:Mike wasn't sure where he got this but felt it came from Sean McGlynn,
+H:either directly, or through Billy McComisky.
+Z:Thomas A. Madden
+K:D
+A/2G/2|:FD A/2F/2|GEB|A/2F/2 D (4d/2e/2f/2d/2 |A2 a/2g/2|f2 e/2d/2|
+c2 A/2 (3B/2c/2d/2|1 e d B|A2 A/2G/2:|2 e d c|d2 f/2g/2||
+a/2f/2d/2 B/2A/2F/2|D d/2f/2a/2f/2|g e/2f/2e/2d/2|e2f|g e c|A2f/2g/2|b a
+/2b/2a/2g/2|f2 d/2f/2|
+a/2f/2d/2 B/2A/2F/2|D d/2f/2a/2f/2|g e/2f/2e/2d/2|e2f|g e d|c2 (3A/2B/2c
+/2|d/2B/2A/2G/2F/2E/2| D3||
+
+X: 11
+T:Gan Ainm Waltz
+R:waltz
+S:from  Mike Rafferty
+H:Mike wasn't sure where he got this but felt it came from Sean McGlynn,
+H:either directly, or through Billy McComisky.
+M:3/4
+L:1/4
+Z:michael hogan
+K:D
+d/e/|:f A d|(f2 g/)f/|e c e|d2 d/c/|BG>B|AF A/F/|G E/A/A/F/|1 D2d/e/:|2
+D2 A/B/|
+|A D E|F2 G/F/|E c B|A2 A/B/|A E F|G2 c/B/|A>G B|A2 A/B/|
+A D E|F2 G/F/|E c B|A2 (3A/B/c/| ddB|AF A/F/|G E/A/A/F/|1 D2A/B/:|2 D3||
+
+
+X: 12
+T:Gan Ainm Waltz 2
+R:waltz
+S:from  Mike Rafferty
+H:Mike wasn't sure where he got this but felt it came from Sean McGlynn,
+H:either directly, or through Billy McComisky.
+M:3/4
+L:1/4
+Q:3/4=40
+Z:michael hogan
+K:D
+A/2G/2|:FD A/F/|GEB|A/F/ D (3d/e/d/ |A2 a/g/|f2 e/d/|
+c2 A/ B/4d/4|1 e d B|A2 A/G/:|2 e d c|d2 f/g/||
+a/f/d/ B/A/F/|D d/f/a/f/|g e/f/e/d/|ef|g e c|A2f/g/|b a/b/a/g/|f2 d/f/|
+a/f/d/ B/A/F/|D d/f/a/f/|g e/f/e/d/|e2f|g e d|c2 (3A/B/c/|d/B/A/G/F/E/|
+D3||
+
+X: 13
+T:George Reynolds
+C:Turlough O'Carolan
+M:6/8
+L:1/8
+R:Jig
+Z:Philippe Varlet
+K:D
+D2D DED|FAA A3 |B/c/dc/B/ cde|dEE E2A|
+FDF BAB|AFA f2e|de/d/c/b/ ABc|dDD D3||
+f/g/af e/f/ge|dAd dAd|bg/a/b/g/ af/g/a/f/|eBe efg|
+fg/f/e/d/ cde|AB/A/G FGA|B/c/dB cAc|dDD D3||
+
+X: 14
+T:Hard Times (Come again no more)
+C: Stephen Foster
+N: From J.C.'s Tunefinder
+M:2/2
+L:1/4
+N:Reposted by Tris King, original transcriber unknown
+K:G
+ z2 G A| B2 B B| B d2 B| A G G3/4 A/4- B| B2 e- d| d2 B B| B3/4 A/4- G A
+3/2
+G/2|\
+ G4| z2 G A| B2 B B| B d2 B| A G G3/4 A/4- B| B2 e- d| d2 B2| B3/4 A/4-
+G
+A3/2 G/2|\
+ G4| z2 B c| d3 d| d2 ^c d| e4| d4| g2 d2| e- d d2| B/2 B3/2 AG/2-A/2|\
+ A2 G/2 A3/2| B2 B B| B d2 B| A G G3/4 A/4- B| B2 e- d| d2 B2| B3/4 A/4-
+ G
+A3/2 G/2|\
+ G4|
+
+X: 15
+T:Martin Wynnes #3
+R:reel
+C:Trad.
+S:Matt Molloy & Frankie Gavin Live 1/88
+M:C|
+L:1/8
+Z:Andrew Le Blanc
+K:G
+dged B2Ac |BGDG E~A3 |BGdB cAec |dfaf gfeB|
+dged B2Ac |BGDG E~A3 |BGdB cAec |1 dfaf g4:|2 dfaf g2Bd||
+~g3a gfeB |dged BGBd |~g3a gfeB |dega bgg2 |
+gbaf gfeB |dged BGG2 |dggf gfeB |1 dfaf g2Bd:|2 dfaf  g4||
+
+% Output from ABC2Win  Version 2.1 k preview on 01/05/2001

@@ -1,0 +1,24 @@
+%%scale 1.08
+%%format dulcimer.fmt
+X:1
+T:He's Got The Whole World In His Hands
+C:Spiritual
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:C    %(D, C)
+|G GE|"C"G4 (E C3)|G A2 G-GGGE
+w:0~He's got the whole world_ in His hands,_ He's got the
+w:1~He's got the little~tiny ba-by in His hands,_ He's got the
+w:2~He's got_ you~and~me broth-er in His hands,_ He's got_
+w:3~He's got_ everybody here_ in His hands,_ He's got_
+|"Dm7"F4 ("G"D B,3)|"Dm7"G A2 "G"G-GGGE|"C"G4 (E C3)
+w:whole~wide world_ in His hands,_ He's got the whole world_
+w:little~tiny ba-by in His hands,_ He's got the little~tiny ba-by
+w:you~and~me  broth-er in His hands,_ He's got_ you~and~me  broth-er
+w:everybody here_ in His hands,_ He's  got_ everybody here_
+|G A2 G-GGGE|"G7"G2 G2 F D3|"C"D4-D||
+w:in His hands,_ He's got the whole world in His  hands._
+w:in His hands,_ He's got the whole world in His hands._
+w:in His hands,_ He's got the whole world in His hands._
+w:in His hands,_ He's got the whole world in His hands._

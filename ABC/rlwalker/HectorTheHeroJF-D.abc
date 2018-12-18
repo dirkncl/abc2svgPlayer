@@ -1,0 +1,33 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Hector the Hero
+T:(Major-General Hector A. MacDonald)
+C:James Scott Skinner
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+P:A
+|D/2E/2
+|"D"F3/2 E/2 D|"G"B3/2 A/2 F|"D"A3/2 B/2 A|A2 D/2E/2
+|F3/2 E/2 D|"G"B3/2 A/2 F|"A"E3/2 F/2 E/2D/2|E D E
+|"D"F3/2 E/2 D|"G"B3/2 A/2 F|"D"A D D|("G"B/2D) (c/2B)
+|"D"A D3/2 F/2|("A"E c) D|"G"D3/2 E/2 D|1 "D"D2 D/2E/2:|2 "D"D F A||
+P:B
+|"Bm"B d3/2 A/2|B d3/2 B/2|"D"A3/2 B/2 A|A2 E/2D/2
+|"G"B3/2 d/2 B/4A/4F/2|"D"A D/2E/2 F|"A"E3/2  F/2 E/2D/2|E F A
+|"Bm"B d3/2 A/2|B d3/2 B/2|"D"A D D|("G"B/2d) (c/2B)
+|"D"A D3/2 F/2|("A"E c) E|"G"D3/2 E/2 D
+|1 "D"D F A:|2 "D"D2||

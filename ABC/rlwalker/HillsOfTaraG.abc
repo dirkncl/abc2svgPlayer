@@ -1,0 +1,27 @@
+%Scale the output
+%%scale 1.100
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Hills of Tara
+C:Traditional (Arr by Tom Morley)
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+P:A
+|uBc
+|:"G"d2 GF G2 AB|"C"c2 E2 E2 AvG|"D"FGAuB cBcd|"C"e2 d2 "G"B3 uc
+|"G"d2 GF G2 AB|"C"uc2 E2 E2 AG|"D"FGAB cADF|1 "C"AGGF "G"G2 uBc:|2 "C"AGGF "G"G2 uBd|
+P:B
+|"G"vg3 e "D"f3 d|"Am"efec A3 uG|"D"FGAB cBcd|"C"e2 d2 "G"B2 uBd|"G"g2 ge "D"f2 fd
+|"Am"efec A2 AG|"D"FGAuB cBcd|1 "C"e2 d2 "G"G2 uBd:|2 "C"AGGF "G"G2||

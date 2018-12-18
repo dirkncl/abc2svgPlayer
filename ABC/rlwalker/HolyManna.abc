@@ -1,0 +1,23 @@
+%Scale the output
+%%scale 1.23
+%%format dulcimer.fmt
+X:1
+T:Holy Manna
+C:Larkin Bryant,  arranged
+M:2/2    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+P:Play V1, V2, Ch, V3 to Fine
+|:"D"A, A,/2B,/2|D D|"A"E E/2D/2|"D"F/2E/2  D/2B,/2\
+w:1~Breth-ren,_ we  have met  to_ wor-_ ship,_ 
+w:2~Will  you_  pray with  all  your_ pow-_ er,_
+w:3~DC~Breth-ren_ pray and ho-ly_ man-_ na_
+|A,  A,/2B,/2|D D|F "A"E|"D""^Fine"D2:||
+w:And a-_ dore the Lord our God;
+w:While we_ try to preach the Word?
+w:Will be_ show-ered all a-round.
+|"D"F A|A A|F F/2D/2|"A"E "D"D\
+w:All is vain un-less the_ Spir-it
+|F A|A A|F F/2D/2|"A""^D.C."E2|
+w:of the Ho-ly One come_ down;

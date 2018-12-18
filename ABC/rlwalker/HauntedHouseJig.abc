@@ -1,0 +1,17 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:Haunted House, The
+M:6/8
+L:1/8
+C:Vincent Broderick
+R:Double Jig
+%%continueall
+K:G
+|D
+|:"G"G3 "D"AGA|"Em"BGE "C"EDE|"G"GBd "C"egd|"C"ege "D"edB
+|"G"G3 "D"AGA|"Em"BGE "C"EDE|"G"GBd "C"ege|"D"dBG "G"G2D:|
+|"G"GBd "C"egd|ege edB|"G"GBd ded|ded dBA
+|"C"GBd egd|ege edB|"G"GBd "C"ege|"D"dBA "G"G3
+|GBd "C"egd|ege edB|"G"GBd ded|ded dBA
+|"C"G3 "D"AGA|"Em"BGE "C"EDE|"G"GBd "C"ege|"D"dBA "G"G3||

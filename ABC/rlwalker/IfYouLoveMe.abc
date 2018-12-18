@@ -1,0 +1,27 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:If You Love Me, Really Love Me
+T:Hymne A L'Amour
+C:Words & Music by Edith Piaf (L), Geoffrey Parsons (L), Marguerite Monnot (M)
+M:4/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|z4 z2 "NC"AG|"D"F3 F "F#7"F^Ace|"Bm"d6 "Bm7"BA|"Em"G3 G "Em7"GBdf\
+w:If the sun should tum-ble from the sky, if the sea should sud-den-ly run
+|"A7"e4 z2 fg|"D"a2 d2 "F#7"d3 c|"G"B2 "G"g4 "Gm"ag|"D"f2 d2 "Em"g2 f2\
+w:dry, if you love me, real-ly love me, let it hap-pen I won't
+|"A"e4 "A7"z2 AG|"D"F3 F "F#7"F^Ace|"Bm"d6 "Bm7"BA|"Em"G3 G "Em7"GBdf\
+w:care. If it seems that ev-ry thing is lost, I will smile and nev-er count the
+|"A7"e4 z2 fg|"D"a2 d2 "F#7"d3 c|"G"B2 "G"g4 "Gm"ag|"D"fdAd "A7"e2 f2\
+w:cost. If you love me, real-ly love me, let it hap-pen, dar-ling, I won't
+|"D"d6 FF|"Bm"BBcc d2 FF|BB cc d2 BB|"G"ddBB "F#7"c4-\
+w:care. Shall I catch a shoot-ing star? Shall I bring it where you are? If you want me to I will.
+|c4 z2 ff|"Em"ggee "D"f2 dd|"F#7"eecc "Bm"d2 dd|"Em"eded "Ddim"e2 ^e2\
+w:_You can set me an-y task, I'll do an-y-thing you ask if you'll on-ly say you love me
+|"F#7"f6 "NC"AG|"D"F3 F "F#7"F^Ace|"Bm"d6 "Bm7"BA|"Em"G3 G "Em7"GBdf\
+w:still. When at last our life on earth is through, I will share e-ter-ni-ty with
+|"A7"e4 z2 fg|"D"a2d2 "F#7"d3 c|"G"B2 "G"g4 "Gm"ag|"D"fdAd "A7"e2 f2|"D"d6 z2||
+w:you. If you love me, real-ly love me, then what-ev-er hap-pens, I won't care.

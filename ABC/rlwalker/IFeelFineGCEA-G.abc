@@ -1,0 +1,282 @@
+%Scale the output
+%%scale 1.025
+%%format bracinho.fmt
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 110pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+% Defines the chords to be used:
+%%beginps
+/gcshow-b /gcshow load bind def
+/brac{/BRDEF exch def /BRNAM exch def
+    dup BRNAM eq {
+    BRDEF currentpoint exch 7 add exch 9 add bracinho
+    }if}!
+% (Diagram definitions by Chuck Boody)
+/gcshow-bracinho{
+    (A) (- 2 1 0 0) brac
+    (Amaj) (- 2 1 0 0) brac
+    (A6) (- 2 1 2 0) brac
+    (A7) (- 0 1 0 0) brac
+    (A9) (- 0 1 0 2) brac
+    (Amaj7) (- 1 1 0 0) brac
+    (Am) (- 2 0 0 0) brac
+    (Am6) (- 2 0 2 0) brac
+    (Am7) (- 0 0 0 0) brac
+    (Am9) (- 2 0 0 2) brac
+    (Asus2) (- 2 4 5 2) brac
+    (Asus4) (- 2 2 0 0) brac
+    (A+) (- 2 1 1 0) brac
+    (Aaug) (- 2 1 1 0) brac
+    (Adim) (- 2 3 2 3) brac
+    (A\201) (- 3 2 1 1) brac
+    (B\202) (- 3 2 1 1) brac
+    (A\201maj) (- 3 2 1 1) brac
+    (B\202maj) (- 3 2 1 1) brac
+    (A\2016) (- 3 2 1 1) brac
+    (B\2026) (- 3 2 1 1) brac
+    (A\2017) (- 1 2 1 1) brac
+    (B\2027) (- 1 2 1 1) brac
+    (A\2019) (- 1 2 1 3) brac
+    (B\2029) (- 1 2 1 3) brac
+    (A\201maj7) (- 3 2 1 0) brac
+    (B\202maj7) (- 3 2 1 0) brac
+    (A\201m) (- 3 1 1 1) brac
+    (B\202m) (- 3 1 1 1) brac
+    (A\201m6) (- 3 1 3 1) brac
+    (B\202m6) (- 3 1 3 1) brac
+    (A\201m7) (- 1 1 1 1) brac
+    (B\202m7) (- 1 1 1 1) brac
+    (A\201m9) (- 3 1 1 3) brac
+    (B\202m9) (- 3 1 1 3) brac
+    (A\201sus2) (- 3 0 1 1) brac
+    (B\202sus2) (- 3 0 1 1) brac
+    (A\201sus4) (- 3 3 1 1) brac
+    (B\202sus4) (- 3 3 1 1) brac
+    (A\201+) (- 2 1 1 0) brac
+    (B\202+) (- 2 1 1 0) brac
+    (A\201aug) (- 2 1 1 0) brac
+    (B\202aug) (- 2 1 1 0) brac
+    (A\201dim) (- 0 1 0 1) brac
+    (B\202dim) (- 0 1 0 1) brac
+    (B) (- 4 3 2 2) brac
+    (Bmaj) (- 4 3 2 2) brac
+    (B6) (- 1 3 2 2) brac
+    (B7) (- 2 3 2 2) brac
+    (B9) (- 2 3 2 4) brac
+    (Bmaj7) (- 4 3 2 1) brac
+    (Bm) (- 4 2 2 2) brac
+    (Bm6) (- 1 2 2 2) brac
+    (Bm7) (- 2 2 2 2) brac
+    (Bm9) (- 4 2 2 4) brac
+    (Bsus2) (- 4 1 2 2) brac
+    (Bsus4) (- 4 4 2 2) brac
+    (Baug) (- 3 2 2 1) brac
+    (Bdim) (- 1 2 1 2) brac
+    (C) (- 0 0 0 3) brac
+    (C6) (- 0 0 0 0) brac
+    (C7) (- 0 0 0 1) brac
+    (C9) (- 0 2 0 1) brac
+    (Cmaj7) (- 0 0 0 2) brac
+    (Cm) (- 0 3 3 3) brac
+    (Cm6) (- 1 2 2 2) brac
+    (Cm7) (- 3 3 3 3) brac
+    (Cm9) (- 5 3 3 5) brac
+    (Csus2) (- 0 2 3 3) brac
+    (Csus4) (- 0 0 1 3) brac
+    (Caug) (- 1 0 0 3) brac
+    (Cdim) (- 2 3 2 3) brac
+    (C\201) (- 1 1 1 4) brac
+    (C\2016) (- 1 1 1 1) brac
+    (C\2017) (- 1 1 1 2) brac
+    (C\2019) (- 1 3 1 2) brac
+    (C\201maj7) (- 1 1 1 3) brac
+    (C\201m) (- 5 3 3 3) brac
+    (C\201m6) (- 1 4 4 1) brac
+    (C\201m7) (- 1 4 4 2) brac
+    (C\201m9) (- 1 3 0 4) brac
+    (C\201sus2) (- 1 3 4 4) brac
+    (C\201sus4) (- 1 1 2 4) brac
+    (C\201aug) (- 2 1 1 0) brac
+    (C\201dim) (- 0 1 0 1) brac
+    (D\202) (- 1 1 1 4) brac
+    (D\2026) (- 1 1 1 1) brac
+    (D\2027) (- 1 1 1 2) brac
+    (D\2029) (- 1 3 1 2) brac
+    (D\202maj7) (- 1 1 1 3) brac
+    (D\202m) (- 5 3 3 3) brac
+    (D\202m6) (- 1 4 4 1) brac
+    (D\202m7) (- 1 4 4 2) brac
+    (D\202m9) (- 1 3 0 4) brac
+    (D\202sus2) (- 1 3 4 4) brac
+    (D\202sus4) (- 1 1 2 4) brac
+    (D\202aug) (- 2 1 1 0) brac
+    (D\202dim) (- 0 1 0 1) brac
+    (D) (- 2 2 2 0) brac
+    (D6) (- 1 1 1 1) brac
+    (D7) (- 2 2 2 3) brac
+    (D9) (- 2 4 2 3) brac
+    (Dmaj7) (- 2 2 2 4) brac
+    (Dm) (- 2 2 1 0) brac
+    (Dm6) (- 2 2 1 2) brac
+    (Dm7) (- 2 2 1 3) brac
+    (Dm9) (- 2 4 1 5) brac
+    (Dsus2) (- 2 2 0 0) brac
+    (Dsus4) (- 0 2 3 0) brac
+    (Daug) (- 3 2 2 1) brac
+    (Ddim) (- 1 2 1 2) brac
+    (D\201) (- 0 3 3 1) brac
+    (D\2016) (- 3 3 3 3) brac
+    (D\2017) (- 3 3 3 4) brac
+    (D\2019) (- 0 1 1 1) brac
+    (D\201maj7) (- 3 3 3 5) brac
+    (D\201m) (- 3 3 2 1) brac
+    (D\201m6) (- 3 0 2 1) brac
+    (D\201m7) (- 3 1 2 1) brac
+    (D\201m9) (- 3 5 2 6) brac
+    (D\201sus2) (- 3 3 1 1) brac
+    (D\201sus4) (- 1 3 4 1) brac
+    (D\201aug) (- 0 3 3 2) brac
+    (D\201dim) (- 2 3 2 3) brac
+    (E\202) (- 0 3 3 1) brac
+    (E\2026) (- 3 3 3 3) brac
+    (E\2027) (- 3 3 3 4) brac
+    (E\2029) (- 0 1 1 1) brac
+    (E\202maj7) (- 3 3 3 5) brac
+    (E\202m) (- 3 3 2 1) brac
+    (E\202m6) (- 3 0 2 1) brac
+    (E\202m7) (- 3 1 2 1) brac
+    (E\202m9) (- 3 5 2 6) brac
+    (E\202sus2) (- 3 3 1 1) brac
+    (E\202sus4) (- 1 3 4 1) brac
+    (E\202aug) (- 0 3 3 2) brac
+    (E\202dim) (- 2 3 2 3) brac
+    (E) (- 4 4 4 2) brac
+    (E6) (- 1 1 0 2) brac
+    (E7) (- 1 2 0 2) brac
+    (E9) (- 1 2 2 2) brac
+    (Emaj7) (- 1 3 0 2) brac
+    (Em) (- 0 4 3 2) brac
+    (Em6) (- 4 4 3 4) brac
+    (Em7) (- 0 2 0 2) brac
+    (Em9) (- 0 4 2 2) brac
+    (Esus2) (- 4 4 2 2) brac
+    (Esus4) (- 2 4 5 2) brac
+    (Eaug) (- 1 0 0 3) brac
+    (Edim) (- 0 1 0 1) brac
+    (F) (- 2 0 1 0) brac
+    (F6) (- 2 2 1 3) brac
+    (F7) (- 2 3 1 0) brac
+    (F9) (- 2 3 3 3) brac
+    (Fmaj7) (- 2 4 1 3) brac
+    (Fm) (- 1 0 1 3) brac
+    (Fm6) (- 1 2 1 3) brac
+    (Fm7) (- 1 3 1 3) brac
+    (Fm9) (- 0 5 4 3) brac
+    (Fsus2) (- 0 0 1 3) brac
+    (Fsus4) (- 3 0 1 1) brac
+    (Faug) (- 2 1 1 0) brac
+    (Fdim) (- 1 2 1 2) brac
+    (F\201) (- 3 1 2 1) brac
+    (F\2016) (- 3 3 2 4) brac
+    (F\2017) (- 3 4 2 4) brac
+    (F\2019) (- 1 1 0 1) brac
+    (F\201maj7) (- 3 5 2 4) brac
+    (F\201m) (- 2 1 2 0) brac
+    (F\201m6) (- 2 3 2 4) brac
+    (F\201m7) (- 2 4 2 4) brac
+    (F\201m9) (- 1 1 2 0) brac
+    (F\201sus2) (- 1 1 2 4) brac
+    (F\201sus4) (- 4 1 2 2) brac
+    (F\201aug) (- 3 2 2 1) brac
+    (F\201dim) (- 2 3 2 3) brac
+    (G\202) (- 3 1 2 1) brac
+    (G\2026) (- 3 3 2 4) brac
+    (G\2027) (- 3 4 2 4) brac
+    (G\2029) (- 1 1 0 1) brac
+    (G\202maj7) (- 3 5 2 4) brac
+    (G\202m) (- 2 1 2 0) brac
+    (G\202m6) (- 2 3 2 4) brac
+    (G\202m7) (- 2 4 2 4) brac
+    (G\202m9) (- 1 1 2 0) brac
+    (G\202sus2) (- 1 1 2 4) brac
+    (G\202sus4) (- 4 1 2 2) brac
+    (G\202aug) (- 3 2 2 1) brac
+    (G\202dim) (- 2 3 2 3) brac
+    (G) (- 0 2 3 2) brac
+    (G6) (- 0 2 0 2) brac
+    (G7) (- 0 2 1 2) brac
+    (G9) (- 2 2 1 2) brac
+    (Gmaj7) (- 0 2 2 2) brac
+    (Gm) (- 0 2 3 1) brac
+    (Gm6) (- 0 2 0 1) brac
+    (Gm7) (- 0 2 1 1) brac
+    (Gm9) (- 2 2 3 1) brac
+    (Gsus2) (- 0 2 3 0) brac
+    (Gsus4) (- 0 2 3 3) brac
+    (Gaug) (- 0 3 3 2) brac
+    (Gdim) (- 0 1 0 1) brac
+    (G\201) (- 5 3 4 3) brac
+    (G\2016) (- 1 3 1 3) brac
+    (G\2017) (- 1 3 2 3) brac
+    (G\2019) (- 3 3 2 3) brac
+    (G\201maj7) (- 1 3 3 3) brac
+    (G\201m) (- 4 3 4 2) brac
+    (G\201m6) (- 1 3 1 2) brac
+    (G\201m7) (- 1 3 2 2) brac
+    (G\201m9) (- 3 3 4 2) brac
+    (G\201sus2) (- 1 3 4 1) brac
+    (G\201sus4) (- 1 3 4 4) brac
+    (G\201aug) (- 1 0 0 3) brac
+    (G\201dim) (- 1 2 1 2) brac
+    (A\202) (- 5 3 4 3) brac
+    (A\2026) (- 1 3 1 3) brac
+    (A\2027) (- 1 3 2 3) brac
+    (A\2029) (- 3 3 2 3) brac
+    (A\202maj7) (- 1 3 3 3) brac
+    (A\202m) (- 4 3 4 2) brac
+    (A\202m6) (- 1 3 1 2) brac
+    (A\202m7) (- 1 3 2 2) brac
+    (A\202m9) (- 3 3 4 2) brac
+    (A\202sus2) (- 1 3 4 1) brac
+    (A\202sus4) (- 1 3 4 4) brac
+    (A\202aug) (- 1 0 0 3) brac
+    (A\202dim) (- 1 2 1 2) brac
+   gcshow-b}!
+% Replaces gchords with diagrams:
+/gcshow{gcshow-bracinho}!
+%%endps
+X:1
+T:I Feel Fine
+C:John Lennon and Paul McCartney
+M:C|    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+|"G7"d =f c B/2c/2-|c B/2c/2-c c/2d/2-|d =f c B/2c/2-
+w:Ba-by's good to me_ you know,_ she's hap-_py as can be
+w:Ba-by says she's mine_ you know,_ she tells _me all the time
+|c B/2c/2-c c/2d/2-|"D"d d z2|z4
+w:_you know,_ she said_ so.
+w:_you know,_ she said_ so.
+|d d d "C#"^c/2 "C"=c/2-|c c/2"Bb"_B/2- B/2c/2B/2G/2-|"G"G4|z4:|
+w:I'm in love with her_ and I_ feel_ fine._
+w:I'm in love with her_ and I_ feel_ fine._
+|"G"d2 d2|"Bm"d3 d|"C"c c d/2 e e/2-|"D"e/2 d3/2-d2
+w:I'm so glad that she's my lit-tle girl.___
+|"G"d2 d2|"Bm"d3 d|"C"e/2 c  A/2-A G/2F/2-|"D"F2 B/2 c d/2-
+w:She's so glad she's tell-ing all_ the world_ that her ba-
+|"G7"d =f c A/2c/2-|c B/2c/2-c3/2 c/2|d =f c B/2c/2-
+w:-by buys her things_ you know,_ he buys her dia-mond rings
+|c B/2c/2-c c/2d/2-|"D"d d z2|z4
+w:_you know,_ she said_ so
+|d d d "C#"^c/2 "C"=c-|c c/2"Bb"_B/2-B/2c/2B/2G/2-|"G"G4
+w:She's in love with me_ and I_ feel_ fine._
+|z4|"D"d d d "C#"^c/2"C"=c/2-|c c/2 "Bb"_B/2-B/2"C"c/2"Bb"B/2"G"G/2-|!fermata!G4||
+w:She's in love with me_ and I_ feel_ fine._

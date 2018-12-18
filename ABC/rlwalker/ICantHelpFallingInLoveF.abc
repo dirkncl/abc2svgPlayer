@@ -1,0 +1,38 @@
+%Scale the output
+%%scale 1.150
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:I Can't Help Falling In Love With You
+C:Music by George Weiss, Hugo Peretti, Luigi Creatore
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:F    %(D, C)
+P:A
+|"F"F2 "Am"c2|"Dm"F3 G3/4A1/4|"Bb"B2 "F"A2|"Gm7"G2- "C7"G C
+w:Wise men say on-ly fools rush in_ But
+|"Bb"D2 "C7"E2|"Dm"F2 "Bb"G A3/4B/4|"F"A2 "C7"G2
+w:I can't help fal-ling in love with
+|"F"F3 z|"F"F2 "Am"c2|"Dm"F3 G3/4A/4|"Bb"B2 "F"A2|"Gm7"G2- "C7"G C
+w:you. Shall I stay would it be a sin._ But
+|"Bb"D2 "C7"E2|"Dm"F2 "Bb"G A3/4B/4|"F"A2 "C7"G2|"F"F3 z||
+w:I can't help fal-ling in love with you.
+P:B
+|"Am"E3/4A/4 c3/4e1/4 "E7"d2|"Am"E3/4A/4 c3/4e/4 "E7"d2|"Am"E3/4A/4 c3/4e/4 "E7"d2
+w:Like a ri-ver flows, sure-ly to the sea. Dar-ling so it goes
+|"Am"c/2c/2- c "D7"z A/2 c3/4A/4|"Gm7"B2- "C7"B z||
+w:some things_ are meant to be._
+P:C
+|"F"F2 "Am"c2|"Dm"F3 G3/4A/4
+w:Take my hand. Take my
+|"Bb"B2 "F"A2|"Gm7"G2- "C7"G C|"Bb"D2 "C7"E2|"Dm"F2 "Bb"G A3/4B/4|"F"A2 "C7"G2|"F"F3 C
+w:whole life too,_ for I can't help fal-ling in love with you; for
+|"Bb"D2 "C7"E2|"Dm"F2 "Bb"G A3/4B/4|"F"A2 "C7"G2|"F"F4||
+w:I can't help fal-ling in love with you.

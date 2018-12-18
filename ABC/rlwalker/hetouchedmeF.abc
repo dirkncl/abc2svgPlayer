@@ -1,0 +1,25 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:He Touched Me
+C:Words & Music: William J Gaither
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%V:1 treble clef
+K:F    %(D, C)
+|"C7"c3 "^Verses"B A B|"C6"A4 "C7"G2|"F"F2 A4-|"F#dim7"A6|"C7"c3 B A B
+w:1~Shack-led by a heav-y bur-den_ 'Neath a load of
+w:2~Since I met this bless-ed Sav-ior,_ Since He cleansed and
+|"C6"A4 "E7"^G2|"Fmaj7"A6-|"F7"A4 z2|"Bb"d3 d d d|B4 "Bdim7"d2|"F"c2 A4-|A4
+w:guilt and shame;_ Then the hand of Je-sus touched me,_
+w:made me whole;_ I will nev-er cease to praise Him,_
+|"F#dim7"c2|"C"c3 =B c =B|"Gm7"B2 "C6"A2 "C7"G2|"F"F6-|F4||
+w:And now I am no long-er the same._
+w:I'll shout it while e-ter-ni-ty rolls._
+|"^Chorus"c2|"Gm7"c2 G4|"C7"c4 "F#9b5"c2
+w:He touched me, Oh, He
+|"F6"c2 A4-|A4 "F7"c2|"Bb"d4 d2|"F"c3 A "D7"B A|"G13"=G6-|"C9"G6|"F"A A-A4
+w:touched me,_ And Oh, the joy that floods my soul;_ Some-thing_
+|"C7"B B3 B2|"F"c4 "F7"c2|"Bb"d4 "Bdim7"d2|"F"c A3 "D7"B2|"G7"AG F2 "C7"G2|"F"F6-|F6||
+w:hap-pened, and now I know, He touched me and  made__ me whole._

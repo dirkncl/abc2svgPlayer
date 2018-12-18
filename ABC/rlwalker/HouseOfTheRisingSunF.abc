@@ -1,0 +1,57 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X: 1
+T:The House of the Rising Sun
+C:Traditional
+M:3/4
+L:1/4
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:F
+|A
+w:1~There
+w:2~If
+w:3~The
+w:4~Go
+w:5~I'm
+|"Dm"D2 E|"F"F2 A
+w:is a house in
+w:I had listened to~what
+w:on-ly thing a
+w:tell my ba-by
+w:go-ing back to
+|"G"G2 E|"Bb"C2 A|"Dm"d2 d
+w:New or-leans they call the
+w:ma-ma said, I'd be at
+w:gam-bler needs is~a suit-case
+w:sis-ter ne-ver do like
+w:New Or-leans, my race is
+|"F"c2 A|"A7"A3-|A2 c
+w:Ris-ing sun_ It's
+w:home to-day._ *
+w:and a trunk._ And~the
+w:I have done._ To
+w:al-most run._ *
+|"Dm"d2 d|"F"F2 A|"G"G2 E
+w:been the ruin of many poor
+w:Being so young and foolish poor
+w:on-ly time he's sa-tis-
+w:shun that house in New Or-
+w:Go-ing back to end my
+|"Bb"C2 C|"Dm"D2 A|"A7"G2 E
+w:girls, and God I know I'm 
+w:girl, let~a gam-bler lead~me a
+w:fied, is when he's all a-
+w:leans they call the Ri-sing
+w:life be-neath the Ri-sing
+|"Dm"D3-|D2:||
+w:one._
+w:stray._
+w:drunk._
+w:Sun._
+w:Sun._
