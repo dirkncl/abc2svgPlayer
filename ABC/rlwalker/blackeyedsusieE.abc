@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Black Eyed Susie
+C:19th Century American
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%V:1 treble clef
+K:E    %(D, C)
+|"E""^Verses"B B B G|"A"A A A2|"E"G G/2G/2 G E/2E/2
+w:1~Black-eyed Su-sie 'bout half grown, Jumps on a boy like a
+w:2~All I want in this cre-a~tion, Pret~ty lit-le wife and a
+w:3~All I need to keep me hap~py, Two lit-le boys to_
+w:4~I asked her to be my wife, She come_ at~me with a
+|"B7"F D/2D/2 C B,
+w:dog on a bone._
+w:big plan- _ta-tion.
+w:call me_ Pap-py
+w:Bar-low_ knife._
+|"E"E4|"A""^Chorus"F E "B7"C B,
+w:Hey, black-eyed Su-sie,
+|"E"E2 E/2E/2E/2E/2|"A"F E "B7"C B,|"E"E4|"A"F E "B7"C B,|"E"E4||
+w:Hey, pret-ty lit-tle black-eyed Su-sie, Hey, black-eyed Su-sie, hey.

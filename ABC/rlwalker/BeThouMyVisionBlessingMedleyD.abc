@@ -1,0 +1,46 @@
+%Scale the output
+%%scale 1.08
+%%format dulcimer.fmt
+X:1
+T:Be Thou My Vision / Come Thou Fount of Every Blessing
+C:Medley
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:D    %(D, C)
+P:A - Be Thou My Vision
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:D    %(D, C)
+|:"D"D D E/2D/2|"G"B, "A7"A, B,|"D"D D "A7"E|"D"F3
+w:Be thou my_ vi-sion, O God of my heart;
+|"A7"E E E|"F#m7"E F A|"G"B A "D"F|"A"A3
+w:naught be all else to me, save that thou are.
+|"G"B B/2c/2 d/2c/2|"D"B A F|"Bm"A D C|"G"B,2 "A"A,
+w:Thou my_ best_ thought,_ by day or by night,_
+|"D"D F A|"Bm"B/2A/2 F D/2F/2|"Em"E D "G"D|1 "D"D3:|2 "D"D2|
+w:wak-ing or sleep-_ing, thy_ pres-ence my light.
+P:B - Come Thou Font of Every Blessing
+L:1/8
+|FE
+w:1~Come, Thou
+w:2~Here I
+w:3~O to
+|"D"D2 D2 FA|"A"E2 E2 "D"FA|"G"B2 "D"A2 "A7"FE|"D"D4 F"A7"E|"D"D2 D2 FA
+w:Fount of ev-'ry bless-ing, Tune my heart to sing Thy grace; Streams of mer-cy, nev-er
+w:raise mine Eb-e-ne-zer, Hith-er by Thy help I'm come; And I hope, by Thy good
+w:grace how great a debt-or Dai-ly I'm con-strained to be! Let Thy good-ness, like a
+|"A"E2 E2 "D"FA|"G"B2 "D"A2 "A7"FE|"D"D2 AB/2c/2|d2 "D/F#"c2 "G"BA|"D"BA F2 AB/2c/2|d2 "D/F#"c2 "G"BA
+w:ceas-ing, Call for songs of loud-est praise. Teach me_ some me-lo-dious son-_net Sung by_ flam-ing tongues a-
+w:plea-sure, Safe-ly to ar-rive at home. Je-sus_ sought me when a strang-_er, Wan-d'ring_ from the fold of
+w:fet-ter, Bing my wan-d'ring heart to Thee. Prose to_ wan-der, Lord, I feel _it, Prone to_ leave the God I
+|"D"d4 F"A7"E|"D"D2 D2 FA|"A"E2 E2 "D"FA|"G"B2 "D"A2 "A7"FE|"D"D4:||
+w:bove; Priase the mount, I'm fixed up-on it, Mount of thy re-deem-ing love.
+w:God; He, to res-cue me from dan-ger, In-ter-posed His pre-cious blood.
+w:love; Here's my heart, O take and seal it, Seal it for Thy courts a-bove.

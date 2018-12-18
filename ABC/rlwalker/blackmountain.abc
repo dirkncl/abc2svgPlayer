@@ -1,0 +1,31 @@
+%%scale 1.00
+%%format dulcimer.fmt
+X:1
+T:Black Mountain Rag
+C:Traditional
+M:2/4
+L:1/8
+K:D
+N:Dogwood begin Part B; Jammin'Folk begin Part A
+%%partsbox 1
+%%score 1 2
+V:1 clef=treble name="Melody"
+V:2 clef=treble name="Harmony"
+%%continueall 1
+P:A
+V:1
+|:"D"F2 F2|FDEF|"G"G2 G2|G2 AG|"D"F2 F2|FDEF|"A"E2 E2|E2 E2
+|"D"F2 F2|FDEF|"G"G2 G2|G2 AG|"D"F2 GF|"A"E2 FE|"D"D2 D2|D4:||
+V:2
+|:A2 A2|A2 dA|B2 B2|B2 dB|A2 A2|AFGA|G3 F|EF E2
+|A2 A2|A2 dA|B2 B2|B2 dB|A2 BA|G2 AG|F2 F2|F4:||
+P:B
+V:1
+|:"D"FBAB|FBAA|FBAB|"A"FE "D"D2:||
+V:2
+|:DB,A,B,|DF F2|DB,A,B,|F/2D/2E D2:||
+P:C
+V:1
+|:"D"F2 F2|FDB,A,|F2 F2|"A"A,B, "D"D2:||
+V:2
+|:A2 A2|AGFD|A2 A2|A/2F/2G F2:||

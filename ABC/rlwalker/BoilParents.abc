@@ -1,0 +1,32 @@
+X:1
+%%scale .900
+%%format dulcimer.fmt
+T:Boil Them Cabbage Down / Mes Parents Veulent Plus Me Voir
+C:Traditional Folk Tune
+L:1/8
+M:2/4
+K:G
+P:A
+V:1 clef=treble name="Melody"
+|"G"BB BB|"C"c2 c2|"G"BB BB|"D"A4\
+w:~~5 5 5 5 6 6 5 5 5 5 4
+|"G"BB BB|"C"cc cc|"G"BB "D"AA|"G"G4||
+w:5 5 5 5 6 6 6 6 5 5 4 4 3
+V:2 clef=treble name="Harmony"
+P:A
+|dd dd|ee ee|dd dd|c4\
+|dd dd|ee ee|dd cc|B4||
+P:B
+K:G
+M:4/4
+L:1/4
+V:1
+P:A
+|:"G"B d c B|d4|B d c B|G4|B B c B|"D7"A4|A B2 A|"G"G4:|
+w:~~5 7 6 5 7 5 7 6 5 3 5 5 6 7 4 4 5 4 3
+|:"C""^Part B"c c "G"B/2A/2 G|"C"c c "G"B2|"C"c c "G"B/2A/2 G|"D7"c/2B/2 A "G"G2:|
+w:6 6 5 4 3 6 6 5 6 6 5 4 3 6 5 4 3
+V:2
+P:B
+|:d g e d|g4|d g e d|B4|g g a g|f4|f g a f|g4:|
+|:e e/2e/2 d B|e e d2|e e d B/2B/2|e/2d/2 c B2:|

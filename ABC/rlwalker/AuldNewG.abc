@@ -1,0 +1,48 @@
+%Scale the output
+%%scale 0.850
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Auld Lang Syne (Modern Version)
+C:Traditional - Robert Burns - lyrics
+O:Scotland
+M:4/4
+L:1/8
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Gmaj
+P:A
+V:1 clef=treble octave=0 name="Melody" " 
+|uD2|:"G""^Verses"G3 F G2 B2|"D"A3 G A2 (BA)
+w:1Should auld ac-quain-tance be for-got, and_
+|"G"G3 G B2 d2|"C"e6 e2
+w:nev-er brought to mind? Should
+|"G"d3 B B2 G2|"D"A3 G A2 (BA)
+w:auld ac-quain-tance be for-got, In_
+|"Em"G3 E "C"E2 "D"D2|"G"G6 e2||
+w:days of auld lang syne? For
+V:2 clef=treble octave=0 name="Harmony" " 
+|ud'2|:d3 d d2 g2|f3 g f2 f2
+|d3 d g2 g2|g6 g2
+|g3 g g2 g2|f3 g f2 g2
+|e3 c c2 c2|B6 g2||
+P:B
+V:1 clef=treble octave=0 name="Melody" " 
+|"G""^FASTER last time"d3 B B2 G2|"D"A3 G A2 e2
+w:auld_ lang_ syne my dear for
+|"G"d3 B B2 d2|"C"e6 g2
+w:auld_ lang_ syne. We'll
+|"G"d3 B B2 G2|"D"A3 G A2 (BA)
+w:tak' a cup o' kind-ness yet for_
+|"Em"G3 E "C"E2 "D"D2|"G"G6:||
+w:auld_ lang_ syne.
+V:2 clef=treble octave=0 name="Harmony" " 
+|g4 g4|f3 e f2 c'2
+|b3 g g4|g6 g2
+|g3 g g2 d2|d3 d d2 ^d2
+|e3 B c4|B6:||

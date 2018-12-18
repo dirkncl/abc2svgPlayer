@@ -1,0 +1,37 @@
+%%scale 0.9
+%%format dulcimer.fmt
+X: 1
+T:Auld Lang Syne (Original Version)
+C:Traditional - Robert Burns - lyrics
+O:Scotland
+M:4/4
+L:1/8
+K:F
+V:1 clef=treble name="Melody"
+|c2|:"F""^Verses"f3 f "C"g2 a2|"F"c3 d "C"c3 c
+w:1Should auld ac-quain-tance be for-got, and
+|"F"f2 a2 "Gm"g2 f2|"Bb"d6 f2
+w:nev-er brought to mind? Should
+|"F"c3 A "C"G2 F2|"Gm"G3 F "C"G3 A
+w:auld ac-quain-tance be for-got, In
+|c3 c d2 c2|c6||
+w:days of auld lang syne?
+V:2 clef=treble name="Harmony"
+|c'b|:a3 a b2 c'2|a3 b a3 a
+|a2 c'2 b2 a2|b6 b2
+|a3 f e2 d'2|B3 A B3 c
+|e4 f2 e2|e6||
+V:1 clef=treble name="Melody"
+|c2|"F""^Refrain"f3 f "C"g2 a2|"F"c3 d "C"c3 c
+w:For auld_ lang_ syne my dear for
+|"F"f2 a2 "Gm"g2 f2|"Bb"d6 f2
+w:auld_ lang_ syne. We'll
+|"F"c3 A "C"G2 F2|"Gm"G3 F "C"G3 A
+w:tak' a cup o' kind-ness yet for
+|1c4 d2 c2|"C"c6:|2"C"c4 "Gm"dc"C"AG|"F"F6||
+w:auld lang_ syne. auld lang___ syne.
+V:2 clef=treble name="Harmony"
+|e2|a3 a b2 c'2|a3 b a3 a
+|a2 c'2 b2 a2|b6 b2
+|a3 f e2 d2|B3 A B3 c
+|1e4 f2 e2|e6:|2e4 f2 e2|c'6||

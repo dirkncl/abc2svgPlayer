@@ -1,0 +1,17 @@
+%Scale the output
+%%scale 0.97
+%%format dulcimer.fmt
+%%barsperstaff 6
+X:1
+T:Autumn Waltz
+C:Bill Staines
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|"^D A D"D/2E/2|:"D"F2 G/2A/2|"G"B e B|"A"A F E|"Bm"D2 E/2F/2|"G"B,2 C/2D/2
+|"D"A, D D/2E/2|"G"F E D|"A"E2 D/2E/2|"D"F2 G/2A/2|"G"B e B|"A"A F E
+|"Bm"D2 E/2F/2|"G"B,2 C/2D/2|"D"A, D "A"C|"D"D3|1 "D"z z D/2E/2:|2 "D"z z F/2E/2||
+|:"Bm"D2 E/2F/2|"Em"G A B|"F#m"A F E|"G"D2 C/2B,/2|"D"A,/2C/2 D A,|"Em"G,/2C/2 D D/2E/2
+|"G"F E D|"A"E2 F/2E/2|"Bm"D2 E/2F/2|"Em"G A B|"F#m"A F E|"G"D2 C/2B,/2
+|"D"A,/2C/2 D B,|"Em"G,/2C/2 D D/2E/2|"A"F E D|1 "D"D3|z z F/2E/2:|2 "D"D3-|D2||

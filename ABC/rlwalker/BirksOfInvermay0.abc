@@ -1,0 +1,43 @@
+X: 0
+T: The Birks of Invermay
+T: 8x32S__
+R: strathspey
+O: RSCDS 16-2
+K: G
+
+X: 1
+P: the Birks of Invermay
+R: strathspey
+B: RSCDS 16-2(I)
+N: "Surenne"
+M: 4/4
+L: 1/8
+K: G
+B>c \
+| "G"d3e d>B A>G | "Am"A>G A>B "C"E3 G \
+| "G"D>E DB, D2 G>D | B,2 D>E "D7"D2 G>B |
+| "G"d2ef/g/ d<B A>G | "Am"c>B AG "C"E2 B>A \
+| "G"G>E DB, D2 G>A | "G"B2 "D7"A>G "G"G2|
+|| D>C \
+| "G"B,3 D "Em"E>D E<G | "Am"A>G A<B "C"E2 e2 \
+| "G"d>e d>B "(Em)"c>B A<G | "Am"c>d c>B "D7"A2 d>c |
+| "G"B>d e>f "Em"g3e | "G"d>B A>G "C"E2 B>A \
+| "G"G>E "/F"DB, D2 G>A | B2 "D7"A>G "G"G2 |]
+
+X: 2
+P: Colonel H.F.Campbell's Strathspey
+R: strathspey
+B: RSCDS 16-2(II)
+Z: 1997 by John Chambers <jc@trillian.mit.edu>
+M: 4/4
+L: 1/8
+K: G
+|: B>A \
+| "G"G2 d2 d>B d<g | "C"e>g "G"d>g "D7"A>F D>F \
+| "G"G2 d2 d>B d<g | "C"e>g "D7"f>a "G"g2 :|
+|| d2 \
+| "G"g>a b>a g>d d<g | "C"e>g "G"d<g "D7"A>F D>F \
+| "G"g>a b>a g>d d<g | "C"e>g "D7"f>a "G"g2 g>d |
+| "G"g>a b>a g>d d<g | "C"e>g "G"d>g "D7"A>F D>F \
+| "G"G2  d2  d>B d<g | "C"e>g "D7"f>a "G"g2 |]
+

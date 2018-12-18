@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.20
+%%format dulcimer.fmt
+X:1
+T:Blind Mary
+R:Air
+C:Turlough O'Carolan (1670-1738)
+O:Ireland
+M:2/4
+L:1/8
+Q:1/8=120
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+P:A
+|A
+|"D"d>d dc|"G"cB "D"A (F/G/)|A>B "Bm"AF|"A"E3 (F/G/)
+|("D"A>f) (f>e)|("G"dB) "D"A(D/E/)|(F>G) ("A"E>D)|"D"D3||
+P:B
+|(d/e/)
+|"D"f>g fB|"A"ec A(B/c/)|"Bm"d>D D(E/F/)|"A"E3 (A/G/)
+|("D"F>G) "F#m"Ad|"Bm"f>e "G"d (D/E/)|("D"F>G) ("A"E>D)|"D"D3|]

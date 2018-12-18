@@ -1,0 +1,64 @@
+%%scale 1.00
+%%format dulcimer.fmt
+X: 1
+T:In the Bleak Midwinter
+C:Words by Christina Rossetti
+C:Music by Gustav Holst
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%%staves [(1 2) | (3 4)]
+M:4/4
+L:1/4
+K:G
+%=====
+%Oh, what can I give Him, woeful as I am
+%If I were a shepherd, I would bring a lamb
+%If I were a wiseman, I would do my part
+%Yet, what can I give Him; I will give my heart
+%Yet, what can I give Him; I will give my heart
+%=====
+%
+[V:1] B | "G"B>c "Dmaj6"d B | "Em"A>A G z | "Am"A>B "Am7"A E | "D"A3 A |
+[V:2] G | G>G G D | E>E E z | E>E E D | C3 C |
+w:1. In the bleak mid- win_ ter, Fros- ty wind made moan,_
+w:2.~God hea-ven can not hold_ him, nor the earth sus-tain;_
+w:3. An- gels and arch- an - gels, May have ga- thered there,_
+w:4. What_ can I give_ him, Poor_ as I am?_
+[V:3] D | D>D D G, | B,>B, B, z | A,>E, E, G, | G,2 F, F, |
+[V:4] G, | G,>A, B, G, | E,>E, E, z | C,>D, C, B,, | A,,2 D, D, |
+%
+[V:1] "G"B>c "Dmaj6"d B | "Em"A>A G G | "Am"A B "D"A>G | "G"G3 G |
+[V:2] D>G G D | E>E E E | G G F>G | G3 G |
+w:Earth stood hard as i - ron,_ Wa- ter like a stone;_
+w:Heaven and earth shall flee a-way_ when he comes to reign._
+w:Che- ru- bim and se- ra- phim_ Throng- _ed the air:_
+w:If I were a shep - herd_ I would  bring a lamb;_
+[V:3] G,>D D G, | B,>B, B, B, | E E C>B, | B,3 B, |
+[V:4] G,>A, B, G, | E,>E, E, E, | C, C, D,>G, | G,3 G, |
+%
+[V:1]"C"c>B c d | "Cmaj7"e e B B | "G"d B "Dmaj7"A G | "D"F- "Dsus4"F- "D"F F|
+[V:2] G>G G =F | E E G G | G F E E | D3 D |
+w:Snow had fal- len, snow on snow,_ Snow_ on_ snow,_
+w:In the bleak mid-win-_ter, a sta-ble place suf-ficed; the
+w:But his mo-ther on-_ly,_ In her maid- en bliss_
+w:If I were a wise_ man_ I would do my part; Yet
+[V:3] C>D C B, | C C B, B, | G, D C B, | A,3 A, |
+[V:4] E,>G, E, D, | C, C, E, E, | B,, B,, C, C, | D,3 D, |
+%
+[V:1] "G"B>c "Dmaj6"d B | "Em"A2 "Em7"G z | "Am"A B "D"A>G | "G"G3 |]
+[V:2] D>G G D | E2 E z | G2 F>G | G3 |]
+w:In the bleak mid- win- ter, Long a - go.
+w:Lord_ God Al-might-y, Je-sus_ Christ.
+w:Wor- shipped the Be- lov- ed With a_ kiss.
+w:what_ can I give him, Give my_ heart.
+[V:3] G,>D D G, | B,2 B, z | E2 C>B, | B,3 |]
+[V:4] G,>A, B, G, | E,2 E, z | C,2 D,>G, | G,3 |]
+%
+%Chords:	    D = xx0232	    G = 320003 
+%	Amaj6 = x42222	Gmaj7 = 320002
+%	   Bm = x24432  Asus4 = x02230 
+%	   Em = 022000
+%	  Em7 = 022030 or 020030
+%	    A = x02220

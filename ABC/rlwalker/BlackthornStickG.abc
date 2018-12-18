@@ -1,0 +1,15 @@
+%%scale 1.10
+%%format dulcimer.fmt
+X: 1
+T:Blackthorn Stick
+R:Jig
+M:6/8
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G
+d|"G"gfg "C"e/f/ge|"G"dBG "C"AGE|"G"DEG "D7"AGA|"G"BdB "D7"ABd|
+"G"gfg "C"e/f/ge|"G"dBG "C"AGE|"G"DEG "D7"AGA|"G"BGG G2:|
+|:d|"G"edd gdd|edd gdd|"G"Bdd "Em"gfe|"Am"dcB "D7"A2d|
+"G"gfg "C"age|"G"dBG "C"AGE|"G"DEG "D7"AGA|"G"BGG G2:|

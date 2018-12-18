@@ -1,0 +1,1944 @@
+Copyright 2002 Voluntocracy.
+Permission is granted to copy and distribute modified 
+or unmodified versions of this music provided the copyright
+notice and this permission notice are preserved on all 
+copies and the entire such work is distributed under the
+terms of a permission notice identical to this one.
+
+I am unable to guarantee that all of these tunes
+are free of copyright restrictions in all countries.
+
+I am grateful to Deborah Jones (inielsen@portal.ca)
+and Vancouver International Folk Dancing for allowing 
+me to place some of their transcriptions in abc format 
+on the web.
+
+Richard Geisler has graciously allowed me to place
+a small selection of his transciptions on the internet.
+Other of his transcriptions in paper format can be obtained 
+directly from him at: MUSIC FOR YOUR FAVORITE
+INTERNATIONAL & BALKAN FOLK DANCES,
+15182 Ballantree Ln, Grass Valley, California, 95949 USA.
+
+Music sources are as indicated. In many cases there
+are either simplifications added guitar chords (with
+the help of abcmus).
+
+seymour.shlien@crc.ca
+
+
+
+X:1
+T:Abdala
+M:2/4
+L:1/8
+K:Cm
+Q:1/4=160
+%%MIDI gchord fzfz
+|:"G"FDEC|D2C=B,|C2=B,2|C2D2|\
+FDEC|D2C=B,|C2=B,2|A,2G,2:|
+|:=B,CDE|D2C=B,|C2=B,2|C2D2|\
+=B,CDE|D2C=B,|C2=B,2|A,2G,2:|
+|:C2=B,2|A,2G,2| C2=B,2|A,2G,2:|
+
+
+X:2
+T:Adana
+O:Macedonia
+M:2/4
+L:1/8
+Q:1/4=120
+K:DMix 
+%%MIDI gchord fzzz
+|:"D"A2 GA|"Cm"GF _E2|"D"D2 _E2|F2 G2|A2 GA|"Cm"GF _E2|"D"D2 A,2|D2 z2:|
+|:"D"D_ECD|"Cm"CB,A,2|"G"B,2C2|"D"D2_E2|"Cm"_EDC2|GF_E2|"D"D2 A,2|D2 z2:|
+"Cm"_EDC2|GF_E2|_EDC2|GF_E2|_EDC2|GF_E2|"D"D2 A,2|D2 z2|
+Q: 1/4=180
+"Cm"_EDC2|GF_E2|_EDC2|GF_E2|_EDC2|GF_E2|"D"D2 A,2|D2 z2|
+|:"D"F3G|A2B2|"Cm"cdc_B|"D"A2G2|A_BAG|[1"D"F2G2|A4|A2 z2:|\
+[2 "D"F2 _E2| D2 A,2| D2 z2|\
+"D"z4|D_EDC|"G"B,2C2|z4|
+Q: 1/4=120
+"Cm"_EDC2|GF_E2|"D"D2 A,2|D2 z2|
+
+
+X:3
+T:Aino Kchume
+O:Assyria
+M:4/4
+L:1/8
+Q:1/4=180
+K:Am
+%%MIDI gchord f2fff2f2
+"A" z8| z8 |\
+G2 A2 G2 c2|cABG A2 c2|cABG A4|
+G2 A2 G2 c2|cABG A2 c2|cABG A4|\
+G2 A2 G2 d2| cB BA A2 d2|cB BA A4|
+
+
+X:4
+T:Ali Pasha
+S:adapted from Richard Geisler, 1983
+O:Turkey
+M:5/4
+L:1/8
+Q:1/4=140
+K:Am
+%%MIDI beatstring fppmp
+|: "C" [G2E2] [G2E2] [c2G2] [G4c4]|"G7"  cB BA cB B4|\
+"F"  [B2G2]  [A2F2] GA [A3F3] A|"C" BG GF FG G4 :|
+|:"F"  F2 [A2F2] [A2F2] "G7" [A2F2] GF |\
+ "C" [E2C2] [G2E2] "A7" [G2D2] [G2^C2] FE|\
+"Dm" D2 F2 F2 "C" ED C2| "G7" D2 ED CB, "C" C4 :|
+
+
+X:5
+T:Alunelul de la Urzica
+O:Romania
+M:4/4
+L:1/8
+Q:1/4=200
+K:ADor
+A,2 C2 E2 E2| A,2 C2 E2 E2| A,2 C2 E2 E2| A,2 C2 E2 E2|
+|:cBcA cBcA|cBcA e/f/e/f/e/f/e/f/|e2 e2 c2 c2| e2 e2 A4:|
+|:ga _bg af ge |fc e2 c4 |e2 e2 e2 c2 | e2 e2 A4 :|
+
+
+X:6
+T:Andromadere
+S:Ad vielle que poura
+O:France (shottis)
+P:ABABCCDDEEDD
+M:2/4
+L:1/8
+Q:1/4=84
+K:Am
+P:A
+%%MIDI program 21
+%%MIDI bassprog 24
+%%MIDI bassvol 60
+%%MIDI gchord fzfz
+E|:"a" AA "d" Bc/B/|"a" AA "d" Bc/B/|"a" AA c/B/c|"a" e/d/4z/4c/4d/4c/Bc/d/
+:|:"a" AA "d" Bc/B/|"a" AA "d" Bc/B/|"a" AA c/B/c|[1 "e" e/dc/4d/4c/4B/4-B/2E:|
+[2e/dc/4d/4c/4B/4-B/2c/d/|
+P:B
+|:"a" eA Ac/e/|"d" d/c/B/A/ Bc/d/|"a"eA Ac/e/|"d" d/c/B/A/ "a" Ac/d/:|
+P:C
+|:"a" E/F/E/D/ E/A,/A,/E/|A/c/B/A/ B/E/E/D/|
+E/F/E/D/ E/A,/A,/C/|B,/A,/G,/A,/ A,E:|
+P:D
+|:"a" A,A, FF|A,A, G,G,|[1 A,A, CC|DD E2:|A,C DB,|A,4|
+P:E
+K:Em
+|:"a" A2 cB|AG ED/E/|[1FG ED/E/|F/G/F/G/ E2:|[2 FGED/C/| B,2 A,2|
+
+
+X:7
+T:Andro Retournee
+O:France
+M:4/4
+L:1/8
+Q:1/4=180
+K:A
+E4|"A"AG A2 A2 A2|"E"Bz B/B/B "A"c2 c2| "A"AG A2 A2 A2|"E"Bz BB "A"A2 E2|
+"A"AG A2 A2 A2|"E"Bz B/B/B "A"c2 c2| "A"AG A2 A2 A2|"E"Bz BB "A"A4|
+|:"Bm"d2 cB "A"c4|"Bm"d2 cB "A"c4| "A"c2 e2 A2 c2|"E"B2 BB "A"c4|\
+ "A"c2 e2 A2 c2|"E"B2 BB "A"A4:|
+
+
+X:8
+T:Arap
+O:Macedonia
+M:4/8
+L:1/16
+Q:1/4=114
+K:CDor
+|:B,CCB,  CB,CD|E/F/E/F/E/F/E/F/  D2z2|B,CCB,  CB,CD|
+E/F/E/F/E/F/E/F/ D2z2| B,CCB,  CB,CD|E/F/E/F/E/F/E/F/  D2z2| B,CCB,  CB,CF|
+C8:| F2G2G2F2|.G4.F4|D2E2E2D2|.E4.D4| B,2C2C2B,2|.C4.B,4|
+ B,2C2C2B,2|.C4.B,4| B,2C2C2B,2|.C4.B,4| B,2C2C2B,2|.C4.B,4|
+ B,2C2C2B,2|.C4.B,4|B,2C2C2B,2|.C4.B,4|E2F2 D2C2-|C6z2|
+
+
+X:9
+T:Armenina Miserlou
+T:Eench Eemanaee
+C:Armenia
+S:Tom Bozigian, vol. 2
+M:4/4
+L:1/8
+Q:1/4=120
+K:Am
+%%MIDI program 71
+%%MIDI gchord fzfz
+P:A
+|:"f" z2 e>f edd^c|d^cde f4 |"c" -f2 d>e dccB    |cBcd e4 |-e2 c>d edcB |
+"f"d2 zc  BA^GF   |B>c BAA^G|[1(3A^GA (3BAB c2d2:|[2 A6 z2|
+P:B
+M: 7/8
+%%MIDI gchord fzzzzzz
+"f"E2c B2A2 |B2A^G2F2|"c"E2F ^G2A2|"f"B2c2B3|
+"c"zEEE2c2|-c2BAc3|BAB2c2|e6z|
+P:C
+M: 4/4
+%%MIDI gchord fzfz
+|:"f" e<fe2e2|d2c2B4|B2c2d4|-d4|
+d<ed2d2|c2B2A4|B2c2c4|-c4 z2 cd|
+e2c2B3A|^GFE2z2Bc|[1BAA^GA2B2|c4d4:|[2 BAA^G A4-|A4z4|
+
+
+X:10
+T:Armenian Turns
+O:Armenia
+M:4/4
+L:1/8
+Q:1/4=160
+K:APhr
+|:"A"A2 ^cd e2 e2|e3 g "Dm"fe d2|"A"z2 e g "Dm"fe d2 | "A"e2 d^c "Dm"d4:|
+|:"A"^cdef edcB| ^cdef edcB| ^cdef edcB| ^c2 AA A4:|
+
+
+X:11
+T:Arnold's Circle
+O:England
+Z: copied from Deborah Jone's transcription
+M:6/8
+L:1/8
+K:D
+FE|: "D" A2 A BA^G| A2F D2E| F2F G2F|"G" E2B, B,CD|
+"A7" E2F E2C|A,CE A3|[1 "D" A^GA B2A| F3-FFG :|\
+[2 "A7" A^GA B2 C| D3-DDE|
+|: "D"F2A, F2A| F3-F2E| DEF AGF|G3 FEF| "A7" GBA GFE|
+DCB, A,3| [1 "D" A^GA B2A| F3-FDE:|[2 "D" A^GA B2C| D3-D3|
+
+
+X:12
+T:Avant-Deux de Travers
+O:France
+M:2/4
+L:1/8
+Q:1/4=160
+K:E
+|:B,B, EE|GF/G/ F2|AA GG|FF GE|
+B,B, EE|GF/G/ F2|AA GG|FF E2:|
+|:BG/B/ BB|ce B2|AA GG|FE/F/ GE|
+BG/B/ BB|ce B2|AA GG|FE/F/ E2:|
+
+
+X:13
+T:Bagi Karikazo
+S:from record: Hungarian Folk Dance Music -- Andor Czompo
+O:Hungary
+M:2/4
+L:1/8
+Q:1/4=60
+K:Am
+"Am"E4|"D"^F2"E"_A2|"Am"A4|E2"D"D2|CD3|"Em"CB,3|"Am"A,4|A,4|
+|:"Am"c2c2|"D"d2"Am"c2|"Em"B2"Am"A2|E3A|"C"cG3|G2"F"F2|"Am"E4|E4:|
+"D"^F2"E"_A2|"Am"A4|E2"D"D2|CD3|"Em"CB,3|"Am"A,4|A,4|
+Q:1/4=180
+K:A
+"A"A2A>G|AE3|"F#m"AF"D"DC|"A"B,<A,"E"A,<G,|"A"A,4|\
+C2C2|DE2z|"F#m"FG"A"AG|"F#m"FE"A"ED|E4|
+"F#m"F2FG|"A"A4|ABcB|B<AAG|A4|\
+A2A>G|AE3|"F#m"AF"D"DC|"A"B,<A,"E"A,<G,|"A"A,4|
+|:"E"B2"A"cB|"F#m"AF3|"A"A2"E"GG|"A"FE3|"E"B,2"E"B,A,|"E"B,4:|\
+"A"E2ED|"E"EB,3|"A"A2AB|cA3|"E"B4|
+"E"B2"A"cB|"F#m"AF3|"A"A2"E"GG|"A"FE3|"E"B,2B,A,|B,4|
+
+
+X:14
+T:Ballos
+O:Greece
+M:4/4
+L:1/8
+Q:1/4=180
+K:F
+%%MIDI drum dzdd 36 40 40
+!drum!z2 [A2F2] [B2G2] [c2A2]\
+|:[d2B2] z[dB] [d2B2] [d2B2]|[dB][cA][dB][ec] [dB][cA][B2G2]|\
+[c2A2] z[cA] [c2A2] [c2A2]|[cA][BG][cA][dB] [cA][BG][A2F2]|\
+[B2G2] z[BG] [B2G2] [B2G2]|
+[BG][AF][BG][cA] [BG][AF][G2E2]|[e2c2] [d2B2] [c2A2] [B2G2] |\
+ [A3F3] [AF] [AF][BG][cA][dB]|[c4A4] [BG][cA] [B2G2]|\
+[1[A4F4] [B2G2] [c2A2]:|[2 [A6F6] z2|
+!nodrum! F3 F F2 G2|A3 A AG F2|z G3 E2 C2|F8| z G3 E2 C2| F8|
+!drum! B2 zB B2 B2|BABc BAG2|A2 zA A2 A2| AGAB AGF2|G2 zG G2 G2| GFGA GFE2|\
+ z B3 A2 G2| F3G AB c2|A4 G2 G2| F8|
+
+
+X:15
+T:Balduzka
+T:Choukanoto
+S:folk dances from Bulgaria: learned and collected by Jaap Leegwater(BHA10441).
+O:Bulgaria
+M:2/4
+L:1/8
+Q:1/4=80
+K:Em
+|:"G"B/c/B/A/ "D"A G/A/| AB"G"Bz| "D"d/c/B/A/ A G/F/| DE"Em"Ez:|\
+|:"D"DA AG/F/| "G"DB "D"Az| "G"DB "D"AG/F/| DE"Em"Ez:|
+
+
+X:16
+T:Bannielou Lambaol
+T:LaRidee
+O:Brittany
+Z:Deborah Jones, VIFD
+M:2/4
+L:1/8
+Q:1/4=120
+K:F
+|: "C7" cc [cd][ce]|"F" [c2f2] [c2f2]| "C7" cc [cd][ce]|"F" [c2f2] [cf] z|\
+"F" [fa][eg] [fa][eg]|"Bb" [df]d d2| "C7" c[cg] [cg][Be]|"F" [c2f2] [cf]z|
+"F" c[cf] [cf][cf]|"C7" [cg][c/f/][c/e/] "F" [cf][cf]|\
+"F" c[cf] [cf][cf]|"C7" [cg][c/f/][c/e/] "F" [cf]z| 
+"F" [f2a2] [fa][fc']|"Bb" [fc'][fb] [fa][fg]| \
+"C7"[eg][eb] [ea][eg]|"F" [c2f2] [cf] z :|
+
+
+X:17
+T:Barjace
+O:Macedonia
+M:7/8
+L:1/8
+Q:1/4=80
+K:Bb
+%%MIDI beatstring fpmpmpp
+%%MIDI drum dzddzdz 38 38 38 38 70 70 70 70
+|:"Bb" !drum! G/F/G/E/ F/E/E/D/ B,D/E/ F| G/F/G/E/ F/E/E/D/ B,2 z:|
+%%MIDI drum dzdzdzz 38 38 38 70 70 70
+|:B,D/E/ F/E/E/D/  B,/D/E/F/ z| B, D/E/ F/E/E/D/  B,2 z:|
+%%MIDI drum dzzzdzz 38 38 70 70
+|:B,C/_D/ DD/C/ B,C/D/ z|B,C/_D/ _A/G/F/E/ _D/C/B,/A,/ B, :|
+
+
+X:18
+T:Batuta
+O:Romania
+M:2/4
+L:1/8
+Q:1/4=300
+K:CDor
+|:z2b2|a2d2|g2c2|f2B2|e2B2|BAB2|d2c2|f4|
+a2b2|a2d2|g2c2|f2B2|e2B2|BAB2|d2c2|c4:|:
+z2c2|BFB2|d2c2|f2c2|d2B2|BFB2|d2c2|c4-|c4:|
+
+
+X:19
+T:Bazetan Dantza
+O:Spain, Basque
+M:4/4
+L:1/8
+Q:1/4=180
+K:G
+%%MIDI gchord zzfzzzfz
+|:"G"defa g2d2|BdBG "C"c4|"G"BdBG "Am"AcAF| "G"G2 G2 G2 z2:|:
+GAB2 BGc2|cAB2 BGc2|BdBG "Am"AcAF| "G"G2 G2 G2 z2:|:
+G2d2d2e2|c2d2B2e2|c2d2B2e2|c2d2B2z2|c3dedcB|A2GFG2z2:|
+
+
+X:20
+T:Bekes Paros
+O:Hungary
+M:2/4
+L:1/8
+Q:1/4=140
+K:F
+"F"[A2F2] [F2C2]| [C2A,2] [F2C2]| "C"G3 A| "Gm"B G3| "F"[F4C4]| [F4C4]|\
+|: "F"f2 "Am"e2 | "Dm"d2 "F"c2| c2 "Bb"B2| "F"A2 F2| c4|[1 c4 :|
+[2 "Bb"B4| "F"A2 F2| C2 F2| "C"G3 A| "Gm"B G3| "F"F4| F4|
+
+
+X:21
+T:Bielo Litza Kruglolitza
+O:Russia
+P:ABA
+M:4/4
+L:1/8
+K:Cm
+Q:1/4=96
+%%MIDI gchord fzzzfzzz
+P:A
+z6 [B,2G2]|:"Cm"[E2c2] [E2c2] [E2c2] [G2e2]|\
+ "G"[Fd][Ge][Fd][Ec] [D2=B2] [D2G2]|\
+ "Cm"[G2e2] [G2e2] [G2e2] [B2g2]| "F"[B4f4] "Cm" [Bg][Af][Ge][Fd]|
+ [Ge][Af][Ge][Fd] [E2c2] [B,2G2]| "G"[Fd][Ge][Fd][Ec] [D2=B2] [B,2G2]|\
+"Cm"[E2c2] [E2c2] "G"[D2=B2] [B,2G2]|\
+ "Cm"[E4c4] z2 [B,2G2] :|
+P:B
+c2 cded ec| "G"dede "Cm"gfed| edef gfge| "Fm"f2 ba"Cm"gf ed|
+efed cdec| "G"dedc "Cm"gfed| cedc "Dm"dfdc| "Cm"c2 ga gfed|
+
+
+X:22
+T:Biserka
+C:Serbia
+S:Aman-Folkraft
+M:3/4
+L:1/8
+Q:1/4=192
+K:GMin
+%%MIDI gchord f2z2z2
+|:"g"G4g2|G4g2|"d"d4d2|"g"^c2B2A2|
+"g"G4g2|G4g2|"c"c2d2e2|"d"d6 |
+"g"G4g2|G4g2|"d"d4d2|"a"^c2B2A2|
+"c"c2>B2 cd|"a"B2>A2 Bc|A2>G2 AB|"g"G6:|
+|:"d"d6 |"f"f4 ed |"c""c"c3d ef|"d"d6 |
+"d"d4 d2 |"g"g3f ed|"c"c3d ef|"d"d6 |
+"d"d3G AB|d3G AB|d4 d2 |"c"^c3B AG|
+"c"c3B cd|"bb"B3A Bc|"d"A3G AB|"g"G6 :|
+
+
+X:23
+T:Bitola, Moj Roden Kraj
+Z: Deborah Jones VIFD Book
+M:7/8
+L:1/8
+Q:1/4=120
+K:C
+%%MIDI gchord f3f2f2
+P:I
+"C" [E3C3] "G7" [D2F2] [CE][DF] | "C" [E3G3][E4G4]|\
+[C3E3][D2F2]"G7" [CE][DF] | "C"[E7G7]|\
+[E2C2][EC]"G7" [F2D2] [EC][FD] | "C"[G3E3]"F" [A4F4]|\
+"C" [G3E3] "G7" [FD][GE] [F2D2] | "C" [E7C7]|
+P:A
+"C"[E3C3] "G7"[F2D2] [EC][FD] | "C" [G7E7]|\
+ [E3C3] [F2D2] "G7" [EC][FD] | "C" [G7E7]|\
+[E2C2] [EC] "G7" [F2D2] [EC][FD] |"C" [G3E3] "F" [A4F4]|\
+"C" [G3E3] "G7" [FD][GE] [F2D2]|"C" [E7C7]|
+P:B
+|: "F" [F3A3] [F3A3] [EG] | [F4A4] G F2|\
+"G" [E/G/][F/A/] [G2B2] "G7" [F2c2][F2A2]|\
+"C" [E7G7] | "G" [G3B3] "G7" [F2A2] [F2A2] |"C" [E4G4][DF] [C2E2]|\
+ [E2G2][EG] "G7"[DF][EG][DF][EE]|[1 "C" [C7E7]:|[2 "C" [C5E5]z2|
+P:C
+|:"C"[GE][AF][BG] [cA][BG] [dB][cA]|\
+"F" [B2G2] [AF] [AF][GE] [BG][AF]|\
+"G7" [G2E2] [FD] [FD][GE] [FD][EC]|\
+[1 "C" [E2C2] [DB,] [EC][FD] [G2E2]:|[2 "C" [E5C5] z2|
+
+
+X:24
+T:Bojarka
+C:Serbia
+S:Aman Folkraft
+M:3/4
+L:1/8
+Q:1/4=192
+K:GMin
+%%MIDI gchord fzz
+|:"f"c2 d2 e2 |"c"d2cBcd|"d"B2A2F2 |"g"G2 cBce |
+"f"d2 cBcd|"c"B2 A2 F2 |"g"G4c2 |"g"G6 :|
+|:"f"F2 G2 A2 |B2 edcd|B2A2F2 |"g"G2 cBce|
+"d"d2 cBcd|"f"B2 A2 F2 |"g"G4c2 |"g"G6 :|
+
+
+X:25
+T:Bre Devojce-Pod Ona
+O:Yugoslavia
+M:4/4
+L:1/8
+K:Dm
+Q:1/4=108
+P:A
+|: "C"c>=B cd c_BAG| G2 FE "Gm"D4 :|\
+|:"C"GF EC "Dm"DE FA| "C"GFEC "Gm"D2 D2 :|
+P:B
+|: "C"c>B c>A A2 G2| "F"c2 A2 "C"G4:|
+|:"Gm"G/A/B/c/ B/A/G/F/ G/A/B/c/ B/A/G/F/| G/A/B/c/ B/A/G/F/ G4  :|
+
+
+X:26
+T:Bregovsko
+O:Bulgaria
+M:6/8
+L:1/8
+K:A
+Q:1/4=240
+%%MIDI gchord fzfz
+|:"A"EFG A3|AB=c A3|"E"e^de e^de|"A"=cBA A3:|
+K:G
+|:"C"GAB c3|"Am"dcde3|"C"gfa g=fe| [1 dcd e3:|[2"Am" dcB A3
+|:"Am"cBA A^GA|A^GA e3| cBA A^GA|A^GA e3|
+cBA A^GA|A^GA e3|cBA A^GA|A2 z A2 z:|
+K:C
+|:"C"c2z egf|e2d c3|egf e2d|cBA G3:|:c2z egf|e2d c3|
+"C"egf e2d|cBA G3:|:"C"egf egf|e2d c3|egf e2d|cBA A3:|
+|:"C"egf egf|e2d c3|egf e2d|cBA A3:|
+
+
+X:27
+T:Briul de la Fagaras 
+S:The People's International Silver String Macedonian Band
+O:Romania
+M:2/4
+L:1/8
+K:A
+Q:1/4=120
+|:"A".A,.B,.C.D|.E.F.E2|"E"E/F/G/F/ E/F/G/F/|"A"E/F/E3|
+|"A".A,.B,.C.D|.E.F.E2|{A}az.E.F|GA2z:|
+|:"A"A4|"D"GF3|"D"ED3|"E"CB,3|\
+E/F/G/F/ E/F/G/F/|E/F/G/F/ "A"ED|CB,A,|"D"DC "E"B,A,:|
+
+
+X:28
+T:Briuletul
+S:Presented by Mihai and Alexandru David, Romanian Tour '77
+O:Romania
+M:2/4
+L:1/8
+Q:1/4=160
+I:Set accompaniment to plucked double bass, piano or equivalent
+K:D
+%%MIDI gchord fzfz
+|:"A"E A2 c| EAcz| f/e/^d f/e/^d| e2 c2:|\
+|:"A"E A2 c| EAcz| f/e/^d f/e/^d| e2 c2:|
+|:"A"c/d/e g/f/e| g/f/e  c/d/e| g/f/e g/f/e| c2 c2 :|
+|:"A"c/d/e g/f/e| g/f/e  c/d/e| g/f/e g/f/e| c2 c2 :|
+|: "Em"B2 f2| e/^d/ef2| g/f/e "Cm"^d=c| "Em"B2B2 |\
+ "Em"B2 f2| e/^d/ef2| g/f/e "Cm"^d=c| "Em"B2B2 :|
+|:"A"A2 "Em"B2|"A"A2 "Em"B2|"A"A4|"A"A4:|
+
+
+X:29
+T:Briul Pe Opt 
+S:presented by Mihai and Alexandru David, Gypsy Camp Vol II
+O:Romania
+M:2/4
+L:1/8
+K:Bm
+Q:1/4=112
+A2 Ae|A2 Ae|A2 Ae|A2 A^G| A2 Ae|A2 Ae|A2 Ae|A2 A^G|
+|:a2 g/f/e/f/|g/f/e/d/ cA| a2 g/f/e/f/|g/f/e/d/ cA|\
+a2 g/f/e/f/|g/f/e/d/ cA| g/f/e/d/ cA|Aa Aa:|
+|:c/d/e/f/ g/f/e/f/ |g/f/e/f/ cA| c/d/e/f/ g/f/e/f/ |g/f/e/f/ cA|
+ c/d/e/f/ g/f/e/f/ |g/f/e/f/ cA| g/f/e/f/ cA|Aa Aa :|
+|:d2 f2|d2 f2|d2 f2|[1 d2 c/B/A:|[2 A B/c/d2|\
+|:f/g/a b/a/a| f/g/a b/a/a| f/g/a b/a/a|[1 fe f2:|[2 fe d2|
+|:a2 g/f/e/f/|g/f/e/d/ cA| a2 g/f/e/f/|g/f/e/d/ cA|\
+a2 g/f/e/f/|g/f/e/d/ cA| g/f/e/d/ cA|Aa Aa:|
+|:c/d/e/f/ g/f/e/f/ |g/f/e/f/ cA| c/d/e/f/ g/f/e/f/ |g/f/e/f/ cA|
+ c/d/e/f/ g/f/e/f/ |g/f/e/f/ cA| g/f/e/f/ cA|Aa Aa:|
+
+
+X:30
+T:Carnivalito
+O:Bolivia
+M:4/4
+L:1/8
+Q:1/4=180
+K:Bb
+|:B,D2 F GB2G |Fz Dz B,2 z2|C D2 E D D2 C |[1 B,z Dz F2 z2:|[2 B,z B,z B,2 z2|
+F2 B2 F2 B2|d/e/d/e/d/e/ B F2 z2|D2 F2 D2 F2|B3 F D2 z2|\
+B,2 D2 B,2 D2|F3 DB,2 z2| DF2GAB2F|B,2 D2 E2 F2 
+|:GG3 GG3|GG3 EB3| FF3 FF3| FF3 DB3|\
+EE3 EE3| EE3 EF3|FF2F F2E2|[1 D2 D2 E2 F2:|[2 B,4 z4| 
+
+
+X:31
+T:Cetvorno Horo
+S:XOPO Horo and Racenica Dances of Bulgaria X-LP-4-A
+O:Bulgaria
+P:AABBABCBDEB
+M:7/8
+L:1/8
+Q:1/4=180
+K:D
+%%MIDI gchord f3c2c2
+%%MIDI beatstring fppmpmp
+P: A
+|:"A" ABB BAAG|"D" F2E DEFG|[1"Em" F2E DEFG|"D" D2E F4:|[2 "Em"F2E DEFE|
+"D" D3 D4|
+P:B
+|: "A"F2E EDEF| "D"D2D DEFG| "A7"F2E EDEF|[1 "D"D2E F4:|[2 "D"D3 D4|
+P:C
+K:Cm
+|:"Cm" C2G, CDED| D2G,C4|CDE-ED3| D2G, C4:|
+P:D
+K:D
+|:"D"A3 d4| "Bm"c2B-B4| "D"A3 d4 |"A"c4-c3|"D" A3 d4|"Em" c3B4|"A"A3G4 |"D" F3-F4:|
+P:E
+|:"D"F3 B4|"A" A2G A2G2| "Bm"F3 B4|"A" A3-A4|"Bm" F3 B4| "A"A2G A2G2| "A"A3 G4|"D" F3-F4:|
+
+
+X:32
+T:Cetvorno Horo 2
+O:Serbia
+M:7/8
+L:1/8
+K:Gm
+Q:1/4=240
+%%MIDI gchord fzzfzfz
+%%MIDI beatstring fppmpmp
+|:"Dm"BBB BAAG|AAA AGGF|"Bb"F2E DB,DE|"Dm"F2E D2D2:|
+|:"Eb"GGG GFFE|"Dm"D2B, DEFz|"Eb"GGG GFFE|"Dm"D2B, D2z2:|
+|:"Eb"GGG GFFE|"Dm"D2B, DEFz|F2F FEED|CDE D4:|
+|:"Eb"GGG GFFE|"Dm"D2B, DEFz|F2F FEED|CDE D4:|
+
+
+X:33
+T:Chastushky
+S:Alexandru David
+O:Russia
+M:2/4
+L:1/8
+Q:1/4=120
+K:Dmix
+%%MIDI program 24
+[d2B2] [d2B2]|[^c2A2] [^c2A2]|[d2B2]
+%%MIDI program 41
+dc| BB AA|A2 A2 |A2 DD|GG FF|
+    E2 G2|F2 DD |GG FF|E2 G2|
+    F2 DD| GG FF|E2 G2|F2 d2|
+    d2 d2| e2 e2|d2 d2|d2 d2|
+    e2 dd|BB  A2| AGA2|G2 F2|
+    DD GG| FF E2|G2 F2|DD GG|
+    FF E2| G2 F2|DD GG|FF E2|
+    G2 F2|
+     
+
+
+X:34
+T:Chiotikos
+O:Greece
+M:4/4
+L:1/8
+Q:1/4=180
+K:G
+Bc^c |"G"dedB "Am"cdcA| "G"BcBA GABc| dedB "Am"cdcA| "G"Bc^cd "Am"zB=c^c|
+"G"dedB "Am"cdcA| "G"BcBA GABc| "D"decd BcAB| "G"G2 F2 E2 D2|
+|:"G"G2G2G2G2|"D"A4"G"Bcd2|B6Bc|"D"d2 d2 "Am"edcB|"D"A4 dcBA|\
+[1"G"G2 F2 "Am"E2 D2:|[2 "G"G4 "D"z2 FG|
+|: "Am"A2 Ac "G"BAGF| "Am"E3D "D"FGAF|"G"G4 "D"z2 FG | "Am"A2 Ac "G"BAGF|\
+ "Am"E3D "D"FGAF|[1 "G"G4 "D"z2 FG :| [2 "G"G4 "D"z4|
+
+
+X:35
+T:Ciganski Orient
+S:from recording Ciga Ivon Despotovic -16 Yugoslavian Dances
+O:Serbia
+M:2/4
+L:1/8
+Q:1/4=300
+K:G
+%%MIDI gchord z2c2
+|:"B"B3c|B2 B2|B2 B2|B2 B2|B2 "Am"c2|B2 c2| "B"B2 B2| B4:|
+K:BDor
+|:"B"B3c|^d2e2|f2f2|f2f2|e2e2|^d2e2|^dcde|f4|
+B3c|^d2e2|fefe|f2f2|fa=gf|e=gfe|BcBc|B4:|
+|:"B"B4|A2G2|A4|G2F2|F4|F2F2|F4|F2z2|
+"B"B2c2|A2B2|G2A2|G2F2|F2F2|F4|F2z2:|
+"B"B4|=c4|B4|=c4|B2b2|B2B2|B4|
+
+
+X:36
+T:Ciganytanc
+S:Andor Czompo, Hungarian Folk Dance Music, AC Publications
+O:Hungary
+M:2/4
+L:1/8
+K:Gm
+%%MIDI chordprog 0
+%%MIDI bassprog 25
+%%MIDI program 40
+P:A
+Q:1/4=160
+c2 c2|c2 c2|c2 c2| B4|d2 d2|d2 c2|
+G3 A|B/A/B z2|c3 B|A/G/A z2|
+G3 A|B/A/B z2|c3 B|A/G/A z2|
+P:B
+Q:1/4=120
+"Gm" z4|  z4| z4|  z4|
+|:"Gm"d2 B2|GG DD|"Cm"c2 c2|c2 c2|
+ "Gm" d2 B2|GG cB|"Cm"A2 A2|A2 A2|
+ "Gm"BA GG|GB AF|G2 "Cm"A2|"Gm"B2"Cm" c2|
+ "Gm" BA GG|GB AF|G2 G2|G4   :|
+P:C
+M:6/8
+L:1/8
+K:CMix
+%%MIDI gchordoff
+%%MIDI program 71
+CCC3E|GGG3A|BAG3F|EGC4|
+FFF3A|ccc3A|GGG3A|GGG4|
+GGc4 |EEG4 |AAG3F|EGC4|
+DDE3D|FFE3D|CCC3D|CCC4|
+P:D
+K:Fm
+M:4/4
+L:1/8
+Q:1/4=240
+%%MIDI program 40
+A2A2G2F2 |F2C2C4 |A2A2G2F2 |G2E2E4 |
+A2A6     |B2B6   |c4  c4   |c4  c4 |
+c2e2 d2c2|dcB2 B4|B2d2 c2B2|cBA2 A4|
+A2A6     |B2G6   |F4  G4   |A4  B4 |
+c2e2 d2c2|dcB2 B4|B2d2 c2B2|cBA2 A4|
+A2A6     |B2G6   |F4  F4   |F4  F4 |
+
+
+X:37
+T:Cimpoi
+C:Romania
+S:Mihai and Alexandru David, Gypsy Camp Vol. 1
+M:6/8
+L:1/8
+K:C
+|: A,A,D ^C2_B,| A,A,D ^C2_B,| A,A,D ^C2_B,|A,A,A, A,2z:|
+e6-|e6|A6-|A6|: ^c/d/cd dcz| ^c/d/cd dcz| ^c/d/cd dcz|_BAA AA2:| 
+
+
+X:38
+T:Cinege
+S:Judith Magyar
+O:Hungary
+P:ABB
+M:2/4
+L:1/8
+Q:1/4=120
+K:Gm
+P:A
+%%MIDI program 19
+%%MIDI chordprog 64
+%%MIDI bassprog 45
+%%MIDI chordvol 70
+%%MIDI bassvol 100
+|:"F"ccdc|"Gm"B2G2|"F"FFGA|"Bb"B4|
+"F"ccdc|"Gm"B2G2|"F"FFBA|"Gm"G4|
+"Gm"cGFG|E2C2|"Bb"B,B,CD|"Eb"E4|
+"F"FFGF|"Cm"E2C2|"F"B,B,ED|"Cm"C4:|
+P:B
+%%MIDI program 110
+%%MIDI gchordoff
+z4
+%%MIDI gchordon
+Q: 1/4=130
+|:"F"cfff|ffff|"Cm"gfe2|"F"fccc/d/|cc/d/c2
+:|:"F"f_dcB|"Cm"c2^GF|"Bb"BBcd|"Eb"e2cB|^GGB2|"F"cFFE/G/|FE/G/F2:|
+
+
+X:39
+T:Ciulendra
+S:Gypsy Camp vol.1 - presented by Mihai and Alexandru David
+O:Romania
+M:2/4
+L:1/8
+Q:1/4=90
+K:Gm
+[B,3G3][DB]| [AC][B,G] [Fd]z| [B,3G3][DB]|[CA][B,G] [A,2D2]|\
+ [B,3G3] [DB] |[CA][B,G] [Fd]z| .B2 .A2| G2 z2|
+[D3B3][Fd]| [Ec][DB] [Af]z| [D3B3][Fd]| [Ec][DB] [A2F2]| [D3B3] [Fd]|\
+ [Ec][DB] [Af]z| .B2 .A2| G2 z2|
+
+
+X:40
+T:Coskun Coruh
+O:Bulgaria
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+%%MIDI gchord f2z2
+|:"C" D2 A2|D2 A2|DEFA|G2 E2 :|:\
+C2 G2|E2 C2|DEFG|E2 C2:|
+Q:1/4=240
+|:D2 A2|D2 A2|DEFA|G2 E2 :|:\
+C2 G2|E2 C2|DEFG|E2 C2:|
+|:D2 A2|D2 A2|DEFA|G2 E2 :|:\
+C2 G2|E2 C2|DEFG|E2 C2:|
+
+
+X:41
+T:Cujes Mala (Usest)
+S:from record Pecurka goes underground (P.U.1 Oct 1975)
+O:Serbia
+M:2/4
+L:1/8
+Q:1/4=120
+K:Gm
+|: "F".=B c2 .c| .=B c2 .c| .=BcBc| "C"B2 "F"A2|\
+ c2 "C" de| d2 c2 |"Gm"B4 | "F"A4|
+.=B c2 .c| .=B c2 .c| .=BcBc| "C"B2 "F"A2| F2 "C"GA| "Gm"BA "C"GF|
+G4 | "Gm"d2 "C"c2| "F"F2 "C"GA| "Gm"BA "C"GF| G4| G4:|
+K:Dm
+"C".^f g2 .g| .^f g2 .g| .^fg"C"fg| "F"f2 "C"e2|\
+ g2 "F"ab| a2 "C"g2 |"F"f4 | "C"e4|
+.^f g2 .g| .^f g2 .g| .^fgfg| "F"f2 "C"e2| c2 de| "F"fe "C"dc|"G"d4 |
+ "F"a2 "C"g2| c2 "Gm"de| "F"fe "D"dc| "Dm"d4| "Dm"d4|
+
+
+X:42
+T:Daronee
+O:Armenia
+M:5/4
+L:1/8
+Q:1/4=100
+I:accompaniment should be on percussions
+K:Am
+%%MIDI gchord fzfzfffzfz
+| "A" F2 _G2 cB cA3| F2 _G2 cB cA3| A2 B2 cd BA3|A4-A6|
+|:d2 d2 d2 d4| d c2 d c2 B4|Bc2 Bd B4 A| A4-A6:|
+|:F2 _G2 cB cA3| F2 _G2 cB cA3| A2 B2 cd BA3|A4-A6:|
+L:1/8
+M:2/4
+K:Em
+Q:1/4=120
+|z4|G2 G2|G/A/B AG| G2 G2|G/A/B AG|
+|:G/F/E E>A| G/F/E E>A|
+G/F/E E>A| G/F/E E2:|
+
+
+X:43
+T:De Doi Din Banat
+S:Mihai and Alexandru David, Gypsy Camp Vol. 1
+O:Romania
+M:2/4
+L:1/8
+Q:1/4=300
+K:GDor
+%%MIDI gchord fzzz
+|:"F"c2de|f2fe|"Gm"d2dc|"Eb"B2BA|"F"A2A2|F2A2|"Gm"B2Bc|B4|
+"F"c2de|"F"fefg|fedc|"Gm"B2BA|GCBA|GCBA|GCBA|G4:|:
+"F"A2AF|F2A2|AFAc|"Gm"B3C|"F"A2AG|F2A2|f_edc|"Gm"BAA2|
+"F"A2AF|F2A2|AFAc|"Gm"B3C|GCBA|GCBA|GCBA|G4:|
+Q: 1/4=250
+K: F
+|:"F"z2f2|c2c2|"Gm"BAG2|B2"F"c2|z2f2|c2c2|"Gm"BAGF|"Am"EGF2:|:
+"Am"EFG2|GFG2|GFGA|G4|"F"FGAB|c3B|A2AF|"Gm"GGG2|
+"Am"EFG2|GFG2|GFGA|G4|"F"c3B|A2AF|"Gm"G2GF|GFGA|"F"F4:|
+
+
+X:44
+T:Deninka (Wixman)
+O:Bulgaria
+M:7/8
+L:1/8
+Q:1/4=120
+K:CPhr
+%%MIDI gchord fzzczcz
+%%MIDI beatstring fppmpmp
+"C"=E2F E_DC2|G2A GFF2|=E2F EDC2|[1 =E7-|=E7:|[2 C7-|C7
+|:"C"[G,B,],[A,2C2] [A,2C2][A,2C2]|"F"c3 [F4A4]|[GB][F2A2] [=E2G2][D2F2]|\
+"C"[C7-=E7-]|[C7=E7]:|
+|:"F"[F2A2][=EG] [D4-F4-]|[D7F7]|[F2A2][=EG] [D2F2][D2F2]|\
+"C"[C3=E3] [C4-E4-]|[C7=E7]:|
+
+
+X:45
+T:Denyovo Horo
+S:Jaap Leegwater, from record (Balkanton BHA 10441)
+O:Bulgaria
+M:7/8
+L:1/8
+Q:1/4=180
+K:Dm
+%%MIDI drum dzzdzdz 41 41 41 60 60 60
+%%MIDI beatstring fppmpmp
+|:!drum! EG- G G2 E2| F2 E F2 G2| A G2 G2 EG| FED E4:|
+|:EF- F E2 C2| D2 C D2 E2|[1 EF- F E2 C2| D3 G4 :|[2 EF- F E2 C2|  D3 z4 |
+|: FG- G A2 A2| AG- G G2 F2| FG- G A2 G2| FE2 D4:|
+ EG- G G2 EG| FED E4| EG- G G2 EG| FED E4|
+ EG- G G2 EG| FED E4| F2E D2 C2| D3 D4|
+ EG- G G2 EG| FED E4| F2E D2 C2| D3 D4|
+
+
+X:46
+T:De Strigat
+O:Hungary
+M:4/4
+L:1/8
+Q:1/4=200
+K:Eb 
+%%MIDI drum zdzd 35 35 
+de|:!drum! f2fe fedc|B2B=A Bcde|f2fe fedc|e8:|
+B8-|B8|B2A2A2G2 |A2G2A4|F2F2E2F2| B4 A2B2|
+B2A2A2G2 |A2G2A4|F2F2E2D2| E4 E4|
+B,2D2E2F2|A2G2A4|A2A2G2F2|B4 B4|
+B,2D2E2F2|A2G2A4|F2F2E2D2|E4 E4|
+
+
+X:47
+T:Dospatsko Horo
+O:Bulgaria
+P:ABCABCDABC
+M:7/8
+L:1/8
+Q:1/4=120
+K:Em
+%%MIDI beatstring fppmpmp
+%%MIDI gchord f3c2c2
+P:A
+|:"Em" [B,3E3] E2 [G2B2]| [G3B3] [G3B3]A|"Am" [C3A3] [C3A3]G|"Em" A B2 G2GF:|
+P:B
+|:"A" [E2A2] G [E2G2] [E2G2]|"D" G2 A [D2F2] [D2F2] |"Em" [B,3E3] [B,4E4]|\
+ ~B3 B2 G2| [E2A2] G [E2G2] [E2G2]| G2 A F2 F2 | [B,3E3] [B,4E4]|\
+"A" E3 "Em" E2-E2:|
+P:C
+|:"D" DEF GA AG| ~c2 B "G" .B2 z2|[1"Am" c2 B cdcB|"D"  ~A2 G "G" .G2 z2:|
+[2 "Am" A2 G GAFD|"Em" E3 E4|
+P:D
+|:"D" d3 dc cB| ~A2 G "G" G4| dGe dc BA|"A" ~B2 "D" A A4:|
+W:The dance was re-transcribed with modifications from "Music to 
+W:31 of Your Favorite Bulgarian Dances", Richard Geisler (c) 1984.
+W:The harmony is my own.
+
+
+X:48
+T:Daichovo Hora
+S:from record Folkdance Underground F.U.1
+O:Bulgaria
+P:ABBCDEFG
+M:9/8
+L:1/8
+Q:1/4=240
+K:Bm
+%%MIDI beatstring fpmpmpmpp
+%%MIDI drum d2d2d2d3 41 41 41 41
+P: A
+|:!drum!  A2 e2 c2 A2 z| A2 =c2 B2 A2 z| A2 e2 c2 A2 z| A2 =c2 B2 A2 z:|
+P: B
+%%MIDI drum d2d2d2d3 35 35 35 35
+|: A2 A2 AB c3 | dcB2 ABc3 | dcB2 ABc3 | dcB2 A2 A3  :|
+P: C
+|: cdefg2f3 | e2 g2 f2 e3 | cdefg2f3 | e2 g2 f2 e2 z :|
+P:D
+|: gfed c2B3 | c2 e2 c2 B3 | gfed c2B3 | c2 e2 c2 B2 z :|
+P:E
+a^g a2 ag f3| e3f ed c2z| a^g a2 ag f3| e3f ed c3 z|
+a^g a2 ag f3| e3f ed c2z| d2 d2 dcB3  |A4 z4 z1:|
+P:F
+|:d4 f2 f2 z| e3 e fed c2|[1 d4 f2 f2 z| e6 z3 :|[2 d4 dcB3|A6 z3|
+P:G
+|: dcd2 dcB2 z| A2AB cd3 z1| dcd2 dcB2 z| BA6 z2:|
+
+
+X:49
+T:Dobrudzanka Pandela
+S:Learned and collected in Bulgaria by Jaap Leegwater (JL1985.01)
+O:Bulgaria
+M:2/4
+L:1/8
+Q:1/4=160
+K:D
+|:"A"A2 e2|"D"fe d2| "A"c2 "G"B2| "A"A4|
+"G"G2 B2 |"A"c2 "G"B2|[1"A"A3 B|cd e2:|[2"A"A4 | A4|
+|:"A"ABBA|ABBA|ABBA|A2 E2| ABBA|ABBA|ABBA|A4:|
+"D"d2 d2|"Am"=cdcB|"A"A4|A4| "D"d2 d2|"Am"=cdcB|"A"A4-|A4|
+c2 A2| A4| ABBA| A4| ABcd| c2 BA| A2 z2|A2 z2|
+
+
+X:50
+T:Dragonov
+O:Bulgaria
+M:7/16
+L:1/8
+Q:1/4=120
+K:EPhr
+%%MIDI beatstring fpmpmpp
+%%MIDI drum d2d2d3 37 37 37
+!drum! z7/2|z7/2
+|:B/c/ A/B/ A/^G|F/E/ F/D/ E/F/^G/| A/B/ c/A/ B/A/^G/|F/E/ F/D/E/z:|
+|:E/F/ ^G/A/ B/c/A/ |B2 d/c/B/|A/B/^G/ A2| d/c/ B/A/ B/A/ ^G/-|
+^G A/^G/ F/E/D/| E/F/^G/Bz| E/F/ ^G/A/ B/c/A/ |B/E/^G/B/ d/c/B/ |
+ A/B/ ^G/A/ D/F/A/| d/c/B/A/ B/^G/A/|D/F/ A/B/ A/^G/F/ |E2z3/2:|
+|:e3-e/| d c/B/ A3/2|ccce/|d c/B/ A3/2|e e e3/2| d c/B/A3/2|ccce/|d/c/B/ A2:|
+|:A/A/A A/ c/e/|d c/B/ A3/2|^G F F3/2|E/D/ E E3/2:|
+
+
+X:51
+T:Dudelas es Ugros
+T:Love, Love where were you at night titmouse?
+S:Sebo
+O:Hungary
+P:AABB
+M:4/4
+L:1/8
+K:F
+P:A
+Q:1/4=120
+V:1
+%%MIDI program 42
+CC G4-GF|G4 E2C2|z8|
+FGE4C2|F2C2B,2z2|z8|
+V:2
+%%MIDI program 42
+C8|C6z2| z8|C8|C6z2|z8|
+V:1
+FGE4C2|F2C2B,2z2|z8|
+CCC4B,2|C4z4|z8|
+V:2
+C8|C6z2|z8| C8|C4z4|z8|
+P:B
+M:2/4
+L:1/8
+%%MIDI gchord z2f2
+Q:1/4=150
+%%MIDI program 41
+|:ffgf|e2c2|Bccz| [1Bccz:| [2c2z2|
+|:ecBc|A2F2|_EFFz| [1_EFFz:| [2F2z2|
+
+
+X:52
+T:Dunafalut Leanytanc
+S:Andor Czompo, Hungarian Folk Dance Music, AC Publications
+O:Hungary
+M:4/4
+L:1/8
+K:Am
+P:A
+Q:1/4=90
+%%MIDI gchord fzfz
+%%MIDI bassprog 25
+%%MIDI program 64
+"a" A2 A2 "e" G2 E2 |"a" A2 A2 "e" G2 E2|
+"f" F2 F2 "c" E2 F2 |"e" E6 E/F/G/^G/   |
+P:B
+Q:1/4=90
+"a" A2 E2 "b" G2 F2    |"c"  E4   "d"  D3B,   |\
+"a" B,A,4 z E/F/G/^G/  | "f"   A6B2           |
+"g" c2 A2     G2 E2    | FD2E3 "g" E/F/G/^G/  |\
+"a"     A6B2           |"c"  c2A2 "g" G2E2    |
+ FD2E3 E/F/G/^G/       |A2E2 G2F2             |\
+ E4D4                  |B,A,3 -A,2 E/F/G/^G/  |
+ A6B2                  |"f" c2A2  "g" G2E2    |\
+"c" FD2E3 "e" E/F/G/^G/|"a" A2E2  "b" G2F2    |
+"d" E4B,4              |"a" A,8               |
+P:C
+Q:1/4=120
+M:2/4
+L:1/8
+|"Am"A,2 A,/B,/^C
+|:"Dm"D4| "Gm"G3F|"Dm"ED2D-|D2D/E/F|"Am" A4|d3c|BA2A-|A2D/E/F|
+A4 | "Dm"d3e|fd3 |"Am"c4|"Dm" d2cB | cBAG|AD3|"Gm"G3 F|EDD2|[1 "Dm"D2 D/E/F:|[2D4|
+P:D
+K:Dm
+|:"Dm"GBAG|A2G^F| GBAG|A2G^F|"Gm"GDDC|F2FG|"Dm"GDDC|D4:|
+P:E
+K:Gm
+|:"Gm"G>ABB|cBAG|G>ABB|cBAG|"F"cGFE|CDE2|"C"GGFE|"Gm"C4:|
+
+
+X:53
+T:En Sang Til Deg
+O:Norway
+M:2/4
+L:1/8
+Q:1/4=160
+K:Em
+%%MIDI gchord zf
+"D"z2"Em"B,2|E2E^D|E2"Bm"d2|B2B2|F3A|G2"G"GF|E2"Em"E2|FE"B"F^D|B,3B,|
+E2"B"E^D|E2"Bm"d2|B2B2|F3A|"C"G2GE|F2"Bm"F^D|"E"E4-|E4|
+
+
+X:54
+T:Ekizliisko Horo
+S:Adapted from Richard Geisler 
+S:Music to 31 of Your Favorite Bulgarian Folkdances (c) 1984
+O:Bulgaria 
+M:6/8
+L:1/8
+Q:1/4=160
+K:G
+%P ABACDEFGHABAC
+%P: A
+|:"G" cdd .d2 d| ~ddc ~BBA| "D"cdd d2 d| AA z AAG| 
+"G" ~eed ~ddc| ~ddc ~BBA| "D"cdd d2 d| AAz AAG :|
+%%sep 10 10
+%P: B
+"G" BBd ccA|BBG "D" AAG|BBd ccA| BBG AAG|
+BBD ccA| BBG AAA| "A" GAA GFG| "D" AAz AAG|
+%%sep 10 10
+%P: A
+|:"G" cdd .d2 d| ~ddc ~BBA| "D"cdd d2 d| AA z AAG| 
+"G" ~eed ~ddc| ~ddc ~BBA| "D"cdd d2 d| AAz AAG :|
+%%sep 10 10
+%P: C
+"G" BBG ccA| BBG "D" AAG| BBG ccA| BBG AAG|
+BBG ccA| BBG AAG| "A7" BBG BBG| "D" AAz AAz|
+%%sep 10 10
+%P: D
+|:"C" c2d eed| dcd ccB| "G" cdd GAB| "C" ccGccG|
+.c2 d eed| dcd ccB| "G" cdd GAB| "D" AAz AAG :|
+%%sep 10 10
+%P: E 
+"G" (3BcB d ccA| dcB "D" AAG|(3BcB d ccA| dcB AAG|
+(3BcB d ccA| dcB AAG| "A7" GAA GFG| "D" AAz AAA|
+%%sep 10 10
+%P: F
+|"D" .G2 z A/2A/2 A2| d/2d/2z2 c/2c/2 z2|\
+A/2A/2z2 c/2c/2 z2| "G" B/2B/2 z2 BBA|
+G3 "D" A/2A/2 A2| d/2d/2 z2 ccA| G3 A/2A/2 A2| A/2A/2 A2 A/2A/2 A2|
+|"D" .G2 z A/2A/2 A2| d/2d/2z2 c/2c/2 z2|\
+A/2A/2z2 c/2c/2 z2| "G" B/2B/2 z2 BBA|
+G3 "D" A/2A/2 A2| d/2d/2 z2 ccA| G3 A/2A/2 A2| AAA AAG|
+%%sep 10 10
+%P:G
+"G" BBd ccB| dcG "D" AAG|BBd ccB| dcB AAG|
+BBd ccB| dcB AAG| "A7"GAA GFG| "D" AAz AAz|
+%%sep 10 10
+%P:H
+K:D
+|:"A" cde ccA|"E" BBA "A" ccA| cde ccA| "E"BBA "A" AAA :|
+
+
+X:55
+T:Esik Eso
+O:Hungarian
+M:2/4
+L:1/8
+Q:1/4=140
+K:C
+"C"C2 C2 | "F"F4| "C"E2 E2| G4| "F"FE "G"D2| DE"F"FG| "C"ED C2 | C4|
+G2 G2 | c4| "G"B2 B2| d4| "C"cB "F"A2| AB "C"cd| "G"BA "C"G2| G4| 
+"C"G2 G2 | c4| "G"B2 B2| d4| "F"F2 F2| A4   | "C"G2 c2| "G"B2 "F"A2|
+"F"FE "G"D2 | DE"F"FG| "C"ED C2| C4|
+
+
+X:56
+T:Fatise Kolo
+O:Serbia
+M:9/8
+L:1/8
+Q:1/4=140
+K:Gm
+%%MIDI beatstring fpmppmpmp
+%%MIDI drum dzddzdzdz 40 40 40 40 40 50 50 50 50 50
+|: !drum! "Gm" B2 dcB fedc|B2 dcB fed2| B2 dcB fedc|cB cdc BAG2:|
+|:B2 d2d d2d2|cd edc cdB2 :: f2 fed c2BA| GA Bc2 G2G2 :|
+
+
+X:57
+T:For a Birthday 
+O:Hungary
+M:4/8
+L:1/8
+K:F
+Q:1/4=120
+|:cAAA| cAAA|B4|A4:|
+|:BGGG|BGGG|[1AF3| A4:|[2AF F2| F4| 
+
+
+X:58
+T:Gammal Schottis
+O:France
+M:2/4
+L:1/8
+Q:1/4=160
+K:FDor
+C|:FEFE|F2 e2|c2c2|G2B2|[1 A2A2|F2F2|GFGE|C3C:|[2 AGAF|GFGE|F4-|F4|
+
+
+X:59
+T:Gankino 
+S:Adapted from Deborah Jones, Vancouver Int'l Folk Dance Music Book
+O:Bulgaria
+P:ABCDCDEFABCDCD
+M:11/8
+L:1/8
+Q:1/4=160
+K:C
+%%MIDI gchord f2c2f2cf2c2
+%%MIDI beatstring fpmpmppmpmp
+P:A
+|:"C" G2 [ec][ec] [e2c2] [ec] [e2c2] [e2c2] |\
+"G7" [ge][bg][af][ge] [fd][ec][fd] "C" [ge][fd] [e2c2]|
+"C" G2 [ec][ec] [e2c2] [ec] [e2c2] [e2c2] |\
+"G7" [ge][bg][af][ge] [fd][ec][fd] "C" [ge][fd] [e2c2] :|
+%%sep 10 10
+P:B
+|: "C" cGcd ~e2 d "Am" cB A2|"D7" B2 c2 "G7" ~d2 c "C" BccG:|
+%%sep 10 10
+P:C
+|:"F" [ge][af] [a2f2] [af][bg][af] "C" [g2e] [ge][ec]|\
+[ge][ec] "G7" [fd][dB] "C" [e2c2][fd] [g2e2] [ge][ec]|\
+[ge][ec] "G7" [fd][dB] "C" [e2c2][cG] [e2c2]z2 :|
+%%sep 10 10
+P:D
+|: "C" [ge][ec] "G7" [fd][dB] "C" [e2c2][fd] [g2e2] [ge][ec]|\
+[ge][ec] "G7" [fd][dB] "C" [e2c2] [cG] [ec][cG] [ec][cG]|\
+[ge][ec] "G7" [fd][dB] "C" [e2c2] [cG] [e2c2] z2 :|
+%%sep 10 10
+P:E
+|: "D" [bg][c'a] [a2^f2] [ge][^fd][ec] [f2d2] [fd][dA] |\
+[bg][c'a] [a2^f2] [ge][^fd][ec] [f2d2] [fd][dA] |
+[bg][c'a] [a2^f2] [bg][c'a][af] [bg][c'a] [a2f2]|\
+[bg][c'a] [a2^f2] [ge][^fd][ec] [f2d2] [fd][dA] |
+[bg][c'a] [a2^f2] [ge][^fd][ec] [f2d2] [fd][dA] |\
+[bg][c'a] [a2^f2] [ge][^fd][ec] [f2d2] [fd][dA] |
+[bg][c'a] [a2^f2] [bg][c'a][af] [bg][c'a] [a2f2]|\
+[bg][c'a] [a2^f2] [ge][^fd][ec] [^f2d2][fd] z :|
+%%sep 10 10
+P:F
+|: "G7" [dB][ec] [f2d2] [fd][dB][fd] "C" [e2c2] [ec][cG] |\
+[dB][ec] "G7" [f2d2] [fd][dB][fd] "C" [e2c2] [ec][cG] |\
+"G7" [dB][ec] [f2d2] [fd][dB][fd] "C" [e2c2] [ec][cG] |
+"D7" dcBc "G7" d2c ~d2 dc|\
+[dB][ec] "G7" [f2d2] [fd][dB][fd] "C" [e2c2] [ec][cG] |\
+[dB][ec] "G7" [f2d2] [fd][dB][fd] "C" [e2c2] [ec][cG] |\
+"G7" dcBc d2 G d2 z2:|
+
+
+X:60
+T:Garoun
+T:Springtime
+S:Deborah Jones, VIFD Book
+O:Armenia
+M:4/4
+L:1/8
+Q:1/4=160
+K:Gm
+|:"Gm" G2 GD G2 A2|"Cm" B2 B2 A2 G2|"D7" ^F2 FD F2 G2|"Gm" A2 BA G2 G2|\
+"Gm" G2 GD G2 B2|"Cm" d2 d2 cBAG|"D7" ^F2 FD F2 G2|"Gm" A2 BA G2 G2:|
+|:"Gm" d2 d2 d2 d2| d2 d2 e d3|"Cm" c4 B4 | A6 z2|\
+ "D7" c2 c2 c c3| c2 c2 d2 c2| "Gm" B4 "D7" c4| "Gm" d6 z2 :|
+"Gm"B2 B2 B B3| B2 B2 A2 B2|"Cm" c4 B4| A6 z2|\
+"D7" A2 A2 A A3| c2 c2 B2 A2| "Gm" A2 G2 "D7" G2 ^F2|[1 "Gm" G6 z2:|[2 G2 z2 G2 z2|
+|:G2 GG G2 A2|"Cm" B2 B2 A2 G2|"D7" ^F2 FF F2 G2|"Gm" A2 BA G2 z2|\ 
+G2 G2 G2 B2| "Cm" d2 d2 c2 z2|"D7" A3 G ^F2 G2|"Gm" A BA G2 z2 :|
+
+
+X:61
+T:Gjura Beli Belo Platno
+O:Bulgaria
+M:5/8
+L:1/8
+Q:1/4=200
+K:Em
+%%MIDI beatstring fpmpp
+%%MIDI drum dzzzz 35 70
+!drum! B3E2-|E5|:A2GFG|A2GFG|A2GFG|FEB3 |A2GFG|A2GFG|
+A2GFG|FEE3 :||: [C2E2][G3B3]|[G2B2][G3B3]|[G2B2][F3A3]|[GB][FA][EG][C2E2]:|
+|:[B,2D2][E3G3]|[E2G2][E3G3]|[B,2D2][D3F3]|\
+[D2F2][D3F3]|[B,2D2][C3E3]|[C2E2][C3E3]|[B,2D2][B,3E3]|[B,2E2][B,3E3]:|
+
+
+X:62
+T:Glavinishko Cetvorno
+O:Bulgaria
+M:7/8
+L:1/8
+Q:1/4=160
+K:Dm
+M:7/8
+L:1/8
+%%MIDI gchord fzfzfzz
+%%MIDI beatstring fpmpmpp
+|:"Gm"GABcc2B|"Bb"BAcB2AF|"Gm"GABcd3|\
+"Gm"GABcc2B|"Bb"BAcB2AF|"Gm"G4G3:|
+M:6/8
+L:1/8
+%%MIDI gchord fzzfzz
+|:"Gm"G3cdG|"Gm"d2c c2B|"Gm"cdG d2c|"C"cBc G3|\
+"Gm"G3BcB|"Gm"BcB BBA| "F"cB2 AAG| "Gm"dG2 dGz:|
+
+
+X:63
+T:Gocino Kolo
+O:Serbia
+M:4/4
+L:1/8
+Q:1/4=300
+K:Am
+%%MIDI gchord fzzzzzzz
+|:"A" [FA][FA][FA]z [F2A2][E2^G2]|"A" [F2A2]z2 [F2A2][E2^G2]|\
+"A" [F2A2][GB]z [F2A2][E2^G2]|"Dm"[D4F4] [D2F2][C2E2]|
+"Dm"[D4F4] [D2F2][C2E2]|"Dm" [DF][DF][D2F2] [C2E2][B,2D2]|\
+"A" [C2E2][B,2D2] [C2E2][B,2D2]|\
+[1 "C#m"[C4E4][D2F2][E2^G2]:|[2 "A"[B,4E4] [B,4E4]|
+|:"Dm"[DF][DF][D2F2] [D2F2][C2E2]| "A"[F2A2]z2 [F2A2][E2^G2]|\
+"A"[F2A2][GB]z [F2A2][E2^G2]|"Dm" [D4F4] [D2F2][C2E2]|
+"Dm"[D4F4] [D2F2][C2E2]|"Dm"[DF][DF][D2F2] [C2E2][B,2D2]|\
+"A"[C2E2][B,2D2] [C2E2][B,2D2]|\
+[1 "C#m"[C4E4]  [D2F2][E2^G2]:|[2 "A"[C4E4] [C4E4]|
+K:Bm
+|:"A"E2z2 E2E2|"D"D2E2 F4|"A"E2z2 E2z2|"Dm"D4- D2z2|
+"A"C2z2 C2C2|"Bm"B,2C2 D4|"A"C2A,2 B,2C2|"E"B,6z2:|
+|:"A"cdcz cdcz|"Bm"B2c2 d2z2|"A"cdcz cdcz|"A"e2z2 z4|
+"A"cdcz cdcz|"Bm"B2c2 d2z2|"A"c2A2 B2c2|"E"B6 z2:|
+|:"A"cdcz cdcz|"E"B2cd eeez|"A"cdcz cdcz|"A"e4 z4|
+"A"cdcz cdcz|"E"B2cd eeez|"A"c2A2 B2c2|"E"B6z2:|
+
+
+X:64
+T:Godecki Cacak
+S:from record Folk Dance Underground F.U.3. Feb.1976
+O:Serbia
+M:6/8
+L:1/8
+Q:1/4=210
+K:C
+|: "Am"A2 e"G"dcB| "Am"A2 c"G"BAG| "G"G2 AB2 G| "Am"A3 A3:|\
+|:"G"G2 A B2 G|d2 BBAG| G2 A B2 G| "Am"d3 "G"B3|\
+G2 A B2 G|d2 BBAG| G2 A B2 G| "Am"A3 A3:|
+"Dm" D3 A3| A,3 D3| D2 A,A, A,2| D3 D3|\
+^F3 D3| A,3 D3| D2 A,A, A,2|D3 D3|
+ ^F3 D3| A,3 D3| D2 A,A, A,2| D3 D3|\
+A3 D3 |A,3 D3| D2 A,A, A,2| D3 D3|
+|: "Am"E2 CC C2| E2 CC C2| A,2 CE C2|[1 E2 CC C2 :|[2 "D"A,4|
+
+
+X:65
+T:Hag er ble-men
+T:An dro
+S:from record
+S:Dir Hir Tan: Celtic Songs From Brittany (Ariane Segal)
+O:France, Brittany
+M:2/4
+L:1/8
+Q:1/4=180
+K:D
+|"D"z2 D2|: F2 A2| "G"G2 "Em"GE | "D"F2 "Em"E2 | "D"D2 D2 :|\
+|:"D"A2 A2 | A2 AB|
+A2 D2| "G"G2 G2| "D"A2 "G"G2| "D"F2 FE| F2 "Em"E2 |\
+"D" D2 D2 :|
+
+
+X:66
+T:Hambo
+O:Sweden
+M:3/4
+L:1/8
+Q:1/4=144
+K:G
+|:"G"G2 GABc|de d2 cA|c2 BA F2|"D7"A2 GAB2|\
+"G"G2 GABc|de d2 cA|c2 BA F2|A2 G4:|:
+"D7"B>A GA B2|"C"edcB A2|cBAG F2|"D7"A2 GA B2|
+"D7"B>A GA B2|"C"edcB A2|"D7"cBAG F2|"G"A2 G4:|:
+K: C
+"C"c2 cdef|"C"g2 ga g2|"F"f2 fe f2|"C"e2 ed e2|\
+"F"f2 fe f2|"C"e2 ed e2|"F"e2 fd B2|"C"d2 c4:|
+
+
+X:67
+T:Homojanka Kolo
+O:Serbia
+M:2/4
+L:1/8
+Q:1/4=200
+K:C
+%%MIDI program 72
+%%MIDI transpose 12
+|:g>f gf | eceG | G<c c<d| c c>e g|
+g>f gf |eceG | G<c c<d| c c>B c:|
+K:F
+|: B>d B>d | B>d (3Bcd| f>c (3cBA | G>F FA |
+c>c (3cBA| G>F FA |c2 Gc | G2 G2:|
+|:(3FGA (3cBA|G>F A>F| (3cBA G>F |A>F A>F| (3cBA (3cBA|
+G>F A>F| c2 Gc|G2 G2:|
+
+
+X:68
+T:Hora de la Munte
+O:Romania
+P:ABBCC
+M:3/4
+L:1/8
+Q:1/4=240
+K:Gm
+%%MIDI gchord f2z4
+P:A
+|: "Gm"[G,2D2][D2G2][D2A2] | [G2B2][D2A2][D2G2]| "F"[D2A2][D4-B4-] |\
+"Gm"[D2B2][A2d2][A2c2] | "Cm"[A2c2][A4-c4-] | "Cm"[A2c2][DB][DA][D2G2] |\
+"Gm"[G2B2][G4B4] | "Gm"[Gd][G2c2][DB][DA][DG] |
+"Gm"[G,2D2][D2G2][D2A2] | [G2B2][D2A2][D2G2] |"F" [D2A2][D4-B4-] |\
+"Gm"[D2B2][DA][DB][G2c2] | "Bbm"[^G4^c4][=G=c][GB] |\
+ "Gm"[G4B4][DA][DG]| [D6G6] |"Bbm"d^c2BAG:|
+P:B
+"Gm"G2zDGA|"Bbm"B3^cd=e|"F"f2g4-|"Gm"g2z=efg|\
+"Fm"_a2g4-|"Gm"g2f2de|"Bbm"^c2d2d2|"Gm"d^cBAG2|
+"Gm"G2zDGA|"Bbm"B3^cd=e|"F"f2g4-|"Gm"g2z=efg|\
+"Fm"_a2g4-|"Gm"g2f2de|d6-|d4z2|
+P:C
+"Eb"[c3e3][c3e3]|"Cm"[ce][A1-c1-][A4c4] | "Cm"[A3c3][A3c3] |\
+ "Cm"[Ac][A1-c1-][A4c4] |\
+"Gm"[_B3d3][_B3d3] |"Gm"[_B6d6] | "F"[A6-f6-] | "F"[A4f4]"F"z2|
+"Eb"[c3e3][c3e3] |"Cm"[ce][A1-c1-][A4c4] | "Cm"[A3c3][A3c3] |\
+"Cm"[Ac][A1-c1-][A4c4] |\
+"Gm"[G3B3][G3c3] |"Gm"[A2d2]"Cm"[A4c4] |"Gm"[D3B3][D3A3] |"Gm"[D6G6]|
+
+
+X:69
+T:Hora de la Titu
+S:presented by Mihai & Alexandru David
+O:Romania
+M:2/4
+L:1/8
+K:Bb
+Q:1/4=240
+|:EEB,2|GGE2|ABAB|_A4|ABcB|ABcB|ABAB|_A2G2|
+EEB,2|GGE2|ABAB|_A4|B_AAG|GFFE|FGFE|[1F4:|[2E4|
+|:e2d2|_d2c2|edBc|_A4|BcBc|BcBc|BcBc|_A4|
+BccB|e_ddc|c_dcB|_A4|B_AAG|GFF=E|FGF=E|F4:|
+A2B2|E2G2|_A2B2|_A4|A2B2|E2G2|_A2B2|_A4|_ABA2|B_AAG|GFF=E|FGF=E|F4:|
+
+
+X:70
+T:Hora Fetelor
+O:Romainia
+M:2/4
+L:1/8
+Q:1/4=72
+K:Gm
+% sholud be played one octave higher than written
+% on a pan flute or something equivalent.
+P:A
+"G"D G2 G| "G"A =B2 B| "F"=B c2 A| "Dm"A3 A| "G"=Bc d2| "Cm"ef (3edc| "G"d4|
+"G"D G2 G| A =B2 B| "F"=B c2 A| "Dm"A3 A| "G"(3=Bcd "F"(3cBA| (3c=BA "D"(3AG^F| "G"G4|
+P:B
+"Dm"z=B"Cm"cd| e3 d| "G"d3 =B| (3=Bcd "F"(3cBA| c A2 A| "Cm"=B c2 c| "Dm"(3def "Cm"(3edc| "G"d4|
+"Dm"z d"Cm"ef| "G"g3 f| "Cm"ed c=B| "G"gf "Cm"ed| "G"c=B3| (3=Bcd "F"(3cBA| "F"(3c=BA "D"(3AG^F| "G"G4|
+
+
+X:71
+T:Hora Olteneasca
+S:Mihai & Alexandru David, Gypsy Camp vol. 1
+M:2/4
+L:1/8
+Q:1/4=300
+K:Eb
+%%MIDI gchord fzzz
+|:"Eb" cdec|{fgfg}f2e2|cdec|{fgfg}f2e2|cdec|{fgfg}f2e2|cdec|A4:|:
+|:"Eb" cdec|{fgfg}f2e2|cdec|{fgfg}f2e2|cdec|{fgfg}f2e2|cdec|A4:|:
+cdec|{fgfg}f2e2|cdec|A2c^d|{d}e2 .e2|{efef}e2 c2|cdec|A2c^d|
+.e2 .c2|.e2 c2|cdec|A2c^d|.e2 .e2|{efef}e2 c2|cdec|A4:|
+
+
+X:72
+T:Ikariotikos
+O:Greece
+M:4/4
+L:1/8
+Q:1/4=180
+K:Cm
+"Cm"C2 GG "Gm"G2 G2| "Bb"FGFE "Gm"D2 G2|\
+"Cm"C2 GG "Gm"G2 G2| "Bb"FGFE "Gm"D2 G2|
+"Cm"C2 GG "Gm"G2 G2| "Bb"FGFE "Gm"D2 G2|\
+"Cm"C2 GG "Gm"G2 G2| "Bb"FGFE "Gm"D2 G2|
+"Gm"B,2 CD "Cm"EDEF|"Gm"D3E "Cm"DE C2|\
+"Gm"B,2 CD "Cm"EDEF|"Gm"D3E "Cm"DE C2|
+"Gm"B,2 CD "Cm"EDEF|"Gm"D3E "Cm"DE C2|\
+"Gm"B,2 CD "Cm"EDEF|"Gm"D3E "Cm"DE C2|
+
+
+X:73
+T:Im Rotzim
+O:Greece-Israel
+M:2/4
+L:1/8
+Q:1/4=130
+K:EMin
+%%MIDI gchord zzfz
+E<^D"c"E<C|E<^D"c"E<C| E<^D"e"E<B,|E<^D"e"E<B,|\
+E<^D"b"E<F|G<G"b"F<F|E<E"g"D<D|C<B,-"e"B,z|
+E<^D"c"E<C|E<^D"c"E<C| E<^D"e"E<B,|E<^D"e"E<B,|\
+^D<E"b"E<F|G<B"e"A<G|E<E"a"^D<^C|^D<E"e"z2|
+%%MIDI gchordoff
+G2F2|E2B,2-|B, G2F|E2 B,2| z D2 D|D2E2|CB,3|z4|
+G2F2|E2B,2-|B, G2F|E2 B,2|F2 GA|B4|G2F2|E4|
+%%MIDI gchordon
+z2"e"EF|G2 "e"G2| G2 "e"FG|A4-|A2 "e"^DE| F2 "b"F2|\
+ "B"F2 "e"EF| G4-|G2 "e"B,^C|
+E2 "e"E2|E2 "e"FE|"b"^D4-|^D2 "e"EF| A2 "a"A2| B2 "c"c2|\
+ B2 "e"G2|E2 "e"B2|A2 "b"F2| E2 "B"F2|"e"G4-|
+|G2 "e"EF| A2 "a"A2| B2 "c"c2| B2 "e"G2|E2 "e"B2 |\
+GF "e"E2|"a"^C4 | "b"_E4 |"e"E4|
+
+
+X:74
+T:Ivanovo Oro
+S:Ciga/Ivon Despotovic
+O:Macedonia
+M:11/8
+L:1/8
+Q:1/4=160
+I:Percussive instrument recommended for bass
+K:Dm
+%%MIDI gchord f2f2f3f2f2
+%%MIDI beatstring fpmpmppmpmp
+|:"d" AB c2  c3 cBAG  |AB c2 c3 c2 z2 :|\ 
+|: AB c2  c3 f2 c2 |AB c2 c3 c2 z2 :| 
+|: AB c2  c3 f2 c2 |AB c2 c3 c2 z2 :|\ 
+fg f2 fe2 d4| fg f2 fe2 d4|
+ fe f2 f3 f2 g2| fe f2 fe2 d4|\
+Ac dz d3 f2 g2| fe f2 f3 fed2|
+Ac dz d3 f2 g2| fe f2 f3 fed2|\
+|: c2 f2 _e2d c2 f2| c2 f2 _e2d  ed c2:|
+|: AB c2 c3 d2 c2| AB c2 c3 c2 z2 :|
+
+
+X:75
+T:Joc Batrinesc
+O:Romania
+M:2/4
+L:1/8
+Q:1/4=60
+K:ADor
+|:"Am"A>GA>B|c3/2d/2"G"B/2A/2B/2G/2|"Am"c>de2|"Dm"d3/2c/2"G"B/2A/2B/2G/2|
+"Am"A>GA>B|c3/2d/2"G"B/2A/2B/2G/2|"Am"A4-|A4:|
+|:"C"g2"Am"a2|"C"g3/2=f/2"Am"e/2d/2e/2c/2|e2"Dm"dc|"G"B3/2A/2Bd|
+"Am"A>GA>B|c3/2d/2"G"B/2A/2B/2G/2|"Am"A4-|A4:|
+
+
+X:76
+T:Joc de Leagane
+O:Hungary
+M:4/4
+L:1/8
+Q:1/4=180
+K:BbDor
+D6EF|E6DE|B,4A,2DC|B,8|A6Bc|B6AG|F6E2|AGF6|
+A6Bc|B6AG|F6E2|AGF4E2|D6EF|E6DE|B,4A,4|B,8|
+
+
+X:77
+T:Jocul De-a Lungul
+O:Romainia
+P:AABBB
+M:2/4
+L:1/8
+Q:1/4=120 
+K:F
+P:A
+FGAB| c2 =B2| c2 A2| BABG| A2 ^G2| A2 F2| cBcA| B2 A2| B2 G2|
+AGAF| G2 F2| G4 |FGAB| c2 =B2| c2 A2| BABG| A2 ^G2| A2 c2|
+c=Bcd| c2 C2| D2 E2| F4 |F4|
+P:B
+FGAB| c2 d2 |e2 f2| B4-|B2 c2|
+c=Bcd| c2 C2| D2 E2 |F4| F4|
+
+
+X:78
+T:Jojon
+O:Armenia
+M:2/4
+L:1/8
+Q:1/4=240
+K:Dm
+%%MIDI gchord f2z2
+|:"D" EFGz|GAFz|FGEz|EFD2-|D2C2|F2F2|EDEz|D2Dz:|
+EG3|F2E2|F2F2|E2D2|D2EF|G2G2|G2G2|F2E2|F2F2|E2D2|z2FE|D4|
+A2G2|G2F2|G2G2|F2E2|D2EF|G2G2|G2G2|F2E2|F2F2|E2D2|z2FE|D4|
+|:=B,CD2|z2D2|z2D2|z2D2|z2DG|F3D|G2G2|F2E2|F2F2|E2D2|C3D|FED2:|
+|:A3F|G3F|A3F|G3F|A3F|G3F|EFEG|D3z:|
+
+
+X:79
+T:Kafan Wedding Dance
+O:Armenia
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+%%MIDI drum d2dd 65 60 60
+!drum! GF/E/DG|.Gz3| GF/E/DG|.Gz3|\
+ GF/E/DG| GF/E/DG| GF/E/ FE/D/| ED/C/ DC/B,/|CB,/A,/ B,A,/G,/| A,>G,A,B,|G,z3|
+zDDD|E>DCz|zCB,C|D>CB,z|zB,A,B,|C>B,A,z|zA,G,A,|B,>A,G,z|
+zDDD|E>DC/B,/C/z/|zCB,C|D>CB,/A,/B,/z/|
+zB,A,B,|C>B,A,/G,/A,/z/| zA,G,A,|B,>A,G,z|
+G,A,B,C|D/E/D/E/D/E/D/z/|D2 C/D/E|.Dz3|
+G,A,B,C|D/E/D/E/D/E/D/z/|D2 C/D/E|.Dz3|
+EE/D/CC|DD/C/B,B,|A,>G,A,B,|.G,z3|
+EE/D/CC|DD/C/B,B,|A,>G,A,B,|.G,z3|
+
+
+X:80
+T:Kalocsai Csardas
+S:from record: Hungarian Folk Dance Music -- Andor Czompo
+O:Hungary
+M:2/4
+L:1/8
+K:Em
+Q:1/4=120
+EEAA|E2D2|CDE2|CB,A,2| ccdc|B2A2|BAG2|GFE2|
+|:ccdc|B2A2|BAG2|GFE2| EEAA|E2D2|CDE2|CB,A,2:|
+K:Dm
+Q:1/4=180
+.d2.A2|d4|.e2.c2|A4|.d2.A2|d4|edc=B|A4|
+|:cBAG|A2F2|GAB2|A4|cBAG|G2A2|GFE2|D4:|
+
+
+X:81
+T:Kamishita
+O:Bulgaria
+M:7/8
+L:1/8
+K:Gm
+Q: 1/4=210
+%%MIDI drum dzzdzdz 35 35 35
+%%MIDI program 71
+P:A
+!drum! E2D EFDB,|C2B, A,B,CD|E2D EFDB,|[1C3F4:|[2C3 C4|
+P:B
+Q: 1/4=130
+|:FG2 G2G2|G2F EFG2|E2D EFDB,|C3 C4:|
+|:CD2 C2D|B,3 DEF2|E2D EFDB,|C7 :|
+P:C
+Q: 1/4=210
+%%MIDI drum dzzdzzz 35 35
+|:FGF G2F2|EFE F2E2|EFE F2E2|EDB, C4:|
+|:B,CB, E2D2|EDB, C4:||:B,CB, E2D2|EDB, C4:|
+
+
+X:82
+T:Karadeniz
+O:Turkey
+M:12/8
+L:1/8
+Q:1/4=192
+I:(3 + 3 + 2 + 2 +2)/8
+K:Ab
+%%MIDI beatstring fppmppmpmpmp
+B=Bd~_B2A.A2.A2.B2| B=Bd~_B2A.A2.A2.A2|
+B=Bd_B2A.A2.A2.B2| B=Bd_B2A.A2.A2.A2|
+^C=D=EC2B,.C2.C2.E2| ^C=D=EC2B,.C2.C2.E2|
+^C=D=EC2B,.C2.C2.E2| ^C=D=EC2B,.C2.C2.C2|
+D2^FF2F.F2.F2.F2|A2^F=E2E.E2.F2.E2|^F2=E^C2C.C2.E2.C2|
+B=Bd~_B2A.A2.A2.B2| B=Bd~_B2A.A2.A2.A2|
+B=Bd~_B2A.A2.A2.B2| B=Bd~_B2A.A2.A2.A2|
+
+
+X:83
+T:Karagouna
+O:Greece
+Z: Originally transcribed by Deborah Jones, VIFD
+M:4/4
+L:1/8
+Q:1/4=120
+K:ADor
+"Am" A2 A2 B<c ^d<e| e8| g<f g<f g<f g<a| ~f3e e^dcB|
+A2 z2 (3cBA (3Bc^c| "Dm" d6 Bc| "Am" ^deed cBcB| A4 A2 z2|
+"Am" A2 A2 Bc^de| e8| e2 e2 e2 e2| ^d4 cB A2| A2 A2 Bc d2|
+"Dm" d6 Bc| "Am" e2 e^d cBcB| A4 A2 G2|
+|:"Am" cB A2 z2 G2| cB A2 z2 Bc| e2 e^d edcB|[1 cB A2 z2 G2:|[2 cB A4 z2|
+agfe ^defe|agfe ^dcBA| agfe ^defe| a3e A2 z2|
+agfe ^defe|agfe^dcBA| z Bc^d edcB| Aef^G A2 z2|
+
+
+X:84
+T:Karam Fil 
+C:presented by Jaap Leegwater
+O:Bulgaria 
+M:7/8
+L:1/8
+Q:1/4=120
+K:F#m
+%%MIDI gchord f3f2f2
+%%MIDI beatstring fppmpmp
+f3-f2 cd |"Dm" edc d3c|"B"B2 B eddc|"A" cAB cBAG|
+"F#m" F3 c2-cd|"Bm" cBA B2 BF |"C#7" A3 BG- GF |"F#m" F3-F2-F2|
+[F,3C3] [C2F2] [C2G2] | [C3A3] [C4A4]| [C3G3] "C#7" [C2G2] [F2A2] |\
+"F#m" [C2G2] [CF] [C4F4]|
+"E7" [C3A3] [C2A2] [D2B2] | "A" [E3c3] [E4c4]| "E" [D2B2] c/2B/2 [E2A2] [E2B2]|\
+ "A" [E7c7]|
+"F#m" [D3F3] [D2F2] [F2d2] | "Bm" [E2c2] [DB] [D4B4]|\
+ "E7" [D3B3] [C2A2] [B,2G2]| "A" [C2A2] [DB] [E4c4]| 
+"C#m" [E3C3] [E2C2] [D2B2]| [C3A3] [B,4G4]| [B,3G3] [A,2F2] [^C2^E2]|\
+ "C#7" G/2A/2G F "F#m" [A4F4]|
+|: "Bm" f2 e d4|"F#m" e2 d c4| "Bm" B2 c/2B/2 A2 B2| "F#m" c3-c4| 
+"Bm" B2 B edcB| "F#m" A2 B c4| "C#7" BBA AG GF| "F#m" F3-F2-F2 :|
+W: Adapted from Richard Geisler Feb 1984
+W: The harmony is my own.
+
+
+X:85
+T:Katia
+O:Russia
+M:2/4
+L:1/8
+Q:1/4=120
+K:Bm
+|:"Em"B,2 B,2| G2 G2|"Bm"F2 "Em"ED|"F#m"C2 "Em"B,2:|\ 
+|:"Em"G2 "Bm"F2| "Em"EE B,2|EG "Bm"FE|"G"DC "Em"B,2:|
+
+
+X:86
+T:Kemensko Horo
+O:Bulgaria
+P:ABBCCDDEEEE
+M:4/4
+L:1/8
+K:Em
+%%MIDI drum dzdz 35 35
+%%MIDI program 22
+Q:1/4=210
+P:A
+|:!drum! G,2 DC D2 DE|DCCD C2B,2|DCCB, A,2 B,C| B,2 B,A, B,2 B,2:|
+P:B
+%%MIDI drum dzdz 45 43
+|:CDCD CB, A,2| B,CB,C B,A, G,2|A,2 G,F, E,2 F,G,|A,4 A,4:|
+P:C
+K: Bm
+|:A,2 CDCB,CA,|EEED CB,CA,|EEDC CB,CA,|CB,B,A, A,4:|
+P:D
+Q:1/4=220
+%%MIDI drum dzdz 35 35
+|:G,2 A,B, B,2 B,G,|B,2 B,G, B,2 B,G,| A,2 ED C2 B,C|B,2 A,2 A,2 z2:|
+P:E
+|:A,2 ED C2 B,D|C2 B,2 A,2 z2:|
+
+
+X:87
+T:Kendime
+O:Turkey
+Z: Transcribed originally by Deborah Jones
+P:ABBBCCD
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+P:A
+|"Am" e/d/ e e/d/e |e/d/e/d/ e/d/e|"Em" e/d/e e/d/e | e/d/e/d/ e/d/e|
+"Dm" d2 d/c/B|"Am" c2 c/B/c|"D"  dd d/c/B |"Am" c4|
+"Dm" d2 d/c/B| c2 c/B/A|"G" BB B/A/G|"Am" A-A/c/B| A-A/B/c|
+P:B
+ "Dm" dd dd| d<d cB|"G" d2 cB |f/e/f e/d/e |
+P:C
+"C" ee e<e| ee dc|"Em" de e2| de e2|
+P:D
+"Dm" z d/d/ dd| d<d cB|d/c/d d/c/d | d/c/d f/e/d |"Am" e4|
+"G" g2 f/e/d |"Am" e4 | z2 f/e/d | e4 |"G"  g2 f/e/d |"Am" e4| z4|
+
+
+X:88
+T:Kemence
+S:from record Carik 101  presented by Bora Ozkok
+O:Turkey
+M:7/8
+L:1/8
+Q:1/4=180
+K:Dm
+%%MIDI gchord fz3fz2
+%%MIDI beatstring fpppmpp
+|:  "F"c2 B2 A2 G| "Dm"A2 G2 F2 G|  "Dm"A2 G2 F2 E|  "Dm"D2 D2 D3:|\
+|: "Gm" EF [G2D2] [G2D2] F|"Dm"E [D2A,2] "Gm" [D2A,2] [D2A,2]|\
+"Gm" EF [G2D2] [G2D2] F|"Dm"E [D2A,2]"Dm" [D2A,2] [D2A,2] :|
+
+
+X:89
+T:Kokice
+S:Folk dances from Bulgaria collected by Yves Moreau
+O:Bulgaria
+P:ABACDEEF
+M:11/16
+L:1/8
+Q:1/4=100
+K:Gm
+%%MIDI gchord fzfzf2zfzfz
+%%MIDI beatstring fpfpfppfpfp
+P:A 
+|:"Gm" GccB/cB|G/A/BBA/BA|G/A/BBA/BA|cGGF/GG:|
+P:B
+|:c/B/A/G/d-d/dd| c/B/A/G/d-d/dd| c/B/A/G/d-d/dd|c/B/A/G/A-A/AA:|
+P:C
+K:Em
+|:d/c/dcB/dG|A/G/GGF/GG|d/c/dcB/dG|A/G/AGF/AA:|
+P:D
+K:Gm
+G z c z c/d/G/|AG/GG/G G/G|G z c z c/d/G/|A A/A A/A A/A|
+c z f z f/g/c/|dc/cc/c c/c|c z f z f/g/c/|d d/d d/d d/d|
+P:E
+|:F/C/FGB/AG|F/C/FGB/Ac| F/C/FGB/AG|G/G/FG-G/GG:|
+P:F
+|:F/=E/DG-G/GA|F/=E/DG-G/G2|F/=E/DG-G/GA|F/=E/DE-E/-E2:|
+|:F/=E/DG-G/GA|F/=E/DG-G/G2|F/=E/DG-G/GA|F/=E/DD-D/-D2:|
+
+
+X:90
+T:Koftos
+O:Greece
+M:4/4
+L:1/8
+Q:1/4=160
+K:Em
+%%MIDI gchord fzzzfzfz
+D2|:"e"E3D"d"FGAG|"e"A2GF"d"E2D2|"e"E3D"d"FGAG|"g"G2DF"g"G2D2|
+"e"E3D"d"FGAG|"d"A2GF"e"E2D2|"e"GFEG"d"FEDF|"a"E2 z6 :|
+|: "e"B3A"g"Bcde|"g"dcBA"g"G2D2|"e"B3A"g"Bcde|"g"dcBA"e"G2z2|
+"e"B3A"g"Bcde|"g"dcBA"g"G2D2|"e"GFEG"d"FEDF|"a"E2 z6 :|
+
+
+X:91
+T:Konyali
+O:Turkey
+M:2/4
+L:1/8
+Q:1/4=108
+K:Dm
+"Dm"D2 .F.A| D2 .F.A| D2 .F.A| D2 .F.A|
+"Gm"G A/A/ "Dm"A A| "Gm"G A/A/ "Dm"A A| "Gm"G A/A/ "Dm"A A| "Gm"G A/A/ "Dm"A A|
+"F"A/c/B/A/ "Gm"Gz| "F"A/c/B/A/ "Gm"Gz| "Dm"A>B "F"cd|"F"c B "Dm"A G
+|:"F"c>B "Dm"AG|"Gm"G2 "Dm"FE|"Dm"FG AA|"Gm"G2 G2:|
+|:"F"c>B "Dm"AG|"Gm"G2 "Dm"FE|"Dm"FG AA|"Gm"G2 G2:|
+
+
+X:92
+T:Koroglu 
+O:Turkey
+M:5/4
+L:1/8
+Q:1/4=180
+K:Em
+%%MIDI gchord f2z2f2z4
+%%MIDI beatstring fpppmppp
+|"A"A3GA2G2E2| "Em"G4 E6| "A"A3GA2G2E2| "Em"G4 E6|\
+ "A"A3GA2G2E2| "Em"G4 E6| "Em"E4 E6| "Em"E4 E6|
+"Em"d2 d2 d2 d2 ^c2| "Em"d4 de ^c4| "Em"B2 ^c2 d2 e2 c2| "Em"d4 d2z4|\
+"Em"B2 ^c2 d2 e2 c2| "Em"d4 d2z4|"Em"d2 d2 d2 d2 ^c2|"Em"d4 B4 z2|
+"Am"A2 A2 A2 c2 A2| "Em"B4 B4 z2| "Am"A2 B2 c2 d2 A2| "Em"B4 B4 z2|\
+ "A"A2 A2 A2 B2 G2| "A"A4 A6|
+"Am"A2 B2 c2 e2 c2| "Am"d2 c2 B2 A4|"A"A2 A2 A2 B2 G2| "A"A4 A4 z2|\
+"Am"A2 B2 c2 e2 c2| "Am"d2 c2 B2 A4|"Em"G2 G2 G2 A2 F2| "Em"E4 E4 z2|
+
+
+X:93
+T:Kostenka
+O:Serbia
+M:2/4
+L:1/8
+Q:1/4=192
+K:Ebm
+%%MIDI drum dzdz 36 42 50 80
+|: !drum! z2D2|EFG2|F4|E4|E2D2|EFG2|F4|E4:|
+|:A2G2|G2F2|F2E2|E2z2|A2G2|G2F2|F2E2|E2z2:|
+K:Eb
+|:GABG|E2E2|GABG|E2E2|GABG|E2E2|FEE2|E4:|
+K:C
+|:cBAG|F2E2|cBAG|F2E2|cBAG|F2E2|G2EC|G,4:|
+E2GE|F2E2|E2GE|F2E2|E2GE|F2E2|G2EC|G,4:|
+
+
+X:94
+T:Kreutz Konig
+O:Germany
+M:3/4
+L:1/8
+Q:1/4=160
+K:Bb
+[B,4F,4]z2|[D4B,4]z2|F2 FF F2|[B,4F,4]z2
+|:"Dm"F,2D2D2|EFED "F"C2|"Dm"F,2"Eb"E2E2|"Dm"FGFE D2|
+F,2D2D2|EFED "F"C2|"Dm" A,GFEDC|"Bb"B,2B,2"Dm"z2:|
+K:Eb
+Q:1/4=240
+|:"Eb"B,E G2 G2|"Fm"A3 F "Gm"D2 |"Eb"B,E G2 "Cm"c2| "Eb"B3 G E2|
+"Eb"B,E G2 G2|"Fm"A3 F "Gm"D2 |"Eb"BcBAGF| E2 E2 "Dm"z2:|
+
+
+X:95
+T:Krici Krici Ticek
+O:Croatia
+M:4/4
+L:1/8
+Q:1/4=140
+K:AMix
+[Bd][Ac][Bd][Ac][B2d2][F2A2]|[G2B2][EG][GB][F4A4]|\
+[Bd][Ac][Bd][Ac][B2d2][F2A2]|[G2B2][EG][GB][F4A4]|
+K:Am
+[D2G2][D/G/][D/A/][EB][Ec][Ec][A2c2]|[GB][GB][GB][GB][D2A2][D2A2]|\
+[D2G2][D/G/][D/A/][EB][Ec][Ec][A2c2]|[GB][GB][GB][GB][D2A2][D2A2]|
+
+
+X:96
+T:Kucevacko Kolo
+S:Ciga Ivon Despotovic, Radio-Televizija Beograd
+O:Serbia
+P:AABBCDD
+M:2/4
+L:1/8
+K:Gm
+Q: 1/4=240
+%%MIDI gchord fz
+%%MIDI bassprog 25
+%%MIDI program 64
+P:A
+|:"a" d2 de |f2 fg     |"e" a2 ab|a4     |
+"d" g2 ge   |"a" f2 fd |"e" e2 ec|"a" d4:|
+P:B
+|:"a" d2 d2-|"e"  d4   |"a" f2 f2-|f4    |
+[1"e" a2 gf |e2 g2     |"a" f3e   |def2 :|
+[2 "a" g2 fd|"e"  c2 e2|"a"     d4|   d4 |
+P:C
+|:"e"   GAd2|"a"   cde2|    d4    |  def2|
+  "e"  g2fe |   c2e2   |"a" d4    |  def2|
+  "e"  GAd2 |   cde2   |"a" d4    |  def2|
+  "e"  g2fe |   c2e2   |"a" d4    |  d4 :|
+P:D
+|:"g"  BdBd |"d" BcAc  |"g" BGBG   |"d" AFA2|
+  "g"  BABc |   dcBA   |"e" Gffc   |"g"  d4 |
+     dfcd   |"a" edcd  |"g" dBdB   |  c4  |
+     BABc   |   dcBA   |    Gffc   | "d" d4  :|
+
+
+X:97
+T:Kujawiak Nebieski
+O:Poland
+M:3/4
+L:1/8
+Q:1/4=120
+K:Am
+F2z4|F2F3z|F2FFFz|F2F2F2|z6|
+K:Em
+|:"E"(3EF^G B2 BG|"Am"A2 A^G Ae|"Dm"d2 d2 B2|"Am"e2 ec "E" BA|
+"E"(3EF^G B2 BG|"Am"A2 A^G Ae|"Dm"d2"E"B2 B2|"Am"Ac "E" B^G "Am"A2:|
+K:Am
+|:"Dm"F2 FE DD|"Am"E2 ED CC|"E"B,C B,C B,^G,|"Am"A,^G, A,B, C2|
+"Dm"F2 FE DD|"Am"E2 ED CC|"E"B,C B,C B,^G,|"Am"A,C "E"B,^G, "Am"A,2:|
+K:Em
+|:"D"FE F^G AF|"A"EA E2 E2|"D"DE D2 D2|"A"A,^C E2 E2|
+"D"FE F^G AF|"A"EA E2 E2|"D"DE D2"E"B,2|"A"A,2 A,2 z2:|
+
+
+X:98
+T:Kulka
+O:Bulgaria
+M:2/4
+L:1/8
+Q:1/4=140 
+K:F
+|:"Dm"D4| A4| "G"GF "C"ED| "Dm"D4:|
+|:"Dm"~D2D2| A4| "G"GF "C"ED| "Dm"D4:|
+|: "G"GF "C"ED| "Dm"A4| "G"GF "C"ED| "Dm"D4|\
+ "G"GF "C"ED| "Dm"A2 A2| "G"GF "C"ED| "Dm"D2 D2 :|
+|:"Dm"D2 D2| "Dm"A2 A2| "G"GF "C"ED| "Dm"D2 D2:|
+|:"Dm"D2 D2| "Dm"A2 A2| "G"GF "C"ED| "Dm"D2 D2:|
+|:"C"EF "G"G2| "G"G2 G2| "Fm"^G2 G2| "G"G4| "C"EF "G"G2| "Fm"^G2 "C"c2 |"E"=B_A"G"GF | G4:|
+|: "G"GF"C"ED| "Dm"D4| | "G"GF"C"ED| "Dm"D4| | "G"GF"C"ED| "Dm"D4|  "G"GF"C"ED| "Dm"D4:|
+|:"C"CD E2| E2 E2| "Dm"F2 F2| "C"E2 "Dm"DC| D2 D2| D2 "C"C2| "Dm"D2 "C"E2 | C4 
+:|
+
+
+X:99
+T:Kulsko Horo
+O:Bulgaria
+M:2/4
+L:1/8
+Q:1/4=240
+K:G
+|:G2d2|dcB2|BGA2|GAB2|G2d2|dcB2|BGA2|G4:|:
+B2A2|AGA2|ABG2|GFG2|B2A2|AGA2|ABG2|G4:|
+K:Gm
+|:GABc|dBc2|cBAF|G4|BBBA|BcAG|AAAF|G4:|:
+.G2.c2|.=B2.c2|.=B2.c2|B4|G2B2|A2B2|A2B2|A4:|:
+F2G2|G2G2|G4|GFG2|F2G2|G2G2|G4|G4:|
+
+
+X:100
+T:Lakodalmi Tanc
+O:Hungary
+M:6/8
+L:1/8
+Q:1/4=96
+K:Am
+|:"Am"A2 B c B2 | A2 B A E2| A2 B c B2 | A2 B A E2|
+L:1/8
+M:3/8
+"Dm"A3 | "G"G3 | "Dm"F2 G| A3| "G"G3 | "Dm"F2 E| D3 :|
+L:1/8
+M:2/4
+|:"Dm"D2 A2 | A2 G2 | A2 F2 | "Am"E2 D2 |\
+ "Dm"D2 A2 | A2 G2 | A2 F2 | "Am"E2 D2 |
+"Dm"DE F2| GFEF| "Am"E3 F| "Em"E2 B,2 | "Dm"DE F2| GFEF| D4-|D4 :|
+
+
+

@@ -1,0 +1,56 @@
+X: 0
+T: The Birks of Invermay
+T: 8x32S__
+R: strathspey
+O: RSCDS 16-2
+K: G
+P: the Birks of Invermay
+R: strathspey
+B: RSCDS 16-2(I)
+N: "Surenne"
+M: 4/4
+L: 1/8
+K: G
+B>c \
+| "G"d3e d>B A>G | "Am"A>G A>B "C"E3 G \
+| "G"D>E DB, D2 G>D | B,2 D>E "D7"D2 G>B |
+| "G"d2ef/g/ d<B A>G | "Am"c>B AG "C"E2 B>A \
+| "G"G>E DB, D2 G>A | "G"B2 "D7"A>G "G"G2|
+|| D>C \
+| "G"B,3 D "Em"E>D E<G | "Am"A>G A<B "C"E2 e2 \
+| "G"d>e d>B "(Em)"c>B A<G | "Am"c>d c>B "D7"A2 d>c |
+| "G"B>d e>f "Em"g3e | "G"d>B A>G "C"E2 B>A \
+| "G"G>E "/F"DB, D2 G>A | B2 "D7"A>G "G"G2 |]
+P: the Banks of Spey
+C: William Marshall
+N: Caledonian Companion p.88.
+N: Wm. Marshall p.48; Hardie p.88; SFT p.3; BSFC II-21
+N: played by Ed Pearlman on BH 4A; Dancing Strings tape Siegal/Payne
+Z: John Chambers <jc@trillian.mit.edu>
+M: C|
+L: 1/8
+K: ADor
+E || "Am"{E}[A2A] A>B A>B c>e | "G"d<c B->A ~G3 E \
+   | "Am"[A2A] A>B A>B c>d | "C"e<c d->e "G"~g4 |
+   | "Am"a>g e-<c d<e g-<a | "Em"e-<g g>B "G"~G3 B \
+   | "Am"A-<E A>B "(F)"c>d e-<g | "Dm"e-<d "E7"c>B "Am"A3 ||
+c || "Am"A-<E A>c A-<E A>c | "G"B>c d>{c}B {A}~G3 B \
+   | "Am"A-<E A>c A-<E c>d | "C"e>c d-<e "G"~g4 |
+   | "Am"a>g e-<c d<e g-<a | "Em"e-<g g>B "G"~G3 B \
+   | "Am"A-<E A>B "(F)"c>d e-<g | "Dm"e-<d "E7"c>B "Am"A3 |]
+%
+P: Barbara Rae
+C: Paul Machlis
+Z: John Chambers <jc@trillian.mit.edu>
+N: Written for Barbara Rae (Bowsma) McOwen
+M: C|
+L: 1/8
+K: D
+A, "A"| "D"F3 E "A7"F-<A ED | "Bm"d>c dA "G"G-<F "A7"ED \
+  "C1"| "D"F-<A d>A "Bm"B-<A FA | "Em"G-<F "A7"E>D "D"D3 ||
+A, "A"| "D"F3 E "A7"F-<A ED | "Bm"d>c dA "G"G-<F "A7"ED \
+  "C2"| "D"F-<A d>A "Bm"B-<A FA | "G"B/c/d "D"F>D "A7"E-<F "D"D |]
+A  "B"| "D"F-<A f>A "Bm"B-<F "A7"E>A | "D"F-<A a>f "Em"g/f/e/d/ "A7"d/c/B/A/ \
+  "C1"| "D"F-<A d>A "Bm"B-<A     F>A | "Em"G-<F "A7"E>D "D"D3 ||
+A  "B"| "D"F-<A f>A "Bm"B-<F "A7"E>A | "D"F-<A a>f "Em"g/f/e/d/ "A7"d/c/B/A/ \
+  "C2"| "D"F-<A d>A "Bm"B-<A     F>A | "G"B/c/d "D"F>D "A7"E-<F "D"D |]

@@ -1,0 +1,82 @@
+X: 1
+T: from e:autumn.mid
+M: 3/4
+L: 1/8
+Q:1/4=120
+% Last note suggests Mixolydian mode tune
+K:D % 2 sharps
+V:1
+% Copyright 2003
+%%MIDI program 25
+[E,A,,-]
+% MIDI conversion by MIDISCAN, MUSITEK, Ojai, California
+[CA,,-][A,A,,-] [EA,,-][C2A,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]| \
+[E,2-E,,2-][E2D2E,2-E,,2-][E2D2E,2E,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]|
+[E,-A,,-][CE,-A,,-][A,E,-A,,-] [EE,-A,,-][C2E,2A,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]| \
+[E,2E,,2-][E2D2E,,2-][E2D2E,,2]| \
+[C4A,4A,,4]x2|
+[E,A,,-]
+% MIDI conversion by MIDISCAN, MUSITEK, Ojai, California
+[CA,,-][A,A,,-] [EA,,-][C2A,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]| \
+[E,2-E,,2-][E2D2E,2-E,,2-][E2D2E,2E,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]|
+[E,-A,,-][CE,-A,,-][A,E,-A,,-] [EE,-A,,-][C2E,2A,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]| \
+[E,2E,,2-][E2D2E,,2-][E2D2E,,2]| \
+[C4A,4A,,4]x2|
+[E2G,2=C,2-][E2G,2=C,2-][E2G,2=C,2]| \
+[E2^G,2B,,2-][E2^G,2B,,2-][E2^G,2B,,2]| \
+B,,-[A,B,,-][B,B,,-] [FB,,-][B,B,,-][A,B,,]| \
+E,,-[^G,E,,-][B,E,,-] [EE,,-][B,E,,-][^G,E,,]|
+[E2=G,2=C,2-][E2G,2=C,2-][E2G,2=C,2]| \
+[E2^G,2B,,2-][E2^G,2B,,2-][E2^G,2B,,2]| \
+B,,-[A,B,,-][B,B,,-] [FB,,-][B,B,,-][A,B,,]| \
+[E6B,6^G,6E,,6]|
+[E2=G,2=C,2-][E2G,2=C,2-][E2G,2=C,2]| \
+[E2^G,2B,,2-][E2^G,2B,,2-][E2^G,2B,,2]| \
+B,,-[A,B,,-][B,B,,-] [FB,,-][B,B,,-][A,B,,]| \
+E,,-[^G,E,,-][B,E,,-] [EE,,-][B,E,,-][^G,E,,]|
+[E2=G,2=C,2-][E2G,2=C,2-][E2G,2=C,2]| \
+[E2^G,2B,,2-][E2^G,2B,,2-][E2^G,2B,,2]| \
+B,,-[A,B,,-][B,B,,-] [FB,,-][B,B,,-][A,B,,]| \
+[E6B,6^G,6E,,6]|
+[E,A,,-][^CA,,-][A,A,,-] [EA,,-][C2A,,2]| \
+[E,2A,,2-][E2C2A,,2-][E2C2A,,2]| \
+[E,2-E,,2-][E2D2E,2-E,,2-][E2D2E,2E,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]|
+[E,-A,,-][CE,-A,,-][A,E,-A,,-] [EE,-A,,-][C2E,2A,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]| \
+[E,2-E,,2-][E2D2E,2-E,,2-][E2D2E,2E,,2]| \
+[C4A,4A,,4]x2|
+[E,A,,-][CA,,-][A,A,,-] [EA,,-][C2A,,2]| \
+[E,2A,,2-][E2C2A,,2-][E2C2A,,2]| \
+[E,2-E,,2-][E2D2E,2-E,,2-][E2D2E,2E,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]|
+[E,-A,,-][CE,-A,,-][A,E,-A,,-] [EE,-A,,-][C2E,2A,,2]| \
+[E,2-A,,2-][E2C2E,2-A,,2-][E2C2E,2A,,2]| \
+[E,2-E,,2-][E2D2E,2-E,,2-][E2D2E,2E,,2]| \
+[C4A,4A,,4]x2|
+[F2D,2-][A,3D,3-][DD,]| \
+[F3D,3-] [DD,-][A,2D,2]| \
+[B,D,-][=GD,-][G2B,2D,2-][G2B,2D,2]| \
+[F2A,2D,2]x4|
+[A,A,,-][GA,,-][C2A,2A,,2-][C2A,2A,,2]| \
+[A,D,-][FD,-][D2A,2D,2-][D2A,2D,2]| \
+[CA,A,,-][GA,,-][G2A,,2-][G2C2A,2A,,2]| \
+[FD,-][DD,-][A,4D,4]|
+[F2D,2-][A,3D,3-][DD,]| \
+[F3D,3-] [DD,-][A,2D,2]| \
+[B,D,-][GD,-][G2B,2D,2-][G2B,2D,2]| \
+[F2A,2D,2]x4|
+[A,A,,-][GA,,-][C2A,2A,,2-][C2A,2A,,2]| \
+[A,D,-][FD,-][D2A,2D,2-][D2A,2D,2]| \
+[CA,A,,-][GA,,-][G2A,,2-][G2C2A,2A,,2]| \
+[F6D6A,6D,6]|
+% Cider Press
+% www.nationwide.net/~amaranth
+% All Rights Reserved
+% g-autumn - 

@@ -1,0 +1,977 @@
+X: 1
+T:Albanian #1
+T:Punt\"etoret t\"e Ndertimit
+M:5/8
+L:1/8
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:G
+|: DD \
+| "G"[d2B] [dB][ec][dB] \
+| "Am"[c3A] [dB][dB] \
+| "D7"[f2d] [fd][ec][cA] \
+| "G"[B3G] DD \
+| [d2B] [dB][dB][fd] \
+| "Am"[e3c] [a/f][g/e][f/d][e/c] \
+| "D7"[d2B] [dB][dB][cA] \
+| "G"[B3G] :|
+|: [GB,][AC] \
+| "G"[B2D] [BD][cE][BD] \
+| [cE][B2D] [GB,][AC] \
+| [B2D] [cE][d=F][dF] \
+| "Am"[c3E] [cE][cE] \
+| [c2E] [cE][cE][cE] \
+| "D7"[f2A] [fA][fA][eG] \
+| [d2F] [cE][BD][AC] \
+| "G"[G3B,] :|
+|: [DB,][DB,] \
+| "G"[G2D] [GD][GD][AF] \
+| [B2G] [BG][BG][cA] \
+| [d2B] [dB][cA][BG] \
+| "Am"[c3A] [AE][AE] \
+| "D7"[G2E] [FD][AF][AF] \
+| [G2E] [FD][AF][GE] \
+| [F2D] [EC][DB,][CA,] \
+| "G"[B,3G,] :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 2
+T:Bicak
+M:2.2.2.3.2.3/16
+L:1/16
+O:Bulgaria
+P:AA BB AB CC DD EE FF GG HH IA BB
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:F
+P: A
+|: "C7"c2- cB B2 B2A "F"AF "Bb"B2A | "C"G2G2 AG FE2 "F"F2F2z :|
+P: B
+|: "Bb"EF FG G2 "C7"G3 B2 "F"AGF |  "C7"GC GB A2 ~G2F "F"FG ABc |  "Bb"E
+F FG G2 "C7"G3 B2 "F"AGF |  "C7"GC GB A2 ~G2F "F"F2 F3 :|
+P: C
+|: "C7"c=B cd _B2 B2A Bc "F"AGF | "C7"GC GB A2 ~G2F "F"FG ABc | "C7"c=B 
+cd _B2 B2A Bc "F"AGF | "C7"GC GB A2 ~G2F "F"F2 F3 :|
+P: D
+|: "D drone"D2 G2 F2 G3 FE D3 | D2 F2 E2 D3 G2 F2E | D2 G2 F2 G3 FE D3 |
+ D2 F2 E2 D3 D2 D3 :|
+P: E
+|: "Gm"G2 c2 B2 "Cm"c3 "Gm"BA G3 | G2 B2 A2 G3 "Cm"c2 "D7"B2A | "Gm"G2 c
+2 B2 "Cm"c3 "Gm"BA G3 | G2 B2 A2 "D7"G3 "Gm"G2 G3 :|
+P: F
+|: "Gm"FG GF GA "Cm"BcA "Gm"BA G2D |  "Gm"FG GF GA "Cm"BcA "Gm"BA Gdd | 
+ "Gm"FG GF GA "Cm"BcA "Gm"BA G2D |  "Gm"FD FG GF "Cm"BAG "Gm"G2 GGG :|
+P: G
+|: "Cm"~c2- cA BA "Gm"G2A "Cm"c2 "Gm"B2A |  "Cm"GF "Gm"BA GF "Cm"B2A "Cm
+"c2 "Gm"B3 |  "Dm"~d2- cA BA "Gm"G2A "Cm"c2 "Gm"BA |  "Gm"GF BA GF "Cm"B
+2A "Gm"G2 "Gm"G2F :|
+P: H
+|: "Gm"GF BA GF "Cm"B2A "Gm"G2 "Gm"G2F |  "Gm"GF BA GF "Cm"B2A "Gm"G2 "G
+m"G2F |  "Gm"GF BA GF "Cm"B2A "Gm"G2 "Gm"G2F |  "Gm"GF BA GF "Cm"B2A "Gm
+"G2 "Gm"G3 :|
+P: I
+|| F16- | "da Capo"F16 |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 3
+T:Bicak
+M:2.2.2.3.2.3/16
+L:1/16
+O:Bulgaria
+P:AA BB AB CC DD EE FF GG HH IA BB
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:F
+P: A
+|: "C7"c2- cB B2 B2A "F"AF "Bb"B2A | "C"G2G2 AG FE2 "F"F2F2z :|
+P: B
+|: "Bb"EF FG G2 "C7"G3 B2 "F"AGF |1 "C7"GC GB A2 ~G2F "F"FG ABc :|2 "C7"
+GC GB A2 ~G2F "F"F2 F3 :|
+P: C
+|: "C7"c=B cd _B2 B2A Bc "F"AGF |1 "C7"GC GB A2 ~G2F "F"FG ABc :|2 "C7"G
+C GB A2 ~G2F "F"F2 F3 :|
+P: D
+|: "D drone"D2 G2 F2 G3 FE D3 |1 D2 F2 E2 D3 G2 F2E :|2 D2 F2 E2 D3 D2 D
+3 :|
+P: E
+|: "Gm"G2 c2 B2 "Cm"c3 "Gm"BA G3 |1 G2 B2 A2 G3 "Cm"c2 "D7"B2A :|2 G2 B2
+ A2 "D7"G3 "Gm"G2 G3 :|
+P: F
+|: "Gm"FG GF GA "Cm"BcA "Gm"BA G2D |1 "Gm"FG GF GA "Cm"BcA "Gm"BA Gdd :|
+2 "Gm"FD FG GF "Cm"BAG "Gm"G2 GGG :|
+P: G
+|: "Cm"~c2- cA BA "Gm"G2A "Cm"c2 "Gm"B2A |1 "Cm"GF "Gm"BA GF "Cm"B2A "Cm
+"c2 "Gm"B3 :|2 "Gm"GF BA GF "Cm"B2A "Gm"G2 "Gm"G2F :|
+P: H
+|: "Gm"GF BA GF "Cm"B2A "Gm"G2 "Gm"G2F |1 "Gm"GF BA GF "Cm"B2A "Gm"G2 "G
+m"G2F :|2 "Gm"GF BA GF "Cm"B2A "Gm"G2 "Gm"G3 :|
+P: I
+|| F16- | "da Capo"F16 |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 4
+T:Biserka
+M:3/8
+L:1/16
+C:Srbija
+K:Gm
+|: "Gm"G4 {^f}g2 | G4 {^f}g2 | d4 d2 | "D"^c2B2A2  \
+|  "Gm"G4 {^f}g2 | G4 {^f}g2     | "Cm"c2d2e2     | "D"d6 |
+|  "Gm"G4 {^f}g2 | G4 {^f}g2 | d4 d2 |  ^c3BAG \
+|  "Cm"c3=Bcd | "Gm"B3ABc | "D"A3GAB | "Gm"G4 "fine"z2 :|
+|: "Bb"[d4B2] [d2B] |    [f4d2] [ec2][dB2] | "F7"[c3A][dB][ec][fd] | "Bb
+"[d6B] \
+|     [d4B2] [d2B] | "E"[g3e][fd][ec][dB] | "F7"[c3A][dB][ec][fd] | "Bb"
+[d6B] |
+|1 "Gm"d3GAB | d3GAB | d4 d2 | "D"^c3BAG \
+|  "Gm"d3GAB | d3GAB | "D"A3GAB | "Gm"G6 :|
+|2 "Gm"d3GAB | d3GAB | d4 d2 | "D"^c3BAG \
+|  "Cm"c3=Bcd | "Gm"B3ABc | "D"A3GAB | "Gm"G6 ||
+|: "Gm"[B3G][AF][GE][FD] | "Cm"[E3C][DB,][CA,][B,G,] | "Gm"[D3B,]G^FG | 
+[D6B,] \
+|  "Gm"[B3G]AGF | "Cm"E3DCB, | "D7"A,3G,A,B, | "Gm"G,6 :|
+%%sep
+K: Am
+|: "Am"A4 {^g}a2 | A4 {^g}a2 | e4 e2 | "E"^d2c2B2  \
+|  "Am"A4 {^g}a2 | A4 {^g}a2     | "Dm"d2e2f2     | "E"e6 |
+|  "Am"A4 {^g}a2 | A4 {^g}a2 | e4 e2 |  ^d3cBA \
+|  "Dm"d3=cde | "Am"c3Bcd | "E"B3ABc | "Am"A6 :|
+|: "C"[e4c2] [e2c] |    [g4e2] [fd2][ec2] | "G7"[d3B][ec][fd][ge] | "C"[
+e6c] \
+|     [e4c2] [e2c] | "F"[a3f][ge][fd][ec] | "G7"[d3B][ec][fd][ge] | "C"[
+e6c] |
+|1 "Am"e3ABc | e3ABc | e4 e2 | "E"^d3cBA \
+|  "Am"e3ABc | e3ABc | "E"B3ABc | "Am"A6 :|
+|2 "Am"e3ABc | e3ABc | e4 e2 | "E"^d3cBA \
+|  "Dm"d3=cde | "Am"c3Bcd | "E"B3ABc | "Am"A6 ||
+|: "Am"[c3A][BG][AF][GE] | "Dm"[F3D][EC][DB,][CA,] | "Am"[E3C]A^GA | [E6
+C] \
+|  "Am"[c3A]BAG | "Dm"F3EDC | "E7"B,3A,B,C | "Am"A,4 "fine"z2 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 5
+T:Bucimis
+M:8+7/8
+L:1/8
+Z:1987 by John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music
+Z:bc/
+K:ADor
+P: A (4x)
+|: "Am"A2 de eA eA | ~e2d dc de | cE BE cE BE | "G"GFG "Am"~A2 AE :|
+P: B (4x)
+|: "Am"cE BE cE BE | "G"GFG "Am"AB cd | cE BE cE BE | "G"GFG "Am"~A2 "fi
+ne"AE :|
+P: C
+|: "Am"cd dB cA BG | A2B ~c2 cE | cd dB cA BG | ~A2e ~A2 A2 :|
+P: D
+K: Dm
+|: "A"[ge][fd] [e^c][d_B] [ec][cA] [dB][BE] \
+| [^cA][d_B][ec] ~[c2A2] [cA][BE] \
+| [AE][_BG] [^cA][dB] [ec][fd] ~[e2c2] \
+| "Gm"[d_B][^cA][BG] "A"~[c2A2] [cA][AE] :|
+P: E
+|: "A"[^cA][d_B] ~[e2c2] [ec][dB] ~[e2c2]  \
+| "Gm"[d_B][^cA][BG] "A"~[c2A2] [cA][BE] \
+| [AE][_BG] [^cA][dB] [ec][fd] ~[e2c2] \
+| "Gm"[d_B][^cA][BG] "A"~[c2A2] [cA][AE] :|
+P: F
+|: "A"[d_B][e^c] [ec][AE] [dB][ec] [ec][AE] \
+| "Gm"[fd][e^c][d_B] "A"~[c2A2] [BG][AE] \
+| [d_B][e^c] [ec][AE] [dB][ec] [ec][AE] \
+| "Gm"[fd][e^c][d_B] "A"~[e2c2] [ec][AE] :|
+P: G
+K: A
+|: "A"dE ~c2 dE ~c2 | AGA "E7"Bc de | "A"dE ~c2 dE ~c2 | "B7"AcA "E"B2 B
+2 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 6
+T:Chetvorno Shopsko Horo
+M:7/8
+L:1/8
+K:G
+|: "G"~B2D BD dD | "C"~c2D cB AG \
+| "D"~A2D AD cD | "G"BAB GD GA \
+| "G"~B2D BD dD | "C"edc "A"ce BG |
+| "D"~A2D AD dD |1 "D"~A2D ed dc :|2 "Am"~A3 ~A4 :| \
+|: "C"([dB][e2c]) [e2c] [d2B] | ([dB][c2G]) [c2G] [d2B] \
+| [d3B] [e2c] [d2B] | ([d2B][cG]) [c4G] :|
+|: "G"B3 B2 d2 | "C"c3 c2 B2 \
+| "D"A3 A2 c2 | "G"B2A G4 \
+| "C"c3 "G"d2 "C"e2 | "D"d2c c2 B2 \
+| "Dm"d3 A4 | "Am"A3 A4 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 7
+T:Chetvorno Shopsko Horo
+M:7/8
+L:1/8
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:D
+|: "D"~f2A fA aA | "G"~g2A gf ed \
+| "A"~e2A eA gA | "D"fef dA de \
+| "D"~f2A fA aA | "G"bag "E"gb fd |
+| "A"~e2A eA aA |1 "A"~e2A ba ag :|2 "Em"~e3 ~e4 :| \
+|: "G"([af][b2g]) [b2g] [a2f] | ([af][g2d]) [g2d] [a2f] \
+| [a3f] [b2g] [a2f] | ([a2f][gd]) [g4d] :|
+|: "D"f3 f2 a2 | "G"g3 g2 f2 \
+| "A"e3 e2 g2 | "D"f2e d4 \
+| "G"g3 "D"a2 "G"b2 | "A"a2g g2 f2 \
+| "Am"a3 e4 | "Em"e3 e4 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 8
+T:Ekremov Cocek
+M:7/8
+L:1/8
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:Bb
+L:1/8
+R:Cocek
+|: [Ac][Bd][Bd] [Bd][Ac] [B2d] | [GB][Ac][Ac] [Ac][GB] [Ac] \
+|  [^FA][GB][GB] [GB][FA] [GB][FA] | [EG][D^F][EG] [F2A] zD | [G3B] [A2c
+] [B2d] |
+| [c2e][Bd] [A2c] [G2B] | [^FA][Ac][GB] [FA][EG] [EG][DF] | ([D3^F] [D2F
+]) z2 :: [D3^F] [E4G] \
+| [^F/A][G/B][F/A][E/G][DF] [EG] z2 | [B2d][Bd] [A2c] [G2B] |
+| [^F2A] [GB] [A2c] z2 | [B2d][Bd] [A2c] [G2B] | [^F2A] [GB] [A2c] [G2B]
+ \
+| [^FA][Ac][GB] [FA][EG] [EG][DF] |1 ([D3^F] [D2F]) z2 :|2 [D3^F] GA Bc 
+:|
+|: [^F3A] [B4d]| [^F3A] [A4c] | [EG][EG][EG] [G2B] [GB][^FA] \
+|  [EG][D^F][EG] [F2A] z2 | [^FA][Ac][GB] [FA][EG] [EG][DF] | ([D3^F] [D
+4F]) | z7 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 9
+T:Fati\^se Kolo
+M:9/16
+L:1/16
+O:Srbija
+P:2+3+2+2
+D:
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:F
+|: "C"C2 "F"A2A A2A2 | "C"GA BAG GA "F"F2 :| \
+|: "C"c2 cBA "A7"GA "Dm"FE | DE "Gm"F2G "A7"E2 "Dm"D2 :|
+|: "C"C2 "F"AGF "C"cB "F"AF | "C"C2 "F"AGF "C"cB "F"A2 \
+|  "C"C2 "F"AGF "C"cB "F"AF | "Gm"GF GAG "A7"FE "Dm"D2 :|
+%%sep
+K: G
+|: "D"D2 "G"B2B B2B2 | "D"AB cBA AB "G"G2 :| \
+|: "D"d2 dcB "B7"AB "Em"GF | EF "Am"G2A "B7"F2 "Em"E2 :|
+|: "D"D2 "G"BAG "D"dc "G"BG | "D"D2 "G"BAG "D"dc "G"B2 \
+|  "D"D2 "G"BAG "D"dc "G"BG | "Am"AG ABA "B7"GF "Em"E2 :|
+%%sep
+K: A
+|: "E"E2 "A"c2c c2c2 | "E"Bc dcB Bc "A"A2 :| \
+|: "E"e2 edc "C7"Bc "Fm"AG | FG "Bm"A2B "C7"G2 "Fm"F2 :|
+|: "E"E2 "A"cBA "E"ed "A"cA | "E"E2 "A"cBA "E"ed "A"c2 \
+|  "E"E2 "A"cBA "E"ed "A"cA | "Bm"BA BcB "C7"AG "Fm"F2 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 10
+T:Ivanica
+M:7/8
+L:1/8
+R:lesnoto
+O:Bulgaria
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:D
+P: Instr:
+|| "D"[FD][GE][AF] [AF][GE] [F2D] | [AF][BG][cA] [cA][BG] [A2F] \
+| "A"[cA][dB][ec] "E"[ec][dB] [d/B][c/A][d/B][e/c] | "A"[c7A] |
+| "A"[cA][dB][ec] [ec][dB] [dB][cA] | "A7"[c2A][dB] [cA][BG] [BG][AF] \
+| "G"[B2G][cA] "A7"[AF][GE] [GE][FD] | "D"[F7D]  ||
+P: Vocal:
+|| "G"[B2d][Bd] [A2c] [B2d] | "A7"[c2e][Bd] [A2c] [G2B] \
+w: 1.~Vi-*e se vi-e o-ro
+w: 2.~Si-ot na-rod se na-so-bral
+w: 3.~Da li ge-dash, mi-lo Sko-pje,
+| "D"[F2A][GB] "G"[B2d] [Bd][Ac] | "A"[A7c] |
+w: ma-*ke-don-*sko,
+w: ma-*ke-don-*ski,
+w: da* li slu-shash,
+| "G"[B2d][Bd] [A2c] [B2d] | "A"[c2e][Bd] [A2c] [G2B] \
+w: Go-lem so-bor mi se so-bral
+w: Pre-gr-na-til brat-ski da se
+w: Kak-va Ma-ke-don-ska pes-na
+| "D"[F3A] "A"[GB][FA] [EG][DF]  | "D"[D7F] ||
+w: kraj Var-*da-*rot.
+w: raz-ve-*se-*lat.
+w: se pe-***e.
+|: "Bm"[d2f][ce] [B2d] [B2d] | "A"[c2e][Bd] [A4c] \
+w: O-*ra i pes-*na,
+| "G"[B3d] "A"[A2c] "G"[B2d] | "A"[GB][FA][GB] "D"[F4A] |
+w: son-ce i lju-**bov,
+| "G"[B2d][Ac] [G2B] [G2B] | "A"[A2c][GB] "D"[F4A] \
+w: to-*va e na-*sha
+| "A"[G2B][GB] [FA][GB] [E2G] | "D"[D7F] :|
+w: Ma-ke-do-*ni-ja.
+W: A Macedonian dance turns and twines, many people are by the Vardar Ri
+ver
+W: chorus: Dance and song, sun and love, this is our Macedonia.
+W: The entire Macedonian nation comes together to rejoice.
+W: Did you see, dear Skopje, did you hear what kind of Macedonian song h
+as been sung?
+N:
+N: Translation from Richard Geisler.
+N: Music combined from 5 different transcriptions.
+N: The cool Bm at start of chorus from Patrick Yacono.
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 11
+T:Jambolsko Pajdushko
+M:5/8
+L:1/8
+R:pajdushko
+O:Bulgaria
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:Em
+|: "Em"eB gfe | "D"fd "Em"~e2B | fg gfe | "D"fd "Em"~e2B \
+| "Em"eB gfe | ef gab | "Am"~a2 gfe | "D"fd "Em"e2z :|
+[| "Em(G)"GG GA2 | B2 B3 | B2 B3 | A2 G3 \
+| GG FG2 | "Am"A2 E3 | E2 E3 | "Em"E2 E3 |]
+|: "D"DD DD2 | E2 E3 | "Em"E2 E2F | G2 G3 \
+| "Am"AA BA2 | GF E3 | "Em"[B2E] E3 | E2 E3 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 12
+T:Jambolsko Pajdushko
+M:5/8
+L:1/8
+R:pajdushko
+O:Bulgaria
+K:Am
+|: "Am"AE cBA | "G"BG "Am"~A2E | Bc cBA | "G"BG "Am"~A2E \
+| "Am"AE cBA | AB cde | "Dm"~d2 cBA | "G"BG "Am"A2z :|
+[| "Am(C)"CC CD2 | E2 E3 | E2 E3 | D2 C3 \
+| CC B,C2 | "Dm"D2 A,3 | A,2 A,3 | "Am"A,2 A,3 |]
+|: "G"G,G, G,G,2 | A,2 A,3 | "Am"A,2 A,2B, | C2 C3 \
+| "Dm"DD ED2 | CB, A,3 | "Am"[E2A,] A,3 | A,2 A,3 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 13
+T:Jambolsko Pajdushko
+M:5/8
+L:1/8
+R:pajdushko
+O:Bulgaria
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:Dm
+|: "Dm"dA fed | "C"ec "Dm"~d2A | ef fed | "C"ec "Dm"~d2A \
+| "Dm"dA fed | de fga | "Gm"~g2 fed | "C"ec "Dm"d2z :|
+[| "Dm(F)"FF FG2 | A2 A3 | A2 A3 | G2 F3 \
+| FF EF2 | "Gm"G2 D3 | D2 D3 | "Dm"D2 D3 |]
+|: "C"CC CC2 | D2 D3 | "Dm"D2 D2E | F2 F3 \
+| "Gm"GG AG2 | FE D3 | "Dm"[A2D] D3 | D2 D3 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 14
+T:Krivo Horo
+M:11/16
+L:1/16
+R:kopanica
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:C
+P: A
+|: "C"C2^DE E2C E2EC | E2G2 G2E G2GE | GAGE "G"G2F FEFD | FGFD "C"F2E E^
+DEC :|
+P: B
+|: "F"A2AF ABc A2A2 | "G"Bcd2 dcB BAAG | "C"G2G2 GAB G2G2 |1 "G"BAAG G2F
+ "C"EFGC :|2 "G"BAAG G2F "C"ECE2 ||
+%%text Repeat AA BB
+P: C
+|: "G"BAAG G2F "C"EFG2 | "G"BAAG G2F "C"EFGC |"G"BAAG G2F "C"EFGC | "G"B
+AAG G2F "C"E2E2 :|
+P: D
+|: "Dm"D2D2 EFD ECCA, | C2DA, FED ECDA, | D2D2 EFD ECCA, | C2DA, FED ECD
+2 :|
+P: E
+|: "C"_BAG^F E^DE FGGC | _BAG^F E^DE FGGC | _BAG^F E^DE FGGC | _BAG^F E^
+DE C2z2 |
+P: F
+|: "C"_BAG2 _BAG _BAG2 | _BAG2 _BAG _BAG2 | _BAG^F E^DE FGGC |
+| _BAG^F E^DE FGGC | _BAG^F E^DE FGGC | _BAG^F E^DE C2z2 :|
+P: G
+|: "D"GA^F2 _EDC D2DA, | GA^F2 _EDC D2DA, | GA^F2 G2F GAF2 | GA^F2 _EDC 
+D2DA, :|
+%%text Repeat AA BB
+P: H
+K: D
+|: "D"D2^EF F2D F2FD | F2A2 A2F A2AF | ABAF "A7"A2G GFGE | GAGE "D"G2F F
+^EFD :|
+P: I
+|: "G"B2B2 Bcd B2B2 | "A"cde2 edc cBBA | "D"A2A2 ABc A2A2 |1 "A"cBBA "D"
+A2G FGA2 :|2 "A"cBBA "D"A2G F2z2 ||
+P: J 4x
+|: "A"cBBA A2G "D"FGAD | "A"cBBA A2G "D"FDF2 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 15
+T:Krivo Horo
+M:2.2.3.2.2/16
+L:1/16
+R:kopanica
+O:Bulgaria
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:AMix
+P: A
+|: "A"A2de ed2 ded2 | ded2 dc2 cdd2 | "Gm"c2_B2 B3 B2B2 | cddc _B2A G4 |
+| "Gm"G2GA _B3 B2B2 | cdd2  c2_B Bc3 | c2_Bc B2A "A"A4 | "Gm"A_BG2 "A"A3
+ A4 |
+| "Gm"G2A_B B3 B2B2 | cdde c2_B Bc2 | "Gm"c2_Bc B2A "A"A4 | "Gm"A_BG2 "A
+"A3 A4:|
+P: B
+|: c_BAG A2E FGA2 | AGA2 AG2 A2A2 | c_BAG A2E FGA2 | "Gm"FGA2 AG2 "A"A2A
+2 :|
+P: C
+|: "A"FGA2 GFE FGA2 | A2c2 c_BB AGA2 | A2GF EFG A2A2 | "Gm"c2_Bc BAG "A"
+A2A2  :|
+P: D
+|: "Gm"c2_Bc BAG "A"ABcd | "Gm"c2_Bc BAG "A"A2e2 | "Gm"c2_Bc BAG "A"ABcd
+ | "Gm"c2_Bc BAG "A"A2A2 :|
+%%text ABCD
+P: E
+K: G
+|: "G"d2dB c2B B2d2 | d2dB c2B BGAG | "G"d2dB c2B B2d2 | d2dB c2B BGA2 :
+|
+P: F
+|: "G"c2B2 c2B B2d2 | c2B2 dcB BGAG | "G"c2B2 c2B B2d2 | c2B2 dcB BGA2 :
+|
+P: G
+|: "Am"E4 A2G FGA2- | AEFG A2G "Em"FEB2 |1 "Am"E4 A2G FGA2- | AEFG A2G "
+Em"FDE :|2 "Am"E4 A2G FGA_B | "A"^c2_B2 cBA AGA2 |]
+P: H
+K: AMix
+|: "A"c2_B2 cBA AGAd | c2_B2 cBA AG"3x"A2 :| "A"c2_B2 cBA AGAd | c2_B2 c
+BA GA=B=c |]
+P: I
+K: C
+|: "B"^d2c2 dcB BABe | ^d2c2 dcB BAB2 | ^d2c2 dcB BABe | ^d2c2 dcB BAB2 
+:|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 16
+T:Legnala Dana
+M:7/8
+L:1/8
+K:C
+[| "C"c2G cd ef | "F"f3- ff ef | "G7"g2a gf ~fe/f/ | "C"g/f/e2- e4 \
+ | "C"c2G "C7"cd ef | "Dm"d3- d2 de | "E#7"c2d cB BA | "Am"A3 "G7"G4 |]
+|: "C"[C3E] [CE][DF] [EG][FA] | [E3G]- [E2G] [EG][FA] \
+|  "G7"[G2B][GB] [GB][FA] [FA][EG] | "C"[EG][DF][EG] [DF][CE] [C2E] \
+|  "C"[C3E] "C7"[CE][DF] [EG][FA] | "Dm"[E3G]- [E2G] [DF][EG] \
+| "G7(Fm)"[D2F][CE] [C4E] | "C"[C7E] :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 17
+T:Legnala Dana
+M:7/8
+L:1/8
+K:D
+[| "D"d2A de fg | "G"g3- gg fg | "A7"a2b ag ~gf/g/ | "D"a/g/f2- f4 \
+ | "D"d2A "D7"de fg | "Em"e3- e2 ef | "F#7"d2e dc cB | "Bm"B3 "A7"A4 |]
+|: "D"[D3F] [DF][EG] [FA][GB] | [F3A]- [F2A] [FA][GB] \
+|  "A7"[A2c][Ac] [Ac][GB] [GB][FA] | "D"[FA][EG][FA] [EG][DF] [D2F] \
+|  "D"[D3F] "D7"[DF][EG] [FA][GB] | "Em"[F3A]- [F2A] [EG][FA] \
+| "A7(Gm)"[E2G][DF] [D4F] | "D"[D7F] :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 18
+T:Legnala Dana
+M:7/8
+L:1/8
+R:lesnoto
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:E
+[| "E"e2B ef ga | "A"a3- aa ga | "B7"b2c' ba ~ag/a/ | "E"b/a/g2- g4 \
+ | "E"e2B "E7"ef ga | "Fm"f3- f2 fg | "G#7"e2f ed dc | "Cm"c3 "B7"B4 |]
+|: "E"[E3G] [EG][FA] [GB][Ac] | [G3B]- [G2B] [GB][Ac] \
+|  "B7"[B2d][Bd] [Bd][Ac] [Ac][GB] | "E"[GB][FA][GB] [FA][EG] [E2G] \
+|  "E"[E3G] "E7"[EG][FA] [GB][Ac] | "Fm"[G3B]- [G2B] [FA][GB] \
+| "B7(Am)"[F2A][EG] [E4G] | "E"[E7G] :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 19
+T:Majko, Majko
+M:7/8
+L:1/8
+K:Bb
+L:1/8
+R:Cocek
+|: "D"DDD ^FG AB | (A3 A4) | ABc dc BA | "Gm"(B3 B4) |
+| c2B dc BA | "Eb"(E3 E4) | G^FE GF EC | "D"(D3 D4) | z8 :|
+|: "D"(D3 D2) ^FG | (A3 A2) AB | (c3 c)d/c/ BA | "Gm"(B3 B4) :: "Bb"d2 d
+ d2 d2 | dcd e2 d2 |
+| "(F3 F4)"(f3 f2) ec | "Bb"(d3 d4) | "Gm"B2 B B2 B2 | "Cm"c2B A2 G2 | G
+^FE GF EC | "D"(D3 D4) | z8 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 20
+T:Majko, Majko
+M:7/8
+L:1/8
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:C
+L:1/8
+R:Cocek
+P:Bb:
+|: "E"EEE ^GA Bc | (B3 B4) | Bcd ed cB | "Am"(c3 c4) |
+| d2c ed cB | "F"(F3 F4) | A^GF AG FD | "E"(E3 E4) | z8 :|
+|: "E"(E3 E2) ^GA | (B3 B2) Bc | (d3 d)e/d/ cB | "Am"(c3 c4) :: "C"e2 e 
+e2 e2 | ede f2 e2 |
+| "(G3 G4)"(g3 g2) fd | "C"(e3 e4) | "Am"c2 c c2 c2 | "Dm"d2c B2 A2 | A^
+GF AG FD | "E"(E3 E4) | z8 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 21
+T:Makedonske Devojce (7/8)
+M:7/8
+L:1/8
+R:lesnoto
+K:Dm
+[| "Dm"D2d c2 d2 | cd2 A4 | "Gm"B2A G2 B2 | "A7"A7 \
+|  "Dm"D2d c2 d2 | cd2 A4 | "A7"A2G F2 E2 | "Dm"D7 |]
+|: "Dm"[F3d] "D7"[^F3A][Ac] | "Gm"[GB][F2A2] [D4G4] | "C7"[G2B][FA] [E2G
+][G2B] | "F"[F7A] \
+|  "Eb"[G2B][FA] [E2G][G2B] | "Dm"[FA][E2G2] [F2D][FD][EG] | "A7"[F2A][E
+G] [D2F][A,2E] | "Dm"[D7D] :|
+P: Interlude
+[| "Dm"{E}F2E DEFG | "Gm"A2G G4 | "C7"C2D EFG2 | GFE "F"F2FE \
+|  "Dm"{E}F2E DEFG | "Gm"A2G G2FG | "A7"A2G F2E2 | "Dm"D7 |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 22
+T:Makedonske Devojce (7/8)
+M:7/8
+L:1/8
+R:lesnoto
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:Em
+[| "Em"E2e d2 e2 | de2 B4 | "Am"c2B A2 c2 | "B7"B7 \
+|  "Em"E2e d2 e2 | de2 B4 | "B7"B2A G2 F2 | "Em"E7 |]
+|: "Em"[G3e] "E7"[^G3B3][Bd] | "Am"[Ac][G2B2] [E4A4] | "D7"[A2c][GB] [F2
+A][A2c] | "G"[G7B] \
+|  "F"[A2c][GB] [F2A2][A2c2] | "Em"[GB][F2A2] [G2E][GE][FA] | "B7"[G2B][
+FA] [E2G][B,2F] | "Em"[E7E] :|
+P: Interlude
+[| "Em"{F}G2F EFGA | "Am"B2A A4 | "D7"D2E FGA2 | AGF "G"G2GF \
+|  "Em"{F}G2F EFGA | "Am"B2A A2GA | "B7"B2A G2F2 | "Em"E7 |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 23
+T:Novoselsko Kopanica
+M:11/16
+L:1/16
+O:Bulgaria
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:DDor
+P: A
+|: "Dm"^gaa2 aga ~b3a | aba^g fed ^cddA | ^cdd2 dcd ~e3d | "A"eddA "E"~B
+3 B4 :|
+P: B
+|: "Dm"^cdd2 dcd ~e3d | aba^g fed ^cddA | ^cdd2 dcd ~e3d | "A"eddA "E"~B
+3 B4 :|
+P: C
+K: A \
+|: "A"dE~c2  AGA "E"Bcde | dE~c2  AGA "E"~B2BE | "A"dE~c2  AGA "E"Bcde |
+ dE~c2  AGA "E"~B2B2 :|
+P: D
+|: "D"de~f2 Ade ~f2fA |de~f "A"edc "Bm"~B2BF | "D"de~f2 Ade ~f2fA |de~f 
+"A"edc "Bm"~B2BF |
+|  "A"cd~e2 Acd ~e2eA | cd~e2 "Dm"=fgf "A"~e2eA | cd~e2 Acd ~e2eA | cd~e
+2 edc "Bm"~B2BF :|
+P: E
+[| "A"dE~c2  AGA "E"Bcde | dE~c2  AGA "E"~B2BE | "A"dE~c2  AGA "E"Bcde |
+ dE~c2  AGA "E"~B2B2 |]
+|: "A"{G}A4- A3- A4 :|
+P: F
+|: "A"edcB ~c2A "E"~B2BA | ~B2BA "A"cde c2cA | edcB ~c2A "E"~B2BA | "A"~
+c2BA AEA A2z2 :|
+P: G
+|: "A"~c2BA AEA ~c2BA | ~c2BA cde ~c2BA | ~c2BA AEA ~c2BA | ~c2BA AEA A2
+z2 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 24
+T:Rachenica for Three
+T:ABABCDECDECFGCFGCDEC
+M:7/8
+L:1/8
+O:Bulgaria
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:F
+P: A
+[| "F"[A2F] [A2F] [A2F][BG] | [c2A] [c2A] [c2A][dB] | "C7"[e4c] [d3B] | 
+"F"[c7A] \
+|  "F"[A2F] [A2F] [A2F][BG] | [c2A] [c2A] [c2A][dB] | "C7"[e4c] [d3B] | 
+"F"[c7A] |]
+P: B
+|: "F" [c4A] "C7"[B3G] | "F"[A4F] "Bb"[d3B] | "F"[c2A] [c2A] [BG][AF][BG
+] | "F"[c7A] \
+|  "F" [c4A] "C7"[B3G] | "F"[A4F] "Bb"[d3B] | "F"[c2A] [c2A] [BG][AF][BG
+] | "F"[A7F] :|
+P: C
+|: "F"[AF][BG] [AF][BG] [c2A][cA] | "C7"[cA][dB] [cA][BG] "F"[A3F] | "F"
+[AF][BG] [AF][BG] [c2A][cA] | "C7"[cA][dB] [cA][BG] "F"[A3F] \
+|  "F"[AF][BG] [AF][BG] [c2A][cA] | "C7"[cA][dB] [cA][dB] [e2c][dB] | "C
+7"[cA][dB] [dB][cA] [cA][BG][BG] | "F"[A7F] :|
+P: D
+[| "F"[A2F] [B2G] [c3A] | [A2F] [B2G] [c3A] | "Bb"[d2B] [d4B][dB] | "C7"
+[cA][BG] [BG][AF] "F"[A3F] \
+|  "F"[A2F] [B2G] [c3A] | [A2F] [B2G] [c3A] | "Bb"[d2B] [d4B][dB] | "C7"
+[cA][BG] [BG][AF] "F"[A3F] |]
+P: E
+|: "Bb"[d2B] [d2B] [d2B][dB] | [d2B] [d2B] [d2B][cA] | "C7"[c2A] [d2B] [
+e2c][dB] | "F"[d2B] [c2A] [c3A] \
+|  "C7"[c2A] [d2B] [e2c][dB] | "F"[d2B] [c2A] [c3A] | [A2F] [B2G][c2A][c
+A] | "C7"[cA][BG] [BG][AF] "F"[A3F] :|
+P: F
+[| "F"[c2A] [d2B] [dB][cA][dB] | "C7"[e7c] | [cA][dB] [d2B] [dB][cA][BG]
+ | "F"[c7A] \
+| "F"[c2A] [d2B] [dB][cA][dB] | "C7"[e7c] | [cA][dB] [d2B] [dB][cA][BG] 
+| "F"[c7A] |]
+P: G
+[| "F"[c2A] [d2B] [cA][BG][AF] | "C7"[B7G] | [c2A] [d2B] [dB][cA][BG] | 
+"F"[A7F] \
+| "F"[c2A] [d2B] [cA][BG][AF] | "C7"[B7G] | [c2A] [d2B] [dB][cA][BG] | "
+F"[A7F] |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 25
+T:Rachenica for Three
+T:ABABCDECDECFGCFGCDEC
+M:7/8
+L:1/8
+O:Bulgaria
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:G
+P: A
+[| "G"[B2G] [B2G] [B2G][cA] | [d2B] [d2B] [d2B][ec] | "D7"[f4d] [e3c] | 
+"G"[d7B] \
+|  "G"[B2G] [B2G] [B2G][cA] | [d2B] [d2B] [d2B][ec] | "D7"[f4d] [e3c] | 
+"G"[d7B] |]
+P: B
+|: "G" [d4B] "D7"[c3A] | "G"[B4G] "C"[e3c] | "G"[d2B] [d2B] [cA][BG][cA]
+ | "G"[d7B] \
+|  "G" [d4B] "D7"[c3A] | "G"[B4G] "C"[e3c] | "G"[d2B] [d2B] [cA][BG][cA]
+ | "G"[B7G] :|
+P: C
+|: "G"[BG][cA] [BG][cA] [d2B][dB] | "D7"[dB][ec] [dB][cA] "G"[B3G] | "G"
+[BG][cA] [BG][cA] [d2B][dB] | "D7"[dB][ec] [dB][cA] "G"[B3G] \
+|  "G"[BG][cA] [BG][cA] [d2B][dB] | "D7"[dB][ec] [dB][ec] [f2d][ec] | "D
+7"[dB][ec] [ec][dB] [dB][cA][cA] | "G"[B7G] :|
+P: D
+[| "G"[B2G] [c2A] [d3B] | [B2G] [c2A] [d3B] | "C"[e2c] [e4c][ec] | "D7"[
+dB][cA] [cA][BG] "G"[B3G] \
+|  "G"[B2G] [c2A] [d3B] | [B2G] [c2A] [d3B] | "C"[e2c] [e4c][ec] | "D7"[
+dB][cA] [cA][BG] "G"[B3G] |]
+P: E
+|: "C"[e2c] [e2c] [e2c][ec] | [e2c] [e2c] [e2c][dB] | "D7"[d2B] [e2c] [f
+2d][ec] | "G"[e2c] [d2B] [d3B] \
+|  "D7"[d2B] [e2c] [f2d][ec] | "G"[e2c] [d2B] [d3B] | [B2G] [c2A][d2B][d
+B] | "D7"[dB][cA] [cA][BG] "G"[B3G] :|
+P: F
+[| "G"[d2B] [e2c] [ec][dB][ec] | "D7"[f7d] | [dB][ec] [e2c] [ec][dB][cA]
+ | "G"[d7B] \
+| "G"[d2B] [e2c] [ec][dB][ec] | "D7"[f7d] | [dB][ec] [e2c] [ec][dB][cA] 
+| "G"[d7B] |]
+P: G
+[| "G"[d2B] [e2c] [dB][cA][BG] | "D7"[c7A] | [d2B] [e2c] [ec][dB][cA] | 
+"G"[B7G] \
+| "G"[d2B] [e2c] [dB][cA][BG] | "D7"[c7A] | [d2B] [e2c] [ec][dB][cA] | "
+G"[B7G] |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 26
+T:Samiotissa
+T:Girl from Samos
+M:7/8
+L:1/8
+R:kalamatianos
+O:Greece
+N:The lower line should be considered the melody.
+N:The instrumental interlude here is a "generic" interlude used in much G
+N:ek music.
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:G
+P: Instr:
+|: z[ge][fd][ec] || "D7"[d2B][dB] [cA][BG] [cA][dB] | "G"[B2G][cA] [dB][
+ge][fd][ec] \
+| "D7"[d2B][dB] [cA][BG] [cA][dB] | "G"[B3G] :|
+P: Vocal:
+|: [D2G] || "G"[G2B][FA] [G2B] [A2c] | [B2d][Ac] [G4B] \
+w: 1.~Sa-mio-tis-sa, Sa-mio-tis-sa,
+| "C"[ce][ce][ce] [ce][Bd] [Ac][GB] | "G"[B3d] z2 :|
+w: po-te tha pos ti Sa-*mo.
+|: "D7"[df][df][df] "C"[eg][df] [ce][Bd] \
+| "D7"[A2c][ce] "G"[Bd][Ac] [GB][Ac] \
+| [B2d][Bd] "D7"[Ac][GB] [Ac][Bd] \
+|1 "G"[G2B][Ac] [B2d][c2e] :|2 "G"[G3B] z2 |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 27
+T:Sedi Donka
+M:7.7.11/16
+L:1/16
+R:SQQ.SQQ.QQSQQ
+O:Bulgaria
+P:ABABCDCD...
+D:
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:C
+P: A
+|: "C"eGc ~e2 dB | "G"dGB ~d2 cB | "G"AB GD GAB "C"~c2 cG \
+|  "C"eGc ~e2 dB | "G"dGB ~d2 cB | "G"AB GD "A"GAB "D"~A3z :|
+P: B
+|: "G"ABG ~B2 AG | "G"ABG ~d2 cB | "G"AB GD GAB "C"~c2 cG \
+|  "G"ABG ~B2 AG | "G"ABG ~d2 cB | "G"AB GD "A"GAB "D"~A3 "fine"z :|
+P: C
+|: "A"^c_BG ~A2 AE |  A_BG ~A2 AE | "A"A_B ^cd "Gm"efd "A"~e2 eA \
+|  "A"^c_BG ~A2 AE |  A_BG ~A2 AE | "Gm"d^c _BA G_BG "A"~A3z :|
+P: D
+|: "Gm"_bc'b ba ag | "Dm"a_ba gf ef | "A"gf ed "Gm"efd "A"~e2 eA \
+|  "Gm"_bc'b ba ag | "Dm"a_ba gf ef | "A"gf ed "Gm"^c_BG "A"~A3z :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 28
+T:Shano Dusho
+T:Vranjanka
+M:7/8
+L:1/8
+R:lesnoto
+O:Srbija
+N:(Lesnoto)
+N:This song is traditionally sung in both waltz and lesnoto rhythms.
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:C
+|: "Fm"[c2_A][cA] [c2A] [c2A] | "G"[B2G][_AF] [GE][AF] [BG][cA] | "Fm"[B
+2G][_AF] [B2G] [A2F] | "C"[G3E] [G4E] :|
+w: 1.~Sha-no du-sho, Sha-no mo-*ri,* ot-vo-ri mi vra-ta.
+w: 2.~Noc' li ho-di, div-no Sha-*no,* ja si tu-ga vi-jem.
+w: 3.~Tvo-je li-ce be-lo, Sha-*no,* sneg je za pla-ni-ne.
+[| "F"[=A2F][AF] [A2F] [A2F] | [A2F][GE] [AF][BG] [c2A] | "G7"[G2E][AF] 
+[G2E] [F2D] | "C"[E3C] [E4C] |]
+w: Ot-vo-ri mi, Sha-no, vra-*ta, da ti dam du-ka-ta.
+w: U-ba-vi-nja tvo-ja, Sha-*no, ne da mi da spi-jem.
+w: Tvo-je c'e-lo gi-di, Sha-*no, ka-ko me-se-c'i-ne.
+[| "C"[E2C][FD] [G2E] [FD][EC] | "Dm"[DB,][D2B,] [A4F] | "G7"[G2E][AF] [
+G2E] [F2D] | "C"[E3C] [E4C] |
+w: Oj, le le le le le le le, iz-go-re za te-be,
+|  "C"[E2C][FD] [G2E] [FD][EC] | "Dm"[D3B,] [A4F] | "G7"[G2E][AF] [G2E] 
+[F2D] | "C"[E3C] [E4C] |]
+w: Iz-go-re mi, Sha-no, sr-ce za te-be.
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 29
+T:Starceska Racenica
+M:7/16
+L:1/8
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:G
+L: 1/16
+|: ABcd ~c2G | cB{c}BG c2G | cB{c}BG ABG | |1 A2cd {e}dcB :|2 A2AE Az2 :
+|
+|: cB{c}BG AEE | FG~A2 AGA | cB{c}BG AEE | |1 FG~A2 Ad{e}d :|2 FGA2 az2 
+:|
+K:A
+|: ed~c2 AEE | AB{c}BA ABc | dBc2 AEE |1 AB{c}BA Ade :|2 AB{c}BA Az2 :|
+|: ~A2z2 dz2 | ~c2z2 edc | ~A2z2 dz2 |1 ~c2z2 ade :|2 AB{c}BA Az2 :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 30
+T:Tuginata pusta da ostane
+M:7/8
+L:1/8
+R:lesnoto
+O:Bulgaria
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:G
+P: Instr.
+|: "C"[e2c][dB] "(Am)"[cA][dB] [ec][cA] | "G"[d2B][cA] "(Em)"[BG][cA] [d
+B][BG] |1 \
+ "D7"[c2A][BG] [AF][BG] [cA][AD] | "G"[B2G][AD] [BG][cA] [d2B] :|2 \
+ "D7"[c2A][BG] [AF][BG] [cA][AF] | "G"[B7G]- | [B3G] z4 ||
+P: Vocal
+|| "G"[D2G][GB] [G2B] [G2B] | "Am"[A2c][Bd] ([ce][Bd]) ([Ac][GB]) | "D7"
+([Bd][A2c]) [A4c]- | [A7c] |
+w: 1.~Tu-gi-na-ta pu-sta da* o-*sta-*ne.
+w: 2.~Si te pe-^cal-ba-ri si* doj-*do-*ja
+w: 3.~Ke ve pra-^sam mla-di pe-*^cal-*ba-*ri
+w: 4.~Na tre-ta go-di-na pis-*mo* pra-*ti
+|  "G"[G2B][Ac] [B2d] [B2d] | "Am"[c2e][Bd] "D7"([Ac][GB]) ([Ac][Bd]) | 
+"G"([Ac][G2B]) [G4B]- | [G7B] ||
+w: Ta-ja od li-be-to me* raz-*de-*li.
+w: Sa-mo mo-je-to li-be* go* ne-*ma
+w: Da li go vi-dov-te moj-*to* li-*be
+w: I mi pi-^si ne-ma da* se* vra-*ti.
+|: "G"[G2B][Bd] [B2d] [B2d] | [d2f][df] ([ce][Bd]) ([Ac][GB]) | "Am"([Bd
+][A2c]) [A4c]- | "D7"[A7c] |
+w: Ta-ja od li-be-to me* raz-*de-*li.
+w: De-nje no-tje na por-ti* go* ^ce-*kam
+w: Da li go vi-dov-te moj-*to* li-*be
+w: Ne se vra-tja dru-ga si* za* lju-*bi,
+|  "G"[G2B][Ac] [B2d] [B2d] | "Am"[c2e][Bd] "D7"([Ac][GB]) ([Ac][Bd]) | 
+"G"([Ac][G2B]) [G4B]- | [G7B] :|
+w: ^Sto go lju-bev vre-me tri* go-*di-*ni.
+w: Sa-mo pla-^cam i na ne-*go* mis-*lam.
+w: Od pe-^cal-ba do-ma da* si* i-*de.
+w: I za ne-ja toj si se* o* ^ze-*ni.
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 31
+T:Yerakina
+T:Gerakina
+M:7/8
+L:1/8
+R:kalamatianos
+O:Greece
+D:
+D:Tradition TLP1037 "Songs of Greece" by Theodore Alevizos
+D:Alshire S-5242 "Greek Folk Songs & Dance" (various groups)
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+W:Yerakina goes to the well for water and falls in.  Her boyfriend comes
+W:by, and says he will pull her out if she will promise to marry him.
+K:C
+[| "C"([G2E][AF]) ([BG][cA][BG][AF]) | [G7E] \
+w: 1.~Ki-*ni-***se
+w: 2.~Ke-*pe-***se
+w: 3.~Ke-*tre-***xe
+w: 4.~Ye-*ra-***ki-
+| [G2E][AF] [BG][cA][BG][AF] | [G2E][FD] [GE][FD][E2C] \
+w: i* Ye-*ra-*ki-*na**
+w: mes*to* pi-*ga-*di*
+w: o* kos-*mos* o-*los,*
+w: na* tha* se* vga-*lo*
+| "Am"([E2C][EC]) ([FD][GE][FD][EC]) | "Dm"[F7D] |
+w: ya* ne-***ro
+w: ke ev-ga-***le
+w: ke-*tre-***xa
+w: ke* gi-***neka
+| "G7"([G2E][FD]) ([FD][GE])([FD][EC]) | "C"([E2C][FD]) ([GE][AF])([BG][
+AF]) \
+w: kri-*o* na* fe-*ri.* Droum,
+w: fo-*ni* me-*ga-*li.* Droum,
+w: ke~e-*go* kai-*me-*nos.* Droum,
+w: tha* se*** ka-* no.* Droum,
+|: "G7"[G3E] [F2D]([FD][EC]) | "C"[G3E] ([GE][AF])([BG][AF]) \
+w: droum, droum, droum,* droum, ta* vra-*
+| "G7"[GE][G2E] ([FD][GE])([FD][EC]) |1 "C"([E2C][FD]) ([GE][AF])([BG][A
+F]) :|2 "C"[E7C] |]
+w: chio-lia tis* vron-*doun.* Droum,* droum* doun.
+%%sep
+P: Bb inst.
+K: D
+[| "D"[A2F][BG] [cA][dB][cA][BG] | [A7F] | [A2F][BG] [cA][dB][cA][BG] | 
+[A2F][GE] [AF][GE][F2D] | "Bm"[F3D] [GE][AF][GE][FD] \
+| "Em"[G7E] | "A7"[A2F][GE] [GE][AF][GE][FD] | "D"[F2D][GE] [AF][BG][cA]
+[BG] ||
+|: "A7"[A3F] [G2E][GE][FD] | "D"[A3F] [AF][BG][cA][BG] \
+| "A7"[AF][A2F] [GE][AF][GE][FD] |1 "D"[F2D][GE] [AF][BG][cA][BG] :|2 "D
+"[F7D] |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 32
+T:Zhalna Majka
+M:7/8
+L:1/8
+R:lesnoto
+K:F
+[| "C7"fed e2 (3cde | "Bb"dcB "F"c2 de | "C7"dcB c2 (3ABG \
+| "F"[A7F] | ABc AB ca | "Bb"g2f ef ed | "C7"c2d cB BA | "F"[A7F]- | [A7
+F] ||
+|: "F"[A2F][BG] [c2A] [a2c] | [a2c][ac] "Bb"[f2d] [d2B] \
+|1 "F"[c2A][dB] [cA][BG] [BG][AF] | "C7"[B7G] :|2 "C7"[c2A][dB] [cA][BG]
+ [BG][AF] | "F"[A7F]- | [A7F] |]
+|: "F"([gB][a2c]) [a4c] | "Bb"[b2d][ac] [g2B] [f2d] | "C7"[e7c]- | [e7c]
+ | "Bb"([ec][f2d]) [f4d] | "C7"[g2e][fd] [e2c] [d2B] |
+|  "F"[c7A]- | [c7A] | "F"[A2F][BG] [c2A] [a2c] | [a2c][ac] "Bb"[f2d] [d
+2B] | "C7"[c2A][dB] [cA][BG] [BG][AF] | "F"[A7F]- | [A7F] :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 33
+T:Zhalna Majka
+M:7/8
+L:1/8
+R:lesnoto
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:G
+[| "D7"gfe f2 (3def | "C"edc "G"d2 ef | "D7"edc d2 (3BcA \
+| "G"[B7G] | Bcd Bc db | "C"a2g fg fe | "D7"d2e dc cB | "G"[B7G]- | [B7G
+] ||
+|: "G"[B2G][cA] [d2B] [b2d] | [b2d][bd] "C"[g2e] [e2c] \
+|1 "G"[d2B][ec] [dB][cA] [cA][BG] | "D7"[c7A] :|2 "D7"[d2B][ec] [dB][cA]
+ [cA][BG] | "G"[B7G]- | [B7G] |]
+|: "G"([ac][b2d]) [b4d] | "C"[c'2e][bd] [a2c] [g2e] | "D7"[f7d]- | [f7d]
+ | "C"([fd][g2e]) [g4e] | "D7"[a2f][ge] [f2d] [e2c] |
+|  "G"[d7B]- | [d7B] | "G"[B2G][cA] [d2B] [b2d] | [b2d][bd] "C"[g2e] [e2
+c] | "D7"[d2B][ec] [dB][cA] [cA][BG] | "G"[B7G]- | [B7G] :|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 34
+T:5-time waltz (1)
+M:5/4
+L:1/4
+S:Cathy Goss
+O:Germany
+A:Bavaria
+N:2+3
+K:G
+d|\
+cA BGd | cA BGD/E/ | FA GBd|cA G2 ::
+D/E/|\
+FA GBB | A/B/c/A/ BGD/E/ | FA GBd| cA G2:|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 35
+T:Daichovo horo
+M:9/8
+L:1/4
+Q:1/8=240
+S:Richard Robinson
+R:Horo
+O:Bulgaria
+N:2+2+2+3=9
+K:ADor
+e d e ~d3/2|d c/d/ e ~c3/2|\
+c B/c/ d ~B3/2|G A ~A A3/2:|
+|:F/G/ A/D/ F/G/ ~AG/| \
+A/B/ c/B/ c/d/ ~BG/|\
+F/G/ A/D/ F/G/ ~AG/|\
+c c/B/ ~B/A/ A3/2:|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+% Output from ABC2Win  Version 2.1 i on 14.04.2001

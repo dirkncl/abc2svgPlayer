@@ -1,0 +1,17 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Banana Boat Song
+C:traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%V:1 clef=treble
+K:D    %(D, C)
+|"D"d4 "A"c4|"G"B4 "D"A4|z F2 F F2 FF|"A"EE E"D"D-D2 z2
+w:Day-O, day~ay ay~o Day-light come and me wan'_ go home
+|d4 "A"c4|"G"B4 "D"A4|z F2 F F2 FF|"A"EE E"D"D-D2 AA
+w:Day,~me~say day,~me~say day~ay ay~o Day-light come and me wan'_ go home
+|DD FF AA F2|"G"G2 BA-"D"A4|z F2 F F2 FF|"A"EE E"D"D-D2 AA
+|DD FF AA F2|"G"G2 BA-"D"A4|z F2 F F2 FF|"A"EE E"D"D-D2 z||
+

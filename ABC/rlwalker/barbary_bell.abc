@@ -1,0 +1,14 @@
+X: 1
+T:Barbary Bell
+M:6/8
+L:1/8
+Q:120
+R:Jig
+K:G
+D|"G" GAG GBc  | "G" ded dBG | "Am" ABc "G" BAG | "C" EFE "D7" E2 D |
+"G" GAG GBc | "G" ded dBG | "Am" ABc "G" BAG | "D7" E2 F "G"G2  :|
+d | "G" def "Em" gag | "D" fed "G" edB | "G" GBd "A7" gag | "D" fed "D9"
+ e2 d |
+"G" def gdB | "C" cde "G" dBG | "Am" ABc "G" BAG | "D7" E2 F "G" G2 :|
+
+% Output from ABC2Win  Version 2.1 i on 19/05/2001

@@ -1,0 +1,33 @@
+%%format tab.fmt
+
+%%deco A 4 tab 6 0 0  A
+%%deco D 4 tab 6 0 0  D
+%%deco dd 4 tab 6 0 0  dd
+
+X:1
+T:Boil them cabbage down
+M:4/4
+L:1/4
+M:none
+K:none
+V:1 clef=treble up
+[K:D][M:4/4]\
+FFFF | G2 G2 | FFFF | E4 |
+s: "D" | "G" | "D" | "A" |
+w: boil them cab-bage down, boys, boil them cab-bage down
+FFFF | GGGG | FFEE | D4 :|
+s: "D" | "G" | "D" " " "A" | "D" |
+w: on-ly song that I can sing is boil them cab-bage down
+V:2 clef=none stafflines=4 staffscale=1.8
+%%postscript 3.6 tab_cordas
+%%postscript /tab_font{/Helvetica-Bold 6.0}!
+!D! !A! !dd! y\
+!a! !a! !c! x !a! !a! !c! x !a! !a! !c! x !a! !a! !c! x |\
+!a! !b! !d! x2 !a! !b! !d! x2 |\
+!a! !a! !c! x !a! !a! !c! x !a! !a! !c! x !a! !a! !c! x |\
+!b! !a! !b! x4 |
+!D! !A! !dd! y\
+!a! !a! !c! x !a! !a! !c! x !a! !a! !c! x !a! !a! !c! x |\
+!a! !b! !d! x !a! !b! !d! x !a! !b! !d! x !a! !b! !d! x |\
+!a! !a! !c! x !a! !a! !c! x !b! !a! !b! x !b! !a! !b! x |\
+!a! !a! !a! x4 :|

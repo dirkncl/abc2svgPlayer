@@ -1,0 +1,48 @@
+%Scale the output
+%%scale 0.880
+%%format dulcimer.fmt
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X: 1
+T:Auld Lang Syne (Modern Version)
+C:Traditional - Robert Burns - lyrics
+O:Scotland
+N:"right good wil-lie waught" = "right good will draft/ale"
+M:4/4
+L:1/8
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:F
+V:1 clef=treble name="Melody"
+|C2|:"F""^Verses"F3 F F2 A2|"C"G3 F G2 A2
+w:1~Should auld ac-quain-tance be for-got, and
+w:2~And here's a hand my trus-ty friend and
+|"F"F3 F A2 c2|"Bb"d6 d2
+w:nev-er brought to mind? Should
+w:give~us a hand of thine. We'll
+|"F"c3 A A2 F2|"C"G3 F G2 A2
+w:auld ac-quain-tance be for-got, In
+w:take a right good wil-lie waught for
+|"Bb"F3 D D2 C2|"F"F6||
+w:days of auld lang syne?
+w:auld_ lang_syne.
+V:2 clef=treble name="Harmony"
+|c'2|:c3 c c2 f2|e3 f e2 e2
+|c3 c f2 f2|f6 f2
+|f3 f f2 f2|e3 f e2 f2
+|d3 B B2 B2|A6||
+V:1 clef=treble name="Melody"
+|d2|"F""^FASTER last time"c3 A A2 F2|"C"G3 F G2 d2
+w:For auld_ lang_ syne my dear for
+|"F"c3 A A2 c2|"Bb"d6 d2
+w:auld_ lang_ syne. We'll
+|"F"c3 A A2 F2|"C"G3 F G2 A2
+w:tak' a cup o' kind-ness yet for
+|"Bb"F3 D D2 C2|"F"F6||
+w:auld_ lang_ syne.
+V:2 clef=treble name="Harmony"
+|f2|f4 f4|e3 d e2 b2
+|a3 f f4|f6 f2
+|f3 f f2 c2|c3 c c2 ^c2
+|d3 A B4|A6||

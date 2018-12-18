@@ -1,0 +1,30 @@
+%Scale the output
+%%scale 0.8875
+%%format dulcimer.fmt
+X:1
+T:Blue Moon of Kentucky
+C:Bill Monroe
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:D %(D, C)
+|F G ^G\
+w:I said Blue
+|"D"A2 A F|"D7"D/2 D D/2 D D|"G7"B, G,3-\
+w:Moon of Ken-tuck-y, to keep on shin-ing,
+|G,2 z D|"D"D3/2 D/2 D F|A A A F/2E/2-|"A7"E4\
+w:_shine on the one that's gone and left me blue._
+|z A B A|"D"A2 A F|"D7"D/2 D D/2 D D|"G7"B, G,3-\
+w:I said Blue Moon of Ken-tuck-y to keep on shin-ing,
+|G,2 z D|"D"D3/2 D/2 D A,|"A7"C =F/2F/2-F/2 E D/2-|"D"D4\
+w:_shine on the one that's gone and left_ me blue._
+|"D7"z D E F|"G"G G G G|"G7"B4|"D"A3 F/2F/2\
+w:Well, it was on one moon-light night, stars shin-in'
+|"D7"A3 z|"G"G2-G/2G/2 G|"G7"B4|"D"A2-A/2 F D/2\
+w:bright, whis-_per on high  love_ said good
+|"A7"E2 z A|"D"A2 A F|"D7"D/2 D3/2 F D|"G7"B, G,3-\
+w:bye; Blue Moon of Ken-tuck-y, keep on shin-ing,
+|G,2 z D|"D"D3/2 D/2 A, "Ddim"B,|"A7"C =F F/2E/2D/2D/2-\
+w:_shine on the one that's gone and left_ me blue
+|1 "D"D- "E7"D|"A7"z F G ^G:|2 "D"D2- "G7"D- "G#dim"D-|"D"D3 z||
+w:__I said Blue| ____

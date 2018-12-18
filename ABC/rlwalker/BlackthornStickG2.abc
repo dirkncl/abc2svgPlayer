@@ -1,0 +1,19 @@
+%%scale 1.10
+%%format dulcimer.fmt
+X: 1
+T:Blackthorn Stick, The
+R:Jig
+C:Trad.
+O:Ireland
+M:6/8
+L:1/8
+Q:1/8=240
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G
+"D7"d|"G"gfg "C"ege|"G"dBG "D"AGE|"G"DGG "D"FGA|"G"BGB "D"A2 d|
+"G"gfg "C"age|"G"dBG "D"AGE|"G"DGG "D"FGA|"G"BGG G2:|
+|:d|"G"edd gdd|edd gdd|edd gfg|"Am"edB "D7"A2 d|
+"G"gfg "C"age|"G"dBG "D"AGE|"G"DGG "D"FGA|"G"BGG G2:|

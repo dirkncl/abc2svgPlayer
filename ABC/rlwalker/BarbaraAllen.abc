@@ -1,0 +1,27 @@
+%Scale the output
+%%scale 1.022
+%%format dulcimer.fmt
+X:1
+T:Barbara Allen
+C:Scottish
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|D2|"D"FG A3 "G"G|"A"FE "Bm"D3 "A"E|"D"FA "Bm"d2 "E"d2
+w:0 2 3 4 3 2 1 0 1 2 4 7 7
+w:1~In Scar-let Town, where I was born; There was a fair maid 
+w:2~Twas in the mer-ry month of May, When green buds they were
+w:3~He sent a ser-vant to the town, The place where she was
+w:4~And as she crossed the wood-ed fields, She heard his death-bell
+w:5~O Moth-er, Moth-er, make my bed, And make it long and
+w:6~"Fare-well" she said, "ye maid-ens all, And shun the fault I
+|"A"c A3 "A7"c2|"G"dB G2 "A7"AB|"D"AF D3 "A"E|"D"FA "G"B2 "A"A2|"D"F D3||
+w:6+ 4 6+ 7 5 3 4 5 4 2 0 1 2 4 5 4 2 0
+w:dwell-in', Made ev-'ry youth cry_ Well-a-day! Her name was Bar-b'ra Al-len.
+w:swell-in'. Sweet Wil-liam on his_ death-bed lay For love of Bar-b'ra Al-len.
+w:dwell-in'. "My mas-ter's sick and_ bids you come if you be Bar-b'ra Al-len."
+w:knell-in', And ev-'ry stroke, it_ spoke her name, "Hard-heart-ed Bar-b'ra Al-len."
+w:nar-row. Sweet Wil-liam died for_ love of me; I'll die for him of sor-row."
+w:fell in: Hence-forth take warn-ing_ by the fall Of cru-el Bar-b'ra Al-len.
+

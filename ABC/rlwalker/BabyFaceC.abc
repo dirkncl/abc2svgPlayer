@@ -1,0 +1,28 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Baby Face
+C:Words & Music by Benny Davis, Harry Akst
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+Q:1/4=150 (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+P:Foxtrot or Swing
+K:C    %(D, C)
+|"C"G2 E G-|G4|z c c B|B A A "Gdim"G|"G7"F2 D F-|F4
+w:Ba-by face_ You've got the cut-est lit-tle ba-by face_
+|z B B A|A G G "Cdim"^F|"G7"F2 D F-|F4|"C"G2 "Gm6"E "A7"G-|G4
+w:There's not an-oth-er one could take your place_ Ba-by face_
+|"D7"A2 B c-|c B c A|"G7"B "Dm7"c "A#dim"^c "G7"d-|d B A _A|"C"G2 E G-
+w:my poor heart_ is  jump-ing you sure have start-_ed some-thing Ba-by face
+|G4|z c c B|B A A G|"E7"^G2 G2|"Bm7"A2 "E7"B2|"Am"c4-|c "C7"B c ^c
+w:_ I'm up in heav-en  when I'm in your fond em-brace._ I did-nt
+|"F"d2 c "F#dim"B-|B A ^G A|"C"c2 B "A7"A-|A2 G "G#7"^G|"D7"A2 "Daug7"^A2|"G7"B e3|"C"c2-"Ab7"c2-|"C"c z z2||
+w:need a shove_ 'cos I just fell in love_ with your pret-ty ba-by face.__

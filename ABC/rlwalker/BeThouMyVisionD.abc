@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Be Thou My Vision
+C:Irish Hymn (possibly 8th Century)
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:D    %(D, C)
+|"D"D D E/2D/2|"G"B, "A7"A, B,|"D"D D "A7"E|"D"F3
+w:Be thou my_ vi-sion, O God of my heart;
+|"A7"E E E|"F#m7"E F A|"G"B A "D"F|"A"A3
+w:naught be all else to me, save that thou are.
+|"G"B B/2c/2 d/2c/2|"D"B A F|"Bm"A D C|"G"B,2 "A"A,
+w:Thou my_ best_ thought,_ by day or by night,_
+|"D"D F A|"Bm"B/2A/2 F D/2F/2|"Em"E D "G"D|"D"D3||
+w:wak-ing or sleep-_ing, thy_ pres-ence my light.
