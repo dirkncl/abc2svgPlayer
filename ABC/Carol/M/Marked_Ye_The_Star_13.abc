@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mark'd Ye The Star
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=252
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  C2 E3/ C/ | G3 G | (G c) (A d) | (c A) (A G) | (e c) (c A) | (G3/ A/ G) c | d2 B2 | c3z | z4 | z4 |z2z d | d2 d3/ c/ | B d (c/B/) (A/G/) | c3 e | (e d) c e | (d c) (B d) | (c e) (d c) | (c2 B) G | (c3/ B/) c d | (e c) (A d) | c2 B2 | c4|]
+[V: P2]  C2 E3/ C/ | G2 F2 | (E G) (F A) | G2 F2 | E2 (G F) | D2 (F E) | F2 D2 | E3z | z4 | z4 |z2z D | F2 D3/ E/ | F D G F | E3 G | (G F) E G | (F E) (D F) | (E G) (F E) | (E2 D) G | G2 G G | G2 F2 | G2 F2 | E4|]
+[V: P3]  z4 |z B, D D | G C C F | D2 D2 | G2 (C C) | B,3 C | A,2 G,2 | G,3z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z2z G, | E2 E D | C2 (C D) | D3 G, | G,4|]
+[V: P4]  z4 | G,2 (A,/G,/) (A,/B,/) | C E, F, D, | G,2 (A, B,) | C,2 (E, F,) | G,3 A, | F,2 G,2 | C,3 G, | G,2 G,3/ G,/ | E, G, E, C, | G,4 | G,4 | G,,2 G,2 | C,3 G, | C2 C, C, | G,2 (G, B,) | C2 (C, E,) | G,3 G, | A,2 A, B, | (C E,) (F, D,) | G,2 G,,2 | C,4|]
+

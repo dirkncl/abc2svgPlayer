@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Manger Throne
+Z: Charles Steggall, 1871
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1] z3 [Ec] | [CG] [CA] [CG] [C/E/][C/E/] | [CD] [C/D/][C/E/] C D | [CE] [A,/C/A/][B,/D/A/] [C/E/G/][C/E/G/] [A,CFc] | [D3G3B3] G | [Cc] [B,/B/][A,/A/] G/F/ E/D/ | [C/E/]B,/ [A,/D/^F/][A,/D/F/] [B,G] [A,/D/A/][A,/D/A/] | [DB] E/c/ [D/d/][D/d/] [B,G] | [C3/A3/] [C/B/] [B,G] [B,G] | [A,CA] [A,/C/E/][A,/C/E/] [B,DG] [C/G/][C/G/] | [A,CA] [A,CE] [B,DG] [CG] | [C/A/][C/A/] [A,/C/F/c/][A,/C/F/c/] [B,3/F3/d3/] [B,/F/e/] | [C3E3c3]z|]
+[V: P2] z3 [C,G,] | [C,E,] [C,F,] [C,E,] [C,/G,/][C,/G,/] | [C,F,] [C,/F,/][C,/G,/] [C,E,] [B,,G,] | [C,G,] F,/F,/ E,/E,/z | G,3 G, |z2 G,/F,/ E,/D,/ | C, D,/D,/ G, ^F,/=F,/ | G, [E,G,] [B,,/G,/][B,,/G,/] [E,G,] | [D,3/^F,3/] [D,/F,/] [G,,G,] G, | F,z G, E,/E,/ | F,z G, E, | F,/F,/z G,3/ G,/ | C,3z|]
+

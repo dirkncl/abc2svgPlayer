@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Make We Joy Now In This Fest
+Z: Old English Carol
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1] "^Burden & Refrain" B2 B | B2 d | c2 (B/ A/) | G3 | B2 d | B2 A | G F2 | E3 | [M: 4/4]  (B2 A B c B) (B2 A2 G4) | [M: 3/4] "^Verse" d | e2 d | d2 B | d2 c | B2 d | e2 e | d2 B | B2 A | G2 G | B2 B | A2 A | c2 (B/ A/) | G2 G | B d2 | B A2 | G F2 | E3|]
+w: Make we joy now in this_ fest In quo Chris- tus na- tus est. E-____ ya.__ A Pa- tre U- ni gen i tus Is through a maid- en come to us: Sing we of Him and say Wel-_ come, Ve- ni, Re- demp tor gen- ci um.
+

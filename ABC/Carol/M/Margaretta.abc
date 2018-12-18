@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Margaretta
+Z: Alfred Reginald Allen
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: E
+[V: P1]  G A B c | (A2 B2) | G A B c | (d c) (B A) | G B e c | =c4 | (_d/ d/) d =c _B | _A2 ^G G | A B G F | e c B B | c B G F | E F G A | G =G F E | F3 G | G G G G | B G F F | G F E F | G3 G | G A A G | G3/ F/ F F | F G A F | E4|]
+w: Christ- mas in the air!_ Hear all an- gels sing-_ ing;_ Love and peace up there! Peace_ their hands are bring- ing; And lest the bus- y world for- get; The bells are ring- ing ev- ery where, The child- ren sing- ing yet God grant us peace on Christ- mas Day; God send the con- science rest, God drive the wolves of want a- way, And suc- cor the op- pressed.
+[V: P2]  E F E E | (E2 D2) | E F E E | (A A) (G F) | E E G E | (_A2 =G =F) | (=G/ G/) G G G | _A2 ^D =D | E E D D | E E G E | =D D D D | C E E E | E E E E | (E2 D) E | E E E E | D D D D | B, ^B, C C | (C ^B,/^A,/ B,) F | ^E E E E | =E3/ E/ E E | D E D B, | B,4|]
+[V: P3]  B, B, B, B, | B,4 | B, B, B, B, | (B, C) (D B,) | B, G, B, G, | (_A,2 _B, =C) | (_D/ D/) D _D D | =C2 =B, =D | C =C B, A, | G, B, E B, | G, F, B, G, | A, C C =C | B, _B, ^A, A, | B,3 B, | B, B, C C | B, B, B, A, | G, G, G, F, | (E, D,/ C,/ D,) ^B, | =B, B, B, B, | ^A,3/ A,/ A, A, | =A, G, F, A, | G,4|]
+[V: P4]  E, E, G, G, | (F,2 B,,2) | E, E, G, G, | (F, F,) (B,, B,,) | E, E, E, E, | _E,4 | (_E,/ E,/) E, E, E, | _A,2 ^G, ^E, | F, F, B,, B,, | E, G, B, G, | E, E, E, E, | A, A, G, F, | B,, =C, ^C, C, | B,,3 E, | E, E, C, C, | G,, G,, B,, B,, | E, D, C, A,, | G,,3 G, | C, C, C, C, | F,3/ C,/ C, =C, | B,, B,, B,, B,, | E,4|]
+

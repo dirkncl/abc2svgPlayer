@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mechlin, LM
+Z: Antiphonarium Romanum, Mechlin
+Z: Public domain
+L: 1/4
+M: 3/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="Mechlin, LM"
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | | [Ac] [GB] [CFA] | [B,DG] E F | [D2G2] | | | | | | | | | | c B [CA] | [B,G] E3/ F/ | G2|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | E2 x2  | x1  A,2 C2 | C B, | | | | | | | | | | E2 x1  | x1  C2 | C B,|]
+[V: P2]  (C, | A,, E, D, | A,, E,, F,, | [G,,G,] A,,2 | [G,,2G,2] | G, G, F,/E,/ | D, E, G, E, [D,F,] | [C,2)G,2)] | (F,, | E,, G,, A,, [C,G,] | F,, G,, [A,,F,] | [G,,2D,2] | G,, F,, G,, [D,A,] | [A,,A,] [E,,E,G,] [F,,F,] | [G,,D,] [A,,2A,2] | [G,,2)D,2)]|]
+

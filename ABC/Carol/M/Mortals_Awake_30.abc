@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mortals, Awake, The Morning Is Breaking
+Z: M. A. F.
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=70
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G/ G/ A/ B B/ | A/ B/ A/ G D/ | B/ B/ c/ d/ d/ d/ | c/ d/ c/ Bz/ | d/ c/ B/ d/ c/ B/ | A3/4 B/4 c/ B B/ | d/ c/ B/ d/ c/ B/ | A3/4 B/4 A/ Gz/ | e/ c/ B/ A3/4 B/4 c/ | d/ c/ B/ A/ A3/4 c/4 | e/ c/ B/ A/ d3/4 g/4 | d/ c/ B/ A"^Chorus" G/ | B/ A/ G/ F3/4 D/4 D/ | B/ A/ G/ F3/4 D/4 D/ | G/ D/ E/ F/ A/ d/ | G/ F/ E/ Dz/ | B/ A/ G/ e/ f/ g/ | A/ d/ c/ B3/4 A/4 G/ | D/ G/ A/ B3/4 c/4 d/ | c A/ Gz/|]
+w: Mor- tals, a- wake, the morn- ing is break- ing, Christ- ians, re- joice, for the day is at hand; See in the man- ger the In- fant a- dor ing, Sheph- erds and An- gels, a won- der ing band. Who is the ten- der Babe gen- tly re- pos ing Mid cat- tle and stran- gers in yon hum- ble stall? Tis Christ the A- noin ted, who, from the be- gin ning, Is Sov'- reign, Cre- a tor, and Lord o- ver all. Hail the In- car nate One, Ho- ly and Glo- ri ous, Sav- iour, Em- man u el, God with us.
+

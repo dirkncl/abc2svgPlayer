@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Miss Fogarty's Christmas Cake
+Z: C. Frank Horn
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Staff-1"
+%%MIDI program 1 60
+V: P2 name="Right Hand"
+%%MIDI program 2 0
+V: P3 name="Left Hand"
+%%MIDI program 3 0
+K: A
+[V: P1] z/ | z4 | z4 | z4 | z4 | z4 | z4 | z4 |zz/z E/4 E/4 | A/ G/ A/ B/ A/ F/ | E/ Az (A/4 B/4) | c/ B/ c/ d/ c/ B/ | (e3/ e/)z/ (e/4 e/4) | e/ f/ d/ B/ c/ d/ | c/ Az/ A/ A/ | B/ e/ G/ B/ A/ F/ | (E3/ E/)z/ E/4 E/4 | E/ G/ B/ d/ c/ B/ | B/ A3/z/ A/4 A/4 | A/ G/ A/ B/ A/ B/ | (c3/ c/)z/ A/4 G/4 | F/ F/ G/ A/ G/ F/ | (E/ A3/)z/ A/4 A/4 | A/ G/ F/ d/ c/ B/ | (A3/ A/)z/"^Chorus" E/4 D/4 | C E/ D F/ | E/ Az A/4 B/4 | c/ d/ c/ B/ A/ B/ | c/ A/ F/ E E/4 D/4 | C E/ D F/ | E/ Az G/4 A/4 | B/ c/ B/ A/ G/ F/ | E3/z B/4 c/4 | d/ c/ d/ B/ c/ d/ | c/ Az G/4 A/4 | B/ c/ B/ F/ G/ A/ | Bz/z e/4 e/4 | e/ ^d/ e/ c/ =d/ e/ | d/ c/ d/ F/ B/ A/ | G/ F/ E/ c B/ | (A3/ A/)|]
+w: As I sat in my win- dow last eve- ning, The_ let- ter man brought it to me_ A_ lit- tle gilt- edged in- vi ta tion sayin' "Gil- hoo ley come o- ver to tea"_ Sure I knew that the Fo- gar ty's sent it. So I went just for old friend- ships sake._ The first thing they gave me to tack- le_ Was a slice of Miss Fo- gar ty's cake._ There were plums and prunes and cher- ries, There were cit- rons and rai- sins and cin- na mon, too There was nut- meg, cloves and ber- ries And a crust that was nailed on with glue There were car- a way seeds in a- bun dance Such that work up a fine sto- mach ache That could kill a man twice af- ter eat- ing a slice Of Miss Fo- gar ty's Christ- mas cake._
+[V: P2]  e/4d/4 | c e/ d f/ | e/ az a/4b/4 | c'/d'/c'/ b/a/b/ | c'/a/f/ e3/ | f/^e/f/ b3/ | e/^d/e/ a3/ | B/c/d/ e/f/g/ | a/z/z/ [cea]z/ |z/ [C/E/A/][C/E/A/]z/ [C/E/A/][C/E/A/] |z/ [C/E/A/][C/E/A/]z/ [C/E/A/][C/E/A/] |z/ [C/E/A/][C/E/A/]z/ [D/F/B/] [D/F/B/] |z/ [D/E/G/][D/E/G/] [D3/E3/G3/] |z/ [D/E/G/][D/E/G/]z/ [D/E/G/][D/E/G/] |z/ [C/E/A/][C/E/A/]z/ [C/E/A/][C/E/A/] |z/ [B,/E/G/][B,/E/G/]z/ [B,/^D/A/][B,/D/A/] |z/ [B,/E/G/][B,/E/G/] [B,3/E3/G3/] |z/ [D/E/G/][D/E/G/]z/ [D/E/G/][D/E/G/] |z/ [C/E/A/][C/E/A/]z/ [C/E/A/][C/E/A/] |z/ [C/F/A/][C/F/A/]z/ [D/F/B/][D/F/B/] | [(C(^E(G(c] [C/)E/)G/)c/)]zz/ |z/ [D/F/A/][D/F/A/]z/ [D/F/A/][D/F/A/] |z/ [C/E/A/][C/E/A/]z/ [C/E/A/][C/E/A/] |z/ [D/E/G/][D/E/G/]z/ [D/E/G/][D/E/G/] |z/ [C/E/A/][C/E/A/] [C/E/A/]z/z/ | [CEA] [D/F/A/] [DFA] [D/F/A/] |z/ (E/A/ c/A/E/) |z/ [D/E/G/][D/E/G/]z/ [D/E/G/][D/E/G/] |z/ [C/E/A/][C/E/A/] [CEA]z/ | [CEA] [C/E/A/] [DFA] [D/F/A/] |z/ (E/A/ c/A/E/) |z/ [B,/^D/A/][B,/D/A/]z/ [B,/D/F/A/][B,/D/F/A/] |z/ [B,/E/G/][B,/E/G/] [B,3/E3/G3/] |z/ [D/E/G/][D/E/G/]z/ [D/E/G/][D/E/G/] |z/ [C/E/A/][C/E/A/]z/ [C/E/A/][C/E/A/] |z/ [B,/^D/A/][B,/D/A/]z/ [B,/^D/A/][B,/D/A/] |z/ [B,/E/G/] [B,/E/G/] [B,3/E3/G3/] |z/ [C/E/A/][C/E/A/]z/ [C/E/A/][C/E/A/] |z/ [D/F/B/][D/F/B/]z/ [D/F/B/][D/F/B/] |z/ [D/E/G/][D/E/G/]z/ [D/E/G/][D/E/G/] |z/ [C/E/A/][C/E/A/] [C/E/A/]|]
+[V: P3] z/ | [A,CE] [A,/C/E/] [A,DF] [A,/D/F/] | A,/[C/E/][C/E/] [A,3/C3/E3/] | E,/[G,/B,/E/][G,/B,/E/] E,/[G,/B,/E/][G,/B,/E/] | A,/[C/E/][C/E/] [A,3/C3/E3/] | D,/[F,/B,/D/][F,/B,/D/] [D,3/F,3/B,3/D3/] | E,/[A,/C/E/][A,/C/E/] [A,3/C3/E3/] | E,/[G,/D/][G,/D/] E,/[G,/D/][G,/D/] | [A,/C/]z/z/ [A,C]z/ | [A,,A,]z/ [D,,B,,]z/ | [A,,A,]z/ [A,,A,]z/ | [A,,A,]z/ [B,,B,]z/ | [E,,/E,/]G,,/B,,/ E,3/ | [B,,B,]z/ [E,,E,]z/ | [A,,A,]z/ [A,,A,]z/ | [B,,B,]z/ [B,,,B,,]z/ | [E,,/E,/]G,,/B,,/ [E,,3/E,3/] | [B,,B,]z/ [E,,E,]z/ | [A,,A,]z/ [A,,A,]z/ | [F,,F,]z/ [D,,D,]z/ | [C,,/C,/]^E,,/G,,/ [C,,/C,/]z/z/ | [D,,B,,]z/ [D,,B,,]z/ | [A,,A,]z/ [A,,A,]z/ | [B,,B,]z/ [E,,E,]z/ | [A,,/A,/][E,,/E,/][C,,/C,/] [A,,,/A,,/]z/z/ | [A,,A,] [A,,/A,/] [A,,A,] [A,,/A,/] | [A,,/A,/][A,/C/][A,/C/] [A,/C/][A,/C/][A,/C/] | [B,,B,]z/ [E,,E,]z/ | A,,/C,/E,/ A,/E,/C,/ | [A,,A,] [A,,/A,/] [A,,A,] [A,,/A,/] | [A,,/A,/][A,/C/][A,/C/] [A,/C/][A,/C/][A,/C/] | [F,,F,]z/ [B,,,B,,]z/ | E,/B,,/G,,/ E,,3/ | [E,,E,]z/ [E,,E,]z/ | [A,,A,]z/ [A,,A,]z/ | [F,,F,]z/ [B,,,B,,]z/ | [(E,,3/(E,3/] [E,,3/)E,3/)] | [A,,A,]z/ [A,,A,]z/ | [D,,D,]z/ [D,,D,]z/ | [E,,E,]z/ [E,,E,]z/ | [A,,/A,/][E,,/E,/][C,,/C,/] [A,,,/A,,/]z/|]
+

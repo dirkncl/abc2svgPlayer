@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Maryton
+Z: H. Percy Smith (1825-1898)
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: Eb
+[V: P1]  [EG] [EG] [EG] | [E2A2] [EG] | [C2F2] [CF] | F3 | [DB] [EB] [FA] | [E2G2] [Ge] | [Ge] [Fd] [Ec] | [D3B3] | [FB] [Fc] [FB] | [E2e2] [Ed] | [Ed] c [EB] | [EA] D [EG] | [D2F2] [CE] | [F2A2] [EG] | [CF] C [B,D] | [B,3-E3-] | [B,E]z2|]
+[V: P2]  [E,B,] [E,B,] [E,B,] | [E,2C2] [E,B,] | [A,,2C2] [=A,,F,] | [B,,3B,3] | [B,,B,] [C,B,] [D,B,] | [E,2B,2] [C,B,] | [F,2=A,2] [F,A,] | [B,,3B,3] | [A,D] [A,C] [A,D] | [G,2B,2] [G,B,] | A,2 [G,B,] | [F,2B,2] [E,B,] | [B,,2A,2] [C,G,] | [D,2B,2] [E,B,] | [A,,A,] F,, [B,,F,] | [E,3-G,3-] | [E,G,]z2|]
+

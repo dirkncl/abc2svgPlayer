@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Merton
+Z: William Henry Monk (1823-1889)
+Z: Public  domain
+Z: Version 1
+L: 1/4
+M: 4/4
+Q: 1/4=105
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 19
+K: C
+[V: P1]  [G,C] [G,E] [G,G] [A,G] | [CF] [CA] [CA] [CG] | [CE] [C^F] [B,G] [DG] | [EA] [D/A/]C/ [B,2G2] | [B,G] [C/F/]D/ [CE] [DG] | [CF] [CE] [B,D] C | [A,D] [^CE] [DF] [=CE] | [CD] [CD] C2- | C2z2|]
+[V: P2]  [C,E,] [C,G,] [B,,D,] D, | [A,,C,] F, [A,,/F,/]B,,/ [C,E,] | [C,G,] [A,,C,] D, [B,,G,] | [C,G,] [D,^F,] G,2 | B, [A,,/A,/][B,,/G,/] [C,G,] [B,,G,] | [A,,A,] [C,G,] G,/F,/ [A,,E,] | F, G, A, G, | A, G,/F,/ [C,2-E,2-] | [C,2E,2]z2|]
+[V: P3] z3 G,, |z F,,/G,,/z2 |z2 G,,z |z2 G,,2 | G,,z3 |z2 G,,z | F,, E,, D,, E,, | F,, G,, C,,2- | C,,2z2|]
+

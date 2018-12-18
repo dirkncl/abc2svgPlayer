@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Matheson
+Z: Charles W. Pearce
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  G E | F G A B | c G | A F | G A B c | d G | e c | d B c A | B F | G E | B A G ^F | ^F G | G A | A G d c | B A | A B | B A e d | c B | c A | B G A F | G E | F A | G c A B | B c|]
+w: Al- le lu ia, Lord most Ho- ly, In Thy man- ger throne we hail Thee; Al- le lu ia, meek and low- ly, Nev- er shall our wor- ship fail Thee. Al- le lu ia, Choirs of An- gels Sing at mid- night hour Thy glo- ry, To the watch- ful shep- herds tel- ling From the skies Thy birth- day sto- ry.
+[V: P2]  E C | C E F F | E G | F C | C G G G | G G | G ^F | G G E E | ^F F | E E | E E D D | D D | E E | F G G G | F D | E A | ^G A =G F | E D | C F | F G E D | D C | C C | C G G F | F E|]
+[V: P3]  C C | C C C D | G, C | C C | C C D E | D D | G, A, | D E E E | ^D B, | B, C | D C B, A, | C B, | C C | C C B, C | G, B, | C F | E C C A, | G, G, | G, C | D C C A, | G, G, | F, F, | C C E D | D C|]
+[V: P4]  C, C | A, G, F, D, | C, E, | F, A, | E, _E, D, C, | B,, B,, | C, A,, | B,, E, A,, C, | B,, ^D, | E, C, | A,, A,, D, D, | G,, G,, | C, A,, | F, E, F, E, | D, F, | E, D, | E, F, C, D, | G, F, | E, F, | D, E, C, D, | B,, C, | A,, F, | E, E, F, G, | C, C,|]
+

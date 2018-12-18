@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Milites
+Z: William Henry Monk (1823-1889)
+Z: Public domain
+L: 1/4
+M: 3/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Milites, 12.9.12.9"
+%%MIDI program 2 91
+K: C
+[V: P1]  [C/E/][C/F/] [CG] [CE] | [CG] [CA] [F/A/]E/ | [D/F/]C/ [CD] [B,/G/]C/ | [DF] [C2E2] | C/[B,/D/] [CE] [EA] | [B,/G/]^C/ [D^F] [D/B/]E/ | [^FA] G2 | [B,/G/][B,/G/] [CG] [CE] | [B,G] [CG] [CF] | [B,D] [CE] [CG] | C [CD] B, | [C/G/][D/F/] [CE] [B,D] | C [CA] [CD] | [B,/E/]D/ C2- | C2z|]
+[V: P2]  [C,/G,/][C,/G,/] [E,G,] [C,G,] | [E,G,] F, [F,C] | [F,A,] G, G,/A,/ | [G,B,] [C,2C2] | [E,/G,/][D,/G,/] [C,G,] [A,,C] | [E,G,] [D,A,] [D,D] | [D,C] [G,,2B,2] | G,/[F,/G,/] [E,G,] [C,G,] | [E,G,] A, [D,A,] | G, [C,G,] E, | [A,,^F,] [G,,2G,2] | [A,,/G,/][B,,/G,/] [C,G,] [G,,F,] | [A,,E,] [F,,D,] [F,,A,] | [G,,/G,/]F,/ [C,2-E,2-] | [C,2E,2]z|]
+

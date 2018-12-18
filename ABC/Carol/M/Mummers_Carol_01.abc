@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mummer's Carol
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff-1"
+%%MIDI program 1 52
+V: P2 name="Right Hand"
+%%MIDI program 2 0
+V: P3 name="Left Hand"
+%%MIDI program 3 0
+K: D
+[V: P1]  (D/A/) | A G F E/ F/ | G F E (D/E/) | F3/ E/ F(3 (G/A/B/) | (A2 A)[|: A | B A (G/A/) B | A (G/F/) (E/F/) G | A3/ B/ A G | (F A E) D | (A E F) (B/G/) | (F2 E3/) D/ | (D2 D) :|]|] Z 
+w: A_ glo- rious an- gel from Hea- ven came Un-_ to the Vir- gin__ Maid_ Strange news and tid-_ ings of great_ joy_ The hum- ble Ma- ry had,__ the hum-__ ble_ Ma-_ ry had._
+[V: P2]  (D/[D/)A/)] | [DA] [(B,/(G/] [C/)G/)] [DF] [C/E/][D/F/] | [EG] [DF] [CE] (D/[C/)E/)] | [D3/F3/] [C/E/] [DF] [(3D/G/][D/(3A/][D/B/] | [(F(A] [EA] [D)A)][|: [CA] | [B,B] [DA] [(E/(G/][E/)A/)] [(G/(B/] [F/)B/)] | [EA] [(D/(G/][D/)F/)] [(C/(E/][C/)F/)] [DG] | [D3/A3/] [D/B/] [CA] [DG] | [DF] [DA] [CE] [B,D] | [A,A] [A,E] [DF] [(E/(B/][E/)G/)] | [(E(F] [DF] [D)E)] [C/E/] [C/D/] | [(A,2(D2] [A,)D)] :|]|] Z 
+[V: P3]  [D,F,] | [D,F,] [E,G,] [F,A,] [G,/A,/][F,/A,/] | [E,B,] [F,/A,/][G,/A,/] A,/[G,/A,/] [F,/A,/][E,/A,/] | [D,A,] [A,,A,] [D,A,] [G,,/B,/][G,,/G,/] | [D,F,] [E,G,] [F,A,][|: [F,A,] | G, [F,A,] [E,3/B,3/] [D,/B,/] | [C,A,] [D,A,] [A,,A,] [A,,/B,/][G,,/B,/] | [F,,A,] [G,,G,] [A,,E,] [B,,G,] | [D,A,] [F,,/A,/][G,,/A,/] [A,,/A,/][A,,/G,/] [B,,F,] | [C,E,] [C,A,] [D,A,] [G,,/G,/][G,,/B,/] | [A,,2A,2] [A,,A,] [A,,G,] | [(D,2(F,2] [D,)F,)] :|]|] Z 
+

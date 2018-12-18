@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Masters In This Hall
+Z: Traditional French
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  D A/ A G/ | (F3/ G3/) | A G/ F E/ | (F E/ D =C/) | D A/ A G/ | (F3/ G) G/ | A G/ F E/ | D3 |"^Refrain" f e/ d ^c/ | d3/ A3/ | f e/ d ^c/ | d3/ A =c/ | B G/ A E/ | (F D/) (F G/) | A A/ ^c c/ | d3|]
+w: Ma- sters in this hall_ Hear ye news to- day,___ Brought from o- ver seas_ And e- ver you I pray: Now- ell! Now- ell! Now- ell! Now- ell sing we clear Holp- en all are folk on earth_ Born_ is God's son so dear!
+

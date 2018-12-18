@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Madre Non Mi Far Monaca
+Z: Traditional Italian
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=65
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 60
+V: P3 name="Staff-2"
+%%MIDI program 3 57
+V: P4 name="Staff-3"
+%%MIDI program 4 58
+K: F
+[V: P1]  D2 G/ B/ A/ G/ | F3/4 E/4 D/ D/ E/ G/ G3/4 ^F/4 | G2z D | G/ B/ A/ G/ F3/4 E/4 D/ D/ | E/ G/ G3/4 ^F/4 G2 | d d/ c/ B B/ A/ | B/ c/ d/ d/ c A/ A/ | A/ B/ c/ d/ B A/ B/ | c/ B/ A/ B/ G2|]
+w: From fields be- yond Eu- phra tes and Far Tig- ris, Prin- ces quit Their La- res, their Pe- na tes, and To Pa- les ti na flit To seek an In- fant Who is the King of a- ges, Fore- told by seers and sa- ges, Of whom, too, Ba- laam writ.
+[V: P2]  D2 D/ G/ E/ E/ | D3/4 D/4 A,/ A,/ C/ D/ C3/4 A,/4 | (B, _E D) D | D/ G/ E/ E/ D3/4 D/4 A,/ A,/ | C/ D/ C3/4 A,/4 B,2 |z/ G/ F/ F/ D D/ F/ | D/ F/ F/ F/ F F/ F/ | F/ D/ F/ F/ D D/ D/ | C/ D/ D/ D/ D2|]
+[V: P3] z A, G,/ D/ C/ B,/ | A,3/4 G,/4 F,/ F,/ G,/ G,/ A,3/4 A,/4 | G,3 A, | G,/ D/ C/ B,/ A,3/4 G,/4 F,/ F,/ | G,/ G,/ A,3/4 A,/4 G,2 |z/ B,/ B,/ A,/ B, B,/ C/ | B,/ A,/ B,/ B,/ A, C/ D/ | C/ B,/ A,/ A,/ G, ^F,/ G,/ | G,/ G,/ G,/ ^F,/ G,2|]
+[V: P4] z D, B,,/ G,,/ C,/ C,/ | D,3/4 D,/4 D,/ D,/ C,/ B,,/ A,,/ D,/ | (G,, C, B,,) D, | B,,/ G,,/ C,/ C,/ D,3/4 D,/4 D,/ D,/ | C,/ B,,/ A,,/ D,/ G,,2 |z/ G,/ D,/ F,/ B,, B,,/ F,/ | G,/ F,/ B,/ B,,/ F, F,/ D,/ | F,/ G,/ F,/ D,/ G, D,/ G,/ | G,/ G,/ G,/ ^F,/ G,2|]
+

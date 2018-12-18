@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mit Freuden Zart, 87.87.887
+Z: Bohemian Brethren’s Kirchengesänge, 1566
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 3/2
+Q: 1/4=160
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Mit Freuden Zart"
+V: P2_2
+%%MIDI program 2 91
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  | | [Ed] [Ec] [E2B2] (c3/ B/) | [FA] [EG] [D2F2] (G A) | F2 E3 [B,2E2] | | [Ed] [Ec] [E2B2] (c3/ B/) | [FA] [EG] [D2F2] (G A) | F2 (E3 [G2)e2)] | | | E [DF] [E2G2] [B,2E2] | | [Ec] [EA] [D2F2] (G A) | F2 [B,2E2]|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | x4  =E2 | x4  E2 | (E D) E3 x2  | | x4  =E2 | x4  E2 | (E D) E3 x2  | | | E x5  | | x4  E2 | (E D) x2 |]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | [A,,B,] [C,A,] G,2 (G, C) | [F,C] B, [z(B,2] [(G,(B,] [F,)C)] | | | [A,,B,] [C,A,] A,2 (G, C) | [F,C] B, [z(B,2] [(G,(B,] [F,)C)] | | | | [G,B,] [F,A,] [E,2B,2] G,2 | [C,C] [F,C] [z(B,2] (E _D) | C2 [z(B,2] [A,B,] [(G,(B,] [F,)C)] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | x2  E, _D, C,2 | x1  (G,/A,/) x2  A, x2  | | | x2  (E, _D,) C,2 | x1  (G,/A,/) x2  A, x2  | | | | x4  (E, D,) | x4  A, G,2 | (A, G,) x5  ||]
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Merry, Merry Christmas Time
+Z: F. W. Peace
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  c E B E | A E E2 | G/ A/ G/ A/ G c | B4 | d B c A | B F F2 | A/ B/ A/ B/ A B | E4 | D/ E/ ^F/ G/ A D | B G D2 | D/ E/ ^F/ G/ A D | B d d2 | G/ A/ B/ c/ d G | c e e2 | d/ c/ B/ A/ E ^F | G4 |"^Refrain" c E B E | A E E2 | G/ A/ G/ A/ G c | B4 |!>! G!>! ^G!>! A!>! ^A |!>! B!>! c!>! d2 | F/ A/ G/ A/ G d | c4|]
+w: Waft the ti- dings far and near, Mer- ry, mer- ry Christ- mas time; Ring it out with right good cheer, Mer- ry, mer- ry Christ- mas time. Mer- ri ly we wel- come Christ- mas day, Cher- ri ly we sing our Christ- mas lay, List the mer- ry strains from far a- way Mer- ry, mer- ry Christ- mas time. Waft the tid- ings far and near, Mer- ry, mer- ry Christ- mas time. Right it out with right good cheer, Mer- ry, mer- ry Christ- mas time.
+[V: P2]  [CE] [CE] [CE] [CE] | [CE] [CE] [C2E2] | E E E E | F F F F | F F E E | F D D2 | F F F [DF] | C4 | C C C C | [B,D] [B,D] B, D | C C C C | [B,D] [DG] [DG] [DG] | F F F F | E [EG] [EG] [EG] | [DG] D C C | [B,4D4] | [CE] [CE] [CE] [CE] | [CE] [CE] [C2E2] | E E E E | [B,F] [B,F] [B,F] [B,F] | z4 | z4 | F F F F | E F E2|]
+[V: P3]  G, G, G, G, | G, G, G, G, | G, G, G, G, | G, G, G, G, | B, D C C | D B, B, B, | C/D/C/D/ Cz | G,2z2 | ^F,/G,/A,/G,/ F, F, | G, G, G, G, | ^F,/G,/A,/G,/ F, F, | G, B, B, B, | B,/C/D/C/ B, B, | C C _B, B, | =B,/A,/G,/^F,/ G, A, | G,zz2 | G, G, G, G, | G, G, G, G, | G, G, G, G, | G, G, G, G, | G,,/G,/^G,,/^G,/ A,,/A,/^A,,/^A,/ | B,,/B,/C,/C/ D,/D/D,/D/ | B,/C/B,/C/ B, B, | C B, A,2|]
+[V: P4]  C, G,, C, G,, | C, G,, C, G,, | C, G,, C, G,, | D, G,, D, G,, | G, G, G, G, | G, G, G, D, | G, G, G, G, | C, B,, A,, G,, | D, D, D, D, | G,, G,, G,, B,, | D, D, D, D, | G,, G, G, G, | G, G, G, G, | C, C, ^C, C, | D, D, D, D, | G,,/A,,/B,,/C,/ D,/E,/=F,/G,/ | C, G,, C, G,, | C, G,, C, G,, | C, G,, C, G,, | D, G,, D, G,, | z4 | z4 | G, G, G, G, | C,4|]
+

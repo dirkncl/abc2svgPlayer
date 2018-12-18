@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mortals, Awake! With Angels Join
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=60
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: E
+[V: P1]  (E/ E/) G/ B/ | G/ E/ c/ ^d/ | e/ B/4B/4 B/ [B/g/] | f/ f/4f/4 f/f/ | g/ (e/4e/4) e/ e/ | d/ c/ B/ ^A/ | B2 | (e/ e/) B/ G/ | (A/4G/4A/4B/4 c/) B/ | (c/4B/4c/4d/4 e/) e/ | d3/z/ |zz/ F/ | G/ B/ B/ G/ | (A/4G/4A/4B/4 c/) B/ | (c/4B/4c/4d/4 e/4c/4) (B/4 A/4) | G F | E2|]
+[V: P2]  (E/ E/) E/ F/ | E/ E/ E/ A/ | G/ G/4G/4 G/ G/ | B/ F/4F/4 B/F/ | G/B/ G/ G/ | F/ G/ F/ E/ | D2 | (E/ E/) E/ E/ | E3/ E/ | E E/ G/ | F3/z/ |zz/ D/ | E/ G/ D/ E/ | E3/ E/ | E3/ E/ | E D | B,2|]
+[V: P3]  (G,/ G,/) B,/ B,/ | B,/ B,/ A,/ A,/ | B,3/ E/ | D/ D/4D/4 D/D/ | [B,/E/] G,/ B,/ ^A,/ | B,/ E/ D/ C/ | B,2 | (G,/ G,/) G,/ B,/ | (C3/4B,/4) A,/ G,/ | (A, B,/) B,/ | B,3/ (B,/4A,/4) | G,/ G,/ F,/ F,/ | E,z |zz/ B,/ | (A, B,/) C/ | B,3/ A,/ | G,2|]
+[V: P4]  (E,/ E,/) E,/ D,/ | E,/ G,/ (A,/4G,/4) F,/ | E,3/ E,/ | B,,/ B,/4B,/4 B,/B,/ | E,3/ C,/ | D,/ E,/ F,/ F,/ | B,,2 | (E,/ E,/) E,/ E,/ | A,3/ E,/ | (A, G,/) E,/ | B,,3/ B,,/ | E,/ E,/ B,,/ B,,/ | E,z/ E,/ | C/ B,/ A,/ G,/ | A,/ F,/ G,/ A,/ | B, B,, | E,2|]
+

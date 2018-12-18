@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Macht hoch die Tur
+Z: "Praxis Pietatis Melica," Berlin, 1661
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A2 c B | A2 G2 | A B c2 |z2 A2 | B c d2 | B2 c c | B3 c | d2 c2 | B A G G | F3 c | d2 c2 | B A G G | F2 G2 | G2 A2 | F E F G | A2 =c2 | B2 A2 | G B A G | F4 | [M: 3/4]  c d c | B2 A | G3 | A B A | G2 G | F3|]
+w: Lift up your heads, ye might- y gates! Be- hold, the King of Glo- ry waits; The King of kings is draw- ing near, The Sav- ior of the world is here. Life and sal- va tion He doth bring, Where- fore re- joice and glad- ly sing: We praise Thee, Fa- ther, now, Cre- a tor, wise art Thou!
+[V: P2]  F2 F F | F2 E2 | C F E2 |z2 F2 | D F F2 | G2 _E F | D3 F | F2 F2 | D F F E | D3 F | F2 E2 | F F F E | C2 E2 | E2 E2 | D E D D | E2 F2 | F2 F2 | E D F E | F4 | [M: 3/4]  F F F | F2 F | E3 | F D F | F2 E | C3|]
+[V: P3]  C2 A, D | C2 C2 | A, F, G,2 |z2 F,2 | G, A, B,2 | B,2 B, A, | F,3 A, | B,2 A,2 | B, D D C | A,3 A, | B,2 G,2 | B, C C C | A,2 C2 | C2 C2 | A, A, A, D | ^C2 =C2 | D2 C2 | C B, C C | A,4 | [M: 3/4]  A, B, C | D2 C | C3 | C B, C | D2 C | A,3|]
+[V: P4]  F,2 F, B,, | F,2 C,2 | F, D, C,2 |z2 D,2 | G, F, B,,2 | _E,2 C, F, | B,,3 F, | B,,2 F,2 | G, D, B,, C, | F,3 F, | B,,2 C,2 | D, F, C, C, | F,,2 C,2 | C,2 A,,2 | D, ^C, D, B,, | A,,2 A,,2 | B,,2 F,,2 | C, G,, A,, C, | A,,4 | [M: 3/4]  F, B,, A,, | B,,2 F, | C,3 | F,, G,, A,, | B,,2 C, | F,,3|]
+

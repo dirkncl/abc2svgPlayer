@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Merry Christmas Bells Are Ringing
+Z: H. Kotzschmar
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=50
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A/ A/ (A/4d/4) c/ | A/ A/ (c/4B/4) G/ | (E/4G/4) (G/4B/4) A/ (A/4c/4) | c3/z/ | A/ A/ (A/4d/4) c/ | A/ A/ (c/4B/4) G/ | F/ (F/4^F/4) (G/4B/4) (A/4G/4) | F3/z/ | (c/4d/4e/4) A/4 f/ c/ | (B/4d/4) (c/4B/4) A | G/ A/ (c/4B/4A/4) G/4 | F/ E/ F|]
+w: Mer- ry Christ-_ mas bells are ring-_ ing, Ring-_ ing_ far and_ near, An- gel voi-_ ces sweet- ly sing-_ ing, Sing- ing_ soft_ and_ clear; "Glo-__ ry! for the Lord_ is_ come, Je- sus makes__ the earth His home."
+

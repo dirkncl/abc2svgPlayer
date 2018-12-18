@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Margaret
+Z: Timothy R. Matthews
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D/ E/ | F F G F/E/ | D E F F/=G/ | A A/A/ G D | E3 E/E/ | F F/F/ ^G G/ G/ | A A B B/B/ | c A/A/ B3/ c/ | A3 A |"^Refrain" A F/G/ A d | d2 c B/B/ | A D/E/ F E | D3|]
+w: Thou didst leave Thy throne And Thy king- ly crown When Thou cam- est to earth for me; But in Beth- le hem's home Was there found no room For Thy ho- ly na- tiv i ty: O come to my heart, Lord Je- sus, There is room in my heart for thee.
+

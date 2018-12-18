@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Hymn for Conquering Martyrs Raise
+Z: "Mundanis Vanitatibus." Piae Cantiones, 1582
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  D | E3 E | B3 B | A3 G | F3 F | G2 E2 | (F G A) A | E3 D | E3 D | E3 E | B3 B | A3 G | F3 F | G2 E2 | (F G A) A | E3 D | E3 E | B2 c2 | (d2 e) e | d3 c | B3 B | e2 c2 | d2 B2 | A3 G | F3 E | G2 A2 | (B2 c) c | B3 G | F3 F | G2 E2 | (F G A) A | E3 D | E3|]
+[V: P2]  D | E3 E | ^D3 E | E3 D | ^D3 D | E2 C2 | D3 C | (B, =C B,) B, | B,3 D | E3 E | ^D3 E | E3 D | ^D3 D | E2 C2 | D3 C | (B, =C B,) B, | B,3 E | F2 F2 | (F2 E) G | F3 F | D3 F | E2 A2 | F2 G2 | F3 E | ^D3 E | E2 F2 | (D2 F) F | F3 E | ^D3 D | E2 C2 | D3 C | (B, =C B,) B, | B,3|]
+[V: P3]  D, | E,3 A, | F,3 B, | =C3 B, | B,3 B, | B,2 A,2 | (A, G, F,) E, | (G, A, E,) F, | E,3 D, | E,3 A, | F,3 B, | =C3 B, | B,3 B, | B,2 A,2 | (A, G, F,) E, | (G, A, E,) F, | E,3 G, | B,2 ^A,2 | B,3 B, | B,3 ^A, | B,3 D | B,2 E2 | D2 D2 | D3 B, | B,3 B, | B,2 (D C) | (B,2 ^A,) C | D3 B, | B,3 B, | B,2 A,2 | (A, G, F,) E, | (G, A, E,) F, | E,3|]
+[V: P4]  D, | E,3 =C, | B,,3 G,, | A,,3 E, | B,,3 B,, | E,2 A,2 | D,3 A,, | (E, A,, G,,) B,, | E,3 D, | E,3 =C, | B,,3 G,, | A,,3 E, | B,,3 B,, | E,2 A,2 | D,3 A,, | (E, A,, G,,) B,, | E,3 E, | D,2 F,2 | (B,2 G,) E, | B,3 F, | B,,3 B, | G,2 A,2 | B,2 G,2 | D,3 E, | B,,3 E, | E,2 (D, F,) | (G,2 F,) A, | B,3 E, | B,,3 B, | E,2 A,2 | D,3 A,, | (E, A,, G,,) B,, | E,,3|]
+

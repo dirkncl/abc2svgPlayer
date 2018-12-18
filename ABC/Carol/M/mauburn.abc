@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mauburn
+Z: Thomas Tertius Noble, 1918
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2_1 name="Unnamed-001"
+V: P2_2
+%%MIDI program 2 -1
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  (G- G A B2 [DA] | G2 F G3 | E2 F G2 A G3 G3 | (A2 B c2 B | A2 G A3 | F2 G A2 B | G3 G3 | (B2 c B2 G | B2 c B3 | B2 _d c2 B | A2 G F3) | (F- F B c2 F | B6 | G- G A B2 A | G2 F G3) | (E2 F G2 A | G2 G G3 | e2 c c2 A ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  F E F E x1  | E D C E3 | D E2 E E3 D3) | F2 F A G F | F2 E F3 | D2 E F2 F | F3 E3) | E2 E E F E | D2 E E3 | E2 F E2 =D | E2 E D3 | E D F2 | D E F A G F | F E F E D | E D C E3 | D E2 E | E2 F E3 | E2 E E2 E ||]|] Z 
+% Extracting voice 1 from part P2
+[V: P2_1]  (E D C D C B, | C B, A, B,3 | C B, A, B,2 C B,3 =B,3) | C2 E, [D,D] E2 D | C2 C C3 | B,- B, B, C2 B, | B,3 B,3 | G,2 A, G, A, B, | G, G,3 | G,2 A, A,2 F, | C2 B, B,3) | (D C B, =A, G, A, | B, C D F E D | B, D C D C B, | C B, A, B,3 | C B, A, B,2 C | B,2 =B, C3 | C2 A, A,2 C ||]|] Z 
+% Extracting voice 2 from part P2
+[V: P2_2]  E,2 E, E,2 E, | E,2 E, E, F, G, | A, G, F, E, D, C, E,2 F, G,3 | (F, x1  C,2 D, | F,2 C, F, G, A, | A, G, F, E, D, | E,3 E,3) | (E, D, C, E,2 E, | G,2 C, E,3 | E,2 _D, A,,2 B,, | C,2 E, B,,3 | F,2 F, F,2 F, | B,,6 | E,2 E, E,2 E, | E,2 E, E, F, G,) | (A, G, F, E, D, C, | E,2 D, C,2 _B,, | A,,2 A,, A,,2 A,, ||]|] Z 
+

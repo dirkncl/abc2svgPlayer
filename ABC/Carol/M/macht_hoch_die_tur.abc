@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Macht Hoch die Tur
+Z: Johann A. Freylinghausen, 1704
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Unnamed-001"
+%%MIDI program 2 91
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 91
+K: F
+[V: P1]  [FA] [F2c2] | [FB] [F2A2] | [EG] [DF] [EG] | [FA] [E2G2] | [Ec] [F2B2] | [GB] [F2A2] | [FA] [EG] [DF] | [EG] [C2F2] | [FA] [E2G2] | [CG] [FA] =B | [Gc] [Ec] [Fd] | [D=B] [E2c2] | [EG] [F2A2] | [CG] [FA] =B | [Gc] [Ec] [Fd] | [D=B] [E2c2] | [Fc] [F2d2] | [Fc] [F2d2] | [Fc] [Dd] c | [EB] [F2A2] | [Fc] [F2d2] | [Fc] [F2d2] | [Fc] [Dd] c | [EB] [F2A2] | [Fc] [D2F2] | F [G2B2] | [FA] [E2-G2-] | [EG]z2 | [Ec] [DB] C | [FA] [EG] [DF] | [EG] [C2-F2-] | [C2F2]z|]
+[V: P2]  [F,C] [F,2A,2] | D [F,2C2] | C [D,A,] [G,B,] | [F,C] C2 | G, [D,2D2] | [E,C] [F,2C2] | C C2 | G, A,2 | [F,C] C2 | [E,G,] [F,C] [D,D] | [E,C] [A,C] [F,A,] | G, G,2 | C [F,2C2] | [E,G,] [F,C] [D,D] | [E,C] [A,C] [F,A,] | G, G,2 | [F,A,] [D,2A,2] | [F,A,] B,2 | [A,C] [G,2B,2] | C [F,2C2] | [F,A,] [D,2A,2] | [F,A,] B,2 | [A,C] [G,2B,2] | C C2 | C B,2 | C D2 | C C2- | Cz2 | G, [D,F,] [E,G,] | [F,C] C2 | G, A,2- | A,2z|]
+[V: P3] z3 | B,,z2 | C,z2 |z C,2 | C,z2 |z3 | A,, C,2 | C, F,,2 |z C,2 |z3 |z3 |z C,2 | C,z2 |z3 |z3 |z C,2 |z3 |z3 |z3 | C,z2 |z3 |z3 |z3 | C, F,,2 | A,, B,,2 | A,, G,,2 | A,, C,2- | C,z2 | C,z2 |z C,2 | C, F,,2- | F,,2z|]
+

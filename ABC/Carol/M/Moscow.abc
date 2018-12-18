@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Moscow
+Z: Felice de Giardini, 1769
+Z: Public  domain
+Z: RJL
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-000-2"
+%%MIDI program 2 19
+V: P3 name="Unnamed-001"
+%%MIDI program 3 19
+K: G
+[V: P1]  [Dd] [B,B] [B,G] | [E2A2] [DF] | [D3G3] | [DG] [FA] [GB] | [G2c2] [GB] | [F3A3] | d [DB] [DG] | D2z | [FA] [GB] [Ac] | [D3/G3/B3/] [C/F/A/] [B,G] | [A,EA] [EB] [A,Ec] | [^D3/B3/] [B,/F/A/] [B,EG] | G [FG] [EG] | [D3/d3/] [A,/F/c/] [B,GB] | [CEA] [B,DG] [A,DF] | [B,3D3G3]|]
+[V: P2] z3 |z3 |z3 |z3 | E,2z |z3 | [D,F,] [G,,G,] B,, | G, F,2 |z3 | G,3/ D,/ G, | C, [B,,^G,] A,, | [B,,3/F,3/] ^D,/ E, | [E,G,] [D,G,] [C,G,] | [B,,3/G,3/] A,,/ G,, | C, D, D, | G,3|]
+[V: P3]  [G,B,] [G,D] [B,,D] | [C,2A,2] [D,A,] | [G,,3B,3] | [G,B,] [F,D] [G,D] | [E,2C2] [G,D] | [D,3D3] | Dz G, | D,3 | [D,D] [G,D] [F,D] |z3 |z3 |z3 |z3 |z3 |z3 |z3|]
+

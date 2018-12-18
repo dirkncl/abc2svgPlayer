@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mundanis vanitatibus
+Z: From Piae Cantiones, 1582
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=175
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D | E3 E | B3 B | A3 G | F3 F | G2 E2 | (F G A) A | E3 D | E3 D | E3 E | B3 B | A3 G | F3 F | G2 E2 | (F G A) A | E3 D | E3 E | B2 c2 | (d2 e) e | d3 c | B3 B | e2 c2 | d2 B2 | A3 G | F3 E | G2 A2 | (B2 c) c | B3 G | F3 F | G2 E2 | (F G A) A | E3 D | E3|]
+w: The Hymn for con- qu'ring Mar- tyrs raise: The Vic- tor In-__ no cents we praise: Whom in their woe earth cast a- way, But heav'n with joy__ re- ceiv'd to- day. Whose An- gels see_ the Fa- ther's face, World with- out end, and hymn his grace: And while they chant_ un- ceas ing lays, The Hymn for con-__ qu'ring Mar- tyrs raise.
+

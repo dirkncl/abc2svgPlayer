@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mary's Question
+Z: English traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: D
+[V: P1]  D/ | F A/ B c/ | (d A/) F A/ | B d/ c B/ | (A3/ A) (B/4c/4) | d c/ (B/ c/) d/ | A F/ D E/ | (F/ E/) D/ A F/ | (D3/ D)|]
+w: Then Ma- ry took her young_ Son And set Him on her knee:_ 'I_ pray Thee now_ my dear- est Child Tell how_ this world shall be!_
+[V: P2]  A,/ | D D/ D E/ | (F E/) D D/ | D D/ G G/ | (G3/ G) (D/4E/4) | D D/ (D/ E/) F/ | E C/ D D/ | D D/ (C/ B,/) C/ | (D B,/ A,)|]
+[V: P3]  F,/ | A, A,/ G, G,/ | A,3/ A, F,/ | G, F,/ G, B,/ | (E3/4C/4A,/ D) (B,/4A,/4) | A, A,/ G, A,/ | (A, A,/) F, B,/ | A, F,/ G, A,/ | (F, G,/ F,)|]
+[V: P4]  D,/ | (D,3/4E,/4) F,/ (G,3/4F,/4) E,/ | (D, C,/) D, D,/ | G,, B,,/ E, D,/ | (C,3/ D,) G,/ | F, F,/ G, D,/ | C, A,,/ B,, G,,/ | A,, B,,/ A,, A,,/ | (B,,3/4A,,/4G,,/ D,)|]
+

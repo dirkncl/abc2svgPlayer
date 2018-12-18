@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Melcombe
+Z: Samuel Webbe, 1782
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: Eb
+[V: P1]  [EB] [EB] [FA] [EG] | [DF] E [Ec] [FB] | [EB] [Fe] [Fd] [Ec] | [DB] [GB] [F/=A/]E/ [DB] | [EG] [EG] [DA] [EB] | [EG] [DF] [=EG] [FA] | [FA] [EG] [DF] [EB] | [EA] [EG] [DF] E- | E3z|]
+[V: P2]  [E,G,] [G,B,] [D,B,] [E,B,] | [B,,A,] [C,G,] [A,,A,] [D,F,] | [E,G,] [C,=A,] [B,,B,] [F,A,] | [G,B,] [E,C] [F,C] [B,,B,] | [E,B,] [E,B,] [F,B,] [G,B,] | [E,B,] B, [G,B,] [F,C] | [D,B,] [E,B,] [B,,/B,/]A,,/ [G,,B,] | [A,,C] [B,,B,] B,,/A,/ [E,-G,-] | [E,3G,3]z|]
+

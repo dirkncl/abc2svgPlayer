@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mountains Bow Your Heads Majestic
+Z: W. H. Cummings
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  E c B3/ A/ | G G F F | F F B B | ^c ^A B2 | B ^d e =d | (d/c/) (B/c/) B A | d (B/G/) E c | (B/A/) (G/A/) G2 |"^Chorus" G G A G | G G A G | c c B B | d d d2 | e e e d | c c c B | (e ^d/e/ f) e | (e d) (c B) | (c d/c/ B) A | G4|]
+w: Moun- tains, bow your heads ma- jes tic, Low- ly vales a- rise and sing; See ap- proach the Prince_ ce-_ les tial! Earth re-_ ceive thy Heaven-_ ly_ King. Crown'd with grace and un- der stand ing, Branch Di- vine of Jes- se's stem; God of know- ledge, wis- dom, po- wer, Heaven's___ most glo-_ rious_ di-___ a dem.
+

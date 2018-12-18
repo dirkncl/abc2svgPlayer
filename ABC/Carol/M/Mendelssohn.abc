@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mendelssohn
+Z: Adapted from Chorus by F. Mendelssohn-Bartholdy
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  D G | G3/ F/ G B | (B A) d d | d3/ c/ B A | B2 D G | G3/ F/ G B | (B A) d A | A3/ F/ F E | D2 d d | d G c B | (B A) d d | d G c B | (B A) e e | e d c B | c2 A B/ c/ | d3/ G/ G A | B2 e3/ e/ | e d c B | c2 A (B/c/) | d3/ G/ G A | G2|]
+w: Hark! The Her- ald An- gels sing,_ "Glo- ry to the new- born King; Peace on earth, and mer- cy mild,_ God and sin- ners re- con ciled!" Joy- ful, all ye na- tions, rise._ Join the tri- umph of the skies._ With th' An- gel ic Hosts pro- claim, "Christ is born in Beth- le hem!" Hark! the her- ald an- gels sing, "Glo- ry_ to the new- born King."
+[V: P2]  D D | D3/ D/ D G | (G F) G F | E A G F | G2 D D | D3/ C/ B, G | G2 F E | F3/ D/ D ^C | D2 D D | D G A G | (G F) D D | D G A G | (G F) c c | c B A ^G | A2 F F | G3/ D/ D F | G2 c3/ c/ | c B A ^G | A2 D [DF] | [D3/G3/] [B,/D/] [DG] [DF] | D2|]
+[V: P3]  B, B, | B,3/ A,/ G, D | D2 D D | E E D D | D2 B, B, | B,3/ A,/ G, D | E2 D E | A,3/ A,/ B, G, | F,2 D D | D D D D | D2 D D | D D D D | D2 E E | E =F E D | C2 D D | D3/ B,/ B, D | D2 E3/ E/ | E D C B, | C2 Dz |zz B, C | B,2|]
+[V: P4]  G, G, | G,3/ D,/ B,, G,, | D,2 B,, B,, | C, C, D, D, | G,,2 G, G, | G,3/ D,/ E, D, | (^C,3/ A,,/) B,, C, | D, F,, G,, A,, | D,2 D D | D B, F, G, | D,2 D D | D B, F, G, | D,2 C, C, | C, D, E, E, | A,2 D C | B,3/ A,/ D, D, | G,2 C3/ C/ | C B, A, ^G, | A,2 F, C | B, G, D, D, | G,2|]
+

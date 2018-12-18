@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: March of the Three Kings
+Z: French Lyrics with Provencal Melody
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: C
+[V: P1]  A E | (A A3/4)B/4 c3/4B/4 c3/4A/4 | e3/z/4 c/4 d e | f/e/d/c/ B e | d/c/B/c/ A E | (A A3/4)B/4 c3/4B/4 c3/4A/4 | e3/z/4 c/4 d e | f/e/d/c/ c B | A3/z/4 B/4 B B | c B A B c | d3/z/4 B/4 d e | A B/c/ d/c/B/A/ | A/^G/ E/z/4 B/4 B B | c B/A/ B c | (d c3/4) B/4 d e | f e d c c B | A2|]
+w: On the march_ we saw three mon- archs proud, The fa- bled wise men with their trap- pings gay and bril- liant; March- ing on_ the road to Beth- le hem, They bore rich gifts to greet the Ho- ly Child. The din of drums at the dawn's first beam Pro- claimed the pow'r of the sag- es from the east- ern land, The blare of trumps and the sound of fifes,_ An- nounced their com- ing in the cool gray dawn.
+

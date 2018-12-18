@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Missionary Hymn
+Z: Lowell Mason, 1823
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Missionary Hymn"
+%%MIDI program 2 19
+V: P3 name="Missionary Hymn-2"
+%%MIDI program 3 19
+K: C
+[V: P1]  [G,C] [CE] [CG] [CG] | [CA] [C2G2] [CE] | [G,C] [G,B,] [G,C] [B,F] | [CE] [C2E2] [B,D] | [G,C] [CE] [CG] [CG] | [CA] [C2G2] [CE] | D [CE] [EA] [DG] | [C^F] [B,3G3] | [CG] [Ec] [CG] [B,F] | [CE] [C2A2] [CG] | [FB] [Ec] [CG] [C/G/]F/ | [CE] [C2E2] [B,D] | [G,C] [CE] [CG] [CG] | [CA] [C2G2] [CE] | [G,C] [A,D] [DF] [CE] | [B,D] C3- | Cz3|]
+[V: P2]  [C,E,] [C,G,] [C,E,] [C,E,] | [C,F,] [C,2E,2] C, | [E,G,] [F,G,] [E,G,] [D,G,] | [C,G,] G,3 | [C,E,] [C,G,] [C,E,] [C,E,] | [C,F,] [C,2E,2] [C,G,] | [B,,G,] [C,G,] C [D,B,] | A, G,3 | [C,E,] [C,G,] E, [D,G,] | [C,G,] F,2 [E,G,] | [D,G,] [C,G,] [C,E,] [B,,G,] | [C,G,] G,3 | [C,E,] [C,G,] [C,E,] [C,E,] | [C,F,] [C,2E,2] [C,G,] | [E,G,] F, [D,A,] G, | F, [C,3-E,3-] | [C,E,]z3|]
+[V: P3]  z4 | z4 | z4 |z G,,3 | z4 | z4 |z2 A,,z | D,, G,,3 | z4 | z4 | z4 |z A,,3 | z4 | z4 | z4 | G,,z3 | z4|]
+

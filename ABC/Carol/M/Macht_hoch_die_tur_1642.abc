@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Macht hoch die Tur
+Z: Johann Stobaus, 1642
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A c B | A2 G | A2 =B | c3 | A B c | d2 B | c2 c | B2 c | d2 c | B2 A | G2 G | F2 c | d2 c | B2 A | G2 G | F3 | G G A | F2 E | F2 G | A2 c | B2 A | G2 B | A G2 | F3 | c d c | B2 A | G3 | A B A | G2 G | F3|]
+w: Lift up your heads, ye might- y gates! Be- hold, the King of Glo- ry waits; The King of kings is draw- ing near, The Sa- vior of the world is here. Life and sal- va tion He doth bring, Where- fore re- joice and glad- ly sing: We praise Thee, Fa- ther, now, Cre- a tor, wise art Thou!
+[V: P2]  F A F | F2 E | F2 F | G3 | F F F | F2 G | _E2 F | D2 F | F2 F | F2 F | F2 E | F2 E | F2 F | F2 F | F2 F | F3 | E E E | D2 E | D2 D | E2 F | F2 F | E2 G | F (F E) | F3 | F F F | F2 F | E3 | F G F | F2 E | C3|]
+[V: P3]  C C D | C2 C | C2 D | E3 | C D A, | B,2 B, | B,2 A, | B,2 A, | B,2 A, | B,2 C | D2 C | A,2 A, | B,2 A, | B,2 C | D2 C | A,3 | C C C | A,2 A, | A,2 B, | ^C2 =C | D2 C | C2 D | C C2 | A,3 | A, B, C | D2 C | C3 | C C C | D2 C | A,3|]
+[V: P4]  F, F, B,, | F,2 C, | F,2 D, | C,3 | F, D, C, | B,,2 _E, | C,2 F, | B,,2 F, | B,,2 C, | D,2 C, | B,,2 C, | F,2 F, | B,,2 C, | D,2 C, | B,,2 C, | F,3 | C, C, A,, | D,2 ^C, | D,2 B, | A,2 A,, | B,,2 F, | C,2 B,, | C, C,2 | F,3 | G, B,, A,, | B,,2 F, | C,3 | F, E, F, | B,,2 C, | F,3|]
+

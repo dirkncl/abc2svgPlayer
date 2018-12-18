@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Morning Song, 86.86.86
+Z: Kentucky Harmony, 1816 (harm. by C. W. Douglas)
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Morning Song, 86.86.86"
+V: P2_2
+%%MIDI program 2 91
+K: Ab
+% Extracting voice 1 from part P1
+[V: P1_1]  C | [CF] G [CA] B/A/ | [EG] F/E/ C C | [DF] [EG] [EA] B | [A3c3] A/B/ | [Ec] d/c/ [GB] [EA] | [DG] F/E/ C C | F [EG] A/F/ [EG] | [C3F3] A/B/ | [Ec] d/c/ [GB] [FA] | [EG] F/E/ C C | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  C | x1  E/D/ x1  F | x1  C C C | x3  F/G/ | x3  E | x1  F x2  | x1  D C C | D/C/ x1  D x1  | x3  F | x1  F x2  | x1  C C C | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | [F,A,] [E,B,] A, D/C/ | [E,B,] A, [G,B,] A, | | | A, [D,A,] [E,G,] [C,A,] | [B,,B,] F,/G,/ [A,,A,] A, | A, B, [B,,B,] [E,B,] | | [C,G,] [B,,A,] [E,G,] D/C/ | [G,B,] A, [E,G,] G, | [A,,A,] [C,G,] F,/A,/ [E,B,] | B,2 A,|]
+% Extracting voice 2 from part P2
+[V: P2_2]  | x2  A, D, | x1  A, x1  F,/E,/ | | | A, x3  | x1  B,, x1  A,/G,/ | F,/E,/ D,/C,/ x2  | | x3  F, | x1  A, x1  C,/B,,/ | x2  F, x1  | F,3|]
+

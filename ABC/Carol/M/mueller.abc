@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Mueller
+Z: James Ramsey Murray (1841-1905)
+Z: Public  domain
+L: 1/4
+M: none
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2 name="Unnamed-001"
+%%MIDI program 2 -1
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | C3/ [B,/D/] C | C [B,G] [B,E] | | | | | | | | | ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | B,3/ B, | B, x2  | | | | | | | | | ||]|] Z 
+[V: P2]  [M: 4/4]  [(F,(A,] | [F,3/A,3/] [F,/D/] [F,C] | [F,C] [F,B,] [F,A,] | [B,,B,] [B,,F,] [B,,F,] | [F,,2F,2] [F,,F,] | [C,3/E,3/] [C,/E,/] [C,E,] | [C,E,] [C,E,] [C,G,] | F, F, [F,A,] | [F,2)C2)] [(F,(A,] | [F,3/A,3/] [F,/D/] [F,C] | [F,C] [F,B,] [F,A,] | [B,,B,] [B,,F,] [B,,F,] | [F,,2F,2] [A,,F,] | [C,3/G,3/] [C,/C/] [C,C] | [F,C] [F,B,] [F,A,] | [B,,G,] [G,,G,] [C,B,] | [F,4)A,4)]|]|] Z 
+

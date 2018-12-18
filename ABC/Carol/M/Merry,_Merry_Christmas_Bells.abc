@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Merry, Merry Christmas Bells
+Z: Author Unknown
+Z: Music by George Edgar Oliver, before 1904
+Z: Public Domain, Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="Christmas Bells"
+%%MIDI program 2 91
+K: A
+% Extracting voice 1 from part P1
+[V: P1_1] "^Prelude" | (B3/ c/) A e | (B3/ c/) A [Af] | | A2!ff! [A2e2a2]||:!f! | | | | | | | [^D2F2] E2!ff!||"^Refrain" | [Ac] [EA] (G F) | | B2 A2 :|||] Z 
+w:  _  _ _  __ _ _  ___ 1. Mer-_ ry,_ mer-_ ry_ chim-_ ing_ bells,_ Clear_ and_ sweet_ their_ car-_ ol_ swells,_ Joy-_ ful_ news_ their_ mu-_ sic_ tells,_ Glo-_ ry_ in_ the_ high-_ est:_ Glo-_ ry_ be_ to_ God_ on_ high,__ Glo-_ ry_ in_ the_ high- est.___
+% Extracting voice 2 from part P1
+[V: P1_2] "^Prelude" | E3 | E3 x1  | |!ff! A2 x2 ||:!f! | | | | | | |!ff! x2  E2||"^Refrain" | x2  ^B,2 | | (A G) A2 :|||] Z 
+w:  _  _ _  __ _ _  ___ 1. Mer-_ ry,_ mer-_ ry_ chim-_ ing_ bells,_ Clear_ and_ sweet_ their_ car-_ ol_ swells,_ Joy-_ ful_ news_ their_ mu-_ sic_ tells,_ Glo-_ ry_ in_ the_ high-_ est:_ Glo-_ ry_ be_ to_ God_ on_ high,__ Glo-_ ry_ in_ the_ high- est.___
+[V: P2] z | [G,2D2] [A,C]z | [G,2D2] [A,C] [^D,^B,] | [E,2C2] [E,2D2] | [A,2C2]!ff! [A,,2E,2C2]||:!f! [A,,3/E,3/] [A,,/E,/] [A,,^D,] [A,,D,] | [A,,E,] [A,,E,] [A,,2E,2] | [A,,3/E,3/G,3/] [A,,/E,/G,/] [A,,E,G,] [A,,E,G,] | [A,,E,] [A,,E,] [A,,2E,2] | [^A,,3/=G,3/] [A,,/G,/] [A,,G,] [A,,G,] | [B,,^G,] [B,,B,] [B,,2G,2] | [B,,G,] [B,,G,] [B,,C] [B,,B,] | [B,,2A,2] [E,2G,2]!ff!|| [E,3/B,3/] [E,/B,/] [E,C] [E,^D] | [E,E] [E,C] [^D,2A,2] | [E,A,] [E,C] [E,F] [E,E] | [E,2D2] [A,2C2] :|||] Z 
+
