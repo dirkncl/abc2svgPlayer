@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Eagley
+Z: James Walch, 1860
+Z: Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Eagley"
+%%MIDI program 2 91
+K: Bb
+[V: P1]  [DF] [EG] [CA] | [DB] [Ec] [Fd] | [F2d2] [Ec] | [D3B3] | [EG] [EG] [GB] | [G2e2] [EG] | [D3F3] | [CF] [CG] [FA] | [FB] c [Fd] | [Fd] =E [_Ec] | [D3B3] | [EG] [Ge] [EG] | [DF] [FB] [EA] | [D3-B3-] | [DB]z2|]
+[V: P2]  [B,,B,] [B,,B,] [B,,B,] | [B,,2B,2] [B,,B,] | F, G, [F,A,] | [B,,3B,3] | [E,B,] [E,B,] [E,B,] | [E,2B,2] [E,B,] | [B,,3B,3] | [F,A,] [=E,B,] [_E,C] | [D,B,] [C,A,] [B,,B,] | [F,B,] G, [_G,A,] | [G,3B,3] | [E,B,] [C,C] [E,C] | [F,2D2] [F,C] | [B,,3-B,3-] | [B,,B,]z2|]
+
