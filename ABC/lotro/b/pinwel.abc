@@ -1,0 +1,192 @@
+X:1
+T:Welcome to the Machine
+C:Pink Floyd
+T:Asphyx of Brandywine
+I:Lute
+Q:4/4=250
+M:4/4
+L:1/8
+K:C
+_E,2 E,2 _E,2 E,2 |
+_E,2 E,2 _E,2 E,2 |
+_E,2 E,2 _E,2 E,2 |
+_E,2 E,2 _E,2 E,2 |
+_E,2 E,2 _E,2 E,2 |
+_E,2 E,2 _E,2 E,2 |
+_E,2 E,2 _E,2 E,2 |
+_E,2 E,2 _E,2 E,2 G,/B,/ |
+E2E,2G,2B,2 E,2 E,2 E,2 |
+E,2G,2B,2E2 E,2 E,2 E,2 |
+G,2E,2B,2E2 E,2 E,2 E,2 C/E/ |
+G2E,2C2E2 E,2 E,2 E,2 |
+G2C2E2E,2 E,2 E,2 E,2 |
+E,2C2E2G2 E,2 E,2 E,2 G,/B,/ |
+G,2B,2E,2E2 E,2 E,2 E,2 |
+E,2G,2E2B,2 E,2 E,2 E,2 |
+E,2E2G,2B,2 E,2 E,2 E,2 G,/B,/ |
+G,2B,2E2E,2 E,gg E,2 E,2^f2 |
+E,2B,2G,2g2E2 E,2 E,2 E,2 |
+G2C,2B,2E2 C,g g2 C,2 C,2 |
+G2E2C,2B,2 g2C,2 C,e gC,2 ^f |
+E,2B,2E2G,2 E,e E,2 E,2 |
+E,2E2G,2B,2 E,2 E,2 E,2 |
+E,2G,2B,2E2 E,2 E,2 E,2 |
+E,2G,2B,2E2 E,2 E,2 E,2 |
+C,2B,2G2E2 C,gg C,e C,2g2 |
+C,2B,2E2G2 C,2 C,2 C,2 |
+A,2C2E2A2 A,aa A,a A,2 g |
+A,2a2C2A2E2 gA,a A,2 g |
+E2E,2b2G2B2 E,2 E,2 E,2 |
+E,2G2B2E2 E,2 E,2 E,2 |
+E,2E2G2B2 E,2 E,2 E,2 |
+E,2E2G2B2 E,2 E,2 E,2 |
+C,2E2G2C2B2 gC,g C,^f eC,2 g |
+C2E2B2G2C,g C,2 C,g^f C,2eg |
+g2b2e2C,2e2 C,2 C,2 C,2 |
+C,2b2e2e2 C,2 C,2 C,2 |
+G,2E2E,2B,2 E,^ff E,f eE,2 f |
+E,2B,2E2G,2 E,e E,^ff eE,2 f |
+^f2E,2d2B2G2 E,2 E,2 E,2 |
+E,2B2G2d2 E,2 E,2 E,2 |
+C,2C2E2G2B2 gC,g C,^f eC,2 g |
+C,2C2E2G2B2 C,g gC,^f eC,2 g |
+C,2g2e2b2e2 C,2 C,2 C,2 |
+C,2b2e2e2 C,2 C,2 C,2 |
+E,B,2G,2E2 ^f E,ff E,f E,2ff |
+E,2G,2B,2E2 E,2 E,2 eE,2 e |
+E,2^f2G,2B,2E2 E,ef E,f eE,2 g |
+g2e2b2E,2e2g2 E,2 E,2 E,2^f2 |
+E,2e2b2e2g2 E,2 E,2 E,2 |
+E,2e2b2e2g2 E,2 E,2 E,2 |
+E,2e2b2e2g2 E,2 E,2 B,eE,2 E |
+C,2B,2E2G2g2 C,2g2 C,2 B,EGC,2 B,EG |
+C,2C2E2G2B2g2 C,2 C,2 CEGBC,2 CEGB |
+C,2G2B2e2g2 C,2 C,2 GBeC,2 GBe |
+C,2g2B2e2 C,2 C,2 C,2^f2 |
+g2b2e2g2E,2^f2e2 E,2 E,2 E,2 |
+g2b2e2g2^f2E,2e2 E,2 E,2 E,2 |
+g2b2e2g2E,2e2 E,2 E,2 E,2 |
+g2b2e2g2E,2e2 E,2 E,2 E,2 |
+E,2G,2B,2E2 E,2 E,2G,2B,2E2 E,2 |
+E,2G,2B,2E2 E,2 E,G,B,EG,B,E E,2 |
+E,2G,2B,2E2 E,2 E,2G,2B,2E2 E,2 |
+E,2G,2B,2E2 E,2 E,G,B,EG,B,E E,2 |
+C,2B2e2g2b2 C,2 C,2B2e2 C,2 |
+C,2B2e2g2b2 C,2 C,BeBe C,2 |
+C,2B2e2g2b2 C,2 C,2B2e2 C,2 |
+C,2B2e2g2b2 C,2 C,BeBe C,2 |
+E,2E2G2B2e2 E,2 E,2E2G2 E,2 |
+E,2E2G2B2e2 E,2 E,EGEG E,2 |
+E,2E2G2B2e2 E,2 E,2E2G2 E,2 |
+E,2E2G2B2e2 E,2 E,EGEG E,2 |
+E,2G,2B,2E2 E,2 E,2 |
+E,2G,2B,2E2 E,2 E,2 |
+E,EG,2B,2 ^F2 E,2 E,2 |
+E,2B,2E2^F2 E,2 E,2 |
+^FE,B,2E2 G2 E,2 E,2 |
+E,2B,2E2G2 E,2 E,2 |
+E,GB,2E2 A2 E,2 E,2 |
+E,2B,2E2A2 E,2 E,2 |
+C,2c2e2g2b2 C,2 C,2 |
+C,2c2e2g2b2 C,2 C,2 |
+C,2B2e2g2 C,2 C,2 |
+C,2c2e2a2 C,2 C,2 |
+E,2e2G2B2 E,2 E,2 |
+E,2e2G2B2 E,2 E,2 |
+E,2e2G2B2 E,2 E,2 |
+E,2e2G2B2 E,2 E,2 |
+E,2G2B2 E,2 E,2 |
+E,2G2B2 E,2 E,2 |
+E,EB2 ^F2 E,2 E,2 |
+E,2^F2B2e2 E,2 E,2 |
+E,^FB2e2 G2 E,2 E,2 |
+E,2B2e2g2 E,2 E,2 |
+E,GB2e2 A2 E,2 E,2 |
+E,2A2B2e2 E,2 E,2 |
+C,2b2c2e2g2 C,2 C,2 |
+C,2b2c2e2g2 C,2 C,2 |
+C,2g2b2e2 C,2 C,2 |
+C,2a2c2e2 C,2 C,2 |
+E,2e2g2b2e2 E,2 E,2 |
+E,2e2g2b2e2 E,2 E,2 |
+E,2e2g2b2e2 E,2 E,2 |
+E,2e2g2b2e2 E,2 E,2 |
+C,2c2e2g2b2 C,2 C,2 |
+C,2c2e2g2b2 C,2 C,2 |
+E,2B2e2g2 E,2 E,2 |
+E,2B2e2g2 E,BegBeg E,2B2e2g2 |
+C,2c2e2g2b2 C,2 C,2 |
+C,2c2e2g2b2 C,2 C,2 |
+E,2B2e2g2 E,2 E,2 |
+E,2B2e2g2 E,BegBeg E,2B2e2g2 |
+E,2G2B2e2 E,2 E,2 |
+E,2G2B2e2 E,2 E,2 |
+E,EG2B2 ^F2 E,2 E,2 |
+E,2^F2B2e2 E,2 E,2 |
+E,^FB2e2 G2 E,2 E,2 |E,2B2e2g2 E,2 E,2 |
+E,GB2e2 A2 E,2 E,2 |
+E,2A2B2e2 E,2 E,2 |
+C,2b2c2e2g2 C,2 C,2 |
+C,2b2c2e2g2 C,2 C,2 |
+C,2g2b2e2 C,2 C,2 |
+C,2a2c2e2 C,2 C,2 |
+E,2e2g2b2e2 E,2 E,2 |
+E,2e2g2b2e2 E,2 E,2 |
+E,2e2g2b2e2 E,2 E,2 |
+E,2e2g2b2e2 E,2 E,2 |
+E,2G2B2e2 E,gg E,2 E,2^f2 |
+E,2g2G2B2e2 E,2 E,2 E,2 |
+C,2B2e2g2 C,2 C,2 C,2 |
+C,2B2e2g2 C,2 C,2 gC,2 ^f |
+E,2G2B2e2^f2 E,2 E,2 E,2 |
+E,2G2B2e2 E,2 E,2 E,2 |
+E,2G2B2e2 E,2 E,2 E,2 |
+E,2G2B2e2 E,2 E,2 E,2 |
+C,2B2e2g2 C,2 C,2 C,2 |
+C,2B2e2g2 C,2 C,2 C,2 |
+A,2^c2e2a2 A,2 A,2 A,g |
+A,2^c2e2a2 A,2g2 A,g |
+E,2e2g2b2 E,2 E,2 E,2 |
+E,2e2g2b2 E,2 E,2 E,2 |
+E,2e2g2b2 E,2 E,2 E,2 |
+E,2e2g2b2 E,2 E,2 E,2 |
+C,2c2e2g2b2 C,2 C,^f C,2 |
+C,2c2e2g2b2 C,2 C,2 C,2 |
+C,2E2G2B2e2 C,2 C,2 C,2 |
+C,2E2G2B2e2 C,2 C,2 C,2 |
+E,2G2B2e2 E,^ff E,2 E,2 f |
+E,2G2B2e2 E,^f E,2 E,2 |
+E,2g2b2d2^f2 E,2 E,2 E,2 |
+E,2g2b2d2^f2 E,2 E,2 E,2 |
+C,2c2e2g2b2 C,2 C,^f C,2 |
+C,2c2e2g2b2 C,2 C,2 C,2 |
+C,2e2g2b2e2 C,2 C,2 C,2 |
+C,2e2g2b2e2 C,2 C,2 C,2 e |
+E,2^f2G2B2e2 E,f E,f E,2 f |
+E,2G2B2e2 E,2^f2 E,2 E,2 |
+E,2G2B2e2 E,2 E,2 E,2 |
+E,2G2B2e2 E,2 E,2 eE,2 B/e/ |
+C,2B2e2g2 C,2 C,2 BegC,2 Beg |
+C,2c2e2g2b2 C,2 C,2 cegbC,2 cegb |
+C,2g2b2e2 C,2 C,2 gbeC,2 gbe |
+C,2B2e2g2 C,2 C,2 C,2g2^f2 |
+e2g2b2E,2e2g2^f2 E,2 E,2 E,2 |
+E,2e2g2b2e2g2^f2 E,2 E,2 E,2 |
+E,2e2g2b2e2g2 E,2 E,2 E,2 |
+E,2e2g2b2e2g2 E,2 E,2 E,2 |
+E,2B,2E2G2b2 E,2 E,2B,2E2G2 E,2 |
+E,2B,2E2G2b2 E,2 E,2B,2E2G2 E,2B,2E2G2 |
+E,2B,2E2G2a2 E,2 E,2B,2E2G2 E,2 |
+E,2B,2E2G2a2 E,2 E,B,EGaB,EG E,2e2 |
+E,2B,2E2G2^f2 E,2 E,2B,2E2G2 E,2 |
+E,2B,2E2G2^f2 E,2 E,2B,2E2G2 E,2B,2E2G2 |
+E,2B,2E2G2 E,2 E,2B,2E2G2 E,2 |
+E,2B,2E2G2 E,2 E,B,EGB,EG E,2 |
+E,2B,2E2G2e2 E,2 E,2B,2E2G2^f2 E,2 |
+E,2B,2E2G2^f2 E,2 E,2B,2E2G2 E,2B,2E2G2 |
+E,2B,2E2G2a2 E,2 E,2B,2E2G2 E,2 |
+E,2B,2E2G2 E,2 E,B,EGaB,EG E,2e2 |
+E,2B,2E2G2^f2 E,2 E,2B,2E2G2 E,2 |
+E,2B,2E2G2^f2 E,2 E,2B,2E2G2 E,2B,2E2G2 |
+E,2B,2E2G2g2b2 E,2 E,2B,2E2G2 E,2 |
+E,2B,2E2G2g2b2 E,2 E,B,EGB,EG E,2 |

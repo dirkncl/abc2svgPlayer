@@ -1,0 +1,26 @@
+X:1
+T:Red Red Wine
+C:Arranged by Meldowen
+Q:1/4=90
+M:4/4
+L:1/8
+K:C
+z4 G2 B2 |[cC][E/c/G/e/g/C/]c/ C[gCecGE] [AF,][F/C/c/f/A/a/]F/ F,[AaFfCc] |D,[B/D/b/g/d/G/]D/ D,[BGDgdb] [dG,][A/f/F/C/c/a/][e/G/] G,[afFGCA] |[eC][e/C/G/E/g/c/][c/d/] [Cc][C/E/G/c/e/g/]G/ [AF,][F/f/A/C/c/a/]F/ F,[CcAFaf] |
+D,[D/G/b/B/g/d/]D/ D,[gdBDbG] [dG,][F/C/A/f/c/a/][e/G/] G,[fCFGAc] |[C//d//]e3/4[C//G//E//e//c//g//]d//c/ C/c/[EgGcCe] F,[F/A/C/f/c/a/]F/ F,[FcafCA] |D,[B/d/D/G/b/g/]D/ D,[DGgdBb] [G,A][F/C/A/c/f/a/]G/ G,[CFAfca] |
+[GG,][B/D/G/g/d/b/][G/A/] [GG,][DBdgbG] G,[d/G/D/B/g/b/]G/ F[DGBdgb] |[F,caf][c/f/a/]F/ C[Fcaf] [GdbG,g][g/b/d/]G/ [FBcfa][Dgbd] |[Cc][C/G/c/g/e/E/]c/ C[ECeGgc] [F,A][C/F/A/f/a/c/]F/ F,[CFAcfa] |D,[D/G/b/d/g/B/]D/ D,[GdDgbB] [G,d][C/F/A/f/a/c/][G/e/] G,[CGAfcF] |
+[eC][E/G/c/g/e/C/][c/d/] [Cc][C/G/E/e/g/c/]G/ [AF,][C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[GDBdgb] [G,d][a/C/A/c/F/f/][e/G/] G,[CGcAaf] |[d//C//]e3/4[C//E//G//c//e//g//]d//c/ C/c/[CEGceg] F,[C/A/c/F/f/a/]F/ F,[CfFAca] |
+D,[D/G/d/g/b/B/]D/ D,[DGdBgb] [G,A][C/A/f/F/c/a/]G/ G,[CGAcfa] |[G,G][D/G/B/d/g/b/][G/A/] [G,G][DGBdgb] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |F,[CFAcfa] [CF][AcfaCF] [G,E][B,/D/G/d/g/b/]G/ [C//F//]D//[C3/2-D3/2-B3/2-d3/2-g3/2-b3/2-]|
+[C//D//B//d//g//b//]C/[C/E/G/c/e/g/]c//C [CEGceg]F,3/2 [C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] G,[C/F/A/c/f/a/]G/ [G,G][CFGcfa] |[G,//c//]B/[D/G/B/d/g/b/]G//F [DGBdgb]G,3/2 [D/G/B/d/g/b/]G/ [G,G][DGBdgb] |
+[Cc][C/E/G/c/e/g/][A/c/] [GA][CEGceg] C[C/E/G/c/e/g/]c/ C[CEGceg] |[F,f][C/F/A/c/f/a/][F/e/] F,[CFAcfa] F,[C/F/A/c/f/a/]F/ [F,A][CEFcfa] |[C//G//]A/G//[C/E/G/c/e/g/]c/ C[CEGceg] C[C/E/G/c/e/g/]c/ [GA][CEGceg] |
+[G,B][D/G/B/d/g/b/][G/A/] [FG][DGBdgb] G,[D/G/B/d/g/b/]G/ [G,G][DGBdgb] |[Cc][C/E/G/c/e/g/][A/c/] [GA][CEGceg] C[C/E/G/c/e/g/]c/ [Cd][CEGceg] |[F,f][C/F/A/c/f/a/][F/e/] F,[CFAcfa] F,[C/F/A/c/f/a/]F/ [F,//c//]d//e/[CFcdfa] |
+G,[D/G/B/d/g/b/]G/ F[DGBdgb] [G,//d//g//b//]e/[d/g/b/]G3/4 [G,//c//d//f//a//]e//[G3/2-d3/2-g3/2-b3/2-]|[G//d//g//b//][C/c/e/g/][c/e/g/]c//[Cd] [CEGceg]F,3/2 [C/F/A/c/f/a/]F/ F,[CFcfaA] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,d][C/F/A/c/f/a/][G/e/] G,[CFGcfa] |
+[Ce][C/E/G/c/e/g/][c/d/] [Cc][C/E/G/c/e/g/]G/ [F,A][C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,d][C/F/A/c/f/a/][G/e/] G,[CFGcfa] |[C//d//]e3/4[C//E//G//c//e//g//]d//c/ C/c/[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |
+D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,A][C/F/A/c/f/a/]G/ G,[CFGcfa] |[G,G][D/G/B/d/g/b/][G/A/] [G,G][DGBdgb] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |[F,cfa][c/f/a/]F/ [CF][Fcfa] [G,Edgb][B,/d/g/b/]G/ [C//F//c//f//a//]D//[C3/2-D3/2-d3/2-g3/2-b3/2-]|
+[C//D//d//g//b//]C/[C/E/G/c/e/g/]c//C [CEGceg]F,3/2 [C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/c/d/g/c'/]D/ D,[DGcdgc'] G,[D/G/B/d/g/b/]G/ G,[DGBdgb] |C[C/E/G/c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |
+D,[D/G/c/d/g/c'/]D/ D,[DGcdgc'] G,[D/G/B/d/g/b/]G/ [G,G][DGcdgb] |[G,//c//]B/[D/G/B/d/g/b/]G//F [DGBdgb]G,3/2 [D/G/B/d/g/b/]G/ [G,G][DGBdgb] |[Cc][C/E/G/c/e/g/][A/c/] [GA][CEGceg] C[C/E/G/c/e/g/]c/ C[CEGceg] |
+[F,f][C/F/A/c/f/a/]e/ F,[CFAcfa] F,[C/F/A/c/f/a/]F/ [F,A][CEFcfa] |[C//G//]A/G//[C/E/G/c/e/g/]c/ C[CEGceg] C[C/E/G/c/e/g/]c/ [GA][CEGceg] |[G,B][D/G/B/d/g/b/][G/A/] [FG][DGBdgb] G,[D/G/B/d/g/b/]G/ [G,G][DGBdgb] |
+[Cc][C/E/G/c/e/g/][A/c/] [GA][CEGceg] C[C/E/G/c/e/g/]c/ [Cd][CEGceg] |[F,fac'][c/f/a/][F/e/] F,[CFAcfa] F,[C/F/A/c/f/a/]F/ [F,//c//]d//e/[CFcdfa] |[G,gb][d/g/b/]G/ F[DGBdgb] [G,//d//g//b//]e/[d/g/b/]G3/4 [G,//c//d//f//a//]e//[G3/2-d3/2-g3/2-b3/2-]|
+[G//d//g//b//][C/c/e/g/][c/e/g/]c//[Cd] [CEGceg]F,3/2 [C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,d][C/F/A/c/f/a/][G/e/] G,[CFGcfa] |[Ce][C/E/G/c/e/g/][c/d/] [Cc][C/E/G/c/e/g/]G/ [F,A][C/F/A/c/f/a/]F/ F,[CFAcfa] |
+D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,d][C/F/A/c/f/a/][G/e/] G,[CFGcfa] |[C//d//]e3/4[C//E//G//c//e//g//]d//c/ C/c/[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[DGBdgb] D,[DGBdgb] [G,A][C/F/A/c/f/a/]G/ G,[CFGcfa] |
+[G,G][D/G/B/d/g/b/][G/A/] [G,G][DGBdgb] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |F,[C/F/A/c/f/a/]F/ [Cf][C/F/A/c/f/a/]e/ G,[D/G/B/d/g/b/]G/ [F//c//]d//[D3/2-G3/2-c3/2-d3/2-g3/2-b3/2-]|[D//G//c//d//g//b//]C// [E2G2c2e2g2c'2] z |]
+     %End of file
