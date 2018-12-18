@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Dies Irae
+Z: John Bacchus Dykes, 1861
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Dies Irae (Dykes)"
+%%MIDI program 2 91
+V: P3 name="Dies Irae (Dykes)-2"
+%%MIDI program 3 91
+K: F
+[V: P1]  [D3/F3/] [D/E/] D [DE] | [DF] [DG] [DA] D | [DB] [EB] [A,A] D | [D/G/]C/ [DF] [_DE] [=D_G] | [DG] [D/G/]C/ [_DG] [=DF] | [_DE] [=DF] [D/E/]_D/ =D | [DF] D/B/ [_E3/B3/] [E/A/] | [_EG] [EA] [EB] [DF] | [B,F] [DB] [_E3/B3/] [E/A/] | [_EG] [EA] [DB] F | [Fd] [Ed] [D3/d3/] D/ | [DE] [DG] [D2F2] | _D E =D2- | D2z2|]
+[V: P2]  [D,3/A,3/] [D,/G,/] [D,F,] [D,G,] | [D,A,] [D,B,] [F,A,] [F,A,] | [G,B,] [G,B,] [F,D] [F,A,] | [E,B,] [F,/A,/]G,/ A, [D,A,] | [G,B,] G,/F,/ E, F,/G,/ | A, A, G,/E,/ [D,F,] | [D,A,] B, C3/ [F,/C/] | [F,B,] [F,C] B, B, | [F,D] [F,B,] [F,3/C3/] [F,/C/] | [F,B,] [F,C] B, D | [B,D] [G,B,] [G,3/B,3/] [G,/B,/] | [G,B,] B, A, F, | G,2 [D,2-F,2-] | [D,2F,2]z2|]
+[V: P3]  z4 | z4 | z4 | z4 |z A,, A,, A,, | A,, F,,/G,,/ A,,z |z B,, F,,2 |z2 B,, B,, | z4 |z2 B,, B,, | z4 |z G,, A,,2- | A,,2z2 | z4|]
+

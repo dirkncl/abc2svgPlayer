@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Darwall
+Z: John Darwall, 1770
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Darwall's 148th"
+%%MIDI program 2 19
+K: C
+[V: P1]  C [CE] C [DG] | E [E3c3] | [EB] [FA] [CG] [B,F] | [CE] [B,3D3] | [B,D] [CE] C [EA] | [EG] [D^F] D [Dd] | [Ec] [D2B2] A- | A [B,3G3] | [CG] [C2A2] [F-B-] | [FB] [E3c3] | C [G,D] [CE] F | [EG] [CA] [EB] [Ec] | [Dd] [E2c2] [DB] | F [E3-c3-] | [Ec]z3|]
+[V: P2]  [C,E,] [C,G,] [C,E,] [B,,G,] | [C,G,] [A,3C3] | [G,C] [F,C] [E,G,] [D,G,] | [C,G,] [G,,3G,3] | [G,,G,] [C,G,] [C,E,] [A,,C] | [A,,C] [D,A,] [C,^F,] [B,,G,] | [C,G,] [D,2G,2] [D,-^F,-] | [D,^F,] [G,,3G,3] | [C,E,] F,2 [D,-F,-] | [D,F,] [C,3G,3] | [C,E,] [B,,G,] [C,G,] [A,C] | [G,C] [F,A,] [E,^G,] A, | [F,A,] G,2 [G,,-G,-] | [G,,G,] [C,3-G,3-] | [C,G,]z3|]
+

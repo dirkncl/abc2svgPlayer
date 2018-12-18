@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Deo Gracias
+Z: Margaret Elizabeth Munson Sangster, 1893
+Z: Music by A. B. Ponsonby, 1913
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: 6/8
+Q: 1/4=112
+V: P1 name="Staff 1"
+%%MIDI program 1 19
+V: P2 name="Deo Gratias"
+%%MIDI program 2 19
+V: P3 name="Deo Gratias-2"
+%%MIDI program 3 19
+K: C
+[V: P1]  C/ [CE] [C/E/][B,3/4F3/4][B,/4E/4] | [B,/D/] [CG] [C/G/][C3/4A3/4][C/4G/4] | [C/F/][C3/4E3/4]F/4 [C/G/] [B,E] | [B,/D/] C- C3/ | C/4[C/4D/4] [CE] [C/E/][B,3/4F3/4][B,/4E/4] | [B,/D/] [CG] G/ [GA] | [G/A/][G3/4B3/4]c/4 [G/d/] [^FB] | [^F/A/] [D-G-] [D3/G3/] | [D/4G/4][D/4G/4][F3/4A3/4][F/4A/4] [F/A/][F3/4c3/4][F/4B/4] | [F/A/] [EB] [E/G/] E | [B,/4G/4][B,/4G/4][C/F/][C/F/] [C/G/][C/A/][C/F/] | [C/E/] [B,-E-] [B,/E/] D | [D/G/][G3/4c3/4][G/4B/4] [G/c/][^G/e/][G/d/] | [^G/c/] [Ac] [A/c/] [AB] | [^D/4A/4][D/4A/4] [EA] [E/G/] [B=d] | [B/e/] [G-c-] [G3/c3/] | [G/4c/4]zz/4z3/|]
+[V: P2] z/ G, G,/G,3/4G,/4 | G,/ G, G,- G,/4G,/4 | A,/ G, G,/ G, |z3 |z/ G, G,/G,3/4G,/4 | G,/ G, C/ C | C/D3/4D/4 B,/ D | C/ [G,-B,-] [G,3/B,3/] | [G,/4B,/4][G,/4B,/4][G,3/4C3/4][G,/4C/4] [G,/C/][G,3/4E3/4][G,/4D/4] | [G,/C/] [G,B,] B,/ [G,B,] | G,/4G,/4A,/A,/ G, A,/ | G,/zz3/ | B,/C3/4C/4 C/C/C/ | C/ C D/ [^F,^D] | [^F,/4B,/4][F,/4B,/4] [G,C] [G,/C/] [G,=F] | F/ E- E3/ | E/4zz/4z3/|]
+[V: P3]  [C,/E,/] C, C,/D,3/4E,/4 | F,/ E, E,/F,3/4E,/4 | D,/z E,/z | [G,,/F,/] [C,-E,-] [C,3/E,3/] | [C,/4E,/4][C,/4F,/4] C, C,/D,3/4E,/4 | F,/ E, E,/ ^D, | ^D,/ =D, D,/ D, | D,/zz3/ |z3 |z3 | E,/4E,/4D,/D,/ D,/[D,/F,/]D,/ | D,/ [G,,-F,-] [G,,3/F,3/] | F,/E,3/4E,/4 E,/E,/E,/ | E,/ F, F,/z |z3 | G,,/ C,- C,3/ | C,/4zz/4z3/|]
+

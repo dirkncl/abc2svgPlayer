@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Dalehurst
+Z: Arthur Cottman, 1874
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff 1"
+%%MIDI program 1 19
+V: P2 name="Dalehurst"
+%%MIDI program 2 19
+K: C
+[V: P1]  [CE] [B,D] C [CF] | [CE] [B,3/E3/] [B,/D/] C | C [A,D] [^CE] [DF] | [DF] [D3F3] | [B,D] [CE] [^A,G] [^A,=A] | [^A,G] [=A,3/G3/] [A,/F/] [A,C] | [^G,D] [=G,E] [CE] [B,-F-] | [B,/F/][G,/B,/] [G,3-C3-] | [G,C]z3|]
+[V: P2]  [C,G,] [C,F,] [C,E,] [C,A,] | [C,G,] [G,,3/G,3/] [G,,/F,/] [A,,E,] | [A,,E,] F, [E,G,] [D,A,] | [C,^G,] [B,,3=G,3] | [G,,G,] [C,G,] [C,E,] [C,E,] | [C,E,] [F,,3/F,3/] [F,,/F,/] [F,,F,] | [F,,C,] [G,,C,] [G,,E,] [G,,-D,-] | [G,,/D,/][G,,/F,/] [C,,3-C,3-E,3-] | [C,,C,E,]z3|]
+

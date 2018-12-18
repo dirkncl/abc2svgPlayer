@@ -1,0 +1,31 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Det Kimer Nu Til Julefest
+Z: C. C. N. Balle
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=107
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 19
+V: P2_1 name="Staff-1"
+V: P2_2
+%%MIDI program 2 19
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  | | E2 [EG] | | | | [E2G2] (E/ F/) | | | | | | | | (F3/ G/) [CA] | [B,2E2] (D/ F/) ||]
+w: The_ bells_ of_ Christ- mas__ chime___ once_ more;_ The_ heaven-_ ly_ guest_ is__ at___ the_ door_ He_ comes___ to_ earth-_ ly_ dwel-___ ling_ still_ With_ new_ year_ gifts_ of__ peace,_ good__ will_
+% Extracting voice 2 from part P1
+[V: P1_2]  | | E2 x1  | | | | x2  E | | | | | | | | C2 x1  | x2  B, ||]
+w: The_ bells_ of_ Christ- mas__ chime___ once_ more;_ The_ heaven-_ ly_ guest_ is__ at___ the_ door_ He_ comes___ to_ earth-_ ly_ dwel-___ ling_ still_ With_ new_ year_ gifts_ of__ peace,_ good__ will_
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | B,2 [D,B,] | | | | | [B,,2B,2] B, | B,2 [D,B,] | | B,2 [D,B,] | | | (A,3/ =E,/) [A,,F,] | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | (D, B,,) x1  | | | | | x2  B, | B,2 x1  | | B,2 x1  | | | A,,2 x1  | ||]
+

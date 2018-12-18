@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Diligence
+Z: Lowell Mason, 1864
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: F
+[V: P1]  [Fc] [F3/4A3/4][F/4B/4] [Fc] [Fc] | [F2d2] [F2c2] | [CF] [C3/4F3/4][C/4F/4] [DF] [EG] | [F4A4] | [Fc] [F3/4A3/4][F/4B/4] [Fc] [Fc] | [F2d2] [F2c2] | F [FG] [FA] [EG] | [C4F4] | [EG] [E3/4G3/4][E/4G/4] [EG] [FA] | [E3/B3/] [F/A/] [E2G2] | [FA] [F3/4A3/4][F/4A/4] [FA] [F=B] | [E4c4] | [Fc] [F3/4A3/4][F/4B/4] [Fc] [Fc] | [F2d2] [F2c2] | F [FG] [FA] [EG] | [C4F4]|]
+[V: P2]  [F,A,] [F,3/4C3/4][G,/4C/4] [A,C] [F,A,] | [B,,B,] D, [F,2A,2] | [F,A,] [F,3/4A,3/4][F,/4A,/4] [D,A,] [C,C] | [F,4C4] | [F,A,] [F,3/4C3/4][G,/4C/4] [A,C] [F,A,] | [B,,B,] D, [F,2A,2] | [A,C] [B,D] C [C,B,] | [F,4A,4] | [C,C] [C,3/4C3/4][C,/4C/4] [B,C] [A,C] | [G,3/C3/] F,/ [C,2C2] | [F,C] [F,3/4C3/4][F,/4C/4] [E,C] [D,G,] | [C,4G,4] | [F,A,] [F,3/4C3/4][F,/4B,/4] [F,A,] [F,A,] | [B,,B,] D, [F,2A,2] | [A,C] [B,D] C [B,,B,] | [F,4A,4]|]
+

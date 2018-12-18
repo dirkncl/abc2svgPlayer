@@ -1,0 +1,39 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Du_gronne_glitrende
+Z: Copyright © 1997 by Stein Rimehaug
+L: 1/4
+M: 3/4
+V: P1 name="Flute"
+%%MIDI program 1 73
+V: P2 name="Oboe"
+%%MIDI program 2 68
+V: P3 name="B-flat Clarinet"
+%%MIDI program 3 71
+V: P4 name="French Horn"
+%%MIDI program 4 60
+V: P5 name="Bassoon"
+%%MIDI program 5 70
+V: P6 name="Staff"
+%%MIDI program 6 76
+V: P7 name="Staff-2"
+%%MIDI program 7 76
+V: P8 name="Staff-3"
+%%MIDI program 8 11
+V: P9 name="Tempo Track"
+%%MIDI program 9 -1
+K: F
+[V: P1] z3/z3/8 c/8- c | a3/- a3/8f/8- f3/4f/8b/8- | b3/ a3/8g/8- g | c'3/ d'/ c' | a2 f | d'3/- d'3/8c'/8- c' | c'3/- c'/8b3/8z/8 a3/4-a/8 | a/8g3/4-g/8 g d3/4-d/8f/8- | f3/4f/8e/8- e c | a2z/8 f3/4-f/8 | b3/ a/ g | c'3/- c'3/8a/8- a3/4a/8g/8- | g2 c'3/4-c'/8d'/8- | d'3/ d'3/8g/8- g3/4g/8e/8- | e3/4g/4- g3/4g/8c'/8- c' | c' e' d' |z/8 d'3/4-d'/8 d'/8c'3/4-c'/8z3/8 c/-c/8 | c/8e3/4-e/8 e f | a3/4-a/8g/8- g3/4_g/4- g3/4g/8=g/8- | g2 a | c' b g- | g/8a3/4-a/8 a a |z/8 a3/4-a/8 a/a/8b3/8z/8 a3/4-a/8 |z/8 a3/4-a/8 a b | d' c' b | a3- | a/8g3/4-g/8 g3/ g3/8c'/8- | c'3 | c'z3/4z/8 f/8- f | a3 | g3- | g/8f3/4-f/8 f2 | fz2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3|]
+[V: P2] z3 |z/4 F3/4- F C | G- G3/8F/E/8- E | A3/ B/ A- | A/8F3/4-F/8z F | B2 A | G2 F |z/8 D3/4-D/8 D =B, |z/8 D3/4-D/8 Cz/8 B,3/4-B,/8 |z/8 A,3/4-A,/8 A,z/8 C3/4-C/8 | B F E | A2 F | Ez3/4z/8 G/8- G | G2 D | C E3/4-E/8E/8- E3/4E/8E/8- | E G F | F- F/8E3/4-E/8z/4 C3/4 |z/4 C3/4- Cz/8 D3/4-D/8 | F E _E | E2 F | A G E | F2z/8 F3/4-F/8 |z/8 F3/4-F/8 F/F/8G3/8 F | F2 G | B Az/8 G3/4-G/8 | F3 | E3 | F3 | Fz D | F3 | D F E | C3- | Cz2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3|]
+[V: P3] z2z/8 C3/4-C/8 | C/8A3/4-A/8 A F | B3/ A/ G3/4-G/8c/8- | c3/ d3/8c/8- c | A3/- A3/8F/8- F | d3/- d3/8c/8- c3/4c/8c/8- | c3/ B3/8A/8- A3/4A/8G/8- | G2 D | F Ez/8 C3/4-C/8 |z/8 A3/4-A/8 A F | B3/- B/8A3/8 G | c3/- c3/8A/8- A3/4A/8G/8- | G3/ G3/8c/8- c3/4c/8d/8- | d3/ d/4F/4- F3/4F/8E/8- | E3/4E/8G/8- G3/4G/8c/8- c3/4c/8c/8- | c e3/4-e/8d/8- d3/4d/8d/8- | d d/8c3/4-c/8z/4 C3/4- | C/4E3/4- E E/8F3/4-F/8 | A G3/4-G/8_G/8- G3/4G/8=G/8- | G2 A | c3/4-c/8B/8- B3/4B/8G/8- G | A3/- A3/8A/8- A | A3/- A/8B3/8 A | A2 B | d3/4-d/8c/8- c B | A3 | G3 | c3- | cz3/4z/8 F/8- F | A2- A3/4A/8G/8- | G3 | G/8F3/4-F/8 F2 | Fz2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3|]
+[V: P4] z2z/8 C3/4-C/8 |z/8 F,3/4-F,/8 F,2 | E,3/- E,3/8C,/8- C,3/4C,/8F,/8- | F,2 F,3/4F,/8A,,/8- | A,,3/ A,,3/8F,/8- F,3/4F,/8B,,/8- | B,,3 | G,2 D, |z/8 =B,,3/4-B,,/8 B,, D, | C,2z/8 C,3/4-C,/8 |z/8 F,3/4-F,/8 F,2 | F,/8D,3/4-D,/8 D,3/4D,/8C,/8- C, | A,,2z/8 F,,3/4-F,,/8 | C,2 C, | G,,2 =B,, | C,3/- C,3/8E,/8- E,3/4E,/8G,/8- | G,2 G,, |z/8 C,3/4-C,/8 C,z |z/4 C,3/4- C,2 | C,2 C,3/4C,/8C,/8- | C,3 | C,2 C, | F, E, D, | C,2 B,, |z/8 F,,3/4-F,,/8 A,, B,, | C,2 G,, | A,,3 |z/8 C,3/4-C,/8 C,2 | A,,2 F,, |z/8 B,,3/4-B,,/8 B,,z | C,3 |z/8 C,3/4-C,/8 C,2 |z/8 F,,3/4-F,,/8 F,,2 | F,,z2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3|]
+[V: P5] z3 |z/8 C3/4-C/8 C2 |z/8 D3/4-D/8 D/D/8C3/8- C/8B,3/4-B,/8 | A,3/ B,/ A, | F,3/- F,3/8F,/8- F, | F,/8B,3/4-B,/8 B, C | D2z/8 C3/4-C/8 | D2 =B, | D C2 |z/8 C3/4-C/8 C C |z/8 D3/4-D/8 Fz/8 E3/4-E/8 | C3/- C3/8F/8- F3/4F/8E/8- | Ez3/4z/8 C/8- C | =B,3/- B,3/8D/8- D | C2 G, | G,3 | G,- G,/8E,3/4-E,/8z |z/4 E,3/4- E,2 | E,/8G,3/4-G,/8 G,2 | C3 | C2 G, | A,3- | A,/8B,3/4-B,/8 C D | C2 B, | A,2 B, | C3 |z/8 C3/4-C/8 C B, | A,3 | B, B,z |z/8 C3/4-C/8 C2 | B, D C | C A, B, | A,z2 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3|]
+[V: P6] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3/z/8 C,3/8 A,/C,/ | F,/C,/z/ D,/ B,/D,/ |z/8 G,3/8D,/z/ C,/ A,/C,/ |z/8 F,/C,3/8z/z/8 C,3/8 A,/C,/ | D,/F,/z/ D,/ B,/D,/ | G,/D,/z/ C,/ A,/C,/ | F,/C,/z/ =B,,/ G,3/8B,,/-B,,/8 | D,/=B,,/z/z/8 C,3/8 F,/C,/ | G,/C,/z/ C,/ A,/C,/ | F,/C,/z/ D,/ B,/D,/ | F,/G,/z/ C,/ A,/C,/ | F,/C,/z/ C,/ G,/C,/ | E,/G,/z/ D,/ =B,/G,/ | F,3/8G,/-G,/8z3/8 E,/-E,/8 C/E,/ | G,3/8E,/-E,/8z3/8 E,/C/8z3/8 D,/=B,/8- | =B,3/8D,/-D,/8z/ C3/8G,/8- G,/E,/ | C, C,/E,/ G,/C,/ | A,/C,/z3/8 C,/B,/8- B,/C,/ | _E,/C,/z/ C,/ B,/C,/ | F,/C,/z/ C,/ G,/C,/ | E,/C,/z/ C,/ G,/C,/ | A,/C,/z/ C,3/8A,/8- A,3/8C,/F,/8- | F,3/8C,/-C,/8z3/8 F,/-F,/8z3/8 E,/-E,/8 |z3/8 D,/A,,/8- A,,/F,3/8C,/8- C,3/8F,/-F,/8 | B,, C, A,/C,3/8F,/8- | F,3/8C,/-C,/8z/z/8 C,3/8 G,/C,/ | B,,/C,/ A,,/F,/z/8 A,3/8A,,/ | F,/C,/ B,,/F,/ B,/F,/ | B,/D/ C,/-C,/8F,3/8 A,/C,/ | F,/C,/ C,/E,/ G,/C,/ | E,/C,/ A,,/F,/ A,/C,/ | D,/F,/z/z/8 C,3/8- C,/8A,3/4-A,/8 | A,z2|]
+[V: P7] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z F,,z |z F,,z |zz/8 F,,3/4-F,,/8z |zz/8 F,,3/4-F,,/8z |zz/8 F,,3/4-F,,/8z |z F,,z |z F,,z |z F,,z |z F,,z |z F,,z |z F,,z |z E,,z |z G,,z |z G,,z |z3/4z/8 G,,/8- G,,z |z E,,z |z3 |z E,,z |z C,,z |z C,,z |z F,,z |z F,,z |z3/4z/8 D,,/8- D,,3/4D,,/8C,,/8z | B,,,z2 |z3 |z3/4z/8 E,,/8- E,,z |z3 |z3 |z3 |z3 |z3 |z F,,2 |z3|]
+[V: P8] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | C A/8F3/4-F/8z |z/8 [C3/4-F3/4-][C/8F/8]z/8 [G3/4-B3/4-][G/8B/8] [G/B/][F/A/] | G/8E3/4-E/8 c/8A3/4-A/8 A/d/8B3/8 | c/8A3/4-A/8 [FA]z | Fz/8 [B3/4-d3/4-][B/8d/8] [B3/4d3/4][B/8d/8]A/8 | c c/8G3/4-G/8 G/B/ | [FA]z/8 [D3/4-G3/4-][D/8G/8] [DG] | [=B,D] F/8D3/4-D/8z/8 [C3/4-E3/4-][C/8E/8] |z/8 C3/4-C/8z/8 [F3/4-A3/4-][F/8A/8] [FA] | [CF] B/8G3/4-G/8 G/[F/A/] | G/8E3/4-E/8 c/8A3/4-A/8 A | A/8F3/4-F/8 [CG]z | [Gc] D/8d3/4-d/8 d | [DF]z/8 [C3/4-E3/4-][C/8E/8] [EG] | [Ec] [Ec] e/8G3/4-G/8 | [Fd] d/8F3/4-F/8 c/8E3/4-E/8 |z/8 C3/4-C/8z/8 E/8C3/4- C | D/8F3/4-F/8 F/8A3/4-A/8 [EG] | [_E_G] [=E2=G2] | F/8A3/4-A/8 A/8[A3/4-c3/4-][A/8c/8]z/8 [G3/4-B3/4-][G/8B/8] | [EG] A/8F3/4-F/8 F | [EA]z/8 [D3/4-A3/4-][D/8A/8] [D/A/][D/8A/8]B3/8 | A/8C3/4-C/8 [FA] E3/4-E/8B/8 | D [Cd] c | B,/8B3/4-B/8 C/8A3/4-A/8 A | A G/8D3/4-D/8 F |z/8 E3/4-E/8 c/8C3/4-C/8 C | C C/8D3/4-D/8 D | D/8F3/4-F/8 F/8A/8C3/4- C | C C/8[B,3/4-G3/4-][B,/8G/8] [B,G] | [B,G] [A,2-F2-] | [A,2F2]z |z3|]
+[V: P9] z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | z4 |z2z |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | z4 |zz2 |z/z/z2 |z3 |z3 | z4|]
+

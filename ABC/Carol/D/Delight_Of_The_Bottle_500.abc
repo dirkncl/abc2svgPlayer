@@ -1,0 +1,25 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Delights Of The Bottle
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1_1 name="Soprano"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="Bass"
+%%MIDI program 2 0
+K: D
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | | | | | | | | | | | | | | A3/ [DFd] | B B/e/ [EAc] |"^Chorus" | | | | | | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | | | | | | | | | | | | | | D2 A/ x1  | D G E G x1  |"^Chorus" | | | | | | | ||]
+[V: P2] z/z/ | D,2 B,, | F,,2 F,, | G,,2 B,, | A,,2z | C,2 D, | E,2 ^G, | A, E,2 | A,,2 F, | =G, A,2 | B,2 B, | B, A, G, | A,2 C,3/4D,/4 | E,2 E, | F,2 G, | =C, D,2 | G,,2 G, | E, E,2 | A,2 =G, | F,2 D, | G,2 D3/4=C/4 | B, A, G, | F,2 D, | G, E, A, | D,2 [F,,D,] | [C,,C,] [B,,,2B,,2] | [A,,,2A,,2] [=G,,,=G,,] | [F,,,2F,,2] [A,,,A,,] | [B,,,2B,,2] [B,,,B,,] | [E,,E,] [=D,,=D,] [G,,G,] | [A,,2A,2] [B,,,B,,] | [E,,2E,2] [A,,,A,,] | [D,,2D,2]|]
+

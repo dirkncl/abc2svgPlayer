@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Dundee
+Z: From "Scottish Psalter," 1615"
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=264
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  E4 | G2 A2 B2 E2 | F2 G2 A4 | G4 | F2 E2 E2 E2 | E4 | B4 | e2 d2 c2 B2 | B2 =A2 B4 | G4 | F2 E2 E2 D2 | E4|]
+w: The race that long in dark- ness pined, Have seen a glor- ious Light; The peo- ple dwell in day, who dwelt In death's sur- round ing night.
+[V: P2]  B,4 | E2 E2 B,2 B,2 | _D2 D2 E4 | E4 | D2 C2 C2 B,2 | B,4 | E4 | G2 F2 E2 D2 | C2 C2 D4 | B,4 | C2 (G, A,) B,2 B,2 | B,4|]
+[V: P3]  G,4 | B,2 C2 F,2 G,2 | A,2 B,2 C4 | B,4 | B,2 G,2 A,2 F,2 | G,4 | G,4 | B,2 B,2 G,2 F,2 | G,2 F,2 F,4 | G,4 | A,2 E,2 F,2 F,2 | G,4|]
+[V: P4]  E,4 | E,2 C,2 F,2 G,2 | _D,2 B,,2 A,,4 | E,4 | B,,2 C,2 A,,2 B,,2 | E,4 | E,4 | E,2 B,,2 C,2 D,2 | E,2 F,2 B,,4 | E,4 | A,,2 C,2 B,,2 B,,2 | E,4|]
+

@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Deus Tuorum Militum
+Z: Grenoble church melody
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=130
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Deus Tuorum Militum"
+%%MIDI program 2 19
+K: C
+[V: P1]  C [C2E2] | [DG] [C2c2] | [CG] [DF] [CE] | [B,D] C2 | [Ec] [E2e2] | [Ec] [DA] B | [Ec] [B,2G2] | [D^F] [B,2G2] | [DG] [F2A2] | [FB] [E2c2] | [CG] [DF] [CE] | [B,D] [B,2E2] | [CG] [CA] [FB] | [Ec] [DG] F | [CE] [CD] B, | [B,D] [G,2-C2-] | [G,2C2]z|]
+[V: P2]  [C,E,] [C,2G,2] | [B,,G,] [A,,2E,2] | E, [F,A,] G, | [G,,G,] [C,2E,2] | [C,G,] [A,,2C2] | [C,A,] [D,2^F,2] | [C,G,] [E,2G,2] | [D,A,] [G,,2D,2] | [G,B,] [F,2C2] | [D,D] [A,,2C2] | [C,E,] [D,A,] [E,G,] | [F,A,] [E,2^G,2] | [C,E,] [F,,F,] D, | [A,,A,] [B,,D] G, | [C,G,] [F,,A,] [G,,G,] | [G,,G,] [C,2-E,2-] | [C,2E,2]z|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Drop Your Dew, Ye Clouds of Heaven
+Z: 18th Century Austrian
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G/ G/ | G B A/ G/ | A A B/ c/ | d (e/c/) B/ A/ | Gz G/ G/ | G B A/ G/ | A A B/ c/ | d (e/c/) B/ A/ | Gz/ B/ c/ | d A B/ G/ | (A/F/) D B/ c/ | d A B/ G/ | (A/F/) D G/ G/ | G B A/ G/ | Az B/ c/ | d (e/ c/) B/ A/ | G2|]
+w: Drop your dew, ye clouds of hea- ven, Rain the Just One_ now to save! With that cry the night was ri- ven From the world, a_ yawn- ing grave. On the earth by God for- sa_ ken Sin and death their toll had tak-_ en. Tight- ly shut was hea- ven's gate, For sal- va tion_ all must wait.
+

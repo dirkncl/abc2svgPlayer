@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Dear Old Christmas Story
+Z: J. R. Murray, 1884
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1] "^Chorus" c/ c/ c/ c/ B B3/4 B/4 | A A G G | A B c d | e2 dz | c/ c/ c/ c/ B B3/4 B/4 | A A G G | A d c B | d2 cz |"^Verse" d ^c d B | G A B d | c B c A | B2 dz | d ^c d B | G A B d | e d/ d/ c A | A2 G|]
+w: "Mer- ry, mer- ry Chris- tmas to all once more." The joy- ful bells are ring- ing. "Mer- ry, mer- ry Christ- mas the wide world o'er," We ech- o back in sing- ing. An- gels bright join in our song From hap- py homes in glo- ry; Hea- ven and earth its notes pro- long. The dear old Christ- mas sto- ry.
+[V: P2]  E/ E/ E/ E/ G G3/4 G/4 | F F E E | F F G A | G2 Gz | E/ E/ G/ G/ G G3/4 G/4 | F F E E | F A G F | F2 Ez | G G G G | G G G G | ^F F F F | G2 Gz | G G G G | G G G G | ^F F/ F/ F F | D2 D|]
+[V: P3]  G,/ G,/ G,/ G,/ G, C3/4 C/4 | C C C C | C D C C | C2 B,z | A,/ A,/ A,/ A,/ A, C3/4 C/4 | C C C C | C D C B, | B,2 Cz | B, ^A, B, D | B, C D B, | A, ^G, A, D | D2 B,z | B, ^A, B, D | B, C D B, | C C/ C/ A, C | C2 B,|]
+[V: P4]  C,/ C,/ C,/ C,/ E, E,3/4 E,/4 | F, A, C C, | F, D, E, F, | G,2 G,z | C,/ C,/ C,/ C,/ E, E,3/4 E,/4 | F, A, C C, | F, D, G, G, | G,2 C,z | G, G, G, G, | G, G, G, G, | D, D, D, D, | G,2 G,z | G, G, G, G, | G, G, G, G, | D, D,/ D,/ D, D, | D,2 G,,|]
+

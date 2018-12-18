@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Dejlig
+L: 1/4
+M: 4/4
+V: P1 name="Delig Er den Himmel Blaa"
+%%MIDI program 1 19
+V: P2 name="Danish Xmas"
+%%MIDI program 2 19
+V: P3 name="Danish Xmas-2"
+%%MIDI program 3 19
+V: P4 name="BillEgan@Christmas.Hm"
+%%MIDI program 4 71
+V: P5 name="Tempo Track"
+%%MIDI program 5 -1
+K: C
+[V: P1]  [^d^a] d' [fa] [dg] | [c2^g2] [d2f2] | [^A4^d4] | ^d3/ [=d/f/] [^dg] [f^g] | ^a ^d' a2 | c'3/ ^a/ ^g =g | ^a a [d2f2] | [d3/f3/] [^d/g/] [f^g] [=df] | [^d3/g3/] [f/^g/] [=g^a] [dg] | [d3/f3/] [^d/g/] [f^g] [=df] | [^d3/g3/] [f/^g/] [=g^a] [dg] | [g^a] [g^d'] [ga] [dg] | [f^g] f =g2 | [^d^a] d' [fa] [dg] | [c2^g2] [d2f2] | [^A4^d4] | ^d3/ [=d/f/] [^dg] [f^g] | ^a ^d' a2 | c'3/ ^a/ ^g =g | ^a a [d2f2] | [d3/f3/] [^d/g/] [f^g] [=df] | [^d3/g3/] [f/^g/] [=g^a] [dg] | [d3/f3/] [^d/g/] [f^g] [=df] | [^d3/g3/] [f/^g/] [=g^a] [dg] | [g^a] [g^d'] [ga] [dg] | [f^g] f =g2 | [^d^a] d' [fa] [dg] | [c2^g2] [d2f2] | [^A4^d4] | ^d3/ [=d/f/] [^dg] [f^g] | ^a ^d' a2 | c'3/ ^a/ ^g =g | ^a a [d2f2] | [d3/f3/] [^d/g/] [f^g] [=df] | [^d3/g3/] [f/^g/] [=g^a] [dg] | [d3/f3/] [^d/g/] [f^g] [=df] | [^d3/g3/] [f/^g/] [=g^a] [dg] | [g^a] [g^d'] [ga] [dg] | [f^g] f =g2 | [^d^a] d' [fa] [dg] | [c2^g2] [d2f2] | [^A4-^d4-] | [^A2^d2]z2|]
+[V: P2]  [G,^A,] [C,G,] [D,F,] C, | F,2 ^A, ^G, | [^D,4G,4] | G,3/ ^G,/ ^A, D | ^D,3 G, | ^G,3/ [=G,/^A,/] [D,A,] ^D, | F,2 ^A,2 | ^A,4 | ^A,4 | ^A,4 | ^A,4 | ^D,3/ [=D,/=D/] [C,C] ^A, | [C,C] [D,D] [^D,^D] ^A, | G, C, D, C, | F,2 ^A, ^G, | [^D,4G,4] | G,3/ ^G,/ ^A, D | ^D,2z G, | ^G,3/ [=G,/^A,/] [D,A,] ^D, | F,2 ^A,2 | ^A,4 | ^A,4 | ^A,4 | ^A,4 | ^D,3/ [=D,/=D/] [C,C] ^A, | [C,C] [D,D] [^D,^D] ^A, | [G,^A,] [C,G,] [D,F,] C, | F,2 ^A, ^G, | [^D,4G,4] | G,3/ ^G,/ ^A, D | ^D,2z G, | ^G,3/ [=G,/^A,/] [D,A,] ^D, | F,2 ^A,2 | ^A,4 | ^A,4 | ^A,4 | ^A,4 | ^D,3/ [=D,/=D/] [C,C] ^A, | [C,C] [D,D] [^D,^D] ^A, | [G,^A,] [C,G,] [D,F,] C, | F,2 ^A, ^G, | [^D,4-G,4-] | [^D,2G,2]z2|]
+[V: P3] z3 ^D,, |z2 ^A,,2 | z4 | z4 | z4 | z4 | z4 | ^A,,4 | ^D,,4 | ^A,,4 | ^D,,4 |z3 ^A,, |z3 ^A,, |z3 ^D,, |z2 ^A,,2 | z4 | z4 | z4 | z4 | z4 | ^A,,4 | ^D,,4 | ^A,,4 | ^D,,4 |z3 ^A,, |z3 ^A,, |z3 ^D,, |z2 ^A,,2 | z4 | z4 | z4 | z4 | z4 | ^A,,4 | ^D,,4 | ^A,,4 | ^D,,4 |z3 ^A,, |z3 ^A,, |z3 ^D,, |z2 ^A,,2 | z4 | z4|]
+[V: P4]  G,,2 D,, ^D,, |z2 ^A, ^G, | G,,4 | ^D,,4 | ^D,,4 | ^D,4 | F,,2 ^A,,2 | ^A,, A, A,, A, | ^D, ^A,, D, A,, | ^A,, A, A,, A, | ^D, ^A,, D, A,, | ^D,4 | ^D,,4 | G,,2 D,, ^D,, |z2 ^A, ^G, | G,,4 | ^D,,4 | ^D,,4 | ^D,4 | [F,,2^A,2] A,,2 | ^A,, A, A,, A, | ^D, ^A,, D, A,, | ^A,, A, A,, A, | ^D, ^A,, D, A,, | ^D,4 | ^D,,4 | G,,2 D,, ^D,, |z2 ^A, ^G, | G,,4 | ^D,,4 | ^D,,4 | ^D,4 | [F,,2^A,2] A,,2 | ^A,, A, A,, A, | ^D, ^A,, D, A,, | ^A,, A, A,, A, | ^D, ^A,, D, A,, | ^D,4 | ^D,,4 | G,,2 D,, ^D,, |z2 ^A, ^G, | G,,4- | G,,2z2|]
+[V: P5]  z4|]
+

@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Devonshire
+Z: English traditional melody
+Z: Public domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Devonshire, 76.76"
+%%MIDI program 2 91
+V: P3 name="Devonshire, 76.76-2"
+%%MIDI program 3 91
+K: F
+[V: P1]  [CF] [F/A/][F/A/] [F3/A3/] [F/A/] | [F/A/][E/G/] [D3/F3/] [C/G/] [F/A/][E/d/] | [Dc] [D/B/]A/ [E2G2] | [CG] [C/A/][F/B/] [F3/c3/] [F/d/] | [E/c/]A/ F3/ [C/F/] [D/F/][F/A/] | [FB] [F3/8B3/8][D3/8A3/8][E/4G/4] F2- | Fz3|]
+[V: P2]  [F,A,] [F,/C/][F,/C/] [F,A,] E,/[D,/B,/] | C/B,/ [D,3/A,3/] [E,/C/] [F,/C/]C/ | F, F, C2 | [E,B,] [F,/A,/][D,/F,/] F,3/ F,/ | A,/C/ [D,C] B,/A,/ B,/C/ | D B, [F,2-A,2-] | [F,A,]z3|]
+[V: P3]  z4 | C,z2z/ A,,/ | B,, G,, C,2 |z2 A,,3/ B,,/ | C,z3/ C,/ B,,/A,,/ | G,, C, F,,2- | F,,z3|]
+

@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: det_kimer_nu
+L: 1/4
+M: 6/4
+V: P1 name="Right Hand"
+%%MIDI program 1 0
+V: P2 name="Left Hand"
+%%MIDI program 2 0
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: D
+[V: P1]  [DF] [D2F2] [DF] D2 | [DF] [EA] C/B/ [EA] [D2F2] | [DF] [E2G2] E [D2F2] | D/E/ [D3/F3/] [E/G/] [DF] [C2E2] | [CE] [CE] [DF] [EG] [D2F2] | [DF] [CE] [DF] [CG] [D2F2] | [EA] [D2d2] [CF] [B,3/E3/] F/ | G [A,2D2] C/E/ [A,2D2]|]
+[V: P2]  [D,A,] [D,2A,2] [D,A,] [F,2A,2] | [D,A,] [C,A,] A,, C, [D,2A,2] | [B,,B,] [E,2B,2] [C,A,] [D,2A,2] | [B,,^G,] [A,,2-A,2-] [A,,A,] [A,,2A,2] | A, [A,,2A,2] [C,A,] [D,2A,2] | [F,A,] [G,A,] F, E, [D,2A,2] | [C,E,] [G,,2D,2] [A,,F,] [G,,3/G,3/] F,/ | E, [A,,2F,2] G, [D,2F,2]|]
+[V: P3]  z6 | z6 | z6 | z6 | z6 | z6 | z6 |zz/z/z/z/z/z/z2|]
+

@@ -1,0 +1,32 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Deck The Hall
+Z: Old Welsh Air
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=160
+V: P1 name="Celeste"
+%%MIDI program 1 8
+V: P2 name="Violin"
+%%MIDI program 2 40
+V: P3 name="Trumpet"
+%%MIDI program 3 56
+V: P4 name="French Horn"
+%%MIDI program 4 60
+V: P5 name="Trombone"
+%%MIDI program 5 57
+V: P6 name="Tuba"
+%%MIDI program 6 58
+K: C
+[V: P1]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | c''3/ ^a'/ =a' g' | f' g' a' f' | g'/a'/ ^a'/g'/ =a'z/ g'/ | f' e' f'2 | c''3/ ^a'/ =a' g' | f' g' a' f' | g'/a'/ ^a'/g'/ =a'3/ g'/ | f' e' f'2 | g'3/ a'/ ^a' g' | a'3/ ^a'/ c'' g' | a'/b'/ c'' d''/e''/ f'' | e'' d'' c''2 | c''3/ ^a'/ =a' g' | f' g' a' f' | d''/d''/ d''/d''/ c''3/ ^a'/ | a' g' f'2|]
+[V: P2]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | c3/ ^A/ =A G | F G A F | G/A/ ^A/G/ =Az/ G/ | F E F2 | c3/ ^A/ =A G | F G A F | G/A/ ^A/G/ =A3/ G/ | F E F2 | G3/ A/ ^A G | A3/ ^A/ c G | A/B/ c d/e/ f | e d c2 | c3/ ^A/ =A G | F G A F | d/d/ d/d/ c3/ ^A/ | A G F2 | c3/ ^A/ =A G | F G A F | G/A/ ^A/G/ =Az/ G/ | F E F2 | c3/ ^A/ =A G | F G A F | G/A/ ^A/G/ =A3/ G/ | F E F2 | G3/ A/ ^A G | A3/ ^A/ c G | A/B/ c d/e/ f | e d c2 | c3/ ^A/ =A G | F G A F | d/d/ d/d/ c3/ ^A/ | A G F2|]
+[V: P3] z/8 c3/4-c/8 c/^A/ =A G | F G A F | G/A/ ^A/G/ =Az/ G/ | F E F2 | c3/ ^A/ =A G | F G A F | G/A/ ^A/G/ =A3/ G/ | F E F2 | G3/ A/ ^A G | A3/ ^A/ c G | A/B/ c d/e/ f | e d c2 | c3/ ^A/ =A G | F G A F | d/d/ d/d/ c3/ ^A/ | A G F2 | c3/ ^A/ =A G | F G A F | G/A/ ^A/G/ =Az/ G/ | F E F2 | c3/ ^A/ =A G | F G A F | G/A/ ^A/G/ =A3/ G/ | F E F2 | G3/ A/ ^A G | A3/ ^A/ c G | A/B/ c d/e/ f | e d c2 | c3/ ^A/ =A G | F G A F | d/d/ d/d/ c3/ ^A/ | A G F2 | c3/ ^A/ =A G | F G A F | G/A/ ^A/G/ =Az/ G/ | F E F2 | c3/ ^A/ =A G | F G A F | G/A/ ^A/G/ =A3/ G/ | F E F2 | G3/ A/ ^A G | A3/ ^A/ c G | A/B/ c d/e/ f | e d c2 | c3/ ^A/ =A G | F G A F | d/d/ d/d/ c3/ ^A/ | A G F2|]
+[V: P4] z/8 A3/4-A/8 A/G/ F E | F G A F | E/F/ G/E/ F3/ E/ | C C C2 | A3/ G/ F E | F G A F | E/F/ G/E/ F3/ E/ | C C A,2 | E3/ F/ G E | F3/ G/ A E | F2 A2 | G F E2 | A3/ G/ F E | F G A F | F2 F3/ G/ | F E C2 | A3/ G/ F E | F G A F | E/F/ G/E/ F3/ E/ | C C C2 | A3/ G/ F E | F G A F | E/F/ G/E/ F3/ E/ | C C A,2 | E3/ F/ G E | F3/ G/ A E | F2 A2 | G F E2 | A3/ G/ F E | F G A F | F2 F3/ G/ | F E C2 | A3/ G/ F E | F G A F | E/F/ G/E/ F3/ E/ | C C C2 | A3/ G/ F E | F G A F | E/F/ G/E/ F3/ E/ | C C A,2 | E3/ F/ G E | F3/ G/ A E | F2 A2 | G F E2 | A3/ G/ F E | F G A F | F2 F3/ G/ | F E C2|]
+[V: P5] z/8 A,3/4-A,/8 A, A, G, | A, G, F,2 | G, G, F,3/ ^A,/ | A, G, A,2 | A,2 A, G, | A, G, A,2 | C ^A, =A,3/ G,/ | A, G, A,2 | G,2 G,2 | F,3/ G,/ A, F, | A,/B,/ C A,2 | G, F, G,2 | A,3/ G,/ F, G, | F, G, A,2 | ^A,2 =A,3/ G,/ | F, G, A,2 | A, A, A, G, | A, G, F,2 | G, G, F,3/ ^A,/ | A, G, A,2 | A,2 A, G, | A, G, A,2 | C ^A, =A,3/ G,/ | A, G, A,2 | G,2 G,2 | F,3/ G,/ A, F, | A,/B,/ C A,2 | G, F, G,2 | A,3/ G,/ F, G, | F, G, A,2 | ^A,2 =A,3/ G,/ | F, G, A,2 | A, A, A, G, | A, G, F,2 | G, G, F,3/ ^A,/ | A, G, A,2 | A,2 A, G, | A, G, A,2 | C ^A, =A,3/ G,/ | A, G, A,2 | G,2 G,2 | F,3/ G,/ A, F, | A,/B,/ C A,2 | G, F, G,2 | A,3/ G,/ F, G, | F, G, A,2 | ^A,2 =A,3/ G,/ | F, G, A,2|]
+[V: P6] z/8 A,,3/4-A,,/8 A,,/G,,/ F,, ^A,, | A,, G,, F,, A,, | ^A,,/=A,,/ G,,/E,,/ F,,z/ ^A,,/ | A,, C,, F,,2 | A,,3/ G,,/ F,, ^A,, | A,, G,, F,, A,, | ^A,,/=A,,/ G,,/E,,/ F,,z/ ^A,,/ | A,, C,, F,,2 | C,,2 C,,2 | F,,2 F,,2 | C,/B,,/ A,,/G,,/ F,,/E,,/ D,, | G,,2 C,,2 | A,,3/ G,,/ F,, ^A,, | A,, G,, F,, A,, | ^A,, A,, =A,, A,, | C,, C,, F,,2 | A,,3/ G,,/ F,, ^A,, | A,, G,, F,, A,, | ^A,,/=A,,/ G,,/E,,/ F,,z/ ^A,,/ | A,, C,, F,,2 | A,,3/ G,,/ F,, ^A,, | A,, G,, F,, A,, | ^A,,/=A,,/ G,,/E,,/ F,,z/ ^A,,/ | A,, C,, F,,2 | C,,2 C,,2 | F,,2 F,,2 | C,/B,,/ A,,/G,,/ F,,/E,,/ D,, | G,,2 C,,2 | A,,3/ G,,/ F,, ^A,, | A,, G,, F,, A,, | ^A,, A,, =A,, A,, | C,, C,, F,,2 | A,,3/ G,,/ F,, ^A,, | A,, G,, F,, A,, | ^A,,/=A,,/ G,,/E,,/ F,,z/ ^A,,/ | A,, C,, F,,2 | A,,3/ G,,/ F,, ^A,, | A,, G,, F,, A,, | ^A,,/=A,,/ G,,/E,,/ F,,z/ ^A,,/ | A,, C,, F,,2 | C,,2 C,,2 | F,,2 F,,2 | C,/B,,/ A,,/G,,/ F,,/E,,/ D,, | G,,2 C,,2 | A,,3/ G,,/ F,, ^A,, | A,, G,, F,, A,, | ^A,, A,, =A,, A,, | C,, C,, F,,2|]
+

@@ -1,0 +1,21 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Dejlig Er Den Himmel Blaa-Laub
+Z: Thomas Laub, 1917
+Z: Midi copyright © 1999 by Jørgen Ebert
+Z: All Rights Reserved
+L: 1/4
+M: 6/4
+Q: 1/4=104
+V: P1 name="Right hand"
+%%MIDI program 1 19
+V: P2 name="Left hand"
+%%MIDI program 2 19
+K: Eb
+[V: P1]  [E2B2] [EG] [G2B2] B | [A2c2] [Ec] [E3B3] | [E2e2] [Ec] [E2B2] [EG] | [E2F2] [DF] [B,3E3] | [D2F2] [DF] [EG] A [EB] | [Ac] e [Ac] [G2B2] [EG] | [D2F2] [DF] [EG] A [EB] | [Ac] e [Ac] [G2B2] [EG] | [C2A2] [Cc] [F2B2] [EG] | [EF] D F [B,3E3]|]
+[V: P2]  [E,2G,2] [E,B,] [E,2E2] [G,E] | [A,2E2] [A,,A,] [E,3G,3] | [C,2G,2] [C,A,] [E,2G,2] [E,B,] | [B,,2B,2] [B,,B,] [E,3G,3] | [B,,2B,2] [B,,B,] [E,B,] [A,C] [G,E] | [A,E] C [A,E] [E,2E2] [E,B,] | [B,,2B,2] [B,,B,] [E,B,] [A,C] [G,E] | [A,E] C [A,E] [E,2E2] [E,B,] | [F,2A,2] [E,G,] [D,2F,2] [E,B,] | [B,,2B,2] [B,,B,] [E,3G,3]|]
+

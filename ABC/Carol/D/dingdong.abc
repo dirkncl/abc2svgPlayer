@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ding Dong! Merrily On High
+Z: From Arbeau's "Orchesographie."
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  B B c/ B/ A/ G/ | F3 F | G B B A | B2 B2 | B B c/ B/ A/ G/ | F3 F | G B B A | B2 B2[|: (f3/ e/ d/e/f/d/ | e3/ d/c/d/e/c/ | d3/ c/B/c/d/B/ | c3/ B/A/B/c/A/ | B3/ A/G/A/B/G/ | A3/) G/ F F | G B B A | B2 B2 :|]|] Z 
+w: Ding Dong! mer- ri ly on high In heav'n the bells are ring- ing Ding, dong! ver- i ly the sky Is riv'n with an- gel sing- ing Glo-______________________________ ri a, Ho- san na in ex- cel sis!
+[V: P2]  F F G/ G/ E/ E/ | C3 F | F E C F | F2 F2 | F F G/ G/ E/ E/ | C3 F | F E C F | F2 F2[|:z (F2 B | B/A/G/F/ G/F/ E |z F/E/ D G | G/F/E/D/ E/D/ C |z D/C/ B, E | C/D/E/) D/ C F | F E C F | F2 F2 :|]|] Z 
+[V: P3]  D B, G,/ G,/ C/ B,/ | A,3 B, | B, B, C C | D2 D2 | D B, G,/ G,/ C/ B,/ | A,3 B, | B, B, C C | D2 D2[|:z (C D B, | C B,2 C |z A, B, G, | A, G,2 A, |z F, G, G, | C) A, B, C | B, B, C C | D2 D2 :|]|] Z 
+[V: P4]  B,, D, E,/ E,/ C,/ C,/ | F,3 D, | E, G, F, F, | B,,2 B,,2 | B,, D, E,/ E,/ C,/ C,/ | F,3 D, | E, G, F, F, | B,,2 B,,2[|:z (A, B, D, | C, D, E,/D,/ C, |z F, G, B,, | A,, B,, C,/B,,/ A,,) |z (D, E, G, | F,) G, A, B, | E, G, F, F, | B,,2 B,,2 :|]|] Z 
+

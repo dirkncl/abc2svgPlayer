@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Du Gronne Glitrende Tre
+Z: Edvard Grieg
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B/ | G E/ G3/4F/4E/ | F c/ B B/ | G E/ G3/4 F/4 E/ | F c/(3 c/B/A/ | G B/(3 e/d/B/ | c =A/ F B/ | c d/(3 c/B/B/ |(3 (c/e/)d/ c/ B/ B/ | e d/ c3/4B/4A/ | d c/ B3/4A/4G/ | (c3 | c3/) d3/ | (e3/ e)z/|]
+w: Du grøn- ne glit- ren de tre, god dag! Vel- kom men, du som vi ser så gjer- ne, med ju- le lys og med nor- ske flagg og høyt i top- pen den blan-_ ke stjer- ne! Ja den må skin- ne, for den skal min- ne Oss om_ vår Gud._
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Deep The Gloom And Still The Night
+Z: Rev. G. P. Grantham
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c c A A | B B G2 | A c F A | A2 G2 | c c A A | B d c2 | G B A G | F2 F2 | G A B G | A B c2 | G A B G | A d c2 | c c A c | d G c2 | G B A G | F2 F2|]
+w: Deep the gloom, and still the night Cold and damp the wea- ther, When, the chill night- air des- pite, Met three kings to- geth er. One was old with snow- white hair One the prime of man- hood bare, And the third a youth, stood there With the mon the hea- ther.
+

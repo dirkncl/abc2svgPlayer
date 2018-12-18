@@ -1,0 +1,17 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=252
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F3 E"^(15)" D2 E2 | F2 G2 A2 D2 | B2 B2 A2 D2 | G2 F2 E2 F2 | G2 G2 G2 F2 | E2 F2 E2 D2 |"^(16)" D2 A2 _B3 B | A2 G2 A2 D2 | d3 =c _B2 A2 | G2 (=F _E) D2 D2 | z4 E2 E2 | D3 G A2 G2 | (F2 E2 F4) | G4 |"^(17)" F3 E D2 E2 | F2 G2 A2 D2 | B3 B A2 D2 | G2 F2 E2 ^F2 | G2 G2 G2 F2 | E2 F2 E2 D2 |"^(18)" F2 F2 _E2 E | _E2 E2 D2 D2 | F2 F2 _E3 E | _E2 E2 D2 D2 | d3 d | d4 A4 | z4 A3 A | A4 A4 | z4 d2 d2 | d6 A2 | A4 A4 | (^c4 =B4) | A4 z4 |"^(19)" [K: D]  F4 F4 | F4 A4 | A6 G2 | (E4 E4) | G4 G4 | A4 B4 | (D4 F4 | F4) E4 | (D4 D4)|]
+w: With thy fav- ored sheep O place me; Nor a- mong the goats a- base me; But to thy right hand up- raise me. While the wick- ed are con- found ed, Doomed to flames of woe un-_ bound ed Call me with thy saints sur- round__ ed. Low I kneel, with heart sub- mis sion, See, like ash- es, my con- tri tion; Help me in my last con- di tion. Ah! that day of tears and mourn- ing! From the dust of earth re- turn ing Man for judg- ment must pre- pare him; Spare, O God, in mer- cy spare_ him! Lord, all pity- ing, Je- sus blest,_ Grant them thine e- ter__ nal rest._
+

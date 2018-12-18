@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Dent Dale
+Z: English Traditional Melody
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  B3/ B/ B B | A B c2 | B3/ c/ d d | (e/d/) (c/B/) F2 | (G/F/) (B/G/) F F | E3/ F/ D2 | F3/ F/ F e | d c B2|]
+[V: P2]  F3/ F/ G F | E D F2 | B3/ F/ F G | (G/F/) (E/D/) C2 | (E/F/) E F D | E C B,2 | F3/ F/ F G | F E D2|]
+[V: P3]  D3/ D/ B, B, | F, F, A,2 | D3/ C/ B, B, | B, G, A,2 | B, (B,/A,/) B, B, | B, A, B,2 | F,3/ A,/ B, B, | B, A, B,2|]
+[V: P4]  B,3/ B,/ E, D, | C, B,, F,2 | G,3/ A,/ B, G, | C, E, F,2 | (E,/D,/) C, D, B,, | C, F, B,,2 | F,3/ E,/ D, C, | F, F, B,,2|]
+

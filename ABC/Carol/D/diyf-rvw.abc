@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Down In Yon Forest
+Z: English Traditional
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=72
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  A/B/A/ G/A/B/ | c/B/A/ B ^F/4E/4 | A/B/A/ G/A/B/ | c/B/A/ B B/ | c/B/c/ d/c/d/ | e/c/A/ ^G ^F/4E/4 | A/B/A/ G/A/B/ | c/B/c/ A3/|]
+

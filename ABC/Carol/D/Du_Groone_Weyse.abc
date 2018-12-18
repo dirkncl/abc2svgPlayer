@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Du Groone, Glitrende Tre, God-Dag
+Z: C. E. F. Weyse
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D/ | B G/ c3/4 B/4 A/ | (d3/4e/4) d/ B G/ | e d/ d3/4 c/4 B/ | A E/ G/ F/ D/ | B G/ c3/4 B/4 A/ | d B/ A d/ | e G/ F/ A/ d/ | (d/f/) e/ e/ d/ D/ | F G/ B/ A/ ^G/ | A B/ d/ c/ B/ | B B/ B/ c/ B/ | B c/ e/ d/ c/ | B3/ A3/ | (d3/ d) G/ | B3/ A3/ | (G3/ G)|]
+w: Du grøn- ne glit- ren de tre,_ god dag! Vel- kom men, du som vi ser så gjer- ne, med ju- le lys og med nor- ske flagg og høyt i top- pen den blan-_ ke stjer- ne! Ja den må skin- ne, for den skal min- ne Ja den må skin- ne, for den skal min- ne Oss om vår Gud,_ Oss om vår Gud._
+

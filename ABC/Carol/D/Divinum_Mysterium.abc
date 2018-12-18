@@ -1,0 +1,32 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Divinum Mysterium
+Z: 13th Century Plainsong
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal
+L: 1/4
+M: none
+Q: 1/4=100
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2_1 name="Staff 2"
+V: P2_2
+%%MIDI program 2 16
+V: P3_1 name="Divinum Mysterium"
+V: P3_2
+%%MIDI program 3 91
+K: Eb
+[V: P1]  (E/ F/ G/ A/ G/ F/ G/F/ E | G/ A/ B/ c/ B/G/ A/ B) | (c/ d/ e/ B/ B/ A/ G/F/ E | C/ D/ E/ F/ E/C/ D/ E) | (E/ F/ G/ A/ G/ F/ B/c/ B/G/A/ G | E/ D/ C/ D/ E/ C/ B,) | (E/ F/ G/ B/ G/ E/ F E3)|]
+% Extracting voice 1 from part P2
+[V: P2_1]  (E/F/G/A/ G/F/ G/F/ E | G/A/B/c/ B/G/A/ | (c/d/e/B/ B/A/ G/F/ [CE] | | (E/F/G/A/ G/F/ B/c/ B/G/A/ [DB] | E/D/ C/D/E/C/ [F,)B,)] | E/F/G/B/ G/E/ F E3|]
+% Extracting voice 2 from part P2
+[V: P2_2]  C D | E2- E F/- F) | E2- B,/ E/ C/ E/ D x1  | | C E E3/ x1  | B, A, G,/ A,/ x1  | B,2 C- C/D/|]
+% Extracting voice 1 from part P3
+[V: P3_1]  (G,/A,/ B, [B,,B,] [F,A,] | | | | (G,/A,/)z (B, E, E,/- E, [B,,F,] | [G,,G,] E,2 [B,,)D,)] | [(G,,2(E,2-] E,/G,/ F, [E,3)G,3)]|]
+% Extracting voice 2 from part P3
+[V: P3_2]  E,- E, A,, x2  | | | | E,2 x1  A,, G,,3/ C, x1  | x1  A,,/B,,/C,/A,,/ x1  | x2  C, A,,/B,,/ x3 |]
+

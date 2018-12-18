@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: dejlig_er_jorden
+L: 1/4
+M: 4/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Unnamed-001"
+%%MIDI program 2 0
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: D
+[V: P1]  [A,2D2] [B,D] D | [B,E] [A,C] [A,2D2] | [DF] F [DF] F | [B,G] [CE] [D2F2] | [D2A2] d B | [D2A2] [EG] [DF] | G C [D2F2] | [C3E3]z | [F2A2] [FB] A | [FA] [^DF] [E2G2] | [E2G2] [EA] G | [EG] [CE] [DF] [DF] | [DF] F [DA] [EG] | [D2F2] [C2E2] | [A,4D4]|]
+[V: P2]  [D,2F,2] [B,,2F,2] | [G,,G,] [A,,E,] [D,2F,2] | [D,2A,2] [B,,2B,2] | [E,G,] [A,,A,] [D,2A,2] | [D,2F,2] B, G, | [D,2F,2] [C,A,] D, | [E,2G,2] [F,A,] G, | A,3z | [F,C] E, [^D,2B,2] | [E,2B,2] [E,2B,2] | [E,B,] D, [C,2A,2] | [D,2A,2] [D,A,] [D,A,] | [B,,2B,2] [F,,A,] [G,,B,] | [A,,3A,3] G, | [D,4F,4]|]
+[V: P3]  z4|]
+
