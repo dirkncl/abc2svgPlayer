@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Elmhurst
+Z: Edwin Drewett, 1887
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=117
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Elmhurst, 88.86"
+%%MIDI program 2 91
+K: C
+[V: P1]  [CE] [C3/E3/] [C/E/] [CF] | [CE] [B,G] [B,D] [CE] | C [C3/A3/] [C/G/] [B,F] | [CE] [CE] [CD] [B,D] | [B,D] [C3/E3/] [B,/F/] [CG] | [Ec] [^DB] D/A/ [EG] | [EG] [DF] [A,D] A, | [G,B,] [G,3-C3-] | [G,C]z3|]
+[V: P2]  [C,G,] [C,3/G,3/] [C,/G,/] [C,A,] | [C,G,] [G,,G,] [G,,F,] [C,E,] | [E,G,] F,3/ [E,/G,/] [D,G,] | [C,G,] [A,,G,] [A,,^F,] [G,,G,] | [G,,G,] [C,3/G,3/] [D,/G,/] [E,G,] | [A,,A,] [B,,^F,] [B,,B,] [E,B,] | [^C,^A,] [D,=A,] [F,,F,] [G,,F,] | [G,,/G,/]F,/ [C,3-E,3-] | [C,E,]z3|]
+

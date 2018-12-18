@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Es fuhrt drei Konige Gottes Hand
+Z: From Koln Gesangbuch, 1623
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=129
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  F | F2 F | c2 c | B2 A | G2 c | c2 d | e2 c | B2 G | F2 A | c2 c | B2 B | c2 d | e2 e | e2 e | c2 e | c2 B | A2 A | A2 A | A2 G | F2 F | G2 G | B2 B | c2 B | A G2 | F2|]
+w: There came three kings from east- ern land, Star- led by God's Al- migh ty hand, To Christ- ward thro' Hie- ru sa lem, Un- to the crib at Beth- le hem. God, thi- ther to our foot- steps guide, To serve that Babe at ev- ry tide.
+

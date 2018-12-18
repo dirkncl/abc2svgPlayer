@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ein Kindlein in der Wiegen
+Z: Corner's "Nachtigall," 1649
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B/ | (B/ c/) d/ G G/ | (A/ G/ A/) B G/ | A B/ (c/ d/) c/ | (B3/ B) B/ | (B/ c/) d/ G G/ | (A/ G/ A/) B G/ | A B/ (c/ d/) c/ | (B3/ B) =D/ | (E/ F/) G/ (A/ B/) A/ | (G3/ G) =D/ | (E/ F/) G/ (A/ B/) A/ | (G3/ G)|]
+w: I heard_ an In- fant weep-__ ing, And yearn- ing sore_ for rest;_ But, ere_ he fell a- sleep__ ing, Thus sung his Mo-_ ther blest:_ Babe Je-_ su, lul-_ la by!_ Babe Je-_ su, lul-_ la by!_
+

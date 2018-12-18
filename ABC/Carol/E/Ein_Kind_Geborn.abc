@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ein Kind Gebor'n
+Z: Old German Carol
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=152
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  G | G2 G | A2 A | B2 G | F2 F | B2 d | c2 c | B2 B | B2 B | d2 d | c2 c | B2 A | G2 G | c2 c | d2 c | B2 A | G2|]
+[V: P2]  D | D2 D | F2 F | F2 E | D2 D | D2 F | G2 F | D2 E | D2 F | F2 F | F2 F | D2 D | B,2 B, | E2 F | F2 E | D2 D | B,2|]
+[V: P3]  B, | B,2 B, | C2 C | B,2 B, | B,2 B, | B,2 B, | B,2 A, | B,2 G, | B,2 D | B,2 B, | A,2 A, | G,2 ^F, | G,2 G, | G,2 A, | B,2 G, | (G, =E,) ^F, | G,2|]
+[V: P4]  G, | G,2 G, | F,2 F, | D,2 E, | B,,2 B, | G,2 D, | E,2 F, | B,,2 E, | B,,2 B,, | B,,2 D, | F,2 F, | G,2 D, | E,2 E, | C,2 F, | B,,2 C, | D,2 D, | G,,2|]
+

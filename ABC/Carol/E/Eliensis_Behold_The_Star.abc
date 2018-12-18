@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Eliensis
+Z: C. J. B. Meacham
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  d | c B A G | E2 D G | c3/ c/ B A | B3 d | c B A G | E2 D A | A3/ G/ F E | D3 D | A3/ A/ A B | c2 A A | c3/ c/ c d | e3 e | A d G c | B2 G A | B c A3/ G/ | G3|]
+w: Be- hold! the Star is shin- ing– Is shin- ing e- ver bright, It leads the East- ern sa- ges With pure, ce- les tial light; It leads o'er plains and moun- tains, It leads o'er de- serts wild, To Beth- lehem's vine clad sum- mit, To Ma- ry's new- born Child.
+[V: P2]  G | G G D D | (D C) D B, | C3/ C/ D D | D3 G | G G D D | ^C2 D D | F3/ E/ D ^C | D3 D | D3/ D/ D D | C2 E E | E3/ E/ =F F | E3 E | F D E E | ^D2 E E | G G F3/ G/ | G3|]
+[V: P3]  B, | E D C B, | G,2 G, G, | G,3/ G,/ F, F, | G,3 B, | E D C B, | A,2 A, A, | B,3/ B,/ A, G, | F,3 F, | F,3/ F,/ F, ^G, | A,2 C C | C3/ C/ A, B, | C3 C | A, G, G, G, | (F, B,) B, E | D E C C | B,3|]
+[V: P4]  G, | G, G, G, G, | C,2 B,, E, | A,,3/ A,,/ D, D, | G,,3 G, | G, G, G, G, | G,2 F, F, | E,3/ E,/ A,, A,, | D,3 D, | D,3/ D,/ C, B,, | A,,2 A,, A,, | A,3/ A,/ =F, D, | C,3 C, | D, B,, C, A,, | B,,2 E, C, | D, D, D, D, | G,,3|]
+

@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Eden
+Z: "Sacred Hymns and Tunes," Boston, 1880
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Unnamed-001"
+%%MIDI program 2 91
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 91
+K: C
+[V: P1]  [G,C] [CE] [CF] [CG] | [CA] [CG] B, [CE] | [B,D] [CE] [CG] [CA] | [CF] [B,3D3] | [G,C] [CE] [CF] [CG] | [CA] [CG] B, [CE] | [B,D] [CE] [DG] [EA] | [D^F] [D3G3] | [B,D] [B,D] [^CE] [DF] | [DG] [DE] C [B,D] | [DG] [Cc] [DB] [EA] | [D/A/]C/ [B,3G3] | [G,C] [CE] [CF] [CG] | [CA] [CG] B, [CE] | [CG] [CA] [CF] [CE] | [B,D] [G,3-C3-] | [G,C]z3|]
+[V: P2]  [C,E,] [C,G,] F, E, | F, D, G, [C,G,] | G, [C,G,] G, F, | A, G,3 | [C,E,] [C,G,] F, E, | F, D, G, [C,G,] | G, [C,G,] [B,,G,] C | [D,A,] B,3 | G, [F,A,] [E,G,] [D,A,] | [B,,G,] [C,G,] E, G, | [F,B,] [E,G,] [D,G,] [C,G,] | [D,^F,] D,3 | [C,E,] [C,G,] F, E, | F, D, G, [C,G,] | G, F, A, G, | G,/F,/ [C,3-E,3-] | [C,E,]z3|]
+[V: P3] z2 A,, G,, | F,, G,,2z | G,,z E,,z | D,, G,,3 |z2 A,, G,, | F,, G,,2z | G,,z2 A,, |z G,,3 | z4 | z4 | z4 |z G,,3 |z2 A,, G,, | F,, G,,2z | E,, F,, D,, G,, | G,,z3 | z4|]
+

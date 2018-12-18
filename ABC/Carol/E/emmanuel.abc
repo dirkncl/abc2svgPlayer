@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Emmanuel
+Z: Carl C. N. Balle (1806-1855)
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=140
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Unnamed-001"
+V: P2_2
+%%MIDI program 2 91
+K: E
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | B3/ [D/c/] [FB] | | | | | | | | | | | F3/ G/ [CA] | [B,2E2] D/F/ ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | F D/- x1  | | | | | | | | | | | C2 x1  | x2  B, ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | B,2 [D,B,] | | | | | | | | | | | A,3/ ^E,/ [A,,F,] | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | D, B,, x1  | | | | | | | | | | | A,,2 x1  | ||]
+

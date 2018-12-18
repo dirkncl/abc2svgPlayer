@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Eudoxia
+Z: Sabine Baring-Gould (1834-1924)
+Z: Public domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Eudoxia, 65.65"
+%%MIDI program 2 91
+K: G
+[V: P1]  [DB] [DB] [Ec] [Gc] | [F2d2] [D2B2] | [Ec] [Ec] [DB] [DB] | [D4A4] | [DB] [DB] [DA] [B,G] | [E2c2] [D2B2] | [EB] [DB] [EA] [D/A/]C/ | [B,4G4]|]
+[V: P2]  G, G, [E,G,] [E,G,] | [D,2A,2] [G,2B,2] | [C,G,] [C,G,] G, [G,,G,] | [D,4F,4] | [B,,G,] [B,,G,] [D,F,] [E,G,] | [C,2G,2] G,2 | [E,G,] [B,,G,] [C,G,] [D,F,] | [G,,4G,4]|]
+

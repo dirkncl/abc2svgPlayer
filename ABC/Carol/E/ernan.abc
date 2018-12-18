@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ernan, LM
+Z: Lowell Mason, 1850
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 4/4
+Q: 1/4=145
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Ernan, LM"
+V: P2_2
+%%MIDI program 2 91
+K: Bb
+% Extracting voice 1 from part P1
+[V: P1_1]  | | (B A) (G A) | | | | (c B) [(F(A] [=E)G)] | F4 | | | (B A) (G A) | | | F2 [(D(B] [F)c)] | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | E2 E2 | | | | F2 x2  | F4 | | | E2 E2 | | | F2 x2  | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | [B,,2B,2] (A, C) | [(A,,(C] [B,,)D)] (C B,) | | | | | | | | F,2 F,2 ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | x2  F,2 | x2  C,2 | | | | | | | | F,2 F,2 ||]
+

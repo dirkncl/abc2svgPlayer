@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ecce novum gaudium
+Z: Melody from Piae Cantiones
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G G A B | c B A2 | B G A F | G2 G2 | G A B c | d c B2 | c A B G | G2 G2 | B B c c | d2 d2 | d e d c | d2 B2 | B B c B | A2 B2 | B G A F | G2 G2|]
+w: Here is joy for ev- ry age, Ev- ry gen- e ra tion; Prince and pea- sant, chief and sage, Ev- ry tongue and na- tion: Ev- ry tongue and na- tion, Ev- ry rank and sta- tion Hath to- day sal- va tion, Al- le Al- le lu ya.
+

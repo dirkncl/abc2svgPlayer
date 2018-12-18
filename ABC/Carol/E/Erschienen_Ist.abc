@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Erschienen Ist, LM hallelujah
+Z: Nikolaus Herman, 1560
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 3/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Erschienen Ist"
+V: P2_2
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | G3/ F/ [CE] | | C3 | C [DF] [EG] | | | | F3/ G/ [^CE] | D4|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | C2 x1  | | C3 | C x2  | | | | D2 x1  | D4|]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | G,2 [D,^F,] | | [D,^F,] G, [E,G,] | | [A,,A,] A, ^G, | | [D,F,] [C,G,] F, | G,2 [C,G,] | | | | | | F,2 [C,C] | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | C,3/ G,,/ x1  | | x1  G, x1  | | x1  E,2 | | x2  F, | E,3/ D,/ x1  | | | | | | F,2 x1  | ||]
+

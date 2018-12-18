@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Eifionydd
+Z: John Ambrose Lloyd, Sr. (1815-1874)
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Unnamed-001"
+%%MIDI program 2 91
+K: C
+[V: P1]  [EA] [E/A/]B/ [Ec] [F/B/]A/ | [E^G] [E/A/]^D/ [EB] [B,E] | [EA] [E/^G/]A/ [FB] [E/A/][F/B/] | [Ec] B/D/ [C2A2] | [CA] [C/A/][D/B/] [Ec] [F/B/]A/ | [E^G] [E/A/]^D/ [EB] [B,E] | [C/A/]E/ [D/^G/][C/A/] [D/B/]F/ [E/A/][D/B/] | [C/c/]E/ B/D/ [C2A2] | [Ec] [E/c/]d/ [Ee] [Ec] | [EB] [Ec] [Fd] [E/B/]D/ | [C/A/]D/ [E/A/]B/ [Ec] [Ee] | [Fd] [Ec] [E2B2] | [Ee] [E/e/]d/ [Ec] [^GB] | A/E/ [E/^G/]A/ [GB] E | [EA] [D/^G/][E/A/] [FB] [E/A/][F/B/] | [Ec] B/D/ [C2-A2-] | [C2A2]z2|]
+[V: P2]  [A,C] [A,/C/]D/ [A,E] [D,/D/]C/ | [E,B,] [F,A,] [E,^G,] [E,/G,/]D,/ | [C,A,] [B,,/B,/][A,,/C/] [D,B,] [C,/E,/][D,/A,/] | [E,A,] [E,^G,] [A,,2A,2] | [A,,A,] [A,,A,] A,/E/ [D,/D/]C/ | [E,B,] [F,A,] [E,^G,] [E,/G,/]D,/ | [C,A,] [B,,/B,/][A,,/C/] [D,B,] [C,/E,/][D,/F,/] | E,/A,/ E,/^G,/ [A,,2A,2] | A, [A,C] [^G,B,] A, | [E,^G,] [A,,A,] [D,A,] [E,G,] | [A,,/A,/]B,/ [A,,/C/]D/ [A,E] [C,A,] | [D,A,] [A,,A,] [E,2^G,2] | [C,A,] [E,^G,] A, [E,/B,/]D,/ | [C,/C/]E/ [B,,/D/][A,,/C/] [E,B,] [E,/^G,/]D,/ | [C,A,] [B,,/B,/][A,,/C/] [D,B,] [C,/E,/][D,/A,/] | [E,A,] [E,^G,] [A,,2-A,2-] | [A,,2A,2]z2|]
+

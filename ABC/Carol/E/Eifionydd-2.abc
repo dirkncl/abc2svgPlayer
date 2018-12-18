@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Eifionydd
+Z: John Ambrose Lloyd, Sr. (1815-1874)
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  A (A/B/) c (B/A/) | ^G (A/^D/) B E | A (^G/A/) B (A/B/) | c (B/D/) A2 | A (A/B/) c (B/A/) | ^G (A/^D/) B E | (A/E/) (^G/A/) (B/F/) (A/B/) | (c/E/) (B/D/) A2 | c (c/d/) e c | B c d (B/D/) | (A/D/) (A/B/) c e | d c B2 | e (e/d/) c B | (A/E/) (^B/c/) d E | A (^G/A/) B (A/B/) | c (B/D/) (A2 | A2)|]
+[V: P2]  E E E F | E E E B, | E E F (E/F/) | E (B/D/) C2 | C (C/D/) E F | E E E B, | C (D/C/) D (C/B,/) | C C C2 | E E E E | E E F E | C E E E | F E E2 | E E E ^G | E E G E | E (D/E/) F (E/F/) | E E (C2 | C2)|]
+[V: P3]  C (C/D/) E (D/C/) | B, A, ^G, (G,/D,/) | A, (A,/B,/) A, (E,/A,/) | A, ^G, A,2 | A, A, (A,/E/) (D/C/) | B, A, ^G, (G,/D,/) | A, (B,/C/) B, (E,/F,/) | (E,/A,/) (E,/^G,/) A,2 | A, C B, A, | ^G, A, A, G, | (A,/B,/) (C/D/) E A, | A, A, ^G,2 | A, ^G, A, B, | (C/E/) (D/C/) B, ^G, | A, (B,/C/) B, (E,/A,/) | A, ^G, (A,2 | A,2)|]
+[V: P4]  A, A, A, D, | E, F, E, E, | C, (C,/B,,/) D, C, | E, E, A,,2 | A,, A,, A,, D, | E, F, E, E, | C, (B,,/A,,/) D, (C,/D,/) | E, E, A,,2 | A, A, ^G, A, | E, A,, D, E, | A,, A,, A, C, | D, A,, E,2 | C, E, A, (E,/D,/) | C, (B,,/A,,/) E, (E,/D,/) | C, (B,,/A,,/) D, (C,/D,/) | E, E, (A,,2 | A,,2)|]
+

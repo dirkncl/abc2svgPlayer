@@ -1,0 +1,22 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Smert
+Z: Richard Smert
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=75
+V: P1 name="Voice 1"
+%%MIDI program 1 60
+V: P2 name="Voice 2"
+%%MIDI program 2 73
+K: C
+[V: P1] zz c | c2 A | G c2 | B/(A3/4A/4) (G3/4G/4^E/ | G2)z | A2 (A/A/) | G (A G/c/) | (d/ e d/c/B/) | (G/A/G/ c B/) | (c F G/A/ | B/c3/4B/4A/ G | F4) |"^Verse"zz c | c2 A | (B/c/) (d3/4c/4 d/B/) | (A G A/) (c/ | c/4B/4c/ d/ c B/) | cz c | B3/ c/ (d | e3/) d/ (B | A G/ G ^F/ | G)z/ G/ | (A/G/ F F/A/ | A/4G/4F/ G/E/ D) | C2z | (E3/4F/4G/) (A G/) | E (G/A/G/) (c/ | c/4B/4)(A/ G/c/d/e/ | e/) (d3/4c/4 c B/) | c2z | (B2 c | d/e/f/ d ^c/) | d4 | (B2 c | d/e3/4d/4 d/B/^c/) | d4|]
+w: No- el, No- el, No- el, No-_ el___ Tid- ings_ good I__ think____ to____ tell._________ The boar- es head,_ that___ we__ bring______ here, Be- to ke neth_ a prince_____ with- out__________ peer Is__ born_ this day__ to__ buy_____ us___ dear, No-______ el. No-_______ el.
+[V: P2] zz c | c2 f | e2 c | (d3/4c/4) B A | G2z | f2 (f/f/) | e (c/d/) e | f/g/e/f/a/(g/ | g/ f/)g/e/ d | c f (e/f/) | (g/f/d/) f e/ | f4 |zz c | e2 f | g f/ d (g/ | g/)f/g/e/ f | c/e/f/c/ d | cz A | G2 G | c2 e/ (d/ | d/) c B/ A | G/c/d/e/ | f/g3/4g/4 f/e3/4c/4 | c/d/e/ c B/ | c2z | c c2 | c2 c | c c2 | B c d | c2z | g2 a | (g3/4f/4) d e | d4 | G B A | B/c/ d A | [D4d4]|]
+

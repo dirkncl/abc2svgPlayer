@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Es ist ein' Ros
+Z: 15th Century German
+Z: Public domain
+L: 1/4
+M: none
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Es ist ein' Ros"
+V: P2_2
+%%MIDI program 2 91
+K: F
+% Extracting voice 1 from part P1
+[V: P1_1]  | | A G2 D F2 C2 E [C2)F2)] [(A2(c2] | | | A G2 F2 E [C3)F3)] [(F(A] | | | | | [FA] G [C2F2] [CE] ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | C2 A, x4  | | | C2 D A, C2 x4  | | | | | x1  D x3  ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | [F,A,] [E,C] B, C,2 [F,2)A,2)] [(F,2(C2] | | | [F,A,] [E,C] B, A,2 G, [F,3)A,3)] [(A,(C] | | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | x2  D,2 A,2 G, x4  | | | x2  D,2 C,2 x4  | | | | | ||]
+

@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ellacombe
+Z: German Anonymous, 1874
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F | B (A/G/) F B | (D E) F F | (G/A/) B c c | d3 F | B (A/G/) F B | (D E) F F | (G/A/) B B A | B3 (B/c/) | d c d e | (c A/B/) c (B/c/) | d c d e | c3 F | B (A/G/) F B | (D E) F F | (G/A/) B B A | B3|]
+[V: P2]  F | B (A/G/) F F | (D C/B,/) C D | E F G F | F3 F | B (A/G/) F F | (D C/B,/) C D | E F G F | F3 (D/E/) | F F F G | F2 F (D/E/) | F F F G | F3 F | B (A/G/) F F | (D C/B,/) C D | E F G F | F3|]
+[V: P3]  F, | B, (A,/G,/) F, B, | B,2 A, B, | B, B, B, A, | B,3 F, | B, (A,/G,/) F, B, | B,2 A, B, | B, B, C C | D3 B, | B, C B, B, | (A, F,/G,/) A, B, | B, C B, B, | A,3 F, | B, (A,/G,/) F, B, | B,2 A, B, | B, B, C C | D3|]
+[V: P4]  F, | B, (A,/G,/) F, D, | G,2 F, B,, | E, D, E, F, | B,,3 F, | B, (A,/G,/) F, D, | G,2 F, B,, | E, G, F, F, | B,,3 B, | B, A, B, E, | F,2 F, B, | B, A, B, E, | F,3 F, | B, (A,/G,/) F, D, | G,2 F, B,, | E, G, F, F, | B,,3|]
+

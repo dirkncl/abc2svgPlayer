@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ellacomb
+Z: Gesangbuch der H. W. k Hofkapelle, 1784
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=116
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: C
+[V: P1]  G c B/A/ G | [Gc] E [D/F/]C/ [DG] | [EG] [F/A/]B/ [Gc] [Ad] | [Gd] [G3e3] | G c B/A/ G | [Gc] E [D/F/]C/ [DG] | [EG] [F/A/]B/ [E/c/]F/ [Gc] | [GB] [G3c3] | [E/c/][F/d/] [Ge] [Gd] [Ge] | [Af] [Gd] B/c/ [Gd] | c/[G/d/] [Ge] [Gd] [Ge] | [Af] [G3d3] | G c B/A/ G | [Gc] E [D/F/]C/ [DG] | [EG] [F/A/]B/ [E/c/]F/ [Gc] | [GB] [G3-c3-] | [Gc]z3|]
+[V: P2]  G, C B,/A,/ G, | [E,C] [A,2C2] [G,B,] | [C,C] [F,C] [E,C] [F,C] | [G,B,] [C,3C3] | G, C B,/A,/ G, | [E,C] [A,2C2] [G,B,] | [C,C] [F,C] [A,C] [G,C] | [G,D] [C,3E3] | [C,C] C [B,D] C | [F,C] [G,B,] G,/A,/ [G,B,] | [A,/E/][B,/D/] C [B,D] C | [F,C] [G,3B,3] | G, C B,/A,/ G, | [E,C] [A,2C2] [G,B,] | [C,C] [F,C] [A,C] [G,D] | [G,D] [C,3-E3-] | [C,E]z3|]
+

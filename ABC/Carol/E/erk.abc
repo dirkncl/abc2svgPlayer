@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Erk, 87.87.887
+Z: Etliche Christliche Lyeder, 1524
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: none
+Q: 1/4=110
+V: P1_1 name="Staff 1"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Erk, 87.87.887"
+V: P2_2
+%%MIDI program 2 91
+K: A
+% Extracting voice 1 from part P1
+[V: P1_1]  | | [Ec] B [CA] A | [E/B/][=G/c/] d [Ac] B | F G [CA] [EA] | | [Ec] B [CA] A | [E/B/][=G/c/] d [Ac] B | F G [CA] [EA] | d c [FB] e | e ^d [Ge] [Ae] | [Af] [Ad] e[B/d/] | c [z/(B] [FA] [Fc] | B [CE] A d | c [z/(B] A|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | x1  E/D/ x1  C/^D/ | x1  F/^G/ x1  E/B,/4C/4 | D2 x2  | | x1  E/D/ x1  C/^D/ | x1  F/^G/ x1  E/B,/4C/4 | D2 x2  | A/B/ B/A/4G/4 x1  B/G/ | F/A/ A/G/4F/4 x2  | x2  B/G/ A/ x0  | B/A/ x1  G/ x2  | F/E/4D/4 x1  F/E/ F/G/ | A3/ x1  G/ A|]
+% Extracting voice 1 from part P2
+[V: P2_1]  | A, G, A,3/ [z/B,,] G,/ | A,3/ [z/E,] G,/ [A,,A,] [F,A,] | G,/^A,/ [B,,B,] [C,/E,/][D,/F,/] [E,G,] | A, [B,,B,] [A,,E,] [A,,/C/][B,,/B,/] | A, G, A,3/ [z/(B,,] G,/ | A,3/ [z/(E,] G,/ [A,,A,] [F,A,] | G,/^A,/ [B,,B,] [C,/E,/][D,/F,/] [E,G,] | A, [B,,B,] [A,,E,] C | [F,/F/][G,/E/] [A,E] ^D E | C/F,/ B, [E,B,] [C,E] | [D,/E/]D/4C/4 D/F/ [G,/E/][E,/D/] [F,/C/][G,/B,/] | C/4D/4E/ [z/(E,] D/ [F,C] [F,A,] | | E E3/4D/4 [A,,C]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  | C,/D,/ E,/D,/ C, x1  | A,,/C,/ x3  | E, x3  | D,/C,/ x3  | C,/D,/ E,/D,/ C, x1  | A,,/C,/ x3  | E, x3  | D,/C,/ x2  A,/G,/ | x2  A,/B,/4A,/4 G,/C/ | A, B,/B,,/ x2  | x0  E,/ F, x2  | A, x3  | | C,/D,/ E, x1 |]
+

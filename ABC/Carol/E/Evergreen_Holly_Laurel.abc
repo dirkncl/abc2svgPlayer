@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Evergreen, Holly and Laurel
+Z: John H. Hopkins, Jr.
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1] "^Soli." G A/ B/ c G | A B c"^Chorus" A | c (B/A/) G A | B2 E2 |"^Soli." G A/ B/ c G | A B c"^Chorus" A | c (B/A/) G A | B2 A2 |"^Soli." A G/ F/ E D | C D E2 | c B/ A/ G F | E F G2 | A A A (G/A/) | B (A/B/) c"^Chorus" e | d2 (d2 | d2) A B | c3/ G/ A B | c2 d2 | (e2 e/) d/ B/ c/ | d4 | G2z2|]
+w: Hail to the morn when Christ is born! Ho- san na_ in the high- est! An- gels on high sing thro' the sky! Ho- san na_ in the high- est! Shep- herds a- dore the Lamb To- day: Kings from the East are on their way; Sing then all in_ House and_ Hall: Ho- san na!_ Christ is born on Christ- mas morn, Ho- san_ na in the high- est!
+[V: P2]  D F/ F/ G E | F F E D | C F E C | E2 E2 | E F/ F/ G E | F F E D | C F E C | E2 ^C2 | =C D/ D/ C A, | A, A, B,2 | E F/ F/ E C | C C D2 | F F E E | F F G G | G2 (=F2 | F2) =F F | E3/ G/ F F | E2 G2 | (G2 G/) G/ G/ G/ | ^F4 | G2z2|]
+[V: P3]  B, C/ D/ C C | C F, G, F, | E, D, E, A, | ^G,2 G,2 | =G, C/ D/ C C | C F, G, F, | E, D, E, A, | ^G,2 A,2 | E, D,/ D,/ E, F, | A, A, ^G,2 | =G, F,/ F,/ G, A, | C C B,2 | C D ^C (B,/=C/) | D C C C | B,2 (A,2 | A,2) A, F, | G,3/ C/ C F, | G,2 B,2 | (C2 C/) D/ D/ G,/ | A,4 | B,2z2|]
+[V: P4]  G, F,/ F,/ E, C, | F, D, C, D, | A,, B,, C, F, | E,2 E,2 | C, F,/ F,/ E, C, | F, D, C, D, | A,, B,, C, F, | E,2 A,,2 | A,, B,,/ B,,/ C, D, | F, F, E,2 | C, D,/ D,/ E, F, | A, A, G,2 | F, D, A,, E, | D, F, E, C, | G,2 (D,2 | D,2) F, D, | C,3/ E,/ F, D, | C,2 G,2 | (C2 C/) B,/ G,/ E,/ | D,4 | G,2z2|]
+

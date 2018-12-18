@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Everywhere, Everywhere, Christmas To-night
+Z: Louis H. Redner
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  c3/ B/ A | E3/ D/ C | E F G | A3 | B3/ c/ d | c3/ B/ A | B c =d | e3 | _d3/ e/ d | c c A | c c B | A3 | B3/ A/ F | E A c | d c B | A3 | c3/ B/ A | d3/ e/ f | e c B | A3|]
+w: Christ- mas in lands of the fir tree and pine. Christ- mas in lands of the palm tree and vine Christ- mas where snow peaks stand so- lemn and white Christ- mas where corn- fields lie sun- ny and bright. Ev- ery where, ev- ery where, Christ- mas to- night.
+[V: P2]  E3/ D/ C | C3/ B,/ A, | C D D | E3 | E3/ E/ E | E3/ E/ F | G _G F | E3 | E3/ E/ E | E E E | =E F G | A3 | F3/ F/ D | C C E | F E D | C3 | E3/ E/ E | A3/ A/ A | E F G | A3|]
+[V: P3]  E,3/ E,/ E, | E,3/ E,/ E, | E, A, B, | C3 | G,3/ A,/ C | A,3/ D/ C | B, =A, _A, | G,3 | G,3/ G,/ B, | A, A, C | C C C | C3 | D3/ D/ A, | A, C A, | G, G, G, | A,3 | A,3/ D/ C | A,3/ C/ D | C E D | C3|]
+[V: P4]  A,,3/ A,,/ A,, | A,,3/ A,,/ A,, | A,, A,, A,, | A,3 | E,3/ E,/ E, | A,3/ A,/ F, | B,, B,, B,, | E,3 | E,3/ E,/ E, | A, A, A, | C, =D, =E, | F,3 | _D,3/ D,/ D, | E, E, E, | E, E, E, | [A,,3E,3] | A,3/ A,/ A, | F,3/ E,/ D, | E, E, E, | [A,,3E,3]|]
+
