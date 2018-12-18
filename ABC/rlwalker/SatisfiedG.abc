@@ -1,0 +1,39 @@
+%%scale 1.10
+%%format dulcimer.fmt
+X:1
+T:Satisfied Mind
+C:Red Hays & Jack Rhodes
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:G    %(D, C)
+|:B d d|"C"e3|"G"d2 e3/4d/4|"D7"c A B
+w:1~How man-y times_ have you heard some-one
+w:2~Once I was win-ning in_ for-tune and
+|"G"G2-"C"G-|"G"G2 B|B "C"c "G"B "D"A3/4A/4-A2-
+w:say,__ If I had his mon-ey,_
+w:fame;__ Ev'ry-thing that I dreamed for_
+|A2 D3/4D/4|"C"E G A|"G"G2- "C"G-|"G"G2 B
+w:_I would do things my way;__ But
+w:_to~get a start in life's game.__ But
+|B d B|"D"A3-|A2 D3/4D/4|"C"E G A
+w:lit-tle they know_ That it's so  hard to
+w:sudden-ly it happened_ I_ lost ev-'ry
+|"G"G2- "C"G-|"G"G2 G|B d d|"C"e3
+w:find__ One rich man  in ten
+w:dime;__ But~I'm rich-er by far
+|"G"d2 e3/4d/4|"D7"A B A|"G"G3-|"C"G3-|"G"G z z:|
+w:_With a sat-is-fied mind.__
+w:_With a sat-is-fied mind.__
+W:3~Money can't buy back your youth when you're old,
+W:Or a friend when you're lonely, Or a love that's grown cold;
+W:The wealthiest person Is a pauper at times,
+W:Compared to the man With a satisfied mind.
+W:4~When life has ended, my time has run out,
+W:My friends and my loved ones I'll leave, there's no doubt;
+W:But one thing for certain, When it comes my time,
+W:I'll leave this old world With a satisfied mind.
+
+
+
+

@@ -1,0 +1,55 @@
+X: 1
+T: Sean McGlynn's
+Z: Enob
+S: http://thesession.org/tunes/1328#setting1328
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmaj
+P: A
+| AB AF DF | (3ABA FA dB | AB AF DF | E4 (3EFG |
+| AB AF DF | (3ABA FA dB | AF DF A,E | D3 EFG ||
+| AB AF DF | (3ABA FA (d2 | d)B AF DF | E4 (3EFG |
+| AB AF DF | (3ABA FA dB | AF DF A,E | D4 {^g}ag ||
+P: B
+|: fd Ad fa | g2 {a}(3gfg ag | (3fdA Fd gf | +c3e3+ A ag |
+| fd AF D=C | B,D GB dg | (3fga Ac ec |1 d4 ag :|2 d4 (3abc' ||
+P: C
+|: d'f ad fa | g2 g2 ag | (3fdf ad' af | e4 (3abc' |
+| d'f ad fA | (3Bdg b2 ag | (3fad' Ag ec |1 d4 (3abc' :|2 d2 cB AG ||
+P: D
+|: (F2 F)G AB | Ad cd ef | ge c2 (3cde | df (A2 A)=c |
+| BA GA (3Bcd | AG FA de | fd Bg ed | (3cdc (3BcB AG |
+| (F2 F)G AB | Ad cd ef | ge c2 (3cde | df (A2 A)=c |
+| BA GA (3Bcd | FA de (3fga | gb Bd ce |1 d2 cB AG :|2 d2 d'2 z2 |]
+
+X: 2
+T: Sean McGlynn's
+Z: Enob
+S: http://thesession.org/tunes/1328#setting14668
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmaj
+||: d'f  ad fa | g2 g2 ag | (3fdf  ad' af | e4 (3abc' | | d'f ad fA | (3Bdg b2 ag | (3fad' Ag ec |1 d4 (3abc' :|2 d2 cB AG ||
+
+X: 3
+T: Sean McGlynn's
+Z: ceolachan
+S: http://thesession.org/tunes/1328#setting21308
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmaj
+|: (3EFG |A>B A>F D>F | (3ABA F>A d2 | A>B A>F D>F | E2 E2 F>G |
+A2 A>F (3DEF | A2 (3FGA d>B | A>F D>F (3GFE | D2 D2 :|
+|: (3^ga=g |\
+f>d A>d f>a | g2- g>^g a>=g | (3fdA F>d g>f | e2- e>A a>g |
+f>d A>F D>=c | B2- B>D (3GBd | (3fga A>c e>c | d2 d2 :|
+|: (3abc' |\
+d'>f a>d f>a | g2- g>^g a>=g | (3fAf a>d' a>f | e2- e>a b>c' |
+d'>f a2 f>A | (3GBg b>d' c'>b | (3a^ga A>=g e>c | d2 d2 :|
+|: (3BAG |F>D F>G A2 | A>d c2 (3def | g>e c2 (3cde | d>f A2 (3dc=c |
+B>A G>A B2 | A>G F>A d2 | f>d B2 (3gec | d2 d2 :|
+
+

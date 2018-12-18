@@ -1,0 +1,52 @@
+%%scale .94
+%%stretchlast 1
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+%%format dulcimer.fmt
+X:1
+T:Royal Telephone (The)
+C:F M Lehman
+M:4/4
+L:1/8
+%%score (V1 V2)
+V:1 clef=treble name="Melody"
+K:D
+|"D"AAFA dd z2|"G"BBGB "D"A2 z2
+w:1~Cen-tral's nev-er "bu-sy," Al-ways on the line,
+w:2~There will be no char-ges, Tel-e-phone is free
+w:3~Fail to get the an-swer, Sa-tan's crossed your wire,
+w:4~If you line is groun-ded, And con-nec-tion true,
+w:5~Car-nal com-bin-a-tions, Can-not get con-trol
+|"A"GGEG cc z2|"G"BBGA "D"F2 z2|AAFA dd z2
+w:You may hear from heav-en, Al-most an-y time; 'Tis a roy-al ser-vice,
+w:It was builtl for ser-vice, Just for you and me; There will be no wait-ing,
+w:By some strong de-lu-sion, Or some base de-sire; Take a-way ob-struc-tions,
+w:Has been lost with Je-sus, Tell you what to do; Prayer and faith and prom-ise,
+w:Of this line to glo-ry, An-chored in the soul; Storm and tri-al can-not,
+|"G"edcd B2 z2|"G"dcdB "D"AF"Bm"DE
+w:Free for one and all, When you get in trou-ble, Give this
+w:On this roy-al line, Tel-e-phone to glo-ry, Al-ways
+w:God is on the throne, And you'll get an an-swer, Thru this
+w:Mend the bro-ken wire, Till your soul is burn-ing, With the
+w:Dis-con-nect the line, Held in con-stant keep-ing, By the
+|"A"FEFE "D"D2 z2|
+w:roy-al line a call.
+w:an-swers just in time.
+w:roy-al tel-e-phone.
+w:Pen-te-cos-tal fire.
+w:Fath-er's hand di-vine.
+|"D"A3 A BAFA|"A7"dc c3/2c/2 c2 z2
+w:Ch~Tel-e-phone to glo-ry O what joy di-vine!
+|"A"E3 F GAc"G"B|B"D"A A3/2A/2 A2 z2|A3 A BAFA
+w:I can feel the cur-rent, Mov-ing on the line, Built by God the Fath-er
+|dced "G"B2 z2|"G"dcdB "D"AF"Bm"DE|"A"FEFE "D"D2||
+w:For His loved and own, We may talk to Je-sus, Thru this roy-al tel-e-phone.
+V:2 clef=treble name="Harmony"
+|FFDF FF z2|GGDG F2 z2
+|EECE GG z2|GGEF D2 z2|FFDF FF z2
+|GGGG G2 z2| GGGG FDDE
+|CCCC A,2 z2|F3 F GFDF|FG G3/2G/2 G2 z2
+|C3 D EFGG|GF F3/2F/2 F2 z2|F3 F GFDF
+|FEGF G2 z2|GGGG FDDD CCCC A,2||

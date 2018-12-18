@@ -1,0 +1,21 @@
+X:1
+T:Romanza #1
+C:
+L:1/8
+Q:240
+M:9/8
+K:Em
+ [bE,]BG ^FGB bB/G3/2 | [bE,]B G^F GB bB/G/ | [bE,]B G[a^F] GB gB/G/ | [gE,]B G[^f^F] GB eB/G/ | \
+ [eE,]B G[g^F] GB bB/G/ | [e'E,]B G[e'^F] G[e'2B2]B | [e'GE,]B G[d'^F] GB c'B | [c'GA,]e c[b^G] ce ae/c/ | \
+ [aA,]e c[bG] ce c'e/c/ | [bB,]^f e[c'A] ef bf/^d/ | [^d'B,]^f ^d[c'A] df bf | [b^dE,]B G[a^F] GB gB/G/ | \
+ [gE,]B G[^f^F] GB eB/G/ | [^fB,]B A[f^D] AB fB/A/ | [^fB,]B A[gE] GB [f^D]B/A/ | \
+ [eE]B G[eB,] GB [eG,]B/G/ | [e8B8G8E,8] | [^gE,]B ^Gg BG gB/G/ | [^gE,]B ^G^f BG eB/G/ | \
+ [e^F,]A ^F^d AF dA/F/ | [^d^F,]A ^F=d AF ^dA/F/ | [^c'B,]^f ^d[c'A] fd c'f/d/ | [^c'B,]^f [^d'^d]A fd c'f/d/ | \
+ [^c'E,]^g eb ge bg/e/ | [bE,]^g e^c' [fg][^d'2e2]g/e/ | [e'E,]^g ee' g[e'2e2]g | \
+ [e'eE,]^g e^d' g[=d'2e2]g | [^c'eA,]e ^cc' ec c'e/c/ | [^c'A,]e ^cb ec ae/c/ | [^gB,]B ^Gg BG gB/G/ | \
+ [^gB,]^d Aa dA ^fd/A/ | [eE]B G[eB,] BG [eG,]B/G/ | [e8B8G8E,8] | [bE,]B G^F GB bB/G/ | \
+ [bE,]B G^F GB bB/G/ | [bE,]B G[a^F] GB gB/G/ | [gE,]B G[^f^F] GB eB/G/ | [eE,]B G[g^F] GB bB/G/ | \
+ [e'E,]B G[e'B,] ^f[e'd] _Bf | [e'dA]^f dd' fd c'f | [c'dA,]e c[b^G] ce ae/c/ | [aA,]e c[bG] ce c'e/c/ | \
+ [bB,]^f e[c'A] ef bf/^d/ | [^d'B,]^f ^d[c'A] df bf | [b^dE,]B G[a^F] GB gB/G/ | [gE,]B G[^f^F] GB eB/G/ | \
+ [^fB,]B A[f^D] AB fB/A/ | [^fB,]B A[gE] GB [f^D]B/A/ | [eE]B G[eB,] GB [eG,]B/G/ | \
+ E,B, ^FG Be3 | z8 | z8 | \

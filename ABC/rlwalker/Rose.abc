@@ -1,0 +1,18 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:Rose Among the Heather
+R:STRATHSPEY
+C:3 X 32 STRATHSPEY 1,2,1
+S:NOV 2004
+Z:John Chambers <jc@trillian.mit.edu>
+M:C
+L:1/8
+Q:120
+K:D
+|:G2 | "D"F<A A>F "G"G<B B>G | "D"F<A D>F "A7"E2 G2 | "D"F<A A>F "G"G>Bd>B | "A7"A>F G<E "D"D2 G2 |!
+|"D"F<A A>F "G"G<B B>G | "D"F<A D>F "A7"E2 G2 | "D"F<A A>F "G"G>B d>B |"A7"A>F G<E "D"D2 A2 |!
+| "D"d>e d>B A<f d>B | A>F d<f "A7"e4 \
+| "F#7"f>g f>e "G"d<B d>B | "D"A>d "A7"e<c "D"d2 A2|!
+| "D"d>e d>B A<f d>B | A>F d<f "A7"e4 \
+| "D"f>e d>B "Bm"A<F d>B | "A7"A>F G<E "D"D2 :|]

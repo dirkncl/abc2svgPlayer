@@ -1,0 +1,20 @@
+%Scale the output
+%%scale 1.15
+%%format dulcimer.fmt
+X:1
+T:Saint Anne's Reel
+R:reel
+M:C|
+%Q:70 (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+P:A
+|de |: "D"f2fg fedB | A2F2 F2AA | "G"B2G2 G2BB | "A7 (D)"A2F2 F2de |"D"f2fg fedB
+|A2F2 F2A2 |"G"B2d2 "A7"cdec | "D"d2dd d2 :|
+P:B
+|:ag| "D"fdfa fdfa | "Em"a2g2 g2gf
+|"A7"edcB Aceg |"D" baa^g "A7"a2a=g |"D"fdfa fdfa 
+| "Em"a2gf g2gf | "A7"edcB Acec |"D"d2dd d4 :|

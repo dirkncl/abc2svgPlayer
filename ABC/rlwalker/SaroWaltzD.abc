@@ -1,0 +1,15 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Saro Waltz
+C:
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+K:D    %(D, C)
+|"D"F-F F/2E/2|D E F|"F#m"A-A-A|F-F-F|"G"G-G G/2F/2|E F G|"A"E-E-E-|E F E
+|"D"F-F F/2E/2|D E F|"F#m"A-A-A|F-F-F|"G"G-G G/2G/2|"A"G F E|"D"D-D-D|D G A
+|"G"B-B B/2A/2|G A B|"F#m"A-A-A|F-F-F|"G"B-B B/2A/2|G A B|"A"c-c-c-|c B A
+|"D"F-F-F/2E/2|D E F|"F#m"A-A-A|F-F-F|"^TAG""G"G-G G/2G/2|"A"G F E|"D"D-D-D|D-D-D|]

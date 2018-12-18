@@ -1,0 +1,52 @@
+%Scale the output
+%%scale 1.12
+%%format dulcimer.fmt
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Silver Bell
+C:Edward Madden (words) & Percy Wenrich (music), 1910
+M:2/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+V:1 clef=treble octave=0
+Q:1/4=72
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+P:ABAB
+K:Dmaj%(D, C)
+P:A (first 3 notes SLOWLY to begin)
+|:F G ^G
+w:1~Be-neath the
+w:1~As in a
+w:2~For man-y
+w:2~In his ca-
+|"D"A A/2 F/2 "A"G G/2 E/2|"D"F F/2 D/2 "A"E/2 F/2 E/2 C/2|"D"D D/2 F/2 A,2-
+w:light of a bright star-ry night Sang a lone-ly lit-tle In-di-an maid
+w:dream, it would seem, down the stream, Gai-ly pad-_dling his tin-ny ca-noe,
+w:moons, man-y spoons, man-y tunes Woke the ech-oes of the still Sum-mer night,
+w:noe, on-ly two, sat to woo, And they lis-tened to the sigh of the breeze,
+|A, F E D|"A"C C/2 E/2 A,2-|A, G F E
+w:_"No lov-er's sweet ser-e-nade_ Has ev-er
+w:_A chief-tain long-ing to woo_ Sang her this
+w:_As down the stream gleam-ing bright_ They float-ed
+w:_That seemed to sing in the trees_ This sweet re-
+|1 "D"F2 A2-|A:|2 "D"D4-|D2 z2||
+w:won me."_ * *
+w:___song._
+w:dream-ing._ * *
+w:___frain._
+P:B Refrain
+|"D"A, ^G,2 A,|"G"B,2 G2|"D"F F2 D|A,4
+w:"Your voice is ring-ing, my Sil-ver Bell.
+|"A"E E2 C|A,4|"D"F F2 D|A, F, G, ^G,
+w:Un-der it's spell I've come to tell you of the
+|A, ^G,2 A,|"G"B,2 G2|"D"F F2 D|A,4|"A"E E2 C
+w:love I am bring-ing O'er hill and dell, Hap-py we'll
+|A, ^G, =G, E|"D"D4-|D||
+w:dwell, my Sil-ver Bell."_
+
+
+
+
+

@@ -1,0 +1,27 @@
+%Scale the output
+%%scale 1.150
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Sarah Armstrong
+C:Transcribed by Judy Kent
+M:2/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+Q:1/4=80
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+P:A
+|:"D"A,D"G"B,D|"D"A,D/2E/2 F/2E/2D|"A"EA"D"FA|"A"EA/2B/2 c/2B/2A
+|"D"A,D"G"B,D|"D"A,D/2E/2 F/2E/2D|"A"EA A3/2B/2|"A"A/2F/2E "D"D2:|
+P:B
+|:"D"dd d/2B/2A|"Em"EE E/2F/2G/2A/2|"G"BB/2c/2 B/2A/2F/2E/2|"D"DD d/2A/2B/2c/2
+|"D"dd d/2B/2A|"Em"EE E/2F/2G/2A/2|"G"BB/2c/2 "A"B/2A/2F/2E/2|"D"D2 D2:||

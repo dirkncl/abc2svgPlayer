@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.1
+%%stretchlast 1
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+X:1
+T:Rosin the Beau (, Old) #54
+C:Traditional
+M:6/8    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%V:1 treble clef
+K:D    %(D, C)
+|A,
+w:I
+|"D"DED FED|A3 "G"B2 B|"D"AFD DEF|"Bm"B,2 z z2 "A"A,
+w:live for the good of the na-tion, My sons are all grow-_ing low. I
+|"D"DED FED|A3 "G"B z B|"D"AFD "A7"EDE|"D"D3-D z F
+w:hope that the next gen-er-a-tion will~re-mem-ber Old Ros-in the Beau._ I've
+|ABA ABc|"G"d3 B2 B|"D"AFD DEF|"Bm"D2 z z2 "A"A,
+w:tra-veled this coun-try all o-ver and now to the next I will go. I
+|"D"DED FED|A3 "G"B2 B|"D""^TAG"AFD "A7"EFE|"D"D3-D2||
+w:know that good quar-ters a-wait me to wel-come Old Ro-sin the Beau._

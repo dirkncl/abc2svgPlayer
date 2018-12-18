@@ -1,0 +1,158 @@
+This file contains some sample tunes for ABCMUS. See the ABCMUS help
+file for more descriptions of these tunes and what they illustrate.
+
+X:1
+T:B minor Polka
+R:polka
+S:Eileen Ni Riordan
+M:2/4
+L:1/8
+K:Bm
+af f>g|af f>g|af ef|dB c/B/A|af f>g|af fe|de/d/ cA|1 B2 BA:|2 B2 Bc||
+|:d/e/d/c/ df|e>d ce|dB c/B/A|Bc de|
+d/e/d/c/ df|e>d ce|dB c/B/A|1 B2 Bc:|2 B2 BA||
+
+X:2
+T:Leitrim Fancy, The
+R:hornpipe
+N:Bars 2 and 6 also played |ADGB A2de|
+M:C|
+K:D
+AG|FAEA DEFG|(3ABA GB A2de|fdge agec|dBAF GBAG|
+FAEA DEFG|(3ABA GB A2de|fdge agec|Addc d2:|
+|:zg|fefg afeg|fefg a2 (3efg|agec dfec|1 dcAF G3e|
+fefg afeg|fefg a2 (3efg|agec dfec|Addc d2:|2 dcAF GBAG|
+FAEA DEFG|(3ABA GB A2de|fdge agec|Addc d2||
+
+X:3
+T:Banish Misfortune
+R:jig
+D:Tommy Keane & Jacqueline McCarthy: The Wind among the Reeds
+D:Chieftains Live.
+Z:First bar also played |^fed cAG|
+M:6/8
+K:Dmix
+=fed cAG|AGd cAG|~F3 DED|~F3 GFG|~A3 cAG|AGA cde|fed cAG|Ad^c d2e:|
+|:f2d d^cd|f2a agf|e2c cBc|ece gfe|f2g agf|e2f gfe|fed cAG|Ad^c d2e:|
+|:f2g e2f|ded cdc|~A3 GAG|~F3 ded|c3 cAG|AGA cde|fed cAG|Ad^c d2e:|
+
+X:4
+T:Limestone Rock
+R:reel
+S:Mary Bergin
+M:C|
+K:G
+BG~G2 AGFA|DG~G2 A2dc|BG~G2 ~A3B|1 BAAG ABdc:|2 BAAG A2Bd||
+|:(3ege dB eBd2|eBdB A2Bd|eB~B2 gB~B2|BAGB A2Bd|
+~e3d e2ab|gedB A2BA|G2Bd ~g3b|agef gedc||
+
+X:5
+T:Star of Munster, The
+R:Reel
+D:Chieftains Live.
+M:C|
+K:Ador
+c2Ac BAGB|AGEF GEDG|EAAG ABcd|e2af gfed|
+c2Ac BAGB|AGEF GEDG|EAAG ABcd|ecdB cA~A2:|
+|:eaag ageg|a2bg agef|~g3a gdBd|gaba gedg|
+eaag ageg|a2bg agef|g2~g2 a2ga|1 bgaf gedg:|2 ~b3a gedB||
+
+X:6
+T:Hora ca din la caval
+R:hora
+O:Romanian
+Z:Transcribed by Henrik Norbeck.
+M:C|
+K:Ador ^d
+"Am"e2d2 "Am/E"e2d2|"Am"cAc2 "D#dim"d3c|"E"e2d2 "E/G#"cAc2|"Am"deec "Am/E"e4|
+[1 "Am"e2d2 "Am7/G"e2d2|"F#m7b5"cAc2 "D#dim"d3c|"E"e2d2 "E/G#"ceec|"Am"A4 A4:|
+[2 "Am"ABcd "Am7/G"e2d2|"F#m7b5"cAc2 "D#dim"d3c|"E"e2d2 "E/G#"ceec|"Am"A4 A4||
+|:"Am"ABcd "Am/E"e2d2|"Am"cAc2 "D#dim"d3c|"E"e2d2 "E/G#"cAc2|"Am"deec "Am/E"e4|
+"Am"ABcd "Am7/G"e2d2|"F#m7b5"cAc2 "D#dim"d3c|"E"e2d2 "E/G#"ceec|"Am"A4 A4:|
+|:"C"efgf "C/G"aggf|"C"feed "D#dim"dddc|"E"e2d2 "E/G#"cAc2|"Am"deec "Am/E"e4|
+"Am"a2a2-"Am7/G"a2g2|"F#m7b5"fefe "D#dim"dddc|"E"e2d2 "E/G#"ceec|"Am"A4 A4:|
+
+X:7
+T:Polska efter Pelle Fors
+T:Ingen kan dansa polska som min Ann-Sofi
+R:polska J
+H:Pelle Fors (Petter Magnus Johansson) was born in Ukna, Sm{\aa}land, in
+H:1815, but lived most of his life in R\"on\"o, Vikbolandet,
+H:\"Osterg\"otland. He died there in 1908. He learnt to play the fiddle
+H:from Johannes L{\aa}ng from L{\aa}ngserum, who in his turn had learnt from
+H:Klockare S\"oderlund from Yxnerum. Pelle Fors was a shoemaker and
+H:fiddler, and played at weddings and other dances.
+N:This is a typical even polska. Bar 4 of the second part has an extra beat.
+M:3/4
+L:1/16
+K:Dm
+f2(3gfe f2a2 c'2a2|a2e2 f2gf e2c2|c2eg ag^fg abag|f2d2 d^ce^c A4:|
+A2d2 d2ed ^cAce|e2f2 f2gf e=ceg|g2a2 afdf abag|e2fe d2ed ^c2A2 A4|
+A2d2 d2ed ^cAce|e2f2 f2gf e=ceg|g2a2 afdf abag|e2fe d^ce^c d4||
+
+X:8
+T:Sunta Luva
+R:polska O
+H:From N{\aa}s, Dalarna, Sweden
+N:A typical uneven polska.
+M:3/4
+L:1/8
+K:Ador
+A>B cB AG|Ac e2 ef|gf ed cd|ef e3A:|
+|:A>c e2 e>d|f>e e2 c2|cB AG A>c|e>f d2 c>B|G>B A3A:|
+
+X:9
+T:Farmors Brudpolska
+R:polska K1
+N:A polska with short first beat.
+M:3/4
+L:1/16
+K:Dm
+A4 A2^c2 A3^c|A4 A2^c2 A3^c|e4 gage f3g|f2e2 d3^c d3e|
+f4 fafd e3^c|A4 A2^c2 A3^c|A4 A2^c2 A3^c|e4 gage f3g|
+f2e2 d3^c d3e|f4 fafd e3^c|^c4 d8:|
+|:a4 a2=b2 a3g|e4 gage f3g|a4 a2c'2 a3g|e4 gage f3g|
+f2e2 d2^c2 d3e|f4 fafd e3^c| A4 A2^c2 A3^c|A4 A2^c2 A3^c|
+e4 gage f3g|f2e2 d3^c d3e|f4 fafd e3^c|^c4 d8:|
+
+X:10
+T:V\"armlandspolska
+R:polska L1
+C:efter Magnus Olsson (1824-1920), Lycke, Arvika, V\"armland
+M:3/4
+K:D
+A2 B2 c2|d2 e2 f2|g>f e>d cB|A>G FE D2|
+A2 B2 c2|d2 e2 f2|g>f e>d (3cBc|1 d2 d2 A2:|2 d2 d4||
+|:a2 f2 d'2|a2 f2 ef|g>f e>d cB|A>G FE D2|
+a2 f2 d'2|a2 f2 ef|g>f e>d (3cBc|1 d2 d2 A2:|2 d2 d4||
+
+X:11
+T:Dospatsko Choro
+R:choro
+O:Bulgaria
+M:3+2+2/8
+Q:1/4=104
+K:Em
+"Em"E3 "/"E2 "/"B2 | "Em"B3 "/"{BcBc}B3G | "Am"A3 "/"{ABAB}A3G |
+"Em"AB2 "/"G2 "/"{GA}GF | "Em"E3 "/"E2 "/"B2 | "Em"B3 "/"{BcBc}B3G |
+"Am"A3 "/"A3G | "Em"AB2 "/"G2 "/"{GA}GF :||:"Am"{G}A2G "/"{F}G2 "/"{GAGA}G2 |
+"D"{F}GA2 "/"{FG}F2 "/"{FG}FE | "Em"E3- "/"E4 |
+"G"{A}B3- "/"B3 G | "A"{GAB}A2G "C"{F}G2 "/"G2 | "Bm"GA2 "/"{FG}F2 "/"FE |
+"Em"E3- "/"E4 | "Em"E^CD "/"E2 z2 :||: "D"DEF "/"GA "/"AG |
+"D7"{cdcd}c2B "G"B2 z2 | "Am"{cdcd}c2B "/"cd "/"cB | "D"{ABAB}A2G "G"G2 z2 |
+"D"DEF "/"GA "/"AG | "D7"{cdcd}c2B "G"B2 "/"z2 | "Am"{ABAB}A2G "/"GA "/"FE |
+"Em"E3 "/"E2 z2 :||: "D"d3 "/"dc "/"BA | "D7"{ABAB}A2G "G"G2 z2 |
+"G"dGe "/"dc "/"BA | "A7"{BcBc}B2A "D"A2 z2 | "D"{dede}d3 "/"dc "/"BA |
+"D7"{ABAB}A2G "G"G2 z2 | "Am"AEB "/"AG "/"FE | "Em"E3 "/"E4 :|
+
+X:12
+T:Last Night's Fun
+R:reel
+D:Noel Hill: The Irish Concertina
+Z:I'm not sure of exactly what grace notes are used, since they are so short.
+M:C|
+K:D
+AD{B}FD A2dB|ADFD {c}EDB,B|AD{B}FD A2Bd|1 {g}edfe dBBd:|2 {g}edfe dBAB||
+d2 (3[fA]af a2 (3faf|de[fA]d edfe|d2 (3faf af[dA]f|egfe dBAB|
+[dD2]{f}ddf a2 (3[fA]af|de[fA]d [e2E2]ef|a2bf afeg|{a}fd{g}ed BddB||
+

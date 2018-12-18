@@ -1,0 +1,19 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Rose Of Sharon Waltz
+T:Rose Of Avanmore Waltz
+C:Unknown
+M:3/4
+L:1/4
+K:Gmaj
+V:1 clef=treble octave=0
+%%continueall 1
+%%writehistory 1
+|D G|:"G"B3|"D7"A2 c|"G"BA G2-|"G7"G A B|"C"c d e
+|"G"d D B|"D"A3-|"D7"A d c|"G"B3/2 c/2 B/2A/2|"G7"G A B|"C"c d e
+|e f g|"G"d B c|"D7"B2 A|"G"G3-|1G D G:|2G B c
+|"Dm"d e =f|e2 d|"C"c3-|c3|"A7"e f g|f2 e
+|"D"d3-|"D7"d e f|"G"g d3/2 c/2|"G7"B A G|"C"c d e|e f g
+|"G"d B c|"D7"B2 A|"G"G3-|G||
+

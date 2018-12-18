@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Salley Gardens Reel
+C:Traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+|uD2|
+|:"G"vG2 DG B2 G(uB|"G"dB)ve(uB dB)AB|"G"dGBd e(fge)|"C"d(BAB) "D"GEDE
+|"G"vG2 DG B2 G(B|"G"dB)E(B dB)AB|"C"dGBd e(fge)
+|1 "D"dBAB "G"G2 D2:|2 "D"dBAB "G"G2 (uBc)||
+|:"G"vdg(gf) (ge)de|"G"gab(g ag)eg|"Am"vea(ag) (ag)eg|"D"agb(g ag)eg
+|"G"dg(gf) (ge)de|"G"gab(g ag)eg|"C"dGBd e(fge)
+|1 "D"dBAB "G"GG2 (uBc):|2 "D"dBAB "G"G2||

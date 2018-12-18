@@ -1,0 +1,13 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Rose in the Heather
+C:Traditional
+M:6/8    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|:"D"F3 "A"EFE|"D"D2 (A B)AF|ABd "A"ede|"D"fdB "A"AFE|"D"F3 "A"EFE
+|"D"D2 (A B)AF|AdB "A"AFE|1 EDC "D"D3:|2 EDC "D"D2 (e||
+|:"D"f)dB ABd|faa afd|"G"g3 "D"fed|"Em"Bee "A"efg|"D"fdB ABd|faa afa
+|"G"baf "A"gfe|1 "D"fdc d2 ("A"e:|2 "D"f)dB "A"AFE|3 "D".F2 z "A".E2 z|"D"D6||

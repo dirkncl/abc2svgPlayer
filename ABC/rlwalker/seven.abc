@@ -1,0 +1,33 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Seven Joys of Mary (The)
+C:15the Century English Carol
+M:6/8    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%V:1 treble clef
+K:G    %(D, C)
+|D|"G"G2 G G2 A|B2 A G2 G|"D"A2 A F2 F
+w:The first good joy that Ma-ry had, It was the joy of
+w:The next good joy that Ma-ry had, It was the joy of
+|"G"G3- G2 D|G2 G G2 A|B2 A G2 G|"D"A2 A F2 F|"G"G3-G2||
+w:one;_ To see the bless-ed Je-sus Christ, When He was first her son._
+w:two;_ To see her own Son Je-sus Christ, Mak-ing the lame to go._
+w:three;_ To see her own Son Je-sus Christ, Mak-ing the blind to see._
+w:four;_ To see her own Son Je-sus Christ, Read-ing the Bi-ble o'er._
+w:five;_ To see her own Son Je-sus Christ, Rais-ing the dead to life._
+w:six;_ To see her own Son Je-sus Christ, Up-on the Cru-ci-fix._
+w:se-ven; To see her own Son Je-sus Christ, As-cend-ing in-to heav'n_
+|G|"D"A2 A A2 A|A2
+w:When He was first her Son,
+w:Mak-ing the lame to go,
+w:Mak-ing the blind to see,
+w:Read-ing the bi-ble o'er,
+w:Rais-ing the dead to life,
+w:Up-on the cru-ci-fix,
+w:As-cend-ing in-to heav'n,
+|B "D7"cBA|"G"B2 B B2 A|B2 c "D"!fermata!d2 d/2c/2|"G"B2 A G2 c
+w:Good Lord;_ and hap-py may we be;__ Praise_ Fa-ther, Son and
+|B2 A G2 G|"D7"A2 A F2 F|"G"G4- G||
+w:Ho-ly Ghost to all e-ter-ni-ty._

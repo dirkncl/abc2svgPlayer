@@ -1,0 +1,23 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:San Antonio Rose
+C:Bob Wills
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|A d|"D"f3 d|A2 F D|"G"B3 F|"E"E3 d|"A"c3 B\
+|A2 B A|"D"F2 A d|F2 A d|f3 d|A2 F D|"G"B3 F\
+|"E"E3 d|"A"c3 B|A A B A|"D"A [d3-F3-]|[dF] A A G|F3 A\
+|d3 F|"G"G A B F|"E"E3 d|"A"c3 B|A2 B ^A|"D"A d2 B\
+|A F A G|[A3F3] A|d3 F|"G"G A B F|"E"E3 d|"A"c2 c B\
+|A2 B A|"D"A [d3-F3-]|[dF] z c d|"A"e3/2 e/2 e e|d c2 e|"E"^g2 g =g\
+|f4|^g2 g =g|f2 ^g f|"A"e2 c2|A4| e3/2 e/2 e  e\
+|d c2 e|"E"^g2 g =g|f4|^g2 g =g|f2 ^g f|"A"e2 f2\
+|"A7"g2 A d|"D"f3 d|A2 F D|"G"B3 F|"E"E3 d|"A"c2 c B\
+|A2 B A|"D"F2 A d|F2 A d|f3 d|A2 F D|"G"B3 F\
+|"E"E3 d|"A"c2 c B|A2 B A|"D"[AF] [d3-F3-]|[d2F2]|
+
+

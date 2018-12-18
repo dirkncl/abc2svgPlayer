@@ -1,0 +1,37 @@
+%%scale 1.1
+%%format dulcimer.fmt
+%%barsperstaff 2
+X: 1
+T:Down by the Sally Gardens
+C:Music: Traditional; Lyrics: William Butler Yeats, 1889
+M:4/4
+L:1/8
+V:1 clef=treble name="Melody"
+V:2 clef=treble name="Harmony"
+%%score 1 2
+K:G
+P:Tune "Maids of the Mourne Shore," Traditional Irish folk song
+V:1
+|GA|"G"B2AG "D7"A2Bd|"C"e4 "G"d2 gd|"C"e2 "G"dB "D9"A3 G
+w:It was down by the Sal-ley_ gar-dens, my_ love and_ I did
+w:In a field__ by the_ riv-er my_ love and_ I did
+V:2
+|DF|G2 EG F2 G2|c2 FG F2 GB|G2 G2 E2 F2
+V:1
+|"G"G6 GA|B2 AG "D7"A2 "G"Bd|"Em"e4 "G"d2 gd|"C"e2 "G"dB "D9"A3 G
+w:meet. She_ crossed the_ Sal-ley_ Gar-dens with_ lit-tle_ snow-white
+w:stand. And_ lean-ing_ on  my_ shoul-der  she_ laid her_  snow-white
+V:2
+|G2 FE D2 DF|G2 EG F2 G2|c2 AG F2 GB|G2 G2 E2 F2
+V:1
+|"G"G6 d2|"Em"g2 fd e3 g|"Bm"f3 e d2 Bd|"Em"e2 dB "D7"de ga
+w:feet. She bid me_ take love  ea-_sy, as the leaves grow_ on_ the_
+w:hand. She bid me_ take life ea-_sy, as the grass grows_ on_ the_
+V:2
+|G2 FE d2 B2|B2 BA G2 B2|A2 GA F2 G2|c2 B2 Gc Bc
+V:1
+|"G"g6 "D7"GA|"G"B2 AG "D9"A2 Bd|"C"e4 "G"d2 gd|"C"e2 "G"dB "D9"A3 G|"G"G6||
+w:tree, But_ I was_ young and_ fool-ish, and with her did_ not a-gree.
+w:weirs. But_ I was_ young and_ fool-ish, and_ now am_ full of tears.
+V:2
+|B6 z2|z2 DEF2 ED|c2 GF G2 GB|G2 GD E2 F2|D6||

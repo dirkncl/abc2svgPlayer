@@ -1,0 +1,28 @@
+%%scale 1.28
+%%stretchlast 0
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+%%format dulcimer.fmt
+X:1
+T:Rorate
+C:pre-reformation Scottish tune; words William Dunbar
+M:4/4
+L:1/8
+%%score (V1 V2)
+V:1 clef=treble name="Melody"
+V:2 clef=bass name="Chords"
+K:G
+V:1
+|d2
+|"G"B2 "D"A3/2G/2 "Em"G2 AB|"G"d2 Bd "C"e2 fg
+|"G"d3 B "C"cBAG|"Am"E2 A3/2B/2 "D"A2 dc
+|"G"B2 "D"A3/2G/2 "Em"G2 AB|"Bm"d2 B/2d3/2 "C"e2 fg
+|"G"d3 B "Am"cBAG|E2 "C"G2 "G"G2 AB|"G"d3 e dB A/2B3/2
+|"Bm"dB d/2e3/2 "G"d3 B|"Am"A3 e "Em"gfed|"Em"B2 e3/2f/2 e3 "D"f
+|"G"g3 f "Em"e2 d/2B3/2|"G"G2 Bd "G7"!fermata!=f2 "C"e^f/2g/2
+|"G"d3 B "Am"cBAG|E2 "C"G2 "G"G4||
+V:2
+|z2
+|

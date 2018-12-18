@@ -1,0 +1,20 @@
+%%scale 0.96
+%%format dulcimer.fmt
+%%barsperstaff 4
+X: 1
+T:Si Beag and Si Mor
+C:Carolan, harmony by Ian Hall
+M:3/4
+K:C
+V:1
+(cd) |\
+"C"e2 (ed) c2 |"C" c2 (cd) c2 |"F" A4 G2 |"C" E4 G2 |"F" (AG) (AB) c2 |"G" d4 (cd) |
+"C"e4 "G"d2 |"C" c4 e2 |"F" A4 d2 |"G" G4 c2 |"Em"E4 D2 |"Am" C4 e2 | 
+"F"A4 d2 |"G" G4 (cB) |"C" (c6 | c4) cd |"C" e2 (ed) c2 |"C" (dc) (de) g2 |
+"F"a4 "G"g2 |"C" e4 (dc) |"G" d4 gf |"Em"e4 (dc) |"C" c4 A2 |"Am" A4 (AG) |"C" E4 "G"D2 |
+"C"C4 e2 |"F" A4 d2 |"G" G4 g2 |"F" (agfedc) |"G" d4 cB |"C" (c6 | c4) ||
+V:2
+ED| C4 DC| E4 FE| F4 GA| G6 | F4 AF|D4 GE| C4 GF|E4 cG|F4 AF|
+D4 EF|G4 EC|A6|F4 AF|E4 GE|(C6 | C4) ED| C4 DC| E4 FG|A4 B2|
+c4 BA|G4 E2|B4 EF|G4 FA|E6|G4 G2|c4 G2|F4 DD|B4 G2|
+FGABcd|G4 EG|(C6 |C4) ||

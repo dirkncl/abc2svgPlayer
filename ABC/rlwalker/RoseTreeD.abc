@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.200
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Rose Tree, The
+C:Traditional
+R:Reel
+M:4/4
+L:1/8
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+fe|\
+"D"d2B2 A2F2|ABAF A2A2|d2d2 "A"e2de|"D"f2e2 "A"egfe|\
+"D"d2B2 A2F2|ABAF A2A2|d2d2 "A"e2de|"D"f2d2 d2::
+de|\
+f2e2 f2g2|a2a2 g2f2|"G"e2b2 b2a2|"A"b2e2 e2fe|\
+"D"d2B2 A2F2|ABAF A2A2|d2d2 "A"e2de|"D"f2d2 d2:|

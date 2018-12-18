@@ -1,0 +1,14 @@
+%%scale 1.1
+%%format dulcimer.fmt
+X: 1
+T:Rose of Mooncoin, The
+M:3/4
+R:Waltz
+D:asin=B000000E14(Wolfe Tones: Belt Of The Celts)
+D:asin=B000000E1X(Phil Coulter: Peace And Tranquility)
+D:asin=B000000S1C(Phil Coulter: Celtic Collections: Phil Coulter)
+K:D
+|FG|"D"A4fg|e2d2F2|"A"G2c3B|"D"A4AB|\
+"A"A2E2F2|G2e3f|"G"e2d2F2|"D"A4FG|\
+A4fg|e2d2F2|"A"G2c3B|"D"A4AB|\
+"A"A4EF|G2A2B2|c2f3e|"D"d4z2||
