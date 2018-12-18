@@ -1,0 +1,33 @@
+%%scale 0.8
+%%stretchlast 0
+%%barsperstaff 3
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+X: 1
+T:Dill Pickle Rag
+C:Charles L Johnson, 1906
+M:4/4
+L:1/8
+%V:1 treble clef
+K:D
+%|"^Intro"D E/2 F E/2 D z D, E,/2 F, E,/2|D, DD-DDE DE|=F ^F3 D3|
+|:"D"+segno+"^A part"ab d'a bd' ab|d'a bd'-d'b a2
+|"E7"de fd ef de|fd ef-f ed-d
+|"A7"AB cA Bc AB|cA Bc-cB A-A
+|1"D"d-d dc "B"Bc de|"E"fe "A"fa-ab "^To Coda"a-a:|
+|2fe fa-af e-e|"D"d2 d2 c2 B2|
+|3+coda+fe fa-af e-e|"D"d2 f2 a2 +fine+d'2||
+|"A7""^B part"A-A ^AB-B=c ^c-c
+|"D"d-d ba-ab a-a|"A7"c-c ba-ab a-a
+|"A7"A-A ^AB-B=c ^c-c|"D"d-d ba-ab a-a
+|1"E7"c'b c'e'-e'f' e'd'|"A7"c'-c' a-b ^ga z-z::
+|2"E7"c'b c'e'-e'c' a-a|"D"d'4 "D7"d-d (3def
+|"G""^C part"g4 d'4|g-g ga gf ed
+|B-B Bd BA GA|B-B d-d e-e f-f
+|g-g ga gf ed|Bd BG-GA B-B
+|"A"AB cA Bc AB|"D7"dc df-fe d-d
+|"G"g-g ga gf ed|Bd BG-GA B-B
+|"C"EF GA BA GA|"G"G-G g-g f-f =f-=f
+|"C"e_e =eg-gf ga|"G"ba "E7"bf'-f'-f' e'-e'
+|"A7"ba b"D"d'-d'b a-a|"G"g2 ^G2 "A7"a2 +D.S.+z2||

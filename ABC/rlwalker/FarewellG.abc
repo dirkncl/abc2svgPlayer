@@ -1,0 +1,25 @@
+%%scale 0.90
+%%format dulcimer.fmt
+X:1
+T:Farewell to Erin
+T:Farewell to Ireland
+%N:This is not really `Farewell to Ireland': that is #281.
+M:4/4
+L:1/8
+R:reel
+%N:The first six measures of the `A' part can be moved up an octave to
+%N:accomodate flute and whistle players.
+%%partsbox 1
+K:Ador
+P:A
+|:"Am"A,3C E3F|"G"GEDB, G,A,B,G,|"Am"A,3C E3F|"G"GEDB, "Am"EA,A,G,|
+"Am"A,3C E3F|"G"GEDB, G,2g2|"Am"edeg a2ba|"G"gedB "Am"BAA2:|
+P:B
+|:"Am"~a3b agef|"G"~g3a gede|"Am"~a3b agef|"G"gedB "Am"BAA2|
+"Am"agef ~g3e|"G"dedB GABd|"Am"cBAB cdea|"G"gedB "Am"BAA2:|
+P:C
+|:"A"eABA eABA|"G"dedB GBBA|"A"eABA ~e3a|"G"gedB "A"BAgf|
+"A"eABA eABA|"G"dedB GABd|"A"cBAB cdea|"G"gedB "A"BAA2:|
+P:D
+|:"A"ae^ce ae^ce|"G"gdBd g2fg|"A"ae^ce ~a3f|"G"gedB BAA2|
+"A"agef ~g3e|"G"dedB GABd|"A"cBAB cdea|"G"gedB "A"BAA2:|

@@ -1,0 +1,91 @@
+%%scale 1.0
+%%format bracinho.fmt
+%%format dulcimer.fmt
+
+%%staffsep 120pt %between systems
+
+%%sysstaffsep 120pt %between staves of a system
+
+% Defines the chords to be used:
+
+%%beginps
+/gcshow-b /gcshow load bind def
+
+/brac{/BRDEF exch def /BRNAM exch def
+    dup BRNAM eq {
+    BRDEF currentpoint exch 7 add exch 9 add bracinho
+    }if}!
+
+% (Diagram definitions by Chuck Boody)
+/gcshow-bracinho{
+    (C) (- 0 3 2 0 1 0) brac
+    (Cdim7) (- x 3 4 2 4 x) brac
+    (D\201dim7) (- x x 1 2 1 2) brac
+    (D) (- x - 0 2 3 2) brac
+    (D/A) (- x 0 0 2 3 2) brac
+    (E\202) (- x x 1 3 4 3) brac
+    (E) (- 0 2 2 1 0 0) brac
+    (E/B) (- x 2 2 1 0 0) brac
+    (E/G\201) (- 4 x 2 4 0 0) brac
+    (Edim7) (- x x 2 3 2 3) brac
+    (F) (1a. 1[ 3 3 2 - 1]) brac
+    (F/A) (- x 0 3 2 1 1) brac
+    (F/C) (- x 3 3 2 1 1) brac
+    (F\201m) (- 2 4 4 2 2 2) brac
+    (F\201m7) (- 2[ 4 2 2 2 2]) brac
+    (Fdim7) (- 1 x 0 1 0 1) brac
+    (G) (- 3 2 0 0 0 3) brac
+    (G/D) (- x x 0 4 3 3) brac
+    (A\201dim7) (- x 1 2 0 2 0) brac
+    (A/C\201) (- x 4 3[ 3 3 x]) brac
+    (A) (- - 0 2 2 2 0) brac
+    (A/E) (- x x 2 2 2 0) brac
+    (A7) (- - 0 2 2 2 3) brac
+    (Am) (- - 0 2 2 1 0) brac
+    (B) (- x 2[ 4 4 4 2]) brac
+    (Bm) (- x 2[ 4 4 3 2]) brac
+    (Bm6) (- x 2 x 1 3 2) brac
+    (Bm7) (- x 2[ 4 2 3 2]) brac
+    (Bm/F\201) (- 2[ 2 4 4 3 2]) brac
+    (E7) (- 0 2 2 1 4 0) brac
+    (Cm) (3a. x 1[ 3 3 2 1]) brac
+    (Bm7/5d) (- x 2 3 2 3 x) brac
+    (B/F\201) (- 2[ 2 4 4 4 2]) brac
+    (B/A) (- x 0 4 4 4 2) brac
+   gcshow-b}!
+
+% Replaces gchords with diagrams:
+/gcshow{gcshow-bracinho}!
+%%endps
+
+X:1
+T:Farside Bank of Jordan
+C:Terry Smith
+M:C
+L:1/4
+K:A
+V:1
+|"A""^Verses"C E E E|F E C E|"E7"E E E D
+w:1~I be-lieve my steps are gro-ing wear-i-er each
+w:2~it should prove to be his will that I'm the first to
+w:3~Through this world we've la-bored hard to earn our mea-ger
+|B,3 E|E E E3/2 E/2|G F E D|"A"C4|z3 z/2 E/2
+w:day._ Still, I have a jour-ney on my mind.*
+w:go, and some-how I"ve a feel-ing it will be. When
+w:fare. It's brought us tremb-ling hands and fail-ing eyes.*
+|"A"C E E E|F E C E|"E7"E E E D|B,4|z3 z/2 E/2
+w:Lures of this old world have ceased to make me want to stay, my
+w:it's your turn to trav-el like wise, don't you feel the loss, for
+w:I'll just sit here on this shore and turn my eyes a-way un-
+|E E E3/2 E/2|G E G B|1  "A"A4|z3/2 z/2 E/2:|2,3  "A"A4||
+w:one re-gret is leav-ing you be-hind. If *
+w:I will be  the first one  that you * * see.
+w:til you come, then we'll see par-a-* * dise.
+|"^Chorus"z3/2 C/2 C D|"A"E E E E|F E A B|(c4|A2) B c
+w:And I'll be  wait-ing on the far side bank of Jor-dan. I'll be
+|"D"B A A A|B A A F/2E/2-|"A"E4|z3 z/2 E/2|"E7"G/2 G3/2 G A
+w:wait-ing, draw-ing pic-tures in the sand_ And when I see you
+|B2 A B|"A"c d c/2 B3/2|A2 B c|"D"d/2 d3/2 d3/2 d/2|"A"c A B/2 c3/2
+w:come, I will rise up with a shout, and  go run-ning through the shal-low wa-ter,
+|"E7"d B A G|"A"A4|z4||
+w:reach-ing for your hand.

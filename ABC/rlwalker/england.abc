@@ -1,0 +1,108 @@
+X: 1
+T:Bare Necessities
+M:3/4
+L:1/8
+C:Pat Shaw
+R:waltz
+N:English country dance (longways)
+D:
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+K:DDor
+|: "Dm"A4 G2 | FE D4 | "G"d4 c2 | BA G4 \
+| "Dm"A4 G2 | FE D2 F2 | "Am"ED C2 E2 |1 "Dm"D3 EFG :|2 "Dm"D6 ||
+|| "Dm"f4 g2 | ag fe d2 | "C"ef gf ed | "Am"c3 B A2 \
+|  "Dm"f4 g2 | ag fe dc | "G"B2 G2 B2 | d4 cB |
+|  "F"AG FG AB | "C"c2 G2 E2 | "Dm"FE DE FG | "A7"A4 B^c \
+|  "D"d4 a2 | ^fe d2 f2 | "G"e2 d2 B2 | "D"d6 |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 2
+T:All in a Garden Green
+M:C|
+L:1/8
+Q:120
+Z:1987 by John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music
+Z:bc/
+K:G
+|| "G"d2 dd | B>c dd | "C"edcB | "D7"A3B | "C"c>d e/2f/2g | "G"G>A B/2c/
+2d | cB "D7"A/2G/2A/2B/2 | "G"G4 ||
+|| "D7"dd/2d/2 dd | ef "G"g2 | BB/2B/2 BG | AB "C"c2 | "G"B>A G/2A/2B | 
+"Am"c>B A/2B/2 c \
+| "Bm"d>c B/2c/2d | "C"e>d c/2d/2B/2c/2 | "D7"AGGF | "G"G4 |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 3
+T:Apley House
+M:C|
+L:1/8
+P:AA BB C
+N:Playford (11th edition, 1702) (actually in the "supplement")
+N:Barnes
+N:Barlow #480
+N:Raven p.22
+N:Karpeles p.23
+N:Keller p.5
+K:G
+|: "G"B2G2 Bcd2 | "C"e2c2 "D7"A3c | "G"B2G2 g2G2 | B4 d4 :|\
+|: "D"f2a2 bagf | "A7"e2g2 g2fe | "D"f2a2 bagf | "A7"e4 "D"d4 :|
+|| "C"e2c2 cdec | "G"d2B2 BcdB | "(Em)"g2G2 "D7"G2A2 | "G"B4 d4 \
+|| "Am"e2c2 cdec | "G"d2B2 BcdB | "(Em)"g2G2 "D7"G2A2 | "G"B4 d4 |]
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 4
+T:Argeers
+T:The Wedding Night
+M:C|
+L:1/8
+Q:230
+H:No convincing explanation has been found for the title.  The North
+H:African territory of Algiers was much in the news in the 1660s.
+K:D
+defg e2d2|c2A2 A4|a2e2 a3g|f2d2 d4|defg e2d2|c3d e2A2|Bcd2 cdef|d8||
+cde2 cde2|a2e2 a2e2|cde2 cde2|a2e2 a2e2|a2gf g2ag|f2ed e3A|Bcde cdef|d8|
+]|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 5
+T:Aye me
+T:The Simphony
+M:C|
+L:1/8
+Q:200
+H:Symphony in this period means a harmony or concord, rather than a
+H:specific musical form.
+K:C
+g4 e4|d2 BA G2AB|c2c2 d2d2|e6 ee|e2 fg a2 cc|c2 de f2 AA|BG e2 d3c|c8||
+A2 AB c2 Bc|d2G2 G2 ee|e2 de efed|d6 gg|a2 ee f2 ^ff|g2 dc B2 gg|a2 e2 d
+3c|c8||
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+X: 6
+T:Unnamed hornpipe (Eng?)
+M:4/4
+L:1/8
+S:David Kidd
+R:Hornpipe?
+P:AABB
+N:The tune, according to my source, is not Irish but rather a Geordie
+N:tune. I thought I'd ask anyway in case someone knew it. I also put
+N:it in hornpipe rhythm to get the right lilt, but I suspect it may be
+N:a reel.  Fiddlers please note: this one is a *great* bowing exercise
+Z:Lorna LaVerne
+K:A
+(3EFG |
+ABcd eAGA | fAgA aAGA | FAEA DACA | BcdB AGFE |
+ABcd eAGA | fAgA aAGA | FAEA DACA | BdBG A2(3EFG |
+ABcd eAGA | fAgA aAGA | FAEA DACA | BcdB AGFE |
+ABcd eAGA | fAgA aAGA | FAEA DACA | BdBG A2A2 |
+|:eAGA fAGA | fgag f=f^fc | dcdc B_B=Bc | dc(3dcB AGFE |
+ABcd eAGA | fAgA aAGA | FAEA DACA | BdBG A2A2:|
+W:
+W: From "Falaleiro" http://home.t-online.de/home/pheld/homepage.htm
+
+% Output from ABC2Win  Version 2.1 i on 14.04.2001

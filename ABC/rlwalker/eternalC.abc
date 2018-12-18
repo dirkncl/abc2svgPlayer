@@ -1,0 +1,52 @@
+%%scale 1.1
+%%format dulcimer.fmt
+X: 1
+T:For Those In Peril On The Sea
+O:Academy Hymn
+C:Reverand William Whiting, 1860
+N:This hymn was written in 1860 by the Reverend William Whiting,
+N:clergyman of the Church of England, after he had come hrough a
+N:terrible storm in the Mediterranean Sea.  Every service at the
+N:Naval Academy is closed with the first stanza of the hymn, the
+N:entire congregation kneeling or seated with bowed heads.  From
+N:the Academy the custom has spread to many ships of the Fleet.
+M:4/4
+L:1/4
+K:C
+|C
+w:1~E-
+w:2~O
+w:3~Most
+w:4~O
+|"C"[C3/2E3/2] [C/2E/2] [EG] [EG]|"F"[FA] [FA] +fermata+"C"[EG] G\
+w:ter-nal Fa-ther, strong to save, Whose
+w:Christ! Whose voice the wa-ters heard, And
+w:Ho-ly Spir-it! Who didst brood, Up-
+w:Trin-i-ty of love and power! Our
+|"Am"c "D7"d "G"[GB] G|"G"[DG] "D7"[D^F] +fermata+"G"[DG] [B,D]\
+w:arm hath bound the rest-less wave, Who
+w:hushed their rag-ing at Thy word, Who
+w:on the Cha-os dark and rude, And
+w:breth-ren shield in dan-ger's hour; From
+|"G7"[D3/2F3/2] [D/2F/2] "C"[CE] [CE]|"A7"[E3/2G3/2] [E/2G/2] "D"[D^F] "B"[^FB]\
+w:bidd'st the might-y o-cean deep Its
+w:walk-ed'st on the foam-ing deep, And
+w:bid its an-gry tum-ult cease, And
+w:rock and temp-est, fire and foe, Pro-
+|"Em"G "B7"^F "Em"E A|"Bm"[EG] "B7"[^D^F] +fermata+"Em"E [B,E]\
+w:own ap-point-ed lim-its keep; Oh,
+w:calm a-midst its rage didst sleep; Oh,
+w:give, for wild con-fu-sion, peace; Oh,
+w:tect them where-so-e'er they go; Thus
+|"C7"[_B,3/2E3/2] [_B,/2E/2] "F"[A,F] [CF]|"D"[C3/2^F3/2] [C/2^F/2] +fermata+"G"[B,G] "G7"G\
+w:hear us when we cry to Thee, For
+w:hear us when we cry to Thee, For
+w:hear us when we cry to Thee, For
+w:ev-er-more shall rise to Thee, Glad
+|"C"[EG] "F#dim"[DA] "C"[EG] [CE]|"G7"[B,3/2D3/2] C/2 "C"C-|C2\
+w:those in per-il on the sea,_
+w:those in per-il on the sea,_
+w:those in per-il on the sea,_
+w:hymns of praise from land and sea._
+|"F"[C2F2] "C"[C2E2]||
+w:A-men.

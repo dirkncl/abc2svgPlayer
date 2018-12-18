@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.2
+%%format dulcimer.fmt
+X:1
+T:Easter Parade
+C:Irving Berlin, 1933
+M:2/2    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:Bb    %(D, C)
+|"Bb"d3/2 ^c/2 "F7"d3/2 =c/2|"Bb7"B d2 c|"Eb"B3/2 A/2 B3/2 A/2|G B2 "Edim"G
+w:In your East-er bon-net With all the frills up-on it, You'll
+|"Bb"F3/2 _E/2 "F7"F3/2 _E/2|"Bb"D F B c|"C7"d c2 B|"Cm7"c2-"F7"c2|"Bb"d3/2 ^c/2 "F7"d3/2 =c/2
+w:be the grand-est la-dy in the East-er Pa-rade._  I'll be all in
+|"Bb7"B d2 c|"Eb"B3/2 A/2 B3/2 A/2|G B2 "Edim"G|"Bb"F3/2 =E/2 "F7"F3/2 _E/2|"Bb"D F B c
+w:clo-ver, and when they look you ov-er I'll be the proud-est fel-low in the
+|"C7"d B2 "F7"c|"Bb"B2 z B3/4=B1/4|"Bb9"c3/4c1/4| c2|z2 z B|"Eb"c3/4c/4 c3|
+w:Eas-ter Pa-rade. To the Park we'll go, Round Rot-ten Row
+|z2 z c3/4^c/4|"Gm7"d3/4d/4 d2 c|"C7"=e e2 c|"F7"f f3/4c/4 e e3/4B/4
+w:The pho-to-gra-phers will snap us; And then you'll be seen In the
+|"Dm"d d3/4A/4 "F7"c "F7+"^c|"Bb"d3/2 ^c/2 "F7"d3/2 =c/2|"Bb7"B d2 c|"Eb"B3/2 A/2 B3/2 A/2
+w:smart mag-a-zine. Oh, I could write a son-net A-bout your East-er
+|G B2 "E6"G|"Bb"F3/2 =E/2 "F7"F3/2 _E/2|"Bb"D F B c|"C7"d B2 "F7"c|1 "Bb"B3 z:|2 "Bb"B3 z||
+w:bon-net And of the girl I'm tak-ing to the Eas-ter Par- ade. ade.

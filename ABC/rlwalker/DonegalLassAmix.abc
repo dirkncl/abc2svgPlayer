@@ -1,0 +1,27 @@
+%Scale the output
+%%scale 1.100
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X: 1
+T: Donegal Lass, The
+R: Jig
+C: Brian Finnegan
+D: Brian Finnegan: When The Party's Over
+S: bil mckenty <bil@blueskiesink.com> irtrad-l 2000-02-16
+M: 6/8
+L: 1/8
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K: Amix
+P:A
+|: "A"Ace aed | cdB A3 | "G"GBd G3  | "D"FAd F3  | "A"Ace aed | cdB A2a | aed "G"cdB | "D"ABG "A"A3 :|
+P:B
+|: "G"GBd G3  | "D"FAd F3 | "A"e2e ecA | e2e ecA | "G"GBd G3  | "D"FAd F2a | "A"aed "G"cdB | "D"ABG "A"A3 :|

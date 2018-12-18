@@ -1,0 +1,28 @@
+%Scale the output
+%%scale 1.200
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Dogwood Winter Waltz
+C:Arr. Blaine Sprouse
+L:1/8
+M:3/4
+Q:100
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:A
+P:A
+|E[AA] | "A"[e2c2] [e3c3]d | c2 Bc/B/ A2 | "Bm"F2 [d3F3]c | d3c BF | "D"A3A F/4=G/4F3/4D3/4
+|d3z2c | "E"c/4d/4c/B B3c | B4 E/F/A | "A"[c2E2] [c3E3][dF] | [c2E2] BG A2 | "Bm"F2 [d3F3]c
+|d3c BF | "D"A3F F/4=G/4F/D | [d4F4] z[cE] | "E"[c/4E/4]d/4c/B [B3E3][cE] | [B3E3]c||
+P:B
+|BA
+|"F#m"[A2F2] [c2A2] [cA][cB] |[c2A2] [e2c2] [a2e2] |"D" [f2d2] [f3d3]g | ab g2 f/g/f/e/ |
+|"A"[e2e2] [e3e3]f | ec d2 c2 | "Bm"B4 zc | Bc d/c/B/c/ BA | "F#m"F2 A2 AB | A=c [e2^c2] e2 |
+|"D"f2 f3g | ab g2 f2 | "Em"[ec][=g4e4]c | "G"[=g4d4] [g2c2] | "E"[g3B3]c G/E/F |
+|E4 E/F/A | "A"[c2E2] [c3E3][dF] | [c2E2] [B2D2] [A2C2] | "Bm"F2 [d3F3]c | d3c BF |
+|"D"A4 (3FED | "E"[B2G2] [c2A2] [d2B2] | "A"[c4A4] G/F/E | =C^C =C^C2B, | A,4 |

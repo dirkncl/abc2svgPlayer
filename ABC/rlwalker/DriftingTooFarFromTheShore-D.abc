@@ -1,0 +1,42 @@
+%Scale the output
+%%scale 1.055
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 30pt %between systems
+%%sysstaffsep 30pt %between staves of a system
+X:1
+T:DRIFTING TOO FAR FROM THE SHORE
+C:
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+P:A Verse
+|F/2E/2
+w:Out_
+|"D"F2 D|"A"E F G|"D"F2 E|D z D
+w:on the per-i-lous deep__ Where
+|"A"E2 E|F/2 F3/2 E|"D"D2 D/2B,/2|A, z F
+w:dan-ger si-lent-ly creeps.___ And
+|"D"F2 F|D E F |"G"G2 F|"Em"E z G/2F/2
+w:storms so vio-lent-ly sweep_  ing You'-re
+|"D"F/2 F3/2 G|"A"F2 C/2E/2|"D"D3-|D z||
+w:drift-ing too far from the shore_
+P:B Chorus
+|G
+w:You're
+|"G"G/2 G3/2 G|D2 E/2D/2|"D"F2 F/2E/2|D z F
+w:drift-ing too far from the shore,___ You're
+|"A"F/2 E3/2 E|C2 F/2D/2|"D"F2 E|D z D/2E/2
+w:drift-ing too far from the shore.__ Come to
+|"D"F F F|A,2 F/2G/2|A B A|"G"G2 F|E z G/2F/2
+w:Je-sus to-day, let Him show you the way,__ You'-re
+|"D"G/2 F3/2 G|"A"F/2 C3/2 D/2E/2|"D"D3- |D z||
+w:drift-ing too far_ from the shore._

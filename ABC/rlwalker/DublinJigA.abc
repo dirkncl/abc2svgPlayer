@@ -1,0 +1,26 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X: 1
+T:Dublin Jig, The
+R:Jig
+M:6/8
+L:1/8
+Q:116
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:A
+|:e| "A" AAA cAc | ece "D" a2 f | "A" ecA ecA | "E7" BBB B2 e|!
+| "A" AAA cAc | ece "D" a2 f | "A" ecA "E7" BAB |"A" cA"D"A "A" A2:||!
+|: f | "A" ece "D" a2 f | "A" ece "D" a2 f | "A" ecA ecA | "E7" BBB B2 f|!
+|1"A" ece "D" a2 f | "A" ece "D" a2 f | "A" ecA "E7" BAB| "A" cA"D"A "A"A2:|!
+|2 "A" AAA "F#m" cAc | "A"ece  "D" a2 f | "A" ecA "E7" BAB |"A" cA"D"A "A" A2||

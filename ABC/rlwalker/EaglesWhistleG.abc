@@ -1,0 +1,16 @@
+%%scale 1.4
+%%format dulcimer.fmt
+X:1
+T:Eagle's Whistle
+M:4/4
+L:1/4
+%%continueall 1
+%%partsbox 1
+K:G
+P:A
+|:G/|"G"BB d/B/A/G/|"Em"BB e/B/A/G/|"G"BGG B/G/|"Em"BGG B/G/|\
+"G"BB d/B/A/G/|"Em"BB e/B/A/G/|EGG G3/4A//|EG/G/ "G"G3/2:|
+P:B
+|:d/|"Em"e/d/e/f/ ed/B/|"G"d/B/d/g/ dB/A/|"C"eg "G"d/B/A/G/|\
+"D"BAA B/G/|"Em"e/d/e/f/ ed/B/|"G"d/B/d/g/ dB/A/|\
+"Em"Bg/e/ "G"d/B/A/G/|"Em"EG/G/ "G"G3/2:|

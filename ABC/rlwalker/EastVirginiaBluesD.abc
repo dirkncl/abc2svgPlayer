@@ -1,0 +1,56 @@
+%Scale the output
+%%scale 1.172
+%%format dulcimer.fmt
+X:1
+T:East Virginia Blues
+C:traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+|F A
+w:1~I was
+w:2~Oh her
+w:3~Mol-ly
+w:4~No, I'll
+|"D"F4-|F D F A|F/2E/2 D3-|D d d d|"G"B4-
+w:born_ in East Vir-gin-i-a_ North Car-o-li-
+w:hair_ was dark and cur-_ly_ And_ her cheeks
+w:dear_ go ask your Moth-_er_ if you my bride
+w:not_ go ask my Moth-_er_ Where_ she lies
+|B G A G|"D"A4-|A2 B d|"G"B4-|B G A B|"D"A F3-
+w:_na I did go._ There I met_ a fair young maid-en
+w:_were ro-sy red_ On her breast_ she wore a li-ly
+w:_might ev-er be;_ if she says_ no come back and tell~me
+w:_on her bed~of rest_ in her hand_ she holds a dag-ger
+|F2 F F|"A"E4-|E "D"F "A"A/2F/2 E|"D"D2||
+w:_And whose name_ I did_ not know.
+w:_Where I longed_ to lay_ my head.
+w:_And I'll run_ a-way_ with thee.
+w:_To kill~the man_ that I_ love best.
+W:
+W:5~The ocean's deep and I can't wade it
+W:And I have no wings to fly.
+W:I'll just get some blue eyed boatman
+W:For to row me o'er the tide.
+W:
+W:6~I'll go back to East Virginia
+W:North Carolina ain't my home.
+W:I'll go back to East Virginia
+W:Leave old North Carolina alone.
+W:
+W:7~I don't want your green back dollar
+W:I don't want your watch and chain
+W:All I want is you my darlin'
+W:Say you'll take me back again.
+W:
+W:8~For you know I'd like to see you
+W:At my door your welcome in
+W:At my gate I'll always greet you
+W:For you're the girl I tried to win.
+
+
+

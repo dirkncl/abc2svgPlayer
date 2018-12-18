@@ -1,0 +1,22 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Down By the Riverside
+C:
+M:C|    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:F    %(D, C)
+|A
+|:+segno+"F"A C D F|F/2 F A/2-A2|z A A3/2 ^G/2|A/2 =G F/2-F2
+|"C7"z G G3/2 ^F/2|"C7"G/2 =F E/2-E2|"F"z A A3/2 ^G/2|A/2 =G F/2-F A
+|A C D F|F/2 F A/2-A2|"F"z A A3/2 ^G/2|A/2 =G F/2-F2
+|"C7"A G2 B|A2 G2|"F"F4-|1 +fine+F3 c:|2 "F7"F F G A
+|"Bb"B B B B/2B/2-|"Bb7"B3 B|"F"A A A A/2F/2-|F4
+|"C7"A G2 G|"C7"F2 G2|"F"A4-|"F7"A F G A
+|"Bb"B B B B/2B/2-|"Bb7"B4|"F"A A A A/2F/2-|"Dm"F4
+|"G7"G G2 A|=B G A B|"C7"c4-|c2 +D.S.+c|
+

@@ -1,0 +1,31 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 25pt %between systems
+%%sysstaffsep 25pt %between staves of a system
+X:1
+T:FALLS AT ENNISTYMON
+C:Frances Michaels
+M:C    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble name="Violin"
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+P:A
+|:"G"dG {/A}G2 dGAG|"D7"FGAB c4|"G"dG {/A}G2 dGFG|"D7"Addc "G"AG G2:|
+P:B
+|:"G"dg {/a}g2 bgag|edBe d2 ed|dg g2 bgag|"A7"eaag "D7"a2 ge
+| "G"dg g2 bgag|edBe d2 Bc|dG G2 dGAG|"D7"Addc "G"AGGA:|
+P:C
+|:"Em"BE E2 BEEG|"D"FGAB A2 GA|"Em"BE E2 BEFE|"D"DEFD "Em"FE E2
+|BE E2 BEFE|"D"DEFG A2 Bc|"Em"Beed BAGB|"D"AGFD "Em"FE E2:|
+P:D
+|:"G"GddG AGEF|GddG "Am"A2 GF|"G"GddG AGEF|GAGE "D7"D2 EF
+|"G"GddG AGBd|"C"eGGe "D7"d2 ef|"G"gbgd "Am"edBA|"G"G2 G2 G2 z2:||

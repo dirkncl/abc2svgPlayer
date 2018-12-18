@@ -1,0 +1,80 @@
+%%scale 0.99
+%%format dulcimer.fmt
+X: 1
+T:Dreamin
+C:Johnny Burnette
+N:D Bm G A <-- 2x intro and before each verse
+M:4/4
+L:1/8
+Q:1/4=148
+K:D% 0 sharps
+V:1
+%%continueall 1
+%%partsbox 1
+%intro  D Bm G A  2x
+P:A
+|"D"FA6-A-
+w:Dream-in,_
+|A3-A/2x/2 (3F2E2D2
+w:__ I'm al-ways
+|"Bm"FB6-B-
+w:dream-in,_
+|B6- B3/2x/2
+w:__
+|"G"GB6-B-
+w:Dream-in,_
+|B3-B/2x/2 (3B2c2d2
+w:__ Love will be
+|"A"c8-
+w:mine.
+|c6- c3/2x/2
+w:__
+|"D"FA6-A-
+w:Search-in,_
+|A3-A/2x/2 (3F2E2D2
+w:__ I'm al-ways
+|"Bm"FB6-B-
+w:search-in,_
+|B6- B3/2x/2
+w:__
+|"G"GB6-B-
+w:Hope-in,_
+|B3-B/2x/2 (3B2c2d2
+w:__ Some day I'll
+|"A"c8-
+w:find
+|c6- c3/2x/2||
+w:__ 
+P:B
+|"Bm"d3/2x/2 B6-
+w:Some-one
+|B3-B/2x/2 (3d2c2B2
+w:__ Some-one to
+|"F#m"c3/2x/2 A6-
+w:Love me
+|A3-A/2x/2 (3c2B2A2
+w:__ Some-one who
+|"G"B3/2x/2 G6-
+w:needs me.
+|G3-G/2x/2 (3B2c2d2
+w:__ But un-til
+|"A"c8-
+w:then.
+|c3/2x/2 B2 A2 G2
+w:_ Well,~I'll keep on
+|"D"FA6-A-
+w:dream-in_
+|A3-A/2x/2 (3F2E2D2
+w:__ Keep right on
+|"Bm"FB6-B-
+w:dream-in_
+|B6- B3/2x/2
+w:__ 
+|"G"GB6-B/2x/2
+w:Dream-in_
+|x3/2d-[d/2B/2-]B "A"(3c2d2e2
+w:till_ my dream-in comes
+|"D"d8-
+w:true.
+|d4- d3/2x2x/2|]
+w:__

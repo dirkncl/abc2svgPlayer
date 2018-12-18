@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Dogwood Winter
+C:Arr. Blaine Sprouse
+N:TablEdited by Vance Henry
+L:1/8
+Q:1/4=100
+M:3/4
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Gmaj
+z4 D[GG] | "G"[d2B2] [d3B3]c | B2 AB/2A/2 G2 | "Am"E2 [c3E3]B | c3B AE | "C"G3G E/4=F/4E3/4C3/4 | \
+c3z2B | "D"B/4c/4B/2A A3B | A4 D/2E/2G | "G"[B2D2] [B3D3][cE] | [B2D2] AF G2 | "Am"E2 [c3E3]B | \
+c3B AE | "C"G3E E/4=F/4E/2C | [c4E4] z[BD] | "D"[B/4D/4]c/4B/2A [A3D3][BD] | [A3D3]B AG | \
+"Em"[G2E2] [B2G2] [BG][BA] | [B2G2] [d2B2] [g2d2] | [e2c2] [e3c3]f | ga f2 e/2f/2e/2d/2 | \
+"G"[d2d2] [d3d3]e | dB c2 B2 | "Am"A4 zB | AB c/2B/2A/2B/2 AG | "Em"E2 G2 GA | G_B [d2=B2] d2 | \
+"C"e2 e3f | ga f2 e2 | "Dm"[dB][=f4d4]B | "F"[=f4c4] [f2B2] | "D"[f3A3]B F/2D/2E | \
+D4 D/2E/2G | "G"[B2D2] [B3D3][cE] | [B2D2] [A2C2] [G2B,2] | "Am"E2 [c3E3]B | c3B AE | \
+"C"G4 (3EDC | "D"[A2F2] [B2G2] [c2A2] | "G"[B4G4] F/2E/2D | _B,=B, _B,=B,2A, | G,6 | \
+W:Created with TablEdit http://www.tabledit.com/

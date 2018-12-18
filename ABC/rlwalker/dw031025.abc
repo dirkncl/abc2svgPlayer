@@ -1,0 +1,53 @@
+X:1
+T:Fun Medley 001
+L:1/8
+Q:1/8=60
+M:2/4
+K:D
+V:1 clef=treble name="Dulcimer #1"
+P:BOIL DEM CABBAGE DOWN
+|"D""@MELODY"FF FF|"G"G2 G2|"D"FF FF|"A"E4
+w:1.Bile them cab-bage down boys, turn them hoe-cakes round.
+w:2.Rac-coon has a bushy tail, Pos-sum's tail is bare.
+w:3.Pos-sum up a 'simmon tree, Rac-coon on the ground.
+w:4.Jay-bird died with~the whoopin' cough, Spar-row died with~the colic.
+|"D"FF FF|"G"GG GG|"D"FF "A"EE|"D"D4||
+w:On-ly song that I can sing is bile them cab-bage down.
+w:Rab-bit's got no tail at all, But~a little bitty bunch of hair.
+w:Rac-coon says to~the pos-sum, "Won't you shake them 'sim-mons down?"
+w:Along come~the frog with~a fiddle on~his back, In-quirin' his way to~the frolic.
+V:2 clef=treble name="Dulcimer #2"
+|"@HARMONY"AA AA|BB BB|AA AA|G4
+|AA AA|BB BB|AA GG|F4||
+P:GO TELL AUNT RHODIE
+V:1 clef=treble name="Dulcimer #1"
+|"D"F2 "@MELODY"FE|D2 D2|"A"E2 EG|("D"FE) D2
+w:Go tell Aunt Rho-die, go tell Aunt Rho_die,
+w:The~one she's been sav-ing, the~one she's been sav_ing,
+w:She~died in the mill-pond, she~died in the mill_pond,
+w:She~left~nine lit-tle gos-lins, she~left~nine lit-tle gos_lins,
+|A2 AG|F2 DD|"A"EG FE|"D"D4||
+w:Go tell Aunt Rho-die, The old grey goose is dead.
+w:The~one she's been sav-ing, To make a fea-ther bed.
+w:She~died in the mill-pond, A-stand-ing on her head.
+w:She~left~nine lit-tle gos-lins, To scratch for their own bread.
+V:2 clef=treble name="Dulcimer #2"
+|"D"A2 "@HARMONY"AG|FG F2|"A"G2 GB|("D"AG) F2
+|D2 DE|F2 AA|"A"GB AG|"D"F4||
+P:SKIP TO MY LOU
+V:1 clef=treble name="Dulcimer #1"
+|"D""@MELODY"FF DD | F F/2F/2 A2 |"Em" EE "A"CC |"Em"E E/2E/2 "A7"G2
+w:C~Skip,_ skip,_ skip to my Lou, skip,_ skip,_ skip to my Lou,
+w:1~Fly's in~the butter-milk, shoo, fly,_ shoo, fly's in~the butter-milk, shoo, fly,_ shoo, 
+w:2~Cat's in~the cream jar, ooh, ooh,_ ooh, cat's in~the cream jar, ooh, ooh,_ ooh,
+w:3~Off to Tex-as, two by_ two, Off to Tex-as, two by_ two,
+|"D"FF DD | F F/2F/2 A2 |"A7"E G/2G/2 FE|"D"D2 D2 ||
+w:Skip,_ skip,_ skip to my Lou, skip to my Lou my dar-lin'.
+w:Fly's in~the butter-milk, shoo, fly,_ shoo, skip to my Lou, my dar-lin'.
+w:Cat's in~the cream jar, ooh, ooh,_ ooh, skip to my Lou my dar-lin'.
+w:Off to Tex-as, two by_ two, skip to my Lou my dar-lin'.
+V:2 clef=treble name="Dulcimer #2"
+|"@HARMONY"AA FF | A A/2A/2 d2 | GG EE | G G/2G/2 B2 
+| AA FF | A A/2A/2 d2 | G B/2B/2 AG |FG F2 ||
+P:ANGELINE THE BAKER
+

@@ -1,0 +1,36 @@
+%%scale 1.25
+%%barsperstaff 4
+X:1
+T:Down In The Valley
+C:Traditional
+M:3/4
+L:1/4
+K:D
+%%staves {1 2}
+V:1 name="melody"
+|"D"A d e|f3|d3|f e d|"A"e3-|e3
+w:v1~Down in the val-ley, Val-ley so low,_
+w:v2~Down in the val-ley, Val-ley so low,_
+w:v3~Ro-ses love sun-shine, Vi'-lets love dew,_
+w:v4~Write me a let-ter, Send it by mail,_
+|A c e|g3|e3|"A7"c d e|"D"d3-|d3
+w:Hang your head o-ver Hear the wind blow._
+w:Late in the ev-ening, Hear the train blow._
+w:An-gels in hea-ven, Know I love you._
+w:Send it in care of, Bir-ming-ham jail._
+|A d e|f3|d3|f e d|"A"e3-|e3
+w:Hear the wind blow, dear, Hear the wind blow,_
+w:Hear the train blow-ing, Hear that train blow,_
+w:Know I love you, dear, Know I love you,_
+w:Bir-ming-ham jail-house, Bir-ming-ham jail,_
+|A c e|g3|e3|"A7"c d e|"D"d3-|d3||
+w:Hang your head o-ver, Hear the wind blow._
+w:Hang your head o-ver, Hear that train blow._
+w:An-gels in hea-ven, Know I love you._
+w:Send it in care of, Bir-ming-ham jail._
+V:2 name="harmony"
+|F F G|A3|F3|A G F|A3-|A3
+|c c B|A3|c3|B A G|F3-|F3
+|F F G|A3|F3|A G F|A3-|A3
+|c c B|A3|c3|B A G|F3-|F3||
+

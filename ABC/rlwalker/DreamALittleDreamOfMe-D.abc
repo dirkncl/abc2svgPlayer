@@ -1,0 +1,37 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Dream A Little Dream of Me
+C:Gus Kahn, Wilbur Schwandt & Fabian Andre
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Dmaj%(D, C)
+|"D"D2 C/2D/2C/2B,/2|"Bb9"D2 "A9"C2|"D"D2 C/2D/2C/2B,/2|(3"B7"^DFD "F#m7(f#5)"=C "B7"B,
+w:Stars shin-ing bright a-bove you, Night breez-es seem to whis-per, "I love you."
+|"Em"E2 D/2E/2D/2B,/2|(3"Gm6"ED_B, D2|"D"A,/2B,/2D/2E/2 "E7"F B,|"A"A4
+w:Birds sing-ing in the syc-a-more tree, "Dream a lit-tle dream of me."
+|"D"D2 C/2D/2C/2B,/2|"Bb9"D2 "A9"C2|"D"D2 C/2D/2C/2B,/2|(3"B7"^DFD "F#m7(f#5)"=C "B7"B,
+w:Say "night-ie night" and kiss me; Just hold me tight and tell me you'll miss me.
+|"Em"E2 D/2E/2D/2B,/2|(3"Gm6"ED_B, D2|"D"A,/2B,/2"C9"D/2E/2 "Bb9"=F "A9"E|"D"D- "Cb9"D "F9"z
+w:While I'm a-loner and blue as can be Dream a lit-tle dream of me._
+|"Bb"_B2 (3"Gm7"GBG|(3"Cm7"=FDF "F9"G, A,|"Bb"_B2 (3"Gm7"GBG|"Cm7"=F2- "F9"=F2|"Bb"_B2 (3"Gm7"GBG
+w:Stars fad-ing, but I lin-ger on, dear, Still crav-ing your kiss;_ I'm long-ing to
+|(3"Cm7"=FDF "F9"G, A,|"Bb"_B2 "Gm7"=F G|"Em7"A2- "A9"A2|"D"D2 C/2D/2C/2B,/2|"Bb9"D2 "A9"C2
+w:lin-ger till dawn, dear, Just say-ing this:_ Sweet dreams till sun-beams find you
+|"D"D2 C/2D/2C/2B,/2|(3"B7"^DFD "F#m7(f#5)"=C "B7"B,|"Em"E2 D/2E/2D/2B,/2|(3"Gm6"ED_B, D2
+w:Sweet dreams that leave all wor-ries be-hind you; But in your dreams what-ev-er they be
+|"D"A,/2B,/2"C9"D/2E/2 "F9"=F "A9"E|"D"D2-"C9"D-"F9"D-|"Bb"D2-"E9"D-"A7(f#9)"D-|"D"D3 z||
+w:Dream a lit-tle dream of me.______
+
