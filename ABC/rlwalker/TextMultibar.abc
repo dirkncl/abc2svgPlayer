@@ -1,0 +1,17 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Voice Overlay (abcm2ps)
+K:C
+%
+%%text Single bar
+CD EC G4 &
+w: do re mi do sol
+E2E2 D2G2 |
+w: mi mi re sol
+%
+%%text Multibar
+(& cc gg ff ee | dc df ed | e &\
+w: do do sol sol fa fa mi mi re do re fa mi re mi
+CC GG FF EE | DC DF ED | D &)
+w: DO DO SOL SOL FA FA MI MI RE DO RE FA MI RE DO

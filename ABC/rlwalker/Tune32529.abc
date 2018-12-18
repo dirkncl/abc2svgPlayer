@@ -1,0 +1,23 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:Hector the Hero
+C:J. S. Skinner
+M:3/4
+L:1/4
+K:D
+%%continueall 1
+%%partsbox 1
+P:A
+|DE 
+|: "D" F3/2 E/2 D | "G"B2 A/2F/2 | "D"A2-A/2B/2 
+|"D"A2D/2E/2 | "Bm"F2E/2D/2 | "G"B2A/2F/2 | "Em"E2-E/2F/2 
+|"A"E2F/2A/2 | "Bm"F3/2E/2D | "G"B2A/2F/2 | "D"A2D 
+|"G"d2B | "D"A2D/2F/2 | "A"E2D | "D"D3- | "D"D :|
+P:B
+|FA 
+| "G"B2G/2B/2 | "G"d2c/2B/2 | "D"A2-A/2B/2 
+|"D"A2F/2A/2 | "Bm"B2A/2F/2 | "Bm"A2D/2F/2 | "Em"E2-E/2F/2 
+|"A"E2F/2A/2 | "Bm"B2G/2B/2 | "G"d2c/2B/2 
+|[1 "D"A2G/2F/2 | "G"d2G | "D"F2D/2F/2 | "A"E2D | "D"D3- | "D"D :|
+|[2 "D"A2D | "G"d2B | "D"A2D/2F/2 | "A"E2D | "D"D3- | "D"D ||

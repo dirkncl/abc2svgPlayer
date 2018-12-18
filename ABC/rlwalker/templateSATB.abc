@@ -1,0 +1,24 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T: TEST: Vocal SATB score.
+N: All parts written "on the staff" without commas.
+N: All parts should show scale from low C to high c'.
+K: C
+V:1 name="soprano" clef=treble middle=B
+V:2 name="alto"    clef=treble middle=B
+V:3 name="tenor"   clef=tenor middle=C
+V:4 name="bass"    clef=bass middle=D,
+%
+%%staffsep 90pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+%%continueall 1
+%%partsbox 1
+[V:1] | CDEF GABc | defg abc'd' |
+w:  C D E F G A B c d e f g a b c' d'
+[V:2] | CDEF GABc | defg abc'd' |
+w:  C D E F G A B c d e f g a b c' d'
+[V:3] | C,D,E,F, G,A,B,C | DEFG ABcd |
+w:  C, D, E, F, G, A, B, C D E F G A B c d
+[V:4] | C,,D,,E,,F,, G,,A,,B,,C, | D,E,F, G, A,B,C D |
+w:  C,, D,, E,, F,, G,, A,, B,, C, D, E, F, G, A, B, C D

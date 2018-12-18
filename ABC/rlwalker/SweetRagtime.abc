@@ -1,0 +1,36 @@
+%Scale the output
+%%scale 1.00
+%%format dulcimer.fmt
+X:1
+T:Sweet Allalee
+C:Mac & Bob (c)1931
+M:C    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%V:1 treble clef
+P:Moderato / DAD
+K:G    %(D, C)
+|D2|"G""^Verses"G3 A|B2 D2|"C"E3 F|G2 B2|"A7"A3 E|"D"F2 B A|"G"G4-|G2 D2
+w:1~Sweet Al-la-lee, so dear to me, She's gone for-ev-er_ more,_ My
+w:2~Oh why did I, from day to day, Keep wish-ing to be_ free,_ And
+w:3~They said that I would sson be free, And hap-py all the_ day,_ And
+|G3 A|B2 D2|"C"E3 F|G2 B2|"A7"A3 E|"D"F2  B A|"G"G4-|G2 G2
+w:home was down in Ten-nes-see Be-fore the cru-el_ war._ Then
+w:from my mas-ter run a-way, And leave my Al-la_ lee._
+w:if they'll take me back a-gain, I'll nev-er run a_ way._
+|"C""^Chorus"c3 c|c3 G|"G"B3 B|B4|G2 G A|B2 d2|"D"A4-|A2 D2
+w:carry me back to Ten-nes-see, there's where I long to be,_ A-
+|"G"G3 A|B2 D2|"C"E3 F|G2 B B|"A7"A3 E|"D"F2 B A|"G"G4-|G2||
+w:mong the fields of yel-low corn, With my dar-ling Al-la_ lee._
+
+%%scale 1.3
+X:2
+T:Ragtime Annie (#21)
+C:Traditional
+O:American Fiddle Tune
+M:4/4
+L:1/8
+K:D
+|"D"ABAB AB A2|ABAB "A7"Ac c2|AcBc AcBc
+|1AccB "D"A4:|2AABc "D"d3 A,|A2 AF D3 F
+|A2 GG "G"B,3 E|GEB,E "Em"GEB,E|"A7"C2 CB, "D"A,3 D
+|A2 AG F3 E|D2 C2 "G"B,4|GBBB "D"FG A2|"A7"EGFE "D"D2 d z||

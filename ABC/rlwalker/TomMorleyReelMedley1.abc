@@ -1,0 +1,38 @@
+%Scale the output
+%%scale 0.990
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Tom Morley Reel Medley 1
+C:Traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+P:Salley Gardens Reel
+|uD2|
+|:"G"vG2 DG B2 G(uB|"G"dB)ve(uB dB)AB|"G"dGBd e(fge)|"C"d(BAB) "D"GEDE
+|"G"vG2 DG B2 G(B|"G"dB)E(B dB)AB|"C"dGBd e(fge)
+|1 "D"dBAB "G"G2 D2:|2 "D"dBAB "G"G2 (uBc)||
+|:"G"vdg(gf) (ge)de|"G"gab(g ag)eg|"Am"vea(ag) (ag)eg|"D"agb(g ag)eg
+|"G"dg(gf) (ge)de|"G"gab(g ag)eg|"C"dGBd e(fge)
+|1 "D"dBAB "G"GG2 (uBc):|2 "D"dBAB "G"G2||
+K:G    %(D, C)
+P:Abbey Reel
+|"Am"vA3 B A2 GE|"Am"uA2 GA "G"BddB|"Am"A2 (AB) AGED|"G"G2 GA "Em"(Bd)dB
+|"Am"A2 (AB) A2 (GE)|"Am"A2 GA  "G"(Bd)dB|"Am"A2 (AB) AGED|"G"G2 (GA) (Bd) d2
+|"C9"(eg) (3ggg a2 (ba)|"G"gavbu(g ag)ed|"C9"(eg) (3gggg a2 (ga)|"G"bgef (ge) d2
+|"C9"(eg) (3ggg  (ag) (3ggg|"G"agvbu(g ag)ed|"C9"(eg) (3ggg a2 (ga)|"G"bgef "Em"g(edB):|
+|"Am""^last x"A8||
+K:D    %(D, C)
+P:Wind That Shakes The Barley
+|"D"vA2 (AB) AFED|"G"B2 (BA) BcdB|"D"A2 (AB) AFED|"G"gfe(d "A"Bc)dB
+|"D"A2 (AB) AFED|"G"B2 (BA) BcdB|"D"A2 (AB) AFED|"G"gfe(d "A"Bc)de
+|"D"vf2 fd "G"g2 ge|"D"f2 (fd) Bcde|"D"f2 fB "G"g2 fg|"D"afe(d Bc)de
+|"D"f2 fd "G"g2 ge|"D"f2 (fd) Bcde|"D"defg afb(a "G"gf)ed "A"BcdB:|"D""^last x"A8||

@@ -1,0 +1,40 @@
+%Scale the output
+%%scale 1.352
+%%stretchlast 0
+%%barsperstaff 4
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+X:1
+T:Sword Dance
+C:Violin II; Arranged by Bob Phillips
+M:2/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%V:1 treble clef
+K:D    %(D, C)
+%01-04
+|"^Allegro"z4|z4|!f!v[D2A2] u.[DA]-u.[DA]|v[D2A2] u.[DA]-u.[DA]||
+%05-08
+v[D2A2] u.[DA]-u.[DA]|[D2B2] .[DB]-.[DB]|[D2A2] .[DA]-.[DA]|.[E2A2] .[E2A2]
+%09-12
+|v[D2A2] u.[DA]-u.[DA]|[D2B2] .[DB]-.[DB]|[D2A2] .[EA]-.[EA]|.[D2A2] .[D2A2]
+%13-17
+|!p!v[D2A2] z2|u[D2B2] z2|v[D2A2] !breath!z2|v.[E2A2] .[E2A2]|[D2A2] z2
+%18-23
+|[D2B2] z2|[D2A2] !breath!z2|v.[D2A2] .[D2A2]|!f!vF2 u(G F)|D2 D2|(FE) (DE)
+%24-34
+|E2 E2|vF2 u(GF)|D2 D2|v(FD) u.Eu.E|!diminuendo(!D2 D2!diminuendo)!|!p!vF4|uD4|D4|E4|F4|D4
+%35-44
+|D2 A,2|D2 D2|v.F.E .F.D|!accent!G2 !accent!G2|z4|z4|v.D.E .F.F|!accent!G2 !accent!G2|z4|z4
+%45-52
+|z4|z4|v.F.E .F.E|!accent!E2 !accent!E2|z4|z4|v.F.D .E.E|!accent!D2 !accent!D2
+%53-61
+|!f!"^pizz."F2 GF|D2 D2|FE DE|E2 E2|F2 GF|D2 D2|FD EE|!diminuendo(!D2 D2!diminuendo)!|!p!D2 z2
+%62-69
+|D2 z2|D2 z2|E2 E2|F2 z2|D2 z2|D2 A2|D2 !+!D2|"^arco"!f!v.D.E .F.F
+%70-75
+|!accent!G2 !accent!G2|.F.E .F.D|!accent!E2 !accent!E2|.D.E .F.F|!accent!G2 !accent!G2|.F.D .E.E
+%76-80
+|!accent!D2 !accent!D2|v.D.E .F.F|!accent!G2 !accent!G2|.F.E .F.D|!accent!E2 !accent!E2
+%81-85
+|.D.E .F.F|!accent!G2 !accent!G2|z4|!f!"^pizz."FD EE|D2 "^arco"!accent!vd2||

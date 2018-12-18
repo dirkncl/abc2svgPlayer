@@ -1,0 +1,165 @@
+%Chord diagram definitions
+%%setdefl 1
+%%beginps
+%
+% -- latin guitar chords
+/gcshow{
+dup 0 get
+dup 65 eq {pop(A)show}
+{dup 66 eq {pop(B)show}
+{dup 67 eq {pop(C)show}
+{dup 68 eq {pop(D)show}
+{dup 69 eq {pop(E)show}
+{dup 70 eq {pop(F)show}
+{dup 71 eq {pop(G)show}
+{currentfont /Encoding get exch get glyphshow
+} ifelse
+} ifelse
+} ifelse
+} ifelse
+} ifelse
+} ifelse
+} ifelse
+dup dup length 1 sub 1 exch getinterval
+show
+pop}!
+%
+%
+% -- guitar diagrams
+/guitar{ % usage: x y guitar
+gsave exch 10 sub exch 8 add T
+1.5 SLW -0.3 24.6 M 20.6 0 RL stroke
+0.6 SLW 0 0 M 20 0 RL 0 6 M 20 0 RL
+0 12 M 20 0 RL 0 18 M 20 0 RL
+0 0 M 0 24 RL 4 0 M 0 24 RL 8 0 M 0 24 RL
+12 0 M 0 24 RL 16 0 M 0 24 RL 20 0 M 0 24 RL
+stroke 0.5 SLW}!
+/gdot{newpath 1.4 0 360 arc fill}!
+/gx{28 M -1.3 -1.3 RM 2.6 2.6 RL 0 -2.6 RM -2.6 2.6 RL stroke}!
+/go{28 newpath 1.5 0 360 arc stroke}!
+/A7{ % usage: x y Dm
+guitar
+0 gx 4 go 12 go 20 go
+8 15 gdot 16 15 gdot
+grestore}!
+/Am{
+guitar
+0 gx 4 go 20 go
+8 15 gdot 12 15 gdot 16 21 gdot
+grestore}!
+/Am7{
+guitar
+0 gx 4 go
+8 15 gdot 12 15 gdot 16 21 gdot 20 9 gdot
+grestore}!
+/Bb{
+guitar
+0 gx 20 gx
+4 21 gdot 8 9 gdot 12 9 gdot 16 9 gdot
+grestore}!
+/Bm{
+guitar
+0 gx 4 gx
+8 3 gdot 12 3 gdot 16 9 gdot 20 15 gdot
+grestore}!
+/Bm7-5{
+guitar
+0 gx 20 gx
+4 15 gdot 8 9 gdot 12 15 gdot 16 9 gdot
+grestore}!
+/C{
+guitar
+0 gx 12 go 20 go
+16 21 gdot 8 15 gdot 4 9 gdot
+grestore}!
+/C.{
+guitar
+0 gx 12 go
+16 21 gdot 8 15 gdot 4 9 gdot 20 9 gdot
+grestore}!
+/C7{
+guitar
+0 gx 12 go 20 go
+16 21 gdot 8 15 gdot 4 9 gdot 12 9 gdot
+grestore}!
+/C#m7-5{
+guitar
+0 gx 12 go 16 go 20 go
+4 3 gdot 8 15 gdot
+grestore}!
+/Dm{
+guitar
+0 gx 4 gx 8 go
+20 21 gdot 12 15 gdot 16 9 gdot
+grestore}!
+/D7{
+guitar
+0 gx 4 gx 8 go
+12 15 gdot 16 21 gdot 20 15 gdot
+grestore}!
+/Em{
+guitar
+0 go 12 go 16 go 20 go
+4 15 gdot 8 15 gdot
+grestore}!
+/Em6{
+guitar
+0 go 12 go 20 go
+4 15 gdot 8 15 gdot 16 15 gdot
+grestore}!
+/E7{
+guitar
+0 gx 8 go 16 go 20 go
+4 15 gdot 12 21 gdot
+grestore}!
+/F#7{
+guitar
+0 gx 4 gx 20 go
+8 3 gdot 12 9 gdot 16 15 gdot
+grestore}!
+/G{
+guitar
+8 go 12 go 16 go
+0 9 gdot 4 15 gdot 20 9 gdot
+grestore}!
+/G+{
+guitar
+0 gx 4 gx 12 go 16 go
+8 21 gdot 20 9 gdot
+grestore}!
+%
+%%endps
+%
+% == decoration definitions ==
+%
+% -- guitar chords
+%%deco A7 3 A7 36 0 0
+%%deco Am 3 Am 36 0 0
+%%deco Am7 3 Am7 36 0 0
+%%deco C6 3 C6 36 0 0
+%%deco Bb 3 Bb 36 0 0
+%%deco Bm 3 Bm 36 0 0
+%%deco Bm7-5 3 Bm7-5 36 0 0
+%%deco C 3 C 36 0 0
+%%deco C. 3 C. 36 0 0
+%%deco C7 3 C7 36 0 0
+%%deco C#m7-5 3 C#m7-5 36 0 0
+%%deco Dm 3 Dm 36 0 0
+%%deco D7 3 D7 36 0 0
+%%deco Em 3 Em 36 0 0
+%%deco Em6 3 Em6 36 0 0
+%%deco E7 3 E7 36 0 0
+%%deco F#7 3 F#7 36 0 0
+%%deco G 3 G 36 0 0
+%%deco G+ 3 G+ 36 0 0
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:
+C:
+M:    %(3/4, 4/4, 6/8)
+L:    %(1/8, 1/4)
+V:1 clef=treble
+K:    %(D, C)
+

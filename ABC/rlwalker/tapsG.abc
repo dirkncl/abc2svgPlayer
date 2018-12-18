@@ -1,0 +1,14 @@
+%%scale 1.20
+%%format dulcimer.fmt
+X: 1
+T:TAPS
+C:Patriotic
+M:4/4
+L:1/8
+K:G
+|d3/2d/2
+w:Day is
+|"G"+fermata+g6 d3/2g/2|+fermata+b6 d3/2g/2|b2 d3/2g/2 b2 d3/2g/2
+w:done, gone the sun, from the lake, from the hills, from the
+|+fermata+b6 g3/2b/2|d'6 b2 g2|"D7"d6 d3/2d/2|"G"+fermata+g8-|g8||
+w:sky, all is well, safe-ly rest, God is nigh._

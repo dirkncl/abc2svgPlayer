@@ -1,0 +1,24 @@
+X:0
+T:Dorian/Minor (6-gap, re/la) Hexatonic Scales
+M:4/4
+L:1/8
+K:BbDor
+"^B flat"  Bcde fab2|bafe dcB2||\
+K:FDor
+"^F"       FGAB cef2|fecB AGF2||
+K:CDor
+"^C"       CDEF GBc2|cBGF EDC2||\
+K:GDor
+"^G"       GABc dfg2|gfdc BAG2||
+K:DDor
+"^D"       DEFG Acd2|dcAG FED2||\
+K:AMin
+"^A"       ABcd ega2|aged cBA2||
+K:EMin
+"^E"       EFGA Bde2|edBA GFE2||\
+K:BMin
+"^B"       Bcde fab2|bafe dcB2||
+K:F#Min
+"^F sharp" FGAB cef2|fecB AGF2||\
+K:C#Min
+"^C sharp" CDEF GBc2|cBGF EDC2|]

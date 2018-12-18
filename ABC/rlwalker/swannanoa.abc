@@ -1,0 +1,17 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Swannanoa Waltz
+C:Rayna Gellert
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|D/2E/2\
+|:"D"F F E/2D/2|"G"B, B, B,/2A,/2|"D"F3/2 F/2 E/2D/2|"A"A A/2F/2 D/2E/2\
+|"D"F F E/2D/2|"G"B, B, B,/2A,/2|"A"E E/2F/2 F/4G/4F/4E/4\
+|1 "D"D A,/2D/2 A,/2D/2:|2 "D"D D/2D/2 B/2d/2||
+|:"D"d g f/2e/2|"G"B-B/2=c/4B/4 A/2B/2|"D"d g f/2e/2|"A"a a/2f/2 d/2B/2\
+|"D"d g f/2e/2|"G"B-B/2=c/4B/4 A/2B/2|"A"d/2g/2 f/2d/2 A/2B/2\
+|1 "D"d3/2 B/2 A/2B/2:|2 "D"d2||

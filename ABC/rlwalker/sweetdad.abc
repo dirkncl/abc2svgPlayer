@@ -1,0 +1,27 @@
+%Scale the output
+%%scale 0.94
+%%format dulcimer.fmt
+X:1
+T:Sweet Allalee
+C:Mac & Bob (c)1931
+M:C    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%V:1 treble clef
+P:Moderato / DAD
+K:G    %(D, C)
+|"G"D2|"^Verses"G3 A|B2 D2|"C"E3 F|G2 B2|"A7"A3 E|"D"F2 B A|"G"G4-|G2 D2
+w:0 3 4 5 0 1 2 3 5 4 1 2 5 4 3_ 0
+w:1~Sweet Al-la-lee, so dear to me, She's gone for-ev-er_ more,_ My
+w:2~Oh why did I, from day to day, Keep wish-ing to be_ free,_ And
+w:3~They said that I would sson be free, And hap-py all the_ day,_ And
+|G3 A|B2 D2|"C"E3 F|G2 B2|"A7"A3 E|"D"F2  B A|"G"G4-|G2 G2
+w:3 4 5 0 1 2 3 5 4 1 2 5 4 3_ 3
+w:home was down in Ten-nes-see Be-fore the cru-el_ war._ Then
+w:from my mas-ter run a-way, And leave my Al-la_ lee._
+w:if they'll take me back a-gain, I'll nev-er run a_ way._
+|"C""^Chorus"c3 c|c3 G|"G"B3 B|B4|G2 G A|B2 d2|"D"A4-|A2 D2
+w:6 6 6 3 5 5 5 3 3 4 5 7 4_ 0
+w:carry me back to Ten-nes-see, there's where I long to be,_ A-
+|"G"G3 A|B2 D2|"C"E3 F|G2 B B|"A7"A3 E|"D"F2 B A|"G"G4-|G2||
+w:3 4 5 0 1 2 3 5 5 4 1 2 5 4 3_
+w:mong the fields of yel-low corn, With my dar-ling Al-la_ lee._

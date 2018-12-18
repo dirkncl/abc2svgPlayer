@@ -1,0 +1,25 @@
+%Scale the output
+%%scale 1.0
+%%format bracinho.fmt
+%%format dulcimer.fmt
+%%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 120pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+X:1
+T:
+C:
+M:    %(3/4, 4/4, 6/8)
+L:    %(1/8, 1/4)
+Q:
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:    %(D, C)
+P:A
+
+
+

@@ -1,0 +1,19 @@
+%%scale 0.9
+%%format dulcimer.fmt
+X: 1
+T:Funeral March of the Marionettes
+T:Alfred Hitchcock Theme
+C:F.Gounod
+S:JoAnne Rocke
+Z:John Chambers <jc:trillian.mit.edu>
+M:6/8
+L:1/8
+K:G
+| "Em"e2G GFE | "B7"F2G A3 | "Em"e2G GFE | "B7"F2G A3
+| "Em"E2G "D"B2A | "G"G2B "C"d2c | "Bm"B2d "F#7"f2e | "B7"^d3 z3B
+| "Em"e2G GFE | "B7"F2G A3 | "Em"e2G GFE | "B7"F2G A3
+| "Em"G2B "D7"d2c | "G"BAG "F"=FGA | "Em"E^DE "B"^F2G | "B7"F3 "Em"E3 ||
+| "B"B2B, B,^A,B, | "E"^D2^C B,3 | "B"B2B, B,^A,B, | "E"^D2^C B,3
+| "B"B2B, "C"CDE | "B"F2B, "C"CDE | "B"F3B, B,A,G, | A,B,A, G,2F,
+| "Em"e2G GFE | "B7"F2G A3 | "Em"e2G GFE | "B7"F2G A3
+| "Em"G2B "D7"d2c | "G"BAG "F"=FGA | "Em"E^DE "B"^F2G | "B7"F3 "Em"E3 ||

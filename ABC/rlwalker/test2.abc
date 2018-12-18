@@ -1,0 +1,12 @@
+X:0
+T:The Dorian/Minor (re/la) Hexatonic Scale
+M:7/4
+L:1/4
+K:DDor
+P:re -ti
+"_re"D "_mi"E "_fa"F "_so"G "_la"A "_do"c "_re"d |\
+"_re"d "_do"c "_la"A "_so"G "_fa"F "_mi"E "_re"D||
+P:la -fa
+K:AMin
+"_la"A "_ti"B "_do"c "_re"d "_mi"e "_so"g "_la"a |\
+"_la"a "_so"g "_mi"e "_re"d "_do"c "_ti"B "_la"A|]

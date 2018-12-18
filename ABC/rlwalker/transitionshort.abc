@@ -1,0 +1,16 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Bonaparte Crossing the Alps / Retreat Transition
+C:Arrangement of Little Ol' Me
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+N:We do the "RE" "TREAT" on those 2 rests in the middle measure
+N:This is a FAST transition.  Anything shorter won't work.
+N:The only alternative would be "RE" for a  whole measure and
+N:"TREAT" for a whole measure if we need to slow it down more.
+|2 "D"D2 z2||
+|z2 z2|z2 "D"A B|

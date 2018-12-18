@@ -1,0 +1,22 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Lover's Waltz, The
+I:Lover's Waltz, The	W-40	D	waltz
+%%staffwidth     14.50cm
+C:W-40
+C:\2511992 Molly Mason & Jay Ungar
+M:3/4
+Z:Transcribed to abc by Mary Lou Knack
+R:waltz
+F:http://trillian.mit.edu/~jc/org/RJ/music/waltz/W040_Lovers_Waltz_The.abc	 2008-06-28 05:14:35 UT
+K:D
+A df|| "D"a3a fd| "G"B3A GF| "D"A6-| A3A df| \
+    a3a fd| "G"B3A GF| "Em"A6-| "A7"A3A Bd|
+"Em"e3d ef| "G"ed3 BA| "D"A6-| A3A Bd| \
+"G"e3d ef| "Em"ed3 BA| "A"a4- ab| a4 dc|]
+\
+"D"d4 dc| "Em7"d4 dc| "D/F#"d3d dc| "G"d2 g3f| \
+"D"d4 dc| "Bm"d4 BA| "Em"B4- BA/B/| "A7"A4 dc|
+"G"B3c d2| "A"c2 d2 e2| "Bm"f3g fe| d4 dc| \
+"G"B2 c2 d2| "A7"e2 d3c| "D (G)"d6-| "D"d3|]
