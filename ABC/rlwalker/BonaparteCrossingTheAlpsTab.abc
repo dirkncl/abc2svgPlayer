@@ -1,0 +1,30 @@
+%Scale the output
+%%scale 0.94
+%%format dulcimer.fmt
+X: 1
+T:Bonaparte Crossing the Alps
+C:Retabbed by Margaret Wright, 07/97
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|"^INTRO"B A G F|E2 E F|E E|\
+w:5 4 3 2 1 1 2 1 1
+|:"^TUNE"D F\
+w:0 2
+|"D"A F "F#m"A B|"D7"A2 d e|"G"f2 f a|"Gm"f2 e d\
+w:4 2 4 5 4 7 8 9 9 11 9 8 7
+|"D"B A "Bm"d B|"D"A F "E7"D F|"A7"E2 E F|E2 D F\
+w:5 4 7 5 4 2 0 2 1 1 2 1 0 2
+|"D"A F "F#m"A B|"D7"A2 d e|"G"f2 f a|"Gm"f2 e d\
+w:4 2 4 5 4 7 8 9 9 11 9 8 7	
+|"D"B A "Bm"d B|"D"A F "A7"E F|"D"D2- "G"D E\
+w:5 4 7 5 4 2 1 2 0 0 1
+|"D"D2 d f|a2 "F#m"a b|"D7"a2 f e|"G"d2 "Gm"d e\
+w:0 7 9 11 11 12 11 9 8 7 7 8
+|"D"f2 f f|"Em"G2 G G|B A G F|"A7"E2 E F\
+w:9 9 9 3 3 3 5 4 3 2 1 1 2
+|E2 D F|"D"A F "F#m"A B|"D7"A2 d e|"G"f2 f a\
+w:1 0 2 4 2 4 5 4 7 8 9 9 11
+|"Gm"f2 e d|"D"B A "Bm"d B|"D"A F "A7"E F|"D"D2 "G"D E|"D"D2:||
+w:9 8 7 5 4 7 5 4 2 1 2 0 0 1 0

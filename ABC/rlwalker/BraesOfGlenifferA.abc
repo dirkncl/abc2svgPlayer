@@ -1,0 +1,15 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Saw Ye My Wee Thing
+T:Braes of Gleniffer
+R:jig
+M: 6/8
+L: 1/8
+K:A
+|: E \
+| "A"A3 cBA | ecA "D"fga | "A"ecA "F#m"AGA | "E7"BGE EFG \
+| "A"A3 cBA | ecA "D"fga | "A"fge "E7"cdB | "A"A3 A2 :|
+|: c \
+| "E7"BGE EFG | "A"ABc "F#m"FGA | "D"FGA "Bm"Bcd | "B7"FBA "E7"GFE \
+| "E7"BGE EFG | "A"ABc "F#m"FGA | "E7"Efd eEG | B3 "A"A2 :|

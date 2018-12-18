@@ -1,0 +1,15 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:Saw Ye My Wee Thing
+T:Braes of Gleniffer
+R:jig
+M:6/8
+L:1/8
+K:D
+|: A, \
+| "D"D3 FED | AFD "G"Bcd | "D"AFD "Bm"DCD | "A7"ECA, A,B,C \
+| "D"D3 FED | AFD "G"Bcd | "D"BcA "A7"FGE | "D"D3 D2 :|
+|: F \
+| "A7"ECA, A,B,C | "D"DEF "Bm"B,CD | "G"B,CD "Em"EFG | "E7"B,ED "A7"CB,A, \
+| "A7"ECA, A,B,C | "D"DEF "Bm"B,CD | "A7"A,BG AA,C | E3 "D"D2 :|

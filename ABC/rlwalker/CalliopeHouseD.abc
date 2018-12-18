@@ -1,0 +1,27 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X: 1
+T:Calliope House
+M:6/8
+L:1/8
+Q:220
+C:Dave Richardson
+S:From Bog Carrot
+R:JigV:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:    %(D, C)
+|:"D"dAA fAA|eAA fAA|"Em"Bee e2 d|"Em"efd "G"BdB|!
+"D"ABA A2 F|A2 B d2 e|1"D"f2 a fed|"A"e3-e2 A:|2"D"faf "G"edB|"D"d3 d2 f
+|!
+|:"D"a3 faa|eaa faa|"G"g3 fgf|efe edB|!
+"D"ABA A2 F|A2 B d2 e|1"D"f2 a fed|"A"e3-e fg:|2"D"faf "G"edB|"D"d3-d2||

@@ -1,0 +1,18 @@
+%%scale 1.2
+%%format dulcimer.fmt
+X:1
+T:Cajun Waltz
+C:Ray Hunley (arranged)
+M:3/4
+L:1/4
+K:D
+%%staves{RH1}
+P:Play A1 A2 B A(final ending)
+V:RH1 clef=treble
+|"^PART A"d/2d/2|:"D"d c =c|"G"B3|B3|B B B/2c/2|d c B|"D"A F F|F F G/2G/2|F2 A/2A/2\
+|A G F|1 "A"E2 F|E2 F|E2 A/2A/2|B A G|"D"F3|"G"G3\
+|"D"A2 d/2d/2:|2 "A"E3|E2 F|E2 E/2F/2|G F E|"D"F/2E/2 D2|"G"G F "A"E\
+|"D"D2 A/2A/2:|3 "A""^Final Ending"E3|E2 F|E2 E/2F/2|"G"G F "A"E|"D""^Fine"D3||\
+|"D""^PART B"A G F|"A"E E F|E2 E/2F/2|E2 E/2F/2|G F E|"D"F/2E/2 D2|"G"G F E\
+|"D"F/2E/2 D A/2A/2|A G F|"A"E E F|E2 E/2F/2|E2 E/2F/2|G F E|"D"F/2E/2 D2\
+|"G"G F "A"E|"D""^D.C. al Fine"D2 d/2d/2||

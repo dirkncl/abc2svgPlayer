@@ -1,0 +1,28 @@
+%Scale the output
+%%scale 1.05
+%%format dulcimer.fmt
+X:1
+T:Charlottesville Waltz
+C:John Ward
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+P:Waltz
+K:A    %(D, C)
+|:E
+|"A"c3/2 d/2 e|"E"B c d|"A"A/2B/2 c E|"D"F2 A
+|"E"G3/2 A/2 B|"E"E G B|"A"A/2B/2 e c|"E"B2 E
+|"A"c3/2 d/2 e|"Bm"B c d|"A"A/2B/2 c E|"D"F2 A
+|"E"G3/2 A/2 B|"E"E G d|"A"c A "E"B|"A"A2 A
+|"D"f3/2 g/2 a|"D"d f a|"A"e/2 a3/2 c|"A"e2 c
+|"Bm"B/2c/2d/2 B/2c/2d/2|"E"E G B|"E7"f/2 e3/2 d|"A"c2 A
+|"D"f3/2 g/2 a|"Bm7"a g f|"A"e/2 a3/2 e|"A"c2 A
+|"Bm"B/2c/2d/2 B/2d/2f/2|"E7"e d3/2 B/2|"A"c/2 A3/2 "D"A|"A"A2 :||
+N:In 1995,I wrote this tune to commemorate performing at a Burns'
+N:Night event in Charlottesville, VA.  I thought it would be a 
+N:good time to use the tune again because my band is performing
+N:a wedding in Charlottesville later this month. [JW]
+N:© 1995 by John Ward

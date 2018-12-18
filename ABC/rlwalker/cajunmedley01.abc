@@ -1,0 +1,44 @@
+X:1
+T:Cajun Christmas Melody
+T:Cajun Melody #1
+M:4/4
+L:1/4
+K:D
+P:Mes Parents Veulent Plus Me Voir (My Parents Want More See Me)
+V:1 name="Melody"
+|:"D"F "@MELODY PART A"A G F|A4|F A G F|D4|F F G F|"A7"E4|E F2 E|"D"D4:|
+|:"G"G "@MELODY PART B"G "D"F/2E/2 D|"G"G G "D"F2|"G"G G "D"F/2E/2
+D|"A7"G/2F/2 E "D"D2:|
+V:2 name="Harmony"
+|:A "@HARMONY PART A"d B A|d4|A d B A|F4|d d e d|c4|c d e c|d4:|
+|:B "@HARMONY PART B"B/2B/2 A F|B B A2|B B A F/2F/2|B/2A/2 G F2:|
+M:3/4
+L:1/4
+K:D
+P:Bayou Pon Pon (Hank Williams & Jimmie Dar)
+|"@INTRO"A3/2 A/2 B|A F D|F c E|D2|
+|"@VERSES"A/2 A/2|"D"A F B|A F A|A F B|A F d
+w:1~There's a place_ I know_ you'll want_ to go__
+w:2~Oh_ sweet_ Ma-rie_ Shel'll dance_ with me_ and
+|"G"d2 e|d c B|"D"A F B|A F d/2 d/2|"G"d3/2 d/2 e|d c B|"D"A F B|A2 F
+w:if you're ev-_er feel-_ing low_ for the hap-pi-est place_ be-neath_ the sun is
+w:such a sight_ you'll nev-_er see_ Ter-_ese, _Ann-ette_ and Jo-_le Blon will
+|"A7"A3/2 A/2 B|A F D|F2 E|"D"D2 A/2 A/2|A F B|A F A/2 A/2|A F B|A2 d
+w:Sat-ur-day night on BAY-OU PON PON oh the fid-_dles ring_ and the gui-_tars sing they
+w:all _be there on BAY-OU PON PON at the jam-_ba-lee_ in _Saint_ Lam-dry They
+|"G"d d e|d c B|"D"A F B|A2 d/2 d/2|"G"d2 e|d c B|"D"A F B|A2 F
+w:have_ no thought_ of care_ or pain It's_ time to dance_ their work_ is done It's
+w:have a good time_ oh, yes, _oui oui Point Cou-re Saint Charles_ Saint James_ Saint John It's
+|"A7"A3/2 A/2 B|A F D|"A7"F c E|"D"D2||
+w:Sat-ur-day night on BAY-OU_ PON PON
+w:Sat-ur-day night on BAY-OU_ PON PON
+T:Love Bridge Waltz
+C:/Eddit LeJeane
+M:3/4
+L:1/4
+K:D
+P:Love Bridge Waltz (Eddie LeJeane)
+|:"D"A F3/2 G/2|A2-A/2 F/2|"G"B G3/2 A/2|B3
+|"D"A F3/2 G/2|A3/2 F/2 E/2D/2|"A"A A/2F/2 E/2F/2|"D"D3:||
+|:"D"F F3/2 A/2|E/2D/2-D3/2 D/2|"A"E E3/2 D/2|"D"F/2E/2 D2
+|F F3/2 A/2|E/2D/2-D3/2 D/2|"A""@rit"E E3/2 D/2|"D"F/2D/2-D2:||

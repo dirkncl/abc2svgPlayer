@@ -1,0 +1,16 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:Boo Baby's Lullaby
+M:3/4
+L:1/8
+R:waltz
+K:G
+d ga |:"G"b2 {bc'}d'2 ((3bd'b) |"D"a3 (b/2a/2 g/2a/2b/2a/2) |"C"g2 {d}e3 (f/2g/2) |"G"(f/2e/2) d2 {ed}c Bd |
+"C"c2 e2 g2 |"D7"((3aba) g2 (ag) |"G"b2 {bc'}d'2 ((3bd'b) |"D7"a3 d (ga) |
+"G"b2 {bc'}d'2 ((3bd'b) |"D"a3 (b/2a/2 g/2a/2b/2a/2)|"Em"g2 {d}e3 (f/2g/2) |"Bm"(f/2e/2)d2 {ed}c Bd|
+"C"c2 e2 g2 |"D7"a2 b2 (a2{c'ag}) | [1"G"{ef}g6|g3 d ga :| [2"G"{ef}g6|g2 d{ed}c Bd||
+|:"C"c2 e2 g2 |"D7"((3aba) g2 (ag) |"G"[b3 d3] c' bg |d2 d{ed}c Bd |
+"C"c2 e2 g2 |"D7"a2 g2 (ag)|"G" {a}b2 {bc'}d'2 ((3bd'a)|"D7"a2 d{ed}c Bd |
+"C"c2 e2 g2|"D7"((3aba) g2 ag |"Em"[b3 d3] c' bg|"Bm"d2 d{ed}c Bd|
+"C" e2 f2 g2 |"D7"a2 b2 (a2{c'ag}) |"G"{ef}g6| [1+D.C.+ "D7"g2 "G"d{ed}c Bd :| [2"G"g6 ||

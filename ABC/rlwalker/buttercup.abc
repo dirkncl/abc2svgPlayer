@@ -1,0 +1,20 @@
+%Scale the output
+%%scale 1.19
+%%format dulcimer.fmt
+%%barsperstaff 6
+X:1
+T:Buttercup (The)
+T:8x40J3L4
+C:Composed and arranged by Luke Brady
+P:Girls from Oakbank, The
+M:6/8    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+K:D    %(D, C)
+|d
+|:"D"A2 d ded|"Bm"f2 d dcd|"G"g2 d dBG|"A7"Ace efg
+|"Bm"f2 d dcd|"D"A2 d def|"A7"gec Ace|1  "D"fdd d2 "A7"e:|2  "D"fdd d2 "F#7"c||
+|:"Bm"B2 B, B,FB|"G"Bcd "A"cde|"Bm"def "C#"edc|"D"dcB "A"cde
+|"Bm"f2 d dcd|"D"A2 d def|"A7"gec Ace|1  "D"fdd d2 "F#7"c:|2  "D"fdd dcB||
+|"D"A2 d ded|"Bm"f2 d dcd|"G"g2 d dBG|"A7"Ace efg
+|"Bm"f2 d dcd|"D"A2 d def|"A7"gec Ace|"D"fdd d2||

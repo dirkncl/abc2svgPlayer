@@ -1,0 +1,20 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:Burning of the Piper's Hut, The
+R:Slow air
+C:Trad.
+O:Scotland
+M:4/4
+L:1/8
+Q:1/4=120
+%%partsbox yes
+K:Am
+P:A
+|:E2|"Am"A3/2B/ c3/2d/ "Em"e2 e2|"Em"e3/2d/ e/g3/2 "Am"e2 dc|"Em"B2 G2 "G"d2 G2|"Em"B3/2c/ d/e3/2 "G"d2 c3/2B/|
+"Am"A3/2B/ c3/2d/ "Em"e2 e2|"Em"e3/2d/ e/g3/2 "Am"e2 dc|"Em"B2 G2 "Am"e2 d3/2c/
+|"Em"B2 A2 "Am"A2:
+P:B
+|:E2|
+"Am"A3/2B/ c3/2d/ "Am"e3/2A/ A/A3/2|"Em"g3/2A/ A/A3/2 "Am"e2 dc|"Em"B2 G2 "G"d2 G2|"Em"B3/2c/ d/e3/2 "G"d2 c3/2B/|
+"Am"A3/2B/ c3/2d/ "Am"e3/2A/ A/A3/2|"Em"g3/2A/ A/A3/2 "Am"e2 dc|"Em"B2 G2 "Am"e2 d3/2c/|"Em"B2 A2 "Am"A2:|

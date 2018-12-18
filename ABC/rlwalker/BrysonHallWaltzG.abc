@@ -1,0 +1,23 @@
+%Scale the output
+%%scale 1.10
+%%format dulcimer.fmt
+X:1
+T:Bryson Hall Waltz
+C:DeeDee Tibbits
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:G    %(D, C)
+P:A
+|GA
+|:"G"Bc d3 e|"D"d2 A2 BA|"Em"GA B3 c
+|"Bm"B2 F2 GF|"C"E3 "Am"F G2|"G"D G3 B2
+|1 "Am"B2 c2 d2|"D"A4 GA:|2 "Am"A2 "D"E2 F2|"G"G4 Bd|
+P:B
+|:"C"ed cG cd|e2 g2 e/2g/2e
+|"G"dc BG Bc|d2 g2 d2|"^to Coda 3rd time""Am"cB AG FE|"D"DE FG AB
+|1 "Am"c3 e g2|b2 a/2b/2a g2:|2 "Am"ca-a3 f|"G"g4 Bd:|
+|3 +coda+"Am"cB AG FE|"D"DE FG AB|"Am"cd ef g+fermata+a|"G"+fermata+b4|]

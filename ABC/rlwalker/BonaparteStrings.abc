@@ -1,0 +1,20 @@
+%%scale 0.885
+%%format dulcimer.fmt
+%%measurefirst 0
+%%continueall yes
+X:1
+T:Bonaparte's Retreat
+C:Traditional
+M:2/4
+L:1/4
+K:D
+|+downbow++mf+A/2A/2 A B|"D"d2 d2|d3 (A/2B/2)|d B A F|E D F A
+|(B/2d3/2) d2|d4|(f e) d B|"A"A/2B/2A/2F/2 "D"E D|"D"F2-F/2E/2D/2f/2|A F E D
+|"A"E2-E/2D/2E/2F/2|G F E D|"D"F2-F/2E/2D/2F/2|A F E D|"A"E F/2G/2 F E|"D"D2 A B
+|:"D"+downbow+(B/2d3/2) d2|(B/2 d3/2- d) (A/2B/2)|d B A F|(3EFE D F A|(*B/2 d3/2) (d B)
+|(B d3/2-d/2)(A/2B/2d/2)|(f e) d B|"A"(A/2B/2)A/2G/2 "D"(F/2E/2) D|"D"+downbow+(E/2 F3/2-F/2)E/2D/2F/2|A F E D
+|"A"E2-E/2D/2E/2F/2|G F E D|"D"(E/2 F3/2-F/2)E/2D/2F/2|A F E D|"A"E F/2G/2 (3F/2G/2F/2 E|"D"D2 A B
+|"D"+downbow+=c2 B2|A2 (A B)|=c d c B|A2 (A B)|=c2 B2
+|A4|d3 B|(A/2B/2)A/2F/2 E D|"D"(e/2 f3/2 f/2)e/2d/2f/2|a f e d
+|"A"e2-e/2 d/2e/2f/2|g f e d|"D"(e/2 f3/2-f/2)e/2d/2f/2|a f e d
+|"A"e f/2g/2 f e|1  "D"d A/2A/2 A B:|2  "D"d d-d/2A/2B/2c/2|d z +fermata+D2||

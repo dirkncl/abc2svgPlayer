@@ -1,0 +1,16 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T: Braes of Breadalbane
+R: strathspey
+B: RSCDS 21-7(I)
+Z: 1997 by John Chambers <jc:trillian.mit.edu>
+M: 4/4
+L: 1/8
+K: Am
+|: E \
+| "Am"E<A AB c>B Ac | "Am"e2 cA e2 cA \
+| "Am"E<A AB "F"c>B Ac | "E7"c>A B>^G "Am"A3 :|
+|: G  \
+| "C"c<c cc "G"d<d dd | "C"e>f ge "G"d>B AG \
+| "C"c<c cc "G"d<d dd |1 "C"e>d c>d "E7"e2z :|2 "E7"e>d c>B "Am"A3 ||

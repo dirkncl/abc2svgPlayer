@@ -1,0 +1,125 @@
+X: 0
+T: Cairn Edward #3
+T: 8x24J3
+P: 1-2-3-4-2-3-4-1
+N: 3-bar phrases
+N: Arranged by Barbara McOwen 5/84
+O: Hugh Foss, Galloway Album
+K: G
+
+X: 1
+P: Cairn Edward
+C: /Hugh Foss
+B: Galloway Album
+M: 6/8
+L: 1/8
+K: G
+d \
+| "G"g2g dBd | B2B "Em"BAG | "Am"B3 "D7"A2d \
+| "G"g2g dBd |"Em"B2B "Am"BAG | "D7"A3 "G"G2 :| \
+E \
+| "G"D2D "C"E2E | "G"D2B BAG | "Em"B3 "D7"A2E |
+| "G"D2D "C"E2E | "G"D2B BAG | "D7"A3 "G"G2E \
+|| "G"D2D "C"E2E | "G"D2B BAG | "Em"B3 "D7"A2d \
+| "G"gfe "Em"dcB | "Am"ABc "D7"B2A | "G"G2 |]
+
+X: 2
+P: Glentrool
+C: /Hugh Foss
+M: 6/8
+L: 1/8
+K: D
+A3 \
+| "D"FGA A2d \
+| FGA A2f \
+| "A7"e3 "D"d2A \
+| "D"FGA A2A \
+| "Bm"d2d A2F \
+| "Em"G3 E2F \
+| "Em"G2G E2E \
+| G2G EFG |
+| "A7"B3 A2G \
+| "D"FGA A2d \
+| FGA "A7"F2E \
+| "D"D3 F3 \
+|| "D"AGF A2F \
+| A2F A2B \
+| "F#m"c3 A2B \
+| cBA c2A |
+| "F#m"c2A c2d \
+| "E7"e3 c2d \
+| "A"edc "A7"e2c \
+| "D"def "E7"e2c \
+| "A"e3 c2c \
+| "D"dcB AGF \
+| "G"EFG "A7"F2E \
+| "D"D3 |]
+
+X: 3
+P: da Smugglers
+S: Barbara McOwen 5/84
+M: 6/8
+L: 1/8
+K: G
+"D7"d3 \
+| "G"BAB G2A \
+| B2e "C"edB \
+| "D7"d3 d3 \
+| "G"BAB G2A \
+| "Em"B2e "C"edB \
+| "D7"A3 A3 \
+| "G"BAB G2A \
+| B2e "C"edB |
+| "D7"d3 d3 \
+| "G"BAB G2A \
+| "Em"B2B "C"BAG \
+| "D7"A3 "G"GBd \
+|| "C"g2e "Bm"f2d \
+| "Em"g2e "D"faf \
+| "D7"d3 d2f \
+| "C"g2e "Bm"f2a |
+| "Em"g2e "C"edB \
+| "D7"A3 A2f \
+| "C"g2e "Bm"f2d \
+| "Em"g2e "D"faf \
+| "D7"d3 d2c \
+| "G"BAB G2A \
+| "Em"B2B "C"BAG \
+| "D7"A3 "G"G2 |]
+
+X: 4
+P: Lauriston
+C: /Hugh Foss
+M: 6/8
+L: 1/8
+K: A
+E \
+| "A"ABc "A7"e2c \
+| "D"f2d "A"e2c \
+| "Bm"d2c "E7"B2c \
+| "A"A2c e2c \
+| "D"f2d "(E)"e2B \
+| "E7"c2B "A"A2E \
+| "A"A2c "A7"e2c \
+| "D"f2d "A"e2c |
+| "Bm"d2c "E7"B2c \
+| "F#m"ABc e2c \
+| "D"f2d "(E)"e2B \
+| "E7"c2B "A"A2e \
+|| "A"agf e2c \
+| e3 "A7"c2e \
+| "D"d2c "E7"B2e \
+| "A"agf e2c |
+| "D"def "(E)"e2B \
+| "E7"c2B "A"A2e \
+| "A"agf e2c \
+| e3 "A7"c2e \
+| "D"d2c "E7"B2e \
+| "F#m"agf edc \
+| "Bm"Bcd "(E)"c2B \
+| "E7"c2B "A"A2 |]
+
+X: 5
+%%wordsfont Helvetica 10
+W: Arranged by Barbara McOwen
+K: C

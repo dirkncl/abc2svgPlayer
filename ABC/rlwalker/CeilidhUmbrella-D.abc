@@ -1,0 +1,42 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Ceilidh Umbrella (The)
+C:Muriel A. Johnstone
+R:strathspey
+%%staffsep 50.0pt
+B:RSCDS 35-5
+M:4/4
+L:1/8
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Dmaj
+%%continueall 1
+%%partsbox 1
+A2 \
+| "D"F<A d>f "Em"e>d "A7"e<f \
+| "D"d>A FA DF [AA,]D \
+| "G"B,>D G<B "D"A<F A>d \
+| "F#7"c<F f>e "Bm"d2 ((3def) |
+| "Em"((3gfe) "D"f>d "G"e>d B<d \
+| "D"A<F d<F "A"E>D "F#7"E<F \
+| "Bm"D2 d>c "G"B2 ((3bag) \
+| "A7"f<d' f>e "D"d2 "D7"((3def) ||
+|| "Em"g2 e>g "A7"c<A a>g \
+| "D"f>e ((3def) "G"B<G g>f \
+| "C#m"e>d ((3cde) "F#7"^A<F f>e \
+| "Bm"((3dcB) "Em"((3bag) "A7"f>e c<A |
+| "D"F<A d>f "Em"e>d "A7"e<f \
+| "D"d>A FA DF [AA,]=C \
+| "G"B,>D G<B "D"A<F ((3bag) \
+| "A7"f<d' f>e "D"d2 |]

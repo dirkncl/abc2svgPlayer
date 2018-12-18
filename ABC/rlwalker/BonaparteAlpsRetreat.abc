@@ -1,0 +1,40 @@
+%Scale the output
+%%scale 1.150
+%%format dulcimer.fmt
+X:1
+T:Bonaparte Crossing the Alps and Retreating
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+P:Bonaparte Crossing the Alps
+K:D %(D, C)
+|"^INTRO"B A G F|E2 E F|E2|\
+w:5 4 3 2 1 1 2 1
+|:"^TUNE"D F\
+w:0 2
+|"D"A F "F#m"A B|"D7"A2 d e|"G"f2 f a|"Gm"f2 e d\
+w:4 2 4 5 4 7 8 9 9 11 9 8 7
+|"D"B A "Bm"d B|"D"A F "E7"D F|"A7"E2 E F|E2 D F\
+w:5 4 7 5 4 2 0 2 1 1 2 1 0 2
+|"D"A F "F#m"A B|"D7"A2 d e|"G"f2 f a|"Gm"f2 e d\
+w:4 2 4 5 4 7 8 9 9 11 9 8 7	
+|"D"B A "Bm"d B|"D"A F "A7"E F|"D"D2- "G"D E\
+w:5 4 7 5 4 2 1 2 0 0 1
+|"D"D2 d f|a2 "F#m"a b|"D7"a2 f e|"G"d2 "Gm"d e\
+w:0 7 9 11 11 12 11 9 8 7 7 8
+|"D"f2 f f|"Em"G2 G G|B A G F|"A7"E2 E F\
+w:9 9 9 3 3 3 5 4 3 2 1 1 2
+|E2 D F|"D"A F "F#m"A B|"D7"A2 d e|"G"f2 f a\
+w:1 0 2 4 2 4 5 4 7 8 9 9 11
+|"Gm"f2 e d|"D"B A "Bm"d B|"D"A F "A7"E F|"D"D2 "G"D E|"D"D "^2"z "^3"z "^4"z:||
+w:9 8 7 5 4 7 5 4 2 1 2 0 0 1 0
+L:1/8
+K:D
+|"^RE"z2 "^TREAT"z AB|"Am""^Bonaparte's Retreat"=c2 "G"B2|"Am"A4 A2 B2|"Am"=c2 d2 "G"B2 c2|"Am"A4 A2 B2
+w:4 5 x 5 4 4 5 x 7 5 6 4 4 5
+|"Am"=c4 "G"B4|"Am"A4 A2 B2|"Am"=c2 d2 "G"B2 c2|"Am"A8||
+w:x 5 4 4 5 x 7 5 6 4
+|"D""^PART A"F4 z3/2 E/2 DF|A2 F2 E2 D2|"A"E4 E3/2D/2 EF|"A7"G2 F/2G/2F E2 D2
+w:2 1 0 2 4 2 1 0 1 1 0 1 2 3 2 3 2 1 0
+|"D"F4 F3/2E/2 DF|A2 F2 E2 D2|"A"E2 FG F2 E2|"D"D6 z2||
+w:2 2 1 0 2 4 2 1 0 1 2 3 2 1 0

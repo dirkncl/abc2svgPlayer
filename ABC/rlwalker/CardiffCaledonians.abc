@@ -1,0 +1,19 @@
+X: 1
+T: the Cardiff Caledonians
+C: Rob Gordon
+R: jig
+B: Ormskirk 5
+Z: 1997 by John Chambers <jc@trillian.mit.edu>
+M: 6/8
+L: 1/8
+F:http://trillian.mit.edu/~jc/music/abc/Contra/KC/jig/CardiffCaledonians.abc	 2002-08-24 20:05:33 UT
+K: D
+ A \
+|: "D"{ABc}dz2 D3 | "A7"EFE "D"D3 | "Em"E2E e2d | "A7"cBA gfe \
+ | "D"dz2 D3 | "A7"EFE "D"D2F | "G"G2B "D"A2d | "A7"cBc "D"d2z :|
+|| "A7"e3 A3 | ABc "D"d3 | "G"B2g "D"A2F | "Em"GEE "A7"E2A \
+ | "A7"e3 A3 | ABc "D"d2F | "G"G2B "D"A2d | "A7"cBc "D"dcd ||
+|| "A7"e3 A3 | "D"dfe d3 | "G"B2g "D"A2F | "Em"GEE "A7"E2A \
+ | "D"dz2 D3 | "A7"EFE "D"D2F | "G"G2B "D"A2d | "A7"cBc "D"d2z |]
+
+

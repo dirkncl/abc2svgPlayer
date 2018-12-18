@@ -1,0 +1,33 @@
+%%scale 1.20
+%%format dulcimer.fmt
+X:1
+T:Bonaparte's Retreat
+M:4/4
+L:1/8
+%P:Play ABC ABD ABC ABD A
+%%continueall 1
+%%partsbox 1
+K:D
+P:A
+|"D"F4 z3/2 E/2 DF|A2 F2 E2 D2|"A"E4 E3/2D/2 EF|"A7"G2 F/2G/2F E2 D2
+%w:2 1 0 2 4 2 1 0 1 1 0 1 2 3 2 3 2 1 0
+|"D"F4 F3/2E/2 DF|A2 F2 E2 D2|"A"E2 FG F2 E2|"D"D6 z2||
+%w:2 2 1 0 2 4 2 1 0 1 2 3 2 1 0
+P:B
+%%vskip 0
+|"D"F4 z3/2E/2 DF|A2 F2 E2 D2|"A"E4 EDEF|G2 F/2G/2F E2 D2
+%w:2 1 0 2 4 2 1 0 1 1 0 1 2 3 2 3 2 1 0
+|"D"F4 z2 EDF|A2 F2 E2 D2|"A"E2 F3/2G/2 F E|"D"D4 z A3/2B/2||
+%w:2 1 0 2 4 2 1 0 1 2 3 2 1 0 4 5
+P:C
+%%vskip 0
+|"D"d4 d3/2e/2 fe|d2 d2 A2 A3/2B/2|d2 B2 A2 F2|D6 A3/2B/2
+%w:7 7 8 9 8 7 7 4 4 5 7 5 4 2 0 4 5
+|"D"d4 d3/2e/2 fe|d2 d2 A2 AB|d2 B2 A3/2B/2 AF|D6 D2||
+%w:7 7 8 9 8 7 7 4 4 5 7 5 4 5 4 2 0 0
+P:D
+%%vskip 0
+|"Am"=c4 "G"B4|"Am""^Hootchy Kootchy"A4 A2 B2|"Am"=c2 d2 "G"B2 c2|"Am"A4 A2 B2
+%w:6 5 4 4 5 6 7 5 6+ 4 4 5
+|"Am"=c4 "G"B4|"Am"A4 A2 B2|"Am"=c2 d2 "G"B2 c2|"Am"A8||
+%w:6 5 4 4 5 6 7 5 6+ 4

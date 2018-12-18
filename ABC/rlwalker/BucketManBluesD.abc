@@ -1,0 +1,22 @@
+%Scale the output
+%%scale 1.14
+%%format dulcimer.fmt
+X:1
+T:Bucket Man Blues
+C:Delaine Chafin
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 treble clef
+K:D    %(D, C)
+%%continueall 1
+%%partsbox 1
+P:A
+|"D"D F A B|=c B A F|"G"D B, D E|=F E D B,
+|"D"D F A B|=c B A F|"A7"[C4-A4-]|[C4A4]
+|"D"D F A B|=c B A F|"G"D B, D E|=F E D B,
+|"D"F F2 D|"A7"=F2 E2|"D"D4-|D4||
+P:B
+|"D"D F A B|=c B A F|"G"D B, D E|=F E D B,
+|"D"D F A B|=c B A F|"A7"[C4-A4-]|[C4A4]
+|"D"d B A B|=c B A2|"G"D B, D E|=F E D2
+|"D"F F2 D|"A7"=F2 E2|"D"D4-|D4||

@@ -1,0 +1,17 @@
+%Scale the output
+%%scale 1.20
+%%format dulcimer.fmt
+X:1
+T:Calum Sgaire
+C:Words:  Malcolm MacAulay, mid 1800s; Tune: Kitty MacLeod, 1930s
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%<-  comment which means the next line is ignored
+%Q:96(beats per measure)
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+|:D
+|"G"G3/2 A/2 B/2c/2|"D"B/2 A3/2 d|"C"g/2f/2 e g|"G"e/2d/2 B3/2 d/2
+|"Am"e/2d/2 B3/2 A/2|"Bm"B e/2d/2 B/2A/2|"Em"B E3/2 D/2|"C"E2:||
