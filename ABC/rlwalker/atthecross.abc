@@ -1,0 +1,44 @@
+X: 1
+T: At the Crossing
+C: Moise Lister
+M: 3/4
+L: 1/8
+K:C % 0 sharps
+V:1
+% 2 - Melody note
+%%MIDI program 71
+x4x/2
+%%MIDI program 71
+EF/2| \
+x/2G3/2G3/2xG3/2| \
+A3- A/2F/2A3/2x/2| \
+A3/2x/2G4-|
+G3- G/2x/2Gc/2x/2| \
+B3/2x/2B2A2| \
+F4G/2AG/2-| \
+G6-|
+G3- G/2x/2E/2x/2F/2x/2| \
+G3/2x/2G3/2x/2G2| \
+A4FA/2x/2| \
+A2G4-|
+G3- G/2xG/2-[c/2G/2]x/2| \
+B2A2G2| \
+B2c2d2| \
+c6-|
+c3- c/2xc/2x/2c/2| \
+x/2c3/2A4-| \
+A4x/2cB/2-| \
+B/2c2G3-G/2-|
+G3- G/2x/2Gc| \
+B3/2x/2B2c2| \
+d4cB| \
+c3 x/2B/2-[c/2-B/2]c/2d|
+e2d2-[d/2c/2-]cx/2| \
+c2A4-| \
+A4cB| \
+c2G4-|
+G4c2| \
+x/2B3-B/2-[c/2-B/2]c3/2| \
+d2c2B2| \
+c6-|
+c3 

@@ -1,0 +1,181 @@
+%Scale the output
+%%scale 1.0
+%%format bracinho.fmt
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 120pt %between systems
+%%sysstaffsep 90pt %between staves of a system
+% Defines the chords to be used:
+%%beginps
+/gcshow-b /gcshow load bind def
+/brac{/BRDEF exch def /BRNAM exch def
+    dup BRNAM eq {
+    BRDEF currentpoint exch 7 add exch 9 add bracinho
+    }if}!
+% (Diagram definitions by Chuck Boody)
+/gcshow-bracinho{
+    (A) (- 2 1 0 0) brac
+    (Amaj) (- 2 1 0 0) brac
+    (A6) (- 2 1 2 0) brac
+    (A7) (- 0 1 0 0) brac
+    (A9) (- 0 1 0 2) brac
+    (Amaj7) (- 1 1 0 0) brac
+    (Am) (- 2 0 0 0) brac
+    (Am6) (- 2 0 2 0) brac
+    (Am7) (- 0 0 0 0) brac
+    (Am9) (- 2 0 0 2) brac
+    (Asus2) (- 2 4 5 2) brac
+    (Asus4) (- 2 2 0 0) brac
+    (A+) (- 2 1 1 0) brac
+    (Aaug) (- 2 1 1 0) brac
+    (Adim) (- 2 3 2 3) brac
+    (A\201) (- 3 2 1 1) brac
+    (B\202) (- 3 2 1 1) brac
+    (A\201maj) (- 3 2 1 1) brac
+    (B\202maj) (- 3 2 1 1) brac
+    (A\2016) (- 3 2 1 1) brac
+    (B\2026) (- 3 2 1 1) brac
+    (A\2017) (- 1 2 1 1) brac
+    (B\2027) (- 1 2 1 1) brac
+    (A\2019) (- 1 2 1 3) brac
+    (B\2029) (- 1 2 1 3) brac
+    (A\201maj7) (- 3 2 1 0) brac
+    (B\202maj7) (- 3 2 1 0) brac
+    (A\201m) (- 3 1 1 1) brac
+    (B\202m) (- 3 1 1 1) brac
+    (A\201m6) (- 3 1 3 1) brac
+    (B\202m6) (- 3 1 3 1) brac
+    (A\201m7) (- 1 1 1 1) brac
+    (B\202m7) (- 1 1 1 1) brac
+    (A\201m9) (- 3 1 1 3) brac
+    (B\202m9) (- 3 1 1 3) brac
+    (A\201sus2) (- 3 0 1 1) brac
+    (B\202sus2) (- 3 0 1 1) brac
+    (A\201sus4) (- 3 3 1 1) brac
+    (B\202sus4) (- 3 3 1 1) brac
+    (A\201+) (- 2 1 1 0) brac
+    (B\202+) (- 2 1 1 0) brac
+    (A\201aug) (- 2 1 1 0) brac
+    (B\202aug) (- 2 1 1 0) brac
+    (A\201dim) (- 0 1 0 1) brac
+    (B\202dim) (- 0 1 0 1) brac
+    (B) (- 4 3 2 2) brac
+    (Bmaj) (- 4 3 2 2) brac
+    (B6) (- 1 3 2 2) brac
+    (B7) (- 2 3 2 2) brac
+    (B9) (- 2 3 2 4) brac
+    (Bmaj7) (- 4 3 2 1) brac
+    (Bm) (- 4 2 2 2) brac
+    (Bm6) (- 1 2 2 2) brac
+    (Bm7) (- 2 2 2 2) brac
+    (Bm9) (- 4 2 2 4) brac
+    (Bsus2) (- 4 1 2 2) brac
+    (Bsus4) (- 4 4 2 2) brac
+    (Baug) (- 3 2 2 1) brac
+    (Bdim) (- 1 2 1 2) brac
+    (C) (- 0 0 0 3) brac
+    (C6) (- 0 0 0 0) brac
+    (C7) (- 0 0 0 1) brac
+    (C9) (- 0 2 0 1) brac
+    (Cmaj7) (- 0 0 0 2) brac
+    (Cm) (- 0 3 3 3) brac
+    (Cm6) (- 1 2 2 2) brac
+    (Cm7) (- 3 3 3 3) brac
+    (Cm9) (- 5 3 3 5) brac
+    (Csus2) (- 0 2 3 3) brac
+    (Csus4) (- 0 0 1 3) brac
+    (Caug) (- 1 0 0 3) brac
+    (Cdim) (- 2 3 2 3) brac
+    (D) (- 2 2 2 0) brac
+    (D6) (- 1 1 1 1) brac
+    (D7) (- 2 2 2 3) brac
+    (D9) (- 2 4 2 3) brac
+    (Dmaj7) (- 2 2 2 4) brac
+    (Dm) (- 2 2 1 0) brac
+    (Dm6) (- 2 2 1 2) brac
+    (Dm7) (- 2 2 1 3) brac
+    (Dm9) (- 2 4 1 5) brac
+    (Dsus2) (- 2 2 0 0) brac
+    (Dsus4) (- 0 2 3 0) brac
+    (Daug) (- 3 2 2 1) brac
+    (Ddim) (- 1 2 1 2) brac
+    (E) (- 4 4 4 2) brac
+    (E6) (- 1 1 0 2) brac
+    (E7) (- 1 2 0 2) brac
+    (E9) (- 1 2 2 2) brac
+    (Emaj7) (- 1 3 0 2) brac
+    (Em) (- 0 4 3 2) brac
+    (Em6) (- 4 4 3 4) brac
+    (Em7) (- 0 2 0 2) brac
+    (Em9) (- 0 4 2 2) brac
+    (Esus2) (- 4 4 2 2) brac
+    (Esus4) (- 2 4 5 2) brac
+    (Eaug) (- 1 0 0 3) brac
+    (Edim) (- 0 1 0 1) brac
+    (F) (- 2 0 1 0) brac
+    (F6) (- 2 2 1 3) brac
+    (F7) (- 2 3 1 0) brac
+    (F9) (- 2 3 3 3) brac
+    (Fmaj7) (- 2 4 1 3) brac
+    (Fm) (- 1 0 1 3) brac
+    (Fm6) (- 1 2 1 3) brac
+    (Fm7) (- 1 3 1 3) brac
+    (Fm9) (- 0 5 4 3) brac
+    (Fsus2) (- 0 0 1 3) brac
+    (Fsus4) (- 3 0 1 1) brac
+    (Faug) (- 2 1 1 0) brac
+    (Fdim) (- 1 2 1 2) brac
+    (G) (- 0 2 3 2) brac
+    (G6) (- 0 2 0 2) brac
+    (G7) (- 0 2 1 2) brac
+    (G9) (- 2 2 1 2) brac
+    (Gmaj7) (- 0 2 2 2) brac
+    (Gm) (- 0 2 3 1) brac
+    (Gm6) (- 0 2 0 1) brac
+    (Gm7) (- 0 2 1 1) brac
+    (Gm9) (- 2 2 3 1) brac
+    (Gsus2) (- 0 2 3 0) brac
+    (Gsus4) (- 0 2 3 3) brac
+    (Gaug) (- 0 3 3 2) brac
+    (Gdim) (- 0 1 0 1) brac
+   gcshow-b}!
+% Replaces gchords with diagrams:
+/gcshow{gcshow-bracinho}!
+%%endps
+X:1
+T:Amazing Grace
+C:Traditional (Scotland); Lyrics: John Newton
+M:3/4
+L:1/4
+%N:End with Chorus
+K:Cmaj
+%%continueall 1
+%%partsbox 1
+|G,/2A,/2|"C"C2 E/2C/2|"C7"E2 D|"F"C2 A,
+w:1~A-_maz-ing_ grace, how sweet the
+w:2~Twas_ grace that_ taught my heart to
+w:3~Through_ ma-ny_ dan-gers, toils and
+w:4~When_ we've been_ there ten thou-sand
+|"C"G,2 G,/2A,/2|C2 E/2C/2|"Am"E2 D/2E/2|"G"G3-
+w:sound, that_ saved a_ wretch like_ me!
+w:fear, and_ grace my_ fears re-_lieved;
+w:snares, I_ have al-_rea-dy_ come;
+w:years, bright_ shin-ing_ as the_ sun;
+|"G7"G2 E|"C"G2 E/2G/2|"C7"E C/2C/2 G,|"F"A,2 C/2A,/2
+w:_I once was_ lost__ but now I am
+w:_how pre-cious_ did__ that grace a_
+w:_'twas grace that_ brought__ me safe thus_
+w:_we've no less_ days__ to sing God's_
+|"C"G,2 "^TAG"G,/2A,/2|"Am"C2 E/2C/2|"G7"E2 D
+w:found, was_ blind, but_ now I
+w:pear, the_ hour I_ first be
+w:far, and_ grace will_ lead me
+w:praise, than_ when we_ first be-
+|"C"C3-|!fermata!C2||
+w:see._
+w:lieved._
+w:home._
+w:gan._
+

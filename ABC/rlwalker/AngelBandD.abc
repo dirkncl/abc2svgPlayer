@@ -1,0 +1,39 @@
+%%scale 0.95
+%%format dulcimer.fmt
+X:1
+T:Angel Band
+C:Wm B Bradbury
+M:6/8
+L:1/8
+K:D
+%%staves {1 2}
+%%continueall 1
+%%partsbox 1
+P:A Verses
+V:1
+|A|"D"A2 A A2 A|"G"B2 d d2 B|"A"A2 d f2 e|"D"d3-d2 A/2A/2
+w:v1~My la-test sun is sink-ing fast. My race is near-ly run._ My_
+w:v2~I know I'm nearing the ho-ly ranks of friends and kin-dred dear,_ For I
+w:v3~I've al-most gained my heaven-ly home. My spir-it loud-ly sings._ The_
+w:v4~Oh bear my long-ing heart to Him, who bled and died for me._ Whose_
+V:2
+|A|A2 A (d e) f|(e d) B A2 A|f2 e f2 e|d3-d2 A/2A/2 
+V:1
+|A2 A A2 A|"G"B2 d d2 B|"A"A2 d f2 e|"D"d3-d3||
+w:strong-est tri-als now are past. My tri-umph is be-gun._
+w:brush the dews on Jor-dan's banks. The cross-ing must be near._
+w:ho-ly ones be-hold they come. I hear the noise of wings._
+w:blood now clean-ses from all sin, and gives me vic-to-ry._
+V:2
+|A2 A e-e f|(e d) B A2 A|f2 e f2 e|d3-d3|| 
+P:B Chorus
+V:1
+|"A"e3 e3|"D"f2 e d3|"A"e3 e2 e|"D"f2 e d2 A|"G"ddd edB|"D"A2 F A2 A|"F#m"d2 d "A"e2 e
+w:ch~Oh come, an-gel band. Come and a-round me stand. Oh bear me a-way on your snow-y wings to my im-mor-tal
+V:2
+|e3 (e/2 d/2) d2|f2 e d3|e3 (e d) e|f2 e d2 d|d d d e d B|A2 d d2 A|d2 d (e/2 d/2) d d
+V:1
+|"D"f3-f2 A|"G"ddd edB|"D"A2 F A2 A|d2 d "A"f2 e|"D"d3- d2||
+w:home._ Oh bear me a-way on your snow-y wings to my im-mor-tal home._
+V:2
+|f2-f/2e/2 d2 d|d d d e d B|(A2 d) d2 A|d2 e f2 (e/2d/2|d3-d2||

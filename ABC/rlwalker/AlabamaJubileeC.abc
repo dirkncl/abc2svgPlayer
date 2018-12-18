@@ -1,0 +1,36 @@
+%Scale the output
+%%scale 1.25
+%%format dulcimer.fmt
+X:1
+T:Alabama Jubilee
+C:George Cobb, music; Jack Yellen, lyrics
+N:
+N:Alabama Jubilee was written with an introduction, a vamp
+N:leading into the verse and a chorus. We mostly only hear
+N:the chorus today.
+M:2/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:C    %(D, C)
+P:D Chorus
+|^F G ^G
+w:You ought to
+|:"A"A G E A-|A G2 E|A G E A-|A4
+w:see Dea-con Jones_ when he rat-tles the bone,_
+|"D"A ^F D A-|A ^F2 D|A ^F D A-|A4
+w:Old Par-son Brown_ fool-in' 'roun like a clown,_
+|"G"z B2 ^A|B A G ^G|A ^G A B-|B3 z
+w:Aunt Je-mi-ma who is past eight-y three,_
+|"C"c B c A-|A G E2|"^Spoken"CB,CA,-|A,G,E,2
+w:Shout-in' "I'm full_ o' pep! (Watch yo' step, watch_ yo' step!")
+|"A"A G E A-|A G2 E|A G E A-|A4
+w:One leg-ged Joe_ danced a-roun' on his toe,_
+|"Dm"D ^C D E|F E F G|A A2 A-|A B c d
+w:Threw a-way his crutch and hol-lered, "Let 'er go!"_ Oh, hon-ey,
+|"C"e4|"E"e3 d|"F"c2 A2|"C"G2 ^F G|"D"A c A c
+w:Hail! Hail! the gang's all here for an Al-a-ba-ma
+|"G"B G2 c-|1 "C"c4-|c ^F G ^G:|2 "C"c4-|c3 z||
+w:Jub-i-lee.__ You ought to lee._

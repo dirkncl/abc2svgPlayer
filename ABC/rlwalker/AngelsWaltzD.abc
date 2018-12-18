@@ -1,0 +1,23 @@
+%Scale the output
+%%scale 1.10
+%%format dulcimer.fmt
+X:1
+T:Angel's Waltz
+C:Steve?
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+P:ABA
+K:D    %(D, C)
+P:A
+|:A,
+|"D"D2 D|E F G|"F#m"A2 F|"Bm7"D E F|"G"G2 E
+|"A7"C D E|1 "D"F2 D|A,2 :|2 "D""^end"D2||
+P:B
+|:D
+|"G"B2 B|B c d|"D"A2 A|A B c|"A7"G2 G
+|1 G A B|"D"F2 G|"D7"A2:|2 "^ritard"G A G|"D"F D E
+|1 !fermata!"A7"E2 A,:||

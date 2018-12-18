@@ -1,0 +1,26 @@
+%%scale 1.0
+%%stretchlast 0
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+%%format dulcimer.fmt
+X:1
+T:Alberta
+C:Blues tune
+M:4/4
+L:1/8
+%%score (V1 V2)
+V:1 clef=treble name="Melody"
+K:D
+|DF F2-F3 F|F D3 F F3-|F2 z2 z4|Ac c2-c3 c
+w:1~Al-ber-ta_ let your hair hang low;_ Al-ber-ta_ let
+w:2~Al-ber-ta_ what's_ on your mind;_ Al-ber-ta_ what's
+|c A3 c c3-|c8| cd f2-f3 d-|dcAA-A3 G
+w:your hair hang low._ I'll give you_ more___ gold_ than
+w:_on your mind?_ You keep me_ wor-ried, you keep me
+|Fc A2-A3 G-|GAFF-F2 z F|GA c2-c3 A-|AG F2-FF G2
+w:your a-pron_ can___ hold_ If you'll on-ly_ let__ your_ hair hang
+|F8-|F2 z2 z4||
+w:low._
+

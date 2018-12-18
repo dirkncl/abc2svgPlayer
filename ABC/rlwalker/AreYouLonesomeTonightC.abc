@@ -1,0 +1,31 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Are You Lonesome Tonight
+C:Words & Music by Lou Handman, Roy Turk
+M:3/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:C    %(D, C)
+|"G7"E/2G/2
+w:Are you
+|"C"c B3/2 c/2|"Em"B2 E/2G/2|"Am"B A3/2 B/2|A2 E/2G/2
+w:lone-some to-night? Do you miss me to-night? Are you
+|"C"A G A|"C7"G F3/2 E/2|"F"A2-"E"A-|"F"A2 F/2A/2|"G"c B3/2 c/2|B2 F/2G/2
+w:sor-ry we drift-ed a-part?__ Does your mem-o-ry stray to a
+|"G7"B A3/2 B/2|A2 D/2E/2|"G7"F G A|c B3/2 G/2|"C"E3-
+w:bright sum-mer day when I kissed you and called you  sweet-heart
+|E2 G/2A/2|"C7"_B A G|c A3/2 c/2|"F"G F E|F2 A/2B/2
+w:_ Do the chairs in your par-lour seem emp-ty and bare? Do you
+|"D7"c B A|d B3/2 d/2|"Dm"A G ^F|"G"G2 E/2G/2|"C"c B3/2 c/2
+w:gaze at your door-step and pic-ture me there? Is your heart filled with
+|"Em"B2 c/2^c/2|"D7"e d3/2 e/2|d2 ^G/2A/2|"Dm"c B A|"G7"B c d|"C"c3-|c2||
+w:pain? Shall I come back a-gain? Tell me dear are you lone-some to-night?_

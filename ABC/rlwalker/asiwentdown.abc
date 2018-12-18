@@ -1,0 +1,34 @@
+%%scale 1.05
+%%format dulcimer.fmt
+X:1
+T:As I Went Down In The River To Pray
+C:Traditional Folk Spiritual Song
+%N:Collected in 1867 as "The Good Old Way"
+%N:in "Slave Songs of the United States"
+%N:in 1867
+M:4/4
+L:1/4
+K:D
+V:1 clef=treble
+|"^VERSE"A,|"D"A, B, D D/2B,/2|D/2D/2 D D2|"A7"E E/2F/2 E D
+w:As I went down in the riv-er to pray, Study-ing a-bout that
+|"D"F E D B,|A, F, A, A,/2B,/2|D B, D F
+w:good old way. And who shall wear the_ star-ry crown, Good
+|"A7"E2 "G"D/2D/2 B,|"D"A,3 z||
+w:Lord, show me the way.
+|"A7"E2 "^CHORUS"F E
+w:Oh, fa-ther,
+w:Oh, mo-ther,
+w:Oh, bro-ther,
+w:Oh, sis-ter,
+|"D"F "A7"A "D"F/2E/2 D
+w:let's go down__
+|D F D2|"G"D D B, "D"A,
+w:Let's go down, Come on down,_ 
+|"A7"E2 F E
+w:Oh, fa-ther,
+w:Oh, mo-ther,
+w:Oh, bro-ther,
+w:Oh, sis-ter,
+|"D"F "A7"A "D"F/2E/2 D|D F/2E/2 "G"D/2D/2 B,|"A7"!fermata!A,3||
+w:let's go down,__ Down in the riv-er to pray.

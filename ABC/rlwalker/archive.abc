@@ -1,0 +1,1706 @@
+%%ABC 1.7.6 (incomplete support)
+%%rendered by abc.py Version 0 - $Revision: 1.14 $
+%%rendered by abcobjs.py Version 0 - $Revision: 1.3 $
+
+%%vskip 6.5cm
+%%textfont Times-Roman 24.0
+%%center The Chiff & Fipple 
+%%center Tune-O-Matic Archives
+%%center 1998 - 2005
+%%vskip 14.0cm
+%%textfont Times-Roman 12.0
+%%begintext
+assembled and maintained 
+by R. S. Doiel
+rsdoiel@earthlink.net
+%%endtext
+%%newpage
+
+
+%%newpage
+
+%% TOC goes here.
+%%begintext
+1 - Amhran Dochais & C\'ait Ni Dhuibhir
+1 - Hope
+2 - Burning the Piper's Hut
+3 - The Blackthorn Stick
+3 - An Draigean Donn
+4 - The Water is Wide
+5 - Amhr\'an A Leabhair
+6 - Bill Clancy's Delight
+6 - Pretty Peg
+7 - The Morning Star
+7 - R\'ealt na Maidne
+8 - The Munster cloak
+9 - The Fairy Queen
+10 - Threshing the Barley
+11 - Smash the Windows
+12 - Paddy O'Rafferty
+13 - The Strayaway Child
+14 - The Green Meadow
+15 - The Stack of Wheat
+16 - Father O'Flynn
+16 - An tAthair \'O Floinn
+17 - The Ace & Deuce Of Pipering
+18 - Off To California
+19 - Farewell to my Troubles
+20 - Banish Misfortune
+21 - The Bucks of Westmeath
+22 - Miss Monroe's Jig
+23 - The Fisherman's Widow
+24 - The Humor of Ballydehob
+25 - The Luck Penny
+26 - The Blarney Pilgrim
+27 - Thinking on the train
+28 - Maggie in the woods
+29 - O'Carolan's Draught
+30 - The Castle of Dromore
+31 - Planxty Connor
+32 - The Foggy Dew
+33 - The Boys of Wexford
+34 - The New Potatoes
+35 - The Bog Blossom
+36 - The Barley Grain
+37 - The Bonnie Bunch of Roses
+38 - One Wife is Enough for Me
+39 - The Romantic Kerryman
+40 - The Jolly Beggarman
+41 - The Return from Fingal
+42 - The Alewoman
+42 - Bean Na Lionna
+43 - The Red Haired Boy
+43 - The Red Headed Irishman
+43 - The Little Beggarman
+43 - The Jolly Little Beggarman
+%%endtext
+
+%%newpage
+
+%%begintext
+44 - The Rocky Road to Dublin
+45 - A Rumpy Ditty
+46 - A Tradition's Echo
+46 - A Stimpy Thump
+47 - Fish You Said
+47 - Fishuthes
+48 - The Fasu Groove
+49 - August with seven winds
+50 - Johnny Doyle
+51 - An Irish Lullaby
+52 - The Burnt Old Man
+52 - Georgie the dotard
+53 - Boil your breakfast early
+53 - Peggy on the settle
+53 - Kitty Clover
+54 - Fill the Cup
+55 - The Girl of the Big House
+56 - New Year's Song
+57 - The Humors of the Joyce Country
+58 - A Stranger in Cork
+59 - The Charming Fair Maid
+60 - Burn's Farwell
+61 - The Church of Dromore
+62 - The Fox and His Wife
+63 - The Cliffs of Moher
+64 - The Maid at the Well
+65 - The Yellow Flail
+66 - Christie Blacktoast
+67 - The Masons Apron
+68 - The Maid Behind the Bar
+69 - The Silver Spear
+70 - The Butterfly
+71 - The Otter's Holt
+72 - Johnny Docherty's
+73 - Rose in the Heather
+74 - Connaught Mans Rambles
+75 - The Kesh Jig
+76 - Teetotalers Reel
+77 - Island under some blue
+78 - A Lilting Walk
+79 - The Geese in the bogs
+80 - The Green Fields of America
+81 - Shandon Bells
+81 - clang sean-duin
+82 - Doctor O'Neill
+82 - an doctur ua neill
+83 - The Piper's Picnic
+83 - aerideact na bpiobairi
+84 - Captian Hugh Fitzgerld
+85 - The Pipe on the Hob
+85 - An Pioba ar an larta
+86 - Loosing Space
+86 - The Handle Bar Mustache
+87 - Marcelle Du Champ's Jig
+%%endtext
+
+%%newpage
+
+%%begintext
+88 - No Count Know How
+%%endtext
+
+%%newpage
+
+X:1
+T:Amhran Dochais & C\'ait Ni Dhuibhir
+T:Hope
+C:Traditional
+N:First part by Osborn OhAimhirgin (early 20th century)
+N:Second part is a traditional munster song. (18th Century)
+N:Transcribe by R. S. Doiel.  Originally Heard on a Chieftain's CD
+N:I think ether Chieftains' 7 or 8
+R:Slow Air
+M:4/4
+L:1/8
+Q:1/4=60
+K:G
+{GA}BA | "G" G3 E "D" DE FD | "G" G2 GF "G" GA BG | "C" c2 BA GE D/E/F | "Em" E3 B BA "G" G2- |
+"D" GE DE FD "G" G2 | "G" GF GA Bc d2 | "Em" {d}e2 B2 A2 "G" G2- | "G" GF G2 Bd "Em" e2 |
+"C" c2 A2 Bc d2 | "Em" {d}e2 B2 A2 "G" G2  | "C" c2 BA GE D/E/F | "Em" E3 B BA G2- |
+"G" GE DE FD G2- | "G" GF GA Bc d2 | "Em" {d}e2 B2 A2 "G" G2- | "G" GF "G" G2- G4 || 
+% Segue to the second tune in Dochas
+"G" G4 F2 D2 | "G" G2 GF GA BG | "C" c2 B2 c2  d2 | "D" ed d^c d2 B=c |
+"G" dg gf g2 fe | "D" de dc "Bm" B2  AG | "Am" AB cA "D" d2 BA | "G" G2 A2 B2 Bc |
+"G" dg gf g2 fe | "D" de dc "Bm" B2  AG | "Am" AB cA d2 BA | "G" G2 F2 G4 ||
+
+
+
+X:2
+T:Burning the Piper's Hut
+C:Traditional
+M:4/4
+L:1/8
+N:I learned this tune from some of the Hensey House Band
+N:Members of the Los Angeles Catholic Worker community.
+N:It's dates from the Highland Clearings of Scotland.
+N:Transcribed by R. S. Doiel, Summer 1998
+O:Scotland
+Q:1/4=60
+K:G
+|: "A" ABcd e4 | "C" edeg e2 dc | "G" B2 G2 d2 G2 |  "D" Bcde d2 cB |
+"A" ABcd e4 | "C" edeg e2 dc | "G" B2 G2 e2 dc | "D" B2 A2 A4 :|
+|: "Em" e2 A2 g2 A2 | "C" e2 A2 g2 dc | "G" B2 G2 d2 G2 | "D" Bcde "A" d2 cB |
+"Em" e2 A2 g2 A2 | "C" e2 A2 g2 dc | "G" B2 G2 e2 dc | "D" B2 "A" A2 A4 :|
+
+
+X:3
+T:The Blackthorn Stick
+T:An Draigean Donn
+C:Traditional
+O:Irish
+M:6/8
+L:1/8
+Q:1/4=70
+K:G
+|: d | "G" gfg ege | "D" dBG AGE | "D" DGG FGA | "G" BGB A2 d |
+"G" gfg age | "D" dBG AGE | "D" DGG FGA | "G" BGG G2 :|
+|: d | "D" edd gdd | "D" edd gdd | "D" ede gfg | "D" edB A2 d |
+"G" gfg age | "D" dBG AGE | "D" DGG FGA | "G" BGG G2 :|
+
+
+X:4
+T:The Water is Wide
+C:Traditional
+C:Arrangement by R.S. Doiel and Mark Doiel
+N:Irish and American. Possibly derived from 
+N:an old English tune named "O Waly, Waly"
+N:There is a very similar version of this tune called
+N:Van Diemen's Land on U2's Rattle and Hum album.
+N:The words of that version are credited to the Edge
+N:but no music credit given. 
+N:Thanks to Dan Mulligan for the info about "O Waly, Waly"
+M:C
+L:1/4
+Q:1/4=60
+K:G
+D G A | "G" B4- | B A G E | "G" D4- | D D G F |
+"G" G4- | G "D" G/A/ B c | A4- | A A B c |
+"G" d4- | d c B A | "G" B4- | B A G E |
+"G" D4- |  D "D7" G G F | "G" G4- | G ||
+D G A | "G" B4- | B A G E | "G" D4- | D G G F |
+"G" G4- | G "D" G/A/ B c/B/ | A4- | A "G" G B d |
+"G" e4- | e d e g | "G" g3 e | "G" d2 G G |
+"G" A B3- | B "D7" G G A | "G"G4- | G |]
+
+
+X:5
+T:Amhr\'an A Leabhair
+C:Traditional
+M:3/4
+L:1/8
+Q:1/4=50
+K:D
+|: B2 | E4 F2 | G4 A2 | B e3- e2- | e4 f2 | e4 d2 | B4 A2 | Bc d4- | d4 e2 | 
+E4 F2 | G4 F2 | GA B4- | B4 A2 | F4 E2- | E4 D2 | E6- | E4 :|
+|: d2 | e2 e4 | e4 d2 | ef g4- | g4 f2 | e4 d2 | B4 A2 | B6- | B4 c2 |
+d6 |  d4 c2 | d2 e4- | e4 d2 | B4 A2 | G4 A2 | B6- | B4 B2 |
+E4 F2 | G4 A2 | B2 e4- | e4 f2 | e4 d2 | B4 A2 | Bc d4- | d4 e2 |
+E4 F2 | G4 F2 | GA B4- | B4 A2 | F2 E4- | E4 D2 | E6- | E4 :|
+
+
+
+
+X:6
+T:Bill Clancy's Delight
+T:Pretty Peg
+R:Real
+C:Traditional
+M:C|
+L:1/8
+Q:1/4=60
+% setting adapted from O'Neill's No. 1465 
+K:D treble
+d2fd AFDF |  d2fd egfe | d2fd AFDF | GEFD E4 |
+d2fd AFDF |  d2fd egfe | d2fd AFDF | dfeg fdd2 ||
+((3FED) (AD BDAD) | ((3FED) (AD cEEG) | ((3FED) (AD BDAD) | GEFD ADDG |
+((3FED) (AD BDAD) | ((3FED) (AD cEEG) | FAdf ecdB | Agfe fdd2 ||
+% K:G
+% | d | g2 fd g2 fd | g2 fd e3 d | ee ef gg B2 | dd cA G3 A | 
+% BB B/A/G/A/ BG2 A | BB B/A/G/A/ B3 |]
+
+
+
+
+
+% from "The Pocket Whistle Tutor" Father Eamonn gave me July 1998 
+X:7
+T:The Morning Star
+T:R\'ealt na Maidne
+C:Traditional
+M:C
+L:1/8
+Q:1/4=80
+K:D
+GA | B2 BA BGEF | G2 Bd efgd | B2 BA BGEF | GBAF G2 GA |
+B2 BA BGEF | GABd efgd | B2 BA BGEF | GBAF G2 ||
+|: GA | Bdef Tg2 eg | Tf2 df edBA | Bdef gfgb | afdf e2 ed |
+Bdef g2 eg | f2 df edBA |Bddc d(ee)f | gfaf e2 :|
+
+X:8
+T:The Munster cloak
+R:Other
+N:Passed on to me by Dale Wisely for the March 1999
+N:tune of the month
+O:Ireland
+M:3/4
+Q:1/4=60
+K:D
+|: d2 de fd|e2 ef ge|d2 de fa|g2 e2 c2|
+d2 de fd|e2 ef ge|a2 ab af|g2 f2 e2:|
+|: d2 de dc|A2 d2 e2|f2 e2 d2|c2 d3 e|
+f2 e2 d2|c2 AB cA|AG EA GE|A2 G2 E2:|
+
+
+% from O'Neill's
+X:9
+T:The Fairy Queen
+C:Turlough O'Carolan (1670 - 1738)
+N:Rearrange for whistle by R.S. Doiel, March 10, 2004
+M:3/4
+L:1/16
+K:G
+Q:1/4=60
+G8 D4 | F8 D4 | G8 D4 | {A}G3F G3A B3A | G6 f2 e2d2 | {c}B8 (ABd2) | e8 Tf4 | g8 {c}B3A |
+G8 (G/B/d3) | F8 (F/A/d3) | E6 f2 e2d2 | {c}B8 F4 | {F}E3D (E2F2) (G2E2) | D2B2 TA6 (GA) | (G12 | G8) | z4 ||
+(B2A2 B2c2 B2c2) | (B2A2 B2c2) (B2G2) | A8 A4 | A4 B4 d4 | G6~G2 d2G2 | F6~F2 d2F2 | (E2D2 E2F2) (E2D2) | {c}B8 (def2) |
+(g2f2 e2d2) B2A2 | G8 (f2g2) | A6 (G2 F2E2) | D8 (G2A2) | B8 E4 | A8 D4 | TG12 | G8 z4 ||
+.g4 .g4 .f4 | .e4 .d4 .c4 | (B2d2 g2B2) A2g2 | G8 z4 | G4 G4 D4 | (E4 F4 G4) | (A3B A2G2) (F2E2) | .d2.G2 .B2.d2 .G2.A2 |
+[B8G8] z2 B2 | [A8F8] z2 A2 | G4 G4 e2d2 | {c}B8 (g2f2) | (e3de2) (f2g2d2) | ({c}B2A2 G2A2) (B2d2) | {d}e12 | z4 z4 (def2) ||
+g4 g4 f4 | e4 d4 c4 | (B2d2 g2B2) (A2g2) | G8 (F2EF) | (G2F2 E2D2 E2F2) | (G2F2 E2F2 G2A2) | [B12G12] | z4 z2 B2c2d2 |
+(e2d2 e2f2) (e2f2) | ({a}g2f2 g2a2) (g2f2) | (e2d2 e2f2) (e2d2) | HB8 (g2f2) | (e2d2 e2f2) g3d | (eB3) A8 | G4 (G8 | G12) ||
+
+
+% from O'Neill's 1850
+X:10
+T:Threshing the Barley
+C:Traditional
+M:6/8
+L:1/8
+Q:1/4=60
+K:G
+|: d/c/ | BAB GBd | cBc ABc | Bcd cBA | Gge d2 c |
+BAB GBd | cBc ABc | Bcd cAF | GFG G2 :|
+|: c | Bcd def | {a}gfe dBG | Bcd def | age d2 d |
+gag gdB | cdc cAF | GBd cAF | GAG G2 :|
+
+% from O'Neill's
+X:11
+T:Smash the Windows
+C:Traditional
+M:6/8
+L:1/8
+Q:1/4=80
+K:D
+|: A | DED F2 A | d2 f ecA | G2 B F2 A | E2 F GFE |
+DED F2 A | d2 f ecA | Bgf {f}edc | d3 d2 :|
+a | a2 f d2 e | f2 g agf | g2 e c2 d | e2 f gfe |
+f2 d g2 e | a2 f bag | fed cde | d3 d z a |
+agf fed | Adf afd | gfe ecA | Ace gfe | 
+fed gfe | agf bag | fed cde | (d4 d) ||
+
+% from O'Neill's 1850
+X:12
+T:Paddy O'Rafferty
+C:F.O'Neill
+M:6/8
+L:1/8
+Q:1/4=80
+K:G
+|: GAB DED | DcB AGE | GAB DED | GAG GED |
+GAB DED | DcB ABc | dcB AGE | GAG GED :|
+|: DBB DAA | DBB AGE | DBB DAA | GAG GED |
+DBB DAA | DBB ABc | dcB AGE | GAG GED :|
+|: dcd efg | ded dBG | d^cd efg | GAG GED |
+d^cd efg | ded def | gfe dcB | GAG GED :|
+|: BDD EDD | BGB AGE | BDD EDD | GAG GED |
+BDD EDD | BGB ABc | dcB AGE | GAG GED :|
+|: B2 G A2 G | B2 G AGE | B2 G AGE | GAG GED |
+BGG AGG | BGG ABc | dcB AGE | GAG GED :|
+
+X:13
+T:The Strayaway Child
+R:jig
+M:6/8
+L:1/8
+Q:1/4=80
+K:G treble
+A |: "Em" BEE GEE | "Em" BEE "G" G2A | "Em" BEE "A" A2G | "D" FDF "Am" Adc | "Em" BEE GEE |
+"Em" BEE "G" G2A | "G" BcB B2A | "Em" GEE E2A :: "Em" Bee BdB | "G" dBG AGA |
+"Em" Bee BdB |1 "G" dBG "A" A2A | "Em" Bee BdB | "G" dBG AGA | "Em" BcB B2A | "Em" GEE E2A :|
+|2 "G" dBG A2f | "Em" gfe dcB | "G" AGA BGE | "Em" AGE DBD | "Em" ~E3 E2D |: "Em" EAG EDE |
+"G" ~G3 BAG | "Em" AGE DBD | "Em" EFE E2D | "Em" EAG EDE | "G" ~G3 BAG | "Em" AGE DBD |
+|1 "Em" EFE E2D :|2 "Em" EFE E2G |: "Em" efe ded | "G" cBA BGE | "G" GAB dBB | "Em" AGE "D" D2c |
+"G" BAG EDE | "G" GAB "Am" cBA | "G" BAG "Em" EAG |1 "Em" ~E3 E2G :|2 "Em" ~E3 E2A |: "Em" Bee efg |
+"D" fdf edA | "Em" Bee efg | "D" fdf e2f | "Em" gfe dcB | "Em" AGA BGE | "Em" AGE DBD |
+|1 "Em" ~E3 E2A :|2 "Em" ~E3 E2z |: "Em" edB edB | "G" AGA BGE | "Em" edB edB | "G" AGA ~B3 |
+"Em" edB gfe | "Em" dcB AGA | "G" BAG EAG | "Em" ~E3 E3:| 
+
+
+
+X:14
+T:The Green Meadow
+C:Traditional
+M:4/4
+L:1/8
+Q:1/4=70
+K:G
+|: BA | "G" G2 GA BGBd | "C" egge "G" dBAG | "A" EAAG ABAG | "A" EAAG AcBA |
+"G" G3 A BGBd | "C" e2 ge "G" dBAG | "C" EGGG "G" BGAG | "A" EGFA "G" G2 :|
+|: ga | "G" bg g2 agef | "G" g3 e d2 Bd | "A" eaag abag | "A" eaag a2 ga |
+"G" b3 g agef | "G" g3 e d2 Bd | "C" eg g2 "G" bgag | "C" eggf "G" g2 :|
+|: Bd | "C" e3 c "G" d2 Bd | "A" cAA2 "G" B2 AG | "A" EAAG ABAG | "A" EAAG ABcd |
+"C" ecce "G" dB B2 | "A" cA A2 "G" BGAG | "A" EG G2 "G" BGAG | "C" EGGF "G" G2 :|
+
+X:15
+T:The Stack of Wheat
+C:Traditional
+M:4/4
+L:1/8
+Q:1/4=70
+K:G
+|: BA | "G" GEDE GABG | "A" A2 "G" GA Bdef | "G" gedB GABd | "G" dBAG "Em" E2 BA |
+"G" GEDE GABG | "A" A2 "G" GA Bdef | "G" gedB GABG | "G" AGEF G2 :|
+|: Bd | edBd edgd | edBd e3 f | gedB GABd | dBAG E2 |
+|1 Bd | edBd edgd | edBd e3 f | gedB GABG | AGEF G2 :|
+|2 BA | GEDE GABG | A2 GA Bdef | gfdB GABG | AGEF G2 ||
+
+
+
+
+%
+% Father O'Flynn
+%
+X:16
+T:Father O'Flynn
+T:An tAthair \'O Floinn
+C:Traditional
+M:6/8
+L:1/8
+Q:1/4=80
+K:D
+|: A | "D" dAF DFA | "G" ded cBA | "D" dcd "Bm" efg | "A" fef "Em" ecA |
+"D" dAF DFA | "G" ded cBA | "D" dcd "Em" efg | "A" fdd "D" d2 :|
+|: g | "D" fdf fga | "A" efe ecA | "G" dcd Bed | "A" cAA A2 =c |
+"G" BGB Bcd | "A" AFD DFA | "D" dcd "Bm" efg | "A" fdd "D" d2 :|
+
+
+
+X:17
+T:The Ace & Deuce Of Pipering
+C:Traditional
+R:Set Dance
+M:C
+L:1/8
+Q:1/4=80
+K:D
+|: d=c | B2 =cA BGcA | BG=cA B2 AG | d2 ec d2 ec |
+dfec dcBA | e2 fd edcB | Adde d=cBA | 
+BG=cA B2 AG | FGAB =cBcA | G2 ge fd=cA | 
+FGAB =cAFG | AGGF G2 FG | AGGF G2 :|
+|: F | G2 =f2 e2 f2 | G2 =fe fd=cA | G2 g2 f2 g2 |
+d2 ga gfdc | A2 =f2 e2 f2 | dcde f3 g |
+agfa gfde | fd=cA BGAF | G2 ge fd=cA |
+FGAB =cAFG | AGGF G2 FG | AGGF G3 :|
+
+
+
+X:18
+T:Off To California
+C:Traditional
+R:Hornpipe
+M:C
+L:1/8
+Q:1/4=70
+K:G
+|: G2 BG AGED | GBdg e2 (3def | gfgd edBG | ABAG E2 DE |
+G2 BG AGED | GBdg e2 (3def | gfgd edBG | AGEF G2 Bd :|
+|: gfeg fedf | e3 f edBd | gfgd edBG | ABAG EGDE |
+GABG AGED | GBdg e2 de | g3 d edBG | AGEF G4 :|
+
+% from F. O'Niell
+X:19
+T:Farewell to my Troubles
+C:Traditional
+M:6/8
+L:1/8
+Q:1/4=60
+K:D
+A | dec dcA | GFG AFD | FEF GFD | FGA c2 A |
+dec dcA | GFG AFD | F3 G2 (A/G/) | FDD D2 :|
+|: G | FED FGA | cdB =cAG | A=fe dec | ABc d2 c |
+BGB d=cA | GFG AFD | F3 G2 (A/G/) | FDD D2 :|
+
+X:20
+T:Banish Misfortune
+C:Traditional
+R:Jig
+M:6/8
+L:1/8
+Q:1/4=80
+K:D
+|: e | fed cAG | A2 d cAG | F3 DED | F3 G3 |
+AGA =cAG | AGA d2 e | fed cAG | Adc d2 :|
+|: e | f2 d dcd | f2 g agf | e3 =cBc | e2 f gfe |
+f2 g afd | e2 f gag | fed cAG | Adc d2 :|
+|: e | f2 g e2 f| d2 e =c2 d | A3 G3 | FAF GED |
+=c3 cAG | AGA d2 e | fed cAG | Adc d2 :|
+
+
+% from F. O'Niell
+X:21
+T:The Bucks of Westmeath
+C:Delaney
+M:6/8
+L:1/8
+Q:1/4=80
+K:G
+|: e | d3 BdB | G2 A B2 ^c | d2 BdB | cAB c2 e |
+d3 BdB | G2 A B2 d | gfe dcB | A2 B c2 :|
+|: d | gfg dcB |  gfg dcB |  gfg dcB | A2 B c2 F |
+GFG ABc | BAG GFE | gfe dcB | A2 B c2 :|
+|: e | dBG G2 e | dBG G2 e | dBG G2 B | A2 B c2 e |
+dBG G2 e | dBG G2 d | gfe dcB | A2 B c2 :|
+
+% from F. O'Niell
+X:22
+T:Miss Monroe's Jig
+C:J. O'Neill
+M:6/8
+L:1/8
+Q:1/4=70
+K:G
+|: D | G2 G AGA | Bcd efg | GFG AGA | BGE E2 D |
+G2 G AGA | Bcd efg | dcB AGA | BGG G2 :|
+|: f | gfg efg | fdd def | gfg aga | bge e2 f |
+gfg aga |bge |efg | dcB AGA | BGG G2 :|
+
+% from F. O'Niell
+X:23
+T:The Fisherman's Widow
+C:P. Mahony
+M:6/8
+L:1/8
+Q:1/4=70
+K:D
+|: F2 G AFA | dcA AGF | G3 ABc | ded cAG |
+F2 G AFA | dcA AGF | GFG ABG | AFD D3 :|
+d2 e f2 d | dcA ABc | d2 ef2 a | agd dcA |
+|1 d2 e f2 d | ecA AGF | GFG ABG | AFD D3 :|2
+ afa geg | FED cAF | G2 A BAG | AFD D3 ||
+
+X:24
+T:The Humor of Ballydehob
+C:Traditional
+N:F. O'Neill  Music of Ireland, 1850
+N:Page 207, No. 1097
+M:6/8
+L:1/8
+Q:1/4=70
+K:G
+|: (d/c/) | BGG AGE | DGG AGE | DGG AGA | Bdd edc |
+BGG AGE | DGG AGE | DEG ABc | BGG G2 :|
+|: c | Bdd Acc | BdB cGE | DGG AGA | BAA ABc |
+Bdd Acc | BdB cGE | DEG ABc | BGG G2 :|
+
+
+X:25
+T:The Luck Penny
+C:Traditional
+N:From O'Neills of Ireland, page 207 No.1098
+M:6/8
+L:1/8
+Q:1/4=70
+K:G
+|: (G/A/) | "G" BAG AGF | "D" DGE FGA | "G" BAG Bcd | "Am" cAG F2 (d/c/) |
+"G" BAG AGF | "G" GBd gag | "D" fed "G" gdB | "C" cAF "G" G2 :|
+|: d | "D" dgf gfg | "Em" abg fed | "G" bag afd | "D" def "G" g2 a |
+"G" bag agf | "Em" gbg fed | "D" def "G" gdB | "C" cAF "G" G2 :|
+|: (B/c/) | "G" dBG GFG | "G" BGB dBG | "Am" cAF FEF | "Am" AFA cAF |
+"G" dBG GFG | "G" gbg fed | "D" def "G" gdB | "C" cAF "G" G2 :|
+
+
+X:26
+T:The Blarney Pilgrim
+C:Cronin
+N:Adapted from O'Neills of Ireland, page 207 No.1099
+M:6/8
+L:1/8
+Q:1/4=70
+K:G
+|: "D" DED DEG | "A" A2 G ABc | "G" BAG AGE | "G" GEA GED |
+"D" DED DEG | "A" A2 G ABc | "G" BAG AGE | "A" AED "D" D2 z :|
+|: "D" ded dBG | "A" AGA BGE | "D" ded dBG | "A" AGA "G" G3 |
+"G" g2 e dBG | "A" AGA BGE | "G" B2 G "A" AGE | "G" GAG G2 z :|
+|: "D" A2 D "G" B2 D | "D" A2 D ABc | "G" BAG "A" AGE | "G" GEA GED |
+"D" A2 D "G" B2 D | "D" A2 D ABc | "G" BAG "A" AGE | "G" GED D2 z :|
+
+
+X:27
+T:Thinking on the train
+C:copyright (c) 1999 R. S. Doiel, all rights reserved
+R:Jig
+N:While transcribing The Humors of Ballylough,
+N:This tune came into my head on July 9, 1999.
+N:Revised and notated July 10, 1999.  RSD
+M:6/8
+L:1/8
+Q:1/4=70
+K:G
+|: GAG EGE | DED DEF | GAG EGE | EDA  G3 |
+GAG EGE | DED DEF | GAB dcB | GEF G3 :|
+|: GAB d2 d | edg edB | GAB B2 B | BAd dcB |
+e2e d2d | c2c BAG | Bcd dcB | GEF G3 :|
+
+
+X:28
+T:Maggie in the woods
+R:Polka
+M:2/4
+L:1/8
+Q:1/4=70
+K:G
+|: B/A/ | "G" GD GA | Be e/f/g/e/ | "D" dB B/A/G/A/ | BA A/c/B/A/ |
+"G" GD GA | Be e/f/g/e/ | "D" dB AB/A/ | "G" G2 G :|
+|: d | "G" g3/f/ ed | ef g3/e/ | "D" dB B/A/G/A/ | BA A3/d/ |
+"G" g3/f/ ed | ef g3/e/ | "D" dB AB/A/ | "G" G2 G :|
+
+X:29
+T:O'Carolan's Draught
+C:Turlough O'Carolan (1670 - 1738)
+R:Planxty
+M:C
+L:1/8
+Q:1/4=60
+K:G
+|: BA | GABc defd | g2 fe d4 | e2 c2 d2 B2 | c2 Bc AcBA |
+GABc defd | gfed ^ceag | gfed A2 ^c2 | d6 :|
+|: fg | afga bagf | egfe edcB | e3 fgfga | bagf efga |
+bB b2 aB a2 | gB g2 fB f2 | e3 f gfed | e2 ef e3 f | 
+gfed cBAG | e2 d2 d4 | c2 B2 A2 G2 | FGAF D4 |
+EFGE FGAF | GABG ABcA | d2 g2 bagf | g2 gf g2 :|
+
+
+
+%
+X:30
+T:The Castle of Dromore
+C:Traditional
+R:Lullaby
+M:6/8
+L:1/8
+Q:1/4=60
+K:D
+F/G/ | A2 A A2 A | B2 A ABc | d2 G F2 G | (A3 A2) B/c/ |
+d2 D D2 D | E2 D DEF | G2 B A2 G | (F3 F2) B/c/ |
+ded cdc | BcB A2 G | F2 A GFE | D3 F2 A |
+GAG E2 G | F2 D F2 A | GAG E2 c | (D3 D2) ||
+
+%
+X:31
+T:Planxty Connor
+C:O'Carolan
+R:Planxty
+M:6/8
+Q:1/4=96
+L:1/8
+K:G
+|: ded cBA | B2 c d2 e | f2 d g2 e | f2 d g2 e |
+fga Bcd | efd cBA | Bcd ecA | d3 d3 :|
+|: fgf fga | b3 b3 | efe efg | a3 a3 |
+agf gab | a^ga  A2 A | Bcd ecA | d3 d3 :|
+
+%
+X:32
+T:The Foggy Dew
+C:Traditional
+R:Aire
+M:4/4
+Q:1/4=80
+L:1/8
+K:D
+EF | G2 GA B2 gf | e2 dB A2 GA | BA BG EG FA | G2 G2 G2 EF |
+G2 GA B2  gf | e2 dB A2 GA | BA BG EG FA | G2 G2 G2 ef |
+g2 gf e2 fg | ag fe d2 B^d | e3 f gf e^d | e6 EF |
+G2 GA B2 gf | e2 dB A2 GA | BA BG EG FA | G2 G2 G2 ||
+
+% From O'Niell's Music of Ireland
+X:33
+T:The Boys of Wexford
+C:Traditional
+M:C
+L:1/8
+Q:1/4=70
+K:G
+D2 | (G3 A) (GFED) | (d3 e) d2 c2 | (B2 G2) (BA)(GF) | E6 F2 |
+(G3 A) (GFED) | (d3 e) d2 c2 | B2 A2 GABc | d6 d2 |
+e2 B2 (g3 e) | (d3 c) B2 G2 | c2 B2 A2 G2 | E4 z2 (EF) |
+(G3 A) (GFED) | (d3 e) d2 c2 | B2 G2 BAGF | G4 ||
+
+
+% From O'Niell's Music of Ireland
+X:34
+T:The New Potatoes
+C:O'Reilly
+M:C/
+L:1/8
+Q:1/4=60
+K:G
+|: (EB)(BA F)AFA | (EB)(BA F)D E2 | (EB)(BA F)AFA | (BA)(dA) FD HE2 :|
+(Be)(eg) fded | (Be)(eg) fd d2 | (Be)(eg) fded | BAdA FD E2 |
+(Be)(eg) fded | Beeg fd d2 | bgaf gfed | BA dA FDD3 ||
+
+% From O'Niell's Music of Ireland
+X:35
+T:The Bog Blossom
+C:F.O'Neill
+M:C
+L:1/8
+Q:1/4=60
+K:G
+(d/c/) | BGGB c2 Ac | BGAG F D2 (d/c/) | BGGB c2 Ac | BGAB c3 (d/c/) |
+BGGB c2 Ac| BGAG F D2 (B/c/) | dBcA BG Hc3/c/ | BGAF G3 ||
+G | GBAG FDDE | FGAB c2 AF | GBAG FEFG | ABcA d2 (c/A/) | 
+GBAG FDDE | FGAB c3 (B/c/) | dBcA BG Hc3/c/ | BGAF G3 ||
+
+
+
+
+% From O'Niell's Music of Ireland
+X:36
+T:The Barley Grain
+C:F.O'Neill
+M:3/4
+L:1/8
+% Q:1/4=60
+K:G
+GA | B4 B2 | (d4 e2) | (B4 A2) | (G4 A2) | B4 B2 | d4 A2 | (B6 | B4) (GA) | 
+B4 B2 | (e4 d2) | (B4 A2) | (G4 F2) | E2 F2 E2 | B4 A2 | (G6 | G4) ||
+GF | E4 E2 | E2 F2 G2 | (F4 E2) | (D4 F2) | E4 E2 | E2 F2 E2 | B6 |
+(A4 F2) | E4 E2 | E2 F2 G2 | F4 E2 | (D4 c2) | (B4 G2) | (A4 F2) | (G6 | G4) ||
+
+
+
+
+
+% From O'Niell's Music of Ireland
+X:37
+T:The Bonnie Bunch of Roses
+C:Ennis
+M:C
+L:1/8
+% Q:1/4=60
+K:D
+|: A2 | "D" d3 e f2 e2 | "D" d3 c A2 F2 | "G" G2 AB cABG | "Am" A2 "D" D2 D2 :|
+FG | "D" A2 A2 c3/A/G3/B/ | "D" A2 A3/G/ A2 d3/e/ | "Em" f2 g2 a3/g/ fe | "D" d3/c/ AG A2 de |
+"Em" f2 g2 a3/g/ fe | "D" d3 e f2 AF | "G" G2 AB cABG | "Am" A2 "D" D2 D2 |]
+
+
+
+
+
+
+% From O'Niell's Music of Ireland
+X:38
+T:One Wife is Enough for Me
+C:J.O'Neill
+N:Adapt from O'Neill's
+M:3/4
+L:1/8
+Q:1/4=60
+K:C
+cB | "A" A3 B A2 | "A" A2 G2 E2 | "C" c6 | "D" d2 c2 d2 |
+"C" e3 d c2 | "C" c2 d2 e2 | "G" G6- | "G" G2 c3 B |
+"A" A3 B A2 | "Em" A2 G2 E2 | "C" c6 | "D" d2 c2 d2 |
+"C" e2 f2 e2 | "D" d2 c2 B2 | "A" A6- | A6 ||
+e2 | "C" e2 c2 e2 | "G" g2 e2 c2 | "G" B2 G4- |
+"G" G2 d2  e2 | "D" f2 e2 d2 | "C" c2 d2 e2 | "G" G6- |
+"G" G2 c2 B2 | "A" A3 B A2 | "A" A2 G2 E2 | "C" c6 |
+"D" d2 c2 d2 | "C" e2 f2 e2 | "G" d2 c2 B2 | "A" A6- | A4 ||
+
+
+
+
+
+
+% From O'Niell's Music of Ireland
+X:39
+T:The Romantic Kerryman
+C:F.O'Neill.
+M:3/4
+L:1/8
+Q:1/4=240
+K:D
+(AG) | (F2 E2 D2) | (F4 G2) | A4 (AG) | (A2 B2 c2) |
+.d2 .d2 .d2 | .c2 .d2 .c2 | .A2 .B2 .c2 | d4 (AG) |
+F2 E2 D2 | (F4 G2) | A4 (AG) | A2 B2 c2 |
+d2 f2 d2 | c2 A2 G2 | F2 D2 D2 | D4 ||
+(AG) | (F2 G2 A2) | (A2 B2 c2) | d4 e2 | f2 e2 d2 |
+c2 B2 A2 | A2 B2 c2 | (d6 | d4) (de) |
+.f2 .e2 .d2 | .c2 .A2 .G2 | F2 D2 E2 | F2 G2 A2 |
+A2 d2 d2 | c2 A2 G2 | F2 D2 D2 | D4 ||
+
+% From O'Niell's Music of Ireland
+X:40
+T:The Jolly Beggarman
+C:F.O'Neill.
+M:3/4
+L:1/8
+Q:1/4=240
+K:D
+(fe) | "D" d3 c A2 | "A" (A2 G2 A2) | "G" c3 A G2 | "A" A4 (fe) |
+"D" d3 c A2 | "A" A2 B2 c2 | "D" (d3 e d2) | "D" (d2 f2 e2) |
+"D" d3 c A2 | "A" (A2 G2 A2) | "G" c3 A G2 | "A" A2 f2 e2 |
+"D" d3 c A2 | "A" A2 B2 c2 | "D" (d6 | d4) ||
+fg | "A" (a4 b2) | "G" (g4 a2) | "D" f2 e2 d2 | "A" c2 d2 e2 |
+"A" (a4 b2) | "G" (g4 a2) | "D" f2 e2 d2 | "Em" e2 f2 g2 |
+"A" (a4 b2) | "G" (g4 a2) | "D" f2 e2 d2 | "A" c2 d2 e2 |
+"D" f2 e2 d2 | "C" c2 A2 c2 | "D" d6- | d4 ||
+
+
+% From O'Niell's Music of Ireland
+X:41
+T:The Return from Fingal
+C:Traditional
+M:2/4
+L:1/8
+Q:1/4=60
+K:G
+|: "G" BG/F/ E/F/G/A/ | BG/F/ E2 | "A" A/G/F/A/ "D" dA | "Bm" BA B/^c/d/e/ |
+"G" BG/F/ E/F/G/A/ | BG/F/ E2 | "A" A/G/F/A/ "D" dA | "A" FE Ez :|
+|: "A" fe ed/^c/ | "D" BA dA | "A" BA "D" dA | "Bm" BA B/^c/d/e/ | 
+"A" fe ed/^c/ | "D" BA d2 | "A" A/G/F/A/ "D" dA | "A" FE Ez :|
+
+
+
+% January 2002
+X:42
+T:The Alewoman
+T:Bean Na Lionna
+C:F.O'Neill
+R:
+M:3/4
+L:1/8
+Q:1/4=70
+K:G
+(ef) | "G"g2 (agfe) | "D"dB e3/d/ BA | "B"B2 B2 cA | "B"B2 B2 ef |
+"G"g2 (agfe) | "D"dB e3/d/ BG | "A"A2 A2 BG | "A"A2 A2 ||
+"B"(B3/A/) | "G"(GFGABc) | "D"dB e3/d/ BA | "B"B2 B2 cA | "B"B2 B2 ga |
+"G"(bage ag) | "D"ed e3/d/ BG | "A"A2 A2 BG | "A"A2 A2 ||
+
+X:43
+T:The Red Haired Boy
+T:The Red Headed Irishman
+T:The Little Beggarman
+T:The Jolly Little Beggarman
+R:Reel
+C:Irish and Appalachian
+M:4/4
+Q:1/4=80
+K:D treble
+L:1/8
+"A"EAAG ABcd | efec "D"d2 cd | "A"eAAA ABcA | "G"BGEF G2 FG | 
+"A"EAAG ABcd | efec "D"d2 cd | "A"eaaa "E7"afed | "A"cAB^G A2 FG |
+"A"EAAG ABcd | efec "D"d2 cd | "A"edcB ABce | "G"BGEF G2 GF |
+"A"EAAG ABcd | efec "D"dB cd | "A"ea2b "E7"aged | "A"c2A2 A4 ||
+"G"g2 ga gfef | gfec "D"d2 cd | "A"eAAA ABcA | "G"BGEF G2 FG |
+"A"EAAG ABcd | efec "D"d2 cd | "A"eaaa "E7"afed | "A"cAB^G A2 ef |
+"G"g2 ef g2ef | gfec "D"d2 cd | "A"edcB ABce | "G"BGEF G2 GF |
+"A"EAAG ABcd | efec "D"dB cd | "A"ea2b "E7"aged | "A"c2A2 A4 ||
+
+
+X:44
+%
+T:The Rocky Road to Dublin
+C:Traditional
+R:slip jig
+B:O'Neill's
+L:1/8
+M:9/8
+Q:1/4=80
+K:D
+|: efe d2 B A2 A| E2 A A2 A Bcd | efe d2 B A2 c | B2 A G2 A Bcd :|
+e2 a a2 f g2 b | e2 a a2 A Bcd | e2 a a2 f g2 e | d2 B G2 A Bcd | 
+e2 a a2 f g2 d | e2 a a2 A Bcd | efg fga gfe | d2 B G2 A Bcd ||
+ecA ecA A2 a | ecA ecA Bcd | ecA ecA a2 c | d2 B G2 A Bcd |
+ecA ecA A2 a | ecA ecA Bcd | efg fga gfe |  d2 B G2 A Bcd |]
+
+% A Rumpy Ditty
+X:45
+T:A Rumpy Ditty
+R:Reel
+C:copyright (c) 2002 R. S. Doiel, all rights reserved
+M:4/4
+L:1/8
+Q:1/4=70
+K:G
+|: gB B2 gB eB | fA A2 fA dA | Bc dg fe dB | gd cB BA GB :|
+|: Gd GA Fc FG | gb dg fa cf | Gd GA Fc FG | gd cB BA GB :|
+
+X:46
+T:A Tradition's Echo
+T:A Stimpy Thump
+R:Gig
+C:copyright (c) 2001 R. S. Doiel, all rights reserved
+M:6/8
+L:1/8
+Q:1/4=60
+K:G
+(3ddd gd bd | gd bd gd | bb ag f2 | dd dg db |
+dg db da | gf  dc (3GGG | dd dg db | dg db dg |
+db ba gf | dd dg db | dg db da | gf  dc (3GGG ||
+(3DEG AB D/E/G/A/  | d2 (3DEG B2 | GG FE D2 | D/E/G/A/ B2 (3DEG |
+d2 (3DEG B2 | (3ded cA G2  | (3DEG AB D/E/G/A/ | d2 (3DEG B2 |
+GG FE D2 | D/E/G/A/ B2 (3DEG | d2 (3DEG Ba | gf dc (3GGG ||
+K:C
+(3DEF BF dF | BF dF Bd | cB D4 | (3DEF BF dF | 
+BF dF BD | EF G4 | (3DEF BF dF | BF dF Bd |
+cB D4 | (3DEF BF dF | BF dF Ba | g^f dc (3GGG |]
+
+
+
+% Fishuthes
+X:47
+%
+T:Fish You Said
+T:Fishuthes
+R: Jig
+C:copyright (c) 2002 R. S. Doiel, all rights reserved
+L:1/8
+M:6/8
+K:G treble
+Q:1/4=70
+dBB dBB | dBc BGG | BGG EGF | A3 dBB |
+dBB dBc | BGG BGG | c3 ABA | E3 dBB |
+dBB dBc | BGG BGG | GED AFE | B3 GED |
+AFE AdB | cBA EGG | FAA GBB | FAA G3 ||
+e2A GAB | A3 gfe | G3 D3 | e2A gfe |
+dfe dB2 | edB c2e | A3 GAB | A3 gfe | 
+G A2 GBd | =FA=c D^FA | ceg d3 | BGG G3 |]
+
+
+X:48
+T:The Fasu Groove
+C:copyright (c) 2002 R. S. Doiel, all rights reserved
+Q:1/4=90
+M:7/8
+L:1/8
+V:1 clef=treble
+I:octave=0
+K:G
+|: DAG DAGF | DAG DAGF| BG AF GFE | BG AF DEF :|
+dA BG BAB | dA BG GFG | dA BG BAB | dA BG GFE |]
+
+X:49
+%
+T:August with seven winds
+C:copyright (c) 2002 R. S. Doiel, all rights reserved
+L:1/8
+M:7/8
+Q:1/4=60
+K:D treble
+"A" aee "A" aa "G" gf | "A" aa "G" fg "A" aee | "A" AEE "A" AA "G" GF | "A" AA "G" FG "A" AEE |
+"A" aee "A" aa "G"gf | "A" aa "G" fg "A" aee | "A" AEE "A" AA "G" GF | "A" AA "G" FG "A" AEE "fine" ||
+"Em" afge gfe | "Em" afge efg | "A" aa "G" gg "F" ffe | "A" aa "G" gg "Em" efg |
+"Em" afge gfe | "Em" afge efg | "A" aa "G" gg "F" ffe | "A" aa "G" gg "Em" gfe ||
+"G" agg agge | "G" agg aggf | "G" gg "A" aa "F" ffe | "A" aa "G" gg "Em" feg |
+"Em" afge gfe | "Em" afge efg | "A" aa "G" gg "F" ffe | "A" aa "G" gg "Em" gfe "DC al fine" |]
+
+X:50
+%
+T:Johnny Doyle
+C:Traditional
+N:Adapted from O'Neil's 1850
+G:Whistle
+R:Song
+L:1/8
+M:2/4
+Q:1/4=80
+K:G treble
+ed | "C" cA AG | "G" E2 DF | "A" EA AA | "A" A2 AE |
+"Am" AB cd | "C" ed ce | "G" dB cA | "G" G3 E |
+"Am" AB cd | "C" ed ce | "G" dB cA | "G" G2 ed | 
+"C" cA AG | "Em" AG ED | "A" EA AA | "A" A2 ||
+
+X:51
+%
+T:An Irish Lullaby
+C:J.O'Neill
+L:1/8
+M:2/4
+Q:1/4=60
+K:G treble
+%
+|: G | (GA) (Bc/d/) | ec dB | (cd) B2 | (cd) B2 |
+(GA) (Bc/d/) | (ed/c/) dB | GB A2 | GB A :|
+|: (de/f/) (gf/g/) | ag ed | BG A2 | B(G/B/ A2) |
+(de/f/) (gf/g/) | ag ed | DE G2 | (DE/F/) G :|
+
+
+X:52
+%
+T:The Burnt Old Man
+T:Georgie the dotard
+C:F. O'Neill
+L:1/8
+M:6/8
+Q:1/4=70
+K:D treble
+|: D | "D" (DEF) (AFE) | "D" (DEF) (F2E) | "D" (DEF) (BAF) | "Em" AFE (E2 F) |
+"D" DEF AFE | "Bm" (FEF) (dcd) | "Em" (edB) (BAF) | "A" (AFE) E2 :|
+F | "D" AFF dFF | "D" AFF (F2G) | "D" AFF dcd | "Em" eEE E2F |
+"D" (DEF) (AFE) | "D" (FEF) (dcd) | "Em" edB (BAF)| "A" AFE E2 ||
+
+
+X:53
+%
+T:Boil your breakfast early
+T:Peggy on the settle
+T:Kitty Clover
+C:F. O'Neill
+L:1/8
+M:C|
+Q:1/4=70
+K:G treble
+%
+|: egfd eA (3AAA | (ed)Bd eA (3AAA | (eg)fd eA (3AAA | (BG)dc BGBd :|
+e^def g2 (ag) | e^def g=dBd | e^def g2 (ga) | bg af gdBd | e^def g2 (ag) |
+e^def g=dBd | gdBd g2 (ga) | bc'ba gfe^d|]
+
+
+X:54
+%
+% From O'Neill's Music of Ireland, No. 107
+%
+T:Fill the Cup
+C:Traditional
+L:1/8
+M:2/4
+Q:1/4=70
+K:G treble
+D | DEGA | B2 AG | cAAB | cAAB | DEGA | B2 AG | BGGA | BG G ||
+d | edeg | d2 cB | cAAd | cAAd | edeg | d2 cA | BGGA | BG G ||
+
+
+X:55
+%
+% From O'Neill's of Ireland, No. 196
+%
+T:The Girl of the Big House
+C:Cronin
+L:1/8
+M:6/8
+K:D treble
+Q:1/4=70
+(F2 D) (G2 E) | AGE EDD | (F2 D) (G2 E) | (AGE) d2 z | 
+(F2 D) (G2 E) | AGE EDD |(D=cA) GFE | (FD)D (ED)D :|
+|: ABA AGF | GAG GFG | ABA cAG | (Ad)d d2 e |
+fed cAG | FGF GFE | dcA GFD |1 (FD)D (ED)D :|2 (FD)D d3 |]
+
+
+
+X:56
+%
+% From O'Neill's Music of Ireland, No. 212
+%
+T:New Year's Song
+C:F O'Neill
+L:1/8
+M:6/8
+Q:1/4=70
+K:G treble
+D | D2 G G2 A | B2 d d2 B | c2 A A2 A | (A3 A2) A |
+B2 A G2 B | d2 G G2 A | G2 F D2 D | (D3 D2) ||
+(B/c/) | d2 d e2 d | B2 c d2 B | c2 c d2 c | (A3 A2) (B/c/) |
+d2 c B2 G | A2 G F2 d | c2 d G2 G | (G3 G2) ||
+
+X:57
+%
+% From O'Neill's Music of Ireland, No. 221
+%
+T:The Humors of the Joyce Country
+C:Traditional
+L:1/8
+M:3/4
+Q:1/4=70
+K:G treble
+(Bd) | e4 (e/f/g) | d4 (BA) | G2 G2 DE | G2 G2 DE | 
+(GAG EDE) | G2 G2 (DE) | A2 A2 GA | B2 B2 AG |
+(AGA BAG) | E2 D2 (BA) | (G6 | G6) ||
+(Bd) | e4 (e/f/g) | d4 (de) | (gag ede) | (gag ede) |
+(gag ede) | g2 g2 (EG) | A2 A2 (GA) | B2 B2 AG |
+(AGA BAG) | E2 D2 (G/A/B) | (G6 | G6) ||
+
+
+X:58
+%
+% From O'Neill's Music of Ireland, No. 222
+T:A Stranger in Cork
+C:M. O'Brien
+L:1/4
+M:3/4
+Q:1/4=90
+K:G treble
+(d/c/) | (B G e) | (d B d) | (E G) A | G2 D |
+(G B d) | d B d | (e d) B | A2 D |
+(G B d) | d B d | (e d) B | A2 (d/c/) |
+(B G e) | (d B d) |  (E G) G | G2 ||
+
+%
+% From O'Neill's Music of Ireland, No. 241
+%
+X:59
+%
+T:The Charming Fair Maid
+C:J. O'Neill
+L:1/4
+M:3/4
+Q:1/4=60
+K:D treble
+z z d/c/ | A A B/c/ | d2 d/e/ | f2 e/d/ | e d2 |
+f2 g/f/ | e2 a | d c d | e d2 ||
+e/d/ d (c/B/4A/4) | A/B/ c z | e/d/ d/c/ B/A/ | A/G/ F e/d/ | 
+A2 d/e/ | f2 g/e/ | d c d | e d2 ||
+
+%
+% From O'Neill's Music of Ireland, No. 260
+%
+X:60
+%
+T:Burn's Farwell
+C:J.Kennedy
+L:1/8
+M:C
+Q:1/4=90
+K:C treble
+ed | c2 A2 A2 GE | c2 e2 d2 ^cd | e2 e2 d2 ^cd | e2 G2 G2 ed | 
+c2 A2 A2 GE | c2 e2 d2 ^cd | e2 a2 gede | c2 A2 A2 ||
+e^f | g2 a2 g2 ^fd | a2 g2 g2 ag | =f2 e2 d2 ^cd | e2 G2 G2 ed |
+c2 A2 A2 GE | c2 e2 d2 ^cd | e2 a2 gede | c2 A2 A2 ||
+
+%
+% From O'Neill's Music of Ireland, No. 270
+%
+X:61
+%
+T:The Church of Dromore
+C:F. O'Neill
+L:1/8
+M:6/8
+Q:1/4=70
+K:G treble
+D | "Em" (EA)A ABc | "G" (BAB) (G2 A) | "G" (Be)e dBA | "G" (BAB) GED |
+"Em" (EA)A ABc | "G" (BAB) G2 A | "G" (Be)e dBG | "G" (BA)A "Am" A2 ||
+d | "G" (gfg) (edB) | "Em" (BA)A A2 d | "G" (gfg) edc | "Am" (BAB) GED |
+"Em" (EA)A ABc | "G" (BAB) G2 A | "G" (Be)e dBG | "G" (BA)A A2 ||
+
+X:62
+T:The Fox and His Wife
+C:F. O'Neill
+G:Whistle
+N:Adapted From O'Neill's Music of Ireland, No. 272
+L:1/8
+M:6/8
+Q:1/4=70
+K:G treble
+(d/c/) | "G" BAB A z B | "D" GFA G z d | "G" gfg "D" edc | "G" (B2 c) d z d |
+"G" gfg "Em" e3 | "G" d^ce "D" d2 (B/A/) | "G" GFA GAB | "G" g3 "Em" e z e | "Em" d^ce d=cA | "G" G3 G z ||
+
+X:63
+%
+T:The Cliffs of Moher
+C:Traditional
+L:1/8
+M:6/8
+% Q:1/4=70
+K:G treble
+%
+|: d | gfg agf | dgg fdc | AGG (A/G/FE) | DGG AGG | 
+gfg agf | dgg fdc | AGG (A/G/FE)  | DGG G2 :|
+|: A | ded cAA | ded cAG | (G/F/AB) cAG | (F/G/A).B Tc2 A |
+ded cAA | ded cAG | (F/G/A).B cAF | AGG G2 :|
+
+X:64
+%
+T:The Maid at the Well
+C:Traditional
+L:1/8
+M:6/8
+Q:1/4=80
+K:G treble
+%
+|: A | "G" GED DED | "G" GEG  c2 e | "D" dcB AGA | "G" BAG E2 A | 
+"G" GED DED | "G" GEG  c2 e | "D" dcB AGA | "G" AGG G2 :|
+|: d | "G" gdd edd | "G" gdB c2 e | "D" dcB AGA | "G" BAG E2 d |
+"G" gdd edd | "G" gdB c2 e | "D" dcB AGA | "G" BGG G2 :|
+
+
+
+X:65
+%
+T:The Yellow Flail
+C:Traditional
+L:1/8
+M:6/8
+Q:1/4=80
+K:G treble
+%
+|: d/c/ | BAG GFG | D2 E {G}FEF | GAG GAB | {d}cAG FGA |
+BcB {c}BAG | ABA ABc | dcA {B}AGF | G3 G2 :|
+|: D | (GFG) BAG | GFG AFD | (GFG) BGB | {d}c2 A F2 A |
+(GFG) BAG | FGA ABc | dcA {B}AGF | G3 G2 :|
+|: D | G2 A B2 c | ded d2 c | {c}BAG FGA | cAG F2 A |
+BcB {c}BAG | ABA ABc | dcA {B}AGF | G3 G2 :|
+
+
+
+X:66
+%
+T:Christie Blacktoast
+C:copyright (c) 2003 R.S. Doiel, all rights reserved
+N:Title thought up by Steven Yagsemal Doiel, March 8th, 2003 at
+N:his grandfather's birthday celebration on Santa Clarita Rd.
+L:1/8
+M:C
+Q:1/4=80
+K:G treble
+|: "G" BAGB "D" AGED | "G" BAGB "D" AGED | "G" BAGe "A" dBcd | "G" dBAG "D" ABAG :|
+|: "Bm" gedB "D" deg2 | "Bm" dedB "E" aged | "Bm" gedB "D" deg2 |1 "Bm" gedB "G" dBAG :|2 "Bm" gedB "G" BGG2 |]
+
+X:67
+%
+T:The Masons Apron
+C:Traditional
+L:1/8
+M:C
+Q:1/4=80
+K:A treble
+%
+|: "A" aA AA AB AF | EF AB cA Bc | "D" dB BB Bc BA | Bc de fe fg |
+"A" aA AA AB AF | EF AB cA Bc | "D" dc de fg af | "E" ec Bc A4 :|
+|: "A" c2 ec fc ec  | c2 ec fc ec | "D" d2 fd gd fd | dd fd gd fd |
+"A" c2 ec fc ec | ac ec fc ec | "D" dc de fg af | "E" ec Bc A4 :|
+
+X:68
+%
+T:The Maid Behind the Bar
+C:Traditional
+L:1/8
+M:C
+Q:1/4=80
+K:D treble
+%
+|: "D" FA AB AF ED | FA AB AB de | "G" fB BA Bc de | "Em" f2 gf ed Bd |
+"D" A2 AB AF ED | "Bm" FA AB AB de | "E" fB BA "G" Bc dB | "A" AF EF D4 :|
+|: "Bm" f2 ag fd de | fd ad fd de | "Em" ef ga be ef | "G" ge be ge eg |
+"D" f2 af bf af | de fd "G" e2 de | fd BA Bc dB | "A" AF GF D4 :|
+
+X:69
+%
+T:The Silver Spear
+C:Traditional
+L:1/8
+M:C
+Q:1/4=80
+K:D treble
+%
+|: "D" FA AA BA FA | de ed "G" Bc dA | "D" FA AA BA FA | df ed B2 A2 |
+"D" FA AA BA FA | df ed "G" Bd ef | "G" g3 e "D" f3 e | "Em" df ed B2 A2 :|
+|: "D" fa aa bf af | gf ed "G" Bc de | "D" fa aa bf af | gfed B2 A2 |
+"D" fa aa bf af | gf ed Bd ef | "G" g3 e "D" f3 e | "Em" df ed B2 A2 :|
+
+X:70
+%
+T:The Butterfly
+C:Traditional
+L:1/8
+M:9/8
+Q:1/4=70
+K:G treble
+%
+"Em" B2 E G2 E F3 | B2 E G2 E FGA | B2 E G2 E "D" F3 | "G" B2 d d2 B AFD |
+"Em" B2 E G2 E F3 | B2 E G2 E FGA | B2 E G2 E "D" F3 | "G" B2 d d2 B AFD |
+"Em" B2 c e2 f g3 | B2 c g2 e dBA | B2 c e2 f g2 "D" a | "G" b2 a g2 e dBA |
+"Em" B2 c e2 f g3 | B2 c g2 e dBA | B2 c e2 f g2 "D" a | "G" b2 a g2 e dBA |
+"Em" B3 B2 A G2 A | B3 BAB "D" dBA | "Em" B3 B2 A G2 A | "G" B2 d g2 e dBA |
+"Em" B3 B2 A G2 A | B3 BAB "D" dBA | "Em" B3 B2 A G2 A | "G" B2 d g2 e dBA |]
+
+
+X:71
+%
+T:The Otter's Holt
+C:Traditional
+L:1/8
+M:C
+Q:1/4=80
+K:D treble
+%
+|: "Bm" eB BA FE EB | A2 FB AB de | fB BA FE FA | "A" Bd cA Bc de |
+"Bm" eB BA FE EB | A2 FB AB de | f2 af ef fe | "A" dB BA B4 :|
+|: "D" d3 f a2 fa | bf af "A" eg fe | "D" d2 df ad fa | bf gf eg fe |
+"D" d3 f a2 fa | bf af "A" eg fe | "Bm" fB BA FE FA | "A" Bd cA B4 :|
+
+X:72
+%
+T:Johnny Docherty's
+C:Traditional
+L:1/8
+M:9/8
+Q:1/4=80
+K:G treble
+%
+|: "G" B2 d d2 A BAG | "C" E2 A A2 B cBA | "G" B2 d D2 A BAG | "D" D2 G G2 A BAG |
+"G" B2 d d2 A BAG | "C" D2 A A2 B cBA | "G" B2 d d2 A2 BAG | "D" D2 G G2 A BAG :|
+|: "G" B2 d e2 f g3 | "D" a2 A A2 B cBA | "G" B2 d e2 f g2 a | "C" gfe d2 A BAG |
+"G" B2 d e2 f g3 | "D" a2 A A2 B cBA | "G" B2 d e2 f g2 a | gfe d2 A BAG :|
+
+X:73
+%
+T:Rose in the Heather
+C:Traditional
+L:1/8
+M:6/8
+Q:1/4=80
+K:D treble
+%
+|: "D" F3 FEF | DFA BAF | "E" FGd ede | "A" fdB AFE |
+"D" F3 FEF | DFA BAF | "E" AdB AFE | "A" edc d3 :|
+|: "D" fdB ABd | eff afd | "E" fge fed | Bcd efg |
+"D" fdB ABd | eff afa | "E" bag fge | "A" edc d3 :|
+
+X:74
+%
+T:Connaught Mans Rambles
+C:Traditional
+L:1/8
+M:6/8
+Q:1/4=80
+K:D treble
+%
+|: "D" FAA dAA | "G" BAB dAG | "D" FAA dfe | "G" dBB BAG |
+"D" FAA dAA | "G" BAB def | "G" gfe "D" efe | "Em" dBB B3 :|
+|: "Bm" fbb faa | fef deg | fbb faf | fed e2 g |
+"Bm" fbb faa | fef "D" def | "Em" gfe "D" efe | "G" dBB B3 :|
+
+X:75
+%
+T:The Kesh Jig
+C:Traditional
+L:1/8
+M:6/8
+Q:1/4=80
+K:G treble
+%
+"G" G3 GAB | "D" ABA ABd | "C" edd gdd | edB "D" dBA |
+"G" G3 GAB | "D" ABA ABd | "C" edd gdd | "D" AGF "G" G3 ||
+"G" BAB dBd | "C" ege dBA | "G" BAB dBG | "D" ABA AGA |
+"G" BAB dBd | "C" ege "G" dBd | "C" gfg "D" aga | "G" bgg g3 |]
+
+
+X:76
+%
+T:Teetotalers Reel
+C:Traditional
+L:1/8
+M:C
+Q:1/4=80
+K:G treble
+%
+"G" G2 GF GA Bc | d2 ge dB Ac | "E" BE ED EF GA | "A" BG AF GF EF |
+"G" G2 GF GA Bc | d2 ge dB Ac | "Em" BE ED "A" EF GA | "D" BG AF G4 ||
+"Em" Be ed e2 ef | "A" ge af gf ed | "D" Bd d^c d2 de | "Bm" f2 af gf ed |
+"Em" Be ed e2 ef | "A" ge af gf ed | "D" BE ED EF GA | BG AF G4 |]
+
+X:77
+T:Island under some blue
+C:copyright (c) 1999 R. S. Doiel, all rights reserved
+R:Jig
+M:6/8
+L:1/8
+Q:1/4=70
+K:G
+|: "G" d2d GAB | "G" d2d "D" dcB | "A" A2 A DEF | "D" A2 A edc | 
+"G" GAB DEF | "G" dcB "D" AGF | "G" GAB "D" DEF | "A" A2 A edc :|
+|: "D" D2 E  F2 G | "A" A2 A edc | "D" A2 A edc | "G" G2 G dcB |
+"D" D2 D GAB | "A" A2 A BAE | "D" D2 E F2 G | "A" A2 A edc |
+"D" A2 A edc | "G" G2 G edc | "D" A2 A DEF |1  "A" A2 A FGA :|2 "A" A2 A z3 |]
+
+
+
+
+
+X:78
+T:A Lilting Walk
+R:Hornpipe
+C:By R.S. Doiel copyright (c) 1999, All Rights Reserved
+M:C
+L:1/8
+K:D
+|: DE G2 B/AG E3/ | DE G2 A/Bd e3/ |
+(3def g2 e/dB A3/ | B/AG E3/ A/GE D3/ |
+DE G2 B/AG E3/ | DE G2 A/Bd e3/ |
+de g2 e/dB A3/ | d/BA G3/ GF G2 :||
+|: Bd e2 d/ef g3/ | fe d2 e/dB A3/ |
+Bd e2 d/ef g3/ | g/fe d3/  dc d2 |
+DE G2 B/AG E3/ | DE G2 A/Bd e3/ |
+ed B2 E/FG A3/ | BA G2 GF G2 :||
+
+
+X:79
+%
+T:The Geese in the bogs
+C:Traditional
+L:1/8
+M:6/8
+Q:1/8=120
+K:D
+N: From O'Neill's 1001, No. 279
+%
+|: Add fdB | AFA AGA | Add fdB | AFA B2 A |
+Add fdB | AFA DFA | gfe fdB | AFA BdB :|
+AFE DFE | DFA BdB | AFD DFA | BGA BdB |
+AFE DFE | DFA Bgf | gfe fdB |1 AFA BdB |2 AFA B2 d :|
+
+X:80
+%
+T:The Green Fields of America
+C:Traditional
+L:1/8
+M:C|
+Q:1/4=80
+K:G treble
+N:O'Neill's 1850, No. 1040
+%
+c2 (ec) B2 (dB) | AGAB AGEF | GAGE DEGB | AGAB AGEG |
+c2 (ec) B2 (dB) | AGAB AGEF | GAGE DEGA | BGAF G2 z2 ||
+GABc d2 ef | gage dBGB | c2 (ec) B2 (dB) | AGAB AG E2 |
+gfgd efge | dcBG AGEF | GAGE DEGA | BGAF G2 z2 |]
+
+
+% Page 17
+X:81
+T:Shandon Bells
+T:clang sean-duin
+C:traditional
+B:O'Neill's 1001
+Z:copied by R. S. Doiel
+R:Double Jig
+M:6/8
+L:1/8
+K:D
+B | AFD DFA | ded cBA | BGE EFA | B2 A Bcd | 
+AFD DFA | ded cBA | Bcd ecA |1 d3 dcB :|2 d3 d2 ||
+g | f2 d- ded | faa afd | cAA eAA | cBc efg |
+ f2 d- ded | faa afd | Bcd ecA | d3 d2 :|
+
+
+X:82
+T:Doctor O'Neill
+T:an doctur ua neill
+C:traditional
+B:O'Neill's 1001
+Z:copied by R. S. Doiel
+R:Double Jig
+M:6/8
+L:1/8
+K:D
+A | d3 AFD | E2 F G2 A | BGB Bcd | AGF EFA |
+d3 AFD | E2 F G2 A | BGB Bcd |AFD D2 :| 
+A | d3 ceA | dfe dcB | AFA Bcd | AGF EFA |
+d3 ceA | dfe dcB | AFA Bcd | AFD D2 :| 
+g | {g}fef afd | ded fed | gbg faf | gee e2 g| 
+{g}fef afd | ded fed | gbg fag | fdd d2 :|
+g | {g}fdf ece | {e}dcB AFA | AFd AFd | AGF E2 g |
+{g}fdf ece | dcB AFA | AFA Bcd | AFD D2 :|
+G | FAF GBG | FAG FED | FAF GBG | AGF E2 G |
+FAF GBG | FAG FED | BGB Bcd | AFD D2 :|
+
+
+X:83
+T:The Piper's Picnic
+T:aerideact na bpiobairi
+C:traditional
+B:O'Neill's 1001
+Z:copied by R. S. Doiel
+R:Double Jig
+M:6/8
+L:1/8
+K:A
+E | AcA BGE | cde dBG | AcA BGE | {F}EDE GAB | 
+AcA BGE | cde dBG | {d}cBA BGE | EFG A2 :|
+A/B/ | ceA ceA | cee edc | (B/c/d)G (B/c/d)G | Bdd dcB |
+cde dcB | {d}cBA Ggf | ecA GED | EFG A2 :|
+
+
+X:84
+%
+% Capt. Hugh Fitzgerald is an alias used by the author of Wizard of Oz
+% who wrote works under 12 aliases.  Actual name Louis Frank Baum 
+% or Lyman Frank Baum
+T:Captian Hugh Fitzgerld
+C: copyright (c) 2003 R. S. Doiel, all rights reserved.
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+|: EF GA B3 z | BA GF E3 z| EF GA BB zB | dB cc- cz fe | 
+dc BB- Bz ed | cB AA- Az dc | BA GG zB Gz |1 BG zB FG F2 :|2 BG zBGz GF||
+zE Fz FG zA | Bz Bc zE Fz | FG zA Bz cB | Az EF zF Gz | 
+AB zB cz gf | gz dc zB AB | zG Fz GF Gz | GF Gz zG FG ||
+
+
+X:85
+T:The Pipe on the Hob
+T:An Pioba ar an larta
+C:traditional
+B:O'Neill's 1001
+Z:copied by R. S. Doiel
+R:Double Jig
+M:6/8
+L:1/8
+K:C
+B | c3 edc | edc BAG | ABA {a}gze | eaa ged |
+c3 edc | edc deg | age dBe | ABA A2 :|
+^f | g3 {a}gea | age edB | ABA {a}gze | aba ge^f |
+g3 {a}gea | age e^fg | age dBe | ABA A2 :|
+B | c2 c d2 d | ecA AGE | c2 c d2 d| ecA A2 B |
+c2 c d2 d | e2 e ^gab | a=ge dBe | ABA A2 :|
+
+
+X:86
+T:Loosing Space
+T:The Handle Bar Mustache
+C:copyright (c) 2003 R. S. Doiel, all rights reserved.
+N:Written March 19, 2003 after visiting my parents.
+N:Title by Rob Lamog-Doiel
+L:1/8
+M:C
+Q:1/4=140
+K:G treble
+GA B2 AB c2 | ABdB GA B2 | ABdB GAcA | ABed dccB |
+GA B2 AB c2 | ABdB GA B2 | ABdB GAcA | ABBc cd B2 ||
+edcd dcBc | ABdB GA B2 | edcd dcBc | ABed dccB |
+GA B2 AB c2 | ABdB GA B2 | dedd cc B2 | cddc cB G2 |]
+
+
+X:87
+%
+T:Marcelle Du Champ's Jig
+N:Inspired by the ZBS Jack Flander's series about a green velvet chair...
+N:on March 21, 2003
+C:copyright (c) 2003 R. S. Doiel, all rights reserved.
+L:1/8
+M:6/8
+Q:1/4=140
+%%MIDI chordvol 0
+%%MIDI bassvol 0
+K:G treble
+%%MIDI program 1 79 % Whistle
+%
+|: "Em" GAB GBB | "Em" GAB  "G" EFD | "Em" GAB GBB | "Em" GAB "G" EFD |
+"G" dBG "Em" eBG | "G" fBG gBG | "G" BGG "Em" BEE | "Bm" BFF BDD :|
+|: "Am" Aee AGG | "Am" Add AEE | "Am" AcA "G" GBG | "Em" EGE "D" D3 |
+"C" cAG cAG | "G" BGE BGd | "Am" edd cdd | "G" BGG EGG ||
+"Am" EAA EAA | "G" BcB BcB | "Am" EAA EAA | "C" cEF "G" G3 |
+"Am" EAA EAA | "G" BcB BcB | "Am" EAA EAA |1 "G" cBA "Am" E3 :|2 "G" cBA G3 |]
+
+
+
+X:88
+T:No Count Know How
+C:copyright (c) 2004 R. S. Doiel, all rights reserved.
+M:4/4
+L:1/8
+Q:1/4=180
+V:1 name="D Whistle"
+%%MIDI program 1 72 % Whistle
+K:D
+|: Bcd2 def2 | fgab  abag | fed2 fedc | BAGA  GABc | d4 GABc :|
+V:2 name="Low D Whistle"
+%%MIDI program 2 72 % Acoustic Guitar (nylon)
+I: octave=-1
+K:D
+|: z4 Bcd2 | def2 fgab | abag fed2 | fedc BAGA | GABc G4 :|
+V:1
+e2 ee d2 dd | A8 | e2 ee d2 dd | A8 |
+e2 ee d2 dd | A8 | f2 f2 gg g2 | c3 z cB_B2 |
+f2 f2 gg g2 | c3 z cB_B2 || Bcd2 def2 | fgab  abag | 
+fed2 fedc | BAGA  GABc | d4 cBFG | d8 ||
+V:2
+E4  D4 | A4 ABcd | E4 D4 | A4 agef |
+efag  D4 | A4 aeae | Ffed GcBG | cgcg c2bc |
+Ffed GcBG | cgcg fedc || cBA2 Bcd2 | def2 fgab |
+abag fed2 | fedc BAGA | GABc G4 | D8 ||
+
+
+
+
+
+
+
+
+%%newpage
+
+%% Index goes here.
+%%begintext
+Ace & Deuce Of Pipering, The - 17
+Alewoman, The - 42
+Amhr\'an A Leabhair - 5
+Amhran Dochais & C\'ait Ni Dhuibhir - 1
+An Draigean Donn - 3
+An Irish Lullaby - 51
+An Pioba ar an larta - 85
+An tAthair \'O Floinn - 16
+August with seven winds - 49
+Banish Misfortune - 20
+Barley Grain, The - 36
+Bean Na Lionna - 42
+Bill Clancy's Delight - 6
+Blackthorn Stick, The - 3
+Blarney Pilgrim, The - 26
+Bog Blossom, The - 35
+Boil your breakfast early - 53
+Bonnie Bunch of Roses, The - 37
+Boys of Wexford, The - 33
+Bucks of Westmeath, The - 21
+Burn's Farwell - 60
+Burning the Piper's Hut - 2
+Burnt Old Man, The - 52
+Butterfly, The - 70
+Captian Hugh Fitzgerld - 84
+Castle of Dromore, The - 30
+Charming Fair Maid, The - 59
+Christie Blacktoast - 66
+Church of Dromore, The - 61
+Cliffs of Moher, The - 63
+Connaught Mans Rambles - 74
+Doctor O'Neill - 82
+Fairy Queen, The - 9
+Farewell to my Troubles - 19
+Fasu Groove, The - 48
+Father O'Flynn - 16
+Fill the Cup - 54
+Fish You Said - 47
+Fisherman's Widow, The - 23
+Fishuthes - 47
+Foggy Dew, The - 32
+Fox and His Wife, The - 62
+Geese in the bogs, The - 79
+Georgie the dotard - 52
+Girl of the Big House, The - 55
+Green Fields of America, The - 80
+Green Meadow, The - 14
+Handle Bar Mustache, The - 86
+Hope - 1
+Humor of Ballydehob, The - 24
+%%endtext
+
+%%newpage
+
+%%begintext
+Humors of the Joyce Country, The - 57
+Island under some blue - 77
+Johnny Docherty's - 72
+Johnny Doyle - 50
+Jolly Beggarman, The - 40
+Jolly Little Beggarman, The - 43
+Kesh Jig, The - 75
+Kitty Clover - 53
+Lilting Walk, A - 78
+Little Beggarman, The - 43
+Loosing Space - 86
+Luck Penny, The - 25
+Maggie in the woods - 28
+Maid Behind the Bar, The - 68
+Maid at the Well, The - 64
+Marcelle Du Champ's Jig - 87
+Masons Apron, The - 67
+Miss Monroe's Jig - 22
+Morning Star, The - 7
+Munster cloak, The - 8
+New Potatoes, The - 34
+New Year's Song - 56
+No Count Know How - 88
+O'Carolan's Draught - 29
+Off To California - 18
+One Wife is Enough for Me - 38
+Otter's Holt, The - 71
+Paddy O'Rafferty - 12
+Peggy on the settle - 53
+Pipe on the Hob, The - 85
+Piper's Picnic, The - 83
+Planxty Connor - 31
+Pretty Peg - 6
+R\'ealt na Maidne - 7
+Red Haired Boy, The - 43
+Red Headed Irishman, The - 43
+Return from Fingal, The - 41
+Rocky Road to Dublin, The - 44
+Romantic Kerryman, The - 39
+Rose in the Heather - 73
+Rumpy Ditty, A - 45
+Shandon Bells - 81
+Silver Spear, The - 69
+Smash the Windows - 11
+Stack of Wheat, The - 15
+Stimpy Thump, A - 46
+Stranger in Cork, A - 58
+Strayaway Child, The - 13
+Teetotalers Reel - 76
+Thinking on the train - 27
+%%endtext
+
+%%newpage
+
+%%begintext
+Threshing the Barley - 10
+Tradition's Echo, A - 46
+Water is Wide, The - 4
+Yellow Flail, The - 65
+aerideact na bpiobairi - 83
+an doctur ua neill - 82
+clang sean-duin - 81
+%%endtext
+
+%%newpage
+

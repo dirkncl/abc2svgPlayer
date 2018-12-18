@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Ancient Barons of Kilravock, The
+T:Barain Chill-reathaig
+L:1/8
+M:C
+S:Fraser Collection
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Eb
+|(3E/D/C/|B,>A,G,>A, B,AGe|G>FE>F GCC (3E/D/C/|B,>A,G,>A, B,AGe
+|[Ac]>[GB][GB][B,D] [G,3E3] (3E/D/C/|B,>A,G,>A, B,AGe|G>FE>F GCC (B/C/)
+|G,EA,F B,AG(e|[Ge]>)([Ac] [Ac]>)([GB] [GB]):|
+|(3B/c/d/|~e>fg>e B>AGe|G>FE>F GCC (3B/c/d/|~e>fg>e b>geB
+|[Ge]>([Ac] [Ac]>)([GB] [G2B2]) (B/c/4d/4 e/4f/4g/4)a/4
+|(b/a/)(a/g/) (g/f/)(f/e/) (e/d/)(d/c/) (c/B/)(B/A/)|G>FE>F G>CC>D
+|EcDB CAB,G|A,FB,D [G,3E3]||

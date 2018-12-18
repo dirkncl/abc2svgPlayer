@@ -1,0 +1,54 @@
+X: 0
+T: Scottish Waltzes 8 (A G D)
+R: waltz
+K: G
+
+X: 1
+P: Westering Home
+R: waltz
+Z: John Chambers <jc@trillian.mit.edu>
+M: 3/4
+L: 1/4
+K: G
+FE \
+| "G"D>ED | DB,D | GGA | "G7"B3 | "C"c>BA | "G"BAG | "Am"EE>D | "D7"D3 |
+| "G"D>ED | DB,D | GGA | B3 | "(C)"d>BG | "D7"B2A | "C"G3- | "G"G3 ||
+|| "G"d>BG | "Em"GAB | "Am"A>BA | "D7"D3 | "G"DGG | "Em"GAB | "Am"c>Bc | "D7"A3 |
+|  "G"d>BG | "Em"GAB | "Am"A>BA | "D7"D2c | "G"BBG | "D7"B2A | "C"G3- | "G"G3 |]
+
+X: 2
+P: Mr & Mrs McLean of Snaigow
+C: Dougie MacLean
+R: waltz, air
+Z: 1997 by John Chambers <jc@trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+|: EF \
+| "D"D4 FG | A4 ed | "G"B4 AF | "A7"E4 EF \
+| "D"D2 F3 G | A4 gf | "Em"e3 d B2 | "A7"A4 A/B/c |
+| "D"d2 A3 G | "Bm"F3 G A2 | "G"B3 GFD | "A7"E4 AF \
+| "D"D2 F3 A | "Em"B2 e3 c | "A7"A6- | A4 :|
+|: fg \
+| "D"a3 ggf | "A7"e4 ef | "G"g2 B3 d | "A7"c4 fg \
+| "D"a2 f2 d2 | "G"G4 AB | "A7"A6- | A4 fg |
+| "D"a3 ggf | "A7"e4 ef | "G"g2 B3 d | "A7"cB AG FE \
+| "D"D2 F3 A | "Em"B2 e3 c | "A7"A6- | A4 :| "fine"EF | "D"D4 |]
+
+
+X: 3
+P: A Cold Frosty Morning
+R: waltz
+Z: John Chambers <jc@trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: A
+AF \
+| "A"E>F A2 A2 | "F#m"A4 A2 | "D"Bc dc BA | "E7"GF- F2 E2 \
+| "A"E>F A2 A2 | c>d e2 a2 | "E7"B3 ABc | "A"A4 :|
+ef \
+| "G"=g3 bag | "D"gf- f2 e2 | "A"e2 f2 ab | a2 f2 ef \
+| "G"=gf gb ag | "D"f4 (3fga | "A"e>f ec Bc | A2 F2 E2 |
+| "G"=gf gb ag | "D"fe ce fa | "A"e>f ec Bc | "E7"A2 F2 E2 \
+| "A"E>F A2 A2 | c>d e2 a2 | "E7"B3 ABc | "A"A4 |]
+

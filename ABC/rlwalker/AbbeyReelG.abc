@@ -1,0 +1,22 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Abbey Reel
+C:Traditional
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+|"Am"vA3 B A2 GE|"Am"uA2 GA "G"BddB|"Am"A2 (AB) AGED|"G"G2 GA "Em"(Bd)dB
+|"Am"A2 (AB) A2 (GE)|"Am"A2 GA  "G"(Bd)dB|"Am"A2 (AB) AGED|"G"G2 (GA) (Bd) d2
+|"C9"(eg) (3ggg a2 (ba)|"G"gavbu(g ag)ed|"C9"(eg) (3gggg a2 (ga)|"G"bgef (ge) d2
+|"C9"(eg) (3ggg  (ag) (3ggg|"G"agvbu(g ag)ed|"C9"(eg) (3ggg a2 (ga)|"G"bgef "Em"g(edB):|
+|"Am""^last x"A8||

@@ -1,0 +1,64 @@
+%Scale the output
+%%scale 1.100
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 30pt %between systems
+%%sysstaffsep 30pt %between staves of a system
+X:1
+T:Amazing Grace - My Chains Are Gone
+C:medley
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+P:Intro V1 V2 B Inst V3 B B V4 Coda
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+P:Intro
+|"D"A A A GF|"G"E E E FG|"D"A A A GF|"G"E E E3/2||
+P:A Verses 1 - 4
+|:D/2
+w:1~A-
+w:2~Twas
+w:3~The
+w:4~The
+|"D"D3/2 E/2 "D7"F E|"G"D3/2 B,/2 "D"A,3/2 D/2|D3/2 E/2 "Bm"F3/2 A/2|"A7"A3 F/2A/2
+w:maz-ing grace, how sweet the sound that saved a wretch like me. I_ 
+w:grace that taught my heart to fear, and grace my fears re-leaved. How_
+w:Lord has prom-ised good to me, His Word my hope se-cures. He_
+w:earth shall soon dis-solve like snow, the sun for-bear to shine. But_
+|"D"A3/2 E/2 "D7"F3/2 E/2|"G"D3/2 B,/2 "D"A,3/2 D/2|"Bm"D3/2 E/2 "A7"F/2 E D/2
+w:once was lost, but now I'm found, was blind, but now_ I
+w:pre-cious did that grace ap-pear the hour I first_ be
+w:will my shield and por-tion be as long as life_ en
+w:God, who called me here be-low, will be for-ev-_er
+|1,4 "D"D2-"^Coda"D3/2 :|2,3 "D"D2 z/2||
+w:see._ *
+w:* * lieved.
+w:* * dures.
+w:mine._ *
+P:B Chains
+|D/2F/2A/2
+w:My chains are
+|"G"B2-B/2 B/2A/2G/2|"D"A2-A/2 D/2F/2A/2
+w:gone,_ I've been set free._ My God, my
+|"G"B3/2 A/2-A/2D/2A/2G/2|"A"A2 A/2A/2"D"d/2B/2|"G"B2-B/2A/2A/2B/2|"D"F2-F/2F/2G/2F/2
+w:Sav-ior_ has ran-somed me._ And like a flood._ His Mer-cy rains_ un-end-ing
+|"Em"E2-"A7"E/2D/2F/2E/2|"D"D2|
+w:love,_ a-maz-ing grace.
+P:Instrumental
+|A G/2F/2
+|"G"E E E F/2G/2|"D"A A A G/2F/2|"G"E E E/2:|
+P:Coda
+|D/2
+w:will
+|D3/2 E/2 "Ä"F/2 E D/2
+w:be for-ev-_er
+|"D"D-"G"D-"D"D3/2 D/2|D3/2 E/2 "A"F/2 E D/2|"D"!fermata!D4||
+w:mine__ You are for-ev-_er mine.
+

@@ -1,0 +1,31 @@
+%Scale the output
+%%scale 1.03
+%%format dulcimer.fmt
+X:1
+T:Aragon Mill
+C:Si Kahn, 1975
+N:The Aragon Mill was written by Si Kahn in 1979 and refers to the closing
+N:one of the main employers in Aragon, GA; The Aragon Textile Mill
+P:Play 1122C3C
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+K:D    %(D, C)
+V:1 name="Melody" clef=treble
+|:"^Verses"D F |"D"A2 A B|A2 D E|F2 F G
+w:1~At the east end of town at the foot of the
+w:1~But there's no smoke at all com-ing out of the
+w:2~Now I'm too old to change, and I'm too young to
+w:2~There's no child-ren at all in the narrow emp-ty
+w:3~Now the mill has shut down it's the only life I
+|F2 G F|"A7"E2 E F|E2 B, D|"Em"E2 E/2D/2 B,|"D"D2:|
+w:hill stands a chim-ney so tall that_ says "Ar-a-gon Mill"
+w:stack the_ mill has shut down and it ain't com-_ing back.
+w:die, And there's no place to go for my old man_ and I
+w:streets, Now the looms have all gone, it's so quiet I_ can't sleep.
+w:know, Tell me where will I go, tell me where will_ I go?
+|"^Chorus"D F|"D"A3/2 A/2 A B|A2 D E|F2 F G
+w:C~And the on-ly tune I hear is the sound of the
+|F2 G F|"A7"E2 E F|E2 B, D|"Em"E2 E/2D/2 B,|"D"D2||
+w:wind as it blows through the town, weave and spin, weave_ and spin.
+
+

@@ -1,0 +1,79 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 1
+T:America - #119
+T:My Country 'Tis Of Thee
+C:Henry Carey, 1745
+M:3/4
+L:1/4
+K:F
+|"F"F F G\
+w:v1~My       coun-   try,
+w:v2~My       na-     tive
+w:v3~Let      mu-     sic
+w:v4~Our      fa-     thers'
+|"C7"E3/2 F/2 G\
+w:'tis        of            thee,
+w:coun-       try           thee,
+w:swell       the           breeze,
+w:God,        to            thee;
+|"F"A "Dm"A "Bb"B\
+w:Sweet       land       of
+w:Land        of         the
+w:And         ring       from
+w:Au-         thor       of
+|"F"A3/2 G/2 "Dm"F\
+w:lib-             er-           ty,
+w:no-              ble           free,
+w:all              the           trees,
+w:li-              ber-          ty,
+|"Gm"G "F"F "C7"E\
+w:Of         thee        I
+w:Thy        name        I
+w:Sweet      free-       dom's
+w:To         Thee        we
+|"F"F3\
+w:sing.
+w:love.
+w:song.
+w:sing.
+|c c c\
+w:Land  where  my
+w:I     love   thy
+w:Let   mor    tal
+w:Long  may    our
+|c3/2 B/2 A\
+w:fath-          ers          died,
+w:rocks          and          rills,
+w:tongues        a-           wake.
+w:land           be           bright,
+|"C7"B B B\
+w:Land    of      the
+w:Thy     woods   and
+w:Let     all     that
+w:With    free-   dom's
+| B3/2  A/2  G\
+w:pil-            grims'        pride;
+w:tem-            pled          hills;
+w:breathe         par-          take;
+w:ho-             ly            light;
+|"F"A "Bb"B/2A/2 G/2F/2\
+w:from       ev-_        ery_
+w:My         heart_      with_
+w:Let        rocks_       their_
+w:Pro-       tect_     us_
+|"F"A3/2 B/2 c\
+w:moun-           tain-        side,
+w:rap-            ture         thrills.
+w:si-             lence        break,
+w:by              Thy          might,
+|"Bb"d/2B/2 "F"A "C7"G\
+w:Let_       free-       dom
+w:Like_       that        a-
+w:The_       sound       pro-
+w:Great_       God,        our
+"F"F3||
+w:ring!
+w:bove.
+w:long.
+w:King.

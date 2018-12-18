@@ -1,0 +1,48 @@
+X: 1
+T:Ali Pasa
+O:Turkey
+C:Trad.
+Z:http://swissnet.ai.mit.edu/~jaffer/Music
+Q:1/4=150
+M:5/4
+L:1/4
+K:D
+V:1 name="voice" snm="voc"
+AAd d2 | d/2c/2 c/2B/2 d/2c/2 c2 |\
+c B A/2B/2 B2 | B/2A/2 A/2G/2 B/2A/2 A2 |
+A A A/2d/2 d2 | d/2c/2 c/2B/2 d/2c/2 c2 |\
+c/2d/2 B A/2B/2 B2 | B/2A/2 A/2G/2 B/2A/2 A2 |
+|: GBB BA/2G/2 | FAA AG/2F/2 | EGG F/2E/2D | E F/2E/2 D/2C/2 D2 :|
+|: z5 | z5 | z5 | z5 :|
+V:2 name="santur" snm="sant"
+L:1/8
+"D"D2 A,DFA dAFA| DFA,DFD "A7"A,CEC| A,CEAEC "G" G,B,DB,| G,B,DB,GB, "D"DFAF|
+"D"D2 A,DFA dAFA| DFA,DFD "A7"A,CEC| A,CEAEC "G" G,B,DB,| G,B,DB,GB, "D"DFAF|
+|:"G"G,DB,DG,D "A7"A,CEC| "D"DFAdAF "B7"B,F^DB| "Em"EGBeBG "D"DFA,D| "A7"A,CECA,C "D"DFAF :|
+L:1/4
+|: "G"G[BG][BG] "A7"[BG][A/2F/2][G/2E/2]| "D"[FD][AF][AF] "B7"[BF]G/2F/2| "Em"E[EG][EG] "D"F/2E/2D| "A7"[EC] A,/2B,/2 C "D"D2 :|
+
+W:Arpa ektim, biçemedim
+W:Bir düþ gördüm, seçemedim
+W:Alýþmýþým soðuk suya
+W:Issi  sudan  içemedim
+W:
+W:Üç atým var, biri binek
+W:Arkadaþlar kalkýn gidek
+W:Ali Paþayý vurdular
+W:Yavrusuna   haber verek
+W:
+W:Paþa giyer iki kürkü
+W:Biri samur biri tilki
+W:Ali Paþayý vurdular
+W:Haraboldu  Van'ýn mülkü
+W:
+W:Karavanaya vurdular
+W:Yüzbaþýlar  darýldýlar
+W:Darýlmayýn  yüzbaþýlar
+W:Ali Paþayý  vurdular
+W:
+W:Arrangement Copyright 2000 Voluntocracy.
+W:Permission is granted to copy and distribute modified or unmodified versions of this music
+W:provided the copyright notice and this permission notice are preserved on all copies and the
+W:entire such work is distributed under the terms of a permission notice identical to this one.

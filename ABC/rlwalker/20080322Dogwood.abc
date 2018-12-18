@@ -1,0 +1,24 @@
+%%scale 0.98
+%%format dulcimer.fmt
+X:1
+T:Angelina the Baker
+C:Stephen Foster
+M:4/4
+L:1/4
+K:D
+|:"D""^VERSES"A B d3/2 A/2|B d2-d/2 A/2|A B d d|"Bm"B3-B/2B/2
+|"D"A B d e|f e d3/2 e/2|f e d "G"B|"D"A3-A/2A/2:|
+|:"D""^CHORUS"a f e d|f2 f2|a f e d|"Bm"B2-B2
+|"D"a f e d|f e d2|f e d "Bm"B|"D"A4:||
+%%score (V1 V2)
+
+X:2
+T:Old Folks at Home
+C:Stephen C. Foster, 1851
+M:4/4
+L:1/8
+K:D
+|:"D""^Verses"F4 "A7"E D "Bm"F E | "D"D2 d2 "G"B d3 | "D"A4 "Bm"F2 D2  | "A"E4-"A7"E2 z2 |
+"D"F4 "A7"E D "Bm"F E | "D"D2 d2 "G"B d3 | "D"A2 "Bm"F > D "A7"E2 (E > E) | "D"D6 z2 :|
+"A7""^Refrain"c3 d e2 A2 | "D"A3 B "D7"A2 d2 | "G"d2 B2 G2 B2 | "A"A4- "A7"A2 z2 |
+"D"F4 "A7"E D "Bm"F E | "D"D2 d2 "G"B d3 | "D"A2 F > D "A7"E2 E > E | "D"D6 z2 ||

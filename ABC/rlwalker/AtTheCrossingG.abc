@@ -1,0 +1,46 @@
+%%scale 0.98
+%%format dulcimer.fmt
+X: 1
+T:At the Crossing
+C:Moise Lister
+M:3/4
+L:1/8
+K:G% 0 sharps
+V:1
+% 2 - Melody note
+%%MIDI program 71
+x4x/2
+%%MIDI program 71
+Bc/2| \
+x/2d3/2d3/2xd3/2| \
+e3- e/2c/2e3/2x/2| \
+e3/2x/2d4-|
+d3- d/2x/2dg/2x/2| \
+f3/2x/2f2e2| \
+c4d/2ed/2-| \
+d6-|
+d3- d/2x/2B/2x/2c/2x/2| \
+d3/2x/2d3/2x/2d2| \
+e4ce/2x/2| \
+e2d4-|
+d3- d/2xd/2-[g/2d/2]x/2| \
+f2e2d2| \
+f2g2a2| \
+g6-|
+g3- g/2xg/2x/2g/2| \
+x/2g3/2e4-| \
+e4x/2gf/2-| \
+f/2g2d3-d/2-|
+d3- d/2x/2dg| \
+f3/2x/2f2g2| \
+a4gf| \
+g3 x/2f/2-[g/2-f/2]g/2a|
+b2a2-[a/2g/2-]gx/2| \
+g2e4-| \
+e4gf| \
+g2d4-|
+d4g2| \
+x/2f3-f/2-[g/2-f/2]g3/2| \
+a2g2f2| \
+g6-|
+g3 

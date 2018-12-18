@@ -1,0 +1,49 @@
+%Scale the output
+%%scale 0.890
+%%format bracinho.fmt
+%%format dulcimer.fmt
+%%format gchords.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:All I Have To Do Is Dream
+T:(http://www.youtube.com/watch?v=i90r6OX3RYo)
+%C:Words & Music by Boudleaux Bryant
+M:2/2%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Cmaj%(D, C)
+|"C""^Verse"E/2D/2C/2G,/2 "Am"A,2|"F"A A "G7"G3/2 F/2
+w:Dream,____ Dream, dream, dream._ 
+|:"C"E/2D/2C/2G,/2 "Am"A,2|"F"A A "G7"G3/2 F/2
+w:1~Dream,____ Dream, dream, dream. When 
+w:2~Dream,____ Dream, dream, dream. When
+|"C"E E "Am"E2|"Dm7"z F/2F/2 "G7"G3/2 F/2|"C"E E "Am"E2
+w:I want you in my arms; When I want you
+w:I feel blue in the night; And I need you
+|"Dm7"z/2 F/2F/2F/2 "G7"G3/2 F/2|"C"E/2E/2 E "Am"A E/2D/2|"F"C/2C/2C/2C/2 "G"D3/2 C/2:|
+w:and all your charms; When-ev-er I want you,_ All I have to do is
+w:to hold me tight; When-ev-er I want you,_ All I have to do is
+|"C"E/2D/2 C-"F"C2|"C"C2- "C7"C2
+w:dream,_____ 
+|:"F""^Chorus"A/2A/2A/2A/2 A2|"Em"G/2G/2G/2G/2 G2|"Dm"F/2F/2 F2 "G7"G/2G/2|"C"E2-"C7"E2
+w:I can make you mine, Taste your lips of wine, An-y-time, night or day._
+|"F"A/2A/2A/2A/2 A2|"Em"z B G3/2 G/2|"D7"A/2 A A/2 (A/2G) ^F/2|"G7"G3 F
+w:on-ly trou-ble is, Gee whiz, I'm dream-ing  my life_ a-way. I
+|"C"E E "Am"E2|"Dm7"z/2 F/2F/2F/2 "G7"G3/2 F/2|"C"E E "Am"E2|"Dm7"z/2F/2F/2F/2 "G7"G3/2 F/2
+w:need you so that I could die; I love you so, and that is why, When-
+|"C"E/2E/2 E "Am"A (E/2D/2)|"F"C/2C/2C/2C/2 "G"D3/2 C/2
+w:ev-er I want  you,_ All I have to do is
+|1 "C"E/2D/2C/2G,/2 "F"A,2|"C"C2- "C7"C2:|
+w: dream.____ dream._
+|:2 "C""^2X"E/2D/2C/2G,/2 "Am"A,2|"F"A A "G7"G3/2 F/2:|
+w:Dream,____ Dream, dream, dream._ 
+|3 "C""^1X"E/2D/2C/2G,/2 "Am"A,2|"F""^SLOW"A A "G7"G3/2 F/2|""|
+w:Dream,____ Dream, dream, dream_
+|"C"!fermata!E !fermata!D !fermata!C2||
+w:Dream.__

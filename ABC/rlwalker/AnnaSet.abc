@@ -1,0 +1,72 @@
+%%scale 1.0
+%%format dulcimer.fmt
+X: 0
+T: Anna Holden's Strathspey
+T: 8x32S__
+R: strathspey
+O: Whiteaddr
+B: The Whiteaddr Collection, 1993
+D: Dancing Fingers Vol.III
+N:
+N: Muriel Johnstone and Bill Zobel      Tel. 0890 818884
+N: Scotscores, Muse Cottage, Allanton, Duns, Beerwiskshire, TD11 3JZ, Scotland
+N:
+K: G
+
+X: 1
+P: the 60th Summer School
+C: Muriel Johnstone
+R: strathspey, shottish
+B: The Whiteaddr Collection, 1993
+Z: 1997 by John Chambers <jc@trillian.mit.edu>
+N:
+N: Muriel Johnstone and Bill Zobel   Tel. 0890 818884
+N: Scotscores, Muse Cottage, Allanton, Duns, Beerwiskshire, TD11 3JZ, Scotland
+M: C
+L: 1/8
+K: G
+D2 \
+| "G"G2 G>F "Em"G2 (3GAB | "Am"c>B A>G "D7"F<A A<d \
+| "G"G2 G>F "Em"G2 (3GAB | "Am"c>B c<e "D7"d2 E>F |
+| "G"G2 G>F "Em"G2 (3GAB | "Am"c>B A>G "C"E<G G>E \
+| "G"D>E G<B "C"c>B  c<e | "D7"d<D B>A "G"G2 ||
+|| za \
+| "Em"g>f g>e "Bm"d<B B>d | "Am"c>B "D7"c>A "G"B<d d>a \
+| "Em"g>f g>e "G"d<G (3GAB | "Am"c>B A<G "D7"d2- d>a |
+| "Em"g>f g>e "G"d<G (3GAB | "Am"c>B A>G "C"E<G G>E \
+| "G"D>E G<B "Am"c>B  c<e | "D7"d<D B>A "G"G2 |]
+
+X: 2
+P: Lord Byron's Favourite Strathspey
+R: strathspey
+M: 4/4
+L: 1/8
+K: Em
+e \
+| "Em"B<E B>A G<E E>e | B<E B>d e2 e>g \
+| "Em"B<E B>A G>A B>e | "G"d>B G>B "D"A2- A :|
+c \
+| "Em"B<e e>f "G"g<B B>A | "Em"B<e e>f g2 "D"f>e \
+| "Em"B<e e>f g>e B>e | "G"d>B G>B "D"A2- A>c |
+| "Em"B<e e>f "G"g<B B>A | "Em"B<e e>f g2 "D"f>a \
+| "C"e>g f>e "G"d>B G>B | d<B g>B "D"A2- A |]
+
+X: 3
+P: Dorrator Bridge
+R: strathspey, shottish
+S: Hand-written MS
+Z: John Chambers <jc@trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+A \
+| "D"d2 "A7"c<A "D"d>e f>a | "G"g>f a<f "A7"e2 e>f | "D"d2 "A7"c<A "D"d>e f>a | "Em"B<e "A7"c<A "D"d3 :|
+|: e \
+| "D"f2 f>e "Bm"d>e f<d | "G"g>e "D"f>d "A7"e2 e>A | "D"f2 f>e "Bm"d>e f<a | "Em"B<e "A7"c<A "D"d3 :|
+
+X: 4
+%%wordsfont Helvetica 10
+W: Arranged by Bill Possi http://trillian.mit.edu/~jc/music/abc/Scotland/
+K: C
+
+

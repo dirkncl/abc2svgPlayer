@@ -1,0 +1,29 @@
+%Scale the output
+%%scale 1.150
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Ain't She Sweet
+C:Words & Music by Jack Yellen, Milton Ager
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:C    %(D, C)
+|"C"A2 ^G2|"G7"G2 z A/2G/2|"C"A A "A7"^G G|"G7"G2 z A/2G/2
+w:Ain't she sweet? See her com-ing down the street. Now I
+|"G"c c "D7"B B|"A7"A A A/2G/2 F|"D7"E2 "G7"D2|"C"C3 z|A2 "A7"^G2|"G7"G2 z A/2G/2
+w:ask you ver-y con-fi-den-tial-ly ain't she sweet? Ain't she nice? Look her
+|"C"A A "A7"^G G|"G7"G2 z A/2G/2|"C"c c "E7"B B|"A7"A A A/2G/2 F|"D7"E2 "G7"D2
+w:ov-er once or twice. Now I ask you ve-ry con-fi-den-tial-ly ain't she
+|"C"C "^NC"c c c|"F"c4-|c c c c|"C"c2 G2|z c c c|"F"c4-
+w:nice? Just cast an eye_ in her di-rec-tion. Oh me oh my
+|c c c  c|"C"c2 G2-|"G7"G4|"C"A2 "A7"^G2|"G7"G2 z A/2G/2|"C"A A "A7"^G G
+w:_Ain't that per-fect-tion?_ I re-peat, don't you think that's kind of
+|"G7"G2 z A/2G/2|"C"c c "E7"B B|"A7"A A A/2G/2 F|"D7"E2 "G7"D2|"C"C2 z2||
+w:neat and I ask you ve-ry con-fi-den-tial-ly ain't she sweet?

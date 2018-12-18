@@ -1,0 +1,87 @@
+X:12
+T:Adam-ondi- Ahman (7!)
+M:6/8
+L:1/8
+Q:3/8=80
+C:composed by ?
+C:arranged by Rachel Mecham Goates
+%%staves {5 6}
+%%barsperstaff 4
+%%stretchstaff
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto" sname="A"
+V:3 clef=bass name="Tenor" sname="T"
+V:4 clef=bass name="Bass" sname="B"
+V:5 clef=treble name="Piano1rt" sname="P1rt"
+V:6 clef=bass name="Piano1lft" sname="P1lft"
+V:7 clef=treble name="Piano2rt" sname="P2rt"
+V:8 clef=bass name="Piano2lft" sname="P2lft"
+Z:Banaticus plus Chris P, 6th attempt
+K:F
+%1
+[V:5 clef=treble] ([G,3C3]F2c | [DB]>AG[B,2F2] )(c | [Fcf]>ed[F2c2] )F |\
+[DFc]>BA [B,F]>GD |
+[V:6][F,,6C,6] | [F,,6D,6] | [B,,3F,3][A,,3F,3] |\
+[B,,3F,3][G,,3D,3] |
+[V:1]Z4
+[V:2]Z4
+[V:3]Z4
+[V:4]Z4
+[V:7]Z4
+[V:8]Z4
+%2
+%%staves [3 4]|{5 6}
+[V:3]z6 | z3 z2 F, || F,2F,A,2A, | (F,>G,)A,C2C |
+w: This earth was once a gar - den place, With
+[V:4]z6 | z3 z2 F, || F,2F,A,2A, | (F,>G,)A,C,2C, |
+w: This earth was once a gar - den place, With
+[V:5][G,6C6F6] | [G,6C6] || [G,6C6]- | [G,6C6] |
+[V:6][F,,6C,6] | [F,,6C,6] || [F,,6C,6]- | [F,,6C,6] |
+[V:1]Z12
+[V:2]Z12
+[V:7]Z12
+[V:8]Z12
+%3
+[V:3]F,2F,A,2A, | G,F,2-F,2F, | G,2A,G,2E, | (G,A,)=B,C2C |
+w: all her glo-ries com-mon_ And men did live a ho - ly race, And
+[V:4]F,2F,A,2A, | G,F,2-F,2F, | G,2A,G,2E, | G,2G,G,2G, |
+w: all her glo-ries com-mon_ And men did live a ho-ly race, And
+[V:5][G,6C6] | [F,6B,6] | [D6G6]- | [D6G6] |
+[V:6][F,,6C,6] | [F,,6D,6] | [C,6G,6]- | [C,6G,6] |
+%4
+[V:3](DC)F (A,G,)F, | C2CA,,2A,, | F,2F,A,2G, | G,F,2-F,3- |
+w: wor - ship Je - sus face to face, In A-dam-on-di- Ah-man._
+[V:4]F,2F,F,2F, | F,2F,C,2C, | C,2C,F,2F, | F,F,2-F,3- |
+w: wor-ship Je-sus face to face, In A-dam-on-di- Ah-man._
+[V:5][G,6C6] | [F,6B,6] | [G,6C6] | [F,6B,6] |
+[V:6][F,,6C,6] | [F,,6D,6] | [F,,6C,6] | [F,,6D,6] |
+%5
+%%staves [1 2]|[3 4]|{5 6}
+[V:1]z6|z6|z6| z3 z2 F ||
+w:We
+[V:2]z6|z6|z6| z3 z2 F ||
+w:We
+[V:3]F,6 | Z2 | z3 z2 F, ||
+w:*We
+[V:4]F,6 | Z2 | z3 z2 F, ||
+w:*We
+[V:5]([G,3C3] F2c | [DB]>AG[B,2F2] c) | [Fdf]>ed[F2c2] F |\
+[Dc]>BA [B,F]>GD ||
+[V:6][F,,6C,6] | [F,,6D,6] | [B,,3F,3B,3] [A,,3F,3] |\
+[B,,3F,3][G,,3D,3] ||
+[V:7]Z4
+[V:8]Z4
+%6
+%%staves [1 2]|[3 4]|{5 6}|{7 8}
+[V:1]F2FA2G | (F>G)AC2C | F2FA2G |
+w:read that E-noch walked_ with God, A-bove the pow'r of
+[V:2]F2FF2F | D2DF2F | C2CE2E |
+w:read that E-noch walked with God, A-bove the pow'r of
+[V:3]F,2F,C2C | B,2B,G,2G, | F,2F,G,2G, |
+w:read that E-noch walked with God, A-bove the pow'r of
+[V:4]F,2F,A,2A, | F,2F,C,2C, | B,,2B,,C,2C, |
+w:read that E-noch walked with God, A-bove the pow'r of
+[V:5]F2FA2G | F>GA [EG]>FE | FBfc2c |
+[V:6][F,,3C,3] [A,,3F,3] | [G,,3D,3]G,> A,G, | [B,,3F,3][C,3G,3] |
+[V:7][G,3C3] [C3F3] | [B,3D3] z3 | C3E3 |
+[V:8]z6 | z3 C,3 | Z1 |

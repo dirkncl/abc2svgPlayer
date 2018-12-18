@@ -1,0 +1,54 @@
+%Scale the output
+%%scale 1.100
+%%format dulcimer.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X:1
+T:Auld Lang Syne (Modern Version)
+C:Traditional - Robert Burns - lyrics
+O:Scotland
+M:4/4
+L:1/8
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Cmaj
+V:1 clef=treble octave=0 name="Melody" " 
+|G,2|:"C""^Verses"C3 C C2 E2|"G"D3 C D2 E2
+w:1~Should auld ac-quain-tance be for-got, and
+w:2~And sure-ly you'll lift your print cup, and
+w:3~So here's a hand my trus-ty friend, give
+|"C"C3 C E2 G2|"F"A6 A2
+w:nev-er brought to mind? Should
+w:sure-ly I'll life mine. We'll
+w:us a hand of thine! We'll
+|"C"G3 E E2 C2|"G"D3 C D2 E2
+w:auld ac-quain-tance be for-got, In
+w:take a cup of kind-ness yet, For
+w:take a cup of good-will draught, For
+|"F"C3 A, A,2 G,2|"C"C6||
+w:days of auld lang syne?
+w:auld_ lang_ syne.
+w:auld_ lang_ syne.
+V:2 clef=treble octave=0 name="Harmony" " 
+|g2|:G3 G G2 c2|B3 c B2 B2
+|G3 G c2 c2|c6 c2
+|c3 c c2 c2|B3 c B2 c2
+|A3 F F2 F2|E6||
+V:1 clef=treble octave=0 name="Melody" " 
+|A2|"C""^FASTER last time"G3 E E2 C2|"G"D3 C D2 A2
+w:For auld_ lang_ syne my dear for
+|"C"G3 E E2 G2|"F"A6 A2
+w:auld_ lang_ syne. We'll
+|"C"G3 E E2 C2|"G"D3 C D2 E2
+w:tak' a cup o' kind-ness yet for
+|"F"C3 A, A,2 G,2|"C"C6||
+w:auld_ lang_ syne.
+V:2 clef=treble octave=0 name="Harmony" " 
+|c2|c4 c4|B3 A B2 f2
+|e3 c c4|c6 c2
+|c3 c c2 G2|G3 G G2 ^G2
+|A3 E F4|E6||

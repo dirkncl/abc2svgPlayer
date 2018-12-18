@@ -1,0 +1,37 @@
+%%scale 1.1
+%%format dulcimer.fmt
+X:1
+T:Amazing Grace
+C:Traditional (Scotland); Lyrics: John Newton
+M:3/4
+L:1/4
+%N:End with Chorus
+K:Cmaj
+%%continueall 1
+%%partsbox 1
+|G,/2A,/2|"C"C2 E/2C/2|"C7"E2 D|"F"C2 A,
+w:1~A-_maz-ing_ grace, how sweet the
+w:2~Twas_ grace that_ taught my heart to
+w:3~Through_ ma-ny_ dan-gers, toils and
+w:4~When_ we've been_ there ten thou-sand
+|"C"G,2 G,/2A,/2|C2 E/2C/2|"Am"E2 D/2E/2|"G"G3-
+w:sound, that_ saved a_ wretch like_ me!
+w:fear, and_ grace my_ fears re-_lieved;
+w:snares, I_ have al-_rea-dy_ come;
+w:years, bright_ shin-ing_ as the_ sun;
+|"G7"G2 E|"C"G2 E/2G/2|"C7"E C/2C/2 G,|"F"A,2 C/2A,/2
+w:_I once was_ lost__ but now I am
+w:_how pre-cious_ did__ that grace a_
+w:_'twas grace that_ brought__ me safe thus_
+w:_we've no less_ days__ to sing God's_
+|"C"G,2 "^TAG"G,/2A,/2|"Am"C2 E/2C/2|"G7"E2 D
+w:found, was_ blind, but_ now I
+w:pear, the_ hour I_ first be
+w:far, and_ grace will_ lead me
+w:praise, than_ when we_ first be-
+|"C"C3-|!fermata!C2||
+w:see._
+w:lieved._
+w:home._
+w:gan._
+

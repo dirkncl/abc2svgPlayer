@@ -1,0 +1,76 @@
+%Scale the output
+%%scale 0.920
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%staffsep 60pt %between systems
+%sysstaffsep 60pt %between staves of a system
+X:1
+T:Angel Band
+T:Land of Beulah, The
+T:My Latest Sun is Sinking Fast
+C:Words: Rev. Jefferson Haskell; Music: W. B. Bradbury
+M:6/8%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+K:Cmaj%(D, C)
+V:1 clef=treble octave=0 name="soprano" middle=B " " 
+V:2 clef=treble octave=0 name="alto" middle=B " " 
+V:3 clef=bass name="tenor" middle=D, " " 
+V:4 clef=bass name="bass" middle=D, " " 
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+V:1
+|"^Verses"G
+w:1~My
+w:1~My
+w:2~I'm
+w:2~I
+|"C"G2 G G2 G|"F"A2 c c2 A|"G"G2 c e2 d|"C"c3-c2:|z
+w:la-test sun is sink-ing fast, My race is near-ly run;_
+w:strong-est tri-als now are past, My tri-umph is be-gun._
+w:near-ing now the ho-ly ranks Of friends and kin-dred dear;_
+w:brush the dews on Jor-dan's banks; The cross-ing must be near._
+|"^Chorus""G"d3 d3|"C"e2 d c3|"G"d3 d2 d|"C"e2 d c2 G|"F"c c c d c A|"C"G2 E G2 G
+w:O come, an-gel band, come, and a-round  me stand; O bear me a-way on your snow-y wings to
+|"Em"c2 c "G"d2 d|"C"e3-e2 G|"F"c c c d c A|"C"G2 E G2 G|c2 c "G"e2 d|"C"c3-c2||
+w:my im-mor-tal home;_ O bear me a-way on your snow-y wings to my im-mor-tal home._
+%sysstaffsep 30pt
+%staffsep 30pt
+V:2
+%%sysstaffsep 20
+E
+V:3
+%%sysstaffsep 20
+G,
+V:4
+%%sysstaffsep 20
+C,
+V:2
+%%sysstaffsep 20
+|E2 E E2 E|F2 A A2 F|E2 E G2 F|E3-E2:|z
+|G3 G3|G2 F E3|G3 G2 G|G2 F E2 E|E E E F F F|E2 C E2 E
+|G2 G G2 G|G3-G2 G|E E E F F F|E2 C E2 E|E2 E G2 F|E3-E2||
+V:3
+%%sysstaffsep 20
+|G,2 G, C2 C|C2 C C2 C|C2 C C2 B,|C3-C2:|z
+|B,3 B,3|C2 B, C3|B,3 B,2 B,|C2 B, C2 C|C G, G, A, A, C|C2 G, C2 C
+|C2 C B,2 B,|C3-C2 C|C G, G, A, A, C|C2 G, C2 C|C2 C C2 B,|C3-C2||
+V:4
+%%sysstaffsep 20
+|C,2 C, C,2 C,|F,2 F, F,2 F,|G,2 G, G,2 G,|C,3-C,2:|z
+|G,3 G,3|C2 G, C,3|G,3 G,2 G,|C2 G, C,2 C,|C, C, C, F, F, F,|C,2 C, C,2 C,
+|E,2 E, G,2 G,|C3-C2 C,|C, C, C, F, F, F,|C,2 C, C,2 C,|G,2 G, G,2 G,|C,3-C,2||
+W:3 I've almost gained my heavenly home,
+W:My spirit loudly sings;
+W:The holy ones, behold they come!
+W:I hear the noise of wings.
+W:
+W:4 O bear my longing heart to Him
+W:Who bled and died for me;
+W:Whose blood now cleanses from all sin,
+W:And gives me victory.
