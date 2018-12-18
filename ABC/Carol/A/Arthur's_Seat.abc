@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Arthur's Seat
+Z: John Goss, 1874
+Z: Public  domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff 1"
+%%MIDI program 1 0
+V: P2 name="Arthur's Seat"
+%%MIDI program 2 91
+K: C
+[V: P1]  G c3/ c/ B | A G3 | [F/A/]B/ [Gc] [Gd] [Ge] | [G/d/]c/ [G3d3] | G [G3/e3/] [G/d/] [Gc] | [GB] [FA] B [Gc] | [Ge] [G3/d3/] [G/d/] [^Fe] | [^Fd] G3 | [DG] [E3/A3/] [E/A/] A | A [F3/B3/] [F/B/] [FB] | [FB] [E2c2] [A-^c-] | [A^c] [Ad] e f | [Fd] [E2c2] [D-B-] | [DB] [E3-c3-] | [Ec]z3|]
+[V: P2]  G, C3/ C/ B, | A, G,3 | [F,C] [E,C] [G,B,] C | [E,C] [G,3B,3] | [G,B,] [C,3/C3/] [D,/B,/] [E,C] | [E,C] [F,C] D [E,C] | [C,C] [D,3/B,3/] [D,/B,/] [D,C] | [D,C] [G,3B,3] | [G,B,] [G,3/C3/] [G,/C/] [G,C] | [G,C] [G,3/D3/] [G,/D/] [G,D] | [^G,D] [A,2C2] [=G,-E-] | [G,E] [F,D] [E,^C] [D,D] | [F,A,] G,2 [G,,-G,-] | [G,,G,] [C,3-G,3-] | [C,G,]z3|]
+

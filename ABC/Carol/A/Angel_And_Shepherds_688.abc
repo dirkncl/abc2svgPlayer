@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Angel And The Shepherds
+Z: French Flanders Melody
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  C/ | C/ F/ F3/ G/ | A3/4 G/4 F G | A3/4 A/4 G A | (B A)z/ C/ | C/ F/ F3/ G/ | A3/4 G/4 F G | A3/4 A/4 G A | (B A)z/ G/ | A3/4 =B/4 c3/ c/ | c/ =B/ cz/ G/ | G3/4 F/4 G3/ A/ | (B G)z/ C/ | C/ F/ F (E/F/) | G/ A/ D3/ D/ | (G/B/ D3/) B/ | A/ G/ Fz/|]
+w: A- wake, ye shep- herds, in- stant ly, For- sake your flocks a- while;_ The new- born Pas- tor of His sheep, A- waits you with a smile;_ Give glad- some song and car- ol sweet, With rea- dy pipe and flute_ To- day, that we in_ heav- en sing, The earth__ must not be mute.
+

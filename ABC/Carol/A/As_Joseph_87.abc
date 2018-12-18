@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As Joseph Was A-Walking
+Z: Old Breton Noel
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=252
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  D | G G A B | (c B) A (G/A/) | B G A (B/ A/) | (G2 G/)z/ D | G G A B | (c B A) (G/A/) | B G A (B/A/) | (G2 G/)z/ d | d c B A | (G2 F) G | A B c B | (A2 A/)z/ d | d c B A | G G F (G/A/) | B G (A B/A/) | (G2 G/)z/|]
+w: As Jos- eph was a- walk_ ing He_ heard an An- gel_ sing:_ "This night there shall be born__ Our_ gra- cious Heav'n- ly_ King;_ He nei- ther shall be born _ In hou- sen nor in hall,_ Nor in the place of Pa- ra dise, But_ in an ox's__ stall."_
+[V: P2]  D | D (D/E/) | F G | (A G) F E | D G E F | (D C B,/)z/ D | D (D/E/) F G | (A G F) E | D G E F | (D2 D/)z/ (B/A/) | G F G D | (E2 A,) E | E =F E [DE] | [(C2(E2] [C/)E/)]z/ D | G F G D | E2 A, E | D G E F | (D2 D/)z/|]
+[V: P3]  D | B, B, C D | D2 D (C/B,/) | D D (C/E/) (D/C/) | (B, A, G,/)z/ D | D B, C D | D2 D (C/B,/) | D D (C/E/) (D/C/) | (B,2 B,/)z/ (D/C/) | B, C D A, | (B, ^C D) B, | A, A, A, ^G, | (A,2 A,/)z/ (A,/C/) | B, C D A, | (B, ^C) D (D/=C/) | B, D (C/E/) (D/C/) | (B,2 B,/)z/|]
+[V: P4]  D, | G, B, A, (G,/F,/) | (F, G,) D, (E,/F,/) | G, B,, C, D, | G,,2 G,,/z/ D, | G, B, A, G, | (F, G,) D, (E,/F,/) | G, B,, C, D, | [(G,,2(G,2] [G,,/)G,/)]z/ (G,/A,/) | B, A, G, F, | (E,2 D,) (E,/D,/) | =C, D, E, F, | (A,,2 A,,/)z/ (F,/A,/) | B, A, G, F, | E,2 D, (E,/F,/) | G, B,, C, D, | (G,,2 G,,/)|]
+

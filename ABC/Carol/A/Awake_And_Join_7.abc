@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Awake And Join The Cheerful Choir
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=72
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  G B3/4 c/4 | (d/4e/4d/4c/4 B/) c/ | (B/G/) (A/F/) | G3/ B/ | c/ B/ A/ G/ | A3/ A/ | (B/4A/4B/4c/4 d/) e/ | d ^c | d2 | d d/ d/ | (B3/4A/4G/) B/ | (c/ B/ A/) G/ | A3/z/ |zz/ G/ | c/ c/ c/ c/ | B3/ B/ | A/ A/ A/ A/ | d3/ d/ | (e/d/) (c/B/) | A A | G2|]
+[V: P2]  D G3/4 G/4 | (G D/) E/ | D D | D3/ B/ | F/ G/ D/ E/ | F3/ F/ | G3/ G/ | F E | F2 | G A/ F/ | G3/ F/ | E3/ (D/4E/4) | F3/z/ | z4 |zz/ D/ | D/ D/ D/ G/ | (F/G/) (F/E/) | (D/F/) (G/ G/) | G (F/G/) | A G | D2|]
+[V: P3]  B, D3/4 C/4 | (B,/4C/4B,/4A,/4 G,/) G,/ | (G,/B,/) (C/A,/) | B,3/ D/ | D/ D/ A,/ ^C/ | D3/ D/ | (D3/4=C/4B,/) B,/ | A, A, | A,2 | B, A,/ A,/ | (G,3/4A,/4B,/) G,/ | (G, C/) B,/ | D3/z/ |zz/ G,/ | G,3/ A,/ | G, (G,/B,/) | D/z/z/ C/ | D (D/ B,/) | (C/D/) D | (D/A,/) (D/C/) | B,2|]
+[V: P4]  G, G,3/4 G,/4 | G,3/ C,/ | D, D, | G,,3/ G,/ | A,/ G,/ F,/ E,/ | D,3/ D,/ | G,3/ E,/ | A, A,, | D,2 | G, F,/ D,/ | E,3/ D,/ | C,3/ G,/ | D,3/ D,/ | G,/ A,/ B,/ G,/ | E,3/ F,/ | G,/A,/ B,/ G,/ | (D/E/) (D/C/) | (B,/A,/) (B,/ A,/) | (C/B,/) (A,/G,/) | D, D, | G,,2|]
+

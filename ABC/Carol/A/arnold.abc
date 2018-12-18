@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Arnold, CM
+Z: Samuel Arnold (1740-1802)
+Z: Public domain
+L: 1/4
+M: 3/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Arnold, CM"
+V: P2_2
+%%MIDI program 2 91
+K: Eb
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | c3/4B/4 [EG] | | c3/4d/4 e [Ec] | B G [EB] | c3/4d/4 e [Ec] | | [Ec] [Ad] e/B/ | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | E2 A x1  | | E2 x1  | E2 x1  | E2 x1  | | x2  G | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | B,2 D, [E,B,] | | B,2 [G,B,] | A,3/4B,/4 C [E,B,] | | A,3/4B,/4 C A, | B,2 [E,G,] | A,3/4B,/4 C [A,,A,] | | A,2 [E,B,] | [A,C] B, [B,,A,] ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | E, x1  | | E, F, x1  | A,2 x1  | | A,2 A, | G, E, x1  | A,,2 x1  | | A, F, x1  | x1  B, x1  ||]
+

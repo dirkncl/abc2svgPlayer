@@ -1,0 +1,25 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As I Sat On A Sunny Bank
+Z: English Traditional From Cecil Sharp (2nd Ver.)
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Church Organ"
+%%MIDI program 1 60
+V: P2 name="French Horn"
+%%MIDI program 2 0
+V: P3 name="Tuba"
+%%MIDI program 3 0
+K: G
+[V: P1]  D/ | G G/ G B/ | d B/ G G/ | A B/ A G/ | A F/ D D/ | G G/ G B/ | d B/ G G/ | A A/ D/ E/ F/ | G3/ G|]
+w: As I sat on a sun- ny bank, A sun- ny bank, a sun- ny bank, As I sat on a sun- ny bank On Christ- mas Day in the morn- ing.
+[V: P2]  D/ | D3/ [D3/G3/] | D3/ [D3/G3/] | C3/ [C3/E3/] | [C3/F3/] [D3/A3/] | B, [B,/G/] [B,F] [C/E/] | (D3/ [B,3/)D3/)] | [(C3/(E3/] [C3/)D3/)] | [(B,3/(G3/] [C)G)]|]
+[V: P3] z/ | (G,3 | [B,,3)G,3)] | [(C,3/(A,3/] [A,,3/A,3/] | [D,3/A,3/] [D,3/)F,3/)] | [(E,3/(G,3/] [D,G,] [C,/)G,/)] | [(B,,3/(G,3/] [E,3/)G,3/)] | [A,,3/G,3/] [D,3/F,3/] | G,,3/ G,,|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Alle, die ihr Gott su ehren
+Z: Ebeling, 1667
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=135
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c2 G A2 F | F2 E F2 F | d2 A B2 G | G2 ^F G2 G | G2 E D2 C | G2 E D2 C | c2 A G2 F | c2 A G2 F | B2 c d2 _e | c2 c B2 B | A2 B c2 c | c2 =B c2 c | A2 G F2 B | E2 E D3 | G2 E D2 C | G2 E D2 C | c2 A G2 F | c2 A G2 F | c2 A G2 F | d2 c B2 A | d2 c B2 A | G2 G F3|]
+w: Would'st thou mag- ni fy the sto- ry Of the Babe, the King of glo- ry? E- ya! E- ya! E- ya! E- ya! E- ya! E- ya! E- ya! E- ya! Stand and hear- ken, good my bro- ther, To the song of Je- su's mo- ther, Nigh the cra- dle of her Son: "E- ya! E- ya! E- ya! E- ya! E- ya! E- ya! E- ya! E- ya! E- ya! E- ya! Sleep and slum- ber; Sleep, sleep Je- su, dar- ling mine.
+

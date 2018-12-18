@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Austria
+Z: Franz Joseph Hayden, 1797
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=108
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: C
+[V: P1]  [G,3/C3/] [G,/D/] [CE] [B,D] | [DF] [CE] [B,/D/]B,/ [G,C] | [A,/A/]B,/ [CG] [DF] [CE] | [A,D] [C/E/]C/ [B,2G2] | [G,3/C3/] [G,/D/] [CE] [B,D] | [DF] [CE] [B,/D/]B,/ [G,C] | [A,/A/]B,/ [CG] [DF] [CE] | [A,D] [C/E/]C/ [B,2G2] | [G,D] [G,E] [G,/D/]B,/ G, | [A,/F/]B,/ [CE] [B,/D/][G,/B,/] G, | [G,G] [A,/F/]B,/ [C3/E3/] [C/E/] | [C3/^F3/] [C/F/] [B,2G2] | [C3/c3/] [C/B/] [C/B/]A/ [CG] | [C3/A3/] [C/G/] [B,/G/]F/ [CE] | [B,D] [B,/E/]F/ [C/G/]A/ [A,/F/]D/ | [G,C] [B,/E/]D/ C2- | C2z2|]
+[V: P2]  [C,3/E,3/] [C,/F,/] [C,G,] [G,,G,] | [B,,G,] [C,G,] [G,,F,] [C,E,] | F, [E,G,] [B,,G,] [C,G,] | [F,,F,] [^F,,A,] [G,,2D,2] | [C,3/E,3/] [C,/F,/] [C,G,] [G,,G,] | [B,,G,] [C,G,] [G,,F,] [C,E,] | F, [E,G,] [B,,G,] [C,G,] | [F,,F,] [^F,,A,] [G,,2D,2] | [G,,B,,] [G,,C,] [G,,/B,,/]D,/ [G,,/F,/]E,/ | [G,,D,] [G,,/C,/]E,/ [G,,/G,/]D,/ [G,,/B,,/]F,,/ | [E,,E,] [F,,/D,/]G,,/ [A,,3/C,3/] [A,,/A,/] | [D,3/A,3/] [D,,/D,/] [G,,2D,2] | [E,3/A,3/] [E,/G,/] F, [C,E,] | F,3/ [E,/G,/] [D,G,] [C,G,] | [G,,G,] [F,,G,] [E,,/G,/]C,/ [F,,/A,/]F,/ | [G,,E,] [G,,F,] [C,,2-C,2-E,2-] | [C,,2C,2E,2]z2|]
+

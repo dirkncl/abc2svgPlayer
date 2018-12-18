@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Angels From The Realms Of Glory
+Z: Traditional Tune From West Of England
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=72
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: E
+[V: P1]  E G | F/ F/ G/ A/ | (G3/4F/4) E | G B | G/ A/ c/ c/ | (B3/4A/4) G | B/ B/ B/ B/ | ^A3/ A/ | B2 | B3/ (A/4G/4) | c/ c/ c/ c/ | (B3/4A/4) G | G3/4 F/4 G3/4 F/4 | G/ G/ F | B3/4 B/4 B/ B/ | c/ c/ B | (F/G/A/) F/ | (G/A/B/) G/ | (A/B/c/) c/ | B G | (A/B/c/) d/ | (e/B/c/) (B/4A/4) | G F | E2 | G A | (G3/4F/4) E | B c | (B3/4A/4) G | F/ F/ G/ G/ | A/ F/ B | B/ B/ c/ c/ | d/ B/ e | c3/ c/ | (B3/4c/4B/) A/ | G F | E2|]
+w: An- gels from the realms of glo-_ ry, An- gels from the realms of glo-_ ry, Wing your flight o'er all the earth; Ye who_ sang cre- a tion's sto-_ ry Now pro- claim Mes- si ah's birth. Now pro- claim Mes- si ah's birth. Ye__ who sang__ cre- a__ tion's sto- ry Now__ pro- claim__ Mes-_ si ah's birth. Come and wor-_ ship, come and wor-_ ship Wor- ship Christ, the new- born King. Wor- ship Christ, the new- born King. Wor- ship Christ,__ the new- born King.
+[V: P2]  B, E | D/ D/ E/ F/ | (E3/4D/4) E | E G | E/ E/ A/ A/ | (G3/4F/4) E | D/ (D/4E/4) F/ G/ | F3/ E/ | D2 | E3/ E/ | E/ A/ A/ A/ | (G3/4F/4) E | E3/4 D/4 E3/4 D/4 | E/ E/ D | E3/4 D/4 E/ E/ | E/ A/ G | (D/E/F/) D/ | (E/F/G/) E/ | (E/G/A/) A/ | G E | (E/F/4G/4A/) A/ | (G/ E) F/ | E D | E2 | E E | E E | G A | (G3/4F/4) E | F/ F/ E/ E/ | E/ D/ E | E/ G/ A/ A/ | A/ A/ G | A3/ A/ | (E3/4D/4E/) F/ | E D | E2|]
+[V: P3]  G, B, | B,/ B,/ B,/ B,/ | (B,3/4A,/4) G, |z2 |z2 |z2 | F,/ F,/ F/ (E/4D/4) | C3/ C/ | B,2 |z2 |z2 |z2 | B,3/4 B,/4 B,3/4 B,/4 | B,/ B,/ B, | B,3/4 B,/4 B,/ G,/ | A,/ E/ E |z2 |z2 |z2 |z2 | (E/D/C/) B,/ | (B, A,/) C/ | B, A, | G,2 | B, C | (B,3/4A,/4) G, | E E | E B, | B,/ B,/ B,/ B,/ | B,/ B,/ B, | B,/ E/ E/ F/ | F/ D/ E | (E3/4D/4E/) F/ | (B,3/4A,/4B,/) C/ | B, (B,/A,/) | G,2|]
+[V: P4]  E, E, | B,,/ B,,/ B,,/ B,,/ | E, E, | (E,2 | E,) [A,,E,] | [E,,2E,2] | B,,/ (B,,/4C,/4) D,/ E,/ | F,3/ F,/ | B,,2 | G,3/ (G,/4F,/4) | A,/ A,,/ (A,,/4B,,/4) (C,/4D,/4) | E, E, | E,3/4 B,,/4 E,3/4 B,,/4 | E,/ G,/ (B,/A,/) | G,3/4 F,/4 G,/ E,/ | A,/ A,,/ E, | B,,3/ B,,/ | E,3/ E,/ | (C,/B,,/A,,/) A,,/ | E, E, | (C/B,/A,/) F,/ | (E,/G,/A,/) A,/ | B, B,, | E,2 | E, E, | E, E, | E, E, | E, E, | D,/ D,/ E,/ E,/ | F,/ A,/ G, | G,/ E,/ A,/ F,/ | B,/ B,/ E, | A,3/ A,/ | (G,3/4F,/4G,/) A,/ | B, B,, | E,2|]
+

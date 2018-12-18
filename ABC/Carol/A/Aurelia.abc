@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Aurelia
+Z: Samuel Sebastian Wesley, 1864
+Z: Public domain
+L: 1/4
+M: 4/4
+Q: 1/4=116
+V: P1 name="Staff 1"
+%%MIDI program 1 19
+V: P2 name="Aurelia"
+%%MIDI program 2 19
+K: C
+[V: P1]  [CE] [CE] [CE] [CF] | [CE] [C2E2] [B,D] | C [A,C] [CA] [CG] | [B,F] [C3E3] | [B,F] [CG] [Cc] [Cc] | [DB] [D2B2] [CA] | [EG] [DF] [DG] [CE] | C [B,3D3] | [B,D] [CE] [B,F] [CG] | [CA] [C2A2] [CG] | [Ec] [E3/c3/] [E/B/] [EA] | E [D3F3] | D [CE] [CE] [CF] | [CE] [A,2E2] [A,D] | [A,C] [A,C] [A,D] [G,C] | [G,B,] [G,3-C3-] | [G,C]z3|]
+[V: P2]  [C,G,] [C,G,] [C,G,] [C,A,] | [C,G,] [G,,2G,2] [F,,G,] | [E,,G,] [F,,D,] [F,,D,] [G,,E,] | [G,,G,] [C,3G,3] | [D,G,] [E,G,] [E,G,] [E,^G,] | [E,,^G,] [F,,2G,2] [F,,A,] | [G,,B,] [A,,C] [B,,D] [C,G,] | [A,,^F,] [G,,3G,3] | [G,,G,] [C,G,] [D,G,] [E,G,] | F, F,2 [E,G,] | [A,,A,] [E,3/A,3/] [D,/^G,/] [C,A,] | [^C,A,] [D,3A,3] | [B,,G,] [C,G,] [C,G,] [C,A,] | [C,G,] [F,,2G,2] [F,,F,] | [F,,F,] [D,,F,] [D,,F,] [G,,D,] | [G,,F,] [C,3-E,3-] | [C,E,]z3|]
+

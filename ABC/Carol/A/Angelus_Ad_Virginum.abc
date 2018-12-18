@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Angelus Ad Virginum
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=120
+V: P1 name="melody"
+%%MIDI program 1 111
+V: P2 name="drone"
+%%MIDI program 2 46
+K: C
+[V: P1]  d B/ d d/ | c B/ A A/ | B G/ A/G/F/ | G3/ G3/ | d B/ d d/ | c B/ A A/ | B G/ A/G/F/ | G3/ G3/ | [M: 9/8]  A3/ c c/ B G/ | [M: 6/8]  A/B/A/ G3/ | [M: 9/8]  A3/ c c/ B G/ | A/G/A/ D3/ E/ ^F | [M: 6/8]  G F/ E D/ | G D/ G B/ | B/A/G/ A D/ | E F/ E/D/C/ | D3/ D3/|]
+[V: P2]  [G,D] [G,/D/] [G,3/D3/] | [G,D] [G,/D/] [G,3/D3/] | [G,3/D3/] [G,3/D3/] | [G,D] [G,/D/] [G,3/D3/] | [G,D] [G,/D/] [G,3/D3/] | [G,D] [G,/D/] [G,3/D3/] | [G,3/D3/] [G,3/D3/] | [G,D] [G,/D/] [G,3/D3/] | [M: 9/8]  [G,3/D3/] [G,3/D3/] [G,3/D3/] | [M: 6/8]  [G,D] [G,/D/] [G,3/D3/] | [M: 9/8]  [G,3/D3/] [G,D] [G,/D/] [G,D] [G,/D/] | [G,D] [G,/D/] [G,3/D3/] [G,3/D3/] | [M: 6/8]  [G,3/D3/] [G,3/D3/] | [G,D] [G,/D/] [G,3/D3/] | [G,D] [G,/D/] [G,3/D3/] | [G,D] [G,/D/] [G,3/D3/] | [G,D] [G,/D/] [G,3/D3/]|]
+

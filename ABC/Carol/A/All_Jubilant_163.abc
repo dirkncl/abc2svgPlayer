@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All Jubilant With Psalm And Hymn
+Z: J. F. Bridge
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: E
+[V: P1]  B | e3/4 c/4 B G | B3/4 F/4 F G | E3/ G/ B3/4 c/4 | d2 B | f3/4 c/4 c d | e3/4 B/4 B B | d3/ G/ G/ ^A/ | B2 B | B3/4 G/4 F E | e3/4 c/4 B A | c3/ B/ A/ B/ | c2 F | G3/4 F/4 E F | G3/4 F/4 E F | A3/ G/ F/ G/ | F3 | [M: 6/8]  E3/4 F/4 G/ F/ E/ F/ | G A/ B3/ | E3/4 F/4 G/ (F/E/) F/ | G A/ B3/ | e3/ c B/ | (A3/4B/4 c/) B B/ | (e/d/ c/ A3/4B/4 c | B3/ B/)z/z/ | E/ F/ G/ F E/ | (A/B/) c/ (B A/) | (e/d/c/) B G/ | (A/G/) F/ E3/|]
+w: All ju- bi lant with psalm and hymn A- round the Throne they stand, Heav'n's Che- ru bim and Se- ra phim En- crown'd and harp in hand. Un- fold, un- fold, ye gates of gold, The fight shall now be won! He who by Pro- phets spake of old Now sends His on- ly Son. Glo- ry to God in the High- est be Now and for all_ e- ter ni ty; Peace, peace on earth,"__ peace on earth,_______ And all the star- ry wel-_ kin rang,"_ Good-__ will, good- will_ to men."
+

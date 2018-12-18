@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Awake, Each Heart, Rejoice And Sing
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  F/ | A B/ c f/ | e d/ c d/ | c B/ A B/ | A G/ F c/ | d d/ d d/ | c3/z c/ | d c/ d c/ | B A/ G A/ | B A/ G c/ | (=B/A/) B/ c c/ | d3/z c/ | d d/ (c3/ | c3/)z B/ | A F/ G G/ | (F3/ F)|]
+w: A- wake, each heart, re- joice and sing, Sa- lute the morn when Christ our King As- sumes our flesh and blood: Sin- ners, 'twas life for you and me When Christ par- took our mis-_ er y, All hail! the Sa- viour God,_ All Hail! the Sa- viour God._
+[V: P2]  F/ | F F/ F A/ | G F/ E F/ | F E/ F F/ | F E/ F F/ | F F/ F F/ | E3/ F3/ | F F/ F F/ | (D/E/) F/ E F/ | F F/ E F/ | G F/ E F/ | F3/z F/ | F F/ (F3/ | F3/)z F/ | E F/ D E/ | (C3/ C)|]
+[V: P3]  A,/ | C C/ C C/ | C =B,/ C D/ | F B,/ C D/ | C B,/ A, A,/ | (B,/A,/) B,/ (A,/G,/) F,/ | C3/ A,3/ | B, A,/ B, C/ | C C/ C C/ | B, C/ C C/ | D G,/ G, A,/ | B,3/z A,/ | B, B,/ (A,3/ | A,3/) F,3/ | A, A,/ (B,/A,/) G,/ | (A,3/ A,)|]
+[V: P4]  F,/ | F, G,/ A, F,/ | G, G,/ C B,/ | A, G,/ F, B,,/ | C, C,/ (D,/E,/) F,/ | D, D,/ B,, B,,/ | C,3/ F,3/ | B, F,/ B, A,/ | G, F,/ C, F,/ | (D,/E,/) F,/ (C/B,/) A,/ | G, G,/ C, F,/ | B,3/z F,/ | B, B,,/ (F,3/ | F,3/) D,3/ | ^C, D,/ B,, =C,/ | (F,3/ F,)|]
+

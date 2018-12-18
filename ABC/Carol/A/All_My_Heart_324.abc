@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All My Heart This Night Rejoices
+Z: H. W. Parke
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/2
+Q: 1/4=360
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  d2 d2 d3 c | B2 (A G) F2 F2 | D2 G2 F4 | C2 G2 F4 | c3 c c2 F2 | G4 F4 | e2 e2 e3 d | c2 (d c) B2 F2 | D2 G2 F4 | C2 G2 F4 | B3 B e2 (d c) | c2 B2|]
+w: All my heart this night re-_ joic es, As I hear, far and near, sweet- est an- gel voi- ces; "Christ is born," their choirs are_ sing- ing, Till the air, ev- ery where, now with joy is_ ring- ing.
+

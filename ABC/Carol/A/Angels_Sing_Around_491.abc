@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Angels Sing Around The Stall
+Z: J. M. Haydn
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=28
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  E/ | G B/ (B/A/) G/ | G F/ E/z/ E/ | (E/D/) E/ (B/A/) G/ | (G F/)z/z/ B/ | (B/=A/) G/ (G/F/) =E/ | _E e/ e =A/ | (B/c/) d/ (F/G/) =A/ | (=A B/)z/z/ B/ | (B/d/) B/ B B/ | (B/e/) B/ B/z/ B/ | (f/e/) d/ (c/B/) A/ | (A G/)z/z/ E/ | E c/ (B/G/) E/ | E c/ B/z/z/ e/ | (e/c/) A/ (G/A/) F/ | Ez G/ | A =A/ B _D/ | D D/ C c/ | (B/e/) G/ (B/A/) F/ | E3z/z/|]
+w: The An- gels sing_ a- round the stall Where Je-_ sus cra-_ dled lies,_ The shep-_ herds hear_ the joy- ful call, That wakes_ the si-_ lent skies._ Hark! to_ the mus- ic float-_ ing by, Ere yet_ its e-_ choes cease!_ Pour’d forth from An-_ gel’s min- strel sy, Is heard_ the song_ of peace, Pour’d forth from An- gel’s min- strel sy, Is heard_ the song_ of peace.
+

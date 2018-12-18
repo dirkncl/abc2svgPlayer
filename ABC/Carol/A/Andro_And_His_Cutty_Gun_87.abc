@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Andro and his cutty gun
+Z: Unknown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1] "^Refrain" B E3/4 F/4 | A/ A/ F/ D/ | B E3/4 F/4 | A/ F/ E | B E3/4 F/4 | A/ A/ F/ D/ | B E3/4 F/4 | A/ F/ E/"^Verse" F/ | D/ d/ d3/4 e/4 | d3/4 B/4 A/ d/ | B/ e/ e3/4 f/4 | e/ d/ c3/4 d/4 | A3/4 B/4 d3/4 e/4 | d3/4 B/4 A/ d/ | B3/4 d/4 A/ F/ | A/ F/ E|]
+w: Joy! joy! from ev- ery stee- ple; Joy! ring the bells to- morn; Joy! joy! for priest and peo- ple; Joy! God on earth is born. Ere break of day, on X- mas morn, Were herd- men by an An- gel told Where- in a man- ger He was born, Whom heav'n and earth can no- how hold.
+

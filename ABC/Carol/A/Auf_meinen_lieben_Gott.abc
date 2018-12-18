@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Auf Meinen Lieben Gott, 66.77.77
+Z: Secular melody, J. Regnart, 1574
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 2/4
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Auf meinen lieben Gott"
+V: P2_2
+%%MIDI program 2 91
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  | E [EB] | | | | | | | [DF] F | | | | | | | |||"^Refrain" | | | | | | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | E | | | | | | | F | | | | | | | |||"^Refrain" | | | | | | | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | | | | | G, [B,,G,] | (G, F,) | | | | G, F, ||| G, | [F,A,] G, | | | | G, [D,F,] | | (E, ^D,) ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | | | | | G, x1  | D,2 | | | | D,2 ||| G, | x1  G, | | | | G, x1  | | B,,2 ||]
+

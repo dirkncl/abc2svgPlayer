@@ -1,0 +1,30 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Awake, Ye Drowsy Mortals All`
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=72
+V: P1 name="Staff-1"
+%%MIDI program 1 9
+V: P2 name="Right Hand"
+%%MIDI program 2 19
+V: P3 name="Staff-2"
+%%MIDI program 3 60
+V: P4 name="Staff-3"
+%%MIDI program 4 57
+V: P5 name="Left Hand"
+%%MIDI program 5 58
+K: Bb
+[V: P1] z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z B F F | B, B F F | D F B, B | Azz2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | B,/B/A/G/ F/E/D/C/ | B,/B/A/G/ F/E/D/C/ | B,/B/A/G/ F/E/D/C/ | B, D/F/ Bz | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | D F2 F | F2 G B | B A/G/ F E | D/B/A/G/ F/E/D/C/ | B/A/G/F/ E/D/C/B,/ | F A F A | Gz cz | czz2 | z4 | z4 | z4 | z4 | B,z B, B, | Cz Cz | Cz C C | Dz Dz | Dz D D | Ez Fz |z F B, B | B A/G/ F/E/D/C/ | B,3|]
+[V: P2]  B2 | c c d e | d2 c2 | B3 B | d3/ d/ d d | c f f f | f2 =e2 | f3 F | B2 B2 | d2 d2 | f2 d2 | c3 F | (B/A/B/c/ d) d | c3/ c/ cz/ c/ | (c/B/c/d/ e) e | d3/ d/ dz/ d/ | (d/c/d/e/ f) f | e3/ e/ e e | (d f) (B e) | d2 c2 | B4 | B2 c3/ c/ | d2 e2 | d2 c2 | B3 B | d3/ d/ d d | c f f f | f2 =e2 | f3 F | B2 B2 | d2 d2 | f2 d2 | c3 F | B/A/B/c/ d2 | c3/ c/ cz/ c/ | c/B/c/d/ e2 | d3/ d/ d d | d/c/d/e/ f2 | e3/ e/ e e | (d f) (B e) | d2 c2 | B4 | B2 c3/ c/ | d2 e2 | d2 c2 | B3 B | d3/ d/ d d | c f f f | f2 =e2 | f3 F | B2 B2 | d2 d2 | f2 d2 | c3z | (B/A/B/c/ d) d | c3/ c/ c2 | (c/B/c/d/ e) e | d3/ d/ d2 | (d/c/d/e/ f) f | e3/ e/ e2 | (d f) B e | d2 c2 | B3|]
+[V: P3]  D2 | F F F G | (F B2) A | B3z | z4 |z2 F3/ F/ | F2 B2 | A3z | z4 |z2 F3/ F/ | F2 B2 | A3z | z4 | F3/ F/ Fz | z4 | F3/ F/ Fz | z4 | E3/ E/ G A | (B F) (F G) | F2 (F E) | D4 | F2 F3/ F/ | F2 G2 | (F B2) A | F3z | z4 |z A c A | (G A) (B c) | c3z | z4 | F2 F2 | B2 F2 | F3 F |z2 F F | F3/ G/ Az |z2 F F | F3/ F/ Fz |z2 B F | G3/ G/ A F | (B F) (F G) | F2 (F E) | D4 | D2 F3/ F/ | F2 G2 | (F B2) A | B3z | z4 |z A c A | (G A) (B c) | c3z |z2 F2 | F D F B | (d c) B2 | A3z |z2z F | F3/ G/ A2 | F2 G F | F3/ F/ F2 | F2 B F | G3/ G/ A2 | F2 F G | (F B2) A | F3|]
+[V: P4]  B,2 | A, A, B, B, | B,2 F2 | D3z | z4 |z C C C | C2 C2 | C3z |z2z F, | B,2 B,3/ B,/ | D2 F2 | F3z | z4 | A,3/ A,/ A,z | z4 | B,3/ B,/ B,z | z4 | G,3/ G,/ Cz |z D D B, | B,2 A,2 | F,4 | D2 A,3/ A,/ | B,2 B,2 | B,2 (F E) | D3z | z4 |z C C C | (B, A,) G,2 | A,3z |z2z F, | B,3/ B,/ B, B, | D2 B,2 | A,3z |z2 B, B, | A,3/ B,/ Cz |z2 C A, | B,3/ C/ D B, | B,/A,/B,/C/ D2 | C3/ C/ Cz |z D D B, | B,2 A,2 | B,4 | F,2 A,3/ A,/ | B,2 B,2 | B,2 (F E) | D3z | z4 |z C C C | (B, A,) G,2 | A,3z |z B, B, D | B,2 B,2 | (B, C) (D =E) | F3z | B,2 B, B, | A,3/ B,/ C2 |z2z A, | B,3/ B,/ B,2 | (B,/A,/B,/C/ D) D | E3/ E/ C2 |z D D B, | (B,2 F) E | D3|]
+[V: P5]  B,,2 | F, F, B, E, | F,2 F,,2 | B,,3z | z4 |z F, A, F, | C2 C,2 | F,3z | z4 |z2z F, | B,2 B,,2 | F,3z | z4 | F,3/ F,/ F,z | z4 | B,3/ B,/ B,z | z4 | G,3/ G,/ Cz |z B, B, E, | F,2 F,,2 | B,,4 | B,,2 F,3/ F,/ | B,2 E,2 | F,2 F,,2 | B,,3z | z4 |z F, A, F, | C2 C,2 | F,3z | z4 | z4 | B,2 B,,2 | F,3z |z2 B, B,, | F,3/ F,/ F,z |z2 F, F, | B,3/ B,/ B,z | z4 | z4 |z B, B, E, | F,2 F,,2 | B,,4 | B,,2 F,3/ F,/ | B,2 E,2 | F,2 F,,2 | B,,3z | z4 |z F, A, F, | C2 C,2 | F,3z |z B,, D, F, | B,2 B,2 | B,2 B,,2 | F,3z |z2z B, | F,3/ F,/ F,2 |z2z F, | B,3/ B,/ B,2 |z2z D | C3/ C/ F,2 | B,2 B, E, | F,2 F,,2 | B,,3|]
+

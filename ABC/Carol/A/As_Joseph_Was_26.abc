@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As Joseph Was A Walking
+Z: English Traditional
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  F2 | d B ^A c | B F2 B | B3/ A/ G B | F3 d | e3/ d/ c B | A d2 F | E G F E | F3 F | F B ^G c | c A2 ^G | A c B e | e2 c2 | d A B F | G2 G B | B d c ^A | B3|]
+w: As Jo- seph was a walk- ing, he heard an An- gel sing; His song was of the Com- ing of Christ, our Sa- viour King. The good man, long de- ject ed, had knelt to Him Who hears; The blest re- frain now swel- ling, re- moves his doubts and fears.
+

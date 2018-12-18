@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Auch Jetzt Macht Gott
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=108
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: F
+[V: P1] z3 [A,Fc] | [B,Fd] [G,/E/c/]B/ [FA] [DGB] | [CFA] [E/G/]B,/ [A,F] [G,CG] | [F/A/]=B/ [G,Ec] [A,Dc] [G,DB] | [G,3E3c3] [A,Fc] | [B,Fd] [G,/E/c/]B/ [FA] [DGB] | [CFA] [E/G/]B,/ [A,F] [G,CG] | [F/A/]=B/ [G,Ec] [A,Dc] [G,DB] | [G,3E3c3] [CEG] | [B,CEG] [A,C_GA] [=G,D=GB] [CGB] | [CGA] [CFA] [CEG] [C_Ec] | [CDF] [B,EG] [A,FA] [CFA] | [DFG] [C/E/G/]B,/ [A,2F2]|]
+[V: P2] z3 F, | B,, C, [D,F,] G,, | A,,/B,,/ C, F, E, | [D,F,] C, F,z | C,3 F, | B,, C, [D,F,] G,, | A,,/B,,/ C, F, E, | [D,F,] C, F,z | C,3 C, |z3 E, | F, F,, C, A,, | B,, G,, F,, A,, | B,, C, F,2|]
+

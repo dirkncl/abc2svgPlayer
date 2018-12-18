@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ash Grove, 12.11.12.11 D
+Z: Welsh melody
+Z: Public Domain
+Z: Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+L: 1/4
+M: 3/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Ash Grove, 12.11.12.11 D"
+V: P2_2
+%%MIDI program 2 91
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1]  D | [DG] [DB] (d/c/) | | [EA] (c/B/) (A/G/) | [DF] D3/ D/ | [DG] (B/A/) (G/F/) | | | [D2G2] D | [DG] [DB] (d/c/) | | [EA] (c/B/) (A/G/) | [DF] D3/ D/ | [DG] (B/A/) (G/F/) | | | | | | | | [GB] (G/A/) (B/c/) | | | [F2d2] D | [DG] [DB] (d/c/) | [DB] G [EG] | [EA] (c/B/) (A/G/) | [DF] D D | [DG] (B/A/) (G/F/) | | ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  D | x2  D | | x1  E E | x1  D3/ D/ | x1  D D | | | x2  D | x2  D | | x1  E E | x1  D3/ D/ | x1  D D | | | | | | | | x1  G | | | x2  D | x2  D | x1  G x1  | x1  E E | x1  D D | x1  D D | | ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  D, | | G, [B,,D] [E,B,] | | | | | | [G,2B,2] D, | [G,,B,] G, [F,A,] | G, [B,,D] [E,B,] | | | | | | [G,2B,2] G, | G, G, G, | G, G, G, | | | [G,D] (B,/C/) (D/E/) | | A, A, [A,,A,] | [D,2A,2] D, | [G,,B,] G, [F,A,] | G, [B,,D] [E,B,] | | [D,A,] F, F, | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  D, | | G, x2  | | | | | | x2  D, | x1  G, x1  | G, x2  | | | | | | x2  G, | G, G, G, | G, G, G, | | | x1  G, G, | | A, A, x1  | x2  D, | x1  G, x1  | G, x2  | | x1  (D,/E,/) (D,/C,/) | | | ||]
+

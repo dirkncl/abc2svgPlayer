@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Angels Singing, Church Bells Ringing
+Z: German
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1] "^1st Verse" (G B) d | e dz | (G A) B | c Bz | (A F) B | (A ^c) d | (A d) ^c | ^c2 d | (d/c/ B) A | c2 B | (B/A/ G) F | (A2 G) | (d/c/ B) A | c2 B | (B/A/ G) F | A2 G | B2 D | A2 D | B2 G | c2 c | (B/c/ d) G | A2 B | (c B) A | G3 |"^2nd-15th Verses" [M: 4/4]  d3/ d/ B d | e3/ d/ d2 | B3/ B/ A G | A3/ B/ B2|]
+w: An-_ gels sing- ing church_ bells ring- ing, Hol-_ ly twi-_ ning, Stars_ out- shin ing, Bright__ with smiles each child-__ ish face;_ Haste__ to meet Him glad-__ ly greet Him, Fall be- fore Him there a- dore Him, Born__ of Ma- ry, full_ of Grace. Tell us who is born to- day An- swer quick- ly, chil- dren, say?
+

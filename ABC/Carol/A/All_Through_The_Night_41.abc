@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All Through The Night
+Z: Old Welsh Air
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=95
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  A3/ G/ F A | B3/ A/ G E | F2 G3/ G/ | A4 | A3/ G/ F A | B3/ A/ G E | F2 G3/ G/ | A4 | d c d e | f e f e | d c B A | c3/ B/ A G | A3/ G/ F A | B3/ A/ G E | F2 G3/ G/ | A4|]
+w: Sleep, my child, and peace at- tend thee, All through the night Guar- dian an- gels God will send thee, All through the night Soft the drow- sy hours are creep- ing Hill and vale in slum- ber sleep- ing God his lov- ing vi- gil keep- ing, All through the night
+[V: P2]  C3/ E/ D E | =D3/ D/ E E | _D2 E3/ E/ | E4 | C3/ E/ D C | =D3/ F/ E E | F2 E3/ E/ | E4 | B A B c | d c B A | G A F A | A E E E | E3/ E/ D E | =D3/ D/ E E | D2 B,3/ E/ | E4|]
+[V: P3]  E,3/ A,/ A, A, | F, B, B, A, | (A, B,) B,3/ D/ | C4 | E,3/ A,/ A, A, | F, B, B, G, | (A, D/ C/) (B, E/) D/ | C4 | E, E, E, E, | E, F, G, A, | B, C D =D | E _D C B, | A,3/ A,/ A, A, | F, B, B, A, | A,2 D3/ D/ | C4|]
+[V: P4]  A,,3/ C,/ D, C, | B,,3/ B,,/ E, C, | (D, B,,) E,3/ E,/ | A,4 | A,,3/ C,/ D, F, | B,,3/ =D,/ E, E, | D,2 E,3/ E,/ | A,,4 | E, E, E, E, | E, E, E, E, | E, E, E, E, | E, E, E, (E,/_D,/) | C,3/ C,/ D, C, | B,,3/ B,,/ E, C, | D,2 E,3/ B,/ | A,4|]
+

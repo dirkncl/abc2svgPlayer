@@ -1,0 +1,16 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Amid The Silence
+Z: Polish Traditional
+Z: Public Domain
+L: 1/4
+M: 4/2
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: G
+[V: P1]  G2 A F G2 D2 | B B c A B2z2 | G2 A F G2 D2 | B B c A B2z2 | G B G B c A F D | G B G B c A F D | G G A A G2z2|]
+

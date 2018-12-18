@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As With Gladness Men Of Old
+Z: C. Kocher
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: A
+[V: P1]  A (G/A/) B A | d d c2 | F G A F | E E E2 | A (G/A/) B A | d d c2 | F G A F | E E E2 | c B A c | e3/ d/ c2 | F G A d | c B A2|]
+w: As with_ glad- ness, men of old Did the guid- ing star be- hold As with_ joy they hailed its light Lead- ing on- ward, beam- ing bright So, most gra- cious Lord, may we Ev- er more be led to Thee.
+[V: P2]  E E E E | D E E2 | D E E D | C B, C2 | E E E E | D E E2 | D E E D | C B, C2 | E E E E | E E E2 | D E E D | E3/ D/ C2|]
+[V: P3]  C (D/C/) B, C | A, B, A,2 | A, B, A, A, | A, G, A,2 | C (D/C/) B, C | A, B, A,2 | A, B, A, A, | A, G, A,2 | A, (E/D/) C A, | B, G, A,2 | A, B, A, A, | A, G, A,2|]
+[V: P4]  A, (B,/ A,/) G, A, | F, G, A,2 | D, D, C, D, | E, E, A,,2 | A, (B,/ A,/) G, A, | F, G, A,2 | D, D, C, D, | E, E, A,,2 | A, G, A, A, | G, E, A,,2 | D, D, C, F, | E, E, A,2|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All Hail To The Days
+Z: 18th Century (Durfey's Verses, 1719)
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=65
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  C/ | E3/4 D/4 C/ G c/ | B3/4 A/4 G/ e E/ | F G/ A3/4 B/4 A/ | (G3/ G) C/ | E3/4 D/4 C/ G c/ | B3/4 A/4 G/ e E/ | F G/ A3/4 B/4 A/ | (G3/ G) c/ | B3/4 G/4 E/ B c/ | A3/4 G/4 F/ A B/ | G3/4 F/4 E/ D C/4 C/4 | e3/z/ (d/ c/) | B3/4 G/4 E/ d e/ | A3/4 G/4 F/ A B/ | G3/4 F/4 E/ D3/4 C/4 D/ | (C3/ C)|]
+w: All hail to the days that mer- it more praise Than all the rest of the year,_ And wel- come the nights that dou- ble de- lights As well for poor as for peer._ Good for- tune at- tend each mer- ry man’s friend That doth but the best that he may, For-_ get ting old wrong in ca- rols and songs, To drive the cold win- ter a- way._
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Awake, Arise, Good Christians
+Z: Fred. Schilling
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F2 | G F B c | d2 c B | c G A F | B2z F | G F B d | f2 e c | B F d3/ c/ | B2z F | F e d c | (c B) A B | d c B c | d2 d d | e G A B | B2 F B | c3/ c/ B c | d2 d f | f e d c | (c B) A G | F B d3/ c/ | B2|]
+w: A- wake, a- rise, good Chris- tians, let no- thing you dis- may, Re- mem ber Christ our Sav- iour Was born up- on this day! The self- same moon was shin-_ ing, That now is in the sky, When a ho- ly band of an- gels Came down from God on high! When a ho- ly band of an-_ gels Came down from God on high.
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Alleluia Dulce Carmen
+Z: Essay on the Church Plain Chant, 1782
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=340
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: A
+[V: P1]  A2 B2 c2 d2 | e2 d2 c2 B2 | A2 A2 A2 d2 | c2 B2 A4 | F2 F2 E2 E2 | A2 A2 A2 G2 | B2 e2 c2 A2 | G2 F2 E4 | G2 G2 A2 E2 | F2 G2 A2 B2 | (c B) (A G) F2 d2 | c2 B2 A4|]
+w: Word su- preme, be- fore cre- a tion Born of God e- ter nal ly, Who didst will for our sal- va tion To be born on earth, and die; Will thy Saints have kept their sta- tion, Wat-_ ching_ till thine hour drew nigh.
+[V: P2]  E2 E2 E2 A2 | G2 (F E) E2 E2 | C2 E2 F2 F2 | E3 D C4 | D2 D2 C2 C2 | C2 E2 E2 E2 | E2 E2 E2 (E F) | E2 ^D2 E4 | E2 E2 E2 A,2 | F2 ^E2 F2 G2 | A2 E2 D2 F2 | E3 D C4|]
+[V: P3]  C2 G,2 A,2 A,2 | B,2 (A, B,) A,2 G,2 | A,2 A,2 A,2 A,2 | A,2 G,2 A,4 | A,2 A,2 (A, B,) (C D) | E2 C2 C2 B,2 | G,2 B,2 C2 C2 | B,3 A, G,4 | B,2 B,2 A,2 A,2 | A,2 C2 C2 E2 | E2 A,2 A,2 A,2 | A,2 G,2 A,4|]
+[V: P4]  A,2 E,2 A,2 F,2 | E,2 (F, G,) A,2 E,2 | F,2 C,2 D,2 B,,2 | E,2 E,2 A,,4 | D,2 D,2 A,,2 A,,2 | (A,, B,,) (C, D,) E,2 E,2 | E,2 G,2 A,2 A,,2 | B,,2 B,,2 E,4 | E,3 D, C,2 C,2 | D,2 C,2 F,2 E,2 | A,2 C,2 D,2 B,,2 | (C, D,) E,2 A,,4|]
+

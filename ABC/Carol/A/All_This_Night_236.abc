@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All_This_Night_236
+Z: Arthur S. Sullivan
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d e d B | A3/ B/ G2 | A B c e | d A A2 | d e d B | A3/ B/ G2 | A e A f | e ^c d2 | B A A G | d c c B | F ^G ^A B | ^c ^d B2 | B B B c | B3/ A/ G2|]
+w: All this night bright an- gels sing, Nev- er was such car- ol ing, Hark! a voice which loud- ly cries, "Mor- tals, mor- tals, wake and rise. Lo! to glad- ness turns your sad- ness; From the earth is ris'n a Son, Shines all night tho' day be done.
+

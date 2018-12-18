@@ -1,0 +1,21 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Although At Yule It Bloweth Cool
+Z: Der wind der wet, der han der kret, 1554
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+K: C
+[V: P1]  G | d2 d d2 G | d2 d d2 d | c2 d e2 e | d3 B2 B | B2 B B2 B | d2 d A2 A | A2 c B2 A | G3 G2|]
+w: Al- though at Yule it blow- eth cool, And frost doth grip the fin- gers, And nip the nose, and numb the toes, Of out- door Ca- rol sing- ers
+[V: P2]  G | B2 G ^F2 G | (B A) G ^F2 G | A2 B (c B) A | B3 G2 E | D2 E G2 E | (B, A,) B, D2 F | (C D) E D (E ^F) | G3 G2|]
+

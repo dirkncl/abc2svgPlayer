@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Away! With Loyal Hearts
+Z: J. B. Gray
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  E/ | A c/ (B/A/) ^G/ | A F/ E E/ | (A/^G/) A/ (c/B/) A/ | (e3/ e) e/ | g g/ (c/d/) e/ | f f/ (B/c/) d/ | (e/A/) d/ c B/ | (A3/ G) E/ | E ^D/ E F/ | A G/ G G/ | A B/ c d/ | (c3/ B) G/ | (G/A/) B/ (c/d/) e/ | f f/ e e/ | (e/d/) c/ (B/A/) G/ | (c3/ c) c/ | (c/e/) d/ c B/ | (c3/ c)|]
+w: A- way! with loy-_ al hearts and true, O'er hill_ and dale_ they press'd._ Full four- some wea-_ ry miles to do_ The Cae-_ sar's high be- hest;_ And Ma- ry sang "Mag- ni fi can," Her own, her an- cient song,_ For well_ wist she_ that God's de- cree Was bear-_ ing her_ a- long,_ Was bear-_ ing her a- long._
+

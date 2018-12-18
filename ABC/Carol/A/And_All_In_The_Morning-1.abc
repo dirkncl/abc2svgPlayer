@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: And All In The Morning
+Z: Collected by R. Vaughan Williams
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  A A | (A c) B A | G2 c B | A A D2 | E3 B | c2 e e | d2 c B | A c (B A) | B3 B | c2 e2 | d2 (c B) | (A c) (B A) | E2 c B | (A ^G) A D | (E c) B3/ A/ | (A4 | A)|]
+w: It was on_ Christ- mas day, And all in the morn- ing, Our Sav- iour was born, And our Hea- ven ly_ King; And was not this a_ joy-_ ful_ thing, And sweet Je-_ sus they called_ Him by name._
+

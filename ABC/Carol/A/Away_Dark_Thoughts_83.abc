@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Away, Dark Thoughts, Awake My Joys
+Z: Mr. Arthur Henry Brown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=186
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  G/ | (A/ B/) G/ (A/ B/) G/ | A3/ f/ e d/ | c d/ A B/ | (c3/ c) G/ | (A/ B/) G/ (A/ B/) G/ | A c/ f e/ | d d/ c =B/ | c"^Chorus" C/ E G/ | A3/ =B3/ | (c3/ c/)"^Trebles." c/ | A B/ G c/ | A B/ G D/ | G B/ A G/ | (d3/ d) d/ | _e B/ B c/ | d B/ F G/ | G A/ B c/ | F"^Chorus" f/ d B/ | G3/ A3/ | (B3/ B/)z/z/ |"^Chorus after each verse." (A/G/F/) B3/ | (A/G/F/) B3/ | (A/ G/) F/ c f/ | e d/ cz/ | (A/G/F/) B3/ | (A/G/F/) f3/ | F G/ (A/ B/) c/ | d3/ c3/ | (A3/ A/)z/|]
+w: A- way,_ dark thoughts,_ a- wake my joys, A- wake, in glo- ry sing_ A song_ to ce-_ le brate the birth Of Christ our God and King, Of Christ our God and King._ O hap- py night that brought forth light Which makes the blind to see;_ The Day- spring from on high came down To cheer and vis- it thee. To cheer and vis- it thee._ No-__ el, No-__ el, Loud-_ ly let the wel- come ring! No-__ el, No-__ el, On the Birth-_ day of our King!_
+

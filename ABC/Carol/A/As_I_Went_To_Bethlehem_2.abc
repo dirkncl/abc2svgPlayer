@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As I Went To Bethlehem
+Z: "As I Went To Walsingham"
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  c/ d/ e d | c A E | c/ d/ e d | c3 | B3/4 c/4 d/ d/ e/ d/ | c A E | B/ c/ d (c/B/) | A3|]
+w: As I went to Beth- le hem, Ere the dawn of day, Met I with a knot of shep- herd men On their home- ward_ way.
+[V: P2]  E/ G/ G F | E (E/D/) C | F/ A/ G G | G3 | G3/4 G/4 A/ A/ E/ E/ | E E E | F/ E/ D E | E3|]
+[V: P3]  A,/ B,/ C A, | (A,/B,/) (C/D/) E | A,/ A,/ C B, | E3 | D3/4 D/4 A,/ A,/ ^G,/ G,/ | (A,/B,/) (C/B,/) A, | D/ C/ A, ^G, | (A,/B,/ ^C2)|]
+[V: P4]  A,/ G,/ C, D, | A, A, A, | F,/ F,/ (E,/F,/) G, | C,3 | G,3/4 G,/4 F,/ F,/ E,/ E,/ | A, (A,,/B,,/) C, | D,/ E,/ F, E, | A,,3|]
+

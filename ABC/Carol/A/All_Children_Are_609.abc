@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All Children Are On Christmas Eve
+Z: Traditional
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  (B/c/) | d c B (A/G/) | c B A G | F E B B | E3 (B/c/) | d c B (A/G/) | c B A G | F E B B | E3 F | G3/ F/ G (A/B/) | A G F D | G G d A | B3 e | d e B (A/G/) | c B A G | F E B B | E3 F | G3/ F/ G (A/B/) | A G F D | G G d A | B3 e | d e B (A/G/) | c B A G | F E B c | E3|]
+w: All_ Child- ren are on_ Christ- mas Eve As bu- sy as can be; They_ hang their lit- tle_ stock- ings up For San- ta Claus to see. How ve- ry care- ful_ they must be To have them stout and strong; For San- ta Claus has_ many a toy, To please this mer- ry throng. Hush! Hark! I hear the_ tiny rein- deer Come patter- ing on the snow; Now quick- ly get you_ in- to bed, or else a- way they'll go.
+

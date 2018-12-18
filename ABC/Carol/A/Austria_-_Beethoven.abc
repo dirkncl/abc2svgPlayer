@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Austria
+Z: Ludvig van Beethoven
+Z: Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=115
+V: P1 name="Right Hand"
+%%MIDI program 1 0
+V: P2 name="Austria (Beethoven)"
+%%MIDI program 2 91
+V: P3 name="Austria (Beethoven)-2"
+%%MIDI program 3 91
+K: C
+[V: P1]  G G [Gc] | [Gc] [Ac] e | [Ae] [Af] A | [A/d/]c/ [Ac] B | G G [Gc] | [GB] [Gc] [Bd] | [ce] [dg] [df] | [ce] [B2d2] | [Bd] [ce] c | [c/g/]e/ [Bd] G | [Bd] [ce] c | [c/g/]e/ [B2d2] | [ce] [cf] [cg] | [ca] [cg] c | [A/f/]B/ [ce] c | [Bd] c2|]
+[V: P2]  [CE] [CE] [CE] | [CE] [A,E] C | [A,C] C C | D E D | B, C [EG] | [EG] [EG] D | [CG] [B,G] [B,G] | [CG] G2 | G [CG] [A,A] | G G G | G [CG] [A,A] | G G2 | [CG] [A,F] E | F G G | F G A | G/F/ E2|]
+[V: P3] z3 |z3 |z F, F, | F, G,2 | F, E,z |z3 |z3 |z G,2 | G,z2 | E, G, G, | G,z2 | E, G,2 |z2 G, | F, E, E, | D, C, F, | G, C,2|]
+

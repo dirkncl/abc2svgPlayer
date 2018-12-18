@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All This Night Bright Angels Sing
+Z: Arthur S. Sullivan
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  c3/ G/ B A | A3/ G/ G2 | d ^A c B | B3/ A/ A2 | e3/ e/ d c | c3/ B/ B2 | B c ^d f | f3/ e/ (B ^B) | c3/ G/ B A | A3/ F/ A G | d3/ ^A/ c B | B3/ A/ A2 | e3/ e/ d c | c3/ B/ B2 | A f e c | B3 c | A4|]
+w: All this night bright an- gels sing, Nev- er was such car- ol ing, Hark! a voice which loud- ly cries, "Mor- tals, mor- tals, wake and rise._ Lo! to glad- ness turns your sad- ness; From the earth is ris'n a Son, Shines all night tho' day be done._______
+

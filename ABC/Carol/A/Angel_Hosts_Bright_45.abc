@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Angel Hosts In Bright Array
+Z: Rev. George P. Grantham
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  d3/ c/ B B | (B/A/) (G/F/) G2 | A3/ B/ c B | B2 A2 | B3/ A/ G F | G A B2 | e3/ d/ ^c c | d2 d2 | d3/ e/ d c | B A G2 | A3/ B/ (c/B/) (A/G/) | (G3/ F/) F2 | G3/ A/ B A | B e d2 | c B A G | (F3/ G/) G2 |"^Chorus" A3/ A/ A A | B3/ B/ B2 | c B A G | (G3/ F/) F2 | G3/ A/ B A | B e d2 | c B A G | (F3/ G/) G2|]
+w: An- gel hosts in bright_ ar-_ ray, Stars their night- watch keep- ing, Earth- ward wend their si- lent way, While the world lies sleep- ing. Through the win- try clouds they glide, On through por-_ tal_ hoa-_ ry, Where, the ox and ass be- side, Lies the Babe of Glo-_ ry. Ring the bells, and sound the horn! Shout with ex- ul ta_ tion! Christ the Lord to- day is born For the world's sal- va_ tion!
+

@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As Joseph And Mary Were A-Walking The Green
+Z: American Traditional
+Z: Copyright © 2006 Douglas D. Anderson
+Z: Released To The Public Domain`
+L: 1/4
+M: 3/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+K: D
+[V: P1]  (A/ B/) | d B (A/ d/) | A G =c/ c/ | d B d | B3 | (G/ A3/) B | G D (D/ E/) | G D D/ E/ | G D E | B2 B/ A/ | G D (D/ E/) | G D D/ E/ | G E E | D2|]
+w: As_ Jo- seph and_ Ma- ry were a- walk ing the green, They_ was ap- ples and_ cher- ries plen- ty there to be seen. They was ap- ples and_ cher- ries plen- ty there to be seen.
+

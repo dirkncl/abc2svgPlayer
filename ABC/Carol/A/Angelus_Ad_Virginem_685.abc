@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Angelus Ad Virginem
+Z: Thirteenth Century
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/2
+Q: 1/4=480
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  e2 c2 e2 e e | d2 c2 B2 B2 | c2 A2 d2 (c B c) | A4 A4 | e2 c2 e2 e2 | d2 c2 B2 B2 | c2 A2 d2 (c B c) | A4 A2 B2 | d2 (c B) c2 A2 | (B c) B2 A2 B2 | d2 (c B) c2 A2 | B2 B2 E2 F2 | A2 G2 F2 G2 | A2 (G F) A2 (c d) | B2 B4 E2 | F2 E2 (E D) E2 | E6 F2 | A2 (G F) A2 (B c d) | B2 B4 E2 | F2 E2 (D C) (C D) | (E4 E4)|]
+w: Came th' Arch- an gel to the Maid Of low- ly mien and__ sta- tion, And her mai- den fears al- layed With court- eous sal- u__ ta tion; "Hail! Queen of_ Vir- gins pure_ and fair, The Lord of_ all things thou shalt bear; The Ho- ly One Shall be thy_ Son Im-_ mor tal, Man's mor- tal lot_ to share; And thou art_ Heav'n's high__ Por- tal, That man may en-_ ter_ there."_
+

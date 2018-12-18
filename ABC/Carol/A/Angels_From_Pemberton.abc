@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Angels, From The Realms Of Glory
+Z: Pemberton Pierce, 1884
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  G A B3/ c/ | (B/A/) (A/B/) A G | c d e3/ B/ | (A/B/) (G/A/) F2 | G A B3/ c/ | (B/A/) (A/B/) A G | =A A B3/ c/ | (d/c/) (B/=A/) Bz |"^Chorus" f3/ e/ e d | d3/ e/ e f | g e c3/ A/ | G F E2|]
+w: An- gels from the realms_ of_ glo- ry, Wing your flight o'er all_ the_ earth; Ye who sang cre- a_ tion's_ sto- ry Now pro- claim Mes- si_ ah's_ birth. Come and wor- ship, come and wor- ship Wor- ship Christ, the new- born King.
+[V: P2]  E F G3/ A/ | (G/F/) (F/G/) F E | E A G3/ G/ | F E D2 | E F G3/ A/ | (G/F/) (F/G/) F E | F F F3/ G/ | F (F/E/) Dz | A3/ A/ A A | A3/ A/ A A | G B A3/ F/ | E D E2|]
+[V: P3]  B, B, B,3/ B,/ | B, B, B, B, | A, B, B,3/ B,/ | B, B, B,2 | B, B, B,3/ B,/ | B, B, B, B, | C C B,3/ B,/ | (B,/E/) (D/C/) B,z | D3/ E/ E F | F3/ E/ E D | E E E3/ C/ | B, A, G,2|]
+[V: P4]  E, E, E,3/ E,/ | B,, B,, E, E, | A, F, E,3/ E,/ | D, E, B,,2 | E, E, E,3/ E,/ | B,, B,, E, E, | E, E, D,3/ E,/ | F, F, B,,z | B,3/ C/ C B, | B,3/ C/ C B, | E, G, A,3/ A,/ | B, B,, E,2|]
+

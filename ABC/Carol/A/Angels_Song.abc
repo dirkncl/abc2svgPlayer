@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Angel's Song
+Z: O. Gibbons, 1583-1625
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  F2 F F | G2 A2 | B G c2 | [M: 3/4]  F A B | c2 G | c2 =B | c3 | A B c | d2 c | B2 A | G3 | c B A | G2 F | A G2 | F3|]
+w: Cre- a tor of the stars of night, Thy peo- ple’s ev- er last ing Light; Je- su, Re- deem er, save us all, And hear thy ser- vants when they call
+[V: P2]  C2 C C | E2 F2 | F E F2 | [M: 3/4]  F F F | G2 G | D2 D | E3 | F F (G/A/) | B2 A | (A G) F | E3 | F F F | E2 D | F (F E) | F3|]
+[V: P3]  A,2 A, A, | C2 C2 | B, B, A,2 | [M: 3/4]  A, C D | E2 C | (A, G,) D | C3 | C F _E | D2 =E | (F C) C | C3 | C D C | (C B,) A, | C C2 | A,3|]
+[V: P4]  F,2 F, F, | C2 A,2 | G, G, F,2 | [M: 3/4]  F, F, D, | C,2 E, | (F, G,) G, | C,3 | F, D, C, | B,,2 C, | (D, E,) F, | (C,2 B,,) | A,, B,, F, | C,2 D, | A,, C,2 | F,3|]
+

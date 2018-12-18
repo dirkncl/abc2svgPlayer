@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As I Sat On A Sunny Bank
+Z: Traditional Cornish Version From Ralph Dunstan
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: A
+[V: P1]  E/ | A A/ A c/ | e c/ A A/ | B B/ B A/ | G F/ E E/ | A A/ A c/ | e c/ A A/ | B B/ G/ F/ G/ | A3/ A|]
+w: As I sat on a sun- ny bank, A sun- ny bank, a sun- ny bank, As I sat on a sun- ny bank On Christ- mas Day in the morn- ing.
+[V: P2]  E/ | E E/ F A/ | G G/ F F/ | F F/ F F/ | E B,/ B, E/ | E E/ F A/ | G G/ F F/ | F F/ E/ E/ E/ | (E F/) E|]
+[V: P3]  E,/ | C C/ C C/ | C E/ C C/ | D D/ D C/ | B, A,/ G, B,/ | C C/ C C/ | C E/ C C/ | D D/ B,/ A,/ B,/ | (C D/) C|]
+[V: P4]  E,/ | A, A,/ F, F,/ | C, C,/ F, F,/ | D, D,/ B,, B,,/ | E, E,/ E, G,/ | A, A,/ F, F,/ | C, C,/ F, F,/ | D, D,/ E,/ E,/ E,/ | A,,3/ A,,|]
+

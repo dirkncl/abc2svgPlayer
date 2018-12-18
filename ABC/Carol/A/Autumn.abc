@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Autumn
+Z: Francois H. Barthelemon
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/2
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  A3/ B/ | c3 B A3/ F/ | E2 C2 A3/ B/ | c3 B c e | B2z2 A3/ B/ | c3 B A3/ F/ | E2 C2 A3/ f/ | e3 c B3/ c/ | A4 c3/ d/ | (e2 e3/) f/ e3/ c/ | e2 c2 A3/ B/ | (c2 d) c B A | (A2 G2) A3/ B/ | c3 B A3/ F/ | E2 C2 A3/ f/ | e3 c B3/ c/ | A4|]
+[V: P2]  C3/ D/ | E3 C D3/ D/ | C2 A,2 E3/ E/ | E3 E E A | G2z2 C3/ E/ | E3 E F3/ D/ | C2 C2 D3/ F/ | c3 E D3/ E/ | C4 E3/ E/ | (A2 A3/) A/ A3/ E/ | A2 E2 E3/ E/ | (E2 F) E D C | (B,2 D2) C3/ E/ | E3 E F3/ D/ | C2 C2 D3/ F/ | c3 E D3/ E/ | C4|]
+[V: P3]  E,3/ E,/ | E,3 E, F,3/ A,/ | A,2 E,2 A,3/ G,/ | A,3 G, A, B, | E2z2 A,3/ A,/ | A,3 A, A,3/ A,/ | A,2 A,2 F,3/ A,/ | C3 A, G,3/ G,/ | A,4 A,3/ B,/ | (C2 C3/) D/ C3/ A,/ | C2 A,2z2 | z6 | z4 A,3/ A,/ | A,3 A, A,3/ A,/ | A,2 A,2 F,3/ A,/ | C3 A, G,3/ G,/ | A,4|]
+[V: P4]  A,,3/ A,,/ | A,,3 A,, A,,3/ A,,/ | A,,2 A,,2 C,3/ E,/ | A,3 E, C, A,, | E,2z2 A,,3/ A,,/ | A,,3 C, D,3/ F,/ | A,2 A,,2 D,3/ D,/ | E,3 E, E,3/ E,/ | A,,4 A,,3/ A,,/ | (A,2 A,3/) A,/ A,3/ A,/ | A,2 A,,2 C,3/ D,/ | A,3 A, D, =D, | E,4 A,,3/ A,,/ | A,,3 C, D,3/ F,/ | A,2 A,,2 D,3/ D,/ | E,3 E, E,3/ E,/ | A,,4|]
+

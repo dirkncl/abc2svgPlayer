@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As I Sat On A Sunny Bank
+Z: English Traditional; Version 1 from Sharp
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=95
+V: P1 name="Church Organ"
+%%MIDI program 1 60
+V: P2 name="Staff-1"
+%%MIDI program 2 58
+V: P3 name="French Horn"
+%%MIDI program 3 0
+V: P4 name="Trombone"
+%%MIDI program 4 0
+K: F
+[V: P1] zz/ |zz/z F/ | F F/ (F/ G/) A/ | (A/ G/) F/ G G/ | G G/ (G/ A/) B/ | (A/ G/) F/ G G/ | c c/ (c/ d/) c/ | (c/ B/) A/ G F/ | F A/ c B/ | A/ G/ E/ Fz/ |zz/z F/ | F F/ (F/ G/) A/ | (A/ G/) F/ G G/ | G G/ (G/ A/) B/ | (A/ G/) F/ G G/ | c c/ (c/ d/) c/ | (c/ B/) A/ G F/ | F A/ c B/ | A/ G/ E/ Fz/ |zzzz|]
+w: As I sat on_ a sun-_ ny bank, As I sat on_ a sun-_ ny bank, As I sat on_ a sun-_ ny bank, On Christ- mas Day all in the morn- ing. I saw three ships_ come sail-_ ing home, I saw three ships_ come sail-_ ing home, I saw three ships_ come sail-_ ing home, On Christ- mas Day all in the morn- ing.
+[V: P2] zz/ |zz/zz/ | F/ F/ F/z/z/z/ |z/z/z/ G3/ | G/ G/ G/z/z/z/ |z/z/z/ G3/ | c/ c/ c/z/z/z/ |z/z/z/z/z/z/ |z/z/z/z/z/z/ |z/z/z/z/z/z/ |z/z/z/z/z/z/ | F/ F/ F/z/z/z/ |z/z/z/ G3/ | G/ G/ G/z/z/z/ |z/z/z/ G3/ | c/ c/ c/ c/ d/ c/ |z/z/z/z/z/z/ |z/z/z/z/z/z/ |z/z/z/z/z/z/ |zzzz|]
+[V: P3]  (C/F/A/ | c) (A/ G/F/D/ | [A,3/)F3/)] [F3/c3/] | [(B,3/(D3/] [F3/)B3/)] | [(D3/(F3/(G3/] [E3/)B3/)] | [(C3/(A3/] [C)E)]z/ | [(C3/(F3/] [F3/)c3/)] | [(D3/(B3/] [F3/)G3/)] | [(F3/(A3/] [C3/F3/] | [DF] [E/)G/)] (C/ [F/B/] A/ | B) (A/ G/F/D/ | [A,)F)]z/ [(F(c] C/) | [(D(G] B,/) [(D(B] B,/) | [(E(G] C/) [(E(c] C/) | [(F(A] C/) [(E(G] C/) | [(F(c] C/) [(c(f] A/) | [(F(G] D/ [G)d)] (F/ | [F3/)c3/)] [(F3/(B3/] | [EA] [E/)G/)] (f/c/A/ | D/A/D/ G/C/B,/ A,)|]
+[V: P4] zz/ | (F,,/C,/F,/ [B,,3/)F,3/)] | (F,,3/ A,3/) | (G,,3/ [G,3/)D3/)] | [(B,,3/(G,3/] [G,3/)C3/)] | [(F,,3/(F,3/] [C,)G,)]z/ | [(A,,3/(F,3/] [D,3/)A,3/)] | [(G,,3/(G,3/] [B,3/)D3/)] | (C3/ [C,3/A,3/] | [C,3/)B,3/)] [(F,,3/(C,3/(A,3/] | [F,,3/)C,3/)A,3/)] [B,,3/F,3/] | (F,, C,/ A, C,/) | (F,, D,/ G, D,/) | F,, C,/ G, C,/ | (F,, F,/) (C, G,/) | (A,, F,/ A, F,/) | (B,, G,/ B,)z/ | [C,3/A,3/] [C,3/D3/] | [C,C] [C,/B,/] [F,,3/C,3/A,3/] | [B,,3/F,3/] [C,3/E,3/] F,,|]
+

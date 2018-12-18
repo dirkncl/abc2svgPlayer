@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All You That Are Good Fellows
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Tuba"
+%%MIDI program 3 58
+K: C
+[V: P1]  G | c G c d | e2 d B | c A G B | c3 G | c G c d | e e d B | c A G B | c3 c | d3/ e/ f e | d3 A | d3/ c/ B A | G3 g | e c d B | c A G c | A F E G | c3|]
+w: All you that are good fel- lows, Come hear- ken to my song; I know you do not hate good cheer, Nor li- quor that is strong. I hope there is none here But soon will take my part, See- ing my mas- ter and my dame Say wel- come with their heart.
+[V: P2]  G | E G E G | c2 G [DG] | [CG] [CF] [B,D] [DF] | [C3E3] [B,D] | [CG] G E [GB] | [G2c2] B F | E F E D | [E3G3] E | [G3/B3/] c/ [Gd] [Gc] | [^F3A3] [DF] | [D3/G3/] [E/G/] [DG] [C^F] | B,3 [Gd] | [Gc] G A F | E F E [CG] | [CF] C C [B,D] | [C3E3]|]
+[V: P3] z | C,,2 [E,C] [G,D] | [C2E2] [G,D] [F,,F,] | [E,,E,] [F,,F,] [G,,G,] [G,,,G,,] | [C,,C,] A,, G,, F,, | E,,2 A,, G,, | C, E, G, G,, | A,, F,, G,, G,, | C,,3 B,, | G,,3 C, | D,3/ E,/ D, C, | B,,3/ C,/ D, D, | G,3/ ^F,/ G, B,, | C, E, =F, G, | A, F, C E, | F, D, G,2 | C,3|]
+

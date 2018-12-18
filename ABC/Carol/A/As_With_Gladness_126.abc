@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As With Gladness, Men Of Old
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  E/ F/ | G3/ F/ A/ F/ | Gz B/ c/ | d3/ d/ d/ c/ | Bz B/ d/ | e3/ G/ A/ c/ | Fz G/ B/ | c3/ E/ F/ A/ | F3 | [M: 4/4]  E2 E2 | E2 B2 | e2 c2 | B4 | B2 B2 | B2 A2 | F2 F2 | E4|]
+w: As with glad- ness, men of old Did the guid- ing star be- hold As with joy they hailed its light Lead- ing on- ward, beam- ing bright So, most grac- ious Lord, may we E- ver more be led to Thee.
+

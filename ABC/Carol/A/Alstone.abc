@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Alstone, LM
+Z: Christopher Edwin Willing (1830-1904)
+Z: Public Domain, Courtesy of the Cyber Hymnal
+L: 1/4
+M: 4/4
+Q: 1/4=115
+V: P1 name="Staff"
+%%MIDI program 1 0
+V: P2 name="Alstone, LM"
+%%MIDI program 2 91
+K: C
+[V: P1]  [(C(G] | [C3/G3/] [C/A/] [CG] [Cc] | [CE] [B,D] C [B,D] | [C3/E3/] [B,/F/] [CG] [CA] | [CG] [CE] [B,)D)] [(B,(G] | [C3/G3/] [C/A/] [CG] [Ec] | [Ge] [Fd] [Ec] [FA] | G3/ [F/A/] [FB] [Ec] | [CE] [B,D] C)|]
+[V: P2]  [(C,(E,] | [C,3/E,3/] [C,/F,/] [C,E,] [E,G,] | G, [G,,F,] [A,,E,] [G,,G,] | [C,3/G,3/] [D,/G,/] [E,G,] F, | [E,G,] [C,G,] [G,,)G,)] (G, | [E,3/G,3/] F,/ [E,G,] A, | [G,C] [G,B,] [A,C] [F,C] | [E,3/C3/] [F,/C/] [D,F,] [C,G,] | G, [G,,F,] [C,)E,)]|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All In The Silent Night
+Z: I. H. Meredith
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=110
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F/ =E/ F/ d d/ | (c3/ c3/) | F/ =E/ F/ c c/ | (B3/ B3/) | F/ =E/ F/ B B/ | (A3/ A3/) | F/ A/ c/ e e/ | (d3/ d3/) | F/ =E/ F/ d d/ | (c3/ c3/) | F/ =E/ F/ c c/ | (B3/ B3/) | B/ A/ G/ (B/A/) G/ | (F3/ d3/) | c/ G/ d/ (c/F/) c/ | (B3/ B3/) |"^Chorus" d3/ F3/ | F/ B/ d/ f3/ | e3/ G3/ | G/ c/ e/ g3/ | A/ A/ A/ A/ G/ F/ | c c/ c3/ | G/ G/ G/ G/ F/ B/ | d d/ d F/ | d3/ F3/ | F/ B/ d/ f3/ | e3/ G3/ | G/ c/ e/ g3/ | A/ A/ A/ (A/ G/) F/ | c c/ c e/ | d/ F/ d/ (c/ F/) c/ | (B3/ B)z/|]
+w: All in the si- lent night,_ Num- ber less an- gels bright_ Came on their wings of light,_ Throng- ing the deep blue sky;_ Beau- ti ful songs they sang,_ Won- der ful echo- es rang;_ Glo- ry to Christ_ our King,_ Glo- ry to God_ on high._ Glo- ry, Glo- ry to God! Glo- ry, Glo- ry to God, Glo- ry, all glo- ry to God on high! Let ev- 'ry lis- ten ing heart re- ply; . Glo- ry, Glo- ry to God! Glo- ry, Glo- ry to God, Far let the joy-_ ful tid- ings fly; All glo- ry to God_ on high!_
+[V: P2]  D D/ D [D/F/] | [EF] [E/F/] [EF] [E/F/] | E E/ _E E/ | D D/ D D/ | D D/ D D/ | E E/ E E/ | F F/ F F/ | F F/ [DF] [D/F/] | D D/ F F/ | =E E/ E E/ | E _E/ E E/ | D D/ D D/ | G/ F/ E/ (G/F/) E/ | D D/ D D/ | =E E/ _E E/ | D E/ D3/ | D D/ D D/ |z3/z3/ | [EG] [E/G/] E E/ |z3/z3/ | E E/ E E/ | E E/ E3/ | D D/ D D/ | D D/ D [D/F/] | D D/ D D/ |z3/z3/ | [EG] [E/G/] E E/ |z3/z3/ | E E/ E E/ | E E/ E F/ | F/ [D/F/] F/ F F/ | (D E/ D)z/|]
+[V: P3]  B, B,/ B, B,/ | A, A,/ A, A,/ | A, A,/ A, A,/ | B, B,/ B, B,/ | F, F,/ F, F,/ | F, F,/ F, F,/ | A, A,/ (A,/B,/) C/ | B, B,/ B, B,/ | B, B,/ =B, B,/ | _B, B,/ B, B,/ | A, A,/ A, A,/ | B, B,/ B, B,/ | B, B,/ B, B,/ | B, B,/ B, B,/ | B, B,/ A, A,/ | B, G,/ F,3/ | B, B,/ B, B,/ | D D/ D D/ | C C/ C C/ | E E/ E E/ | C C/ (C/B,/) A,/ | A, A,/ A,3/ | B, B,/ B, B,/ | B, B,/ B, B,/ | B, B,/ B, B,/ | D D/ D D/ | C C/ C C/ | E E/ E E/ | C C/ (C/B,/) A,/ | A, A,/ A, C/ | B, B,/ A, A,/ | (B, G,/ F,)z/|]
+[V: P4]  [B,,F,] [B,,/F,/] [B,,F,] [B,,/F,/] | [F,A,] [F,/A,/] [F,A,] [F,/A,/] | F, F,/ F, F,/ | [B,,F,] [B,,/F,/] [B,,F,] [B,,/F,/] | B,, B,,/ B,, B,,/ | C, C,/ C, C,/ | F, F,/ (F,/G,/) A,/ | B, B,/ [B,,F,] [B,,/F,/] | [B,,F,] [B,,/F,/] G, G,/ | [C,G,] [C,/G,/] [C,G,] [C,/G,/] | F, F,/ F, ^F,/ | G, G,/ G, G,/ | E, E,/ E, E,/ | B,, B,,/ B,, B,,/ | C, C,/ F, F,/ | B,, B,,/ B,,3/ | [B,,F,] [B,,/F,/] [B,,F,] [B,,/F,/] | [F,B,] [F,/B,/] [F,B,] [F,/B,/] | [C,G,] [C,/G,/] [C,G,] [C,/G,/] | [G,C] [G,/C/] [G,C] [G,/C/] | F, F,/ F, F,/ | F, F,/ F,3/ | [B,,F,] [B,,/F,/] [B,,F,] [B,,/F,/] | [B,,F,] [B,,/F,/] [B,,F,] [B,,/F,/] | [B,,F,] [B,,/F,/] [B,,F,] [B,,/F,/] | [F,B,] [F,/B,/] [F,B,] [F,/B,/] | [C,G,] [C,/G,/] [C,G,] [C,/G,/] | [G,C] [G,/C/] [G,C] [G,/C/] | F, F,/ F, F,/ | F, F,/ F, F,/ | B,, B,,/ F, F,/ | (B,,3/ B,,)z/|]
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Arise, Sons of the Kingdom
+Z: Tune: "Aus meines Herzens Grunde"
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F F2 c A2 F (E2 F) Gz | A c2 A2 G G F2 | F F2 c A2 F (E2 F) Gz | A c2 A2 G G F2 | A A2 c c2 A G2 | F A2 G c2 G A2 Fz | A c2 B A2 F (E2 F) Gz | A c2 A2 G G F2|]
+w: A- rise, sons of the king-_ dom! The King is draw- ing nigh; A- rise and hail with glad-_ ness The Ru- ler from on high. Ye Chris- tians, hast- en forth! Your praise and hom- age bring Him, And glad ho- san nas sing_ Him; Naught else your love is worth.
+

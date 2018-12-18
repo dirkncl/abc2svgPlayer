@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: All You That Are Good Fellows
+Z: Anonymous
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1_1 name="Staff"
+V: P1_2
+%%MIDI program 1 0
+V: P2 name="Staff-1"
+%%MIDI program 2 -1
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | | | | | [B3/d3/] [c/e/] [df] [Gce] | | | | | | ||]
+w: All you_ that are_ good_ fel-_ lows,_ Come__ hear-__ ken__ to__ my__ song;__ I__ know__ you do_ not__ hate__ good__ cheer,_ Nor_ li-_ quor_ that_ is__ strong.__ I_ hope_ there_ is_ none___ here__ But__ soon__ will__ take__ my__ part,_ See-__ ing__ my_ mas-_ ter_ and_ my_ dame_ Say__ wel-__ come_ with_ their__ heart.__
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | | | | | G2 x2  | | | | | | ||]
+w: All you_ that are_ good_ fel-_ lows,_ Come__ hear-__ ken__ to__ my__ song;__ I__ know__ you do_ not__ hate__ good__ cheer,_ Nor_ li-_ quor_ that_ is__ strong.__ I_ hope_ there_ is_ none___ here__ But__ soon__ will__ take__ my__ part,_ See-__ ing__ my_ mas-_ ter_ and_ my_ dame_ Say__ wel-__ come_ with_ their__ heart.__
+[V: P2] z | C,,2 [E,C] [G,D] | [C2E2] [G,D] [F,,F,] | [E,,E,] [F,,F,] [G,,G,] [G,,,G,,] | [C,,C,] B,, A,, G,, | E,,2 A,, G,, | C, E, G, G,, | A,, F,, G,, G,, | C,,3 B,, | G,,3 C, | D,3/ E,/ D, C, | B,,3/ C,/ D, D, | G,3/ ^F,/ G, B,, | C, E, =F, G, | A, F, C E, | F, D, G,2 | C,3|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Antioch
+Z: Arr. from G. F. Handel, 1685-1759
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=95
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  d c3/4 B/4 | A3/ G/ | F E | D3/ A/ | B3/ B/ | c3/ c/ | d3/ d/ | (d/c/) (B/A/) | (A3/4G/4F/) d/ | (d/c/) (B/A/) | (A3/4G/4F/) F/ | F/ F/ F/ (F/4G/4) | A3/ (G/4F/4) | E/ E/ E/ (E/4F/4) | G3/ (F/4E/4) | D/ d B/ | A3/4(G/4F/) G/ | F E | D2|]
+w: Hark, the glad sound! the Sa- viour comes, The Sa- viour prom- ised long; Let e-_ very_ heart__ pre- pare_ a_ throne,__ And e- very voice a_ song. And_ e- very voice a_ song. And_ e- very And e- very_ a voice a song.
+[V: P2]  F A3/4 G/4 | F3/ E/ | D C | D3/ A/ | G3/ G/ | E3/ E/ | F3/ F/ | (F/A/) (G/F/) | (F3/4E/4D/) F/ | (F/A/) (G/F/) | (F3/4E/4D/) D/ | D/ D/ D/ (D/4E/4) | F3/ (E/4D/4) | C/ C/ C/ (C/4D/4) | E3/ (D/4C/4) | (D/ F) G/ | (F3/4E/4D/) E/ | D C | D2|]
+[V: P3]  D D3/4 D/4 | D3/ B,/ | A,3/ G,/ | F,3/ D/ | D3/ D/ | A,3/ A,/ | A,3/ A,/ | A, D | (D A,/) A,/ | A, D | (D A,/) A,/ | A,3/ A,/ | A,/ A,/ A,/ A,/ | (A,2 | A,2 | A,3/) D/ | D3/ B,/ | A, (A,/G,/) | F,2|]
+[V: P4]  D, D,3/4 D,/4 | D,3/ G,,/ | A,, A,, | D,3/ F,/ | G,3/ G,/ | A,3/ A,/ | D,3/ D,/ | D, D, | D,3/ D,/ | D, D, | D,3/ D,/ | D,3/ D,/ | D,/ D,/ D,/ D,/ | A,3/ A,,/ | A,,/ A,,/ A,,/ A,,/ | D,3/ D,/ | D,3/ G,,/ | A,, A,, | D,2|]
+

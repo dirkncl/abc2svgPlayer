@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Arise, And Hail The Sacred Day
+Z: Arthur Henry Brown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  C | E3/ F/ G A | B3/ c/ B B | E3/ F/ G B | c3/ d/ c e | A B (A/ G/) (F/ E/) | B3 B | c3/ d/ e c | B (A/ G/) F C | (F/ G/) A G B | A G F c | (F/ A/) (G/ F/) E D | E3|]
+w: A- rise, and hail the Sa- cred Day, Cast all low cares of life a- way, And thoughts of mean-_ er_ things; This day to cure our dead- ly_ woes, The Sun_ of Right- eous ness a- rose With heal-_ ing_ in His wings.
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Awake, And Hear My Story
+Z: B. Gesius
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+Q: 1/4=120
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1] z2 E | E2 B d2 c | B2 F2z G | E2 F G2 A | F3z2 E | E2 B d2 c | B2 F2z G | E2 F G2 A | F3 | A A A A2 G | F2 E2z F | G2 E D2 E | F2z2 F2 | D2 D E2 F | G2 E2z B | d2 c B2 A | (G3/ F/4E/4) D2z E | G2 G G2 A | (F2 E4)|]
+w: A- wake, and hear my sto- ry! When God on Christ- mas morn, Th'e- ter nal Lord of glo- ry, Of Ma- ry Maid was born. Seek- ing the King of a- ges, There jour- n'd from a- far Three king- ly East- ern Sa- ges, By leng- thy dai- ly sta-__ ges, Led west- ward by a Star._
+[V: P2] z2 E | E2 E F2 E | ^D2 D2z E | E2 ^D E2 E | ^D3z2 E | E2 E F2 E | ^D2 D2z E | E2 ^D E2 E | ^D3 | E E E F2 E | ^D2 E2z =D | D2 C B,2 B, | ^C2z2 C2 | D2 D B,2 D | D2 C2z D | F2 E D2 D | (C E/) (D/4C/4) A,2z C | B,2 B, E2 E | (^D2 E4)|]
+[V: P3] z2 B, | B,2 G, A,2 A, | F,2 B,2z B, | B,2 A, B,2 C | B,3z2 B, | B,2 G, A,2 A, | F,2 B,2z B, | B,2 A, B,2 C | B,3 | ^C C C D2 B, | B,2 ^G,2z A, | B,2 A, F,2 B, | ^A,2z2 A,2 | F,2 F, G,2 A, | B,2 G,2z G, | A,2 A, (A, G,) F, | (G, A,3/4) G,/4 F,2z G, | G,2 G, C2 C | (B,2 ^G,4)|]
+[V: P4] z2 E, | E,2 E, D,2 A,, | B,,2 B,,2z E, | G,2 F, E,2 A,, | B,,3z2 E, | E,2 E, D,2 A,, | B,,2 B,,2z E, | G,2 F, E,2 A,, | B,,3 | A,, A,, A,, D,2 E, | B,,2 E,2z D, | G,,2 A,, B,,2 G,, | F,,2z2 F,2 | B,,2 B,, E,2 D, | G,,2 C,2z G, | D,2 A,, B,,2 D, | (E, C,) D,2z C, | E,2 E, C,2 A,, | (B,,2 E,4)|]
+
