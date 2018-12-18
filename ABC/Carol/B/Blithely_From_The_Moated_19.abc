@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Blithely From The Moated Churchyard
+Z: Rev. R. F. Smith
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  (D/E/) (F/G/) A F | E (A/B/) c A | d (c/B/) A (B/c/) | (d/c/) B Az | (D/E/) (F/G/) A A | (B/A/) (B/c/) d d | c3/ c/ (e/d/) (c/B/) | A B Az | (E/F/) (G/A/) B B | (B/A/) (G/F/) F E | (F/^G/) (^A/c/) (e/d/) (c/B/) | A ^G Fz | F (E/D/) A A | (A/G/) (F/E/) B B | A A (B/A/) (G/F/) | F E D2|]
+w: Blithe-_ ly_ from the moat- ed_ church- yard Ring the_ clear- voiced_ bells_ this morn; While_ a-_ cross the wav-_ y_ land- scape, Far a- way_ the_ mists are borne. Pass_ a-_ way, ye clouds_ of_ sad- ness,  Ev-_ 'ry_ sel-_ fish_ care de- part; Grate- ful_ tho'ts, and tho'ts_ of_ glad- ness, Ring from ev-_ 'ry_ Christ- ian heart.
+

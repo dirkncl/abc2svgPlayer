@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Bristol
+Z: From Ravenscroft, "Psalmes," 1621
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=384
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  d2 | c2 A2 B2 G2 | A3 A G2 c2 | B2 A2 A2 ^G2 | A6 A2 | B2 c2 B2 G2 | A2 G2 F2 d2 | B2 c2 A2 A2 | G6|]
+w: Hark, the glad sound! the Sa- viour comes, The Sa- viour prom- ised long; Let e- very heart pre- pare a throne, And e- very voice a song.
+[V: P2]  D2 | E2 D2 D2 D2 | E2 F2 G2 E2 | E2 (C D) E3 D | ^C6 D2 | D2 C2 D2 D2 | C2 (B, C) D2 A2 | G2 G2 G2 F2 | G6|]
+[V: P3]  B,2 | A,2 F,2 G,2 D2 | C2 A,2 B,2 A,2 | ^G,2 A,2 B,2 B,2 | A,6 F,2 | G,2 G,2 G,2 G,2 | E,2 G,2 A,2 D2 | D2 E2 A,2 (D C) | B,6|]
+[V: P4]  G,2 | C,2 D,2 G,,2 B,,2 | C,2 D,2 G,,2 A,,2 | E,2 =F,2 E,2 E,2 | A,,6 F,2 | G,2 E,2 G,2 B,,2 | C,2 E,2 D,2 F,2 | G,2 C,2 D,2 D,2 | G,,6|]
+

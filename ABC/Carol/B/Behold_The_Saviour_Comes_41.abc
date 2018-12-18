@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Behold, The Saviour Comes
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=120
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  e2 | (B/c/) A (G/A/) F | (E3 E) | D/ E/ F (F/G/) =A | B3 B | (B/ A/) G A A | (A/G/) F G e | (e/ d/) c B3/ =A/ | B2 B2 | (c/ c/) c c (d/e/) | B3/ A/ (G/ A/) B | (c/ B/) A G3/ F/ | E4|]
+w: Be- hold_ the Sa-_ viour comes_ Love- ly in In-_ fant form, E'en An-_ gels praise and wor-_ ship Him, Sal- va_ tion's migh- ty Arm. E'en An-_ gels praise and_ wor- ship Him,_ Sal- va_ tion's migh- ty Arm.
+[V: P2]  G2 | E C E D | (B,2 =A,2) | B,/ B,/ B, (E/ D/) C | D3z | z4 |z2z G | (G/ F/) E D3/ C/ | D2 E2 | (E/ E/) E A A | F D E E | (E/ E/) E E3/ D/ | B,4|]
+[V: P3]  B,2 | B, C B, A, | (G,2 E,2) | F,/ F,/ B, C F, | F,3 G, | G,/ F,/ E, F, F, | (F,/E,/) D, E, B, | (B,/ B,/) G, F, F, | F,2 G,2 | (A,/ A,/) A, C F | B, B, (B, E) | (A,/ B,/) C B,3/ A,/ | G,4|]
+[V: P4]  E,2 | G, A, B, B,, | (E,2 C,2) | B,,/ B,,/ D, F, F,, | B,,2zz | z4 |z2z E, | (C,/ D,/) E, F, F,, | B,,2 E,2 | (A,/ A,/) (A,/G,/) (F,/E,/) (D,/C,/) | D, B,, (E,/F,/) G, | (A,/ A,/) F, B, B,, | E,4|]
+

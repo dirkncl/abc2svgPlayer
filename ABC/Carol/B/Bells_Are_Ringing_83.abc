@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Bells Are Ringing Glad And Sweet
+Z: D. E. Hervey
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D/ | F A d (c/ B/) | A3/ G/ F3/ F/ | B A G F | E D E3/ E/ | F (B/ A/) ^G (F/ E/) | A B c3/ c/ | d c/ B/ A (^G/ A/) | B3/ ^G/ A3/ A/ | A A _B A | G G A3/ G/ | =F F G F | E D E3/ A/ | d (c/ B/) A (^G/ A/) | B A d3/ B/ | A B A (E/ F/) | E3/ E/ D"^Chorus" D | F A d (c/ B/) | A3/ G/ F3/ F/ | B A G F | E3/ D/ E3/ E/ | F (B/ A/) ^G (F/ E/) | A B c3/ c/ | d d dz/ d/ | d d dz/ d/ | d (c/ B/) A3/ F/ | E A D2|]
+w: The bells are ring- ing_ glad and sweet Be- neath th'a- do ring an- gels' feet, And in our_ hearts are_ glad tho'ts born By ju- bi lant bells of_ Christ- mas morn; For, in a man- ger, poor and low, Was born the Christ- child, years a- go; And shep- herds,_ on the_ hills a- far, Were told the tid- ings_ by a star. O ring, glad bells, ring_ loud and sweet The song the a- ges shall re- peat, Which an- gels_ sing on_ Christ- mas still, Of "Peace on earth," Of "Peace on earth," Of "Peace on_ earth, to men good will."
+

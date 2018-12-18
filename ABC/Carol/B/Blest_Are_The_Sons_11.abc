@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Blest Are The Sons Of Peace
+Z: "Lonsdale"
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F | B B B (A/B/) | c3 (B/c/) | d d (e/d/) (c/B/) | c3 (B/c/) | d d (e/d/) (c/B/) | c c (d/c/) (B/A/) | (B/d/) (c/B/) A G | F3 F | B3/ c/ (d/c/) (B/A/) | G3 G | c3/ d/ (c/B/) (A/G/) F3 F | B B c c | (d/c/) (d/e/) f d | (B/c/) (d/e/) d c | B3|]
+w: Blest are the sons of_ Peace! They_ sing a joy-_ ful_ song; Their_ voi- ces raise_ to_ sing His praise,_ The_ Sa-_ viour_ prom- is'd long: Hark, hark! the voice_ from_ Heav'n "In Beth- le'em you_ may_ see, A Child wrapt up in swad-_ dling_ bands, With Peace_ and_ U- ni ty."
+[V: P2]  F | F F F =E | F3 F | F G B G | A3 F | F F B G | E E D ^F | G D =F =E | C3 _E | D3/ F/ B D | E3 E | E E =E E | C3 (B,/C/) | (D/C/) (D/E/) F F | F F B A | G G B A | F3|]
+[V: P3]  F, | F E D B, | A,3 C | B, B, G, C | C3 (F/E/) | (D/C/) B, B, (E/D/) | (C/B,/) A, A, D | (D/B,/) G, C B, | A,3 C | B,3/ B,/ B, B, | B,3 B, | B, G, C B, | B,3 F, | F, F, (A,/F,/) (G,/A,/) | B, (D/C/) (D/E/) F | D (B,/C/) (D/E/) C | D3|]
+[V: P4]  F, | D C B, G, | F,3 A, | (B,/A,/) (G,/F,/) E, =E, | F,3 (D/C/) | B, (B,/A,/) G, E, | A, (A,/G,/) ^F, D, | G, B,, C, C, | F,3z |z2z B,, | E,3/ F,/ (G,/F,/) (E,/D,/) | C,3 C, | F,3/ G,/ (F,/E,/) (D,/C,/) | B,,2z F, | B, B, B, F, | G, (G,/E,/) F, F,, | B,,3|]
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Behold What News We Bring
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=80
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: A
+[V: P1]  E/ | A3/4 G/4 A/ B/ | c3/ B/ | c3/4 B/4 c/ ^d/ | e3/ E/ | E/ A/ G/ F/ | E3/4 D/4 C/ d/ | c3/4 B/4 A/ G/ | Az/ E/ | c3/4 B/4 A/ F/ | d3/4 c/4 B/ G/ | e3/4 d/4 c/ A/ | f3/4 e/4 (d | d/)z/ E | A3/4 G/4 A/ B/ | c3/4 d/4 e/ E/ | F/ d/ (c/4B/4) (A/4G/4) | A3/|]
+[V: P2]  E/ | C3/4 D/4 E/ E/ | E3/ E/ | E3/4 E/4 A/ F/ | G3/ E/ | C/ F/ E/ D/ | C3/4 B,/4 A,/ F/ | E3/4 D/4 C/ B,/ | Cz/ B,/ | C D | D E | E (F | F/) A/ (E | E/)z/ E | E3/4 E/4 E/ E/ | E3/4 E/4 E/ E/ | D/ F/ (E/4D/4) (C/4B,/4) | C3/|]
+[V: P3]  E,/ | E,3/4 E,/4 E,/ G,/ | A,3/ G,/ | A,3/4 B,/4 E/ B,/ | B,3/z/ | z4 |zz/ A,/ | A,3/4 E,/4 E,/ E,/ | E,z/ G,/ | A,3/4 G,/4 F,/ A,/ | B,3/4 A,/4 G,/ B,/ | C3/4 B,/4 A,/ C/ | D3/4 C/4 (B, | B,/)z/ (E/D/) | C/ B,/ A,/ G,/ | A,/ A,/ A,/ A,/ | A,/ B,/ E,/ E,/ | E,3/|]
+[V: P4]  E,/ | A,,3/4 B,,/4 C,/ E,/ | A,3/ E,/ | A,3/4 G,/4 A,/ B,/ | E,3/z/ | (A,,2 | A,,)z/ D,/ | E,3/4 E,/4 E,/ E,/ | A,,z/ E,/ | A,, D, | B,, E, | (C, F, | D,/) D,/ (G, | G,/)z/ E, | A,/ E,/ C,/ E,/ | A,,/ B,,/ C,/ C,/ | D,/ D,/ E,/ E,/ | A,,3/|]
+

@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Brightest And Best Are The Sons Of The Morning
+Z: H. S. Irons
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  G2 G F | E2 G c | e2 d c | B2 A2 | B2 c d | G2 c A | B2 A B | G4 | G2 G F | E2 G c | e2 d e | d2 c2 | c2 d c | f2 A A | G2 c d | c4|]
+w: Bright- est and best of the sons of the morn- ing, Dawn on our dark- ness and lend us thine aid; Star of the East, the ho- ri zon a- dorn ing, Guide where our in- fant Re- deem er is laid.
+[V: P2]  E2 E D | C2 E E | E2 F G | F2 F2 | F2 F F | F2 F F | (D G) G ^F | (G2 =F2) | E2 E D | C2 E G | E2 E E | E2 E2 | G2 G G | F2 F F | E2 G F | E4|]
+[V: P3]  C2 C B, | C2 C G, | G,2 B, C | C2 C2 | D2 D D | D2 G, G, | (G, B,) C C | B,4 | C2 C B, | C2 C G, | G,2 ^G, G, | A,2 A,2 | _B,2 B, B, | A,2 C C | C2 E B, | C4|]
+[V: P4]  C,2 E, G, | C2 G, E, | C,2 D, E, | F,2 F,2 | D,2 D, C, | B,,2 C, C, | D,2 D, D, | G,4 | C,2 E, G, | C2 G, E, | C,2 B,, B,, | A,,2 A,,2 | E,2 E, E, | F,2 F, D, | G,2 G, G, | C,4|]
+

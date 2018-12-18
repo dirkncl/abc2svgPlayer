@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Bethlehem
+Z: Traditional French
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=50
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c3/ d e/ | c3/ c/z/ G/ | A A/ G F/ | E D/ E F/ | G3/ G/z/ G/ | A c/ c B/ | (c3/ c/)z/ c/ | c G/ A _B/ | (_B3/ A/)z/ d/ | d A/ =B c/ | (c3/ B/)z/ c/ | d e/ c d/ | e3/ c/z/ e/ | d c/ B A/ | G G/ A c/ | (c3/ B3/) | c3|]
+w: In that poor sta- ble How charm- ing Je- sus is, A- bove all fa- ble Of kings and pa- la ces!_ How high the babe is placed,_ So splen- did ly a- based!_ Re- sist, if ye are a- ble, The low- ly beau- ties shown in that poor sta-_ ble!
+

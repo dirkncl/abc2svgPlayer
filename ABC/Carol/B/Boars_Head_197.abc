@@ -1,0 +1,30 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Carol On Bringing In The Boar's Head
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1_1 name="Right Hand"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Left Hand"
+V: P2_2
+%%MIDI program 2 0
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | c c/ c/ [Ec] [Ec] | | | [(=B,(D(G] G/) c2 | | [Ec] [Ec] G2 | | [(D(G] G/) c2|]
+w: The_ boar’s__ head__ in__ hand__ bear__ I,_ Be-_ deck'd_ with_ bays_ and_ rose-__ ma_ ry._ And_ I_ pray you, my mas-_ ters,__ be_ mer-_ ry_ Quot_ es-_ tis_ in_ con-_ vi___ vi___ o_ Ca-_ put_ a-_ pri_ de-_ fe_ ro_ Red-_ dens_ lau-_ des__ Do-__
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | E2 x2  | | | x1  =B, D G/ | | x2  G2 | | x1  D G/|]
+w: The_ boar’s__ head__ in__ hand__ bear__ I,_ Be-_ deck'd_ with_ bays_ and_ rose-__ ma_ ry._ And_ I_ pray you, my mas-_ ters,__ be_ mer-_ ry_ Quot_ es-_ tis_ in_ con-_ vi___ vi___ o_ Ca-_ put_ a-_ pri_ de-_ fe_ ro_ Red-_ dens_ lau-_ des__ Do-__
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | | [E,^G,] [A,,A,] E,3/ | | | | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | | x2  C,3/ C,/ | | | | | ||]
+

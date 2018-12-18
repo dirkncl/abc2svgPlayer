@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Breslau, LM
+Z: As Hymnodus Sacer, Leipzig, Germany, 1625
+Z: Public  domain
+L: 1/4
+M: 6/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Breslau"
+V: P2_2
+%%MIDI program 2 91
+K: A
+% Extracting voice 1 from part P1
+[V: P1_1]  | | | | | [E2c2] [FA] d2 [Ec] | | B2 [CA] [F2A2] G ||]
+% Extracting voice 2 from part P1
+[V: P1_2]  | | | | | x3  F E x1  | | E D x3  E/D/ ||]
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | F,3/ G,/ [C,A,] [B,,2B,2] [B,,A,] | | [A,,2A,2] [D,A,] A, G, [A,,A,] | | ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | B,,2 x4  | | x3  B,,2 x1  | | ||]
+

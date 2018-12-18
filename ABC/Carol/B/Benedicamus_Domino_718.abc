@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Benedicamus Domino
+Z: Charles Vincent, Mus. D
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/2
+Q: 1/4=360
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A2 | D2 E2 F2 (G A) | d2 c2 A2 B2 | A2 F2 D2 (E F) | G2 D2 E2 [K: D]  A2 | d2 d2 c2 B2 | A2 A2 G2 F2 | G2 F2 E2 (F G) | A2 G2 F2 A2 | B2 c2 d2 D2 | E3 F D2|]
+w: What time I kept my_ sheep in fold, Good News to me an_ an- gel told. Then wel- come joy and ban- ish woe Be- ne di ca mus_ Do- mi no, Be- ne di ca mus Do- mi no.
+

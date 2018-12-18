@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Bright Angel Hosts Are Heard On High
+Z: Cornish Hymn
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=140
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  c2 e c | (G F E) f | (e d) (c B) | c2z c | G E G c | (e d) (d c) | (c2 B) c | (c e d) c | B3 A | (d f) (e d) | c3 G | (c/ B/ c/ d/ e) c | (A f e) d | c2 B2 | c4|]
+w: Bright An- gel Hosts__ are heard_ on_ high All sweet- ly sing- ing o'er_ the_ plains;_ While moun-__ tains e- cho in_ re-_ ply The bur-____ den of__ their joy- ous strains.
+

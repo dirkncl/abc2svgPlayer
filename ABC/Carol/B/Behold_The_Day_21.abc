@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Behold! The Day Is Come
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=96
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: C
+[V: P1]  c2 | c G E G | C2 c2 | d c B c | d2 e2 | d c B A | G3 c | B A G A | G F E G | F E D C | G3 G | G c c A | A d d c | B G c d | e3 d | c2 A2 | G3 B | c4|]
+w: Be- hold the day is come, And heav'n- ly hosts ap- pear, And heav'n- ly hosts ap- pear, An- gels to shep- herds tes- ti fy The King of Glo- ry near. An- gels to shep- herds tes- ti fy The King of Glo- ry near. The King of Glo- ry near.
+[V: P2]  c2 | c G E G | C2 G2 | G G ^F A | (A G) (E3/ ^F/) | G E G ^F | D3z | z4 |z2z G | F E D C | G3 D | G (G/F/) (E/D/) E | A (A/G/) (F/G/) A | G D G G | G3 (G/F/) | E2 (G F) | (F E2) D | E4|]
+[V: P3]  C2 | C G, E, G, | C,2 (E C) | B, C D E | (C B,) G,2 | G, G, D3/ C/ | B,3z | z4 |z2z G, | F, E, D, C, | G,3 (D/C/) | B, G, G, C | C A, A, D | D B, G, (A,/B,/) | C3 B, | C2 C2 | C2 G,2 | G,4|]
+[V: P4]  C2 | C G, E, G, | C,2 (C, E,) | G, E, B, (A,/G,/) | (^F, G,) C,2 | B,, C, D, D, | G,,3z | z4 |z2z G, | F, E, D, C, | G,3 (B,/A,/) | (G,/F,/) (E,/D,/) C, (C/B,/) | (A,/G,/) (F,/E,/) D, (E,/F,/) | G, (G,/F,/) E, G, | C3 G, | A,2 F,2 | G,2 G,,2 | C,4|]
+

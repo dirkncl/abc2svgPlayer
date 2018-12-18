@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Black Decree
+Z: Traditional
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F | A/ B/ c3/ d/ | c/ A/ G3/ B/ | A2 F | A/ B/ c3/ d/ | c/ A/ G3/ B/ | A2 d | c/ A/ F3/ G/ | A/ A/ A3/ F/ | G2 F | A/ B/ c3/ d/ | c/ B/ A3/ G/ | F2|]
+w: Let Chris- tians all with one ac- cord re- joice, And prais- es sing, with heart as well as voice, To God on high, for glor- ious things He's done, In send- ing to us His be- lov ed Son.
+

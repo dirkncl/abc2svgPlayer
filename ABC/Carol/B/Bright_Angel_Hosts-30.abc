@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Bright Angel Hosts Are Heard On High
+Z: A Cornish Tune Adapted By H. S. Irons
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  c2 e c | (G F E) f | (e d) (c B) | c2z c | G E G c | (e d) (d c) | (c2 B) c | (c e d) c | B3 A | (d f) (e d) | c3 G | (c/B/ c/d/ e) c | (A f e) d | c2 B2 | c4|]
+w: Bright An- gel Hosts__ are heard_ on_ high All sweet- ly sing- ing o'er_ the_ plains;_ While moun-__ tains e- cho in_ re-_ ply The bur-____ den of__ their joy- ous strains.
+[V: P2]  G2 G G | (E D C) A | G2 (G F) | E2z E | E C E E | (G F) (F E) | (E2 D) E | (E G F) E | D3 F | (F A) (G F) | E3 G | (G3/ F/ E) E | (C F G) A | G3 F | E4|]
+[V: P3]  E2 C C | (C B, C) C | (C F) (E D) | C2z G, | C C C C | A,2 A,2 | (G,2 G,) G, | G,3 G, | (G,3/ A,/ B,) D | A,2 B,2 | C3 G, | G,3 G, | (A,/G,/A,/B,/ C) F | E2 D2 | C4|]
+[V: P4]  C,2 C, E, | (G,2 A,) F, | G,2 G,2 | C,2z C, | E, G, C A, | F,3 ^F, | (G,2 G,) C, | C,3 C, | G,3 D, | D,2 G,2 | C,3 G, | (E,/F,/E,/D,/ C,) C, | (F, D, E,) F, | G,2 G,,2 | C,4|]
+

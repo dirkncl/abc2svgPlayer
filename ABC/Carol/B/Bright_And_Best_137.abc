@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Brightest And Best of the Sons of the Morning
+Z: Mr. H. S. Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G2 G F | E2 G c | e2 d c | B2 A2 | B2 c d | G2 c A | B2 A B | G4 | G2 G F | E2 G c | e2 d e | d2 c2 | c2 d c | f2 A A | G2 c d | c4|]
+w: Bright- est and best of the sons of the morn- ing, Dawn on our dark- ness and lend us thine aid; Star of the East, the ho- ri zon a- dorn ing, Guide where our in- fant Re- deem er is laid.
+

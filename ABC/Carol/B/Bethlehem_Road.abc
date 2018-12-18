@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Bethlehem Road
+Z: Rev. Calvin W. Laufer
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: E
+[V: P1]  E | G B c (d/c/) | B G F (G/F/) | E G d c | B2 B B | c (d/c/) B E | A (B/A/) G G | (F/G/) (^A/B/) c d | B2 B B | e3/ B/ B A | G3/ B/ B B | e B (E/F/) G | F2 E|]
+w: A King might miss the_ guid- ing star, A_ Wise Man's foot might stum- ble; For Beth- le_ hem is ve- ry_ far From all_ ex-_ cept the hum- ble. 'Tis Christ- mas Day! 'Tis Christ- mas Day! And Christ- mas hearts_ are hum- ble.
+[V: P2]  E | E E E D | E E D D | E E F E | D2 D E | E D E E | D D E E | D E E E | D2 D D | E3/ E/ E D | E3/ D/ D D | E E E E | D2 E|]
+[V: P3]  G, | B, G, A, A, | B, B, A, (B,/A,/) | G, C B, ^A, | B,2 B, G, | A, A, B, B, | B, B, B, B, | B, (C/B,/) ^A, A, | B,2 B, A, | G,3/ G,/ G, B, | B,3/ A,/ A, A, | G, G, G, ^A, | (B, A,) G,|]
+[V: P4]  E, | E, E, A, F, | G, E, B,, B,, | C, C, F, F, | B,,2 B,, E, | A, F, G, G, | F, B,, E, E, | F, F, F, F, | B,,2 B,, B,, | E,3/ E,/ E, F, | G,3/ F,/ F, F, | E, E, C, C, | B,,2 E,|]
+

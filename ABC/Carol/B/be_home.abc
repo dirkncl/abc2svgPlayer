@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: I'll Be Home For Christmas
+Z: Kim Gannon, Buck Ram, and Walter Kent
+Z: Copyright 1948
+L: 1/4
+M: 4/4
+Q: 1/4=94
+V: P1 name="piano"
+%%MIDI program 1 0
+V: P2 name="piano-2"
+%%MIDI program 2 0
+V: P3 name="strings"
+%%MIDI program 3 17
+V: P4 name="drums"
+%%MIDI program 4 126
+K: C
+[V: P1] z2 B/8g/8d'/8g'/-g'/8 g' | G/8e/8b/8e'/-e'/8 e' A/8f/8c'/8f'/-f'/8 f' | F/8d/8a/8d'/-d'/8 d' G/8e/8b/8e'/-e'/8 e' | E/8c/8g/8c'/-c'/8 c' F/8d/8a/8d'/-d'/8 d' | [M: 2/4]  d'2 | [M: 4/4]  c/E/ G/A/ E [GB] | d/^D/ ^F/A/ E [FAc] | G C/F/ G [DF] |z C/F/ E D | A/^D/ E/G/ C G | ^A/D/ E/G/ ^C =A | D4- | D3 ^C | D3 E | G3/ C/z F | E2 C [DG] | [C2E2c2]z B | d D/8A/8c3/4 d2 | B C/8E3/4-E/8z C/8^D/8B3/4 | [DA] [D/B/f/g/]^g/ [^C^Ae=a] [=Gce] | [Fdf] [C/F/c/]A/ [F2B2] | c/E/ G/A/ E [GB] | d/^D/ ^F/A/ E [FAc] | G C/F/ G [DF] |z C/F/ E D | A/^D/ E/G/ C G | ^A/D/ E/G/ ^C =A | [CF]z2 C | ^C D E/F/ ^G/A/ | [D3F3A3d3] c | [D3F3^G3d3] c | G/[D/F/] [CE] ^D =D | [^C/F/A/]E/ G F [=CEA] | [M: 3/4]  [D3/F3/A3/d3/] ^C/- C | [C2F2A2e2]z | [D3F3c3] | [D3F3B3d3] | [M: 4/4]  [EGc] [G/e/g/][^d/^f/] [=d=f] [A/c/e/]^G/ | [G/B/d/][^F/^A/] [=F=A] [F2A2B2e2] | c/E/ G/A/ E [GB] | d/^D/ ^F/A/ E [FAc] | G C/F/ G [DF] |z C/F/ E D | A/^D/ E/G/ C G | ^A/D/ E/G/ ^C =A | D4- | D3 ^C | D3 E | G3/ C/z F | E2 C [DG] | [C2E2c2]z B | d D/8A/8c3/4 d2 | B C/8E3/4-E/8z C/8^D/8B3/4 | [DA] [D/B/f/g/]^g/ [^C^Ae=a] [=Gce] | [Fdf] [C/F/c/]A/ [F2B2] | c/E/ G/A/ E [GB] | d/^D/ ^F/A/ E [FAc] | G C/F/ G [DF] |z C/F/ E D | A/^D/ E/G/ C G | ^A/D/ E/G/ ^C =A | [CF]z2 C | ^C D E/F/ ^G/A/ | [D3F3A3d3] c | [D3F3^G3d3] c | G/[D/F/] [CE] ^D =D | [^C/F/A/]E/ G F [=CEA] | [M: 3/4]  [D3/F3/A3/d3/] ^C/- C | [C2F2A2e2]z | [D3F3c3] | [D3F3B3d3] | [M: 4/4]  [E/G/c/]E/ G/A/ E/G/ A/[C/c/] | [Gce] g [^Fc^da] [=F=d^gb] | [E4-c4-g4-c'4-] | [E4c4g4c'4]|]
+[V: P2]  G,4- | G,4 | G,4 | G,4 | [M: 2/4]  G,2 | [M: 4/4]  [C,2G,2] G,,2 | [C,2G,2] G,,2 | D,/A,/- A, [G,,B,] B, | D,/A,/- A, [G,,F,B,] B, | C,2 G,,2 | [E,,2E,2] [A,,2G,2] | D,, F,/A,/ [E,,G,] ^A, | [F,,A,] [G,,^A,] [^G,,B,] [=A,,=G,] | F,, ^G,/^A,/ [F,,=A,]z | D,, ^G, [=G,,2B,2] | C, G, B,,2 | A,, E, A, ^G, | [A,,2G,2] ^C,,/8^F,3/4-F,/8 F, | A,,/8E,3/4-E,/8 E, D,,/8^F,3/4-F,/8 F, | [G,,F,B,]z2 ^A, | A, D, [G,B,] G,, | [C,2G,2] G,,2 | [C,2G,2] G,,2 | D,/A,/- A, [G,,B,] B, | D,/A,/- A, [G,,F,B,] B, | C,2 G,,2 | [E,,2E,2] [A,,2G,2] | [D,,D,] A,/^A,/ B,z |z2 E,/F,/ ^G,/A,/ | F,,/C,/ F,/G,/ A,2 | F,,/C,/ F,/G,/ ^G,2 | [G,,2G,2] B, [E,,E,^A,] | [A,,3G,3] [A,,G,] | [M: 3/4]  D,3- | D,3/ B,/- B, | [D,3/A,3/] ^G,/- G, | G,3/ G,,/- G,, | [M: 4/4]  [C,,C,]z3 |z2 [G,,2F,2] | [C,2G,2] G,,2 | [C,2G,2] G,,2 | D,/A,/- A, [G,,B,] B, | D,/A,/- A, [G,,F,B,] B, | C,2 G,,2 | [E,,2E,2] [A,,2G,2] | D,, F,/A,/ [E,,G,] ^A, | [F,,A,] [G,,^A,] [^G,,B,] [=A,,=G,] | F,, ^G,/^A,/ [F,,=A,]z | D,, ^G, [=G,,2B,2] | C, G, B,,2 | A,, E, A, ^G, | [A,,2G,2] ^C,,/8^F,3/4-F,/8 F, | A,,/8E,3/4-E,/8 E, D,,/8^F,3/4-F,/8 F, | [G,,F,B,]z2 ^A, | A, D, [G,B,] G,, | [C,2G,2] G,,2 | [C,2G,2] G,,2 | D,/A,/- A, [G,,B,] B, | D,/A,/- A, [G,,F,B,] B, | C,2 G,,2 | [E,,2E,2] [A,,2G,2] | [D,,D,] A,/^A,/ B,z |z2 E,/F,/ ^G,/A,/ | F,,/C,/ F,/G,/ A,2 | F,,/C,/ F,/G,/ ^G,2 | [G,,2G,2] B, [E,,E,^A,] | [A,,3G,3] [A,,G,] | [M: 3/4]  D,3- | D,3/ B,/- B, | [D,3/A,3/] ^G,/- G, | G,3/ G,,/- G,, | [M: 4/4]  C,,/8G,,/8E,/4E,/ G,/A,/ E,/G,/ A, | z4 |z2 [C,,2-C,2-] | [C,,4C,4]|]
+[V: P3]  z4 | z4 | z4 | z4 | [M: 2/4] z2 | [M: 4/4]  z4 | z4 |z/ A/ c/f/ g2 |z/ A/ c/f/ e d | dz3 | z4 |z F/A/ G ^A | A ^A B [G^c] | d2z2 | z4 | z4 | z4 | z4 | z4 |z [f'/g'/]^g'/ [e'a'] e' | f' [f/c'/]a/ b2 | z4 | z4 | z4 |z c/f/ e d | z4 | z4 |z A/^A/ B c | ^c d e/f/ ^g/a/ | d'z3 | z4 |z/ [d/f/] [ce] [B^d] [^A=d] | [f/a/]e/ g f a | [M: 3/4]  d'2z |z3 |z3 |z3 | [M: 4/4] z [e'/g'/][^d'/^f'/] [=d'=f'] e' | [g/b/][^f/^a/] =fz2 | z4 | z4 | z4 |z2 e d | z4 | z4 |z F/A/ G ^A | A ^A B [G^c] | d2z2 | z4 | z4 | z4 | z4 | z4 |z [f'/g'/]^g'/ [e'a'] e' | f' [f/c'/]a/ b2 | z4 | z4 | z4 |z c/f/ e d | z4 | z4 |z A/^A/ B c | ^c d e/f/ ^g/a/ | d'2z2 | z4 |z/ [d/f/] [ce] [B^d] [^A=d] | [f/a/]e/z f a | [M: 3/4]  d'2z |z3 |z3 |z3 | [M: 4/4]  c'4 | e' g' [^d'a'] [^g'b'] | [g'4-c''4-] | [g'4c''4]|]
+[V: P4]  z4 | z4 | z4 | z4 | [M: 2/4] z2 | [M: 4/4]  ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | [M: 3/4] z3 |z3 |z3 |z3 | [M: 4/4]  ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | ^C C C C | [M: 3/4]  ^Cz2 |z3 |z3 |z3 | [M: 4/4]  z4 | z4 | z4 | z4|]
+

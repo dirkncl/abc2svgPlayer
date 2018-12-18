@@ -1,0 +1,31 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Bitter Withy
+Z: English Traditional
+Z: Copyright 2006 by Douglas D. Anderson
+Z: Released To the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Vocal"
+%%MIDI program 1 19
+V: P2 name="Right Hand"
+%%MIDI program 2 0
+V: P3 name="Right Hand - 2"
+%%MIDI program 3 -1
+V: P4 name="Left Hand"
+%%MIDI program 4 0
+V: P5 name="Left Hand - 2"
+%%MIDI program 5 -1
+K: G
+[V: P1] z2z"^Verse 1." d | c B A d/ d/ | c B/ B/ A B | d B/ B/ c e | d3 (B/ c/) | d d c c | B B G A/ B/ | c d/ d/ A (B/ A/) | G2z"^Verse 2." d | c B A d | c B A B/ B/ | d B c e | d3 (B/c/) | d d/ d/ c c | B/ B/ B G (A/B/) | c d A (B/ A/) | G2z/|]
+w: As it fell out on a bright hol- i day, Small hail from the sky did fall Our_ Sa- viour asked His mo- ther dear If he may go and play at_ ball. At ball! at ball! my own dear Son! It is time that you were gone And_ don’t let me hear of an- y do- ings At_ night when you come_ home.
+[V: P2] z/ (B, D/ G) [(G(d] | c B A) (G | E/F/ [B,G] [D)A)] (G | G2 C E | [A,3)D3)]z |z (G2 F | F E [G,)B,)] (A,/B,/ | [A,)C)] [(D(G] E D | G3) (d | c B d3/) (g/ | f/c/B/e/ d/A/G/E/) |z/ (F/B/d/)z/ (G/c/e/) |z/ (G/A/d/)z/ (D/F/A/) | (G/g/d/B/) (F/c/A/F/) | (E/B/G/E/) (B,/G/E/D/) | C/E/ (G G) F |z2z/|]
+[V: P3]  z4 | G3 D | Czz (B,/C/) | D B, C2 | z4 | D2 C2 | B,2z A, |z2 C2 | (C A,/C/ B,) (B/A/) | (G2 G/)F/ G | z4 | D2 E2 | A,2z/ D3/ | z4 | z4 | z4 |z2z/|]
+[V: P4]  (G,,/D,/G,/A,/ B,) F | E D C B, | A, G, F, [E,G,] | G,2 G,2 | (G, F,/E,/ F,)z |z E,2 (D, | D,) (C,/D,/) E,2 | E, G, G, F, | (E, C, D,) (G/F/) | E D C B, | D2 A, B, | B,,2 A,,2 | D,2 C2 | D2 E C | B,2 G,2 | A, G, A, B,/A,/ |z2z/|]
+[V: P5]  z4 | z4 | z4 | B,, G,, E, C, | D,2z/ (D,,/D,/C,/) | B,,2 A,,2 | G,,2 E,, (C,/B,,/) | A,, (B,,/C,/) D,2 | G,,3z | z4 | A, G, F, E, | B,,,2 A,,,2 | D,,2 C2 | B,2 A,2 | G, F, E, (C,/B,,/) | A,, B,, C, D, |z2z/|]
+

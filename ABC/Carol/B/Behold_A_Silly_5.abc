@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Behold A Silly Tender Babe
+Z: "We are poor frozen-out gardeners"
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  D | G G (G/F/) (G/A/) | B B c c | d3/ c/ (B/A/) G | (F2 D) D | G G (G/F/) (G/A/) | B B c c | d3/ c/ (c/B/) G | G3 (d/e/) | f d (d/c/) B | c c d (B/c/) | d G (G/F/) D | F3 D | G G (G/F/) (G/A/) | B B c c | d3/ c/ (c/B/) G | G3|]
+w: Be- hold a sim-_ ple_ ten- der babe, In freez- ing win-_ ter night,_ In home- ly man-_ ger_ tremb- ling lies: A- las! A pi-_ teous sight. The_ inns are full;_ no man will yield This_ lit- tle Pil-_ grim bed; But forced He is_ with_ sense- less beasts In crib to shroud_ his head.
+[V: P2]  D | D D E C | D D C F | F F D E | (C2 D) D | D D E C | D D C F | F E F E | D3 G | F F A G | G F F E | D (E/D/) C D | C3 D | B, D E C | D D C F | F E F3/ E/ | D3|]
+[V: P3]  D, | B, D C C | B, G, G, A, | B, A, B, B, | (B, A, B,) D, | B, D C C | B, G, G, A, | B, G, F, (G,/A,/) | B,3 B, | C D F D | C A, B, G, | B, G, C B, | (B,2 A,) D, | G, G, C C | B, G, G, A, | B, G, F, (G,/A,/) | =B,3|]
+[V: P4]  D, | G,, B,, C, E, | G,3/ F,/ E, F, | B, F, G, E, | (F,2 B,,) D, | G,, B,, C, E, | G,3/ F,/ E, F, | B, E, D, C, | G,,3 G, | A, B, F, G, | E, F, B,, E, | B,, (C,/B,,/) A,, B,, | F,3 D, | E, B,, C, E, | G,3/ F,/ E, F, | B, E, D, C, | G,,3|]
+

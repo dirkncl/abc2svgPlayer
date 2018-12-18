@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Bethlehem Shepherds
+Z: G. W. Fink (1783-1847)
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/2
+Q: 1/4=416
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  G2 | c2 c2 B2 A2 | G3 A G2 G2 | A2 d2 c2 B2 | c6 G2 | c2 c2 B2 A2 | G3 A G2 e2 | d2 c2 B2 A2 | G6 G2 | B2 G2 c2 G2 | d2 G2 e2 c2 | f2 e2 d2 c2 | (c4 B2) G2 | c2 c2 B2 A2 | G3 A G2 G2 | A2 d2 c2 B2 | c6|]
+[V: P2]  G2 | E2 A2 G2 F2 | E3 F E2 G2 | F2 A2 G2 G2 | G6 G2 | E2 G2 G2 F2 | E3 F E2 G2 | F2 A2 G2 G2 | G6 B,2 | D2 B,2 C2 G2 | F2 F2 E2 E2 | F2 G2 A2 A2 | G6 F2 | E2 G2 G2 F2 | F3 F E2 G2 | F2 A2 G2 F2 | E6|]
+[V: P3]  G,2 | C2 C2 C2 C2 | C3 C C2 C2 | C2 F2 E2 D2 | E6 G,2 | C2 C2 C2 C2 | C3 C C2 (G, A,) | B,2 E2 D2 C2 | B,6 G,2 | G,2 G,2 G,2 C2 | C2 B,2 C2 C2 | C2 =B,2 A,2 D2 | D6 B,2 | C2 C2 C2 C2 | D2 B,2 C2 C2 | C2 F2 E2 D2 | C6|]
+[V: P4]  G,2 | C,2 C,2 C,2 C,2 | C,3 C, C,2 E,2 | F,2 D,2 G,2 G,2 | C,6 G,2 | C,2 E,2 F,2 A,2 | C3 C, C,2 C,2 | B,,2 C,2 D,2 D,2 | G,6 G,2 | F,2 F,2 E,2 E,2 | D,2 D,2 C,2 _B,2 | A,2 G,2 F,2 ^F,2 | G,6 G,2 | C,2 E,2 F,2 A,2 | B,2 G,2 C2 E,2 | F,2 D,2 G,2 G,2 | C,6|]
+

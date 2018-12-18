@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Behold The Morning Star
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=60
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: A
+[V: P1]  E3/ | A A/ (B/A/) B/ | (c3/ c) e/ | d c/ B A/ | (B3/ B) (c/4B/4) | A A/ (A/B/) c/ | d3/ E3/ | F F/ (G/F/) G/ | Az/ (A B/) | (c/B/) c/ B (B/4c/4) | (d/c/) d/ c3/ | z4 |zz/ c3/ | d c/ B A/ | B3/z/ (c/d/) | e d/ c B/ | cz/ E3/ | F G/ A B/ | c c/ B (c/4B/4) | A A/ (G/F/) G/ | A3/|]
+[V: P2]  E3/ | E3/z E/ | E3/ c3/ | F3/ (D ^D/) | (E3/ E)z/ |zz/ E3/ | F3/ E3/ | A,3/ E3/ | Cz/ E3/ | E E/ E E/ | F F/ F3/ | z4 |zz/ E3/ | F F/ D ^D/ | E3/ G3/ | A A/ E E/ | Ez/ C3/ | D D/ F E/ | (A/G/) F/ (G/F/) E/ | (F/E/) D/z E/ | E3/|]
+[V: P3]  E,3/ | C3/ G,3/ | A,3/ C3/ | A,3/ A,3/ | (G,3/ G,)z/ |zz/ A,3/ | (F, G,/) A,3/ | (D C/) B,3/ | A,z/ (C B,/) | A,3/ G,3/ | B,3/ A,3/ | D3/ D3/ | (C D/) E3/ | A, A,/ A, A,/ | G,3/ E3/ | E E/ C, C,/ | A,z/ A,3/ | A, A,/ D D/ | E A,/ D D/ | C D/ (E/D/) B,/ | C3/|]
+[V: P4]  E,3/ | A,,3/ E,3/ | A,3/ A,,3/ | D,3/ F,3/ | (E,3/ E,)z/ |zz/ C,3/ | B,,3/ C,3/ | D,3/ E,3/ | A,,z/ E,3/ | A,,3/ E,3/ | B,,3/ (F, E,/) | (D, E,/) (F, G,/) | A,3/ A,,3/ | D, D,/ F, F,/ | E,3/ (E D/) | C B,/ A, G,/ | A,z/ A,,3/ | D, E,/ F, G,/ | (A,,/C,/) D,/ (E,/F,/) G,/ | A, F,/ E, E,/ | A,,3/|]
+

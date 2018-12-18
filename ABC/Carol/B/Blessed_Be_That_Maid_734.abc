@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Blessed Be That Maid Marie
+Z: From "Ballet's Lute Book"
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B e e d | e (d/c/) (B3/ c/) | (d/e/) (d/c/) B (A/G/) | (F/E/) (F/G/) E2 | (G/A/) (B/c/) B (A/G/) | (F/E/) (F/G/) E2 | (G/A/) (B/c/) B (A/G/) | (F/E/) (F/G/) E2 | G G D D | (E/F/) (G/A/) (B3/ c/) | (d/e/) (d/c/) B (A/G/) | (F/E/) (F/G/) E2|]
+w: Bless- ed be that Maid Ma-_ rie;_ Born_ He_ was of_ her_ bo-_ dy; Ve-_ ry_ God ere_ time_ be-_ gan, Born_ in_ time the_ Son_ of_ man. E- ya! Ihe- sus ho-_ di_ e_ Na-_ tus_ est de_ Vir-_ gi_ ne.
+

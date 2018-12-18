@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Bereden väg för Herran, 7.6.7.6.7.7.6.6
+Z: Swedish melody, before 1560
+Z: Public  domain
+L: 1/4
+M: 2/4
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 -1
+V: P2 name="Bereden väg för Herran"
+%%MIDI program 2 -1
+K: G
+% Extracting voice 1 from part P1
+[V: P1_1] [|: | | | D2 | D D | | | | :|] | | | | | | | E2 ||| | | | | | | ||]|] Z 
+% Extracting voice 2 from part P1
+[V: P1_2] [|: | | | C2 | B, | | | | :|] | | | | | | | D ^C ||| | | | | | | ||]|] Z 
+[V: P2] [|: [(G,(B,] | [E,B,] [C,C] | [B,,G,] [C,G,] | [A,,2F,2] | [B,,G,] [C,G,] | [C,G,] [B,,B,] | [C,A,] [D,A,] | [G,,2)-B,2)-] | [G,,B,] :|] (G, | [E,G,] [B,,G,] | [F,A,] G, | [E,2G,2] | [D,F,] [^C,E,] | [F,A,] [D,A,] | [^C,A,] [D,A,] | [A,,2A,2] | [D,)A,)]|| [(A,,(A,] | [B,,F,] [E,G,] | [C,G,] [D,F,] | [B,,2-G,2-] | [B,,G,] [E,G,] | [^D,F,] [E,G,] | [C,G,] [D,F,] | [G,,4)G,4)]|]|] Z 
+

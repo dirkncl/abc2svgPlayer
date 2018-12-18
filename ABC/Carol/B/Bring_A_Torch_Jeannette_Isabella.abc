@@ -1,0 +1,33 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Bring A Torch Jeannette Isabella
+Z: Public Domain
+L: 1/4
+M: 3/8
+V: P1 name="Bring Your Torches..."
+%%MIDI program 1 9
+V: P2 name="Staff"
+%%MIDI program 2 56
+V: P3 name="Staff-2"
+%%MIDI program 3 25
+V: P4 name="Staff-3"
+%%MIDI program 4 60
+V: P5 name="Staff-4"
+%%MIDI program 5 57
+V: P6 name="Staff-5"
+%%MIDI program 6 58
+V: P7 name="Tempo Track"
+%%MIDI program 7 -1
+K: C
+[V: P1]  d G/ | G/ ^F/ G/ | A/ B/ c/ | B3/ | A3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ | gz/ | [Aa]z/ |z3/ |z3/ |z3/ | gz/ | [Aa]z/ | Bz/ | Az/ | G3/ |z g/|]
+[V: P2] z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z/ [G/4g/4][^F/4^f/4] [G/g/] |z/ [G/4g/4][^F/4^f/4] [G/g/] |z3/ |z3/ |z3/ |z/ g/4^f/4 g/ | Az/ | B/ c/ B/ | A d/ | B,3/- | B,3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ | d d/ | d/ c/ B/ | B/ A/ G/ | G ^F/ |z3/ |z D/ | c c/ | B A/ |z/ [G/4g/4][^F/4^f/4] [G/g/] |z/ [G/4g/4][^F/4^f/4] [G/g/] |z3/ |z3/ |z3/ |z/ [G/4g/4][^F/4^f/4] [G/g/] | A/ G/ ^F/ | B/ c/ B/ | A/ e/ d/ | B,3/- | B,z/|]
+[V: P3] z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ | ^F/ G/4A/4 B/ |z3/ |z3/ | Gz/ | Az/ |z3/ |z3/ |z3/ |z/ g/4^f/4 g/ | cz/ | B/ c/ B/ | c/ e/ d/ | G3/- | G3/ |z/ D/ G/ | C D/ | E/ D | D/ D/ E/ | [^F/B/]z/ G/ | G/ ^F/ D/ | C3/ | d/ g/ b/ | ^F/ G/ [F/d/] | [D/d/] c/ [D/B/] | [G,/B/] [A,/A/] [B,/G/] | [CG] [C/^F/] | [C/E/] [D/^F/] [E/G/] | [^F,/^F/] [G,/4G/4][A,/4A/4] [B,/B/] | [C/E/] [D/^F/] [E/G/] | B A/ | Gz/ | Az/ |z3/ |z3/ |z3/ | Gz/ | Az/ | d/ e/ d/ | A/ e/ d/ | G3/- | Gz/|]
+[V: P4] z3/ |z3/ |z3/ |z3/ |z3/ | d G/ | G/ ^F/ G/ | A/ B/ c/ | B A/ | d G/ | G/ ^F/ G/ | A/ B/ A/ | Gz/ | ^F/ G/ F/ | D3/ | G,/ A,/ B,/ | C3/ | C/ D/ E/ | ^F,/ G,/4A,/4 B,/ | C/ D/ E/ | ^F3/ | Gz/ | Az/ | B/ c/ B/ | A d/ | B A/ | Gz/ | A/ G/ ^F/ | F F/ | [EA] d/ | G3/- | G3/ | d G/ | G/ ^F/ G/ | A/ B/ c/ | B A/ | d G/ | G/ ^F/ G/ | A/ B/ A/ | Gz/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ |z3/ | Gz/ | Az/ | B/ c/ B/ | A d/ | B A/ | Gz/ | Az/ | B/ c/ B/ | A/ e/ d/ | G3/- | Gz/|]
+[V: P5] z3/ |z3/ |z3/ |z3/ |z3/ | D,/ G, | A, B,,/ | C,/ ^F, | G,z/ | D,/ B, | A, B,/ | G,/ ^F, | D,/ G,/ B,/ | d d/ | d/ c/ B/ | B/ A/ G/ | G ^F/ | E/ ^F/ G/ | D D/ | c c/ | B A/ | G3/ | ^F3/ | G/ A/ G/ | ^Fz/ | ^F/ E/ F/ | Gz/ |z/ E,/ A,/ | G, G,,/ | C,/ G,/ ^F,/ | [D,3/-G,3/-] | [D,3/G,3/] | D,/ G, | A, B,,/ | C,/ ^F, | G,z/ | D,/ B, | A, B,/ | G,/ ^F, | [G,,/D,/] [G,,/G,/] B,/ |z3/ |z3/ |z3/ |z3/ | E/ ^F/ G/ | D D/ | c c/ | B A/ | G,z/ | A,z/ | [G,/G/] [A,/A/] [G,/G/] | [^F,^F]z/ | [^F,/^F/] [E,/E/] [F,/F/] | G3/ |z/ E,/ A,/ | G,,3/ | F G,/ | G,3/- | G,z/|]
+[V: P6] z3/ |z3/ |z3/ |z3/ |z3/ | G,,/ B,, | A,, B,,/ | C,/ A,, | G,,z/ | G,,/ D, | C, B,,/ | A,,/ D, | G,,z/ |z3/ |z3/ |z3/ | E,,/ G,,/ D,,/ | C,,3/ | A,, G,,/ | A,,,/ B,,,/ C,,/ | D,,3/ | G,,/ G,,/ G,,/ | G,,/ G,,/ G,,/ | G,,3/ | D,z/ | D,, D,,/ | G,,z/ |z/ A,,/ D,/ | G, G,,/ | C,/ A,, | [G,,3/-D,3/-] | [G,,3/D,3/] |z3/ |z3/ |z3/ |z3/ | G,,/ D, | C, B,,/ | A,,/ D, | G,,z/ |z3/ |z3/ |z3/ | E,,/ G,,/ D,,/ | C,,3/ | A,, G,,/ | A,,,/ B,,,/ C,,/ | D,,3/ | G,,/ G,,/ G,,/ | G,,/ G,,/ G,,/ | G,,3/ | D,z/ | D,, [D,,/^F,/] | G,,3/ |z/ A,,/ D,/ | G,,3/ | G,,3/ |z3/ |z3/|]
+[V: P7] z3/|]
+

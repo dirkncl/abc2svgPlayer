@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Boar's Head Carol
+Z: English Traditional
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G | c2 c3/ c/ | B c G E | F F A F | G3/ G/ A G/G/ | c c/c/ c c | B c G E | F F A F | G3/ G/ c2 |"^Refrain" c3/ c/ B B | c c G2 | F F A F | G G c2|]
+w: The boar's head in hand bear I, Be- decked with bays and rose- ma ry. And I pray you, my mas- ters mer- ry be, Quot est- is in con- vi vi o. Ca- put a- pri de- fe ro Red- dens lau- des Do- mi no.
+

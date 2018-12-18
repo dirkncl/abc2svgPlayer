@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Beyond The Glittering Starry Skies
+Z: Fanch and Turner, alt.
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F3/ | B F/ D F/ | B d/ f e/ | d c/ B A/ | B3/ f3/ | f d/ d d/ | e c/ c c/ | d f/ e d/ | c3/ c3/ | c d/ (e/c/) A/ | B c/ d F/ | (G/A/) B/ (c/d/) e/ | (d3/ c) F/ | B B/ B d/ | (c/B/) c/ B c/ | d d/ d f/ | (e/d/) e/ d B/ | g g/ g g/ | f e/ d e/ | f g/ d c/ | B3/"^Verse 3." F3/ | B F/ D F/ | B d/ f e/ | d c/ B A/ | B3/ f3/ | f d/ d d/ | e c/ c3/ | d/ e/ f/ e d/ | c3/ c3/ | c d/ (f/e/) A/ | B c/ d3/ | G/ A/ B/ (c/d/) e/ | (d3/ d) F/ | B B/ B d/ | (c/B/) c/ B c/ | d d/ d f/ | (e/d/) e/ d B/ | g g/ g g/ | f e/ (d e/) | [M: 9/8]  f/ f/ g/ d3/ c3/ | B3|]
+[V: P2]  F3/ | (D C/) D3/ | F3/ B3/ | B3/ F3/ | (F3/ F)z/ | (B3/ F3/) | (A G/) (F E/) | D3/ G3/ | C3/ (A G/) | F3/ F F/ | F E/ F F/ | G G/ G G/ | (F3/ F) F/ | D3/ D F/ | E3/ (D E/) | F3/ F B/ | A3/ F F/ | G A/ B c/ | F A/ B B/ | B G/ F E/ | D3/ E3/ | (D3/ D) E/ | F3/ B3/ | B3/ F3/ | F3 | (B3/ F3/) | (A G/) (F E/) | F3/ G3/ | C3/ C3/ | A G/ F F/ | F E/ D3/ | G/ A/ B/ c G/ | (B3/ A) F/ | D3/ (D F/) | E3/ (D E/) | F3/ F3/ | A3/ B3/ | G A/ B c/ | F A/ B3/ | [M: 9/8]  B/ A/ G/ B3/ A3/ | B3|]
+[V: P3]  F,3/ | F,3/ B, C/ | D3/ (D E/) | (F E/) C3/ | (D3/ D)z/ | (D C/ B,3/) | (C B,/) (A, G,/) | F,3/ B,3/ | A,3/ (C B,/) | A,3/ A, C/ | F, A,/ B, F,/ | (G,/ A,/) B,/ C G,/ | (B,3/ A,)z/ | B,3/zz/ |zz/z F,/ | B,3/ B, D/ | C3/ D D/ | B, E/ E E/ | D E/ F G/ | F B,/ B, A,/ | F,3/zz/ | F,3/ B, C/ | (D3/ D) E/ | (F E/) C3/ | D3 | (D C/ B,3/) | (C B,/) A,3/ | (B,/C/D/) (C B,/) | A,3/ B,3/ | C B,/ A, C/ | B, A,/ B,3/ | G,/ A,/ B,/ C C/ | (F3/ F) F,/ | B,3/ F,3/ | A,3/ B,3/ | B,3/ (B, D/) | F3/ (F D/) | B, E/ E E/ | D E/ (F E/) | [M: 9/8]  B,/ B,/ B,/ F3/ E3/ | D3|]
+[V: P4]  F,3/ | (B,,3/ B,,) B,,/ | B,3/ (B, G,/) | F,3/ F,,3/ | (B,,3/ B,,)z/ | [B,,3F,3] | [B,,3/F,3/] [B,,3/F,3/] | B,,3/ B,,3/ | F,,3/ C,3/ | F,3/ F, E,/ | D, C,/ B,, F,/ | G, G,/ E, C,/ | (F,3/ F,) F,/ | B,3/ B,, B,,/ | F,3/ B, A,/ | B,3/ B, D/ | F,3/ B, B,/ | E, F,/ G, A,/ | B, B,/ B, E,/ | D, E,/ F, F,/ | B,,3/ F,3/ | (B,,3/ B,,) B,,/ | (B,3/ B,) G,/ | F,3/ F,,3/ | B,,3 | [B,,3F,3] | [B,,3/F,3/] [B,,3/F,3/] | [B,,3/B,3/] [(B,,(G,] [B,,/)D,/)] | [F,,3/F,3/] C,3/ | F, F,/ F, E,/ | D, C,/ B,,3/ | G,/ A,/ B,/ C E,/ | (F,3/ F,) F,/ | B,3/ B,,3/ | F,3/ B,3/ | F,3/ B,,3/ | F,3/ B,3/ | E, F,/ G, A,/ | B, B,/ (B, G,/) | [M: 9/8]  D,/ D,/ E,/ F,3/ [F,,3/F,3/] | [B,,3F,3]|]
+

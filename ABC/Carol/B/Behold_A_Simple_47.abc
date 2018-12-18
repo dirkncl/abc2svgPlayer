@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Behold A Simple Tender Babe
+Z: Robert Southwell
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  (G/A/) | B (F/G/) E (G/A/) | (B/A/) (F/G/) E F | G (E/F/) G c | B3 (A/B/) | c (B/A/) B (A/G/) | A B G e | d (^c/B/) c c | B3 B | B3/ ^c/ d d | (A/G/) (A/B/) c c | G (G/F/) G A | B3 B | A A G B | A A G e | B (A/G/) A B | E3|]
+w: Be-_ hold a_ sim- ple_ ten-_ der_ babe, In freez- ing_ win- ter night, In_ home- ly_ man- ger_ tremb- ling lies: A- las! A_ pi- teous sight. The inns are full; no man_ will_ yield This lit- tle_ Pil- grim bed; But forced He is with sense- less beasts In crib to_ shroud his head.
+

@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Belmont
+Z: William Gardiner, 1812
+Z: Public  domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+K: C
+[V: P1]  G [c2e2] | [Bd] c2 | [GB] [GB] [FA] | [Fc] G2 | [Gg] [Gg] f | [Ge] [Ae] d | [Ac] [G2-c2-] | [Gc] B2 | G [G2e2] | [Fd] [E2c2] | [GB] [GB] [FA] | [Fc] [E2G2] | [Gg] [Ag] f | [Fd] [Gc] e | [Fd] [E2-c2-] | [E2c2]z|]
+[V: P2]  [CE] [C2G2] | [G,F] [A,2E2] | [E,C] [F,2C2] | [A,C] [C2E2] | [G,B,] [A,C] [B,D] | C [F,C] D | [^F,^D] [G,2-E2-] | [G,E] D2 | [G,B,] C2 | [G,B,] [A,2C2] | [E,C] [F,2C2] | [A,C] C2 | [E,C] [F,2C2] | [F,D] [G,E] C | [G,B,] [C,2-C2-] | [C,2C2]z|]
+

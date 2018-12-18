@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Babe in Bethlem's Manger Laid
+Z: Traditional
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  E | A c B ^G | A c E2 | c2 A c | B =G E E | A c B =G | A c F F | (E/ D/) (E/ ^F/) =G E | e4 |"^Chorus" [K: A]  c2 c c | (d/c/d/e/ d) (c/B/) | A G/ A/ B c | B3 E | A A B B | c e B (c/d/) | e A B (A/G/) | A3|]
+w: The Babe in Beth- l'em's man- ger laid, In hum- ble form so low, By won- d'ring an- gels is sur- veyed Thro' all_ His_ scenes of woe. No- el, no- el,____ Lord_ sing a Sa- vior's birth, All hail His com- ing down to earth, Who rais-_ es us to heav'n.__
+

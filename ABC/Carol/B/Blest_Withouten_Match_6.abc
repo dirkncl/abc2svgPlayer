@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Blest, Withouten Match
+Z: From "Branle de la torche"
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: none
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  G A B B | A3 A | G B A G | ^F2 F2 | G A B B | A3 c | B (A/G/) A A | G2 G2 :|][|: =E2 ^F2 | G2 G2 :|]|] Z 
+[V: P2]  D F F =E | F3 F | E F F D | D2 D2 | D F F =E | F3 G | G D (D/C/) A, | =B,2 B,2 :|][|: C2 C2 | D2 D2 :|]|] Z 
+[V: P3]  B, C D B, | C3 D | B, D C B, | A,2 A,2 | B, C D B, | C3 E | D B, A, ^F, | G,2 G,2 :|][|: G,2 A,2 | =B,2 B,2 :|]|] Z 
+[V: P4]  G, F, B, G, | F,3 D, | E, B,, F, G, | D,2 D,2 | G, F, B, G, | F,3 C, | G, G, D, D, | G,,2 G,,2 :|][|: (C, =B,,) A,,2 | G,,2 G,,2 :|]|] Z 
+

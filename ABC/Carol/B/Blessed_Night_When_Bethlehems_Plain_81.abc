@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Blessed Night, When Bethlehem's Plain
+Z: J. W. Sidebotham
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: A
+[V: P1]  E3/ E/ E A | A F E2 | E3/ E/ E c | c B B2 | G A B c | c B c2 | A c B2 | A4|]
+w: Blesse- d night, when Beth- 'lem's plain Ech- o'd with the joy- ful strain, "Peace has come to earth a- gain." Al- le lu ia!
+

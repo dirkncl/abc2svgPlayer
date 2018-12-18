@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Bethlehem Shepherd-Boy's Tale
+Z: W. H. Havergal
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D2 | G G B3/ c/ | d2 D D | G G (B3/ c/) | d2 B B | e2 c3/ B/ | A2 d3/ A/ | B2 B B | B B B3/ B/ | e2 A3/ A/ | A2 A3/ A/ | d2 G G | c2 B3/ A/ | G2 A3/ F/ | G2|]
+w: So hap- py all the day, Had I been with- out_ play, And such good thoughts had come o'er my mind, That I won- der'd what it meant Or for why it was sent, As I ne'er had felt aught of the kind.
+

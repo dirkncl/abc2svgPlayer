@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: blaenwrn[1]
+Z: Williams P. Rowlands, 1905
+Z: Public domain
+L: 1/4
+M: 6/4
+Q: 1/4=125
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Blaenwern, 87.87 D"
+%%MIDI program 2 19
+K: F
+[V: P1]  [A,2C2] [A,C] [B,2D2] [B,D] | [A,C] [CF] [CA] [C2A2] [CG] | [A,F] D [_DE] =D2 [A,C] | [G,C] [CE] [=B,D] C3 | [A,2C2] [A,C] [B,2D2] [B,D] | [A,C] [CF] [CA] [C2A2] [CG] | [A,F] D [EG] [FA] B [DG] | [C2F2] [CE] [C3F3] | [C2A2] [_DA] [=DA] F [FA] | [FB] A [EG] [F2A2] [FA] | [F2c2] [Ec] [Fc] A [Gc] | [Fd] [Ec] [D/=B/]F/ [E3c3] | [F2B2] [EB] [F2c2] [FA] | [Gc] B [FA] [F2A2] [EG] | F2 [EG] [FA] B [DG] | [C2F2] [CE] [C3-F3-] | [C3/4F3/4]z2z/4z3|]
+[V: P2]  [F,,2F,2] [F,,F,] [F,,2F,2] [F,,F,] | [F,,F,] A, [F,,F,] [C,2F,2] [C,E,] | [D,F,] A, [A,,G,] [B,,2F,2] [F,,F,] | [G,,E,] G, [G,,F,] [C,3E,3] | [F,,2F,2] [F,,F,] [B,,2F,2] [B,,F,] | [F,,F,] A, [F,,F,] [C,2F,2] [C,E,] | [D,F,] A, [C,C] [F,C] [B,,D] [B,,B,] | [C,2A,2] [C,/G,/]B,/ [F,3A,3] | [F,2A,2] [E,G,] [D,F,] A, [C,C] | [B,,D] [C,C] [C,C] [F,2C2] [F,C] | [A,2C2] [G,B,] [F,A,] C [E,G,] | [D,A,] G, [G,,G,] [C,3G,3] | B,2 [G,B,] A,2 [F,C] | [E,2C2] [F,C] [C,2C2] [C,C] | [A,C] [B,D] [G,B,] [F,C] [D,F,] [B,,G,] | [C,2A,2] [C,/G,/]B,/ [F,,3-A,3-] | [F,,3/4A,3/4]z2z/4z3|]
+

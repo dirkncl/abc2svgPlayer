@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Blasts Of Chill December
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  D | B (A/ G/) A ^F | G F E E | A3/ A/ G F | E2z E | F (G/ _A/) A G | G (_A/ B/) A F | F c B _A | G2z (c3/4 B/4) | A F D B | (A/ G/) (A/ B/) c c | c (B/ A/) G D | E2z c | c (A/ G/) F F | d (B/ A/) G c | (f/ c/) (B/ A/) G3/ F/ | F3|]
+w: The blasts of_ chill De- cem ber sound The fare- well of the year, And night's swift_ sha- dows gath- 'ring_ round O'er cloud the soul with fear; But_ rest you well, good Christ-_ ian_ men, Nor be of_ heart for- lorn; De- cem ber's_ dark- ness brings a-_ gain The Light_ of_ Christ- mas morn.
+

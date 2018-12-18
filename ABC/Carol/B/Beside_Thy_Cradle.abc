@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Beside Thy Cradle Here I Stand
+Z: Paul Gerhardt
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G | (G/ A/) B A G | A A B (G/ A/) | B c d (c/ B/) | (A/ G/ A) G G | (G/ A/) B A G | A A B (G/ A/) | B c d (c/ B/) | (A/ G/ A) G B | B A G F | (G A) B A A | G F G D | G A B (G/ A/) | B c d (c/ B/) | (A/ G/ A) G|]
+w: Be- side_ the cra- dle here I stand O_ Thou that ev- er_ liv-__ est And bring_ Thee with a will- ing hand The_ ver- y gifts Thou_ giv-__ est. Ac- cept me, 'tis my mind_ and heart My soul, my strength, my ev'- ry part That_ thou from me re-_ quir__ est.
+

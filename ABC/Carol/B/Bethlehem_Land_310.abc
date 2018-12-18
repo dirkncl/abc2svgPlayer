@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Bethlehem Land
+Z: T. Tertius Noble
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 3/8
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G G/ | G c/ | G G/ | G3/ | c E/ | F G/ | A B/ | A3/ | d3/ | A F/ | E3/ | Dz/ | d B/ | c A/ | d B/ | c3/ | e d/ | c A/ | d c/ | B3/ | c3/ | A F/ | D3/ | Cz/|]
+w: Fair the night in Bethl- 'hem land, Sweet the songs of an- gel band. Fall, snow, so light- ly! Je- su, born of Ma- ry maid, In an ox- en stall was laid, O star, shine bright- ly!
+
