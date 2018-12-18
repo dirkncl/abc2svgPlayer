@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Stars Look Down
+Z: Alsop Leffingwell.
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=105
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: F
+[V: P1]  C/ | A ^G/ A F/ | c =B/ c A/ | G ^F/ G A/ | =F G/ A C/ | A ^G/ A F/ | c =B/ (c/d/) e/ | f A/ =B e/ | d G/ cz/ | _B/ B/ A/ G F/ | E F/ G A/ | B A/ G A/ | F G/ A B/ | d d/ A A/ | c c/ G G/ | A E/ (F/E/) D/ | G =B,/ C C/ | A ^G/ A F/ | c =B/ c A/ | G ^F/ G A/ | =F G/ A A/ | A c/ B A/ | B d/ G =F/ | =E d/ (d/c/) =B/ | c e/ A c/ | f e/ d e/ | c A/ (F/G/) A/ | B D/ =E A/ | G F/ c c/ | f e/ d e/ | c B/ (F/=G/) A/ | B D/ E A/ | G C/ Fz/|]
+w: The Stars look down On Da- vid's town, While an- gels sing in Win- ter night; The Shep- herds pray, And far a- way_ The Wise Men fol- low guid- ing light. Lit- tle Christ Child By Ma- ry Mild In Man- ger lies with- out the Inn; Of Man the Son, Yet God in One, To save the lost_ in World of Sin. Still stars look down On Da- vid's town And still the Christ Child dwells with men, What thought give we To such as He, Or souls who live_ in Sin as then? Show we our love To Him a- bove_ By off- ring o- thers' grief to share; And Christ- mas cheer For all the year_ Be- stow to light- en pain and care.
+[V: P2]  C/ | F F/ F F/ | F F/ F F/ | E ^D/ E E/ | =D E/ F C/ | F F/ F F/ | F F/ (E/=G/) G/ | F A/ G G/ | F F/ Ez/ | E/ E/ E/ E D/ | D C/ E F/ | E E/ E E/ | D D/ ^C E/ | D D/ D D/ | =E E/ (D/=F/) =E/ | E E/ D D/ | =B, B,/ C C/ | F F/ F F/ | F F/ F F/ | E ^D/ E E/ | =D E/ F F/ | _E E/ E E/ | D D/ C C/ | C C/ E E/ | E E/ E E/ | F F/ F E/ | F E/ D _E/ | D D/ C C/ | C =B,/ C E/ | F F/ F F/ | F E/ D D/ | D D/ C C/ | B, B,/ A,z/|]
+[V: P3]  A,/ | C =B,/ C A,/ | A, ^G,/ A, C/ | _B, A,/ B, C/ | A, C/ C A,/ | C =B,/ C A,/ | A, D/ (C/=B,/) C/ | D D/ D C/ | (=B,/A,/) B,/ Cz/ | D/ D/ C/ _B, A,/ | G, A,/ B, C/ | D C/ B, A,/ | (A,/F,/) E,/ E, G,/ | F, F,/ A, A,/ | A, C/ D D/ | ^C A,/ (A,/G,/) =F,/ | F, F,/ E, C/ | C =B,/ C A,/ | A, ^G,/ A, C/ | _B, A,/ B, C/ | A, C/ C C/ | C C/ C C/ | B, B,/ B, B,/ | B, B,/ D D/ | C C/ C C/ | A, A,/ B, B,/ | A, A,/ A, ^F,/ | G, G,/ G, =F,/ | E, F,/ G, _B,/ | A, B,/ =B, B,/ | (C/A,/) A,/ (A,/=G,/) ^F,/ | G, G,/ G, =F,/ | E, E,/ F,z/|]
+[V: P4]  F,/ | F, F,/ F, F,/ | F, F,/ F, F,/ | C, C,/ C, C,/ | =D, C,/ F, F,/ | F, F,/ F, F,/ | A, ^G,/ (=G,/F,/) E,/ | D, F,/ G, G,/ | G, G,/ C,z/ | C,/ C,/ C,/ C, C,/ | C, C,/ C, C,/ | C, C,/ C, ^C,/ | D, B,,/ A,, ^C,/ | D, D,/ F, F,/ | ^F, A,/ B, B,/ | A, ^C,/ D, D,/ | G,, G,,/ C, C,/ | F, F,/ F, F,/ | F, F,/ F, F,/ | C, C,/ C, C,/ | =D, C,/ F, F,/ | ^F, F,/ F, F,/ | G, G,/ G, G,/ | G, G,/ ^G, G,/ | A, A,/ A, A,/ | D, C,/ B,, G,,/ | A,, C,/ D, C,/ | B,, B,,/ C, C,/ | C, D,/ E, G,/ | F, G,/ ^G, G,/ | A, C,/ (D,/B,,/) A,,/ | G,, B,,/ C, C,/ | C, C,/ F,,z/|]
+

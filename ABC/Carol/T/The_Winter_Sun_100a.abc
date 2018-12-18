@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Winter Sun Was Setting
+Z: W. D. V. Duncombe
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  d | c A B G | A2 D G | A B c e | d2z d | c A B G | A2 D G | A B c e | d2z G | A B c d | B2 Gz | c2 B A | (G2 ^F) G | A B c d | B2 Gz | c2 A B | G2z|]
+w: The win- ter sun was set- ting, The shades of eve were nigh, When lov- ing Jew- ish mo- thers Thus sang their lul- la by: O rest thee, gen- tle ba- by! The night stars peep;_ Hush! lit- tle birds are si- lent; Sleep! dear one, sleep!
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: This New Christmas Carol
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/2
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  F F | A2 B2 | c c F F | A2 G2 | F2 F F | A2 B2 | c c F F | A2 G2 | F2 F c | c c B c | A F F G | A2 B2 | c2 c f | f f c B | A G F G | A2 G2 | F2|]
+w: This new Christ- mas car- ol Let us brave- ly sing, To the praise and glo- ry Of our Heaven- ly King, Who was born of Vir- gin low- ly, Ma- ry was her name, And for us and our re- demp tion To the world here came.
+[V: P2]  F F | C2 F2 | E E F F | F2 E2 | C2 F F | F2 (F E) | E E C D | (E F) (E =D) | C2 F G | A G F G | F F F =E | F2 F2 | =E2 F (F/G/) | A A G F | E E C E | (E F) E2 | C2|]
+[V: P3]  F, F, | A,2 F,2 | G, G, A, A, | (D C) B,2 | A,2 F, F, | F,2 (F, G,) | A, G, A, A, | (A, D) B,2 | A,2 A, G, | F, C D E | C D C B, | A,2 (F, G,/F,/) | G,2 A, (A,/B,/) | C C C (F,/G,/) | A, B, A, B, | (A, D) (B, G,) | =A,2|]
+[V: P4]  F, F, | F,2 D,2 | C, C, F, F, | D,2 E,2 | F,2 F, F, | (F, E,) (D, E,) | A,, C, F, D, | (C, D,) E,2 | F,2 F, E, | F, E, D, C, | F, B, A, G, | (F, E,) D,2 | C,2 F, F, | F, F, E, D, | C, E, F, E, | (C, D,) E,2 | F,2|]
+

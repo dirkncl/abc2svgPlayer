@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: 'Tis Christmas Now
+Z: Henry Lawes
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D/ | F D A3/ A/ | c A dz/ F/ | (G/ A/) B A3/ G/ | G2z E | E3/ E/ F D | (D/ E/) (F/ G/) A3/ A/ | (B/ c/) (d/ c/) B3/ A/ | A2z A | [M: 3/4]  F2 B | G2 =c | (=c B3/) A/ | [M: 4/4]  A3 (F/ G/) | A E F (D/4 E/4 F/) | E3/ D/ D2|]
+w: 'Tis Christ- mas now, 'tis Christ- mas now, When Ca-_ to's self could laugh, And smooth- ing forth his wrink-_ led_ brow, Gives li-_ ber_ ty to quaff. To dance, to sing, to sport_ and play; For_ ev'- ry hour's a__ ho- li day.
+

@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Gift Of Christmas Time
+L: 1/4
+M: 2/4
+Q: 1/4=120
+V: P1 name="Soprano"
+%%MIDI program 1 0
+V: P2 name="Alto"
+%%MIDI program 2 0
+V: P3 name="Tenor"
+%%MIDI program 3 0
+V: P4 name="Bass"
+%%MIDI program 4 0
+K: C
+[V: P1]  E F | [M: 4/4]  G G ^F G | A/G/- G A B | c d c F | A/G/- G2 G/G/ | c c c3/ d/ | e c B c | d4- | d2 E F | G G ^F A | G2 A B | c c c3/ E/ | G3 G/G/ | c3/ c/ d e | d d c B | c4- | c2 c c | A3/ F/ F F | A2 c c | G3/ E/ E F | G3 G | c c c3/ c/ | c3/ c/ B c | d4- | d2 c d | e e/e/- e d | c2 c c | c d/c/- c E | G3 G/G/ | c c/d/- d e | d d c B | c4- | [M: 2/4]  c2|]
+[V: P2]  C D | [M: 4/4]  E E ^D E | F/E/- E F G | F F F C | F/E/- E2 E/E/ | E E E3/ F/ | G G G G | B4- | B2 E D | E E ^D ^F | E2 F G | F G A3/ E/ | E3 E/E/ | E3/ E/ F G | F F F F | E2 F D | E2 E E | F3/ C/ C C | F2 F F | E3/ C/ C D | E3 E | E E E3/ E/ | ^F3/ F/ =F A | G3 ^F | F2 F F | G G/G/- G F | E2 E G | A B/A/- A E | E3 E/E/ | E E/F/- F G | F F F F | E2 F D | [M: 2/4]  E2|]
+[V: P3]  E, E, | [M: 4/4]  G, G, ^F, G, | F,/E,/- E, F, G, | A, A, A, A, | C/C/- C2 C/C/ | G, G, G,3/ B,/ | C C B, C | D3 E | F2 C B, | C C B, B, | C2 C B, | A, B, C3/ C/ | C3 C/C/ | G,3/ G,/ G, G, | A, A, G, G, | G,2 A, F, | G,2 ^A, A, | C3/ A,/ A, A, | C2 A, A, | C3/ G,/ G, A, | C3 C | G, G, G,3/ G,/ | A,3/ A,/ D C | B,3 C | D2 C B, | C C/C/- C B, | G,2 ^A, A, | C B,/A,/- A, C | C3 C/C/ | G, G,/G,/- G, G, | A, A, G, G, | G,2 A, F, | [M: 2/4]  G,2|]
+[V: P4]  C, C, | [M: 4/4]  C, C, C, C, | C,/C,/- C, D, E, | F, F, F, F, | F,/E,/- E,2 E,/E,/ | C, C, C,3/ D,/ | E, E, D, E, | G,4- | G,2 G, F, | E, E, ^D, D, | E,2 F, F, | F, F, F,3/ E,/ | E,3 E,/E,/ | C,3/ C,/ D, E, | D, F, G, G,, | C,4- | C,2 C, C, | F,3/ F,/ F, F, | F,2 D, D, | C,3/ C,/ C, C, | C,3 C, | C, C, C,3/ C,/ | D,3/ D,/ D, ^F, | G,4- | G,2 G, G, | E, E,/E,/- E, D, | C,2 C, C, | F, F,/F,/- F, E, | E,3 E,/E,/ | C, C,/D,/- D, E, | D, F, G, G,, | C,4- | [M: 2/4]  C,2|]
+

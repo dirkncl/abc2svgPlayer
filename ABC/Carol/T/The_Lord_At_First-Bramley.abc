@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Lord At First Had Adam Made
+Z: English Traditional
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: G
+[V: P1]  (B/c/) | d c B (A/G/) | c B A G | F E B B | E3 (B/c/) | d c B (A/G/) | c B A G | F E B B | E3 F | G3/ F/ G (A/B/) | A G F D | G G d A | B3 e | d e B (A/G/) | c B A G | F E B B | E3"^Chorus" F | G3/ F/ G (A/B/) | A G F D | G G d A | B3 e | d e B (A/G/) | c B A G | F E B B | E3|]
+w: The_ Lord at first had_ Ad- am made Out of the dust and clay. And_ in his nos- trils_ breath- ed life E'en at the Scrip- tures day. And then in Ed- en's_ par- a dise He pla- ced him to dwell That he with- in it_ should re- main To dress and keep it well. Now let good Chris- tians_ all be- gin A ho- lier life to live. And to re- joice and_ mer- ry be For this is Christ- mas Eve.
+[V: P2]  D/E/ | F E D C/B,/ | E D/E/ F E | C E E ^D | E3 G | F E D C/B,/ | E D/E/ F E | C E E ^D | E3 ^D | E3/ ^D/ E F | E ^C D D | D G G F | G3 E | A G F E | E/F/ G F E | C E E ^D | E3 ^D | E3/ ^D/ E F | E ^C D D | D G G F | G3 E | A G F E | E/F/ G F E | C E E ^D | E3|]
+[V: P3]  G, | A, G,/A,/ B, F,/G,/ | G,/A,/ B,/C/ D B, | A, G, G, F, | G,3 G, | A, G,/A,/ B, F,/G,/ | G,/A,/ B,/C/ D B, | A, G, G, F, | G,3 B, | B,3/ B,/ B, =D | A, A, A, F, | D C B, D | D3 B, | A, B, B, B, | C D D B, | A, G, G, F, | G,3 B, | B,3/ B,/ B, D | A, A, A, F, | D C B, D | D3 B, | A, B, B, B, | C D D B, | A, G, G, F, | G,3|]
+[V: P4]  G, | D, E,/F,/ G, D,/E,/ | C, G, D, E, | A,, C, B,, B,, | E,3 E, | D, E,/F,/ G, D,/E,/ | C, G, D, E, | A,, C, B,, B,, | E,3 B,, | E,3/ B,,/ E, D, | ^C, A,, D, =C, | B,, E, D, D, | G,3 G, | F, E, ^D, E, | A, G, D, E, | A,, C, B,, B,, | E,3 B,, | E,3/ B,,/ E, D, | ^C, A,, D, =C, | B,, E, D, D, | G,3 G, | F, E, ^D, E, | A, G, D, E, | A,, C, B,, B,, | E,3|]
+

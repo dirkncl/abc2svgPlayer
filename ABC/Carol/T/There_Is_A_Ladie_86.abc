@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: There is a Ladie Sweet and Kind
+Z: Thomas Forde
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G | G3/ A/ B (A/ B/) | c A G2 |z A c3/ d/ | e A B B | A2z d | B3/ c/ A3/ F/ | G A B e | d3/ d/ c B | A A G2|]
+w: When- as the Word di-_ vine had found One spot- less flow'r 'mid thor- ny ground, One li- ly of the val- ley low, One Vir- gin blos- som white as snow,
+

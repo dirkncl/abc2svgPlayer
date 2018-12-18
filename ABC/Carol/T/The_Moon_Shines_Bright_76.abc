@@ -1,0 +1,32 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Moon Shines Bright
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff-1"
+%%MIDI program 1 19
+V: P2_1 name="Right Hand"
+V: P2_2
+%%MIDI program 2 0
+V: P3_1 name="Left Hand"
+V: P3_2
+%%MIDI program 3 0
+K: F
+[V: P1] z | z4 | z4 | z4 |z2z c/ B/ | A (G/A/) F A/ A/ | B d/ G/ c c/ B/ | A B/ c/ d G | c2z A | B (c/d/) c (d/c/) | B/ B/ A/ G/ F A/ B/ | c c/c/ G (B/A/) | F3|]
+w: Oh, the moon shines_ bright and the stars give a light Oh, a lit- tle be- fore the day; Our Lord our_ God He_ calls up- on us all, And He bids us a- wake and_ pray.
+% Extracting voice 1 from part P2
+[V: P2_1]  | | | | | [FA] F2 | B d d | (A [Fd] [FG] | c3 [(F(A] | B c | (G/F/ [^CE] F/F/ E/D/ | B/A/ ||]
+% Extracting voice 2 from part P2
+[V: P2_2]  | | | | | x1  G F A | F2 E2 c/B/) | E2 B/c/ x2  | E) F G x1  | F2 c/d/ F2 A) | D x1  D | C) (D E E ||]
+% Extracting voice 1 from part P3
+[V: P3_1]  | | | | | C) B, (A,/E/ D/C/) | (D B, [F,2)G,2)B,2)] | C [D,/B,/][C,/A,/] [B,,)G,)] [=B,,G,] | G,3 F, | D) B, A, C | [G,B,] A, A, =C,/B,,/) | ||]
+% Extracting voice 2 from part P3
+[V: P3_2]  | | | | | F,4 | F,2 x2  | (F,/E,/ x3  | C, D, E, (F,/E/ | F,4 | x1  (D,/D,/ | ||]
+

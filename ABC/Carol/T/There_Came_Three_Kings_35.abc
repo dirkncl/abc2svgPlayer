@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: There Came Three Kings Ere Break Of Day
+Z: Rev. R. F. Smith
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F | F (G3/4F/4) F B | F (G3/4F/4) F B | G (A/B/) c e | d2z c | F (G3/4F/4) F _A | G B e d | d (c3/4A/4) d (c3/4B/4) | F3 F | d (c3/4B/4) F G | B G F2 | d c3/4 B/4 G B | d (A3/4B/4) G d | f e3/4 d/4 c F | B2z|]
+w: There came three_ kings ere break of_ day, All on E-_ pi phan y; Their gifts they_ bare, both rich and rare, All, all, Lord_ Christ, for_ Thee: Gold, frank- in_ cense, and myrrh are there, Where is the King? O where? O_ where? O where is the King? O where?
+

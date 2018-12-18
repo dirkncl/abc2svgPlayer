@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: To God On High All Glory Be
+Z: Adam Geibel
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: F
+[V: P1]  A | A3/ ^G/ A F | c3/ B/ A2 | c3/ c/ d c | (c/B/) A G2 | G3/ A/ B G | c3/ B/ B A | c3/ d/ e G | e3/ d/ c2 |"^Chorus" d3/ c/ c B | c3/ B/ B A | A3/ =B/ c B | c d e2 | e3/ e/ f c | B3/ c/ B A | d3/ B/ A (c/B/) | A3/ G/ F|]
+w: The shep- herds saw in East- ern sky, Star of prom- ise shin-_ ing bright, Ev- er gleam- ing, gleam- ing ev- er, With its bright ef- ful gent light. Bless- ed Sa- viour, Son of Ma- ry, In a sta- ble He was born, Ho- ly An- gels wat- ching o'er Him, On that na- tal_ Christ- mas morn.
+[V: P2]  F | F3/ F/ F F | E3/ E/ F2 | F3/ F/ F F | G F E2 | E3/ F/ G E | A3/ G/ G F | F ^F G G | F3/ F/ E2 | B3/ A/ A G | A3/ G/ G F | E3/ ^G/ A G | A =F E2 | =G3/ G/ F F | F E F F | F3/ G/ F F | E3/ E/ F|]
+[V: P3]  C | C3/ =B,/ C A, | G,3/ C/ C2 | C3/ C/ B, C | C C C2 | C3/ C/ C C | C3/ C/ C C | C3/ C/ C E | [G,3/=B,3/] B,/ C2 | z4 | C3/ C/ C C | C3/ E/ E E | E =B, C2 | C3/ C/ C C | D C C C | B,3/ D/ C (A,/D/) | C3/ B,/ [F,A,]|]
+[V: P4]  F, | F,3/ F,/ F, F, | C,3/ C,/ F,2 | A,3/ A,/ B, A, | E, (F,/A,/) C2 | C,3/ C,/ C, C, | C,3/ C,/ F, F, | A, _A, G, G, | G,,3/ G,,/ C,2 | z4 | (C, D,/)E,/ F, F, | E,3/ E,/ A, E, | A, G, C,2 | _B,3/ B,/ A, A, | G, C, F, F, | B,,3/ B,,/ C, C, | C,3/ C,/ F,,|]
+

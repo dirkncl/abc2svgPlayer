@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Winter Sun Was Setting
+Z: Rev. T. Helmore
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c | (c A) c | d2 c | (c3/4 B/4) A (A3/4 B/4) | c2 d | c2 f | (e3/4 d/4 c) B | (A F) A | (B G) B | (A/ B/) c2 | (f e d) | (c B) G | F2 E | F2 A | (c A) c | (c A) c | d2 c |zz G | G2 A | B2z | A2z | A3/4 B/4 c d | (F3/ E/) F | (B A G | F2)z | (F E) G | F2|]
+w: The win-_ ter sun was set-_ ting, The_ shades of eve were nigh,__ When lov-_ ing Jew-_ ish mo-_ thers Thus__ sang_ their lul- la by: O rest_ thee, gen-_ tle ba- by! The night stars peep; Hush! lit- tle birds are si-_ lent; Sleep!___ dear_ one, sleep!
+

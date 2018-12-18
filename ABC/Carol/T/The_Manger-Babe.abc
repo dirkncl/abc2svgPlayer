@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Manger-Babe
+Z: Grant Colfax Tullar
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  d A/ c B/ | F3/ G B/ | A3/ E3/ | (E3/ E)z/ | c =B/ d c/ | A3/ E A/ | G3/ =E3/ | (F3/ F)z/ | d A/ c B/ | F3/ B d/ | c3/ d3/ | (e3/ e)z/ | B A/ B G/ | F3/ (c/d/) e/ | d3/ c3/ | (B3/ B)z/ |"^Chorus." d3/ ^c d/ | e3/ d3/ | d3/ c3/ | (B3/ B)z/ | B3/ A G/ | F3/ d3/ | c3/ G3/ | (c3/ c)z/ | d3/ ^c d/ | e3/ d3/ | d3/ c3/ | (B3/ B)z/ | B3/ A G/ | F3/ d e/ | d3/ c3/ | (B3/ B)z/|]
+w: There's a man- ger Babe in a far off land,_ But it holds the world in its in- fant hand;_ Just a man- ger Babe in its hum- ble bed,_ But a match- less crown is_ up- on its head._ O man- ger Babe, Thy low- ly rest_ More roy- al is than prince- ly bed;_ Best of earth's di- a dems would be_ On- ly as dross on Thy King- ly head._
+[V: P2]  D D/ D D/ | D3/ D D/ | E3/ A,3/ | (A,3/ A,)z/ | E E/ E E/ | E3/ C E/ | E3/ ^C3/ | (D3/ D)z/ | D D/ D D/ | D3/ D F/ | G3/ G3/ | (G3/ G)z/ | G ^F/ G E/ | D3/ F F/ | F3/ E3/ | (D3/ D)z/ | F3/ =E F/ | G3/ F3/ | F3/ E3/ | (D3/ D)z/ | G3/ F E/ | D3/ F3/ | =E3/ E3/ | (_E3/ E)z/ | F3/ =E F/ | G3/ F3/ | ^F3/ D/E/F/ | (G3/ G)z/ | G3/ F E/ | D3/ F G/ | F3/ E3/ | (D E/ D)z/|]
+[V: P3]  F, F,/ F, F,/ | B,3/ B, F,/ | F,3/ F,3/ | (F,3/ F,)z/ | A, A,/ A, A,/ | C3/ A, C/ | B,3/ G,3/ | (F,3/ F,)z/ | F, F,/ F, F,/ | B,3/ F, B,/ | B,3/ =B,3/ | (C3/ C)z/ | B, C/ B, B,/ | B,3/ (A,/B,/) C/ | B,3/ A,3/ | (B,3/ B,)z/ | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z/ (F,/G,/) F,z/|]
+[V: P4]  B,, B,,/ B,, B,,/ | B,,3/ B,, B,,/ | C,3/ C,3/ | (C,3/ C,)z/ | F, F,/ F, F,/ | F,3/ F, F,/ | B,,3/ B,,3/ | (B,,3/ B,,)z/ | B,, B,,/ B,, B,,/ | B,,3/ B,, B,,/ | E,3/ D,3/ | (C,3/ C,)z/ | E, E,/ E, E,/ | B,,3/ F, F,/ | F,3/ F,3/ | (B,,3/ B,,)z/ | B,,/[F,/B,/D/][F,/B,/D/] B,,/[F,/B,/D/][F,/B,/D/] | B,,/[F,/B,/D/][F,/B,/D/] B,,/[F,/B,/D/][F,/B,/D/] | F,,/[F,/A,/][F,/A,/] F,,/[F,/A,/][F,/A,/] | B,,/[D,/F,/B,/][D,/F,/B,/] B,,/[D,/F,/B,/][D,/F,/B,/] | E,/[G,/B,/E/][G,/B,/E/] E,/[G,/B,/E/][G,/B,/E/] | B,,/[D,/F,/B,/][D,/F,/B,/] B,,/[D,/F,/B,/][D,/F,/B,/] | C,/[=E,/G,/B,/][=E,/G,/B,/] C,/[=E,/G,/B,/][=E,/G,/B,/] | F,,/[F,/A,/][F,/A,/] [F,,/F,/][G,,/G,/][A,,/A,/] | B,,/[F,/B,/D/][F,/B,/D/] B,,/[F,/B,/D/][F,/B,/D/] | B,,/[F,/B,/D/][F,/B,/D/] B,,/[F,/B,/D/][F,/B,/D/] | D,,/[D,/^F,/C/][D,/^F,/C/] D,,/[D,/^F,/C/][D,/^F,/C/] | G,,/[G,/B,/D/][G,/B,/D/] G,,/[G,/B,/D/][G,/B,/D/] | E,/[G,/B,/E/][G,/B,/E/] E,/[G,/B,/E/][G,/B,/E/] | B,,/[D,/F,/B,/][D,/F,/B,/] B,,/[D,/F,/B,/][D,/F,/B,/] | F,,/[F,/A,/][F,/A,/] F,,/[F,/A,/][F,/A,/] | (B,,3/ B,,)z/|]
+

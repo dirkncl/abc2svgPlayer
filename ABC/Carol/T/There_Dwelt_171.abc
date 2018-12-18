@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: There Dwelt In Old Judea
+Z: J. P. Harding
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  (A/ B/) | c3/ c/ A G | F2 F (F/ G/) | A A (c/ B/) (A/ B/) | c3 (A/ B/) | c3/ c/ A (A/ G/) | F3/ F/ F F/ G/ | (A/ B/) c G3/ A/ | F3"^Chorus" (c/ d/) | e2 e c | f2 e e | d c B A | G3 G | A3/ A/ B B/ B/ | c3/ B/ A2 | c3/ c/ =d d/ d/ | =e3/ =d/ c2 | f _e/ _d/ c c | (B2 d2) | c B/ A/ G G | F3z|]
+w: There_ dwelt in old Ju- de a, A_ mai- den fair_ to_ see, The_ moth- er mild and_ un- de filed, Of a bless-_ ed babe was she. Oh!_ No- el sing No- el And mer- ry be al- way, For Christ was born in the ear- ly morn Christ was born in the ear- ly morn, All on a Christ- mas day,_ All on a Christ- mas day.
+

@@ -1,0 +1,24 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: They've Taken Christ Out Of Christmas
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Soprano"
+%%MIDI program 1 0
+V: P2 name="Alto"
+%%MIDI program 2 0
+V: P3 name="Tenor"
+%%MIDI program 3 0
+V: P4 name="Bass"
+%%MIDI program 4 0
+K: F
+[V: P1]  A2 c/A/ | G A3/ G/ | F D2- | D2 F/D/ | C2 F/F/ | F G A | G3- | G2 G | A2 c/A/ | A A3/ G/ | F D2- | D2 F/D/ | C2 F/E/ | E F G | F3- | F2 C | C G3/ G/ | G2 F/E/ | F A2- | A2 A | G2 =B/c/ | d =B G | c3- | c2 c | c2 c/B/ | A G3/ F/ | B D2- | D2 F | F2 F/A/ | G F E | F3- | F2 A/B/ | c c A | B/A/ G F | G D2- | D2 F/D/ | C2 F/A/ | c c A | G3- | G2 c | c c B | A3/ G/ F | B D2- | D2 F/D/ | C/C/- C F/A/ | G3/ A/ B/E/ | F3- | F3|]
+[V: P2]  F2 A/F/ | E E3/ E/ | D D C | B,2 D/B,/ | A,2 C/C/ | D D F | D3 | E2 E | F2 A/F/ | E E3/ E/ | D D C | B,2 D/B,/ | A,2 C/E/ | C D C | C3- | C2 C | C E3/ E/ | E2 D/C/ | C F2- | F2 F | D2 G/G/ | =B G F | E2 F | G2 G | A2 A/G/ | F C3/ C/ | D B,2- | B,2 D | C2 C/F/ | E D D | C3- | C2 F/G/ | A A F | G/F/ E F | D D C | B,2 D/B,/ | A,2 C/F/ | F G F | D3 | E2 G | A A G | E3/ E/ F | F D C | B,2 D/B,/ | A,/A,/- A, C/F/ | E3/ F/ G/C/ | C3- | C3|]
+[V: P3]  C2 C/C/ | _D D3/ D/ | D B, A, | G,2 G, | F,2 A,/A,/ | A, B, C | B,3- | B,2 B, | C2 C/C/ | _D D3/ D/ | D B, A, | G,2 G, | F,2 A, | C =B, _B, | A,3- | A,2 A, | G, C3/ =B,/ | B,2 B,/B,/ | A, C2- | C2 C | =B,2 D/E/ | F D =B, | C2 =B, | B,2 B, | A,2 C/C/ | C A,3/ A,/ | B, F, _A, | G,2 B, | A,2 A,/A,/ | B, B, B, | A,3- | A,2 A,/B,/ | C C C | _D D D | D B, A, | G,2 G,/G,/ | F,2 A,/A,/ | A, B, C | B,3- | B,2 B, | C C C | _D3/ D/ D | D B, A, | G,2 B,/G,/ | F,/F,/- F, A,/A,/ | C3/ C/ B,/B,/ | A,3- | A,3|]
+[V: P4]  F,2 F,/F,/ | E, E,3/ E,/ | D, D,2- | D,2 D, | C,2 C,/C,/ | D, D, D, | D,3 | C,2 C, | F,2 F,/F,/ | E, E,3/ E,/ | D, D,2- | D,2 E, | C,2 C, | E, D, E, | F,3- | F,2 F, | E, E,3/ E,/ | C,2 D,/E,/ | F, F,2- | F,2 F, | G,2 G,/G,/ | G, F, D, | E,2 D, | E,2 E, | F,2 F,/F,/ | _E, E,3/ E,/ | D, D,2- | D,2 D, | C,2 C,/C,/ | C, D, E, | F,3- | F,2 F,/F,/ | F, F, F, | E, E, F, | D, D,2- | D,2 D,/D,/ | C,2 C,/C,/ | D, D, D, | D,3 | C,2 C, | F, F, F, | E,3/ E,/ F, | D, D,2- | D,2 D,/D,/ | C,/C,/- C, C,/C,/ | C,3/ C,/ C,/C,/ | F,3- | F,3|]
+

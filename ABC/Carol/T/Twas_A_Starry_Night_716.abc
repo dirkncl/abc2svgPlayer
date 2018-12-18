@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: 'Twas A Starry Night Of Old
+Z: C. L. Naglor
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G/ B/ | c d/ c G/ | (B3/ B/) G/ F/ | E E/ F E/ | G3/z/ G/ B/ | c d/ c G/ | (B3/ B/) G/ F/ | E E/ F G/ | (E3/ E/)|]
+w: 'Twas a star- ry night of old,_ When re- joic ing an- gels told The poor shep- herds of Thy birth,_ God be- came a child on earth._
+

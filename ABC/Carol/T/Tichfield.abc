@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Tichfield
+Z: John Richardson, 1816-1879
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  G (B/A/) G B | e (d/c/) B2 | B E A G | G3/ F/ F2 | G (B/A/) G B | e (d/c/) B2 | B E A G | G F E2 | A G c B | d (c/B/) e2 | d c B G | B (A/G/) F2 | G (B/A/) G B | e (d/c/) B2 | c B A G | G F E2|]
+[V: P2]  E F E D | E E E2 | E E D E | E3/ E/ D2 | E E E F | E E D2 | E E E E | E D E2 | F E D E | F (E/D/) E2 | G E F E | E C D2 | E F E F | E (F/E/) D2 | D E E E | E D E2|]
+[V: P3]  B, B, B, B, | B, A, G,2 | G, B, B, B, | C3/ C/ B,2 | B, C B, B, | G, =A, B,2 | B, G, C C | B, (B,/A,/) G,2 | B, B, A, B, | B, B, B,2 | B, A, F, B, | B, E, B,2 | B, B, B, B, | G, =A, B,2 | A, G, A, C | B, (B,/A,/) G,2|]
+[V: P4]  E, D, E, F, | G, A, E,2 | E, G, F, E, | A,, =A,, B,,2 | E, E, E, D, | C, F, B,,2 | G,, C, A,, A,, | B,, B,, E,2 | D, E, F, G, | A, A, G,2 | G, A, D, E, | G,, A,, B,,2 | E, D, E, D, | C, F, B,,2 | F, G, C, A,, | B,, B,, E,2|]
+

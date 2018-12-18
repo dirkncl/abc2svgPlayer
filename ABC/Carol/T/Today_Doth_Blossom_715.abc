@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Today Doth Blossom Jesse's Stem
+Z: E. J. Hopkins, Mus. D
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/4
+Q: 1/4=135
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F | A2 A B2 A | F2 G A2 F | A2 d c2 F | F2 G A2 A | B2 A (G A) B | A2 G F2 A | D2 E F2 A | A2 =B ^c3 | (d3 c3 | B3 A G) F | G6 | (F3 F2)|]
+w: To- day doth blos- som Jes- se's stem, And bear- eth fruit in Beth- le hem: O wel- come tid-_ ings for man- kind, Sweet sol- ace for the trou- bled mind. Al-____ le lu ya!_
+

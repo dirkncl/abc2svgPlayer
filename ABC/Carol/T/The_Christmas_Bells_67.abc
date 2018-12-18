@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Christmas Bells Are Ringing
+Z: Arranged by Mr. H. S. Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A/ | F F/ F G/ | (A d/) A3/ | (A3/4 B/4) A/ (G/ F/) E/ | (D F/) A A/ | B B/ G G/ | A B/ A3/ | B3/ A F/ | E3/ F F/ | F E/ F E/ | (D3/ F/) A A/ | B d/ c B/ | (A3/ A) A/ | d A/ c B/ | (G B/) A F/ | G E/ A A/ | (D3/|]
+w: The Christ- mas bells are ring-_ ing Peals_ of joy_ and glad-_ ness; Their mer- ry chime At No- el time Doth ban- ish sad- ness The sim- ple and the gen-_ tle U- nite, the strain to raise,_ Of hymn and joy- ous ca-_ rol, The new- born Christ to praise
+

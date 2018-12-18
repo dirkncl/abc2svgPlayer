@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: 'Tis Christmas Day
+Z: J. W. Lerman
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=90
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  d/ | c/ B/ A/ G/ | G/ F F/ | G/ A/ B/ c/ | d3/ d/ | e/ d/ =B/ G/ | G/ c c/ | c/ c/ =B/ B/ | c3/"^Chorus." F/ | F/ G/ A/ B/ | B/ c/ B/ c/ | c/ G/ G/ G/ | G3/ G/ | A/ B/ A/ E/ | G/ A/ G/ E/ | D/ G/ G/ G/ | G3/ F/ | F/ G/ G/ A/ | A/ B/ A/ B/ | c/ G/ G/ G/ | G3/ G/ | B/ A/ B/ G/ | F/ F/ G/ D/ | E/ F/ G/ A/ | B3/|]
+w: The bells are sweet- ly chim- ing, Their mu- sic fills the air; What mess- age do they bring us Up- on this morn- ing fair? "'Tis Christ- mas day!" the glad bells say, "A Sa- viour now is born, By God's great love send from a- bove To cheer the world for- lorn." O won- drous birth! let all the earth Re- ceive the new- born King; Oh, let us now with sa- cred vow Our loy- al trib- ute bring.
+[V: P2]  F/ | E/ D/ D/ D/ | [A,/E/] [A,E] [A,/E/] | [A,/E/] [A,/E/] [B,/E/] [C/E/] | [D3/F3/] F/ | F/ F/ F/ F/ | E/ E E/ | [E/A/] [E/A/] [D/^G/] [D/G/] | [E3/A3/] E/ | D/ D/ D/ D/ | D/ D/ D/ D/ | E/ E/ F/ F/ | E3/ E/ | [C/E/] [C/E/] [C/E/] C/ | [C/E/] [C/E/] [C/E/] C/ | B,/ [B,/D/] [B,/D/] [B,/D/] | [B,3/D3/] D/ | D/ D/ D/ D/ | D/ D/ D/ D/ | E/ E/ F/ F/ | E3/ E/ | ^C/ C/ C/ C/ | D/ D/ [=B,/D/] [B,/D/] | C/ D/ [C/E/] [C/E/] | [D3/F3/]|]
+[V: P3] z/ | B,,/F,/F,,/F,/ | C,/F,/F,,/F,/ | C,/F,/F,,/F,/ | B,,/D,/F,/B,/ | G,,/G,/G,,/G,/ | C,/E,/G,/C/ | F,,/F,/F,,/F,/ | (F,,/A,,/4C,/4) F,/ F,/ | B,,/F,/F,,/F,/ | B,,/F,/F,,/F,/ | E,,/E,/D,,/D,/ | C,,/E,,/G,,/C,/ |z/ F,/F,/F,/ |z/ F,/F,/F,/ | B,,/F,/F,,/F,/ | B,,/F,/D,/B,,/ | B,,/F,/F,,/F,/ | B,,/F,/F,,/F,/ | E,,/E,/D,,/D,/ | C,,/E,,/G,,/C,/ | =E,,/=E,/ E,,/E,/ | [F,,/F,/][_A,,/_A,/] [G,,/G,/]z/ | C,/ G,/ F,,/ F,/ | [B,,3/F,3/]|]
+[V: P4] z/ | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | F,,2 | F,,2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z2 |z3/|]
+

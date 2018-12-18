@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: They Leave The Land Of Gems And Gold
+Z: Old French Carol
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  D | G D | G3/ A/ | (B3/4A3/8) (B3/4G/4) | d3/ B/ | c d | (e3/4d/4) (c3/4B/4) | A d | (c3/4B/4 A3/4) B/4 | G D | G3/ A/ | (B3/4A/4) (B3/4G/4) | d3/ B/ | c d | (e3/4d/4) (c3/4B/4) | B A | G3/"^Refrain" A/ | A A | A3/ G/ | A B | c3/ B/ | c d | G (A/B/) | (c/B/) (A/G/) | (G ^F/) A/ | A A | A3/ G/ | A B | c3/ B/ | c d | (e/d/) (c/B/) | B A | G3/|]
+w: They leave the land of gems_ and_ gold The shin- ing por-_ tals_ of the East,__ For Him, "the Wo- man's Seed"_ fore-_ told They leave the re-_ vel_ and the feast. He, He is King, and He a- lone, Who lifts that in- fant_ Hand_ to_ bless;_ Who makes His Mo- ther's knee His throne, Yet rules the star-_ ry_ wild- er ness.
+

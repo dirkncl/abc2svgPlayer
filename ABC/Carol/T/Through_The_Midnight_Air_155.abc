@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Through The Midnight Air
+Z: F. W. Dawkins
+Z: Copyright © 2002 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F A/ A G/ | F E/ G F/ | A B/ c c/ | e d/ c3/ | c d/ c G/ | A G/ G F/ | F F/ F F/ | F E/ F3/ | G/ A/ G/ c G/ | (e/d/) c/ (=B/A/) G/ | G G/ c c/ | =B c/ d3/ | c3/ c/ f d/ | c B/ B A/ | A A/ d d/ | c E/ F3/|]
+w: Through the mid- night air is ring- ing An- gel chor- us o’er the earth, Tid- ings blest to mor- tals bring- ing Of the Ho- ly Christ Child’s birth; Glo- ri ous through the wide_ world rest-_ ing In the fold- ed arms of peace, Goes the song, death’s wave o’er creat- ing Song of tri- umph ne’er to cease.
+

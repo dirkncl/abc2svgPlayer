@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Today Maiden Mary, Foretold By The Seer
+Z: Traditional Irish Melody
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=85
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G | c G (B/A/) | (G/F/) D (F/G/) | (F/E/) C C | C2 (G/F/) | (E/G/) (G/c/) (c/d/) | e d (A/B/4c/4) | (c/B/) G G | G2 (G/F/) | (E/G/) (G/c/) (c/d/) | e d (A/B/4c/4) | (c/ B/) G E | A2 (G/A/4B/4) | c G (_B/A/) | (G/F/) D (F/G/) | (F/E/) C C | C2|]
+w: To- day, Mai- den_ Ma-_ ry, fore-_ told_ by the Seer, Hath_ child-_ ed_ an_ In- fant, the__ which_ hath no peer: Earth_ lend-_ eth_ the_ ca- vern to__ Him_ who on high A-__ bid eth in_ light_ where to_ none_ may draw nigh.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Toyland
+Z: Victor Herbert
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  C/ | F G/ A c/ | (G3/ G) C/ | F G/ F D/ | (G3/ G) C/ | F G/ A c/ | D E/ F A/ | G G/ A D/ | G E/ D C/ | C F/ (G/A/) D/ | (G3/ G) G/ | _A A/ A A/ | (_A3/ A) A/ | B B/ B B/ | (B3/ B) B/ | c c/ c c/ | d d/ d d/ | d d/ e d/ | (G3/ G/)z/ c/ | c3/ c3/ | c3 |"^Chorus" d3/ A3/ | c3/ A3/ | (B/c/) B/ A G/ | D3/ C3/ | F E/ F G/ | A/ (c c/) =B/ c/ | d e/ d G/ | G3 | d3/ A3/ | c3/ A3/ | (B/c/) B/ A G/ | D3/ C3/ | F E/ F G/ | A c/ d D/ | (D/ c/) B/ G A/ | F3|]
+w: When you've grown up my dears,_ And are as old as I,_ You'll of- ten pon- der on the years That roll so swift- ly by, My dears, that roll so swift-_ ly by._ And of the man- y lands,_ You will have jour- neyed through,_ You'll oft re- call The best of all, The land your child- hood knew!_ Your child- hood knew. Toy- land. Toy- land. Lit-_ tle girl and boy land. While you dwell with- in it,_ You are ev- er hap- py then. Child- hood’s joy- land. Mys-_ tic mer- ry Toy land, Once you pass it’s bor- ders, You can ne'er_ re- turn a- gain.
+

@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Son Of God Goes Forth To War
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=105
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B | B3/ B/ c3/ c/ | B3/ B/ c3/ c/ | B3/ B/ e f | d2z c | B3/ A/ G d | c3/ B/ =A e | d3/ c/ B c | d2 c2 | B B B e | e3/ d/ d c | B c A3/ G/ | G2z G | G3/ F/ B G | G3/ F/ B B | B d c3/ B/ | B2z"^Chorus" B | B3/ B/ c3/ c/ | B3/ B/ c3/ c/ | B3/ B/ e f | d2z d | e3/ =A/ B c | _d3/ G/ _A c | B3/ B/ c d | (e2 e)|]
+w: The Son of God goes forth to war, A King- ly Crown to gain; His blood- red ban- ner streams a- far, Who fol- lows in His train? Who best can drink His Cup of woe, Tri- um phant o- ver pain, Who pa- tient bears His Cross be- low, He fol- lows in His train. The Son of God goes forth to war, A King- ly Crown to gain; His blood- red ban- ner streams a- far, Who fol- lows in His train?_
+

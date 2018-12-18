@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: This Day A Child Is Born
+Z: R.R. Chope / Music Traditional
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  A | A d c (A/ B/) | c3 e | d c (d/ c/) B | A3 A | A D (B/ c/) d | (A3/ B/) A3/ G/ | F d F E | D3"^Chorus" A | A d c (A/ B/) | c3 e | d c (d/ c/) B | A3 A | A D (B/ c/) d | (A3/ B/) A3/ G/ | F d F E | D3|]
+w: This Day a Child is_ born, Off- spring of God's_ pure love, True Word, the Ev-_ er las_ ting, And Wis- dom from a- bove! No- el, No- el, No-_ el! All through the Day_ we sing To greet the lov-_ ing Sav-_ iour, Our Pro- phet, Priest, and King.
+

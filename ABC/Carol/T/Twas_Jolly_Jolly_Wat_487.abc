@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: 'Twas Jolly, Jolly Wat
+Z: T. T. Noble
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F/ | G A/ B F/ | G A/ B c/ | d c/ d c/ | B c/ c c/4 c/4 | e3/4 e/4 e/ d3/4 c/4 c/ | B/ B/ A/ B c/ | (d c/ d) =e/ | (f3/ f) F/ | (f3/ f) F/ | (f3/ f) F/ | G G/ A A/ | B c/ e d/ | (c3 | B3/ B)|]
+w: 'Twas jol- ly, jol- ly Wat, my foy, He was a good- man's shep- herd boy, And he sat by his sheep On the hill- side so steep, And piped__ This song,_ Ut hoy!_ Ut hoy!_ O mer- ry, mer- ry sing for joy, Ut hoy!__
+

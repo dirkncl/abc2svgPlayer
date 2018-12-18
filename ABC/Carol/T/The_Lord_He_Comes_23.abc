@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Lord, He Comes, He Comes To Bless
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=116
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  B2 (A/G/) (F/E/) | c3 B | (A G) (F E) | (B3/ c/ d) e | (d c) (B e) | (d c) (B =A) | B4 | B2 A G | (c B) e2 | A2 G2 | F3 G | E F G =A | B2z G | A B c d | e2z f | (e B) (G c) | (B G) (E A) | G2 F2 | E4 |"^Symphony" e2 e3/ f/ | (g f) (e d) | e2 (B A) | (G F E) G | (A B) (c d) | e3 B | [(A(c] [B)d)] [(c(e] [d)f)] | [e2g2]z [Bf] | (e B) (G c) | (B G) (E/F/G/A/) | G2 F2 | E4|]
+w: The Lord_ He_ comes, He comes_ to_ bless__ The na-_ tions_ as_ their_ God, To show the world_ His right- eous ness, And send His truth a- broad, And send His truth a- broad, And send,_ and_ send_ His_ truth a- broad._____________________________________________
+[V: P2]  E2 E E | E3 E | (D E) (B, C) | (D3/ E/ F) G | (F E) (F G) | (F E) (D C) | D4 | E2 E E | E2 E2 | E2 E2 | D3z |z2z F | D E F E | E2z F | G F E D | E2 E2 | (E D) E2 | E2 D2 | B,4 | (e B) G B | E2 [(E(B] [F/B/] [F/)B/)] | [(G(B] [F)B)] (E D) | [G,E] B,2 E | (E G) A [FA] | (G [E3/4)G3/4)][E/4G/4] [EG] [GB] | (F A2) A | [GB] [G3/4B3/4] [G/4B/4] [GB] A | (G [E)G)] (E D) | (E D) E2 | E2 D2 | B,4|]
+[V: P3]  G,2 B, G, | A,3 B, | B,2 (B, =A,) | F,2 B,2 | B,2 B,2 | (B, F,) F,2 | F,4 | G,2 B, B, | A,2 B,2 | C2 B,2 | B,3 B, | G, B, E C | B,2z B, | C B, A, A, | B,2z B, | (B, B,) (B, A,) | G,2 (G, C) | B,3 A, | G,4 | z4 | (E B,) (G, B,) | E,2 (E, F,) | (G, F, E,) B, | (A, D2)z | (E,, B,, D,)z | z4 |z (E,, B,, D,) |z2 (B, A,) | G,2 (G, C) | B,2 (B, A,) | G,4|]
+[V: P4]  E,2 E, E, | A,3 G, | (F, E,) (D, C,) | B,,3 E, | (B,, C,) (D, E,) | F,2 F,,2 | B,,4 | G,2 F, E, | A,2 G,2 | (C, D,) E,2 | B,,3z |z2z F, | B,, C, D, E, | A,,2z F, | E, F, G, A, | G,2 E,2 | (E, B,,) (C, A,,) | B,,2 B,,2 | E,4 | z4 | z4 | (E, B,,) (G,, B,,) | [E,,E,] [B,,,B,,] [G,,,G,,] _D, | (C, B,,) (A,, F,,) |z2z E | D/ (C/ B, B,/) (A,/ G,/ F,/) | E,z2z | E,2 (E,, F,,) | (G,, B,,) (C, A,,) | B,,2 B,,2 | E,,4|]
+

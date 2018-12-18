@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Three Kings From Out The Orient
+Z: W. H. Gill
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  G/ | (G/ A/) B/ (c/ B/) A/ | G E/ G G/ | (G/ A/) B/ (c/ B/) A/ | G E/ G A/ | (B/ A/) G/ A B/ | (G3/ G) G/ | (G/ A/) _B/ (B/ A/) G/ | A G/ F A/ | (A/ B/) c/ (d/ c/) B/ | B A/ G G/ | G G/ A A/ | B3/"^Chorus" G3/ | (c3/ c/) (B/ A/) | B3/ G3/ | (c3/ c/) (B/ A/) | d3/ ^d3/ | (e3/ d3/) c/ | c3/(3 (d/e/f/) | (e3 | d3/ d) c/ | (c3/ c)|]
+w: Three Kings_ from out_ the O- ri ent For Ju-_ dah's land_ were fair- ly bent To find_ the Lord of grace;_ And as_ they jour-_ neyed plea- sant lie A star_ kept shin-_ ing in the sky, To guide them to the place. "O Star,"_ they_ cried," by all_ con-_ fest, With- ou_ en dreed the__ lov-__ l est!"_
+

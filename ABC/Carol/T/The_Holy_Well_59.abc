@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: As It Fell Out One May Morning
+Z: Traditional
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  C | A3/ G/ (A/B/) c | F E D C | D G F E | F3 A | f e d c | (c/d/) (c/B/) A c | d G A =B | c3 c | f e d c | c/ d/ (c/B/) A f/ e/ | d c A F | G3 C | A3/ G/ (A/B/) c | F E D C | D G F E | F3|]
+w: As it fell out_ one May morn- ing, On one bright ho- li day, Sweet Je- sus asked of his_ dear_ Mother, If he might go to play. To play, to play, sweet Je- sus shall_ go, And to play pray get your gone, And let me hear_ of no com- plaint At night when you come home.
+

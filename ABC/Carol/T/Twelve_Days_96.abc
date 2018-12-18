@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Twelve Days Of Christmas
+Z: Traditional; Collected by Cecil J. Sharp
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D/ D/ | G G/ G/ G/ G F/ | G3/4 F/4 G/ E/ D3/z/ | [M: 6/8]  d/ c/ B/ A/ G3/4 G/4 | d/4 d/4 c/ B/ A/ G | d/ c/ B/ A/ G | d/ c/ B/ A/ G | d/ c3/4 B/4 A/ A | d/ c3/4 B/4 A/ A | d/ c3/4 B/4 A/ A | d/ c/ B/ A3/ | d/ c/ B/ A3/ | d/ (c/ B/) A3/ | d/ c/ B/ A D/4 D/4 | G3/ (A/ B/) c/ | B3/ A G/ | (G3/ G/) | [M: 4/4] "^12th Verse" D/ D/ | G G/ G/ G/ G F/ | G3/4 F/4 G/ E/ D3/z/4 | [M: 6/8]  d/ c/ B/ A D/4 D/4 | G3/ (A/ B/) c/ | B3/ A G/ | (G3/ G)z/|]
+w: On the twelfth day of Christ- mas my true- love sent to me Twelve bells a ring- ing, E- lev en bulls a beat- ing, Ten ass- es rac- ing Nine la- dies danc- ing, Eight boys a- sing ing, Seven swans a- swim ming, Six geese a- lay ing, Five gold- ie rings, Four col- ley birds, Three French_ hens, Two tur- tle doves And the part of_ the mis- tle toe bough._ On the first day of Christ- mas my true- love sent to me One gol- die ring, And the part of_ a June ap- ple tree._
+

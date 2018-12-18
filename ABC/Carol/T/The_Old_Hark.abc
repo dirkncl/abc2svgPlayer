@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Old Hark
+Z: 18th Century Tune
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1] z2 G2 | B B G d | c2 B2 | A3 B | d c B (A/B/c/) | (B A G F/G/4A/4 | G3/ A/ B) A | G4 |z2 A2 | A A B2 | (G A/B/) c B | A3 B | c B c d | (B3 c | A3) A | G4|]
+w: Hark, Hark! what news the An- gels bring Glad tid- ings of a__ new________ born King, Who is the Sa- viour__ of man- kind, In whom we may sal- va__ tion find.
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Bright And Morning Star
+Z: Mason J. Matthews
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: A
+[V: P1]  E E/ (E/^D/) E/ | F E/ A3/ | B B/ (B/A/) B/ | c c/ B3/ | E E/ (E/^D/) E/ | F F/ A3/ | B c/ (d/c/) B/ | A G/ A3/ | G G/ (G/F/) G/ | B A/ F3/ | F F/ (F/G/) A/ | c B/ G"^Chorus" E/ | A A/ (A/E/) A/ | (c3/ c) A/ | c c/ (c/A/) c/ | (e3/ e)z/ | e B/ (B/c/) d/ | c B/ A F/ | E c/ c B/ | (A3/ A)z/|]
+w: Je- sus is_ our Morn- ing Star, Bright- ly gleam-_ ing from a- far; He is sent_ to guide the way From the dark-_ ness in- to day, And His dy-_ ing love a- lone Can for all_ our sins a- tone, The bright and Morn-_ ing Star!_ The bright and Morn-_ ing Star!_ Je- sus is_ our Morn- ing Star, Our bright and Morn- ing Star!_
+[V: P2]  C C/ (C/^B,/) C/ | D C/ C3/ | E E/ E E/ | E E/ (E D/) | C C/ (C/^B,/) C/ | D C/ C3/ | E E/ E F/ | E D/ C3/ | E E/ E E/ | ^D D/ D3/ | ^D D/ (D/E/) F/ | E =D/ D D/ | C C/ C C/ | (E3/ E) E/ | A A/ A A/ | (A3/ A)z/ | G G/ (G/A/) B/ | A E/ E D/ | C E/ E D/ | (C3/ C)z/|]
+[V: P3]  A, A,/ A, A,/ | A, A,/ E,3/ | G, G,/ (G,/F,/) G,/ | A, A,/ G,3/ | A, A,/ A, A,/ | A, A,/ E,3/ | G, A,/ (G,/A,/) D/ | C B,/ A,3/ | B, B,/ (B,/^A,/) B,/ | B, F,/ B,3/ | B, B,/ B, B,/ | A, G,/ B, G,/ | A, A,/ A, A,/ | (A,3/ A,) C/ | E E/ (E/C/) E/ | (C3/ C)z/ | B, E/ E E/ | E D/ C A,/ | A, A,/ G, G,/ | (A,3/ A,)z/|]
+[V: P4]  A,, A,,/ A,, A,,/ | A,, A,,/ A,,3/ | E, E,/ E, E,/ | A, C,/ E,3/ | A,, A,,/ A,, A,,/ | A,, A,,/ A,,3/ | E, C,/ (B,,/C,/) D,/ | E, E,/ A,,3/ | E, E,/ E, E,/ | B,, B,,/ B,,3/ | B,, B,,/ B,, B,,/ | E, E,/ E, E,/ | A,, A,,/ A,, A,,/ | (A,,3/ A,,) A,/ | A, A,/ A, A,/ | (A,3/ A,)z/ | E, E,/ E, E,/ | A, A,/ A, D,/ | E, E,/ E, E,/ | (A,,3/ A,,)z/|]
+

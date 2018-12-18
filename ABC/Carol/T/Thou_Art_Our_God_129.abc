@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Thou Art Our God, We Exault Thee
+Z: Mr. Herbert Stephen Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/2
+Q: 1/4=400
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  E2 G2 B2 | e4 c c | c2 B2 A2 | A2 G4 | G2 F2 E2 | B2 A2 G2 | G2 F2 E2 | D4 | F2 G2 A2 | A2 G2 G2 | G2 A2 B2 | B2 A4 | c2 d2 e2 | f2 B2 e2 | e3 f d2 | e6|]
+w: Thou art our God, we ex- alt Thee, we praise Thee, Faith- ful and true are Thy Coun- sels of old: Hymns of thanks- giv ing Thy Peo- ple shall raise Thee, Hail- ing the mer- cy Thy Pro- phets fore- told.
+

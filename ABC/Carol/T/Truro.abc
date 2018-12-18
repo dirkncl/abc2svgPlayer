@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Truro
+Z: Williams "Psalmodia Evangelica," 1789
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: D
+[V: P1]  D2 F3/ G/ | A3 A | B2 c2 | d3 A | d2 A2 | (G F) (E D) | G2 F2 | E3 E | A2 B2 | c3 e | (e d) (c B) | A3 A | A2 d2 | (E B) (A G) | F2 E2 | D4|]
+[V: P2]  D2 D3/ D/ | D3 A | G2 G2 | F3 C | D2 D2 | (C D) (B, D) | C2 D2 | C3 C | E2 E2 | E3 E | F2 (E D) | C3 E | D2 D2 | (D C) (D E) | D2 C2 | D4|]
+[V: P3]  F,2 A,3/ A,/ | A,3 D | D2 G,2 | A,3 A, | A,2 A,2 | A,2 (G, A,) | A,2 A,2 | A,3 A, | A,2 ^G,2 | A,3 A, | A,2 (A, ^G,) | A,3 C | D2 F,2 | (B, G,) (A, B,) | A,2 (A, G,) | F,4|]
+[V: P4]  D,2 D,3/ E,/ | F,3 F, | G,2 E,2 | D,3 E, | F,2 F,2 | (E, D,) (G, F,) | E,2 D,2 | A,,3 A,, | C,2 E,2 | A,3 C, | D,2 E,2 | A,,3 G, | F,2 D,2 | (G, E,) (F, G,) | A,2 A,,2 | F,4|]
+

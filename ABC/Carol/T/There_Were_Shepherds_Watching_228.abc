@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: There Were Shepherds Watching
+Z: A. A. Wild
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  F3/ G/ A F | c2 A2 | G G d G | G3 F | F3/ G/ A F | c2 A2 | G3/ G/ A =B | c4 | B3/ B/ A G | A2 F2 | d3/ d/ c A | G4 | c3/ A/ B c | d2 c2 | c (B/A/) G3/ F/ | F4 |"^Chorus" G3/ G/ A B | B2 A2 | G d e d | c4 | c3/ d/ c A | B d c2 | c B/ A/ G3/ F/ | F3|]
+w: There were shep- herds watch- ing, In the fields their sheep, In si- lence of the mid- night, Watch and ward they keep; Sud- den ly a- round them Glowed a wond- rous light, And a white- rob'd an- gel, Filled them_ with af- fright. Join the an- gel chor- us, Ring- ing thro' the sky, Peace on earth, good- will to men: Glo- ry to God on high.
+

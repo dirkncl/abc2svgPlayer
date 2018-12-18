@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The King of Kings
+Z: Rev. R. F. Smith
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D | F2 A2 | d3 c | c B B B | B2 A A | A3 B | A3 B | c c c d | c3 A | A2 A2 | d3 d | f3/ f/ f e | e2 d A | d2 B2 | A F D E | F2 E2 | D3|]
+w: The King of kings His Roy- al Court is keep- ing In yon- der stall where ox and ass are fed; While earth- ly kings in pa- lac es lie sleep- ing, On coars- est straw th'Al- migh ty makes His bed.
+

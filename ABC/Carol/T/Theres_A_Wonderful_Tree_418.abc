@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: There's A Wonderful Tree
+Z: F. Schilling
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=85
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F/4 F/4 | F/ G/ A/ (B/ c/) d/ | e/ d/ ^c/ d =B/ | d c/ G/ G/ A/ | (c/ B/) G/ F3/ | F/ G/ A/ (B/ c/) d/ | (e/ B/) c/ d d/ | c/ =B/ c/ d/ d/ c/ | (B/ A/) G/ F3/ | F3/ G3/ | G/ F/ =E/ F3/ | F3/ c3/ | (F/ B/) c/ d d/ | e3/ B c/ | d3/ (B G/) | F/ =E/ F/ d c/ | (B3/ B)|]
+w: There's a won- der ful tree,_ a won- der ful tree, The hap- py child- ren re- joices_ to see Sprea- ding its branch-_ es year_ by year, It comes from the for- est to flour-_ ish here. Oh, this beau- ti ful tree, with its branch-_ es wide, Is al- ways, Is al- ways_ bloom- ing at Christ- mas tide._
+[V: P2]  D/4 D/4 | D/ E/ C/ (D/ E/) F/ | G/ F/ =E/ F F/ | =E E/ _E/ E/ E/ | D ^C/ D3/ | D/ E/ C/ (D/ E/) F/ | E E/ D F/ | F/ F/ F/ =E/ E/ F/ | (=E/ F/) E/ F3/ | D3/ ^C3/ | ^C/ D/ C/ D3/ | _E3/ E3/ | D E/ F _A/ | G3/ G _G/ | F3/ (D ^C/) | D/ ^C/ D/ _E E/ | (D3/ D)|]
+[V: P3]  B,/4 B,/4 | B,/ B,/ B,/ B, B,/ | B,/ B,/ B,/ B, G,/ | _B, B,/ A,/ A,/ F,/ | F, =E,/ F,3/ | B,/ B,/ B,/ B, B,/ | G, _G,/ F, B,/ | A,/ ^G,/ A,/ _B,/ B,/ A,/ | (G,/ C/) B,/ A,3/ | F,3/ =E,3/ | =E,/ F,/ G,/ F,3/ | A,3/ A,3/ | B, B,/ B, B,/ | B,3/ B, B,/ | B,3/ (F, B,/) | B,/ B,/ B,/ A, A,/ | (B,3/ B,)|]
+[V: P4]  B,,/4 B,,/4 | B,,/ B,,/ B,,/ B,, B,,/ | B,,/ B,,/ B,,/ B,, D,/ | C, C,/ F,/ F,/ F,/ | B,, B,,/ B,,3/ | B,,/ B,,/ B,,/ B,, B,,/ | B,, B,,/ B,, B,,/ | C,/ C,/ C,/ C,/ C,/ C,/ | C, C,/ F,3/ | B,,3/ B,,3/ | B,,/ B,,/ B,,/ B,,3/ | C,3/ F,3/ | B,, B,,/ B,, B,,/ | E,3/ E, E,/ | B,,3/ (B,, =E,/) | F,/ G,/ F,/ F, F,/ | (B,,3/ B,,)|]
+

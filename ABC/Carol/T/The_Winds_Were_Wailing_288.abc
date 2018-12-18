@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Winds Were Wailing
+Z: Lesneven
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A/ | A B/ c d/ | c B/ A G/ | (A/G/) F/ G A/ | (A3/ A) A/ | A B/ c d/ | c B/ A A/ | (A/G/) F/ G ^G/ | (A3/ A) A/ | A A/ (A/G/) A/ | B B/ A A/ | c c/ B A/ | (G3/ G)"^Chorus" F/ | A B/ c d/ | c c/ F B/ | A A/ (G/A/) G/ | (F3/ F)|]
+w: The winds were wail- ing o'er the wold, The frost-_ ed earth lay white,_ The stars were spark- ling keen and cold All in_ the win- try night:_ When lo! the hea-_ vens blazed as gold. And all was rad- iant light._ No- el! No- el! the Babe is born In Beth- le hem_ this day._
+

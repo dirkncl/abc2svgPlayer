@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Twelve Apostles
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=90
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B | B3/ B/ (A/G/) (F/E/) | D3 D | (E/F/) (G/A/) B (A/G/) | F3 (B/d/) | e (d/^c/) B (A/G/) | (F/E/) (F/G/) A G/ B/ | (d/^c/) d (B/E/) (G/F/) | E2|]
+w: When Je- sus Christ_ had_ lived Full thir-_ ty_ years or_ more, He_ work- ed_ ma- ny_ won-_ drous_ works With His twelve_ A- pos_ tles_ pure.
+

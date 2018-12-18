@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Shepherds Amazed
+Z: Arthur Henry Brown
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  (A/B/) | c A c | B G E | F3/ G/ A | E2 e | c3/ B/ A | d A B | ^Gz A | A3/ G/ F | E A c | B ^G A | d2 B | c3/ d/ (e/d/) | c B3/ A/ | A2"^Chorus" c | c G F | E3/ D/ C | c d e | d B G | A3/ B/ c | d c B | Az c | F3/ D/ (E/F/) | G3/ G/ (A/B/) | c d e | c B A | G A d | B3/ A/ ^G | A2|]
+w: The_ Shep- herds a- ma zed the An- gels be- hold De- clare the glad tides of the morn; The time is ful- fill'd that the Pro- phets fore- told, And Christ your Re-_ deem er is born. All glo- ry and hon- our to God our Cre- at or, Who came from His glo- ry on high; In hum- ble sub-_ mis sion took_ on Him our na- ture, That we might par- take of His joy.
+

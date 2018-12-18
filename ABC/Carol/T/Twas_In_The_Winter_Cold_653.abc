@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Twas In The Winter Cold
+Z: J. Barnby
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D D/ D/ E F | F3/ E/ E F | G A B c | A3 A | d3/ c/ B F | A3/ G/ G F | D3/ D/ F E | E3 E | G3/ F/ E E | A3/ G/ F F | B3/ A/ G F | G2 A2 | B3/ B/ c c | d ^d e B | c B G3/ E/ | D4|]
+w: ‘Twas in the win- ter cold, when earth Was de- sol ate and wild, That An- gels wel- comed at His Birth The ev- er last ing Child. From realms of ev- er bright- ’ning day, And from His throne a- bove He came, with hu- man kind to stay, All low- li ness and love.
+

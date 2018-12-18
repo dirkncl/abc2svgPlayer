@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: There Came Three Kings
+Z: E. Poppen
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | E G F (E3/4D/4) | G A B B | c E B A | (G2 F) (E3/4 D/4) | E G F(3 (E/F/G/) | A A d F | G (G/D/) F E | D3 D | E c E (F3/4 E/4) | D G B2 | B B3/4 B/4 B3/ B/ | ^c3/ c/ d2 | B c/ e/ d d | G3|]
+w: There came three kings ere_ break of day, All on E- pi phan y;_ Their_ gifts they bare, both__ rich and rare, All, all, Lord_ Christ, for Thee: Gold, frank- in cense, and_ myrrh are there, Where is the King? O where? O where? Where is the King? O where?
+

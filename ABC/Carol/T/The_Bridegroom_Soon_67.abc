@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Bridegroom Soon Will Call Us
+Z: Tune: "Ach Gott vom Himmelreiche"
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G2 G | A2 c | (B3/ A/ B) | A2 A | G2 G | c2 B | A2 A | E2 F | G2 A | (F3/ E/ F) | D2 B | B2 d | c2 c | B2 B | B2 d | A2 B | (c3/ d/ c) | B2 B | B2 d | c2 B | A2 B | A2 G | A2 F | (G3/ F/ G) | A2 B | d2 B | c A2 | G2|]
+w: The Bride- groom soon will call__ us: Come, all ye wed- ding guests! May not His voice ap- pal__ us While slum- ber binds our breasts! May all our lamps be burn-__ ing And oil be found in store That we, with Him re- turn__ ing, May o- pen find the door!
+

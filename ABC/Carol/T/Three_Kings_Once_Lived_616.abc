@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Three Kings Once Lived
+Z: Frederic H. Cowen
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  E/ | G G/ F D/ | E E/ E G/ | A c/ (B/ A/) G/ | F G/ A F/ | G G/ F D/ | E F/ G B,/ | C C/ (D/ C/) D/ | E E/ E E/ | E E/ G G/ | F G/ F F/ | G G/ c c/ | A A/ B B/ | d c/ B A/ | B A/ G D/ | E c/ (B/ A/) G/ | F G/ A3/ | [M: 4/4]  B G d3/4 d/4 d | d/ d/ B3 | B G e3/4 e/4 e | e/ B/ d3 | ^d3/ d/ d B | e e g2 | =d f e e | B2 B2 | B4|]
+w: Three kings once lived in East- ern land, Full wise were they,_ as wise could be, And 'neath the mid- night sky would stand, To read the stars_ most pa- tient ly. Then once un- to the o- thers said: A star un- known hath come in sight. It goe- th East from o- ver head, And shin- eth like_ a me- teor bright. Star of Beth- le hem, lead the way, Star of Beth- le hem, lead the way, Through the night, till thy bright ray Pale- th with the dawn of day.
+

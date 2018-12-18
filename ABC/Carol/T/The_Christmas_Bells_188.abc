@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Christmas Bells
+Z: Chas. H. Sunderland
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  c B A | d2 e2 | d B G A | B d (c A) | G3 D | E G F A | G B A c | d2 B2 | B A2 d | B G A D | G2 A B | c d e A | A3 d | G B A c | (B A/G/) F F | G B A c | (B3/ A/ G) g | e e e e | (d3/ c/) B B | A d E A | D3 D | F2 A2 | d c B A | d2 e2 | d2 B3/ c/ | B2 d2 | A2 B2 | G4|]
+w: The Christ- mas bells are ring- ing Peals of joy and glad-_ ness; Their mer- ry chime At No- el time Doth ban- ish sad- ness The sim- ple and the gen- tle U- nite, the strain to raise, Of hymn and joy- ous ca-__ rol, The new- born Christ to praise,__ of hymns and joy- ous ca-_ rol, The new- born Christ to praise. The Christ- mas bells, the Christ- mas bells are ring- ing, The new- born Christ to praise.
+

@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Tomorrow Shall Be My Dancing Day
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 3/4
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: G
+[V: P1]  D | G F G | (A B) c | (d c) B | A2 B | (G F) G | (A B) c | (d c) B | A2 (B/c/) | d2 B | c2 B | (A G) B | A2 D | G2 A | (B c) d | (c B) A | G2"^Chorus" B | A2 (B/c/) | d3 | (B G) B | A2 B | A2 B | A2 D | G2 A | (B c) d | (c B) A | G2|]
+w: To- mor row shall be_ my dan-_ cing day; I would_ my true_ love did_ so chance To_ see the le- gend of_ my play, To call my true_ love to_ my dance; Sing, oh! my_ love, oh!_ my love, my love, my love, This have I done_ for my_ true love
+[V: P2]  D | D D D | F2 G | G2 G | F2 F | E2 E | E2 E | D2 G | F2 F | G2 G | G D2 | E2 G | (F E) D | D2 F | (G A) B | (A G) F | G2 G | F2 G | (G2 F) | G D2 | D2 D | D2 D | D2 D | (D3/ E/) F | G2 G | G2 F | G2|]
+[V: P3]  D, | B, C B, | D2 E | D2 D | D2 D | B,2 B, | C2 C | A,2 D | D2 D | D2 D | (C A,) B, | B,2 ^C | D2 A, | (B, D) C | D2 D | D2 C | B,2 D | D2 (D/C/) | (B, D2) | (B, G,) B, | F,2 G, | F,2 G, | (F, G,) A, | (B, D) C | D2 D | (A, B,) C | B,2|]
+[V: P4]  D, | G, A, G, | (D, D) C | (B, A,) G, | (D, C,) B,, | E,2 E, | A,2 A, | F,2 G, | D2 C | (B, A,) G, | (E, F,) G, | E,2 E, | (D, E,) F, | (G, B,) A, | G,2 G, | D,2 D, | G,,2 G, | (D, C,) (B,,/A,,/) | (G,, B,,) D, | (G, B,) G, | D,2 G, | (D, C,) B,, | (D, E,) F, | (G, B,) A, | G,2 B,, | D,2 D, | G,,2|]
+

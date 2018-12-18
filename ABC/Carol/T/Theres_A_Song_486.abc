@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: There's A Song In The Air
+Z: Rev. George E. Martin
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=80
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E/4 E/4 | E/ F/ G/ A/ B/ c/ | B/ A/ F/ E E/4 E/4 | G/ F/ E/ G/ F/ E/ | G/ F/ E/ (F/ E/) E/4 E/4 | E/ F/ G/ A/ B/ c/ | B/ A/ F/ E E/4 E/4 | c/ G/ B/ B/ A/ A/ | A/ G/ F/ E E/4 E/4 | E/ A/ B/ c/ d/ c/ | B/ E/ B/ A"^Refrain" E/4 E/4 | E/ A/ B/ c A/4 A/4 | A/ c/ d/ e e/4 e/4 | e/ d/ B/ e/ d/ B/ | e/ f/ d/ c E/4 E/4 | E/ A/ B/ c c/4 c/4 | c/ c/ d/ c c/4 c/4 | c/ B/ A/ c/ B/ A/ | c/ E/ B/ A|]
+w: There's a song in the air! There's a star in the sky! There's a mo- ther's deep prayer and a ba- by's low cry!_ And the star rains its fire while the beau- ti ful sing, For the man- ger of Beth- le hem crad- les a King! For the man- ger of Beth- le hem crad- les a King! And the Star rains its fire while the beau- ti ful sing, For the man- ger of Beth- le hem crad- les a King! And the Star rains its fire while the beau- ti ful sing, For the man- ger of Beth- le hem crad- les a King!
+

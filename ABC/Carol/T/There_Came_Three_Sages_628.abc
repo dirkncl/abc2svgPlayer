@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: There Came Three Sages From Afar
+Z: Louis J. Garrett
+Z: Copyright © 2004 Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  A | (F/ G/) A (F/ G/) A | d B c3/ c/ | f e d c | (B/ c/) (A/ B/) G A | (F/ G/) A (F/ G/) A | d B c2 | B B c c | =d2 ez |"^Chorus" c2 c2 | (c/ B/ A/ B/) c2 | (c f) (e c) | (c2 B2) | c c c c | (c/ B/) (A/ B/) c2 | (c f) (e c) | B2 A2 | a2 f2 | (e/ d/ c/ B/) A2 | (A/ B/) c (A/ B/) c | e4 | f3/ f/ e c | e d c B | e2 e2 | A3z|]
+w: There came_ three Sa-_ ges from a- far, On wor- ship bent, led by_ a_ star, To Beth-_ le hem_ where shep- herds are, Here ye now the sto- ry. No- el, No-___ el let_ us_ sing_ Un- to Christ our heav'n-_ ly_ King, No-_ el,_ No- el, No- el, No-___ el, No-_ el let_ us sing Un- to Christ our heav'n- ly King, Our heav'n- ly King.
+

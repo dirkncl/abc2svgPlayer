@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Morning Star
+Z: J. F. Bridge
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=104
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  E3/4 E/4 | F3/ F/ E3/4 E/4 | F F F3/4 F/4 | G3/ G/ F/ F/4 | G2 B3/4 B/4 | d3/ c/ B3/4 B/4 | e Az |z3/4 B/4 B/ G/ B/ A/ | G2z | (G3/ A/) (B/ c/) | d2 c | B2 B | e3 |"^Chorus" (e3/ d/) c | (B3/ A/) G | (A3/ B/) (c/ d/) | e2 e | f2 f | e2 (e | e d) d | c (e/d/) (c/B/) | A2 A |z G G A2|]
+w: See! the morn- ing star is dwel- ling On the Eas- tern moun- tains' height; See! the Day all days ex- cel ling U- pon our arch- ing sight! Sing_ we_ then our ca- rol free, Christ-_ us na-_ tus, Christ-_ us_ na- tus ho- di e, ho-__ di e, Christ-_ us_ na- tus ho- die._
+

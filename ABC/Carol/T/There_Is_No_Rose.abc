@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: There Is No Rose
+Z: 15th Century MS
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=113
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  c/ | (A3/4G/4)(A/4B/4) c/ d | (c A/) (B/A3/4G/4) | A/z/ (G/4A/4) (F3/4E/4) (F/4E/4) | (C3/ D/4) E F E/ | Fz/ | (F3/4G/4A/4B/4) (c/B/4A/4G/) | (F E/ G/F/D/ | E/4F/4G/4F/4B/4A/4 G3/4F/4F/4E/) | (F3/ F)|]
+w: There is_ no_ rose of such_ vir-__ tue As_ is_ the_ rose_ that bare Je- su; Al-___ le___ lu______________ ia._
+

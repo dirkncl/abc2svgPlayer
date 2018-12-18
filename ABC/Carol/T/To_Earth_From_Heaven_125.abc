@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: To Earth From Heaven Glad Tidings I Unfold
+Z: Mr. Herbert Stephen Irons
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=130
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  G2 G A | B3 B | B c A B | G3 G | G2 =A2 | B2 B2 | B c G =A | B3 B | e2 d2 | c3 B | A G F E | D2 E2 | A2 F2 | E4|]
+w: To earth from Heaven glad ti- dings I un- fold, The An- gel cries, Christ Lord of world is born In Beth- lehem Ju- dah, as the Seers fore- told, This hal- lowed Morn.
+

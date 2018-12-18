@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Three Kings
+Z: H. Heale
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  B/ | E E/ G A/ | B c/ (B3/ B/) | E E/ G A/ | B c/ d c/ | B A/ G A/ | B G/ E D/ | (E3/ E3/) | F3/z F/ | B ^c/ d c/ | B ^A/ B =A/ | d e/ f e/ | d ^c/ d =c/ | B d/ =c B/ | A G/ (F3/ F/) | E E/ G A/ | B3/ d3/ | B A/ G F/ | (E3/ E)|]
+w: I would now sing for and I might,_ Of a child so fair to sight, A Vir- gin bore this win- ter’s night, So still-_ a! There came three Kings from Gal- i lee, To Beth- le hem that fair cit- ie, To see Him that should ev- er be,_ Lord, and King, and Knight- a, Lord, and King, and Knight._
+
