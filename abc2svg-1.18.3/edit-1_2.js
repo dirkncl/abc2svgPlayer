@@ -674,15 +674,28 @@ btn.setAttribute('id','linkHolder');
 btn.style['margin-left']="25%";
 btn.innerHTML='Play :'
 document.getElementById('btnHolder').appendChild(btn);
+
+function fext(file){
+  var split=file.split("."),
+      ext=split[split.length-1].toLowerCase();//get extension
+  console.log(ext);    
+  return ext
+
+}
+
 var ls=window.location.search;
 var fileIn="";
 fileIn = decodeURIComponent(ls).replace(/\+/g, " ").replace('?','');
+fext(fileIn);
 if(fileIn.indexOf('&')!=-1) {
   fileIn=fileIn.split('&');
   fileIn[1]="";
   fileIn=fileIn[0];
-  
 };
+if(fileIn.indexOf('=')!=-1||fext(fileIn)!="abc") {
+  fileIn=""
+};
+
 if(fileIn!="") {
   var dleft=document.getElementById('dleft');
   var dright=document.getElementById('dright');
@@ -700,6 +713,7 @@ a.setAttribute('id','test1');
 if(fileIn!="") {
   a.href="javascript:LoadTune('"+fileIn+"')";
 };
+
 var Fn=fileIn.substring(fileIn.lastIndexOf('/')+1);
 a.innerHTML='  ' + Fn.replace('.abc','');
 a.setAttribute('style','display:');
