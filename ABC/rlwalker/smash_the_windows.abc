@@ -1,0 +1,24 @@
+X: 1
+T:Smash the Windows
+T:Roaring Jelly
+M:6/8
+L:1/8
+Q:1/4=160
+R:Jig
+K:D
+A,|
+"D"DED F2A|"D"d2e "A"ecA|
+"G"G2B "D"F2A|"Em"E2F "A7"GFE|
+"D"DED F2A|"D"d2f "A"ecA|
+"G"Bgf "A7"edc|"D"(d3d2):|
+a|
+"D"a2f d2f|"D"A2a agf|
+"A7"g2e c2e|"A7"A2g gfe|
+"D"f2d "A7"g2e|"D"a2f "G"bag|
+"D"fed "A7"edc|"D"(d3d2)a|
+"D"agf fed|"D"Adf agf|
+"A7"gfe ecA|"A7"Ace gfe|
+"D"fed "A7"gfe|"D"agf "G"bag|
+"D"fed "A7"edc|"D"(d3d2)|]
+
+% Output from ABC2Win  Version 2.1 i on 23/06/2001

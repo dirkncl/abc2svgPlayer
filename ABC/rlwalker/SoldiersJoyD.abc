@@ -1,0 +1,20 @@
+%Scale the output
+%%scale 1.15
+%%format dulcimer.fmt
+X:1
+T:Soldier's Joy
+C:Traditional
+M:C
+L:1/8
+N:Play AABB
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+P:A
+|:"D"AF DF Ad d2|AF DF "A7"GF E2|"D"AF DF Ad d2|"D"ff "A7"ee "D"df d2:|
+P:B
+|:"D"fg af "A"ef g2|"D"fg af "A"ec A2
+|"D"fg af "A7"ef g2|"D"ff "A7"ee "D"df d2:||

@@ -1,0 +1,19 @@
+%Scale the output
+%%scale 0.965
+%%format dulcimer.fmt
+X:1
+T:Stone's Rag
+M:4/4
+L:1/8
+%Q: (beats per measure)
+V:1 clef=treble octave=0
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:Dmaj
+"D"defa- abaf|bafa- aba2|"G"GABd- dedB|"(E)"edBd- dedB|
+"A"cecA- A^GAB|cecA- A^GA2| [1"D"defa- "D#dim"abaf|"A7"a4 f4:| [2 "E7"a^gab- "A7"baf2|"D"d4z4||
+"B7"bafb- baf2|bafb- baf2|"E7"edBe- edB2|edBe- edB2|
+"A7"cecA- A^GAB|cecA- A^GA2|"D"defa- "D#dim"abaf|"A7"a4 "F#7"^a4|
+"B7"bafb- baf2|bafb- baf2|"E7"edBe- edB2|edBe- edB2|
+"Ddim"d'4 b4|"D"abaf- "Bm"fedB|"A7"ABdf- fde2|"D"d8|]

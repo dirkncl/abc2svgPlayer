@@ -1,0 +1,19 @@
+%%scale 1.17
+%%barsperstaff 4
+X:1
+T:In the Good Old Summer Time
+C:Gerge Evans
+M:3/4
+L:1/4
+K:D
+V:1 clef=treble
+|A,/2B,/2
+w:In the
+|"D"A,F,2 | A,2D | F3- | FED | "G"DE2 | D2B, | "D"A,3- | "A7"A,z2
+w:good ol' sum-mer time_ In the good ol' sum-mer time._
+|"D"F,2A, | D2E | F2E | D3 | "E7"E2F | E2F | "A"E3- | "A7"EzA,
+w:Stroll-ing thro' the shad-y lanes, with your ba-by mine._ You
+|"D"F,2A, | D2E | F2E | D2D | "G"D2E | DB,D | "D"A,3- | "A7"A,zA,
+w:hold her hand and she holds yours, and that's a ve-ry good sign._ That
+|"D"F,2A, | DE2 | "F#7"F2E | "Bm"D2A, | "E7"B,D2 | "A7"D2E | "D"D3- | Dz ||
+w:she's your toot-sey woot-sey in the good ol' sum-mer-time._

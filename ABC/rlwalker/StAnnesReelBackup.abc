@@ -1,0 +1,21 @@
+X:1
+T:Saint Anne's Reel
+C:Peter Barnes Vamper Book
+M:4/4
+L:1/8=240
+K:D
+V:1 clef=treble
+|d/2e/2|:"D"ff/2g/2 f/2e/2d/2B/2|AF F/2A/d/2A/2
+|"G"BG G/2B/2d/2B/2|"D"AF Fd/2e/2|"D"ff/2g/2 f/2e/2d/2B/2
+|AF F/2A/2d/2A/2|"G"B/2G/2B/2e/2 c/2A/2c/2e/2
+|"D"df dd/2e/2:||
+V:2 clef=treble
+|z|:z [A,DF] z [A,DF]|z [A,DF] z [A,DF]
+|z [B,DG] z [B,DG]|z [A,DF] z [A,DF]
+|z [A,DF] z [A,DF]|z [A,DF] z [A,DF]
+|z [B,DG] z [CEA]|z [A,DF] z [A,DF]:||
+V:3 clef=bass
+|z|:[Dd] z [A,,A,] z|[D,,D,] z [A,,A,] z
+|[G,,G,] z [D,,D,] z|[D,,D,] z [A,,A,] z
+|[D,,D,] z [A,,A,] z|[D,,D,] z [A,,A,] z
+|[G,,G,] z [A,,A,] z|[D,,D,] z [A,,A,] z:||

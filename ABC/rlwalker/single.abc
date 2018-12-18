@@ -1,0 +1,23 @@
+%Scale the output
+%%scale 1.16
+%%stretchlast 1
+%%barsperstaff 0
+%%barnumbers -1
+%%gchordbox no
+%%splittune no
+X:1
+T:Single Footin' Horse (#23)
+C:Traditional (Arranged by Peggy Carter)
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+%V:1 treble clef
+K:D    %(D, C)
+|"^Part A"de
+|:"D"f2 fa fe d2|"G"B2 Bd BA F2|"D"G2 F2 E2 D2|E6 de
+|"D"f2 fa fe d2|"G"B2 Bd BA F2|"D"ABde "A7"f2 e2
+|1" D"d6 de:|2" D"d6 A2||
+|"^Part B""D"D2 F2 A2 d2|"Bm"B2 Bd BA F2|"D"D2 F2 A2 F2|"A7"E2 EF ED B,2
+|"D"D2 F2 A2 d2|"Bm"B2 Bd BA F2|"D"ABde "A7"f2 e2|"D"d6 F2||
+|"^Part B1""D"D2 F2 A2 d2|"Bm"B2 Bd BA F2|"D"D2 F2 A2 F2|"A7"E2 EF ED B,2
+|"D"D2 F2 A2 d2|"Bm"B2 Bd BA F2|"D"ABde "A7"f2 e2|"D"d8||
+

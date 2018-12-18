@@ -1,0 +1,15 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Still, Still, Still
+C:German Carol
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+K:C    %(D, C)
+|"C"G c E G|"Am"C3 C/2E/2|"Dm"D D/2F/2 "G7"B, B,/2D/2
+|"C"C3 E|"G7"D D/2E/2 F D|"C"E E/2F/2 G E
+|"G7"D D/2E/2 F D|"C"E E/2F/2 G E|G c E G
+|"Am"C3 C/2E/2|"Dm"D D/2F/2 "G7"B, B,/2D/2|"C"C4||
+

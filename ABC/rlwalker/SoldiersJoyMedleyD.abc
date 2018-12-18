@@ -1,0 +1,37 @@
+%Scale the output
+%%scale 1.00
+%%format dulcimer.fmt
+X:1
+T:Soldier's Joy Medley
+C:
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/8   %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D
+P:A Soldier's Joy - Play AAB
+|:"D"AF DF Ad d2|AF DF "A7"GF E2|"D"AF DF Ad d2|"D"ff "A7"ee "D"df d2:|
+P:B
+|:"D"fg af "A"ef g2|"D"fg af "A"ec A2
+|"D"fg af "A7"ef g2|1 "D"ff "A7"ee "D"df d2:|2 "D"ff "A7"ee "D"df d|
+%%scale 1.15
+P:A Jamie Allen - Play AB
+L:1/4
+|D/2E/2
+|:"D"F D D E|F D D E/2F/2|"G"G E E F
+|G A/2G/2 F E|"D"D d d B|A2 F3/2 G/2|"A"A A G/2F/2 E
+|1 "D"D3 D/2E/2:|2 "D"D3 F/2E/2||
+P:B
+|:"D"D d d c|"G"B A G F
+|"A"E e e d|c A B c|"G"d3/2 e/2 d B|"D"A2 F3/2 G/2
+|"A"A A G/2F/2 E|1 "D"D3 F/2E/2:|2 "D"D3 z||
+%%scale 1.00
+P:A Whiskey Before Breakfast - Play AB
+|:"D"DEFG A2 AA|ABAG FE D2|"G"G2 GG "D"F2 FF
+|1 "A"E2 EF GF E2:|2 "A"EF E2 "D"D4||
+P:B
+|:"D"A2 d2 d2 de|f2 e2 d2 A2|"Em"B2 e2 e2 ef|
+|"A"g2 f2 e2 ee|"D"d2 dd "A"c2 cc|"G"B2 BB "D"A2 AA|
+|"G"G2 GG "D"F2 FF|1 "A"EF E2 "D"D2 DD:|2 "A"EF E2 "D"D4||

@@ -1,0 +1,21 @@
+%Scale the output
+%%scale 1.10
+%%format dulcimer.fmt
+X:1
+T:Star Above the Garter
+C:Traditional
+M:6/8    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:G    %(D, C)
+|B/2c/2
+|:"G"d B/2 B/2A/2G/2|"D"A3/2 A/2B/2A/2|"G"G E/2 "C"c B/2
+|"G"B/2A/2G/2 "D"A/2B/2c/2|"G"d B/2 B/2A/2G/2
+|"D"A3/2 A/2B/2A/2|"C"G E/2 c E/2|1 "D"D/2E/2D/2 D/2B/2c/2:|2 "D"D/2E/2D/2 D3/2|]
+|:"D"d e/2 f a/2|"G"g e/2 d B/2|G B/2 "C"c B/2|"G"B/2A/2G/2 "D"A/2B/2c/2
+|d e/2 f a/2|"G"g e/2 d B/2|G B/2 "C"c E/2
+|1 "D"D/2E/2D/2 D/2B/2c/2:|2 "D"D/2E/2D/2 D3|]

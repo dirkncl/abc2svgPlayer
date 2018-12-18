@@ -1,0 +1,17 @@
+%Scale the output
+%%scale 1.0
+%%format dulcimer.fmt
+X:1
+T:Somebody Touched Me
+C:
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:G    %(D, C)
+|"G"D D2 E|G2 G2|B B2 A
+|(B A) G2|"C"A G2 E|G2 G2
+|A G2 E|"G"(G E) D2| D D2 E
+|G2 G2|B B2 A|(B A) G G
+|B/2B/2 B2-B2 G|"D"A2 B A|"G"G4||

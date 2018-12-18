@@ -1,0 +1,13 @@
+%%scale 1.1
+%%format dulcimer.fmt
+X: 1
+T:Spotted Pony
+C:Traditional
+M:4/4
+L:1/8
+K:D clef=treble
+%%continueall 1
+|:"D"D2 DD E2 EE|"G"F2 FF G2 GG|"D"AB de fe de|[f2D2F2] [a2A2A2] "A7"[e2A2E2] [eAE][eAE]
+|"D"D2 DD E2 EE|"G"F2 FF G2 GG|"D"AB de fe de|"A7"[f2D2F2] [e2A2E2] "D"[d2A2D2] [dAD][dAD]:||
+|:"D"D2 A2 "A7"F2 FF|"D"ED EF "G"ED B,A,|"D"A,B, DE FE DE|F2 [A2A,2A,2] [E2A,2E,2] "A7"[EA,E,][EA,E,]
+|"D"D2 A2 "A7"F2 FF|"D"ED EF "G"ED B,A,|"D"A,B, DE FE DE|"A7"F2 [E2A,2E,2] "D"[D2A,2D,2] [DA,D,][DA,D,]:||

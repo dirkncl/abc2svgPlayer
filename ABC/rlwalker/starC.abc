@@ -1,0 +1,24 @@
+%Scale the output
+%%scale 1.00
+%%format dulcimer.fmt
+X: 1
+T:Star Spangled Banner (The) - American National Anthem
+C:Francis Scott Key - Lyrics; Anacreontic Song probably composed by John Stafford Smith
+M:3/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+V:1 clef=treble
+K:C%(D, C)
+|G3/4E/4|"C"C E "G"G|"Am"c2 "Em"e3/4d/4|"Am"c E "D7"^F|"G"G2 G/2G/2\
+w:1~Oh_ say, can you see by the dawn's ear-ly light. What so
+|"C"e3/2 d/2 c|"G"B2 "G7"A/2B/2|"C"c c G|E C G3/4E/4\
+w:proud-ly we hailed at the twi-light's last gleam-ing? Whose broad
+|C E "G"G|"Am"c2 "Em"e3/4d/4|"Am"c E "D7"^F|"G"G2 G/2G/2|"C"e3/2 d/2 c\
+w:stripes and bright stars thro' the per-i-lous fight. O'er the ram-parts we
+|"G"B2 "G7"A/2B/2|"C"c c G|E C e/2e/2|e f g|"Am"g2 f/2e/2\
+w:watched, were so gal-lant-ly stream-ing? And the rock-et's red glare, the bombs
+|"G7"d e f|"Fm"f2 f/2f/2|"C"e3/2 d/2 c|"G"B2 "G7"A/2B/2|"Am"c E "D7"^F\
+w:burst-ing in air, Gave_ proof thro' the night that our flag was still
+|"G"G2 G/2G/2|"C"c c c/2B/2|"F"A A "A7"A|"Dm"d f/2e/2 d/2c/2\
+w:there Oh_ say does that_ star Spang-led Ban-ner_ yet_
+|"C"c "G"+fermata+B "G7"G/2G/2|"C"c3/2 d/2 e/2f/2|+fermata+g2 "Am"c/2d/2|"C"e3/2 f/2 "G7"d|"C"+fermata+c2||
+w:wave_ O'er the  land_ of the free, and the home of the brave?

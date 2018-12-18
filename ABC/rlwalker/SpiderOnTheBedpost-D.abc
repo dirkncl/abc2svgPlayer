@@ -1,0 +1,26 @@
+%Scale the output
+%%scale 1.0
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 60pt %between systems
+%%sysstaffsep 60pt %between staves of a system
+X:1
+T:Spider On The Bedpost
+C:Rick Thum, 2008
+M:4/4    %(3/4, 4/4, 6/8)
+L:1/4    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+P:A
+|:"D"A/2B/2A/2G/2 F F|"G"E F G A-|"D"A B/2A/2G/2 F F|"A"E4
+|"D"A/2B/2A/2G/2 "A"E E|1 "D"D3 A:|2 "D"D4||
+P:B
+|"D"D F A2|"G"G B d A-|"D"A/2B/2A/2G/2 F F|"A"E4
+|"D"D F A2|"G"G B d A-|A/2B/2A/2G/2 "A"F E|1 "D"D4|2 D4 |

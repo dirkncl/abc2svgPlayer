@@ -1,0 +1,28 @@
+%Scale the output
+%%scale 1.10
+%%format dulcimer.fmt
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+X: 1
+T: Spanish Lady Polka
+M: 2/4
+L: 1/8
+R: polka
+N: Session Tunes (polka) used for dance "Waves of Tory"
+N: with Rattling Bog
+N: Learned from lesson with Kilfenora Fiddler, Aiden McMahon
+N: at Ennis Fleadh Nua, June 2000, Ireland trip
+N: Favorite ceili dances (Waves of Tory, Walls of Limerick
+N: and Siege of Ennis)
+%Q: (beats per measure)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K: Amixolydian
+P:A
+|A/G/|:"D"FA "A"AB/c/|"D"d>c de/f/|"G"ge "D"fd|"A"BA A/B/A/G/
+|"D"FA "A"AB/c/|"D"d>c de/f/|"G"ge "D"fd|"A"BA A2:|
+P:B
+|:"D"fa a/b/a/f/|"G"ed de|"D"fa a>f|"A"ed e2
+|"D"fa a/b/a/f/|"G"ed "D"de/f/|"G"ge "D"fd|"A"BA A2:||

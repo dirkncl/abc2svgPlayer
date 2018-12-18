@@ -1,0 +1,23 @@
+X:1
+T:Somogyi Karik\'azo
+N:Women's circle dance
+O:Hungary
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+M:2/2
+L:1/4
+Q:1/4=60
+P:Play A4B3
+K:Em
+P:A (very slow and legato - 4 times)
+|:"E"e2 e2|B3^c|"Bm"d2B2|"E"e2e2|B3A|^G2E2|\
+|"D"A2A2E3F|"C"G2A2|"Am"B2A2|"D"E3D|"Em"E2E2:|\
+P: B (faster and less legato - 3 times)
+|:"Em"B<BeB|"Am"A<E"B7"G<F|"Em"E2E2\
+|"C"e2e<e|"D7"ABcd|"G"B2B2|\
+|"C"e<eee|"D7"A<Bcd|"G"B2G2
+|"Am"AABc|"Em"BE"B7"GF|"Em"E2E/F/4G/4A/4B/4c/4d/4|\
+|"C"[eG][eG][eG][eG]|"D7"[AC][BD][cE][dF]|"G"[B2D2][G2B,2]\
+|"Am"[AC][AC][BD][cE]|"Em"[BE][EB,]"B7"[GB,][FA,]|\
+"Em"[EG,][EG,][E2G,2]:||
+
+

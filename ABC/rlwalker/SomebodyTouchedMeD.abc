@@ -1,0 +1,37 @@
+%Scale the output
+%%scale 1.07
+%%format dulcimer.fmt
+X:1
+T:Somebody Touched Me
+C:
+M:4/4%(3/4, 4/4, 6/8)
+L:1/4%(1/8, 1/4)
+%%continueall 1
+%%partsbox 1
+%%writefields N 1
+K:Dmaj%(D, C)
+|"D"A A2 B|d2 d2|f f2 e
+w:C~Glory, glo-ry, glo-ry, some-bod-y
+w:1~While I was pray-ing, some-bod-y
+w:2~While I was preach-ing, some-bod-y
+w:3~While I was sing-ing, some-bod-y
+|(f e) d2|"G"e d2 B|d2 d2
+w:touched_ me. Glory, glo-ry glo-ry,
+w:touched_ me. While I was pray-ing,
+w:touched_ me. While I was preach-ing,
+w:touched_ me. While I was sing-ing,
+|e d2 B|"D"(d B) A2| A A2 B
+w:some-bod-y touched_ me. Glory, glo-ry
+w:some-bod-y touched_ me. While I was
+w:some-bod-y touched_ me. While I was
+w:some-bod-y touched_ me. While I was
+|d2 d2|f f2 e|(f e) d d
+w:glo-ry. some-bod-y touched_ me. It
+w:pray-ing, some-bod-y touched_ me. It
+w:preach-ing, some-bod-y touched_ me. It
+w:sing-ing, some-bod-y touched_ me. It
+|f/2f/2 f-f d|"A"e2 f e|"D"d4||
+w:must have been_ the hand of our Lord.
+w:must have been_ the hand of our Lord.
+w:must have been_ the hand of our Lord.
+w:must have been_ the hand of our Lord.

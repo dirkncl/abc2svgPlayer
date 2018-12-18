@@ -1,0 +1,98 @@
+X: 1
+T:The Star-Spangled Banner
+T:(Service Version*)
+% Four-part piano arrangement for standard notation.
+C:Francis Scott Key/John Stafford Smith
+%%HistoryFont Times-Roman 11
+H:*The great growth of community singing, and the systematic introduction of mass singing as a factor
+in the training of the American army, brought into prominence the fact that there has never been an
+authorized official version of our national anthem.  Probably this accounts for the many variations in printed
+and sung versions.  In an effort to bring about greater unity, a representative committee worked for almost
+a year on this Service Version with the hope that it might be widely used.  The Committee of Twelve was
+composed of the following members: John A. Carpenter, Frederick S. Converse, Wallace Goodrich, W.R.
+Spalding, representing the War Department Commission on Training Camp Activities; Hollis E. Dann,
+Peter W. Dykems, Osbourne McConathy, representing the Music Supervisors' National Conference; C.C.
+Birchard, Carl Engel, W.A. Fisher, Arthur Johnstone, E.W. Newton, representing Music Publishers. In
+their conferences, the Committee were agreed, as a fundamental point of departure, that the Star-Spangled
+Banner was to be regarded as a "folk song" and that therefore their efforts should be directed to
+determining what is the present commonly accepted version of the American people rather than to endeavoring
+to establish the authentic and original version from the historic standpoint.  This principle led to a
+unanimous agreement regarding the version of the melody and the greater part of the harmony.  Details
+concerning the deliverations of the Committee may be obtained from the Chairman, Peter W. Dykems,
+University of Wisconsin, Madison, Wisconsin.
+S:Source "The One Hundred and One Best Songs" - The Cable Company - 1919 - Chicago, Illinois
+M:3/4
+L:1/4
+Q:1/4=104
+%%staves [(1 2) (3 4)]
+%%vocalfont Times-Roman 13
+F:http://trillian.mit.edu/~jc/music/abc/src/jaabc2ps-1.1.0/release/101best.abc	 2006-08-13 07:12:34 UT
+K:Bb
+V:1 clef=treble
+(!f!"^}>___With spirit."F3/4 D/4) | B, lD F | kB- B (Ld3/4 c/4) | qB D p=E | F2 F/- F/ | Ld > c B |
+w:1.~O* say! can you see,* by the dawn's ear-ly light, What so proud-ly we
+w:2.~On the shore, dim-ly seen* thro' the mists of the deep, Where the foe's haugh-ty
+w:3.~O* thus be it ev-er when* free-men shall stand Be\-* tween their lov'd
+V:2 clef=treble
+(!f!F3/4 D/4) | B, lD F | kD- D LD3/4- D/4 | qD D pC | C2 F/- F/ | LF > F F |
+V:3 clef=bass
+%%MIDI transpose -24
+(!f!f3/4 d/4) | B lb c' | kb- b La3/4- a/4 | qb b pb | a2 f/- f/ | Lb > a b |
+V:4 clef=bass
+%%MIDI transpose -24
+(!f!f3/4 d/4) | B lb a | kg- g L^f3/4 ^f/4 | qg g pc | f2 f/- f/ | LB > c d |
+V:1
+A2 G3/4 A/4 | B B F | D B, F3/4 D/4 | B, lD F | kB2 Ld3/4 c/4 |
+w:hail'd at the twi-light's last gleam-ing? Whose broad stripes and bright stars, thro' the
+w:host in dread si-lence re-pos-es, What is that which the breeze, o'er the
+w:homes and the war's des-o-la-tion! Blest with vic-t'ry and peace, may the
+V:2
+F2 F3/4 F/4 | F B F | D B, F3/4 D/4 | B, lD F | kD2 LD3/4 D/4 |
+V:3
+c'2 c'3/4 c'/4 | b b f | d B f3/4 d/4 | B lb c' | kb2 La3/4 a/4 |
+V:4
+f2 e3/4 e/4 | d b f | d B f3/4 d/4 | B lb a | kg2 L^f3/4 ^f/4 |
+V:1
+B qD p=E | F2 F/ F/ | d > c B | A2 G3/4 A/4 | B B F |
+w:per-il-ous fight, O'er the ram-parts we watch'd, were so gal-lant-ly
+w:tow-er-ing steep, As it fit-ful-ly blows, half con-ceals, half dis\-
+w:Heav'n-res-cued land Praise the Pow'r that hath made and pre-served us a
+V:2
+D qD pC | C2 F/ F/ | F > F F | F2 F3/4 F/4 | F B F |
+V:3
+b qb pb | a2 f/ f/ | b > a b | c'2 c'3/4 c'/4 | b b f |
+V:4
+g qg pc | f2 f/ f/ | B > c d | f2 e3/4 e/4 | d b f |
+V:1
+D B, !mf!d/- d/ | ld e kf | f2 qe/ d/ | pc ld ke | e2 e/- e/ |
+w:stream-ing? And the rock-ets' red glare, the bombs burst-ing in air, Gave*
+w:clos-es? Now it catch-es the gleam of the morn-ing's first beam, In full
+w:na-tion! Then* con-quer we must, when our cause it is just, And*
+V:2
+D B, !mf!B/- B/ | lB c kd | d2 qc/ B/ | pA lB kc | c2 F/- F/ |
+V:3
+d B !mf!d'/- d'/ | l[d'b] [e'c'] k[f'd'] | [f'2d'2] qe'/ d'/ | p[c'a] l[d'b] k[e'c'] | [e'2c'2] a/- a/ |
+V:4
+d B !mf!b/- b/ | lB3 | kB2 qc'/ b/ | pf3 | f2 f/- f/ |
+V:1
+d > qc B | pA- A (G3/4 A/4) | B D =E | F2 || [Q:1/4=96] lO"_<^CHORUS."F/ kF/ | !f!B B (B/A/) | G G G |
+w:proof thro' the night* that our flag was still there. O* say, does that Star-span-gled
+w:glo-ry re-flect-ed, now* shines on the stream: 'Tis the Star-span-gled Ban-ner: O
+w:this be our mot-to: "In* God is our trust!" And the Star-span-gled Ban-ner in
+V:2
+F > qF F | pF- F F3/4 F/4 | F D C | C2 || [Q:1/4=96] OlF/ kF/ | !f!D E F | E E F |
+V:3
+b > a qb | c'- pc' c'3/4- c'/4 | b b b | a2 || [Q:1/4=96] Olf/ kf/ | !f!b b b | b b =b |
+V:4
+B > c qd | f- pf e3/4- e/4 | d g c | f2 || [Q:1/4=96] Olf/ kf/ | !f!B c d | e e d |
+V:1
+c (qe/d/) (c/pB/) | (qB pHA) F/ F/ | "^broaden"lB > c kd/ e/ | !ff!f2 B/ c/ | d > e c | B2 |]
+w:Ban-ner* yet* wave* O'er the land* of the free and the home of the brave?
+w:long may* it* wave* O'er the land* of the free and the home of the brave!
+w:tri-umph* shall* wave* O'er the land* of the free and the home of the brave!
+V:2
+E (qE/F/) G | pqF- HF F/ F/ | lF2 kF/ B/ | !ff!B2 G/ =E/ | !ff!F > G E | D2 |]
+V:3
+Lc' qg (e'/pd'/) | (qd' pHc') a/ a/ | (lb > c') kd'/ e'/ | !ff![f'2d'2] d'/ b/ | b > b a | b2 |]
+V:4
+Lc (qc/d/) (e/p=e/) | qf- pHf f/ e/ | (ld > f) kb/ {b}c'/ | !ff!b2 g/ g/ | f > f f | B2 |]

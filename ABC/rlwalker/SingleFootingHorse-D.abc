@@ -1,0 +1,35 @@
+%Scale the output
+%%scale 1.100
+%format bracinho.fmt
+%%format dulcimer.fmt
+%format chordsGCEA.fmt
+%%titletrim false
+% %%header Some header text
+% %%footer "Copyright \u00A9 2012 Example of Copyright"
+%%staffsep 50pt %between systems
+%%sysstaffsep 50pt %between staves of a system
+X:1
+T:Single Footing Horse
+C:Old Time (Ray Mathes)
+M:2/4    %(3/4, 4/4, 6/8)
+L:1/8    %(1/8, 1/4)
+V:1 clef=treble
+%%continueall 1
+%%partsbox 1
+%%writehistory 1
+K:D    %(D, C)
+P:A
+|:"D"FABA|FABA|FABA|"A"E2 EE
+|"D"FABA|FABA|F2 "A"E/2F/2E
+|1 "D"D2 DD/2E/2:|2 "D"D2 D2|| 
+P:B
+|:"D"fa f/2e/2d|"G"Bd B/2A/2G
+|"D"AAFA|"A"e2 ee
+|"D"fa f/2e/2d|"G"Bd B/2A/2G
+|"A"AAFE|"D"D2 D2:|
+N:The Single-Footing Horse is a light breed
+N:of good conformation, attractive in
+N:appearance and smooth riding. The term
+N:'single-footing' stems from the fact that
+N:at the fastest speeds the horse travels
+N:with one  foot on the ground at a time.

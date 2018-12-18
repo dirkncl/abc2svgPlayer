@@ -1,0 +1,69 @@
+X: 0
+T: Silver City
+T: 8x32S3
+K: Eb
+
+X: 1
+P: the Beauty of the North
+R: strathspey
+B: RSCDS __-7
+N: Fraser p.74, Skye p.195, Hunter 179, BSFC X-13, Atholl Collection
+D: played by John Neil MacLean on Music from SF Collection, Scottish Traditional Fiddle Music tape
+D: Ron Gonnella on Fiddle Gems tape
+M: C
+L: 1/8
+K: Eb
+E \
+| "Eb"(G,<E) E>F G>A (B<c) | "F7"C<C F>E "Bb7"(D<B,) B,>A, \
+| "Eb"(G,<E) E>F G>A (B<g) | "Ab"f>d "Bb7"e/d/c/B/ "Eb"e2-e :|
+g \
+| "Eb"e>g B>g (e<g) b>g | "Fm"a>g f>e "Bb7"(d<B) B>g \
+| "Eb"e>g B>g e/f/g/a/ b>g | "Bb7"a>f e/d/c/B/ "Eb"e2-e>f |
+| "Eb"g>e (B<G) e>B (G<E) | "Fm"A>G F>E "Bb7"(D<B,) B,>A, \
+| "Eb"(G,<E) E>A (G<e) (B<g) | "Bb7"f>d (e/d/)(c/B/) "Eb"e2-e |]
+
+
+X: 2
+P: the Marquis of Huntly's Strathspey
+C: William Marshall
+N:
+N: Caledonian Companion, p.86
+N: Hunter 174
+N: Skye, p.123
+N: First published in 1781, in Marshalls "Collection of Strathspey Reels" as
+N: the "Marquis of Huntly's Reel"; published in 1822 as a strathspey.
+Z: 1997 John Chambers <jc@trillian.mit.edu>
+M: 4/4
+L: 1/8
+K: GDorian
+|: F \
+|  "Gm"D<G {A}G>F D<G G>A | "F"F>G A>B c/B/A/G/ F<A \
+|  "Gm"D<G {A}G>F D<G G>g | "F"f>c "(D7)"d/c/B/A/ "Gm"B<G G :|
+[| d \
+| "Gm"g>a b>g d<g b>g | "F"a/g/f/d/ c>e f<c a>f \
+| "Gm"g>a b>g d<g b>g | b/a/g/f/ "D7"d>^f "Gm"~g3 d |
+| "Gm"g>a b>g "(D)"a<^f "Gm"g>e | "F"f>d c<f A<F c>F \
+| "Gm"D<G {A}G>F D<G G>g | "F"f>c "(D7)"d/c/B/A/ "Gm"B<G G |]
+
+
+X: 3
+P: Miss Ross
+R: strathspey
+Z: John Chambers <jc@trillian.mit.edu>
+M: C
+L: 1/8
+K: Bb
+G \
+| "Bb"F2 F>G F>G B>d | "Eb"c>B d>B "F7"c>B (G<B) \
+|  "Bb"F2 F>G "Gm"F>G B>g | "Bb"(f<B) "Cm"e>d "F7"c2 "Bb"B :|
+e \
+| "Bb"(d<f) f>g "Gm"(3fga b>d | "Cm"c>B d>B "F7"c>B (G<e) \
+| "Bb"(d<f) f>g "Gm"(3fga b>d | "Cm"c>B e>d "F7"c2 "Bb"B>e |
+| "Bb"(d<f) f>g "Gm"(3fga b>d | "Cm"c>B d>B "F7"c>B (G<e) \
+| "Bb"F>B D>B "Gm"F>G B>g | "Bb"(f<B) "Cm"e>d "F7"c2 "Bb"B |]
+
+X: 4
+%%wordsfont Helvetica 10
+W: Arranged by Bill Possi http://trillian.mit.edu/~jc/music/abc/Scotland/
+K: C
+

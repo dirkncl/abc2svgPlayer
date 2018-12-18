@@ -1,0 +1,32 @@
+%Scale the output
+%%scale 1.1
+%%format dulcimer.fmt
+X: 1
+T:Standing in The Need of Prayer
+C:African-American Spiritual
+M:4/4%(3/4, 4/4, 6/8)
+L:1/8%(1/8, 1/4)
+V:1 clef=treble
+K:D%(D, C)
+|F2
+w:It's
+|:"D"+segno+F6 F2|"G"F E2 "D"D-D4|"Bm"D3/2D/2D3/2D/2 "A"E E3|"D"F6 F2
+w:me, it's me, O Lord,_ stand-ing in the need of prayer. It's
+|F6 F2|"G"F E2 "D"D-"^To Coda"D4|"Bm"D3/2D/2D3/2D/2 "A7"F E3|"D"D6|
+w:me, it's me, O Lord,_ stand-ing in the need of prayer.
+|F3/2 ^E/2|F3/2A/2F3/2^E/2 F3/2A/2F3/2E/2| F =E2 "D7"D-D4
+w:1~Not my broth-er, not my sis-ter, but it's me, O Lord,_
+w:2~Not the preach-er, not the dea-con, but it's me, O Lord,_
+w:3~Not my fa-ther, not my  mother-er, but it's me, O Lord,_
+|"G"D3/2D/2D3/2D/2 "A"E E3|"D"F6 
+w:stand-ing in the  need of prayer.
+|F3/2^E/2|F3/2A/2F3/2^E/2 F3/2A/2F3/2E/2|"Bm7"F =E2 "E7"D-D4
+w:Not my broth-er, not my sis-ter, but  it's me, O Lord,_
+w:Not the preach-er, not the dea-con, but it's me, O Lord,_
+w:Not my fa-ther, not my moth-er, but it's me, O Lord,_
+|1,2 "Em7"D3/2D/2D3/2D/2 "A7"F E3|"D"D6 F2:|
+w:stand-ing in the need of prayer. It's
+|3 "Em7"D3/2D/2D3/2D/2 "A7"F E3|"D"D6 "^D.S. al Coda"F2
+w:stand-ing in the need of prayer. It's
+|"Bm"+coda+D3/2D/2D3/2D/2"A7"F E3|"D"D8||
+w:stand-ing in the need of prayer.
