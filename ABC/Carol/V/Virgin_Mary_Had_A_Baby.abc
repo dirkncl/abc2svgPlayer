@@ -1,0 +1,18 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Virgin Mary Had A Baby Boy
+Z: Traditional
+Z: Sequenced by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  D/ | E E/ F F/ E/E/ | D F/ B,2 B,/ | F F/ A A/ A/A/ | G B/ E2 E/ | B B/ _d d/ d/d/ | c c/ A3/ G/A/ | B G/E/ F D |z E3 | E3 |"^Refrain"z E/ F3/ E/C/ |z E E2 |z E/ F3/ E/C/ | E/E/ E D E |z E/ F3/ E/C/ |z E E2 |z E/ F3/ E/C/ | E/E/ E D E|]
+w: The vir- gin Mar- y had a ba- by boy, The vir- gin Mar- y had a ba- by boy. The vir- gin Mar- y had a ba- by boy, And they said that His name was Je- sus. He come from the glo- ry, He come from the glo- ri ous King- dom. He come from the glo- ry, He come from the glo- ri ous King- dom.
+

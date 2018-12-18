@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Vision of the Shepherds
+Z: A. P. Howard
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Bb
+[V: P1]  F | B3/ A/ G F | A3/ G/ F (G/A/) | B3/ A/ G c | c3 c | d3/ c/ B A | G3/ A/ B B | F3/ F/ F F | B3 F | F3/ G/ A F | c3/ B/ A A | A3/ B/ c =B | c3 F | B3/ A/ G (c/d/) | e3/ d/ c B | d3/ d/ d c | B3|]
+w: While Shep- herds watch'd their flocks by night, All_ seat- ed on the ground, The An- gel of the Lord came down, And glo- ry shone all round. Fear not, said he, for might- y dread Had seized their troub- led mind, Glad tid- ings of great_ joy I bring To you and all man- kind.
+[V: P2]  F | B3/ A/ G F | E3/ E/ E (G/A/) | B3/ D/ =E E | F3 F | ^F3/ F/ G F | D3/ D/ D C | D3/ D/ E E | D3 E | E3/ E/ E E | E3/ E/ E E | E3/ E/ E E | E3 F | B3/ A/ G (G/F/) | E3/ F/ G =E | F3/ F/ _E E | D3|]
+[V: P3]  F, | B,3/ A,/ G, F, | C3/ B,/ A, (G,/A,/) | B,3/ B,/ B, B, | A,3 A, | A,3/ A,/ D C | B,3/ C/ B, G, | B,3/ =B,/ C A, | F,3 A, | A,3/ B,/ C A, | A,3/ G,/ F, F, | F,3/ G,/ A, ^G, | A,3 F, | B,3/ A,/ G, G, | G,3/ G,/ C C | B,3/ B,/ A, A, | B,3|]
+[V: P4]  F, | B,3/ A,/ G, F, | F,3/ F,/ F, (G,/A,/) | B,3/ B,,/ C, C, | F,3 _E, | D,3/ D,/ D, D, | B,3/ ^F,/ G, =E, | F,3/ F,/ A, F, | B,,3 F, | F,3/ F,/ F, F, | F,3/ F,/ F, F, | F,3/ F,/ F, F, | F,3 F, | B,3/ A,/ G, (E,/D,/) | C,3/ D,/ E, G, | F,3/ F,/ F, [F,,F,] | [B,,3F,3]|]
+

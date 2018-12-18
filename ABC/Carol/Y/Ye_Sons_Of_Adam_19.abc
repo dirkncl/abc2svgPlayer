@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ye Sons of Adam, Now Arise
+Z: Isaac Watts
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/2
+Q: 1/4=126
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  E | (A/G/A/B/ c) B | c3 d | (c B) (A G) | A3z |z2z (c/d/) | e e (d/c/) (B/A/) | B3 (F/G/) | (c3/ B/ c) d | c2 B2 | A3 (c/d/) | e d c B | (c/B/) (c/d/) ez |z2z c | (d/c/) (d/e/) (f/e/) (d/c/) | (c2 B) e | (e/d/) (c/B/) A d | (c/B/) (A/G/) A c | (d/c/) (d/e/) f d | (c B) (A G) | A3|]
+[V: P2]  E | E3 E | (C E) A2 | (A E) (E D) | E3z |z2z E | A E A E | G3 (F/G/) | (A3/ G/ A) A | A2 E2 | E3 E | C E A E | C E Az |z2z A | A A A F | E3 G | A E E A | E (E/D/) C E | (A3/ _G/ F/=G/) A | (A E) E2 | E3|]
+[V: P3] z |z C A, B, | E3 F | (E D) (C B,) | C3z |z2z A, | A, A, (F/E/) (D/C/) | B,2 E2 | E3 F | (E A,2) G, | C3z |z2z G, | E D C B, | D (D/C/) D E | (F/E/) (D/C/) (D/C/) (B,/A,/) | (A,2 G,) B, | C (E/D/) (C/B,/) A, | D (C/B,/) (A,/G,/) A, | (A, C/B,/ C/D/) E | (E D) (C B,) | C3|]
+[V: P4]  E, | (C, E,) (A, G,) | A,3 D, | E,2 E2 | A,3 E, | A, A, A, (A,/B,/) | C2 A,2 | E,3 E, | (A,3/ E,/ A,) D, | E,2 E,2 | A,,3z |z2z E, | A, A, A, E, | (F,/E,/) (F,/G,/) A, A, | A, A, A, D, | E,3 E, | A,3/ A,/ A, F, | E, E, A,, A, | (F,3/ E,/ D,) D, | E,2 E,2 | A,,3|]
+

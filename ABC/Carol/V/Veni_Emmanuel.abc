@@ -1,0 +1,26 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Veni Emmanuel
+Z: 15th Century French
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=112
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Unnamed-001"
+%%MIDI program 2 19
+V: P3 name="Veni Emmanuel"
+%%MIDI program 3 19
+V: P4 name="Veni Emmanuel-2"
+%%MIDI program 4 19
+K: G
+[V: P1]  E [EG] [B,B] [DB] | [GB] [GA] c B | [FA] [D3G3] | [DA] [DB] [DG] [CE] | [DG] [EA] [CF] [B,E] | [B,D] [B,3E3] | [E/A/]D/ [CA] [A,E] E | [^DF] [EG] =D F | [^CE] D3 | [B,G] [DA] [DB] [DB] | [GB] [GA] c B | [FA] G3 | [Gd] [F3d3] | [GB] [F3B3] | [GB] [GA] c B | [FA] G [FA] [GB] | [DG] [CE] [DG] [EA] | [CF] [B,E] [B,D] [B,-E-] | [B,3E3]z|]
+[V: P2]  E [EG] [B,B] [DB] | [GB] [GA] c B | [FA] [D3G3] | [DA] [DB] [DG] [CE] | [DG] [EA] [CF] [B,E] | [B,D] [B,3E3] | [E/A/]D/ [CA] [A,E] E | [^DF] [EG] =D F | [^CE] D3 | [B,G] [DA] [DB] [DB] | [GB] [GA] c B | [FA] G3 | [Gd] [F3d3] | [GB] [F3B3] | [GB] [GA] c B | [FA] G [FA] [GB] | [DG] [CE] [DG] [EA] | [CF] [B,E] [B,D] [B,-E-] | [B,3E3]z|]
+[V: P3]  [E,G,] [E,B,] F, G, | D E2 D | C [G,3B,3] | F, G, G, G, | B, A,2 G, | F, [E,3G,3] | A, A, [A,C] [G,B,] | [F,A,] [E,G,]z A, | G, F,3 | [E,G,] F, F, G, | D E2 D | C B,3 | [G,B,] A,3 | [E,E] D3 | D E2 D | C [E,B,] D D | G, G, B, A,- | A,z F, [E,-G,-] | [E,3G,3]z|]
+[V: P4] z2 D, C, | G,, C, A,, B,, | D,z3 | D, G,, B,, C, | B,, C, A,, B,, | B,,z3 | C,/B,,/ A,,z2 |z2 B,, A,, | A,, D,3 |z D, B,, G,, | B,, C, A,, B,, | D, G,,3 |z D,3 |z B,,3 | G,, C, A,, B,, | D,z D, G,, | B,, C, B,, C, | A,, B,, B,,z | z4|]
+

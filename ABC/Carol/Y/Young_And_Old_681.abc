@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Young And Old Must Raise The Lay
+Z: Old Melody
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=288
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: C
+[V: P1]  d2 d2 c2 A2 | c2 B2 A4 | A2 F2 E2 F2 | D4 D4 | D2 D2 F2 D2 | F2 G2 A4 | c2 A2 B2 ^c2 | d4 d4|]
+w: Young and old must raise the lay That their heart en- ga ges; For the child is born to- day, Who is King of A- ges
+

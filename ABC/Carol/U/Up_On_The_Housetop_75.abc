@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Up On The Housetop
+Z: B. R. Hanby
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  B B/ c/ B (G/ F/) | E G B2 | c c B G | F B B2 | B B/ c/ B G/ F/ | E G B2 | c c/ c/ B/ B/ (G/ G/) | F B E2 |"^Chorus" A A c2 | B B/ B/ G2 | F A A2 | G B/ B/ (E G) | B B/ c/ B G | A B c2 | B B/ c/ B G/ G/ | F B E2|]
+w: Up on the house- top_ rein- deer pause, Out jumps good old San- ta Claus. Down thru the chim- ney with lots of toys, All for the lit- tle ones,_ Christ- mas joys. Ho, ho, ho! Who would- n’t go. Ho, ho, ho! Who would- n’t go!_ Up on the house- top, click, click, click. Down thru the chim- ney with good Saint Nick.
+[V: P2]  G G/ A/ G (E/ E/) | E E G2 | A A G E | D D (F A) | G G/ A/ G E/ E/ | E E G2 | A A/ A/ G/ G/ (E/ E/) | D D E2 | E E A2 | G G/ G/ E2 | D F F2 | E E/ E/ (E E) | G G/ A/ G E | E E E2 | E E/ E/ E E/ E/ | D D E2|]
+[V: P3]  E E/ E/ E (B,/ A,/) | G, B, E2 | E E E B, | B, B, D2 | E E/ E/ E B,/ A,/ | G, B, E2 | E E/ E/ E/ E/ (B,/ B,/) | B, A, G,2 | C C E2 | E E/ E/ B,2 | B, B, B,2 | B, G,/ G,/ (G, B,) | E E/ E/ E _D | C B, A,2 | G, G,/ A,/ G, B,/ B,/ | B, A, G,2|]
+[V: P4]  E, E,/ E,/ E, (E,/ E,/) | E, E, E,2 | A, A, E, E, | B,, B,, B,,2 | E, E,/ E,/ E, E,/ E,/ | E, E, E,2 | A, A,/ A,/ E,/ E,/ (E,/ E,/) | B,, B,, E,2 | A, A, A,2 | E, E,/ E,/ E,2 | B,, B,, B,,2 | E, E,/ E,/ E,2 | E, E,/ E,/ E, E, | A, G, A,2 | E, E,/ E,/ E, E,/ E,/ | B,, B,, E,2|]
+

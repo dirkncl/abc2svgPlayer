@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Young And Old Must Raise The Lay
+Z: Aachen Gesangbuch
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=96
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  G G D D | G A B2 | e d c B | A2 G2 | G G D D | G A B2 | e d c B | A2 G2 | d e d c | B B A2 | B A G F | E2 D2 | G G D D | G A B2 | e d c B | A2 G2|]
+w: Young and old must raise the lay That their heart en- ga ges; For the child is born to- day, Who is King of A- ges: For the God, by all a- dored, Comes to His e- lect ed; For the Babe, that is the Lord, Comes to be re- ject ed.
+

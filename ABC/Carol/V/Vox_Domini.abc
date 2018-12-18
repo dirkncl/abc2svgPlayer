@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Vox Domini
+Z: Henry J. Gauntlett, 1805-1876
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: none
+Q: 1/4=304
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Ab
+[V: P1]  F2 F G A2 F2 | G2 c2 A2 F2 | F2 G A B2 c2 | d2 G2 G4 | A2 G F c2 _e2 | e2 d2 d2 c2 | F2 ^F E2 B2 | G2 G2 F6|]
+w: The migh- ty God, the Lord hath spo- ken, And bid the trem- bling earth draw nigh: The sil- ence of long ages bro- ken, He speaks in thun- der from the sky.
+

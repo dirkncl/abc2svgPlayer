@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: A Cradle Song Of The Blessed Virgin
+Z: Joseph Barnby
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  A/ | A A/ c A/ | A3/ G A/ | B B/ d c/ | B3/ A A/ | =B B/ c A/ | (G A/) G G/ | e e/ d c/ | (c3/ d3/) | (c3/ c)"^Chorus" c/ | c A/ G F/ | F G/ A B/ | (G3/ G3/ | F3/ F3/)|]
+w: The Vir- gin stills the cry- ing Of Je- sus, sleep- less ly- ing; And sing- ing for His plea-_ sure, Thus calls up- on her Trea-_ sure,_ "My Dar- ling, do not weep, My Je- su, sleep!___
+

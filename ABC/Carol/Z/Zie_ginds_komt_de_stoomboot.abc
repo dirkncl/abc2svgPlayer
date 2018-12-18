@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Zie_ginds_komt_de_stoomboot
+L: 1/4
+M: 3/4
+V: P1 name="piano"
+%%MIDI program 1 -1
+V: P2 name="piano-2"
+%%MIDI program 2 -1
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: C
+[V: P1] z2 d | [Bg] [Bg] [db] | [da] [da] c' | [c^f] [cf] a | [B2g2] d3/4[B/4d/4] | g [Bg] [d3/4b3/4]d/4 | a/a/ a c'3/4d/4 | ^f f a | [Bg]z3/4 [d/4g/4] d' | [d^fa] a d' | [db] [db] d'3/4[e/4g/4] | c' [ec'] [ceb] | [d^fa]z d3/4[B/4d/4] | g g/a/ b/c'/ | d' [db] g3/4[c/4e/4] | c'z/8 [c3/4-a3/4-][c/8a/8]z/4 ^f3/4 |z3/8 [B/-g/-][B/8g/8] [B2g2] | [B3g3] | [Bg]z2|]
+[V: P2] z2 D | G,/D/z/ G/z | Dz2 | D3/ A/z | G,3 | G,/D/z/ G/- G3/4A/4 | D2- D3/4A/4 | D Az | G,3 | [DA]z2 | G,z3/z/4 C/4- | C3 | Dz2 | G,3 | G,z2 | A,- A,/8E3/4-E/8z/4 [D3/4^F3/4A3/4] |z3/8 [G,/-D/-G/-][G,/8D/8G/8] [G,2D2G2] | [G,3D3G3] | [G,DG]z2|]
+[V: P3] z3|]
+

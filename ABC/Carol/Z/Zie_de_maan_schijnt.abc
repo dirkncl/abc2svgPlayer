@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Zie_de_maan_schijnt 
+L: 1/4
+M: 3/4
+V: P1 name="piano"
+%%MIDI program 1 -1
+V: P2 name="piano-2"
+%%MIDI program 2 -1
+V: P3 name="Tempo Track"
+%%MIDI program 3 -1
+K: C
+[V: P1] z2 d/d/ | [Bg] [GBg] [G/B/g/][d/a/] | b [GBg] a/a/ | a/a/ b/a/ g | G d/d/ [Bg] | [GBg] [G/B/g/][d/a/] [db] | [GBg] [d/a/][d/a/] [d/a/][d/a/] | [d/b/]a/ g G | [G/g/]g/ [e/c'/]G/ [c/e/c'/]G/ | [c/b/][G/a/] [db] G | [G/d/b/][d/b/] [d3/4a3/4][d/4^f/4] d' | [d/b/]a/ g G | [G/B/g/][B/g/] g/g/ g/g/ | g/a/ [db] G | [G/d/b/][d/b/] [da] [d^fd'] | b/a/z/8 [B3/4-g3/4-][B/8g/8] [Bg] | [Bg]z2|]
+[V: P2] z3 | G,/D/z/ D/z/ D/ | G,/D/z/ D/ D,/A,/ | D/A,/ D,/A,/ G,/D/ |z/ D/z/ D/ G,/D/ |z/ D/z/ D/ G,/D/ |z/ D/ D,/A,/ D/A,/ | D/A,/ G,/D/z/ D/ |z/ D/ C2- | C G,/D/z/ D/ |z/ D/ D,/A,/ D/A,/ | D G,/D/z/ D/ |z C,/G,/ C/G,/ | C G,/D/z/ D/ |z/ D/ D,/A,/ D/A,/ | D,z/8 G,3/4-G,/8 G, | G,2z|]
+[V: P3] z3|]
+

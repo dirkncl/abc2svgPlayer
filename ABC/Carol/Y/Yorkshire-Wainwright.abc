@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Yorkshire
+Z: John Wainright
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Church Organ"
+%%MIDI program 1 19
+V: P2 name="French Horn"
+%%MIDI program 2 60
+V: P3 name="Trombone"
+%%MIDI program 3 57
+V: P4 name="Tuba"
+%%MIDI program 4 58
+K: C
+[V: P1]  C2 C D | E3 F | G E F G | A4 | G2 A B | c d e d | c2 B2 | c4 | c2 e G | A3 G | A B c d | B4 | B2 c B | A ^G A B | c2 B2 | A4 | A2 G F | E2 C2 | F E D =C | G3 G | A2 B2 | c d e d | c2 B2 | c4|]
+w: Chris- tians, a- wake, sa- lute the hap- py morn Where- on the Sa- vior of the world was born. Rise to a- dore the mys- ter y of love Which hosts of an- gels chant- ed from a- bove, With them the joy- ful ti- dings first be- gun Of God In- car nate and the Vir- gin's Son.
+[V: P2]  C2 C B, | C3 B, | C C B, C | C4 | C2 C F | G G G F | E2 D2 | E4 | E2 G G | F3 G | F F E F | D4 | E2 E E | E E E F | E3 D | C4 | C2 C B, | C2 C2 | D ^C D A, | B,3 C | (A G) F2 | G G G F | E2 (D E/F/) | E4|]
+[V: P3]  E,2 E, G, | G,3 G, | G, G, G, G, | F,4 | G,2 F, D | C B, C A, | G,2 G,2 | G,4 | C2 C C | C3 C | F, F, G, A, | G,4 | ^G,2 A, G, | A, B, A, A, | A,2 ^G,2 | A,4 | F,2 G, G, | G,2 G,2 | A, G, A, A, | G,3 C | C2 D2 | C B, C A, | G,2 G,2 | G,4|]
+[V: P4]  C,2 C, G,, | C,3 F, | G, C, D, E, | F,4 | E,2 F, D, | E, G, C F, | G,2 G,,2 | C,4 | C,2 C, E, | F,3 E, | D, D, C, F, | G,4 | E,2 A, E, | C, | D, C, D, | E,2 E,2 | A,,4 | F,2 E, D, | C,2 E,2 | D, E, F, ^F, | G,3 E, | (F, E,) D,2 | E, G, C F, | G,2 G,2 | C,4|]
+

@@ -1,0 +1,20 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Vater Unser
+Z: Geistliche Lieder, 15539; harm . by J. S. Bach
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=108
+V: P1 name="Unnamed-000"
+%%MIDI program 1 19
+V: P2 name="Vater Unser"
+%%MIDI program 2 19
+K: Eb
+[V: P1]  [EG] [DG] [CE] [C/F/]D/ | [EG] [CE] [=B,D] C | [EG] [EG] [D/F/]E/ [FB] | [EG] [CE] [CF] [DG] | [EG] [DB] [E/c/][F/d/] [Ge] | [Fd] [E/c/]F/ [G=B] [=Ec] | [Fc] [Fd] [_Gc] [=GB] | [G/=A/]_G/ =G [D_G] [D=G] | [Fc] [FB] [E=A] [DB] | [E/G/]D/ [CG] [DF] E | [CG] [FA] [E/G/][D/F/] [CE] | [DF] [CE] [=B,D] C- | Cz3|]
+[V: P2]  [C,C] [=B,,G,] [C,G,] [F,A,] | [E,/C/]F,/ G, [G,,G,] [B,,G,] | [A,,F,] [G,/B,/]A,/ B, [D,B,] | [E,B,] [A,C] [A,,C] [G,,=B,] | [C,C] [G,B,] [F,A,] [E,G,] | [F,/=A,/][G,/=B,/] [_A,C] [G,D] [C,C] | [F,=A,] B, [A,C] [G,D] | [C,/E/][D,/D/] [E,/D/]C/ [D,=A,] [G,B,] | [F,=A,] [D,B,] [C,C] [B,,F,] | [C,/E,/]B,,/ [A,,E,] [B,,B,] [E,G,] | [=E,C] [F,C] [G,=B,] [A,/C/][G,/_B,/] | [F,A,] G, [G,,/G,/]F,/ [C,-=E,-] | [C,=E,]z3|]
+

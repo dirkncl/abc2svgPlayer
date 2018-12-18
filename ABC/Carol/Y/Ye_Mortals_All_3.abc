@@ -1,0 +1,27 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ye Mortals All, Rejoice And Sing
+Z: English Traditional
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 2/4
+Q: 1/4=63
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Eb
+[V: P1]  E | G/ G/ (E/4F/4) (G/4A/4) | B/ B/ B/ B/ | c/ c/ (d/4B/4) (c/4d/4) | e3/ B/ | e/ (d/4c/4) (c/4B/4) (A/4G/4) | F/ F/ F/ (G/4=A/4) | B/ B/ (d/4c/4) (B/4=A/4) | B3/ B/ | B/ G/ (E/4F/4) (G/4A/4) | B/ B/ B/ (c/4d/4) | e/ (d/4c/4) (c/4B/4) (A/4G/4) | (G F/)z/ |zz/ (G/4A/4) | B/ B/ (B/4A/4) (G/4A/4) | (B B/4c/4) (d/4c/4) | e/ e/ (e/4d/4) (c/4B/4) | e3/ B/ | e/ (d/4c/4) (c/4B/4) (A/4G/4) | (A/4G/4) (A/4B/4) c/ c/ | B/ A/ G/ F/ | E2|]
+[V: P2]  B, | E/ E/ E/ E/ | F/ D/ E/ E/ | E/ F/ F/ A/ | G3/ E/ | G/ E/ E/ E/ | D/ D/ D/ (E/4F/4) | F/ D/ (F/4E/4) (D/4C/4) | D3/ E/ | E/ E/ E/ E/ | D/ D/ E/ A/ | G/ E/ (A/4G/4) (F/4E/4) | (E D/)z/ |zz/ (E/4F/4) | G/ G/ (G/4F/4) (E/4F/4) | G (B/A/) | G/ G/ A/ F/ | G3/ E/ | G/ E/ E/ C/ | E/ (E/4_D/4) C/ (C/4=D/4) | E/ F/ E/ D/ | E2|]
+[V: P3]  G, | B,/ B,/ G,/ C/ | F,/ (B,/4A,/4) G,/ B,/ | A,/ (A,/4C/4) B,/ B,/ | B,3/ G,/ | B,/ (B,/4A,/4) (A,/4G,/4) (C/4B,/4) | B,/ B,/ B,/ (B,/4C/4) | B,/ F,/ F,/ F,/ | F,3/ G,/ | G,/ B,/ (B,/4A,/4) G,/4 E,/4 | F,/ B,/ B,/ A,/ | B,/ B,/ E/ C/ | B,3/z/ | z4 |zz/ (B,/4A,/4) | G,/ B,/ E/ B,/ | B,/ C/ C/ D/ | B,3/ G,/ | B,/ B,/ A,/ E,/ | (A,/4B,/4) (A,/4G,/4) A,/ (E,/4F,/4) | B,/ C/ B,/ A,/ | G,2|]
+[V: P4]  E, | E,/ E,/ E,/ C,/ | D,/ B,,/ E,/ G,/ | A,/ F,/ B,/ B,,/ | E,3/ E,/ | E,/ E,/ E,/ E,/ | B,,/ B,,/ B,,/ E,/ | D,/ B,,/ F,/ F,,/ | B,,3/ E,/ | E,/ E,/ (G,/4F,/4) (E,/4C,/4) | B,,/ (B,/4A,/4) G,/ F,/ | E,/ G,/ A,/ A,,/ | B,,3/ B,,/ | E,/ E,/ E,/ E,/ | E,3/ E,/ | E,/ E,/ (G,/4A,/4) F,/ | E,/ C,/ A,,/ B,,/ | E,3/ E,/ | E,/ G,/ A,/ A,,/ | (C,/4_D,/4) (C,/4B,,/4) A,,/ A,,/ | G,,/ A,,/ B,,/ B,,/ | E,2|]
+

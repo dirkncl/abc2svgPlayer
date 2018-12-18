@@ -1,0 +1,28 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ye Angels, Whose Harmonious Strains
+Z: Samuel Wakely
+Z: Copyright © 2005 by Douglas D. Anderson
+Z: Released to the Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=92
+V: P1 name="Soprano"
+%%MIDI program 1 19
+V: P2 name="Alto"
+%%MIDI program 2 60
+V: P3 name="Tenor"
+%%MIDI program 3 57
+V: P4 name="Bass"
+%%MIDI program 4 58
+K: Ab
+[V: P1]  A | A (G/E/) A c | (B/A/) (B/c/) A3/ B/ | c e c (B/A/) | d c (c B/) B/ | (c/e/) (c/A/) (G/c/) (B/A/) | G F E2 | A A3/4 B/4 c3/ c/ | A (B/c/) B3/ e/ | (A/G/) (A/B/) (c/e/) (e/d/) | c B A2|]
+w: Ye An- gels,_ whose har- mon_ ious_ strains Sur- pris'd the slum- b'ring_ Jew- ish swains,_ Sur- prised_ the_ slum-_ b'ring_ Jew- ish swains, Now tune your harps and sing a-_ gain, On earth_ be_ peace,_ Good_ will to men.
+[V: P2]  E | E E E E | (D/C/) (D/E/) C3/ E/ | E E E E | D E E3/ E/ | E E (E/=D/) E | E =D B,2 | C E3/4 E/4 E3/ E/ | (F/E/) (D/C/) E3/ G/ | E E E (E/F/) | A G E2|]
+[V: P3]  C | C B, A, A, | G, G, E,3/ G,/ | A, B, A, A, | G, A, (A, G,/) B,/ | A, (A,/C/) (B,/A,/) (B,/C/) | B, (B,/A,/) G,2 | A, A,3/4 G,/4 A,3/ A,/ | A, (G,/A,/) G,3/ B,/ | D D C A, | E D C2|]
+[V: P4]  A,, | A,, E, C, A,, | E, E, A,,3/ E,/ | A, G, A, C, | B,, (A,,/C,/) E,3/ G,/ | A, A,, (E,/F,/) (G,/A,/) | B, B,, E,2 | A,, C,3/4 E,/4 A,3/ A,,/ | (D,/C,/) (B,,/A,,/) E,3/ E,/ | (F,/E,/) (F,/G,/) A, (C,/D,/) | E, E, A,,2|]
+

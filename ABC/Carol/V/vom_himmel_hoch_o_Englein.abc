@@ -1,0 +1,17 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: vom_himmel_hoch_o_Englein
+L: 1/4
+M: 1/4
+V: P1 name="Staff"
+%%MIDI program 1 -1
+V: P2 name="Tempo Track"
+%%MIDI program 2 -1
+K: C
+[V: P1]  A [M: 3/4]  | A G F | c2 A | F G A | F3 | c3 | A3 | c3 | A3 | F G A | c ^A =A | F2 E | F2 c | c2 ^A | A2 d | c ^A =A | G2 c | G A ^A | c2 F | F2 E | F2 ^A | ^A =A G | A ^A c | A2 G [M: 2/4]  | F2|]
+[V: P2]  z4 [M: 3/4]  |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 |z3 | z4 [M: 2/4] |]
+

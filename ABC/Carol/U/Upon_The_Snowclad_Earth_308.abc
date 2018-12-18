@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Upon The Snow-clad Earth
+Z: Arthur Sullivan
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: G
+[V: P1]  D | G G G G | (G/F/) (G/A/) B G | c B A G | F3 F | A A A F | (E/F/) (G/E/) F A | A (G/F/) E E | D3 D | d3/ c/ B B | (B/A/) (G/F/) G E | c3/ B/ A G | F3 (G/F/) | E A F (B/A/) | G c A (d/c/) | (B/A/) B A A | G3|]
+w: Up- on the snow- clad earth_ with-_ out, The stars are shin- ing bright. As Heav'n had hung out all_ her_ lamps To hail our_ fes- tal night; For on this night, long years_ a-_ go, The Bless- ed Babe was born, The_ saints of old were_ wont to keep Their_ vi-_ gil un- til morn.
+

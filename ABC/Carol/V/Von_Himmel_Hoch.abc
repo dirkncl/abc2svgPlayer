@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Von Himmel Hoch
+Z: Geistliche Lieder, Leipzig, Germany, 1539
+Z: Public  Domain
+Z: Courtesy of the Cyber Hymnal
+L: 1/4
+M: 4/4
+Q: 1/4=112
+V: P1_1 name="Unnamed-000"
+V: P1_2
+%%MIDI program 1 0
+V: P2_1 name="Von Himmel Hoch, LM"
+V: P2_2
+%%MIDI program 2 91
+K: C
+% Extracting voice 1 from part P1
+[V: P1_1]  | B [EA] B/A/ G | [CA] [DB] [Ec] c | c [EG] [DG] E/F/ | [CG] [DF] [C)E)] E | [EA] [DA] G/A/ [GB] | c/B/ A G c | B A G A/G/ | [C/F/][A,/E/] [B,D] C)|]
+% Extracting voice 2 from part P1
+[V: P1_2]  | G/^F/ x1  D E/D/ | x3  E/F/ | G/F/ x2  C | x3  (C/D/ | x2  D/ ^F/ x1  | G G/^F/ E/D/ | D/E/ E/D/ D/C/ C | x2  C|]
+% Extracting voice 1 from part P2
+[V: P2_1]  | D C/- C/ B, C/B,/ | A,/ G,/ F, [C,G,] G, | [E,C] C [G,B,] [G,/_B,/][F,/A,/] | G, G, [C,)G,)] [(C,(G,] | [^C,G,] ^F, [B,,/G,/][A,,/C/] B,/A,/ | [D,/G,/][C,/B,/] [C,/E/][D,/D/] [G,B,] A, | | C[G,,/F,/] [C,)E,)]|]
+% Extracting voice 2 from part P2
+[V: P2_2]  | G,3/ ^F,/ G,/=F,/ E, | F,/E,/ D, x1  C,/D,/ | x1  E,/F,/ x2  | E,/D,/ C,/B,,/ x2  | x1  D,/=C,/ x1  G,, | x3  G,/^F,/ | | A,/F,/ G,/ x1 |]
+

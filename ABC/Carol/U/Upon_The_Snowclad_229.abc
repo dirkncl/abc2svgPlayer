@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Upon The Snow-clad Earth Without
+Z: H. J. Gauntlett
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  F | B3/ B/ (B/A/) (B/c/) | B3/ B/ e e | d c B c | A2z F | d B A c | F (G/A/) Bz/ B/ | A B G3/ F/ | F3 F | f e d c | =B c dz/ G/ | e d c B | A2z F | F (G/F/) F (G/A/) | (B/c/) (d/e/) f (e/d/) | (d/c/) (d/e/) (B/A/) (G/A/) | B3|]
+w: Up- on the snow-_ clad_ earth with- out, The stars are shin- ing bright. As Heav'n had hung out all her_ lamps To hail our fes- tal night; For on this night, long years a- go, The Bless- ed Babe was born, The saints of_ old were_ wont_ to_ keep Their_ vi-_ gil_ un-_ til_ morn.
+

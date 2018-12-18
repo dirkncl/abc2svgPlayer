@@ -1,0 +1,25 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Virgin Unspotted
+Z: English Traditional From Cecil Sharp
+Z: Copyright © 2006 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=120
+V: P1 name="Church Organ"
+%%MIDI program 1 0
+V: P2 name="French Horn"
+%%MIDI program 2 48
+V: P3 name="Tuba"
+%%MIDI program 3 49
+K: F
+[V: P1]  z4 |z2 F | (F/A/) c c | A A c | B A G | F2 F | (F/A/) c c | A A c | B A G | F2 A | G G B | (A/G/) F A | c c d | c2 A | (B/c/) d G | c c F | B A G | F2"^Chorus" A | G G B | (A/G/) F A | c c d | c2 A | (B/c/) d G | c c F | B A G | F2|]
+w: The Vir-_ gin un- spot ted, the proph- ets fore- told, Should bring_ forth a Sa- viour, which now you be- hold. To be our Re- deem_ er from death, hell and sin, Which A-_ dam's trans- gres sions in- vol ved us in. Then let us be mer-_ ry, Cast sor- row a- way, Our Sa-_ viour Christ Je- sus Is born on this day.
+[V: P2] z [(C(A] [F)c)] |z [(C(A] [F)c)] |z [(C(A] [F)c)] |z [(C(A] [F)c)] |z [(C(A] [B,G] | F [A,F] [C)F)] |z [(A,(F] [C)E)] |z [(D(F] [EFc] | [DFB] [CFA] [B,EFG] | [A,2)F2)] [(F(A] | [FG] [EG] [C)G)] |z [(F(c] [C)A)] |z [(C(A] [DFB] | [FG] [E)G)] [(F(A] | B [FB] [EB] | [FA] [F)c)] [(C(F] | [B,F] [B,D] [B,)E)] |z [(A,(F] [C)A)] |z [(E(c] [F/B/][G/B/] | A [F)c)] [(A(f] | [Gc] [Fc] [FB] | [FG] [EG] [F)A)] |z [(D(B] [C)E)] |z [(C(F] [Fc] | [FB] [Fc] [B,E] | [F2)c2)]|]
+[V: P3]  (F,, F, A,) | (F,, F, A,) | (F,, F, A,) | (F,, F, A,,) | (B,, C, C, | F, C,) (A,, | F,,2 A,, | D,2) (A,, | B,, C, C, | F, F,,)z | (C,2 E, | F, A,) (F, | F,2 G,, | C, [C,)C)] [(F,(C] | [F,D] [F,D] [F,CD] | [F,C] [F,C] [A,,F,C] | [G,,G,] [B,,)G,)] [C,G,] | F,,2z | (E, C, D,/E,/ | F, A,) F, | E, A, G, | C2 (F, | G,2 B, | A,2) F, | G,, C, C, | F,,2|]
+

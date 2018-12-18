@@ -1,0 +1,21 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: The Virgin's Lullabye
+Z: Copyright © 2003 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 3/4
+Q: 1/4=60
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-1"
+%%MIDI program 2 -1
+K: Bb
+[V: P1]  F3/4 E/4 | D3/4 D/4 D3/ F/ | (E/4E/4) D/ C3/4 C/4 E/ D/ | C3/ G/ F/ E/ | Dz/z/4 D/4 F3/4 E/4 | D3/4 D/4 D3/ F/ | (E/4E/4) D/ C3/4 C/4 E/ D/ | C3/ G/ F/ A,/ | B,z A,/ B,/ | C3/4 C/4 C3/ E/ | D/4 D/4 D/4 D/4 D3/4 D/4 D/ F/ | =E3/ D/ C/ B,/ | A,z F/ _E/ | D3/4 D/4 D3/ F/ | (E/4E/4) D/ C3/4 C/4 E/ D/ | C3/ G/ F/ A,/ | B,2|]
+w: Thy dear cheeks, my Child are ro-_ sy red, My love for Thee is strong as death. And in Thy cheeks a- glow are dim-_ ples fine, Thou art and shalt be ev- er mine. Bright- ly shine Thine eyes and they are heav- 'nly blue, There's none more sweet the whole world through. Thy dear cheeks, my Child, are ro-_ sy red, My love for Thee is strong as death.
+[V: P2]  d/ c/ | B/ F/ D/ F/ B/ d/ | c/ B/ A c/ B/ | A/ G/ F/ e/ d/ c/ | B/ F/ D/ F/ d/ c/ | B/ F/ D/ F/ B/ d/ | c/ B/ A c/ B/ | A/ G/ F/ e/ d/ c/ | B/ F/ Bz |z/ F/ A/ c/ B/ A/ | B/ F/ D/ F/ B/ d/ | c/ G/ B/ A/ G/ F/ | E f/ e/ d/ c/ | B/ F/ D/ F/ B/ d/ | c/ B/ A c/ B/ | A/ G/ F/ e/ d/ c/ | B2|]
+

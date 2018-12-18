@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Ye Bells Of Christmas Time
+Z: Arthur Berridge
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Eb
+[V: P1]  B/ | e d/ c B/ | c B/ A G/ | B G/ E F/ | (E3/ E/)z/ G/ | A G/ =B d/ | e d/ c B/ | f d/ c B/ | (B3/ B/)z/ B/ | c d/ B c/ | A B/ G G/ | e d/ c =B/ | (c3/ c/)z/ B/ | e d/ c B/ | c B/ A G/ | B G/ E E/ | (E3/ E)"^Refrain" e/ | d c/ B A/ | G F/ E e/ | (d/c/) B/ (A/G/) F/ | (E3/ E)z/ | Az/ Az/ | F B/ E G/ | (F/D/) E/ (F/G/) =A/ | (B3/ B/)z/ e/ | (c d/ B) c/ | A B/ G G/ | A c/ B d/ | (e3/ e) e/ | (e3/ e) E/ | (E3/ E/ E) G/ | A c/ B d/ | (e3/ e)|]
+w: Ye bells, ye bells, ye hap- py bells, Ye bells of Christ- mas time._ Ring out, ring out, ring out a- gain, A wild- ly joy- ous chime;_ For un- to us a Child is born, Our Hope and light to be;_ The Won- der ful, the Coun- sel or, The Prince of Peace is He._ Ye bells, ye hap- py Christ- mas bells, Ye bells_ of Christ-_ mas tide._ Ring, ring, ring a- gain O'er earth_ a- far_ and wide._ Ye bells,__ Ye hap- py bells, Ye bells of Christ- mas tide._ Ring out,_ ring out,__ ye hap- py Christ- mas bells._
+

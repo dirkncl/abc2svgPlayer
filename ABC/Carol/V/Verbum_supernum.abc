@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Verbum Supernum
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=108
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1]  [CG] [CA] G [FA] | [Ec] B A [CG] | E F [C2D2G2] | G [GB] c [Fd] | c B G A | [C2E2c2] [DFA] [DGc] | B [CGc] G [CA] | G F [C2E2G2] | [CEG] [DA] G [CEA] | [DGc] B [CFA] [CG] | E F [D2G2]|]
+[V: P2]  E, F,2 [D,F,] | [C,2G,2] A, E,- | E, A, G,2 | [G,B,] [E,2G,2] [D,-A,-] | [D,A,] B, E, F, | A,2z G,- | G, E,2 F,- | F,2z2 |z B,2 A, | G,3 [G,-A,-] | [G,2A,2] [G,2B,2]|]
+

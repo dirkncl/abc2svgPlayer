@@ -1,0 +1,29 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Veni Redemptor
+Z: Unknown
+Z: Public Domain
+Z: John Redford Arrangement
+L: 1/4
+M: 4/4
+V: P1 name="4'"
+%%MIDI program 1 74
+V: P2 name="4'-2"
+%%MIDI program 2 74
+V: P3 name="8'"
+%%MIDI program 3 16
+V: P4 name="8'-2"
+%%MIDI program 4 16
+V: P5 name="Tempo Track"
+%%MIDI program 5 -1
+K: C
+[V: P1] !mp!z c f e | d2 [Ac] a- | a [Gg] [cf] e/-e/8^A3/8 | A [Gg] c' F | [G^a] d [c=a] [^Ag] | [A2f2] G [Ff] | c' [E^a] [F3/=a3/] ^a/ | a g3/ f/ [Ff] | [ce] d/8^A3/4-A/8 [=Af] [Fd] | [A^c] [GB] [F2d2] | a ^a c'2 | ^a =a A [^Ag] | [cf] e [Af] ^A | [c2e2] A [ce] | f A ^A =A | G F E a- | a g ^a =a | a g/8G3/4-G/8 [^Af] =A | e G3/- G/8F3/8 [Ff] | g ^a/8E3/4-E/8 [F=a] c'- | c'/c'/8^a3/8 =a/-a/8g3/8 f [Eg] | [Ge] d/8A3/4-A/8 [Bg]z/8 ^c3/4-c/8 | [df] c e ^A | [Ad] c/8G3/4-G/8 F ^A | [E3/-c3/-] [E/8c/8]F3/8 E A | d g f2 |z [G^A] F/-F/8=A3/8 d | [FA] ^A =A2- | Az3|]
+[V: P2]  C,2 D,2- | D, D, A, C | ^A,2 =A, G, | C ^A, =A,2 | G,2z D | D C ^A, =A, | G,2z F, | C ^A, =A, ^A, | G,2 D, F, | E,2z D, | F, [G,D] E, C | D, D C,2 | C,2z D, | A, ^A, C =A, | D2 D A, | ^A,z/8 =A,3/4-A,/8 G, D/8F,3/4-F,/8 | E,/-E,/8B,3/8 ^C [D,D]z/8 F,3/4-F,/8 | E,2 D,2 | C, C ^A, =A, | G,2z F, | G, ^A, =A,2 | G,z/8 F,3/4-F,/8 E,2 | D, A,2 G, | F, E, D,2 |z C, G, [F,D] | D, [E,C] D, A, | Dz D2 | F, G, A,2- | A,z3|]
+[V: P3] z C F E | D2 [A,C] A- | Az/8 [G,3/4-G3/4-][G,/8G/8] [CF] E/-E/8^A,3/8 | A, G/8G,3/4-G,/8 c- c/8F,3/4-F,/8 | [G,^A] D [C=A] G/8^A,3/4-A,/8 | [A,2F2] G, [F,F] | c ^A/8E,3/4-E,/8 [F,3/-=A3/-] [F,/8A/8]^A3/8 | A G3/- G/8F3/8 [F,F] | [CE] D/8^A,3/4-A,/8 [=A,F] D/8F,3/4-F,/8 | [A,^C] B,/8G,3/4-G,/8 [F,2D2] | A ^A c2 | ^A =A A, G/8^A,3/4-A,/8 | [CF] E [A,F]z/8 ^A,3/4-A,/8 | [C2E2] A, [CE] | F- F/8A,3/4-A,/8 ^A, =A, | G,z/8 F,3/4-F,/8 E, A- | A G ^Az/8 =A3/4-A/8 | Az/8 [G,3/4-G3/4-][G,/8G/8] [^A,F] =A, | E G,3/- G,/8F,3/8 F/8F,3/4-F,/8 | Gz/8 [E,3/4-^A3/4-][E,/8A/8] [F,=A]z/8 c3/4-c/8 | c/c/8^A3/8 =A/-A/8G3/8 Fz/8 [E,3/4-G3/4-][E,/8G/8] | [G,E] D/8A,3/4-A,/8 [B,G]z/8 ^C3/4-C/8 | [DF] C E- E/8^A,3/4-A,/8 | [A,D] C/8G,3/4-G,/8 F, ^A, | [E,3/-C3/-] [E,/8C/8]F,3/8 E, A, | D G F2 |z [G,^A,] F,/-F,/8=A,3/8z/8 D3/4-D/8 | [F,A,]z/8 ^A,3/4-A,/8 =A,2- | A,z3|]
+[V: P4]  C,,2 D,,2- | D,, D,, A,, C, | ^A,,2 =A,, G,, | C, ^A,, =A,,2 | G,,2z D, | D, C, ^A,, =A,, | G,,2z F,, | C, ^A,, =A,, ^A,, | G,,2 D,, F,, | E,,2zz/8 D,,3/4-D,,/8 | F,, D,/8G,,3/4-G,,/8 E,, C, | D,, D, C,,2 | C,,2z D,, | A,, ^A,, C, =A,, | D,2 D,z/8 A,,3/4-A,,/8 | ^A,,z/8 =A,,3/4-A,,/8 G,, D,/8F,,3/4-F,,/8 | E,,/-E,,/8B,,3/8 ^C, D,,/8D,3/4-D,/8 D,/8F,,3/4-F,,/8 | E,,2 D,,2 | C,,z/8 C,3/4-C,/8 ^A,,z/8 =A,,3/4-A,,/8 | G,,2z F,, | G,, ^A,, =A,,2 | G,,z/8 F,,3/4-F,,/8 E,,2 | D,, A,,2z/8 G,,3/4-G,,/8 | F,,z/8 E,,3/4-E,,/8 D,,2 |zz/8 C,,3/4-C,,/8 G,,z/8 [F,,3/4-D,3/4-][F,,/8D,/8] | D,, E,,/8C,3/4-C,/8 D,,- D,,/8A,,3/4-A,,/8 | D,z D,2 | F,,z/8 G,,3/4-G,,/8z/8 A,,3/4-A,,/8 A,, | A,,z3|]
+[V: P5]  z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |z2z3/z/ | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |zz3/z/z | z4 |zz3 |zzz2|]
+

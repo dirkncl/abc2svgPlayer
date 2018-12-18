@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Yule Returns; Come, Christian People
+Z: V. B. Crowther-Benyon
+Z: Sequenced 2003 by Douglas D. Anderson
+Z: Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=100
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: Bb
+[V: P1]  (F/^E/) F/ A A/ | G/ F/ G E/ | A A/ (B/c/) d/ | c B/ A3/ | A A/ (A/B/) c/ | d e/ d F/ | B B/ (A/F/) D/ | E F/ E3/ | F/ ^E/ A A/ | G F/ G E/ | A A/ B B/ | (c/d/) e/ d3/ | d d/ c B/ | B A/ F G/ | A B/ A d/ | d c/ d3/|]
+w: Yule_ re- turns, come, Chris- tian peo- ple, Sing- ing Songs_ of old- en time, While the bells_ from tow'r and stee- ple Gai- ly ring_ their Christ- mas chime. Dear to Chris- tian hearts the sto- ry Of the bless- ed Sav-_ iour's birth, Tel- ling that the Lord of Glo- ry, Came to dwell with us on earth.
+

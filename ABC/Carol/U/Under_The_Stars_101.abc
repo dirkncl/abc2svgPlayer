@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Under The Stars, One Holy Night
+Z: Driscol / Brown
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 6/8
+Q: 1/4=75
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: F
+[V: P1]  C/ F/ G/ A A/ | (A/F/) G/ A3/ | A/ C/ A/ (G/C/) G/ | (F3/ F)z/ | F/ B/ c/ d d/ | (d/c/) =B/ c3/ | c/ G/ c/ (d/G/) d/ | (c3/ c3/) | C/ E/ G/ B B/ | (A/B/4) (c/4B/4) A3/ | C/ E/ G/ B B/ | (A3/4B/4) (c/4B/4) A3/ | c/ c/ c/ (A/G/) F/ | (F/G/) F/ d3/ | c/ A/ F/ C c/ | (c3/ c3/)|]
+w: Un- der the stars, one ho-_ ly night, A lit- tle Babe_ was born;_ O- ver His head a star_ shone bright And glis- tened till_ the morn._ And wise men came from far_ a-_ way, And shep- herds has- tened where_ He_ lay, Up- on His low-_ ly bed_ of hay, Un- der the stars one night._
+

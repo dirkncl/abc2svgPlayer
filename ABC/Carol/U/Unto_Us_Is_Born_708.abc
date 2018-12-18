@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Unto Us Is Born A Son
+Z: From Piae Cantiones, 1582
+Z: Copyright © 2004 by Douglas D. Anderson
+Z: Released To The Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=110
+V: P1 name="Staff"
+%%MIDI program 1 19
+K: D
+[V: P1]  D E F G | F E D2 | A A B c | d2 d2 | d e c d | B A A F | A G F E | (D E) F G | A G F E | D2 D2 | D E F G | F E D2 | A A B c | d2 d2 | d e c d | B A A F | A G F E | (D E) F G | A G F E D2 D2 | D E F G | F E D D | A A B c | d2 d2 | d e c d | B A A F | A G F E | (D E) F G | A G F E | D2 D2 | D E F G | F E D2 | A A B c | d2 d d | d e c d | B A A F | A G F E | (D E) F G | A G F E | D2 D2 | D E F G | F E D D | A A B c | d2 d2 | d e c d | B A A F | A G F E | (D E F G | A G F) E | D4|]
+w: Un- to us is born a Son, King of Quires su- per nal: See on earth His life be- gun, Of lords the Lord e- ter_ nal, Of lords the Lord e- ter nal. Christ, from heav'n des- cend ing low Comes on earth a stran- ger; Ox and ass their own- er know, Be crad- led in the man-_ ger, Be crad- led in the man- ger. This did He- rod sore af- fray, And griev- ous ly be- wil der So he gave the word to slay, And slew the lit- tle chil-_ der, And slew the lit- tle chil- der. Of His love and mer- cy mild This the Christ- mas sto- ry; And O that Ma- ry's gen- tle child Might lead us up to glo-_ ry! Might lead us up to glo- ry! O and A, and A and O, Cum can- ti bus in cho- ro, Let our mer- ry or- gan go, Be- ne di ca mus Do-______ mi no.
+

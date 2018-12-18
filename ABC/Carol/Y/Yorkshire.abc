@@ -1,0 +1,23 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Yorkshire
+Z: John Wainwright, 1750
+Z: Public  domain
+L: 1/4
+M: 4/4
+Q: 1/4=155
+V: P1 name="Unnamed-000"
+%%MIDI program 1 0
+V: P2 name="Unnamed-001"
+%%MIDI program 2 91
+V: P3 name="Unnamed-001-2"
+%%MIDI program 3 91
+K: C
+[V: P1]  [G,2C2] [A,C] [B,D] | [C3E3] [CF] | [CG] [CE] [CF] [CG] | [C4A4] | [C2G2] [CA] [FB] | [Gc] [Gd] [Ge] [Fd] | [E2c2] [D2B2] | [E4c4] | [E2c2] [Ge] G | [F3A3] G | [FA] [FB] [Gc] [Fd] | [D4B4] | [E2B2] [Ec] [^GB] | A [E^G] [CA] [FB] | [E2c2] [E2B2] | [C4A4] | [F2A2] [DG] [DF] | [C2E2] C2 | [CF] [CE] [CD] C | [B,3G3] [CG] | [C2A2] [F2B2] | [Gc] [Gd] [Ge] [Fd] | [E2c2] [D2B2] | [E4-c4-] | [E2c2]z2|]
+[V: P2]  E,2 E, G, | G,3 [D,G,] | [E,G,] G, [D,G,] [E,G,] | F,4 | [E,2G,2] F, [D,G,] | [E,G,] [G,B,] C [F,A,] | G,2 G,2 | G,4 | G,2 C [E,C] | [F,3C3] [E,C] | [F,C] [D,D] [E,C] [F,A,] | G,4 | [E,2^G,2] A, D | E [E,B,] [F,A,] [D,A,] | [E,2A,2] [E,A,] ^G, | A,4 | C2 B, G, | G,2 E,2 | F, G, A, D, | D,3 E, | F,2 [D,2G,2] | [E,C] [G,B,] C [F,A,] | G,2 G,2 | G,4- | G,2z2|]
+[V: P3]  C,2 A,, G,, | C,3z |z C,z2 | z4 | z4 |z2 C,z |z2 G,,2 | C,4 | C,2 C,z | z4 | z4 | z4 |z2 A,, B,, | C,z3 | z4 | A,,4 | F,,2 G,, B,, | C,2 C,2 | A,, G,, F,, ^F,, | G,,3 C, | z4 |z2 C,z |z2 G,,2 | C,4- | C,2z2|]
+

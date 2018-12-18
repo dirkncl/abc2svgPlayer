@@ -1,0 +1,19 @@
+%%abc-creator mxml2abc 1.4
+%%abc-version 2.0
+%%continueall true
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X: 0
+T: Vigil
+Z: Public Domain
+L: 1/4
+M: 4/4
+Q: 1/4=120
+V: P1 name="Staff"
+%%MIDI program 1 19
+V: P2 name="Staff-2"
+%%MIDI program 2 19
+K: C
+[V: P1]  [C2E2] [CEA] [CEc] | [D3/^G3/c3/] [D/G/B/] [C2E2A2] | [C2F2] [CF] [CF] | [C2D2F2] B,2 | [C2E2] [CEA] [CEc] | [D3/^G3/c3/] [D/G/B/] [C2E2A2] | [B,2^D2A2] [B,D^G] [DA] | [E4B4] [K: A]  | [M: 4/4]  [E2c2] [EA] [=GA] | [F3/A3/] [D/F/] [D2F2] | [B,3/D3/d3/] [E/F/] [B,DF] [DFB] | [B,EA] E/[B,/G/] [B,EG] D | [C2E2e2] [B,=Ge] [CGe] | [Fe] [B,Fd] [D2F2B2] | [C2E2A2] [B,EG] [DEB] | [C4E4A4]|]
+[V: P2]  A,,2 A,, A,, | E,3/ E,/ A,2 | A,2 ^G, G, | G,4 |z2 A, A, | E,3/ E,/ A,2 | ^F,2 F, [F,A,] | [E,2A,2] ^G,2 [K: A]  | [M: 4/4]  [A,,2A,2] [C,A,] [C,A,] | [D,3/A,3/] [D,/A,/] [D,2A,2] | B,,3/ [C,/^A,/] D, D, | E, E, E,2 | A,2 A, A, | [D,A,] D, D,2 | E,2 E, E, | A,,4|]
+
