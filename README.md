@@ -45,3 +45,24 @@
 
 
 [![Screenshot](https://dirkncl.github.io/abc2svgPlayer/screenshot/Carol.png)](https://dirkncl.github.io/abc2svgPlayer/Carol_new.html)
+
+## abc2svgPlayer - version 1.19.5 from http://moinejf.free.fr/js/
+### experimental - Modular but not a Javascript type module.
+
+- normal editing - https://dirkncl.github.io/abc2svgPlayer/abc2svg-1.19.5/index.xhtml
+
+- One file player - https://dirkncl.github.io/abc2svgPlayer/abc2svg-1.19.5/index.xhtml?../ABC/openhymnal/Amazing_Grace-New_Britain.abc
+
+- Playlist player - https://dirkncl.github.io/abc2svgPlayer/openhymal-1.19.5.html
+
+- choral - https://dirkncl.github.io/abc2svgPlayer/Choral-1.19.5.html
+
+- abcTune - https://dirkncl.github.io/abc2svgPlayer/abcTune-1.19.5.html
+
+- abcother - https://dirkncl.github.io/abc2svgPlayer/abcother-1.19.5.html
+
+- NMD - https://dirkncl.github.io/abc2svgPlayer/NMD-1.19.5.html
+
+- Lotro - https://dirkncl.github.io/abc2svgPlayer/Lotro-1.19.5.html
+
+- RL Walker - https://dirkncl.github.io/abc2svgPlayer/Rlwalker-1.19.5.html
