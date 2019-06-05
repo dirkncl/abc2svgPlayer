@@ -1,0 +1,167 @@
+#!/bin/sh
+#
+# abctopdf - converts ABC to PDF using abc2svg and rsvg-convert
+#
+# Copyright (C) 2019 Jean-François Moine - License GPL3
+
+if [ $# -eq 0 ]; then
+	cat << EOF
+ABC to PDF translator using abc2svg and rsvg-convert
+Usage:
+  abctopdf [g_options] ABC_file [f_options] [ABC_file [f_options]]* [-o output_file]
+Arguments:
+  g_options   global ABC options
+  ABC_file    ABC file
+  f_options   file options
+  output_file output file - default is "./abc.pdf"
+EOF
+	exit 1
+fi
+
+# check the required programs
+if ! command -v rsvg-convert >/dev/null 2>&1; then
+	echo "$0: program 'rsvg-convert' not found - abort"
+	exit 1
+fi
+
+# choose a abc2svg batch script with an available JS interpreter
+if command -v jsc >/dev/null 2>&1; then
+	abcscr=abcjsc
+	jsc=jsc
+elif command -v js24 >/dev/null 2>&1; then
+	abcscr=abcjs24
+	jsc=js24
+elif command -v js52 >/dev/null 2>&1; then
+	abcscr=abcjs52
+	jsc=js52
+elif command -v d8 >/dev/null 2>&1; then
+	abcscr=abcv8
+	jsc=d8
+elif command -v node >/dev/null 2>&1; then
+	abcscr=abcnode
+	jsc=node
+else
+	echo "$0: could not find a javascript interpreter - abort"
+	exit 1
+fi
+if [ ${0#./} != $0 ]; then
+	abcscr="./$abcscr"
+else
+	bdir=`dirname $0`
+	if [ $bdir != '.' ]; then
+		abcscr="$bdir/$abcscr"
+	fi
+fi
+echo "Using $abcscr"
+
+# get the output file name (after '-o')
+# default name
+out='abc.pdf'
+n=0
+	for a do
+		if [ "$a" = "-o" ]; then
+			n=1
+		elif [ $n -eq 1 ]; then
+			out=$a
+			n=0
+		else
+			set -- "$@" "$a"
+		fi
+		shift
+	done
+
+# build a ABC file (JS script) to change the font and page definitions
+# this solves the following problems:
+# - the maintainer of librsvg does not want to handle the CSS shorthand 'font:'
+# - rsvg-convert always gets the SVG images at 72ppi, ignoring the -p/-d values
+cat > /tmp/fix.abc << EOF
+%%pageheight 29.7cm
+%%fullsvg 1 
+%%beginjs
+    var fix_out
+function font_bug(str) {
+	return str.replace(/font:.*?["};]/g, function(p) {	// "
+	    var	w = p.slice(5, -1).match(/[^ \t"]+|".+?"/g), // "
+		l = w.length,
+		r = 'font-family:' + w[--l] + ';font-size:' + w[--l]
+		while (--l >= 0) {
+			switch (w[l]) {
+			case 'italic':
+				r += ';font-style:italic'
+				break
+			case 'oblique':
+				r += ';font-style:oblique'
+				break
+			case 'bold':
+				r += ';font-weight:bold'
+				break
+			}
+		}
+		return r + p[p.length - 1]
+	})
+		.replace(/<svg(.|\n)*?>/, function(p) {
+		    var	a = p.match(/width="(.*?)px" height="(.*?)px"/),
+			w = a[1],
+			h = a[2]
+			return p.replace(a[0],
+				'width="' + (w * .75).toFixed(0) +
+				'px" height="' + (h * .75).toFixed(0) +
+				'px" viewBox="0 0 ' + w + ' ' + h + '"')
+		})
+}
+// install
+	if (abc2svg.page) {		// if page format (normal case)
+		fix_out = abc2svg.page.img_out
+		abc2svg.page.img_out = function(page, p) {
+			fix_out(page, font_bug(p))
+		}
+	} else {
+		fix_out = user.img_out	// page module not loaded
+		user.img_out = function(p) {
+			fix_out(font_bug(p))
+		}
+	}
+// for tests
+abc2svg.abort = function(e) {
+printErr('abort: '+e.message+'\n'+e.stack)
+abc2svg.quit()
+}
+%%endjs
+EOF
+
+# purge /tmp
+rm -f /tmp/abc*.svg
+
+# generate a (XHTML+SVG) file with a abc2svg batch script
+# then, extract the SVG images (pages) to /tmp
+n=0
+command $abcscr /tmp/fix.abc "$@" | while read v; do
+	case "$v" in
+	"<svg"*)
+		n=$(($n+1))
+		fn="/tmp/abc$n.svg"
+		echo $v > $fn
+		;;
+	"</svg"*)
+		echo $v >> $fn
+		fn=
+		;;
+	"</body"*)
+		break;;
+	*)
+		if [ "X$fn" != "X" ]; then
+			echo $v >> $fn
+		fi
+		;;
+	esac
+done
+
+# convert the SVG images to PDF
+if [ -f /tmp/abc1.svg ]; then
+ rsvg-convert -f pdf /tmp/abc*.svg -o $out
+else
+ echo 'Errors during the generation'
+fi
+
+# cleanup
+rm -f /tmp/abc*.svg /tmp/fix.abc

@@ -1,0 +1,77 @@
+#!/bin/sh
+# abc2svg with raw nodeJS
+progdir=`dirname $0`
+
+cat ${progdir}/abc2svg-1.js > /tmp/toto.js
+case $1 in
+	*.js)
+		cat $1 >> /tmp/toto.js
+		shift
+		;;
+esac
+if ! grep 'abc2svg.abc_init =' "$1" > /dev/null; then
+	cat ${progdir}/toxhtml.js >> /tmp/toto.js
+fi
+
+cat <<EOF >> /tmp/toto.js
+    var	progdir='${progdir}/'
+
+// interpreter specific functions
+abc2svg.print = function(str) {
+	process.stdout.write(str + '\n')
+}
+abc2svg.printErr = function(str) {
+	process.stderr.write(str + '\n')
+}
+abc2svg.quit = function() {
+	process.exit(1)
+}
+abc2svg.readFile = function(fname) {
+    var	fs = require("fs");
+
+	return fs.readFileSync(fname).toString()
+}
+
+abc2svg.loadjs = function(fn, relay, onerror) {
+	try {
+		var geval = eval;
+		geval(abc2svg.readFile(progdir + fn))
+		if (relay)
+			relay()
+	} catch(e) {
+		if (onerror)
+			onerror()
+		else
+			abc2svg.printErr('Cannot read file ' + fn)
+	}
+}
+
+// (this file is wrapped)
+global.Abc = Abc
+global.abc2svg = abc2svg
+EOF
+
+cat ${progdir}/cmdline.js >> /tmp/toto.js
+
+cat <<EOF >> /tmp/toto.js
+// main
+	var args = process.argv
+	if (!args[2]) {
+		abc2svg.print('ABC translator with nodeJS\
+ and abc2svg-' + abc2svg.version + ' ' + abc2svg.vdate + '\n\
+Usage:\n\
+  abcnode [script.js] [g_options] ABC_file [f_options] [ABC_file [f_options]]*\n\
+Arguments:\n\
+  script.js  generation script to load - default: toxhtml.js (XHTML+SVG)\n\
+  g_options  global ABC options\n\
+  ABC_file   ABC file\n\
+  f_options  file options');
+		abc2svg.quit(1)
+	}
+	args.shift()
+	args.shift()
+	global.user = user;		// (for modules/page.js)
+	abc_cmd("abcnode", args)
+EOF
+
+node /tmp/toto.js "$@"

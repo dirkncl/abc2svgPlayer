@@ -1,0 +1,94 @@
+#!/bin/sh
+# abc2svg with jsc (webkit2gtk)
+progdir=`dirname $0`
+
+exec jsc -e "var progdir='${progdir}/'
+
+// function to do utf-8 work...
+// uncommenting this function asks for also uncommenting its call in cmdline.js
+//function utf_convert(fin) {
+//	var	b1, b2, b3,
+//		fout = ''
+//	for (var i = 0; i < fin.length; i++) {
+//		b1 = fin.charCodeAt(i)
+//		if (b1 >= 0x80) {
+//			b2 = fin.charCodeAt(++i);
+//			if (b1 >= 0xe0) {
+//				b3 = fin.charCodeAt(++i);
+//				if (b1 >= 0xf0) {		// >= 0x10000
+//					b1 = ((b1 & 0x07) << 18) +
+//						((b2 & 0x3f) << 12) +
+//						((b3 & 0x3f) << 6) +
+//						(fin.charCodeAt(++i) & 0x3f);
+//					fout += String.fromCharCode((b1 >> 10) + 0xd7c0,
+//								(b1 & 0x3ff) + 0xdc00)
+//				} else {
+//					fout += String.fromCharCode(((b1 & 0x0f) << 12) +
+//								((b2 & 0x3f) << 6) +
+//								(b3 & 0x3f))
+//				}
+//			} else {
+//				fout += String.fromCharCode(((b1 & 0x1f) << 6) +
+//							(b2 & 0x3f))
+//			}
+//		} else {
+//			fout += fin[i]
+//		}
+//	}
+//	return fout
+//}
+
+load(progdir + 'abc2svg-1.js')
+
+// interpreter specific functions
+abc2svg.print = function(str) {
+	print(str)
+}
+abc2svg.quit = function() {
+	quit(1)
+}
+abc2svg.readFile = function(fname) {
+	return read(fname)
+}
+abc2svg.loadjs = function(fn, relay, onerror) {
+	try {
+		load(progdir + fn)
+		if (relay)
+			relay()
+	} catch(e) {
+		if (onerror)
+			onerror()
+		else
+			print('Cannot read file ' + fn)
+	}
+}
+
+load(progdir + 'cmdline.js')
+
+function main(args) {
+	if (/\.js$/.test(args[0])) {
+		load(args[0])
+		args.shift()
+	}
+	if (!args[0]) {
+		print('ABC translator with jsc (webkit2gtk)\
+ and abc2svg-' + abc2svg.version + ' ' + abc2svg.vdate + '\n\
+Usage:\n\
+  abcjsc [script.js] [g_options] ABC_file [f_options] [ABC_file [f_options]]*\n\
+Arguments:\n\
+  script.js  script to load - default: toxhtml.js (XHTML+SVG generation)\n\
+  g_options  global ABC options\n\
+  ABC_file   ABC file\n\
+  f_options  file options')
+		quit()
+	}
+	if (typeof(abc2svg.abc_init) != 'function')
+		load(progdir + 'toxhtml.js')
+	abc_cmd('abcjsc', args)
+}
+
+if (typeof arguments == 'undefined')
+	var arguments = ''
+
+main(arguments)
+" -- "$@"

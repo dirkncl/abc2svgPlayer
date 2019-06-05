@@ -1,0 +1,50 @@
+#!/bin/sh
+# simple build of abc2svg as a shell script
+
+MAJOR=1
+
+out=abc2svg-$MAJOR.js
+VERSION=`grep '"version"' package.json|cut -d'"' -f4`
+DATE=`date '+%Y-%m-%d' -r package.json`
+cp core/license $out
+cat core/abc2svg.js core/deco.js core/draw.js\
+ font.js core/format.js core/front.js core/music.js core/parse.js core/subs.js\
+ core/svg.js core/tune.js core/lyrics.js core/gchord.js core/tail.js\
+ core/modules.js >> $out
+ echo "abc2svg.version=\"$VERSION\";abc2svg.vdate=\"$DATE\"" >> $out
+
+cp modules/ambitus.js ambitus-$MAJOR.js
+cp modules/break.js break-$MAJOR.js
+cp modules/capo.js capo-$MAJOR.js
+cat util/midi.js modules/clair.js >> clair-$MAJOR.js
+cp modules/clip.js clip-$MAJOR.js
+cp modules/combine.js combine-$MAJOR.js
+cp modules/diag.js diag-$MAJOR.js
+cp modules/equalbars.js equalbars-$MAJOR.js
+cp modules/grid.js grid-$MAJOR.js
+cp modules/grid2.js grid2-$MAJOR.js
+cp modules/MIDI.js MIDI-$MAJOR.js
+cp modules/page.js page-$MAJOR.js
+cp modules/perc.js perc-$MAJOR.js
+cat modules/wps.js modules/psvg.js > psvg-$MAJOR.js
+cp modules/soloffs.js soloffs-$MAJOR.js
+cp modules/sth.js sth-$MAJOR.js
+cp modules/temper.js temper-$MAJOR.js
+
+cp editor/edit.css edit-$MAJOR.css
+
+cp util/abcdoc.js abcdoc-$MAJOR.js
+cp util/abcemb.js abcemb-$MAJOR.js
+cp util/abcemb1.js abcemb1-$MAJOR.js
+cp util/abcemb2.js abcemb2-$MAJOR.js
+cp util/follow.js follow-$MAJOR.js
+cp util/json.js json-$MAJOR.js
+cp util/midi.js setmidi-$MAJOR.js
+cp util/toaudio.js toaudio-$MAJOR.js
+cat util/play.js util/toaudio.js util/toaudio5.js\
+ util/sf2-parser.js util/tomidi5.js > play-$MAJOR.js
+
+sed "s+@MAJOR@+$MAJOR+" editor/edit.xhtml > edit-$MAJOR.xhtml
+sed "s+@MAJOR@+$MAJOR+" editor/abckbd.js > abckbd-$MAJOR.js
+sed "s+@MAJOR@+$MAJOR+" editor/abckbd2.js > abckbd2-$MAJOR.js
+sed "s+@MAJOR@+$MAJOR+" editor/edit.js > edit-$MAJOR.js

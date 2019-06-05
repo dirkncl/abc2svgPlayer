@@ -1,0 +1,149 @@
+# rules for ninja (ninja-build)
+
+# minifying with 'jsmin' or 'uglifyjs' may be disabled by running
+#	NOMIN=1 ninja -v
+
+MAJOR=1
+
+# ninja tool
+tool=samu
+
+rule cp
+  command = cp $in $out
+
+rule cpm
+  command = sed "s+@MAJOR@+$MAJOR+" $in > $out
+
+rule font
+  command = fontforge -c 'open("font/abc2svg.sfd").generate("abc2svg.ttf")';$
+   fontforge -c 'open("font/abc2svg.sfd").generate("abc2svg.woff")';$
+   echo '// abc2svg music font' > font.js;$
+   echo "var musicfont = 'url(\"data:application/octet-stream;base64,\\" >> font.js;$
+   base64 abc2svg.ttf | sed 's/$$/\\/' >> font.js;$
+   echo "\") format(\"truetype\")'" >> font.js
+
+rule jsc
+  command = VERSION=`grep '"version"' package.json|cut -d'"' -f4`;$
+   if command -v fossil >/dev/null 2>&1; then $
+	c=`fossil info | grep checkout:`;$
+	t=`fossil info | grep tags: | awk '{print $$NF}'`;$
+	if [ "$${t#v}" != "$$VERSION" ]; then $
+		VERSION="$${VERSION}-$$(echo $$c | cut -d' ' -f2 | cut -c1-10)";$
+	fi;$
+	DATE=`echo $$c | cut -d' ' -f3`;$
+   else $
+	DATE=`date '+%Y-%m-%d' -r package.json`;$
+   fi;$
+   cp core/license $out;$
+   if [ "x$$NOMIN" = "x" ]; then $
+      if command -v jsmin >/dev/null 2>&1; then $
+	cat $in | jsmin >> $out;$
+      else $
+	cat $in | uglifyjs >> $out;$
+     fi;$
+   else $
+	cat $in >> $out;$
+   fi;$
+   echo "abc2svg.version=\"$$VERSION\";abc2svg.vdate=\"$$DATE\"" >> $out
+
+rule jscu
+  command = cp core/license $out;$
+   if [ "x$$NOMIN" = "x" ]; then $
+      if command -v jsmin >/dev/null 2>&1; then $
+	cat $in | jsmin >> $out;$
+      else $
+	uglifyjs $in >> $out;$
+      fi;$
+   else $
+	cat $in >> $out;$
+   fi
+
+rule edit
+  command = if [ "x$$NOMIN" = "x" ]; then $
+      if command -v jsmin >/dev/null 2>&1; then $
+	sed "s+@MAJOR@+$MAJOR+" $in | jsmin > $out;$
+      else $
+	sed "s+@MAJOR@+$MAJOR+" $in | uglifyjs > $out;$
+      fi;$
+   else $
+	sed "s+@MAJOR@+$MAJOR+" $in > $out;$
+   fi
+
+# generate all Scc1t2/n.js from sf2-Scc1t2/n.sf2
+rule sf
+  command = for f in sf2-Scc1t2/*.sf2; do $
+   instr=`basename $$f`;$
+   o=$${f#sf2-};$
+   o=$${o%.sf2}.js;$
+   if [ ! -r $$o -o $$f -nt $$o ]; then $
+   echo '// abc2svg sound font' > $$o;$
+   echo "abcsf2[$${instr%.sf2}] = '\\" >> $$o;$
+   base64 $$f | sed 's/$$/\\/' >> $$o;$
+   echo "'" >> $$o;$
+   fi;$
+   done
+
+build font: font | font/abc2svg.sfd
+build sf: sf | Scc1t2/
+
+build abc2svg-$MAJOR.js: jsc core/abc2svg.js core/deco.js core/draw.js $
+ font.js core/format.js core/front.js core/music.js core/parse.js core/subs.js $
+ core/svg.js core/tune.js core/lyrics.js core/gchord.js core/tail.js $
+ core/modules.js | package.json
+
+build ambitus-$MAJOR.js: jscu modules/ambitus.js
+build break-$MAJOR.js: jscu modules/break.js
+build capo-$MAJOR.js: jscu modules/capo.js
+build clair-$MAJOR.js: jscu util/midi.js modules/clair.js
+build clip-$MAJOR.js: jscu modules/clip.js
+build combine-$MAJOR.js: jscu modules/combine.js
+build diag-$MAJOR.js: jscu modules/diag.js
+build equalbars-$MAJOR.js: jscu modules/equalbars.js
+build grid-$MAJOR.js: jscu modules/grid.js
+build grid2-$MAJOR.js: jscu modules/grid2.js
+build MIDI-$MAJOR.js: jscu modules/MIDI.js
+build page-$MAJOR.js: jscu modules/page.js
+build perc-$MAJOR.js: jscu modules/perc.js
+build psvg-$MAJOR.js: jscu modules/wps.js modules/psvg.js
+build soloffs-$MAJOR.js: jscu modules/soloffs.js
+build sth-$MAJOR.js: jscu modules/sth.js
+build temper-$MAJOR.js: jscu modules/temper.js
+
+build edit-$MAJOR.css: cp editor/edit.css
+
+build abcdoc-$MAJOR.js: jscu util/abcdoc.js
+build abcemb-$MAJOR.js: jscu util/abcemb.js
+build abcemb1-$MAJOR.js: jscu util/abcemb1.js
+build abcemb2-$MAJOR.js: jscu util/abcemb2.js
+build follow-$MAJOR.js: jscu util/follow.js
+build json-$MAJOR.js: jscu util/json.js
+build setmidi-$MAJOR.js: jscu util/midi.js
+build toaudio-$MAJOR.js: jscu util/toaudio.js
+build play-$MAJOR.js: jscu util/play.js util/toaudio.js $
+ util/toaudio5.js util/sf2-parser.js util/tomidi5.js
+
+build edit-$MAJOR.xhtml: cpm editor/edit.xhtml
+build abckbd-$MAJOR.js: edit editor/abckbd.js
+build abckbd2-$MAJOR.js: edit editor/abckbd2.js
+build edit-$MAJOR.js: edit editor/edit.js
+
+build all: phony abc2svg-$MAJOR.js abcdoc-$MAJOR.js $
+ abcemb-$MAJOR.js abcemb1-$MAJOR.js abcemb2-$MAJOR.js json-$MAJOR.js $
+ setmidi-$MAJOR.js toaudio-$MAJOR.js play-$MAJOR.js psvg-$MAJOR.js $
+ ambitus-$MAJOR.js break-$MAJOR.js capo-$MAJOR.js clair-$MAJOR.js clip-$MAJOR.js $
+ combine-$MAJOR.js diag-$MAJOR.js equalbars-$MAJOR.js grid-$MAJOR.js grid2-$MAJOR.js $
+ MIDI-$MAJOR.js page-$MAJOR.js perc-$MAJOR.js soloffs-$MAJOR.js sth-$MAJOR.js $
+ temper-$MAJOR.js edit-$MAJOR.css edit-$MAJOR.js edit-$MAJOR.xhtml $
+ abckbd-$MAJOR.js abckbd2-$MAJOR.js follow-$MAJOR.js
+
+default all
+
+# npm/fossil new release
+rule version
+  command = npm version $out;$
+	tag=`ag '"version"' package.json|cut -d'"' -f4`;$
+	fossil commit -m "New release v$$tag" -tag v$$tag;$
+	$tool -v;$
+	npm publish
+build minor: version
+build patch: version
