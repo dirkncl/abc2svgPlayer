@@ -40,6 +40,7 @@ abc2svg.modules = {
   soloffs:      { fn: 'modules/soloffs.js' },
   sth:          { fn: 'modules/sth.js' },
   temperament:  { fn: 'modules/temper.js' },
+  jianpu:       { fn: 'modules/jianpu.js' },
   wps:          { fn: 'modules/wps.js' },
 
   nreq: 0,
