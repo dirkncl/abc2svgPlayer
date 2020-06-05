@@ -349,50 +349,5 @@
 
 </div>
 </td></tr></table>
-  <script>
-//    window.onload=function(){
-    var text = window.location.search.substr(1);
-    /*var text="";
-    text = decodeURIComponent(arg).replace(/\+/g, " ").replace('?','');
-*/
-    if(text.indexOf('&')!=-1) {
-      text=text.split('&');
-      text[1]="";
-      text=text[0];
-    };
-    var N; 
-    if(text.indexOf('=')!=-1) {
-      text=""
-    };
-    console.log(text)
-    if(text=="NotNumber"){
-    //console.log(N)
-    
-    
-    
-      var tgt =  document.getElementsByName("iframes")[0]
-      var a_arr=document.getElementsByTagName("a");
-      var hrefAbc=[];
-      var hrefContent=[];
-      var Abc=[];
-      for(var i=0;i<a_arr.length;i++){
-        hrefContent[i]=a_arr[i].href;
-        hrefAbc[i] = hrefContent[i].split('.').pop();
-        if(hrefAbc[i]==="abc"||hrefAbc[i]==="ABC") {
-        Abc[i]=hrefContent[i];
-        //a_arr[i].target="iframe";
-        a_arr[i].target=tgt;
-        a_arr[i].href="index.html?"+N+Abc[i]
-        }
-        else{
-          a_arr[i].target="_blank";
-        }
-      };
-      }
-//}
-
-     
-  </script>
-
-</BODY>
+  </BODY>
 </HTML>
