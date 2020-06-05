@@ -1,3 +1,5 @@
+/*
+non jianpu
 function LoadTune(file){
   var LoadTuneContent;
   var f = new XMLHttpRequest();
@@ -11,6 +13,23 @@ function LoadTune(file){
   }
   f.send();
 }
+*/
+//jianpu support
+function LoadTune(file,notNumber){
+  var Jainpu=notNumber||"";
+  var LoadTuneContent;
+  var f = new XMLHttpRequest();
+  abc_fname[srcidx]=file;
+  f.open("GET", file, false);
+  f.overrideMimeType('text/plain; charset=UTF-8');
+  f.onreadystatechange = function (){
+    LoadTuneContent = Jainpu+f.responseText;
+    proses(LoadTuneContent);
+    play_tune(-1)
+  }
+  f.send();
+}
+
 function proses(data){
   var i, j, sl,
       content=data,
@@ -107,8 +126,28 @@ if(fileIn!="") {
 var a=document.createElement('a');
 
 a.setAttribute('id','test1');
+/*
+old non jianpu
 if(fileIn!="") {
   a.href="javascript:LoadTune('"+fileIn+"')";
+};
+*/
+//jianpu support
+if(fileIn!="") {
+  var f;
+  if(fileIn.includes(";")){
+    f = fileIn.split(";");
+    if(f[0]=="number") {
+      var notNumber = "%%jianpu";
+      a.href="javascript:LoadTune('"+f[1]+"','"+notNumber+"')";
+    }
+    else{
+      var notNumber=""
+    };
+  }else{
+    a.href="javascript:LoadTune('"+fileIn+"')";
+  }
+
 };
 
 var Fn=fileIn.substring(fileIn.lastIndexOf('/')+1);
