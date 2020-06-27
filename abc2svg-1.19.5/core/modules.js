@@ -41,6 +41,7 @@ abc2svg.modules = {
   sth:          { fn: 'modules/sth.js' },
   temperament:  { fn: 'modules/temper.js' },
   jianpu:       { fn: 'modules/jianpu.js' },
+  mdnn  :       { fn: 'modules/mdnn.js' },
   wps:          { fn: 'modules/wps.js' },
 
   nreq: 0,
