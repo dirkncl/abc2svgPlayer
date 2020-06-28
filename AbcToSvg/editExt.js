@@ -1,12 +1,12 @@
 function LoadTune(file,notNumber){
-  var Jainpu=notNumber||"";
+  var addon=notNumber||"";
   var LoadTuneContent;
   var f = new XMLHttpRequest();
   abc_fname[srcidx]=file;
   f.open("GET", file, false);
   f.overrideMimeType('text/plain; charset=UTF-8');
   f.onreadystatechange = function (){
-    LoadTuneContent = Jainpu+f.responseText;
+    LoadTuneContent = addon+f.responseText;
     proses(LoadTuneContent);
     //play_tune(-1)
   }
@@ -115,6 +115,7 @@ if(fileIn!="") {
 var a=document.createElement('a');
 
 a.setAttribute('id','test1');
+/*
 if(fileIn!="") {
   var f;
   //////////////////////////////
@@ -125,6 +126,29 @@ if(fileIn!="") {
       var notNumber = "%%jianpu";
       a.href="javascript:LoadTune('"+f[1]+"','"+notNumber+"')";
     }
+    else{
+      var notNumber=""
+    };
+  }else{
+    a.href="javascript:LoadTune('"+fileIn+"')";
+  }
+
+};
+*/
+if(fileIn!="") {
+  var f;
+  //////////////////////////////
+  if(fileIn.includes(";")){
+    f = fileIn.split(";");
+  
+    if(f[0]=="number"||f[0]=="jianpu") {
+      var notNumber = "%%jianpu";
+      a.href="javascript:LoadTune('"+f[1]+"','"+notNumber+"')";
+    }
+    else if(f[0]=="mdnn") {
+        var notNumber = "%%mdnn";
+        a.href="javascript:LoadTune('"+f[1]+"','"+notNumber+"')";
+    }  
     else{
       var notNumber=""
     };
