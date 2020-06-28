@@ -380,7 +380,15 @@ function ToAudio() {
 				rst = s			// new possible restart
 				rst_fac = play_fac
 			}
-			while (s.ts_next && !s.ts_next.seqst) {
+			//while (s.ts_next && !s.ts_next.seqst) {
+                        while (1) {
+				while (s.ts_next && !s.ts_next.seqst) {
+					s = s.ts_next
+					s.ptim = p_time
+				}
+				if (!s.ts_next
+				 || s.ts_next.type != C.BAR)
+					break      				
 				s = s.ts_next
 				s.ptim = p_time
 			}
