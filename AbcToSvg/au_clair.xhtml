@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <!--
+    <script src="loaders.js" type="text/javascript"></script>
+    <script src="abc2svg.js" type="text/javascript"></script>
+    <script src="abcemb.js" type="text/javascript"></script>
+    <script src="play.js" type="text/javascript"></script>
+    -->
+    <script src="loaders.js" type="text/javascript"></script>
+    <script>imports('abc2svg.js');imports('abcemb.js');imports('play.js');</script>
+    <style type="text/css">
+    	svg {display:block}
+    </style>
+    <title>abc2svg abcemb-1.js example</title>
+  </head>
+  
+  <body bgcolor="#faf0e6">
+
+    <h3>abcemb-1.js example</h3>
+    
+    <p>
+    This XHTML document contains a ABC tune ('Au clair de la lune').
+    </p>
+    <p>
+    To render this tune, it includes the abc2svg core
+    (script <code>abc2svg-1.js</code>)
+    and the script <code>abcemb-1.js</code> which scans the document and replaces
+    the ABC sequence(s) by SVG images.
+    </p>
+    <p>
+    For playing the tune, this document simply includes the script
+    <code>play-1.js</code>. Check it by clicking the score!
+    </p>
+
+%abc-2.2
+%%pagewidth 12cm
+%%bgcolor white
+%%topspace 0
+%%composerspace 0
+%%leftmargin 0.8cm
+%%rightmargin 0.8cm
+X:1
+T:Au clair de la lune
+C:Unknown
+M:C
+L:1/4
+Q:1/4=140
+K:C
+cccd | e2d2 | cedd | c4 :|
+dddd | A2A2 | dcBA | G4 |
+cccd | e2d2 | cedd | c4 ||
+
+  </body>
+</html>

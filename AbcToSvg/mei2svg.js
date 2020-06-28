@@ -1,0 +1,20 @@
+var meitosvg = [];var tmp,mod;
+tmp = fs.readFileSync('core/license');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/abc2svg.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/deco.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/draw.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('font.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/format.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/front.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/music.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/parse.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/subs.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/svg.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/tune.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/lyrics.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/gchord.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/mei.js');meitosvg.push(tmp);tmp=null;
+tmp = fs.readFileSync('core/tail.js');meitosvg.push(tmp);tmp=null;
+mod = fs.readFileSync('core/modules.js');mod=mod.replace(/\\t\\n/g,"\n");mod=mod.replace(/S+/g," ");mod = mod.replace(/[-]1/ig,"");mod = mod.replace(/fn: '/ig,"fn: \'modules/");meitosvg.push(mod);mod=null;
+tmp = fs.readFileSync('version.js');meitosvg.push(tmp);tmp='';
+for(i=0;i<meitosvg.length;i++){tmp += meitosvg[i]}console.log(tmp);eval.apply( null, [tmp] )
