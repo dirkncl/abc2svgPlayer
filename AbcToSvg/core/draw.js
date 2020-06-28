@@ -734,7 +734,7 @@ function draw_acc(x, y, a) {
 			n *= 12
 			d *= cfmt.nedo
 		}
-		c = Math.abs(n) + '_' + d
+		c = n + '_' + d
 		a = acc_nd[c]
 		if (!a) {
 			a = abc2svg.rat(Math.abs(n), d)

@@ -368,7 +368,8 @@ function ToAudio() {
 //			&& !rsk) {			// error if |1 already
 				s.rep_s = rsk = [rst]	// repeat skip
 							// and memorize the restart
-				if (rst.bar_type.slice(-1) != ':')
+				if (rst.bar_type
+				 && rst.bar_type.slice(-1) != ':')
 					rst.bar_type += ':' // restart confirmed
 				set_variant(rsk, s.text, s)
 				rst_fac = play_fac

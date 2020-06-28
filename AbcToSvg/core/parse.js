@@ -1622,10 +1622,6 @@ function parse_acc_pit(line) {
 			nd[0] = -nd[0]
 		acc = nd
 		c = line.char()
-	    } else if (cfmt.nedo) {
-		line.next_char()
-		syntax(1, "Bad microtonal accidental")
-		return //undefined
 	    }
 	}
 
@@ -1829,8 +1825,12 @@ function pit2mid(pit, acc) {
 		}
 	} else {				// equal temperament
 		p = cfmt.temper[p] + o * 12
-		if (s)
-			p += s * 12 / cfmt.nedo 
+		if (s) {
+			if (typeof acc != "number")
+				p += s * 12 / cfmt.nedo
+			else
+				p += (cfmt.temper[2] - cfmt.temper[0]) * acc / 2
+		}
 	}
 	return p
 } // pit2mid()

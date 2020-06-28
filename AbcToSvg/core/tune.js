@@ -1761,6 +1761,7 @@ function get_vover(type) {
 			if (curvoice.time > vover.p_voice.time)
 				vover.p_voice.time = curvoice.time
 		}
+		curvoice.acc = []		// no accidental anymore
 		curvoice = vover.p_voice;
 		vover = null
 		return
@@ -1818,6 +1819,7 @@ function get_vover(type) {
 	}
 	p_voice2.ulen = curvoice.ulen
 	p_voice2.dur_fact = curvoice.dur_fact
+	p_voice2.acc = []			// no accidental
 
 	if (!vover) {				/* first '&' in a measure */
 		vover = {
