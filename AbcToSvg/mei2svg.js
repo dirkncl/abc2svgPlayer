@@ -17,4 +17,4 @@ tmp = fs.readFileSync('core/mei.js');meitosvg.push(tmp);tmp=null;
 tmp = fs.readFileSync('core/tail.js');meitosvg.push(tmp);tmp=null;
 mod = fs.readFileSync('core/modules.js');mod = mod.replace(/[-]1/ig,"");mod = mod.replace(/fn: '/ig,"fn: \'modules/");meitosvg.push(mod);mod=null;
 tmp = fs.readFileSync('version.js');meitosvg.push(tmp);tmp='';
-for(i=0;i<meitosvg.length;i++){tmp += meitosvg[i]}console.log(tmp);eval.apply( null, [tmp] )
+for(i=0;i<meitosvg.length;i++){tmp += meitosvg[i]};eval.apply( null, [tmp] )
