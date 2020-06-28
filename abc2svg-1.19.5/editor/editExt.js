@@ -132,15 +132,21 @@ if(fileIn!="") {
   a.href="javascript:LoadTune('"+fileIn+"')";
 };
 */
-//jianpu support
+//jianpu and mdnn support
 if(fileIn!="") {
   var f;
+  //////////////////////////////
   if(fileIn.includes(";")){
     f = fileIn.split(";");
-    if(f[0]=="number") {
+  
+    if(f[0]=="number"||f[0]=="jianpu") {
       var notNumber = "%%jianpu";
       a.href="javascript:LoadTune('"+f[1]+"','"+notNumber+"')";
     }
+    else if(f[0]=="mdnn") {
+        var notNumber = "%%mdnn";
+        a.href="javascript:LoadTune('"+f[1]+"','"+notNumber+"')";
+    }  
     else{
       var notNumber=""
     };
