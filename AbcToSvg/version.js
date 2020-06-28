@@ -1,2 +1,2 @@
-abc2svg.version = "abc2svg-1.20.11-923ac0db9f";
-abc2svg.vdate = " 2020-06-28 09:38:00"
+abc2svg.version = "abc2svg-1.20.11-5581a06682";
+abc2svg.vdate = " 2020-06-28 12:54:04"
