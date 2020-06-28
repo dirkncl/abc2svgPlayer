@@ -388,7 +388,7 @@ abc2svg.jianpu = {
 
     var	C = abc2svg.C
 	
-	for (var s = abc.get_tsfirst(); s; s = s.ts_next) {
+	for (var s = this.get_tsfirst(); s; s = s.ts_next) {
 		switch (s.type) {
 
 		// draw the key signature only in the first voice
