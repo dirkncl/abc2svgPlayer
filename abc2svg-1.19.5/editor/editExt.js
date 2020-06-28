@@ -16,14 +16,14 @@ function LoadTune(file){
 */
 //jianpu support
 function LoadTune(file,notNumber){
-  var Jainpu=notNumber||"";
+  var addon=notNumber||"";
   var LoadTuneContent;
   var f = new XMLHttpRequest();
   abc_fname[srcidx]=file;
   f.open("GET", file, false);
   f.overrideMimeType('text/plain; charset=UTF-8');
   f.onreadystatechange = function (){
-    LoadTuneContent = Jainpu+f.responseText;
+    LoadTuneContent = addon+'\n'+f.responseText;
     proses(LoadTuneContent);
     play_tune(-1)
   }
