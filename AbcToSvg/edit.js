@@ -9,6 +9,5 @@ edt = "var sfuPath = sfuPath || null;"+edt;
 edt=edt.replace('onend: endplay','sfu:sfuPath,onend: endplay')
 edt = edt.replace('window.addEventListener("load", edit_init)','');
 edt = edt+'setTimeout(edit_init, 500)';
-console.log(edt)
 eval.apply(null,[edt])
 imports('editExt.js');
