@@ -234,6 +234,9 @@ abc2svg.MIDI = {
 		s = new Float32Array(12)
 		this.cfmt().temper = s	// detune in cents / 12-TET
 		s[0] = 0			// C
+		
+		s[1] = 7 * qs - 4 * o		// ^C	
+			
 		s[2] = 2 * qs - o		// D
 		s[4] = 4 * qs - 2 * o		// E
 		s[5] = -qs + o			// F
