@@ -7,7 +7,6 @@ function LoadTune(file,notNumber){
   f.overrideMimeType('text/plain; charset=UTF-8');
   f.onreadystatechange = function (){
     LoadTuneContent = addon+'\n'+f.responseText;
-    console.log(LoadTuneContent);
     proses(LoadTuneContent);
     //play_tune(-1)
   }
