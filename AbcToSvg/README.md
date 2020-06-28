@@ -5,6 +5,14 @@ li p{margin-left:0}
 </style>
 ## abc2svg
 
+#### https://dirkncl.github.io/abc2svgPlayer/AbcToSvg/index.xhtml
+
+#### https://dirkncl.github.io/abc2svgPlayer/AbcToSvg/index.xhtml?../ABC/openhymnal/Amazing_Grace-New_Britain.abc
+
+#### https://dirkncl.github.io/abc2svgPlayer/AbcToSvg/index.xhtml?jianpu;../ABC/openhymnal/Amazing_Grace-New_Britain.abc
+
+#### https://dirkncl.github.io/abc2svgPlayer/AbcToSvg/index.xhtml?mdnn;../ABC/openhymnal/Amazing_Grace-New_Britain.abc
+
 **abc2svg** is a set of Javascript files for handling
  [ABC music notation](http://abcnotation.com/). This includes
 editing, displaying, printing, playing the music files and
