@@ -1829,7 +1829,8 @@ function pit2mid(pit, acc) {
 			if (typeof acc != "number")
 				p += s * 12 / cfmt.nedo
 			else
-				p += (cfmt.temper[2] - cfmt.temper[0]) * acc / 2
+				//p += (cfmt.temper[2] - cfmt.temper[0]) * acc / 2
+				p += (cfmt.temper[1] - cfmt.temper[0]) * acc
 		}
 	}
 	return p
