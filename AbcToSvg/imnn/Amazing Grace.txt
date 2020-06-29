@@ -1,0 +1,20 @@
+﻿{title: <center>Amazing Grace</center>}
+<hr>
+
+{subtitle:  do=D 3 ketuk}
+
+&nbsp;
+
+[js5j s6]A  -  [|][1 .]maz  [j3j 1]ing   [|][3]      grace [.]    [2]      how | [1]sweet [.] [s6]the[|]
+&nbsp;
+[s5]sound, [.] [js5j s6]    that [|][1]       saved [.] [j3j 1]a     [|] [3]      wretch [.] [j2j 3]like  [|][5i]me![ . .][|]
+&nbsp;
+[5]-  [.] [3]I  [|] [5]      once [.][j3j 5]was  [|][3]      lost  [j1j 1] [s5]but[|][s6]      now [.] [j1j s6]i am[|]
+&nbsp;
+[s5]found [.] [js5j s6]was  [|] [1]      blind,[.] [j3j 1]but  [|] [3]      now[.][2]i  [|]
+&nbsp;
+[z1x x.x.x|xx dc1]see          [.][+]
+
+
+
+

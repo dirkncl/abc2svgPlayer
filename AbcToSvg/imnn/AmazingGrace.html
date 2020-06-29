@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" href="css/yuiReset.css" />
+<link rel="stylesheet" type="text/css" href="css/basic-page-layout.css" media="all" />
+<link rel="stylesheet" type="text/css" href="css/ukeGeeks.music.css" media="all" />
+<link rel="stylesheet" type="text/css" href="css/ukeGeeks.musicPrint.css" media="print" />
+</head>
+<body style="background-color:ivory">
+<section>
+	<div class="metaInfo"></div>
+	<div id="ukeSongContainer" class="ugsLayoutTwoColumn ugs-song-wrap">
+		<aside id="ukeChordsCanvas" class="ugs-diagrams-wrap ugs-grouped" style="display:none"></aside>
+		<article id="ukeSongText" class="ugs-source-wrap"><pre></pre></article>
+	</div>
+</section>
+<script type="text/javascript">
+function getNote(url){
+  var txt = document.getElementById('ukeSongText').getElementsByTagName("pre")[0];
+  txt.textContent = "";
+	xhr = new XMLHttpRequest();
+	xhr.open("GET", url, true);
+	xhr.onload = function() {
+    //console.log(xhr.responseText);
+    
+		txt.innerHTML=xhr.responseText;
+    
+	}
+	xhr.send();
+};
+var arg = {};
+window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {arg[key] = value;});
+var ls = arg.q||"Amazing Grace.txt";
+document.title=ls.replace("."+ls.split(".").pop(),"")
+if(ls){
+  getNote(ls);
+  document.write('<script type="text\/javascript" src=".\/js\/ukeGeeks.scriptasaurus.merged.js"><\/script>');
+  document.write('<script type="text\/javascript" src=".\/js\/startup.js"><\/script>');
+}else{
+  
+}
+<!-- :: example: KidungRohaniViewer.html?q=2.jpg-ukgeeks.txt' :: -->
+</script>
+
+</body>
+</html>
