@@ -95,7 +95,7 @@ svg {display:block}
 	#dleft, #ctxMenu, .popup { display: none }
 	body {
 		margin:0; padding:0; border:0;
-		background-color:rgba(0, 0, 0, 0.6);
+		background-color:white;
 	}
 	#dright { margin:0; padding:0; border:0 }
 	.newpage { page-break-before: always }
