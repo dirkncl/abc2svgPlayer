@@ -4,7 +4,7 @@ text tspan {white-space:pre; fill:currentColor}
 svg {display:block}
 .abcr {fill: #d00000; fill-opacity: 0; z-index: 15}
 @media screen {
-	body, html {height: 90%}
+	body, html {height: 90%;background-color:rgba(0, 0, 0, 0.6)}
 	text, path {pointer-events: none}
 	#dleft {
 		width: auto;
