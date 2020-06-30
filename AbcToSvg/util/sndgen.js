@@ -387,7 +387,8 @@ function ToAudio() {
 					s.ptim = p_time
 				}
 				if (!s.ts_next
-				 || s.ts_next.type != C.BAR)
+				 || s.ts_next.type != C.BAR
+				 || s.ts_next.bar_type.slice(-1) == ':')
 					break      				
 				s = s.ts_next
 				s.ptim = p_time
