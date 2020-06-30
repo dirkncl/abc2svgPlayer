@@ -227,12 +227,14 @@ abc2svg.MIDI = {
 		// define the detune values
 		q = 7.019550008653874	// Math.log(3/2)/Math.log(2) * 12
 					// = just intonation fifth
+		//q = 7			// fifth
 		o = 12			// octave
 		this.cfmt().nedo = n	// octave divider
 		qs = ((n * q / o + .5) | 0) * o / n	// new fifth
 
 		s = new Float32Array(12)
 		this.cfmt().temper = s	// detune in cents / 12-TET
+		/*	
 		s[0] = 0			// C
 		
 		s[1] = 7 * qs - 4 * o		// ^C	
@@ -244,6 +246,16 @@ abc2svg.MIDI = {
 		s[9] = 3 * qs - o		// A
 		s[11] = 5 * qs - 2 * o		// B
 		break
+		*/
+		s[0] = 2 * o - 3 * qs - 3	// C
+		s[1] = 4 * qs - 2 * o - 3	// ^C
+		s[2] = o - qs - 3		// D
+		s[4] = qs - 3			// E
+		s[5] = 3 * o - 4 * qs - 3	// F
+		s[7] = 2 * o - 2 * qs - 3	// G
+		s[9] = 9			// A
+		s[11] = 2 * qs - o + 9	// B
+		break	
 	}
     }, // do_midi()
 
