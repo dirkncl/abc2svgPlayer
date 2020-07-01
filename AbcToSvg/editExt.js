@@ -148,7 +148,12 @@ if(fileIn!="") {
     else if(f[0]=="mdnn") {
         var notNumber = "%%mdnn";
         a.href="javascript:LoadTune('"+f[1]+"','"+notNumber+"')";
+    }
+    else if(f[0]=="gamelan"||f[0]=="imnn") {
+        var notNumber = "%%gamelan";
+        a.href="javascript:LoadTune('"+f[1]+"','"+notNumber+"')";
     }  
+    
     else{
       var notNumber=""
     };
