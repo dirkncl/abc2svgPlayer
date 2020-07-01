@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <script src="loaders.js" type="text/javascript"></script>
+  <script>
+    imports('abc2svg.js');
+    imports('abcweb2.js');
+    imports('snd.js');
+    var flw;
+    flw = fs.readFileSync('util/follow.js');
+    flw = flw.replace('#d00000','rgba(255, 165, 100, 0.8)')
+    eval.apply(null,[flw])
+    
+  </script>
+
+<style type="text/css">
+svg{display:block}
+p{margin:10px}
+@media print{body{margin:0;padding:0;border:0}.nop{display:none}}
+@page{margin:1cm 0 1cm 0}
+</style>
+<title>Psaume 32</title>
+</head>
+<body>
+<noscript>Merci d'activer Javascript!</noscript>
+<p style="font:20px serif;text-align:center;width:21cm;margin:16px">Psaume 32</p>
+<script class="abc" type="text/vnd.abc">
+%%musicfont url(abc2svg.ttf)
+%%vocalfont sans-serifBold 14
+%%chordnames Do,Ré,Mi,Fa,Sol,La,Si
+%%soloffs space=0 tempo=0
+%%stretchlast 1
+%%linebreak $
+%%leftmargin 2cm
+%%topspace 0  
+%%titlespace 0
+%%musicspace 0
+%%composerspace 0
+%%staffsep 40
+
+X:32
+M:3/4
+L:1/4
+Q:1/4=96
+K:F
+"@-50,6Version;      1"y1\
+C|"F"F2"C"G|"Dm"AA/F/ "F"F/F/|"Dm"AA"Bb"B|"C"c3||$
+w:Heu-reux le peu-ple dont le Sei-gneur est le Dieu.
+%%leftmargin 3cm
+%%rightmargin 2.5cm
+"F"c8A/"Bb"!shortphrase!F "Gm"B8A/"C7"!shortphrase!G\
+ "F"A8F/"Bb"!shortphrase!D "C7"E8F/"C"G|]
+
+X:32-2
+%B:Signes - Prions en Eglise - p21,33
+M:2/4
+L:1/8
+Q:1/4=80
+K:D
+"@-50,6Version;      2"y1\
+F|"D"F2 EF|"Bm"D2 EF|"F#m"A4|"Bm"DE FB|"F#m"A2 "A"FE|"D"F2 z2||$
+w:Sei-gneur, ton a-mour soit sur nous
++:com-me no-tre~es-poir est en toi.
+%%leftmargin 3cm
+%%rightmargin 2.5cm
+L:1/4
+"D"F8E/"Bm"!shortphrase!D "Em"G8F/"A"!shortphrase!E\
+ "F#m"A8G/"Bm"!shortphrase!F "Em"G8F/"A"E|]$
+"@-32,28ou"y1\
+"D"F4"F#m"A2|"F#m"F4"Bm"D2|\
+ "Em"E4"Bm"D2|"A"E4"D"F2|]
+
+X:32-3
+M:2/4
+L:1/8
+Q:1/4=80
+%%vocalfont sans-serif 14
+%%maxshrink .9
+%%leftmargin 1.5cm
+%%rightmargin 1cm
+K:Gm
+"@-50,6Version;      3"y1\
+zD DD|"Gm"G2AB|"Cm"A2GF|"D"D4|
+"Eb"dc BA|G4|"Am6+"^F2"Gm"G2|"D"A4||$
+w:Que ton a-mour, Sei--gneur, soit sur nous
++:com-me notre es-poir est en toi!
+% %vskip .2cm
+%%leftmargin 3.5cm
+%%rightmargin 3cm
+L:1/4
+"Gm"G8"Cm"!shortphrase!A "D"A8"Gm"!shortphrase!B\
+ "Gm"B8"Cm"!shortphrase!c "Gm"B8"D"A|]
+
+</script>
+
+<table style="font:16px sans-serif;width:19cm;margin:0 2cm">
+<tr>
+<td colspan="2" style="padding:0 4.5cm">
+<p>
+[Oui,] elle est droite, la parole du Seigneur ;<br/>
+il est fidèle en tout ce qu'il fait.<br/>
+Il aime le bon droit et la justice ;<br/>
+la terre est remplie de son amour. 
+</p>
+<p>
+Le Seigneur a fait les cieux par sa parole,<br/>
+l'univers, par le souffle de sa bouche.<br/>
+Il parla, et ce qu'il dit exista ;<br/>
+il commanda, et ce qu'il dit survint.
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+Dieu veille sur ceux qui le craignent,<br/>
+qui mettent leur espoir en son amour,<br/>
+pour les délivrer de la mort,<br/>
+les garder en vie aux jours de famine.
+</p><p>
+Nous attendons notre vie du Seigneur :<br/>
+il est pour nous un appui, un bouclier.<br/>
+Que ton amour, Seigneur, soit sur nous<br/>
+comme notre espoir est en toi !
+</p>
+</td>
+<td>
+<p>
+Dieu veille sur ceux qui le craignent,<br/>
+qui mettent leur espoir en son amour,<br/>
+Nous attendons notre vie du Seigneur.<br/>
+Il est pour nous un appui, un bouclier.
+</p><p>
+La joie de notre coeur vient de Lui.<br/>
+Notre confiance est dans son nom très saint.<br/>
+Que ton amour, Seigneur, soit sur nous<br/>
+comme notre espoir est en toi !
+</p>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
