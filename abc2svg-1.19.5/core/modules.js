@@ -43,6 +43,7 @@ abc2svg.modules = {
   jianpu:       { fn: 'modules/jianpu.js' },
   mdnn  :       { fn: 'modules/mdnn.js' },
   wps:          { fn: 'modules/wps.js' },
+  gamelan:      { fn: 'modules/gamelan.js' },
 
   nreq: 0,
   hooks: [],
