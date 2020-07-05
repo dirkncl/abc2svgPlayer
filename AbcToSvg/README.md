@@ -13,9 +13,12 @@ li p{margin-left:0}
 
 #### https://dirkncl.github.io/abc2svgPlayer/AbcToSvg/index.xhtml?mdnn;../ABC/openhymnal/Amazing_Grace-New_Britain.abc
 
+
 ## Indonesian Music Number Notation
 newly developed by Mr. Jean-François Moine as the creator of the abc2svg program (http://moinejf.free.fr/js/).
 #### https://dirkncl.github.io/abc2svgPlayer/AbcToSvg/index.xhtml?imnn;../ABC/openhymnal/Amazing_Grace-New_Britain.abc
+or
+#### https://dirkncl.github.io/abc2svgPlayer/AbcToSvg/index.xhtml?gamelan;../ABC/openhymnal/Amazing_Grace-New_Britain.abc
 
 **abc2svg** is a set of Javascript files for handling
  [ABC music notation](http://abcnotation.com/). This includes
